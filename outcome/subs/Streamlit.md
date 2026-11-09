@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-04 | [I built an open-source Streamlit app to measure Instagram audience overlap (and stop paying $300/mo for SaaS…](https://www.reddit.com/r/Streamlit/comments/1xnmymz/i_built_an_opensource_streamlit_app_to_measure/) | u/mudrosrac | — | text | 1 | 0 | live | — |
-| 2 | 2026-11-03 | [Update: my Streamlit car lab now identifies merchants with NER and has a merchant research report](https://www.reddit.com/r/Streamlit/comments/1xn0mme/update_my_streamlit_car_lab_now_identifies/) | u/Herberton777 | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-10-30 | [Car Price Studio — an open-source used-car valuation app with explanations and a sense of humour](https://www.reddit.com/r/Streamlit/comments/1xj55dq/car_price_studio_an_opensource_usedcar_valuation/) | u/Herberton777 | — | text | 1 | 4 | live | — |
-| 4 | 2026-10-25 | [How we cut our Streamlit dashboard load time from 25s down to 12ms (and embedded a WebGL 3D Force-Graph witho…](https://www.reddit.com/r/Streamlit/comments/1xevw5z/how_we_cut_our_streamlit_dashboard_load_time_from/) | u/OpenComplaint524 | — | text | 11 | 2 | live | — |
-| 5 | 2026-10-13 | [Building a U.S.–Cuba Export Tracker with Python and the Census API](https://www.reddit.com/r/Streamlit/comments/1x4n9io/building_a_uscuba_export_tracker_with_python_and/) | u/Illustrious_Major_14 | — | peakd.com | 2 | 0 | live | — |
-| 6 | 2026-10-12 | [CSV Explorer](https://www.reddit.com/r/Streamlit/comments/1x43c7m/csv_explorer/) | u/King_kasim04 | — | text | 1 | 0 | spam-filtered | — |
-| 7 | 2026-10-11 | [I built a tool that checks job/internship emails for scams. Would love your feedback!](https://www.reddit.com/r/Streamlit/comments/1x32uk1/i_built_a_tool_that_checks_jobinternship_emails/) | u/Timely-Artist3051 | — | text | 1 | 1 | live | — |
-| 8 | 2026-10-01 | [Uncertainty Propagation Calculator with Streamlit](https://www.reddit.com/r/Streamlit/comments/1wvd2uv/uncertainty_propagation_calculator_with_streamlit/) | u/joao-canais | — | v.redd.it | 1 | 0 | live | — |
-| 9 | 2026-09-29 | [Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]](https://www.reddit.com/r/Streamlit/comments/1wt8kfj/built_an_executive_competitive_intelligence/) | u/AshrithKasula | — | text | 0 | 1 | approved | — |
-| 10 | 2026-09-29 | [Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]](https://www.reddit.com/r/Streamlit/comments/1wt50z4/built_an_executive_competitive_intelligence/) | u/AshrithKasula | — | text | 1 | 0 | deleted by author | — |
-| 11 | 2026-09-24 | [This video taught me how to properly use session state and callbacks in Streamlit](https://www.reddit.com/r/Streamlit/comments/1wotopx/this_video_taught_me_how_to_properly_use_session/) | u/One_Alternative8448 | — | — | 1 | 1 | live | — |
-| 12 | 2026-09-22 | [My first "complete" Streamlit app — trade analytics dashboard](https://www.reddit.com/r/Streamlit/comments/1wn1i8y/my_first_complete_streamlit_app_trade_analytics/) | u/Scared_Cranberry_337 | — | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-09-22 | [My first "complete" Streamlit app — trade analytics dashboard](https://www.reddit.com/r/Streamlit/comments/1wn1gp7/my_first_complete_streamlit_app_trade_analytics/) | u/Scared_Cranberry_337 | — | text | 1 | 0 | spam-filtered | — |
-| 14 | 2026-09-12 | [I built a local Hearthstone live log tracker using Streamlit and an ILP solver](https://www.reddit.com/r/Streamlit/comments/1wdyyp2/i_built_a_local_hearthstone_live_log_tracker/) | u/Warm-Vermicelli5601 | — | — | 1 | 0 | live | — |
-| 15 | 2026-09-10 | ["Color me Inspired" - Ian Lee](https://www.reddit.com/r/Streamlit/comments/1wcx8kp/color_me_inspired_ian_lee/) | u/DataHydration | — | text | 1 | 0 | live | — |
-| 16 | 2026-08-27 | [Streamlit UI loads (sidebar menu appears), but main page remains blank on Windows 11](https://www.reddit.com/r/Streamlit/comments/1vzyhs1/streamlit_ui_loads_sidebar_menu_appears_but_main/) | u/CurrentGlad3743 | — | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-08-13 | [`streamlit-coco 0.1.6 — copilot_rail() for embedding an agent without it eating the page`](https://www.reddit.com/r/Streamlit/comments/1vn7sxv/streamlitcoco_016_copilot_rail_for_embedding_an/) | u/Lopsided_Coat388 | — | text | 1 | 0 | live | — |
-| 18 | 2026-08-10 | [Best way to package a Python/Streamlit app as an EXE without exposing the source code?](https://www.reddit.com/r/Streamlit/comments/1vkb4tw/best_way_to_package_a_pythonstreamlit_app_as_an/) | u/LukeSkyShredder | — | — | 0 | 0 | live | — |
-| 19 | 2026-08-09 | [Built an open-source NASA Wildfire Tracker with Python & Streamlit – uses live satellite feeds and microclima…](https://www.reddit.com/r/Streamlit/comments/1vjh8st/built_an_opensource_nasa_wildfire_tracker_with/) | u/Mundane-Sundae5187 | — | text | 1 | 1 | live | — |
-| 20 | 2026-08-08 | [streamlit-coco — bring Snowflake CoCo (Cortex Code agent) into your Streamlit app](https://www.reddit.com/r/Streamlit/comments/1vj1aqn/streamlitcoco_bring_snowflake_coco_cortex_code/) | u/Lopsided_Coat388 | — | i.redd.it | 1 | 0 | live | — |
-| 21 | 2026-08-05 | [I built an AI Resume Analyzer using Python, Streamlit, and Gemini AI to give instant feedback on resumes.](https://www.reddit.com/r/Streamlit/comments/1vfx0i4/i_built_an_ai_resume_analyzer_using_python/) | u/Master_Ad5212 | — | text | 1 | 0 | spam-filtered | — |
-| 22 | 2026-08-02 | [Built an AI Text Detector with RoBERTa & Burstiness Analysis — looking for feedback!](https://www.reddit.com/r/Streamlit/comments/1vdjbh7/built_an_ai_text_detector_with_roberta_burstiness/) | u/TheTrueCopy | — | text | 1 | 0 | spam-filtered | — |
-| 23 | 2026-07-31 | [I created an Ollama/OpenAI powered TTRPG Notes Assistant](https://www.reddit.com/r/Streamlit/comments/1vc1dvc/i_created_an_ollamaopenai_powered_ttrpg_notes/) | u/Fluid_Plankton_3806 | — | text | 1 | 0 | deleted by author | — |
-| 24 | 2026-07-31 | [I created an AI TTRPPG Journal Assistant](https://www.reddit.com/r/Streamlit/comments/1vc1bxe/i_created_an_ai_ttrppg_journal_assistant/) | u/Fluid_Plankton_3806 | — | text | 1 | 0 | deleted by author | — |
-| 25 | 2026-07-31 | [I built an AI that remembers the topics you don't understand instead of making you ask the same doubt again.](https://www.reddit.com/r/Streamlit/comments/1vbfxco/i_built_an_ai_that_remembers_the_topics_you_dont/) | u/Wooden-Dig5191 | — | text | 1 | 0 | spam-filtered | — |
-| 26 | 2026-07-30 | [Day 3 of Building AxA 🚀 \| Added AI Revision Notes & Flashcards](https://www.reddit.com/r/Streamlit/comments/1vaj0t3/day_3_of_building_axa_added_ai_revision_notes/) | u/Wooden-Dig5191 | — | gdlc2fqusnkkznyr8wxujg.streamlit.app | 1 | 0 | spam-filtered | — |
-| 27 | 2026-07-29 | [st.chat_input new feature submit_mode (Need it in version 1.56.0)](https://www.reddit.com/r/Streamlit/comments/1vaacg6/stchat_input_new_feature_submit_mode_need_it_in/) | u/NatMicky | — | text | 2 | 0 | live | — |
-| 28 | 2026-07-29 | [Show and Tell: I got tired of rewriting admin boilerplates, so I built a modular dashboard using React 18, Vi…](https://www.reddit.com/r/Streamlit/comments/1v9xu6c/show_and_tell_i_got_tired_of_rewriting_admin/) | u/BTNVisuals | — | text | 1 | 0 | spam-filtered | — |
-| 29 | 2026-07-28 | [Athlete Management System (AMS) on Streamlit?](https://www.reddit.com/r/Streamlit/comments/1v91rhj/athlete_management_system_ams_on_streamlit/) | u/stfyyyyy | — | text | 5 | 13 | live | — |
-| 30 | 2026-07-24 | [a](https://www.reddit.com/r/Streamlit/comments/1v5prbs/a/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 31 | 2026-07-24 | [Built a real-time Fleet Management & Logistics Dashboard using Python, Streamlit, and PyDeck 🗺️⚡](https://www.reddit.com/r/Streamlit/comments/1v5p7rk/built_a_realtime_fleet_management_logistics/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 32 | 2026-07-23 | [Built an interactive dark-mode Fleet Management Dashboard entirely with Python and Streamlit 🚛](https://www.reddit.com/r/Streamlit/comments/1v4qtog/built_an_interactive_darkmode_fleet_management/) | u/selcukakin1905 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-07-23 | [Built a modern Fleet Management Map Dashboard with Streamlit 🚛](https://www.reddit.com/r/Streamlit/comments/1v4bioy/built_a_modern_fleet_management_map_dashboard/) | u/selcukakin1905 | — | text | 1 | 0 | live | — |
-| 34 | 2026-07-23 | [Built an interactive dark-mode Fleet Management Dashboard with Streamlit and PyDeck 🚛](https://www.reddit.com/r/Streamlit/comments/1v4a0k2/built_an_interactive_darkmode_fleet_management/) | u/selcukakin1905 | — | text | 1 | 0 | live | — |
-| 35 | 2026-07-23 | [Built a modern Fleet Management Map Dashboard with Streamlit 🚛 (Launch promo for the first 50 people)](https://www.reddit.com/r/Streamlit/comments/1v49yhd/built_a_modern_fleet_management_map_dashboard/) | u/selcukakin1905 | — | text | 1 | 0 | spam-filtered | — |
-| 36 | 2026-07-20 | [I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screenin…](https://www.reddit.com/r/Streamlit/comments/1v1uqrl/i_built_an_interactive_web_simulator_for_a/) | u/Aldiyar_A | — | i.redd.it | 2 | 0 | live | — |
-| 37 | 2026-07-18 | [Embedded Streamlit app in webpage iframe. Scroll issue on iphone/safari](https://www.reddit.com/r/Streamlit/comments/1uzztja/embedded_streamlit_app_in_webpage_iframe_scroll/) | u/Ok_Bug_4120 | — | text | 1 | 0 | live | — |
-| 38 | 2026-07-15 | [I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screenin…](https://www.reddit.com/r/Streamlit/comments/1uxmra0/i_built_an_interactive_web_simulator_for_a/) | u/Aldiyar_A | — | i.redd.it | 1 | 0 | deleted by author | — |
-| 39 | 2026-02-03 | [Ken McGrady said my question was "certainly a tough one"—Here is the Portfolio Analytics Lab I mentioned in t…](https://www.reddit.com/r/Streamlit/comments/1quulyz/ken_mcgrady_said_my_question_was_certainly_a/) | u/Dame-Sky | — | /r/Streamlit/comments/1quulyz/ken_mcgrady_said_my_question_was_certainly_a/ | 1 | 1 | live | — |
-| 40 | 2026-02-03 | [Logic-First Portfolio Analytics: Applying my MSc Finance to Streamlit (and a CSS workaround for Sticky Header…](https://www.reddit.com/r/Streamlit/comments/1quu9sm/logicfirst_portfolio_analytics_applying_my_msc/) | u/Dame-Sky | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 41 | 2025-11-14 | [Streamlit Meetup in the Bay Area](https://www.reddit.com/r/Streamlit/comments/1ox9cew/streamlit_meetup_in_the_bay_area/) | u/JessSm3 | — | text | 2 | 0 | live | — |
-| 42 | 2025-11-12 | [Not receiving log in emails + app not working anymore.](https://www.reddit.com/r/Streamlit/comments/1ov66cm/not_receiving_log_in_emails_app_not_working/) | u/yokingato | — | text | 1 | 0 | live | — |
-| 43 | 2025-11-11 | [My open source drag and drop component](https://www.reddit.com/r/Streamlit/comments/1oua78n/my_open_source_drag_and_drop_component/) | u/gaboqv | — | text | 2 | 0 | live | — |
-| 44 | 2025-11-10 | [Just started building apps with Streamlit — how far can the UI/UX go?](https://www.reddit.com/r/Streamlit/comments/1otieau/just_started_building_apps_with_streamlit_how_far/) | u/PhoneGreen675 | — | text | 3 | 2 | live | — |
-| 45 | 2025-11-06 | [Best Streamlit Performance Testing Tools?](https://www.reddit.com/r/Streamlit/comments/1oqer32/best_streamlit_performance_testing_tools/) | u/StuckWithSports | — | text | 3 | 0 | live | — |
-| 46 | 2025-11-06 | [streamit ideas](https://www.reddit.com/r/Streamlit/comments/1oq323g/streamit_ideas/) | u/Last-Road-93 | — | text | 0 | 0 | live | — |
-| 47 | 2025-11-06 | [Wait, This Was Built in Streamlit? — 10 Best Streamlit Design Tips for Dashboards](https://www.reddit.com/r/Streamlit/comments/1oq1jwr/wait_this_was_built_in_streamlit_10_best/) | u/Historical-Mud-8205 | — | text | 6 | 2 | live | — |
-| 48 | 2025-10-31 | [Simple streamlit web app to create and track stock portfolios](https://www.reddit.com/r/Streamlit/comments/1okvg3e/simple_streamlit_web_app_to_create_and_track/) | u/ughthisguyagain1111 | — | i.redd.it | 14 | 1 | live | — |
-| 49 | 2025-10-30 | [st_yled for beautiful, custom Streamlit components and layouts](https://www.reddit.com/r/Streamlit/comments/1ojv3kk/st_yled_for_beautiful_custom_streamlit_components/) | u/QueasyVarieties | — | i.redd.it | 6 | 2 | live | — |
-| 50 | 2025-10-29 | [My first Streamlit app. A simple weather dashboard built for learning API handling](https://www.reddit.com/r/Streamlit/comments/1ojhn4y/my_first_streamlit_app_a_simple_weather_dashboard/) | u/amkodoo | — | text | 1 | 0 | spam-filtered | — |
+| 1 | 2026-11-04 | [I built an open-source Streamlit app to measure Instagram audience overlap (and stop paying $300/mo for SaaS…](#post-1) | u/mudrosrac | — | text | 1 | 0 | live | — |
+| 2 | 2026-11-03 | [Update: my Streamlit car lab now identifies merchants with NER and has a merchant research report](#post-2) | u/Herberton777 | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-10-30 | [Car Price Studio — an open-source used-car valuation app with explanations and a sense of humour](#post-3) | u/Herberton777 | — | text | 1 | 4 | live | — |
+| 4 | 2026-10-25 | [How we cut our Streamlit dashboard load time from 25s down to 12ms (and embedded a WebGL 3D Force-Graph witho…](#post-4) | u/OpenComplaint524 | — | text | 11 | 2 | live | — |
+| 5 | 2026-10-13 | [Building a U.S.–Cuba Export Tracker with Python and the Census API](#post-5) | u/Illustrious_Major_14 | — | peakd.com | 2 | 0 | live | — |
+| 6 | 2026-10-12 | [CSV Explorer](#post-6) | u/King_kasim04 | — | text | 1 | 0 | spam-filtered | — |
+| 7 | 2026-10-11 | [I built a tool that checks job/internship emails for scams. Would love your feedback!](#post-7) | u/Timely-Artist3051 | — | text | 1 | 1 | live | — |
+| 8 | 2026-10-01 | [Uncertainty Propagation Calculator with Streamlit](#post-8) | u/joao-canais | — | v.redd.it | 1 | 0 | live | — |
+| 9 | 2026-09-29 | [Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]](#post-9) | u/AshrithKasula | — | text | 0 | 1 | approved | — |
+| 10 | 2026-09-29 | [Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]](#post-10) | u/AshrithKasula | — | text | 1 | 0 | deleted by author | — |
+| 11 | 2026-09-24 | [This video taught me how to properly use session state and callbacks in Streamlit](#post-11) | u/One_Alternative8448 | — | — | 1 | 1 | live | — |
+| 12 | 2026-09-22 | [My first "complete" Streamlit app — trade analytics dashboard](#post-12) | u/Scared_Cranberry_337 | — | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-09-22 | [My first "complete" Streamlit app — trade analytics dashboard](#post-13) | u/Scared_Cranberry_337 | — | text | 1 | 0 | spam-filtered | — |
+| 14 | 2026-09-12 | [I built a local Hearthstone live log tracker using Streamlit and an ILP solver](#post-14) | u/Warm-Vermicelli5601 | — | — | 1 | 0 | live | — |
+| 15 | 2026-09-10 | ["Color me Inspired" - Ian Lee](#post-15) | u/DataHydration | — | text | 1 | 0 | live | — |
+| 16 | 2026-08-27 | [Streamlit UI loads (sidebar menu appears), but main page remains blank on Windows 11](#post-16) | u/CurrentGlad3743 | — | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-08-13 | [`streamlit-coco 0.1.6 — copilot_rail() for embedding an agent without it eating the page`](#post-17) | u/Lopsided_Coat388 | — | text | 1 | 0 | live | — |
+| 18 | 2026-08-10 | [Best way to package a Python/Streamlit app as an EXE without exposing the source code?](#post-18) | u/LukeSkyShredder | — | — | 0 | 0 | live | — |
+| 19 | 2026-08-09 | [Built an open-source NASA Wildfire Tracker with Python & Streamlit – uses live satellite feeds and microclima…](#post-19) | u/Mundane-Sundae5187 | — | text | 1 | 1 | live | — |
+| 20 | 2026-08-08 | [streamlit-coco — bring Snowflake CoCo (Cortex Code agent) into your Streamlit app](#post-20) | u/Lopsided_Coat388 | — | i.redd.it | 1 | 0 | live | — |
+| 21 | 2026-08-05 | [I built an AI Resume Analyzer using Python, Streamlit, and Gemini AI to give instant feedback on resumes.](#post-21) | u/Master_Ad5212 | — | text | 1 | 0 | spam-filtered | — |
+| 22 | 2026-08-02 | [Built an AI Text Detector with RoBERTa & Burstiness Analysis — looking for feedback!](#post-22) | u/TheTrueCopy | — | text | 1 | 0 | spam-filtered | — |
+| 23 | 2026-07-31 | [I created an Ollama/OpenAI powered TTRPG Notes Assistant](#post-23) | u/Fluid_Plankton_3806 | — | text | 1 | 0 | deleted by author | — |
+| 24 | 2026-07-31 | [I created an AI TTRPPG Journal Assistant](#post-24) | u/Fluid_Plankton_3806 | — | text | 1 | 0 | deleted by author | — |
+| 25 | 2026-07-31 | [I built an AI that remembers the topics you don't understand instead of making you ask the same doubt again.](#post-25) | u/Wooden-Dig5191 | — | text | 1 | 0 | spam-filtered | — |
+| 26 | 2026-07-30 | [Day 3 of Building AxA 🚀 \| Added AI Revision Notes & Flashcards](#post-26) | u/Wooden-Dig5191 | — | gdlc2fqusnkkznyr8wxujg.streamlit.app | 1 | 0 | spam-filtered | — |
+| 27 | 2026-07-29 | [st.chat_input new feature submit_mode (Need it in version 1.56.0)](#post-27) | u/NatMicky | — | text | 2 | 0 | live | — |
+| 28 | 2026-07-29 | [Show and Tell: I got tired of rewriting admin boilerplates, so I built a modular dashboard using React 18, Vi…](#post-28) | u/BTNVisuals | — | text | 1 | 0 | spam-filtered | — |
+| 29 | 2026-07-28 | [Athlete Management System (AMS) on Streamlit?](#post-29) | u/stfyyyyy | — | text | 5 | 13 | live | — |
+| 30 | 2026-07-24 | [a](#post-30) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 31 | 2026-07-24 | [Built a real-time Fleet Management & Logistics Dashboard using Python, Streamlit, and PyDeck 🗺️⚡](#post-31) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 32 | 2026-07-23 | [Built an interactive dark-mode Fleet Management Dashboard entirely with Python and Streamlit 🚛](#post-32) | u/selcukakin1905 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-07-23 | [Built a modern Fleet Management Map Dashboard with Streamlit 🚛](#post-33) | u/selcukakin1905 | — | text | 1 | 0 | live | — |
+| 34 | 2026-07-23 | [Built an interactive dark-mode Fleet Management Dashboard with Streamlit and PyDeck 🚛](#post-34) | u/selcukakin1905 | — | text | 1 | 0 | live | — |
+| 35 | 2026-07-23 | [Built a modern Fleet Management Map Dashboard with Streamlit 🚛 (Launch promo for the first 50 people)](#post-35) | u/selcukakin1905 | — | text | 1 | 0 | spam-filtered | — |
+| 36 | 2026-07-20 | [I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screenin…](#post-36) | u/Aldiyar_A | — | i.redd.it | 2 | 0 | live | — |
+| 37 | 2026-07-18 | [Embedded Streamlit app in webpage iframe. Scroll issue on iphone/safari](#post-37) | u/Ok_Bug_4120 | — | text | 1 | 0 | live | — |
+| 38 | 2026-07-15 | [I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screenin…](#post-38) | u/Aldiyar_A | — | i.redd.it | 1 | 0 | deleted by author | — |
+| 39 | 2026-02-03 | [Ken McGrady said my question was "certainly a tough one"—Here is the Portfolio Analytics Lab I mentioned in t…](#post-39) | u/Dame-Sky | — | /r/Streamlit/comments/1quulyz/ken_mcgrady_said_my_question_was_certainly_a/ | 1 | 1 | live | — |
+| 40 | 2026-02-03 | [Logic-First Portfolio Analytics: Applying my MSc Finance to Streamlit (and a CSS workaround for Sticky Header…](#post-40) | u/Dame-Sky | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 41 | 2025-11-14 | [Streamlit Meetup in the Bay Area](#post-41) | u/JessSm3 | — | text | 2 | 0 | live | — |
+| 42 | 2025-11-12 | [Not receiving log in emails + app not working anymore.](#post-42) | u/yokingato | — | text | 1 | 0 | live | — |
+| 43 | 2025-11-11 | [My open source drag and drop component](#post-43) | u/gaboqv | — | text | 2 | 0 | live | — |
+| 44 | 2025-11-10 | [Just started building apps with Streamlit — how far can the UI/UX go?](#post-44) | u/PhoneGreen675 | — | text | 3 | 2 | live | — |
+| 45 | 2025-11-06 | [Best Streamlit Performance Testing Tools?](#post-45) | u/StuckWithSports | — | text | 3 | 0 | live | — |
+| 46 | 2025-11-06 | [streamit ideas](#post-46) | u/Last-Road-93 | — | text | 0 | 0 | live | — |
+| 47 | 2025-11-06 | [Wait, This Was Built in Streamlit? — 10 Best Streamlit Design Tips for Dashboards](#post-47) | u/Historical-Mud-8205 | — | text | 6 | 2 | live | — |
+| 48 | 2025-10-31 | [Simple streamlit web app to create and track stock portfolios](#post-48) | u/ughthisguyagain1111 | — | i.redd.it | 14 | 1 | live | — |
+| 49 | 2025-10-30 | [st_yled for beautiful, custom Streamlit components and layouts](#post-49) | u/QueasyVarieties | — | i.redd.it | 6 | 2 | live | — |
+| 50 | 2025-10-29 | [My first Streamlit app. A simple weather dashboard built for learning API handling](#post-50) | u/amkodoo | — | text | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,19 +86,21 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | 2026-10-25 | [How we cut our Streamlit dashboard load time from 25s down to 12ms (and embedded a WebGL 3D Force-Graph witho…](https://www.reddit.com/r/Streamlit/comments/1xevw5z/how_we_cut_our_streamlit_dashboard_load_time_from/) | u/OpenComplaint524 | — | text | 11 | 2 | live |
-| 5 | 2026-10-13 | [Building a U.S.–Cuba Export Tracker with Python and the Census API](https://www.reddit.com/r/Streamlit/comments/1x4n9io/building_a_uscuba_export_tracker_with_python_and/) | u/Illustrious_Major_14 | — | peakd.com | 2 | 0 | live |
-| 3 | 2026-10-30 | [Car Price Studio — an open-source used-car valuation app with explanations and a sense of humour](https://www.reddit.com/r/Streamlit/comments/1xj55dq/car_price_studio_an_opensource_usedcar_valuation/) | u/Herberton777 | — | text | 1 | 4 | live |
-| 7 | 2026-10-11 | [I built a tool that checks job/internship emails for scams. Would love your feedback!](https://www.reddit.com/r/Streamlit/comments/1x32uk1/i_built_a_tool_that_checks_jobinternship_emails/) | u/Timely-Artist3051 | — | text | 1 | 1 | live |
-| 1 | 2026-11-04 | [I built an open-source Streamlit app to measure Instagram audience overlap (and stop paying $300/mo for SaaS…](https://www.reddit.com/r/Streamlit/comments/1xnmymz/i_built_an_opensource_streamlit_app_to_measure/) | u/mudrosrac | — | text | 1 | 0 | live |
+| 4 | 2026-10-25 | [How we cut our Streamlit dashboard load time from 25s down to 12ms (and embedded a WebGL 3D Force-Graph witho…](#post-4) | u/OpenComplaint524 | — | text | 11 | 2 | live |
+| 5 | 2026-10-13 | [Building a U.S.–Cuba Export Tracker with Python and the Census API](#post-5) | u/Illustrious_Major_14 | — | peakd.com | 2 | 0 | live |
+| 3 | 2026-10-30 | [Car Price Studio — an open-source used-car valuation app with explanations and a sense of humour](#post-3) | u/Herberton777 | — | text | 1 | 4 | live |
+| 7 | 2026-10-11 | [I built a tool that checks job/internship emails for scams. Would love your feedback!](#post-7) | u/Timely-Artist3051 | — | text | 1 | 1 | live |
+| 1 | 2026-11-04 | [I built an open-source Streamlit app to measure Instagram audience overlap (and stop paying $300/mo for SaaS…](#post-1) | u/mudrosrac | — | text | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. I built an open-source Streamlit app to measure Instagram audience overlap (and stop paying $300/mo for SaaS tools)
 
-2026-11-04 · u/mudrosrac · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xnmymz/i_built_an_opensource_streamlit_app_to_measure/)
+2026-11-04 · u/mudrosrac · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xnmymz/i_built_an_opensource_streamlit_app_to_measure/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/streamlit!
 >
@@ -133,15 +135,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you find it useful or if it saves you a costly subscription, I'd really appreciate a ⭐️ on GitHub! Feedback, PRs, and feature ideas are more than welcome.
 
+<a id="post-2"></a>
+
 ### 2. Update: my Streamlit car lab now identifies merchants with NER and has a merchant research report
 
-2026-11-03 · u/Herberton777 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xn0mme/update_my_streamlit_car_lab_now_identifies/)
+2026-11-03 · u/Herberton777 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xn0mme/update_my_streamlit_car_lab_now_identifies/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Car Price Studio — an open-source used-car valuation app with explanations and a sense of humour
 
-2026-10-30 · u/Herberton777 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xj55dq/car_price_studio_an_opensource_usedcar_valuation/)
+2026-10-30 · u/Herberton777 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xj55dq/car_price_studio_an_opensource_usedcar_valuation/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -169,9 +175,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I’d particularly appreciate UX feedback: \*\*which explanation helps you understand the estimate, and which panel makes you want to close the browser?\*\*
 
+<a id="post-4"></a>
+
 ### 4. How we cut our Streamlit dashboard load time from 25s down to 12ms (and embedded a WebGL 3D Force-Graph without rerun lag)
 
-2026-10-25 · u/OpenComplaint524 · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xevw5z/how_we_cut_our_streamlit_dashboard_load_time_from/)
+2026-10-25 · u/OpenComplaint524 · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1xevw5z/how_we_cut_our_streamlit_dashboard_load_time_from/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/Streamlit,
 >
@@ -199,23 +207,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > (Note: English is not my native language, so I used an LLM to help format and polish my raw dev notes!)
 
+<a id="post-5"></a>
+
 ### 5. Building a U.S.–Cuba Export Tracker with Python and the Census API
 
-2026-10-13 · u/Illustrious_Major_14 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x4n9io/building_a_uscuba_export_tracker_with_python_and/)
+2026-10-13 · u/Illustrious_Major_14 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x4n9io/building_a_uscuba_export_tracker_with_python_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://peakd.com/@limonta/building-a-u-s-cuba>
 
 > Claude picked Streamlit to run this tool, and it has worked quite well. I didn't know about this solution. Impressive.
 
+<a id="post-6"></a>
+
 ### 6. CSV Explorer
 
-2026-10-12 · u/King_kasim04 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x43c7m/csv_explorer/)
+2026-10-12 · u/King_kasim04 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x43c7m/csv_explorer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. I built a tool that checks job/internship emails for scams. Would love your feedback!
 
-2026-10-11 · u/Timely-Artist3051 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x32uk1/i_built_a_tool_that_checks_jobinternship_emails/)
+2026-10-11 · u/Timely-Artist3051 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1x32uk1/i_built_a_tool_that_checks_jobinternship_emails/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! 👋I built a small tool to check a job related message before you reply. Sharing it here because I'd really like your feedback.
 >
@@ -231,9 +245,11 @@ Link: <https://peakd.com/@limonta/building-a-u-s-cuba>
 >
 > The 👍 / 👎 buttons under each result help a lot . If a result is wrong, tick "Share the message text" before tapping 👎 so I can see what went wrong. Thanks for reading.
 
+<a id="post-8"></a>
+
 ### 8. Uncertainty Propagation Calculator with Streamlit
 
-2026-10-01 · u/joao-canais · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wvd2uv/uncertainty_propagation_calculator_with_streamlit/)
+2026-10-01 · u/joao-canais · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wvd2uv/uncertainty_propagation_calculator_with_streamlit/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/68iityr7lxsh1>
 
@@ -255,9 +271,11 @@ Link: <https://v.redd.it/68iityr7lxsh1>
 >
 > I'd love to hear your thoughts, UI/UX feedback, or ideas for features to add in future iterations!
 
+<a id="post-9"></a>
+
 ### 9. Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]
 
-2026-09-29 · u/AshrithKasula · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wt8kfj/built_an_executive_competitive_intelligence/)
+2026-09-29 · u/AshrithKasula · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wt8kfj/built_an_executive_competitive_intelligence/) · [↑ back to the list](#last-50-posts)
 
 > # Hey [r/Streamlit](https://www.reddit.com/r/Streamlit/)!
 >
@@ -281,9 +299,11 @@ Link: <https://v.redd.it/68iityr7lxsh1>
 >
 > Feedback, issues, or PRs are always welcome!
 
+<a id="post-10"></a>
+
 ### 10. Built an Executive Competitive Intelligence Dashboard using Streamlit, Groq, and Hindsight SDK \[OC\]
 
-2026-09-29 · u/AshrithKasula · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wt50z4/built_an_executive_competitive_intelligence/)
+2026-09-29 · u/AshrithKasula · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wt50z4/built_an_executive_competitive_intelligence/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/Streamlit! 
 >
@@ -315,35 +335,45 @@ Link: <https://v.redd.it/68iityr7lxsh1>
 >
 > Feedback, issues, or PRs are always welcome!
 
+<a id="post-11"></a>
+
 ### 11. This video taught me how to properly use session state and callbacks in Streamlit
 
-2026-09-24 · u/One_Alternative8448 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wotopx/this_video_taught_me_how_to_properly_use_session/)
+2026-09-24 · u/One_Alternative8448 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wotopx/this_video_taught_me_how_to_properly_use_session/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PythonLearning/comments/1wnzv59/this_video_taught_me_how_to_properly_use_session/>
 
 
+<a id="post-12"></a>
+
 ### 12. My first "complete" Streamlit app — trade analytics dashboard
 
-2026-09-22 · u/Scared_Cranberry_337 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wn1i8y/my_first_complete_streamlit_app_trade_analytics/)
+2026-09-22 · u/Scared_Cranberry_337 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wn1i8y/my_first_complete_streamlit_app_trade_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-13"></a>
 
 ### 13. My first "complete" Streamlit app — trade analytics dashboard
 
-2026-09-22 · u/Scared_Cranberry_337 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wn1gp7/my_first_complete_streamlit_app_trade_analytics/)
+2026-09-22 · u/Scared_Cranberry_337 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wn1gp7/my_first_complete_streamlit_app_trade_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. I built a local Hearthstone live log tracker using Streamlit and an ILP solver
 
-2026-09-12 · u/Warm-Vermicelli5601 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wdyyp2/i_built_a_local_hearthstone_live_log_tracker/)
+2026-09-12 · u/Warm-Vermicelli5601 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wdyyp2/i_built_a_local_hearthstone_live_log_tracker/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/BobsTavern/comments/1wdyqq8/i_made_bgiq_an_opensource_toscompliant_overlay/>
 
 
+<a id="post-15"></a>
+
 ### 15. "Color me Inspired" - Ian Lee
 
-2026-09-10 · u/DataHydration · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wcx8kp/color_me_inspired_ian_lee/)
+2026-09-10 · u/DataHydration · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1wcx8kp/color_me_inspired_ian_lee/) · [↑ back to the list](#last-50-posts)
 
 > Built an interactive tribute to Pharrell Williams' highlighting some key moments in his career following his 2024 LEGO documentary "Piece by Piece."
 >
@@ -361,15 +391,19 @@ Link: </r/BobsTavern/comments/1wdyqq8/i_made_bgiq_an_opensource_toscompliant_ove
 >
 > Unofficial fan project — not affiliated with Pharrell Williams, the LEGO Group, or Focus Features.
 
+<a id="post-16"></a>
+
 ### 16. Streamlit UI loads (sidebar menu appears), but main page remains blank on Windows 11
 
-2026-08-27 · u/CurrentGlad3743 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vzyhs1/streamlit_ui_loads_sidebar_menu_appears_but_main/)
+2026-08-27 · u/CurrentGlad3743 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vzyhs1/streamlit_ui_loads_sidebar_menu_appears_but_main/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. `streamlit-coco 0.1.6 — copilot_rail() for embedding an agent without it eating the page`
 
-2026-08-13 · u/Lopsided_Coat388 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vn7sxv/streamlitcoco_016_copilot_rail_for_embedding_an/)
+2026-08-13 · u/Lopsided_Coat388 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vn7sxv/streamlitcoco_016_copilot_rail_for_embedding_an/) · [↑ back to the list](#last-50-posts)
 
 > Maintainer here. If you've put a long-running agent next to a Streamlit wizard, you already know the rerun tax: the transcript grows all afternoon, every widget interaction re-renders it, and the agent slowly becomes the app.
 >
@@ -394,41 +428,53 @@ Link: </r/BobsTavern/comments/1wdyqq8/i_made_bgiq_an_opensource_toscompliant_ove
 >
 >     https://github.com/DevoteamSP/streamlit-coco
 
+<a id="post-18"></a>
+
 ### 18. Best way to package a Python/Streamlit app as an EXE without exposing the source code?
 
-2026-08-10 · u/LukeSkyShredder · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vkb4tw/best_way_to_package_a_pythonstreamlit_app_as_an/)
+2026-08-10 · u/LukeSkyShredder · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vkb4tw/best_way_to_package_a_pythonstreamlit_app_as_an/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PythonLearning/comments/1vkb3w8/best_way_to_package_a_pythonstreamlit_app_as_an/>
 
 
+<a id="post-19"></a>
+
 ### 19. Built an open-source NASA Wildfire Tracker with Python & Streamlit – uses live satellite feeds and microclimate risk modeling
 
-2026-08-09 · u/Mundane-Sundae5187 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vjh8st/built_an_opensource_nasa_wildfire_tracker_with/)
+2026-08-09 · u/Mundane-Sundae5187 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vjh8st/built_an_opensource_nasa_wildfire_tracker_with/) · [↑ back to the list](#last-50-posts)
 
 > >
 
+<a id="post-20"></a>
+
 ### 20. streamlit-coco — bring Snowflake CoCo (Cortex Code agent) into your Streamlit app
 
-2026-08-08 · u/Lopsided_Coat388 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vj1aqn/streamlitcoco_bring_snowflake_coco_cortex_code/)
+2026-08-08 · u/Lopsided_Coat388 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vj1aqn/streamlitcoco_bring_snowflake_coco_cortex_code/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/li78wp6un6ih1.png>
 
 
+<a id="post-21"></a>
+
 ### 21. I built an AI Resume Analyzer using Python, Streamlit, and Gemini AI to give instant feedback on resumes.
 
-2026-08-05 · u/Master_Ad5212 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vfx0i4/i_built_an_ai_resume_analyzer_using_python/)
+2026-08-05 · u/Master_Ad5212 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vfx0i4/i_built_an_ai_resume_analyzer_using_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-22"></a>
 
 ### 22. Built an AI Text Detector with RoBERTa & Burstiness Analysis — looking for feedback!
 
-2026-08-02 · u/TheTrueCopy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vdjbh7/built_an_ai_text_detector_with_roberta_burstiness/)
+2026-08-02 · u/TheTrueCopy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vdjbh7/built_an_ai_text_detector_with_roberta_burstiness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-23"></a>
 
 ### 23. I created an Ollama/OpenAI powered TTRPG Notes Assistant
 
-2026-07-31 · u/Fluid_Plankton_3806 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vc1dvc/i_created_an_ollamaopenai_powered_ttrpg_notes/)
+2026-07-31 · u/Fluid_Plankton_3806 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vc1dvc/i_created_an_ollamaopenai_powered_ttrpg_notes/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, I recently published the first release of my project: [https://github.com/genericmag3/TTRPGRagChatbot/tree/dev](https://github.com/genericmag3/TTRPGRagChatbot/tree/dev)
 >
@@ -468,10 +514,12 @@ Link: <https://i.redd.it/li78wp6un6ih1.png>
 > All you need is Ollama and at least one LLM installed.
 >
 > Thanks in advance for your feedback.
+
+<a id="post-24"></a>
 
 ### 24. I created an AI TTRPPG Journal Assistant
 
-2026-07-31 · u/Fluid_Plankton_3806 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vc1bxe/i_created_an_ai_ttrppg_journal_assistant/)
+2026-07-31 · u/Fluid_Plankton_3806 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vc1bxe/i_created_an_ai_ttrppg_journal_assistant/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, I recently published the first release of my project: [https://github.com/genericmag3/TTRPGRagChatbot/tree/dev](https://github.com/genericmag3/TTRPGRagChatbot/tree/dev)
 >
@@ -512,15 +560,19 @@ Link: <https://i.redd.it/li78wp6un6ih1.png>
 >
 > Thanks in advance for your feedback.
 
+<a id="post-25"></a>
+
 ### 25. I built an AI that remembers the topics you don't understand instead of making you ask the same doubt again.
 
-2026-07-31 · u/Wooden-Dig5191 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vbfxco/i_built_an_ai_that_remembers_the_topics_you_dont/)
+2026-07-31 · u/Wooden-Dig5191 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vbfxco/i_built_an_ai_that_remembers_the_topics_you_dont/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. Day 3 of Building AxA 🚀 \| Added AI Revision Notes & Flashcards
 
-2026-07-30 · u/Wooden-Dig5191 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vaj0t3/day_3_of_building_axa_added_ai_revision_notes/)
+2026-07-30 · u/Wooden-Dig5191 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vaj0t3/day_3_of_building_axa_added_ai_revision_notes/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://gdlc2fqusnkkznyr8wxujg.streamlit.app/>
 
@@ -542,9 +594,11 @@ Link: <https://gdlc2fqusnkkznyr8wxujg.streamlit.app/>
 >
 > Feedback and suggestions are always welcome!
 
+<a id="post-27"></a>
+
 ### 27. st.chat_input new feature submit_mode (Need it in version 1.56.0)
 
-2026-07-29 · u/NatMicky · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vaacg6/stchat_input_new_feature_submit_mode_need_it_in/)
+2026-07-29 · u/NatMicky · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1vaacg6/stchat_input_new_feature_submit_mode_need_it_in/) · [↑ back to the list](#last-50-posts)
 
 > Dear Streamlit Development Team, 
 >
@@ -556,41 +610,53 @@ Link: <https://gdlc2fqusnkkznyr8wxujg.streamlit.app/>
 >
 > I compile my app using Nuitka and Nuitka is not yet compiling for the newer Streamlit versions with Uvicorn and Starlette.  Is there anyway you all could release small patches to older versions with some of these new features?  Please...
 
+<a id="post-28"></a>
+
 ### 28. Show and Tell: I got tired of rewriting admin boilerplates, so I built a modular dashboard using React 18, Vite, and Tailwind. Looking for architectural feedback!
 
-2026-07-29 · u/BTNVisuals · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v9xu6c/show_and_tell_i_got_tired_of_rewriting_admin/)
+2026-07-29 · u/BTNVisuals · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v9xu6c/show_and_tell_i_got_tired_of_rewriting_admin/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. Athlete Management System (AMS) on Streamlit?
 
-2026-07-28 · u/stfyyyyy · score 5 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v91rhj/athlete_management_system_ams_on_streamlit/)
+2026-07-28 · u/stfyyyyy · score 5 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v91rhj/athlete_management_system_ams_on_streamlit/) · [↑ back to the list](#last-50-posts)
 
 > Hello all! I'm entertaining the idea of creating an AMS on Streamlit for the sports team I work for. We currently host our athlete monitoring data on RConnect and it simply isn't cutting it. Some vendors offering built-in AMS are expensive and I'm up for a challenge to expand my own skillset instead.
 >
 > Has anyone done this? How is Streamlit in terms of visual flexibility? The goal is to have this system serve around 50-100 people. Curious to hear anyone's thoughts. Thanks!
 
+<a id="post-30"></a>
+
 ### 30. a
 
-2026-07-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v5prbs/a/)
+2026-07-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v5prbs/a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-31"></a>
 
 ### 31. Built a real-time Fleet Management & Logistics Dashboard using Python, Streamlit, and PyDeck 🗺️⚡
 
-2026-07-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v5p7rk/built_a_realtime_fleet_management_logistics/)
+2026-07-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v5p7rk/built_a_realtime_fleet_management_logistics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-32"></a>
 
 ### 32. Built an interactive dark-mode Fleet Management Dashboard entirely with Python and Streamlit 🚛
 
-2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4qtog/built_an_interactive_darkmode_fleet_management/)
+2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4qtog/built_an_interactive_darkmode_fleet_management/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. Built a modern Fleet Management Map Dashboard with Streamlit 🚛
 
-2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4bioy/built_a_modern_fleet_management_map_dashboard/)
+2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4bioy/built_a_modern_fleet_management_map_dashboard/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -602,9 +668,11 @@ Link: <https://gdlc2fqusnkkznyr8wxujg.streamlit.app/>
 >
 > https://preview.redd.it/mavhpgkpvyeh1.png?width=4112&format=png&auto=webp&s=500b6bb4efa28ceae0e7d726cee593e5ff0fc04d
 
+<a id="post-34"></a>
+
 ### 34. Built an interactive dark-mode Fleet Management Dashboard with Streamlit and PyDeck 🚛
 
-2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4a0k2/built_an_interactive_darkmode_fleet_management/)
+2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v4a0k2/built_an_interactive_darkmode_fleet_management/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -616,15 +684,19 @@ Link: <https://gdlc2fqusnkkznyr8wxujg.streamlit.app/>
 >
 > https://preview.redd.it/a057v1ijiyeh1.png?width=4112&format=png&auto=webp&s=57b6097b90cbf15797a87081b9f9141efabc8433
 
+<a id="post-35"></a>
+
 ### 35. Built a modern Fleet Management Map Dashboard with Streamlit 🚛 (Launch promo for the first 50 people)
 
-2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v49yhd/built_a_modern_fleet_management_map_dashboard/)
+2026-07-23 · u/selcukakin1905 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v49yhd/built_a_modern_fleet_management_map_dashboard/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screening!
 
-2026-07-20 · u/Aldiyar_A · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v1uqrl/i_built_an_interactive_web_simulator_for_a/)
+2026-07-20 · u/Aldiyar_A · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1v1uqrl/i_built_an_interactive_web_simulator_for_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/835qonxfnfeh1.png>
 
@@ -652,17 +724,21 @@ Link: <https://i.redd.it/835qonxfnfeh1.png>
 >
 > (Just copy-paste the addresses above into your browser! Let me know what you think! 🚀)
 
+<a id="post-37"></a>
+
 ### 37. Embedded Streamlit app in webpage iframe. Scroll issue on iphone/safari
 
-2026-07-18 · u/Ok_Bug_4120 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1uzztja/embedded_streamlit_app_in_webpage_iframe_scroll/)
+2026-07-18 · u/Ok_Bug_4120 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1uzztja/embedded_streamlit_app_in_webpage_iframe_scroll/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I built an app on Streamlit, embedded it on my website. The iframe on my page has a fixed height, and when the user uses the app (chatbot, therefore dynamic extending page) and scrolls down to the bottom, they can't scroll back up over the height of the iframe. (on android works fine, as it switches automatically the scrolling from inside the iframe to outside, the webpage, very nicely).
 >
 > Has anyone had to deal with the same issue? How can i get out of it? Any help very well appreciated.
 
+<a id="post-38"></a>
+
 ### 38. I built an interactive web simulator for a non-thermal p-11B fusion reactor with first-wall material screening!
 
-2026-07-15 · u/Aldiyar_A · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1uxmra0/i_built_an_interactive_web_simulator_for_a/)
+2026-07-15 · u/Aldiyar_A · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1uxmra0/i_built_an_interactive_web_simulator_for_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7vb6wqquehdh1.png>
 
@@ -704,9 +780,11 @@ Link: <https://i.redd.it/7vb6wqquehdh1.png>
 >
 > Let me know what you think! 🚀
 
+<a id="post-39"></a>
+
 ### 39. Ken McGrady said my question was "certainly a tough one"—Here is the Portfolio Analytics Lab I mentioned in the Virtual Meetup!
 
-2026-02-03 · u/Dame-Sky · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1quulyz/ken_mcgrady_said_my_question_was_certainly_a/)
+2026-02-03 · u/Dame-Sky · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1quulyz/ken_mcgrady_said_my_question_was_certainly_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/x5jz0fwaqahg1>
 
@@ -726,17 +804,21 @@ Link: <https://v.redd.it/x5jz0fwaqahg1>
 >
 > I’m currently between roles, caring for my mom, and refining this tool. I’d love to hear your thoughts on the UI and the math!
 
+<a id="post-40"></a>
+
 ### 40. Logic-First Portfolio Analytics: Applying my MSc Finance to Streamlit (and a CSS workaround for Sticky Headers!)
 
-2026-02-03 · u/Dame-Sky · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1quu9sm/logicfirst_portfolio_analytics_applying_my_msc/)
+2026-02-03 · u/Dame-Sky · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1quu9sm/logicfirst_portfolio_analytics_applying_my_msc/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/1zdsvi8nnahg1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. Streamlit Meetup in the Bay Area
 
-2025-11-14 · u/JessSm3 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ox9cew/streamlit_meetup_in_the_bay_area/)
+2025-11-14 · u/JessSm3 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ox9cew/streamlit_meetup_in_the_bay_area/) · [↑ back to the list](#last-50-posts)
 
 > There's an in-person meetup happening in Silicon Valley next week with some of the Streamlit PMs and team! The focus will be learning about taking apps from prototypes to production-level. 
 >
@@ -744,15 +826,19 @@ Link: <https://v.redd.it/1zdsvi8nnahg1>
 >
 > Also can't argue with free food and swag. 😅
 
+<a id="post-42"></a>
+
 ### 42. Not receiving log in emails + app not working anymore.
 
-2025-11-12 · u/yokingato · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ov66cm/not_receiving_log_in_emails_app_not_working/)
+2025-11-12 · u/yokingato · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ov66cm/not_receiving_log_in_emails_app_not_working/) · [↑ back to the list](#last-50-posts)
 
 > I tried to log in multiple times but I don't receive any emails (codes). Before, that my app stopped working and I just get an error for its URL
 
+<a id="post-43"></a>
+
 ### 43. My open source drag and drop component
 
-2025-11-11 · u/gaboqv · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oua78n/my_open_source_drag_and_drop_component/)
+2025-11-11 · u/gaboqv · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oua78n/my_open_source_drag_and_drop_component/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys I have been working for some months on the weekends in this drag and drop component for Streamlit, I know other similar components exist, but I don't think they are as customizable or open as this, I couldn't find the source code for one that is published on pypy for example.
 >
@@ -762,9 +848,11 @@ Link: <https://v.redd.it/1zdsvi8nnahg1>
 >
 > [kanban-board2.streamlit.app](https://kanban-board2.streamlit.app/)
 
+<a id="post-44"></a>
+
 ### 44. Just started building apps with Streamlit — how far can the UI/UX go?
 
-2025-11-10 · u/PhoneGreen675 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1otieau/just_started_building_apps_with_streamlit_how_far/)
+2025-11-10 · u/PhoneGreen675 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1otieau/just_started_building_apps_with_streamlit_how_far/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I hope this post finds you well. I’m diving into building apps with Streamlit and while the backend logic is coming together, I’m not thrilled with the look of my front-end — it’s reminding me of the early HTML/PHP era, before HTML5 and PHP7🙈. I’d love to see what’s possible in terms of UI/UX with Streamlit:
 >
@@ -776,9 +864,11 @@ Link: <https://v.redd.it/1zdsvi8nnahg1>
 >
 > Thanks in advance — I’m keen to level up beyond the “basic dashboard / default layout” look and learn from more advanced builds!
 
+<a id="post-45"></a>
+
 ### 45. Best Streamlit Performance Testing Tools?
 
-2025-11-06 · u/StuckWithSports · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oqer32/best_streamlit_performance_testing_tools/)
+2025-11-06 · u/StuckWithSports · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oqer32/best_streamlit_performance_testing_tools/) · [↑ back to the list](#last-50-posts)
 
 > Bashing my head against the wall, juggling between locust and cprofile. Burning my eyes in with trying to find any sense of issues  in the browser memory or network inspection. Backend doesn’t say anything. CPU and memory doesn’t hit more than 20%
 >
@@ -788,24 +878,30 @@ Link: <https://v.redd.it/1zdsvi8nnahg1>
 >
 > Probably just the GTL pulling a fast one between users and punching me in the kidneys when I’m not looking
 
+<a id="post-46"></a>
+
 ### 46. streamit ideas
 
-2025-11-06 · u/Last-Road-93 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oq323g/streamit_ideas/)
+2025-11-06 · u/Last-Road-93 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oq323g/streamit_ideas/) · [↑ back to the list](#last-50-posts)
 
 > hey guys im working on a streamlit project and im using it to show my co2 valuse and temprature values on the website can anyone give me ideas to make it more nice?    
 >  i will drop down a google drive link so u people can get the file and make some changes or say make it more nice : [https://drive.google.com/drive/folders/1RlxOmJCWgoYeXnKDqlp6zrNL-Ovcmho\_?usp=drive\_link](https://drive.google.com/drive/folders/1RlxOmJCWgoYeXnKDqlp6zrNL-Ovcmho_?usp=drive_link)
 
+<a id="post-47"></a>
+
 ### 47. Wait, This Was Built in Streamlit? — 10 Best Streamlit Design Tips for Dashboards
 
-2025-11-06 · u/Historical-Mud-8205 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oq1jwr/wait_this_was_built_in_streamlit_10_best/)
+2025-11-06 · u/Historical-Mud-8205 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1oq1jwr/wait_this_was_built_in_streamlit_10_best/) · [↑ back to the list](#last-50-posts)
 
 > My Design Tips for Amazing Streamlit Dashboards: [https://medium.com/data-science-collective/wait-this-was-built-in-streamlit-10-best-streamlit-design-tips-for-dashboards-2b0f50067622](https://medium.com/data-science-collective/wait-this-was-built-in-streamlit-10-best-streamlit-design-tips-for-dashboards-2b0f50067622)
 >
 > https://preview.redd.it/cqc4b5k2lnzf1.png?width=720&format=png&auto=webp&s=603713c4d9f29f1a04a39a4fa182c9606c3b42c7
 
+<a id="post-48"></a>
+
 ### 48. Simple streamlit web app to create and track stock portfolios
 
-2025-10-31 · u/ughthisguyagain1111 · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1okvg3e/simple_streamlit_web_app_to_create_and_track/)
+2025-10-31 · u/ughthisguyagain1111 · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1okvg3e/simple_streamlit_web_app_to_create_and_track/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fg5bt250egyf1.png>
 
@@ -815,9 +911,11 @@ Link: <https://i.redd.it/fg5bt250egyf1.png>
 >
 > For those of you interested in the code (plenty of issues to work together on): [ShekharNarayanan/live\_stocks\_tracker: Track the American stock market. Without annoying ads.](https://github.com/ShekharNarayanan/live_stocks_tracker)
 
+<a id="post-49"></a>
+
 ### 49. st_yled for beautiful, custom Streamlit components and layouts
 
-2025-10-30 · u/QueasyVarieties · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ojv3kk/st_yled_for_beautiful_custom_streamlit_components/)
+2025-10-30 · u/QueasyVarieties · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ojv3kk/st_yled_for_beautiful_custom_streamlit_components/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ixp5aedgw7yf1.png>
 
@@ -837,9 +935,11 @@ Link: <https://i.redd.it/ixp5aedgw7yf1.png>
 >
 > Do you have ideas for more custom styling and layout options? Leave a comment!
 
+<a id="post-50"></a>
+
 ### 50. My first Streamlit app. A simple weather dashboard built for learning API handling
 
-2025-10-29 · u/amkodoo · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ojhn4y/my_first_streamlit_app_a_simple_weather_dashboard/)
+2025-10-29 · u/amkodoo · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Streamlit/comments/1ojhn4y/my_first_streamlit_app_a_simple_weather_dashboard/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 

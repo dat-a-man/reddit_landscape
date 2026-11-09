@@ -65,56 +65,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Arachnid: a project crawler that auto-fixes problems only when it can prove the program is unchanged](https://www.reddit.com/r/Python/comments/1xpz6gm/arachnid_a_project_crawler_that_autofixes/) | u/chipConductor | Showcase | text | 1 | 1 | removed by mod | — |
-| 2 | 2026-11-07 | [I built an open-source, locally autonomous agent mesh with Bubblewrap OS sandboxing & telemetry HUD](https://www.reddit.com/r/Python/comments/1xpx441/i_built_an_opensource_locally_autonomous_agent/) | u/ZxSHJN | Resource | text | 0 | 5 | removed by mod | — |
-| 3 | 2026-11-07 | [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xps4q4/saturday_daily_thread_resource_request_and/) | u/AutoModerator | :pythonLogo: Daily Thread | text | 9 | 1 | live | — |
-| 4 | 2026-11-06 | [Asyncfiles v1.8.0](https://www.reddit.com/r/Python/comments/1xprw4r/asyncfiles_v180/) | u/Zh00_dev | Resource | text | 0 | 1 | removed by mod | — |
-| 5 | 2026-11-06 | [VSCODE Autofill](https://www.reddit.com/r/Python/comments/1xprvie/vscode_autofill/) | u/18ahmed | Discussion | text | 4 | 19 | removed by mod | Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python s… |
-| 6 | 2026-11-06 | [Giving back to the community - The Complete Backend Development Course](https://www.reddit.com/r/Python/comments/1xpr5lr/giving_back_to_the_community_the_complete_backend/) | u/OrganizationGreat823 | Tutorial | text | 1 | 0 | spam-filtered | — |
-| 7 | 2026-11-06 | [Object Storage Client (One API/CLI/GUI to rule them all)](https://www.reddit.com/r/Python/comments/1xpn84z/object_storage_client_one_apicligui_to_rule_them/) | u/kamikazer | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 8 | 2026-11-06 | [Python Notebook: a notebook where the file is just a .py with # %% cells (no dependencies)](https://www.reddit.com/r/Python/comments/1xpezob/python_notebook_a_notebook_where_the_file_is_just/) | u/compleathorseplayer | Showcase | text | 1 | 1 | removed by mod | — |
-| 9 | 2026-11-06 | [Podium Bots: a free league where Python bots predict Spanish La Quiniela, with a stdlib-only starter](https://www.reddit.com/r/Python/comments/1xpbtht/podium_bots_a_free_league_where_python_bots/) | u/PodiumBots | Showcase | text | 1 | 1 | removed by mod | — |
-| 10 | 2026-11-06 | [PYTHON 🆚 ALL ...](https://www.reddit.com/r/Python/comments/1xpay57/python_all/) | u/scartfife | Discussion | text | 0 | 28 | spam-filtered | — |
-| 11 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](https://www.reddit.com/r/Python/comments/1xp8inn/automating_data_preprocessing_a_guide_to_python/) | u/Ok_pettech | Tutorial | text | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-06 | [What will we become in the end?](https://www.reddit.com/r/Python/comments/1xp75ls/what_will_we_become_in_the_end/) | u/scartfife | Discussion | text | 0 | 5 | spam-filtered | — |
-| 13 | 2026-11-06 | [Finally an actual deep learning pkg with readable codebase](https://www.reddit.com/r/Python/comments/1xp67px/finally_an_actual_deep_learning_pkg_with_readable/) | u/InternalYoghurt9489 | Showcase | text | 1 | 1 | removed by mod | — |
-| 14 | 2026-11-06 | [I wrote a Bitcoin-style proof-of-work blockchain in pure Python (SHA-256d, UTXO, LWMA) – looking for](https://www.reddit.com/r/Python/comments/1xp3lth/i_wrote_a_bitcoinstyle_proofofwork_blockchain_in/) | u/ExpensiveSky9062 | Showcase | text | 1 | 1 | removed by mod | — |
-| 15 | 2026-11-06 | [Guys i am thinking to create a Microsoft-office-like Application with python](https://www.reddit.com/r/Python/comments/1xp2j1u/guys_i_am_thinking_to_create_a/) | u/Onyxl_build | Discussion | text | 0 | 27 | live | — |
-| 16 | 2026-11-06 | [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1xoydtc/friday_daily_thread_rpython_meta_and_freetalk/) | u/AutoModerator | :pythonLogo: Daily Thread | text | 16 | 1 | live | — |
-| 17 | 2026-11-05 | [Testing for meaning, not just schema: value drift checks in a Python pipeline](https://www.reddit.com/r/Python/comments/1xov3qn/testing_for_meaning_not_just_schema_value_drift/) | u/fristprinciplesde | Discussion | text | 0 | 0 | spam-filtered | — |
-| 18 | 2026-11-05 | [B2B Sales & Revenue Analytics Dashboard](https://www.reddit.com/r/Python/comments/1xoucr1/b2b_sales_revenue_analytics_dashboard/) | u/ComplaintMaster4853 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 19 | 2026-11-05 | [Built a lightweight B2B Sales & Revenue Analytics Dashboard for freelancers and agencies](https://www.reddit.com/r/Python/comments/1xou1ph/built_a_lightweight_b2b_sales_revenue_analytics/) | u/ComplaintMaster4853 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 20 | 2026-11-05 | [PYTHON.........](https://www.reddit.com/r/Python/comments/1xordrl/python/) | u/scartfife | Discussion | text | 1 | 0 | live | — |
-| 21 | 2026-11-05 | [Call4Agents: make a Python agent's actions safe to retry after a crash (standard library only)](https://www.reddit.com/r/Python/comments/1xoqr2d/call4agents_make_a_python_agents_actions_safe_to/) | u/KaleidoscopeNew9259 | Showcase | text | 1 | 1 | removed by mod | — |
-| 22 | 2026-11-05 | [Has anyone moved document parsing off their own Python workers?](https://www.reddit.com/r/Python/comments/1xop2ap/has_anyone_moved_document_parsing_off_their_own/) | u/danielmartinez22 | Discussion | text | 0 | 12 | live | — |
-| 23 | 2026-11-05 | [Autonomous M2M Micro-Payment & Cryptographic Clearing Protocol for AI Agents](https://www.reddit.com/r/Python/comments/1xolh1f/autonomous_m2m_micropayment_cryptographic/) | u/Polling545 | Discussion | text | 1 | 1 | removed by mod | — |
-| 24 | 2026-11-05 | [PyCharm 2026.3 released (IDE)](https://www.reddit.com/r/Python/comments/1xol7yf/pycharm_20263_released_ide/) | u/greenrobot_de | News | text | 47 | 31 | live | — |
-| 25 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/Python/comments/1xoiles/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/analyticsvector-yt | Tutorial | text | 0 | 1 | held by automod | — |
-| 26 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](https://www.reddit.com/r/Python/comments/1xoiett/web_i_built_a_browser_game_where_you_script/) | u/Delicious-Editor-168 | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 27 | 2026-11-05 | [qs.filter(...) on its own line does nothing. Patterns like this across 44 open-source repos: 62 app](https://www.reddit.com/r/Python/comments/1xoh5m4/qsfilter_on_its_own_line_does_nothing_patterns/) | u/jeonghun917 | Discussion | text | 0 | 5 | removed by mod | — |
-| 28 | 2026-11-05 | [I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)](https://www.reddit.com/r/Python/comments/1xog7bh/i_built_a_lightweight_pyside6_gui_for_ytdlp/) | u/No-Praline-9052 | Resource | text | 1 | 0 | spam-filtered | — |
-| 29 | 2026-11-05 | [Feasibility check: Writing a constrained Python-to-Rust transpiler for numeric code](https://www.reddit.com/r/Python/comments/1xoeowp/feasibility_check_writing_a_constrained/) | u/Thin-Parsley-1660 | Discussion | text | 6 | 17 | live | — |
-| 30 | 2026-11-05 | [\[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community](https://www.reddit.com/r/Python/comments/1xodaot/oc_macro_pro_a_lightweight_standalone_macro/) | u/AssistanceNational76 | Resource | text | 1 | 0 | held by automod | — |
-| 31 | 2026-11-05 | [\[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community](https://www.reddit.com/r/Python/comments/1xod986/oc_macro_pro_a_lightweight_standalone_macro/) | u/AssistanceNational76 | Resource | text | 1 | 0 | held by automod | — |
-| 32 | 2026-11-05 | [ToolBoundary – An open-source Python library for runtime security and policy enforcement in AI agent](https://www.reddit.com/r/Python/comments/1xod84g/toolboundary_an_opensource_python_library_for/) | u/Present_Education_98 | Showcase | text | 1 | 1 | removed by mod | — |
-| 33 | 2026-11-05 | [ToolBoundary – Runtime security and policy enforcement for AI agents](https://www.reddit.com/r/Python/comments/1xod44v/toolboundary_runtime_security_and_policy/) | u/Present_Education_98 | Showcase | text | 0 | 1 | removed by mod | — |
-| 34 | 2026-11-05 | [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xo41r2/thursday_daily_thread_python_careers_courses_and/) | u/AutoModerator | :pythonLogo: Daily Thread | text | 16 | 2 | live | — |
-| 35 | 2026-11-04 | [Consolidated my multi-language clients (Python, JS, PHP) for bypassing WAFs and anti-bot challenges](https://www.reddit.com/r/Python/comments/1xny6ni/consolidated_my_multilanguage_clients_python_js/) | u/promcoder | Discussion | text | 1 | 1 | removed by mod | — |
-| 36 | 2026-11-04 | [Code Review: Automated ARP/NDP Network Tool in Python (arpspecter)](https://www.reddit.com/r/Python/comments/1xnw40f/code_review_automated_arpndp_network_tool_in/) | u/Far_Yogurtcloset9465 | Showcase | text | 1 | 1 | spam-filtered | — |
-| 37 | 2026-11-04 | [I made a game In Python](https://www.reddit.com/r/Python/comments/1xntwzg/i_made_a_game_in_python/) | u/No_Tennis_4843 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 38 | 2026-11-04 | [Showcase Thread](https://www.reddit.com/r/Python/comments/1xntm2j/showcase_thread/) | u/AutoModerator | Showcase | text | 18 | 22 | live | — |
-| 39 | 2026-11-04 | [Botstock: a live stock exchange for trading agents, with a stdlib-only Python example](https://www.reddit.com/r/Python/comments/1xns19j/botstock_a_live_stock_exchange_for_trading_agents/) | u/Frosty_Ad8830pkdev | Showcase | text | 1 | 1 | spam-filtered | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 40 | 2026-11-04 | [checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()](https://www.reddit.com/r/Python/comments/1xnqfxi/checkmodel_onecall_diagnostics_for_statistical/) | u/KevinBeicon | Showcase | text | 1 | 1 | removed by mod | — |
-| 41 | 2026-11-04 | [What Python project taught you the most about real world development?](https://www.reddit.com/r/Python/comments/1xnp9kl/what_python_project_taught_you_the_most_about/) | u/Sonu_Jana | Discussion | text | 23 | 28 | live | — |
-| 42 | 2026-11-04 | [silentbug-lite: a small static checker for five bugs that usually pass tests (Python + JS/TS)](https://www.reddit.com/r/Python/comments/1xnnqlw/silentbuglite_a_small_static_checker_for_five/) | u/manish_builds | Showcase | text | 1 | 1 | spam-filtered | — |
-| 43 | 2026-11-04 | [Has anyone here tried CodShot?](https://www.reddit.com/r/Python/comments/1xnk1ts/has_anyone_here_tried_codshot/) | u/karoly22 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 44 | 2026-11-04 | [GIL is a mutex in CPython that ensures only one thread executes Python bytecode at a time](https://www.reddit.com/r/Python/comments/1xnjoo1/gil_is_a_mutex_in_cpython_that_ensures_only_one/) | u/DueBid3298 | Discussion | text | 0 | 6 | removed by mod | Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python s… |
-| 45 | 2026-11-04 | [ssh-honeypot: Paramiko-based deception honeypot with MITRE ATT&CK mapping (Python)](https://www.reddit.com/r/Python/comments/1xni8ej/sshhoneypot_paramikobased_deception_honeypot_with/) | u/Dev9269 | Showcase | text | 1 | 3 | removed by mod | — |
-| 46 | 2026-11-04 | [Open-access directory of 125+ vectorized Python scripts for Quant Finance & Algo Trading](https://www.reddit.com/r/Python/comments/1xnh0gc/openaccess_directory_of_125_vectorized_python/) | u/CuriousBuilder99 | Showcase | text | 1 | 1 | removed by mod | — |
-| 47 | 2026-11-04 | [I built a free library of 125+ production-ready Python scripts for quants and financial automation](https://www.reddit.com/r/Python/comments/1xneoxy/i_built_a_free_library_of_125_productionready/) | u/CuriousBuilder99 | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
-| 48 | 2026-11-04 | [\[Project\] Dynamic Island for Windows in Python + ctypes (<18 MB RAM vs 350 MB on Electron)](https://www.reddit.com/r/Python/comments/1xnbe0f/project_dynamic_island_for_windows_in_python/) | u/Nasty_Dev_12 | Showcase | text | 1 | 1 | removed by mod | — |
-| 49 | 2026-11-03 | [repovet: check a GitHub repo for auto-run tasks, curl\|sh and agent-file tricks before you open it](https://www.reddit.com/r/Python/comments/1xn6swb/repovet_check_a_github_repo_for_autorun_tasks/) | u/Low-Story5395 | Showcase | text | 1 | 1 | removed by mod | — |
-| 50 | 2026-11-03 | [Designing a zero-dependency Python scraping SDK: sticking with pure stdlib vs adding httpx?](https://www.reddit.com/r/Python/comments/1xn28q6/designing_a_zerodependency_python_scraping_sdk/) | u/Solid-Bidl | Discussion | text | 2 | 2 | live | — |
+| 1 | 2026-11-07 | [Arachnid: a project crawler that auto-fixes problems only when it can prove the program is unchanged](#post-1) | u/chipConductor | Showcase | text | 1 | 1 | removed by mod | — |
+| 2 | 2026-11-07 | [I built an open-source, locally autonomous agent mesh with Bubblewrap OS sandboxing & telemetry HUD](#post-2) | u/ZxSHJN | Resource | text | 0 | 5 | removed by mod | — |
+| 3 | 2026-11-07 | [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](#post-3) | u/AutoModerator | :pythonLogo: Daily Thread | text | 9 | 1 | live | — |
+| 4 | 2026-11-06 | [Asyncfiles v1.8.0](#post-4) | u/Zh00_dev | Resource | text | 0 | 1 | removed by mod | — |
+| 5 | 2026-11-06 | [VSCODE Autofill](#post-5) | u/18ahmed | Discussion | text | 4 | 19 | removed by mod | Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python s… |
+| 6 | 2026-11-06 | [Giving back to the community - The Complete Backend Development Course](#post-6) | u/OrganizationGreat823 | Tutorial | text | 1 | 0 | spam-filtered | — |
+| 7 | 2026-11-06 | [Object Storage Client (One API/CLI/GUI to rule them all)](#post-7) | u/kamikazer | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 8 | 2026-11-06 | [Python Notebook: a notebook where the file is just a .py with # %% cells (no dependencies)](#post-8) | u/compleathorseplayer | Showcase | text | 1 | 1 | removed by mod | — |
+| 9 | 2026-11-06 | [Podium Bots: a free league where Python bots predict Spanish La Quiniela, with a stdlib-only starter](#post-9) | u/PodiumBots | Showcase | text | 1 | 1 | removed by mod | — |
+| 10 | 2026-11-06 | [PYTHON 🆚 ALL ...](#post-10) | u/scartfife | Discussion | text | 0 | 28 | spam-filtered | — |
+| 11 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](#post-11) | u/Ok_pettech | Tutorial | text | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-06 | [What will we become in the end?](#post-12) | u/scartfife | Discussion | text | 0 | 5 | spam-filtered | — |
+| 13 | 2026-11-06 | [Finally an actual deep learning pkg with readable codebase](#post-13) | u/InternalYoghurt9489 | Showcase | text | 1 | 1 | removed by mod | — |
+| 14 | 2026-11-06 | [I wrote a Bitcoin-style proof-of-work blockchain in pure Python (SHA-256d, UTXO, LWMA) – looking for](#post-14) | u/ExpensiveSky9062 | Showcase | text | 1 | 1 | removed by mod | — |
+| 15 | 2026-11-06 | [Guys i am thinking to create a Microsoft-office-like Application with python](#post-15) | u/Onyxl_build | Discussion | text | 0 | 27 | live | — |
+| 16 | 2026-11-06 | [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](#post-16) | u/AutoModerator | :pythonLogo: Daily Thread | text | 16 | 1 | live | — |
+| 17 | 2026-11-05 | [Testing for meaning, not just schema: value drift checks in a Python pipeline](#post-17) | u/fristprinciplesde | Discussion | text | 0 | 0 | spam-filtered | — |
+| 18 | 2026-11-05 | [B2B Sales & Revenue Analytics Dashboard](#post-18) | u/ComplaintMaster4853 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 19 | 2026-11-05 | [Built a lightweight B2B Sales & Revenue Analytics Dashboard for freelancers and agencies](#post-19) | u/ComplaintMaster4853 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 20 | 2026-11-05 | [PYTHON.........](#post-20) | u/scartfife | Discussion | text | 1 | 0 | live | — |
+| 21 | 2026-11-05 | [Call4Agents: make a Python agent's actions safe to retry after a crash (standard library only)](#post-21) | u/KaleidoscopeNew9259 | Showcase | text | 1 | 1 | removed by mod | — |
+| 22 | 2026-11-05 | [Has anyone moved document parsing off their own Python workers?](#post-22) | u/danielmartinez22 | Discussion | text | 0 | 12 | live | — |
+| 23 | 2026-11-05 | [Autonomous M2M Micro-Payment & Cryptographic Clearing Protocol for AI Agents](#post-23) | u/Polling545 | Discussion | text | 1 | 1 | removed by mod | — |
+| 24 | 2026-11-05 | [PyCharm 2026.3 released (IDE)](#post-24) | u/greenrobot_de | News | text | 47 | 31 | live | — |
+| 25 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-25) | u/analyticsvector-yt | Tutorial | text | 0 | 1 | held by automod | — |
+| 26 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](#post-26) | u/Delicious-Editor-168 | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 27 | 2026-11-05 | [qs.filter(...) on its own line does nothing. Patterns like this across 44 open-source repos: 62 app](#post-27) | u/jeonghun917 | Discussion | text | 0 | 5 | removed by mod | — |
+| 28 | 2026-11-05 | [I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)](#post-28) | u/No-Praline-9052 | Resource | text | 1 | 0 | spam-filtered | — |
+| 29 | 2026-11-05 | [Feasibility check: Writing a constrained Python-to-Rust transpiler for numeric code](#post-29) | u/Thin-Parsley-1660 | Discussion | text | 6 | 17 | live | — |
+| 30 | 2026-11-05 | [\[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community](#post-30) | u/AssistanceNational76 | Resource | text | 1 | 0 | held by automod | — |
+| 31 | 2026-11-05 | [\[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community](#post-31) | u/AssistanceNational76 | Resource | text | 1 | 0 | held by automod | — |
+| 32 | 2026-11-05 | [ToolBoundary – An open-source Python library for runtime security and policy enforcement in AI agent](#post-32) | u/Present_Education_98 | Showcase | text | 1 | 1 | removed by mod | — |
+| 33 | 2026-11-05 | [ToolBoundary – Runtime security and policy enforcement for AI agents](#post-33) | u/Present_Education_98 | Showcase | text | 0 | 1 | removed by mod | — |
+| 34 | 2026-11-05 | [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](#post-34) | u/AutoModerator | :pythonLogo: Daily Thread | text | 16 | 2 | live | — |
+| 35 | 2026-11-04 | [Consolidated my multi-language clients (Python, JS, PHP) for bypassing WAFs and anti-bot challenges](#post-35) | u/promcoder | Discussion | text | 1 | 1 | removed by mod | — |
+| 36 | 2026-11-04 | [Code Review: Automated ARP/NDP Network Tool in Python (arpspecter)](#post-36) | u/Far_Yogurtcloset9465 | Showcase | text | 1 | 1 | spam-filtered | — |
+| 37 | 2026-11-04 | [I made a game In Python](#post-37) | u/No_Tennis_4843 | Showcase | text | 0 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 38 | 2026-11-04 | [Showcase Thread](#post-38) | u/AutoModerator | Showcase | text | 18 | 22 | live | — |
+| 39 | 2026-11-04 | [Botstock: a live stock exchange for trading agents, with a stdlib-only Python example](#post-39) | u/Frosty_Ad8830pkdev | Showcase | text | 1 | 1 | spam-filtered | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 40 | 2026-11-04 | [checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()](#post-40) | u/KevinBeicon | Showcase | text | 1 | 1 | removed by mod | — |
+| 41 | 2026-11-04 | [What Python project taught you the most about real world development?](#post-41) | u/Sonu_Jana | Discussion | text | 23 | 28 | live | — |
+| 42 | 2026-11-04 | [silentbug-lite: a small static checker for five bugs that usually pass tests (Python + JS/TS)](#post-42) | u/manish_builds | Showcase | text | 1 | 1 | spam-filtered | — |
+| 43 | 2026-11-04 | [Has anyone here tried CodShot?](#post-43) | u/karoly22 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 44 | 2026-11-04 | [GIL is a mutex in CPython that ensures only one thread executes Python bytecode at a time](#post-44) | u/DueBid3298 | Discussion | text | 0 | 6 | removed by mod | Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python s… |
+| 45 | 2026-11-04 | [ssh-honeypot: Paramiko-based deception honeypot with MITRE ATT&CK mapping (Python)](#post-45) | u/Dev9269 | Showcase | text | 1 | 3 | removed by mod | — |
+| 46 | 2026-11-04 | [Open-access directory of 125+ vectorized Python scripts for Quant Finance & Algo Trading](#post-46) | u/CuriousBuilder99 | Showcase | text | 1 | 1 | removed by mod | — |
+| 47 | 2026-11-04 | [I built a free library of 125+ production-ready Python scripts for quants and financial automation](#post-47) | u/CuriousBuilder99 | Showcase | text | 1 | 1 | removed by mod | Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable… |
+| 48 | 2026-11-04 | [\[Project\] Dynamic Island for Windows in Python + ctypes (<18 MB RAM vs 350 MB on Electron)](#post-48) | u/Nasty_Dev_12 | Showcase | text | 1 | 1 | removed by mod | — |
+| 49 | 2026-11-03 | [repovet: check a GitHub repo for auto-run tasks, curl\|sh and agent-file tricks before you open it](#post-49) | u/Low-Story5395 | Showcase | text | 1 | 1 | removed by mod | — |
+| 50 | 2026-11-03 | [Designing a zero-dependency Python scraping SDK: sticking with pure stdlib vs adding httpx?](#post-50) | u/Solid-Bidl | Discussion | text | 2 | 2 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -122,40 +122,44 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-21 | [litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/) | u/BattleRemote3157 | News | text | 409 | 43 | live |
-| 52 | 2026-10-24 | [\[CVE-2026-111497\] If you run a python server, you should update it right now](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/) | u/me_myself_ai | News | text | 231 | 53 | live |
-| 53 | 2026-10-26 | [Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out](https://www.reddit.com/r/Python/comments/1xgcu6d/python_3152_31410_31318_31216_and_31118_are_out/) | u/japaget | News | text | 230 | 34 | live |
-| 54 | 2026-10-30 | [PEP 851 – Add list.discard()](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/) | u/kirara0048 | News | text | 213 | 56 | live |
-| 55 | 2026-10-12 | [What are some features in Python that you discovered many years later?](https://www.reddit.com/r/Python/comments/1x3vy20/what_are_some_features_in_python_that_you/) | u/igorrto2 | Discussion | text | 211 | 149 | live |
-| 56 | 2026-10-11 | [GeoPolars is being actively developed again: geometry types, CRS-aware measurements and GeoParquet](https://www.reddit.com/r/Python/comments/1x31w69/geopolars_is_being_actively_developed_again/) | u/Balance- | News | text | 198 | 12 | live |
-| 57 | 2026-10-13 | [Jazzband is shutting down](https://www.reddit.com/r/Python/comments/1x5caxn/jazzband_is_shutting_down/) | u/nicholashairs | News | text | 197 | 24 | live |
-| 58 | 2026-10-20 | [Info for Python users regarding eMudhra / emSign CA certificate security incident](https://www.reddit.com/r/Python/comments/1xb1lcf/info_for_python_users_regarding_emudhra_emsign_ca/) | u/sethmlarson_ | News | text | 165 | 27 | live |
-| 59 | 2026-10-30 | [I'm now maintaining passlib](https://www.reddit.com/r/Python/comments/1xj74pw/im_now_maintaining_passlib/) | u/Amazing_Learn | Discussion | text | 163 | 25 | approved |
-| 60 | 2026-10-24 | [LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never](https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/) | u/correctMeIfImcorrect | News | text | 145 | 30 | live |
-| 61 | 2026-10-28 | [Python jettisons the native JIT, at least for now](https://www.reddit.com/r/Python/comments/1xhadxq/python_jettisons_the_native_jit_at_least_for_now/) | u/nicholashairs | News | text | 136 | 20 | live |
-| 62 | 2026-10-28 | [If you run Python 3.10 on AWS Lambda: it's deprecated this Friday (Oct 31). Gotchas moving to 3.12+](https://www.reddit.com/r/Python/comments/1xhoetl/if_you_run_python_310_on_aws_lambda_its/) | u/timmywick | Discussion | text | 121 | 43 | live |
-| 63 | 2026-10-28 | [Python Typing Survey 2026 Results](https://www.reddit.com/r/Python/comments/1xhnvs0/python_typing_survey_2026_results/) | u/BeamMeUpBiscotti | Discussion | text | 112 | 10 | live |
-| 64 | 2026-10-20 | [Request for feedback: uv check & PEP 723 script support in ty](https://www.reddit.com/r/Python/comments/1xb18ik/request_for_feedback_uv_check_pep_723_script/) | u/zsol | Discussion | text | 110 | 37 | live |
-| 65 | 2026-10-26 | [Microsoft partners w/ Meta to bring Pyrefly support to Pylance in VS Code](https://www.reddit.com/r/Python/comments/1xfvk76/microsoft_partners_w_meta_to_bring_pyrefly/) | u/BeamMeUpBiscotti | News | text | 107 | 7 | live |
-| 66 | 2026-10-20 | [Summary of Major Changes Between Python Versions (2026 Update)](https://www.reddit.com/r/Python/comments/1xak07n/summary_of_major_changes_between_python_versions/) | u/nicholashairs | Resource | text | 103 | 27 | live |
-| 67 | 2026-10-17 | [Python 3.10–3.15 encoding benchmarks: big gains for Base32 and Base85, but 3.14 leads Base16](https://www.reddit.com/r/Python/comments/1x89bnq/python_310315_encoding_benchmarks_big_gains_for/) | u/BestRef | Discussion | text | 102 | 16 | live |
-| 68 | 2026-11-02 | [FastAPI Cloud is now generally available](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/) | u/tiangolo | News | text | 98 | 14 | live |
-| 69 | 2026-11-03 | [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/) | u/zurtex | News | text | 79 | 7 | live |
-| 70 | 2026-10-11 | [Are fewer young people getting into Python these days?](https://www.reddit.com/r/Python/comments/1x2z666/are_fewer_young_people_getting_into_python_these/) | u/digitalice | Discussion | text | 77 | 63 | live |
+| 51 | 2026-10-21 | [litellm 1.107.0 on PyPI is compromised](#post-51) | u/BattleRemote3157 | News | text | 409 | 43 | live |
+| 52 | 2026-10-24 | [\[CVE-2026-111497\] If you run a python server, you should update it right now](#post-52) | u/me_myself_ai | News | text | 231 | 53 | live |
+| 53 | 2026-10-26 | [Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out](#post-53) | u/japaget | News | text | 230 | 34 | live |
+| 54 | 2026-10-30 | [PEP 851 – Add list.discard()](#post-54) | u/kirara0048 | News | text | 213 | 56 | live |
+| 55 | 2026-10-12 | [What are some features in Python that you discovered many years later?](#post-55) | u/igorrto2 | Discussion | text | 211 | 149 | live |
+| 56 | 2026-10-11 | [GeoPolars is being actively developed again: geometry types, CRS-aware measurements and GeoParquet](#post-56) | u/Balance- | News | text | 198 | 12 | live |
+| 57 | 2026-10-13 | [Jazzband is shutting down](#post-57) | u/nicholashairs | News | text | 197 | 24 | live |
+| 58 | 2026-10-20 | [Info for Python users regarding eMudhra / emSign CA certificate security incident](#post-58) | u/sethmlarson_ | News | text | 165 | 27 | live |
+| 59 | 2026-10-30 | [I'm now maintaining passlib](#post-59) | u/Amazing_Learn | Discussion | text | 163 | 25 | approved |
+| 60 | 2026-10-24 | [LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never](#post-60) | u/correctMeIfImcorrect | News | text | 145 | 30 | live |
+| 61 | 2026-10-28 | [Python jettisons the native JIT, at least for now](#post-61) | u/nicholashairs | News | text | 136 | 20 | live |
+| 62 | 2026-10-28 | [If you run Python 3.10 on AWS Lambda: it's deprecated this Friday (Oct 31). Gotchas moving to 3.12+](#post-62) | u/timmywick | Discussion | text | 121 | 43 | live |
+| 63 | 2026-10-28 | [Python Typing Survey 2026 Results](#post-63) | u/BeamMeUpBiscotti | Discussion | text | 112 | 10 | live |
+| 64 | 2026-10-20 | [Request for feedback: uv check & PEP 723 script support in ty](#post-64) | u/zsol | Discussion | text | 110 | 37 | live |
+| 65 | 2026-10-26 | [Microsoft partners w/ Meta to bring Pyrefly support to Pylance in VS Code](#post-65) | u/BeamMeUpBiscotti | News | text | 107 | 7 | live |
+| 66 | 2026-10-20 | [Summary of Major Changes Between Python Versions (2026 Update)](#post-66) | u/nicholashairs | Resource | text | 103 | 27 | live |
+| 67 | 2026-10-17 | [Python 3.10–3.15 encoding benchmarks: big gains for Base32 and Base85, but 3.14 leads Base16](#post-67) | u/BestRef | Discussion | text | 102 | 16 | live |
+| 68 | 2026-11-02 | [FastAPI Cloud is now generally available](#post-68) | u/tiangolo | News | text | 98 | 14 | live |
+| 69 | 2026-11-03 | [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](#post-69) | u/zurtex | News | text | 79 | 7 | live |
+| 70 | 2026-10-11 | [Are fewer young people getting into Python these days?](#post-70) | u/digitalice | Discussion | text | 77 | 63 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Arachnid: a project crawler that auto-fixes problems only when it can prove the program is unchanged
 
-2026-11-07 · u/chipConductor · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpz6gm/arachnid_a_project_crawler_that_autofixes/)
+2026-11-07 · u/chipConductor · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpz6gm/arachnid_a_project_crawler_that_autofixes/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. I built an open-source, locally autonomous agent mesh with Bubblewrap OS sandboxing & telemetry HUD
 
-2026-11-07 · u/ZxSHJN · Resource · score 0 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpx441/i_built_an_opensource_locally_autonomous_agent/)
+2026-11-07 · u/ZxSHJN · Resource · score 0 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpx441/i_built_an_opensource_locally_autonomous_agent/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,  
 > Like many of you, I've spent the last year experimenting with autonomous agent frameworks (AutoGPT, CrewAI, MetaGPT). While great in theory, running them against local models (via Ollama or vLLM) almost always hits the same three walls:  
@@ -199,9 +203,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > **Extensibility:** The agent mesh and skill definitions are straightforward JSON/Python files if you want to test plugging in custom local tools.  
 > Let me know your thoughts, critiques, or questions on the architecture!
 
+<a id="post-3"></a>
+
 ### 3. Saturday Daily Thread: Resource Request and Sharing! Daily Thread
 
-2026-11-07 · u/AutoModerator · :pythonLogo: Daily Thread · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xps4q4/saturday_daily_thread_resource_request_and/)
+2026-11-07 · u/AutoModerator · :pythonLogo: Daily Thread · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xps4q4/saturday_daily_thread_resource_request_and/) · [↑ back to the list](#last-50-posts)
 
 > # Weekly Thread: Resource Request and Sharing 📚
 >
@@ -231,9 +237,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Share the knowledge, enrich the community. Happy learning! 🌟
 
+<a id="post-4"></a>
+
 ### 4. Asyncfiles v1.8.0
 
-2026-11-06 · u/Zh00_dev · Resource · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xprw4r/asyncfiles_v180/)
+2026-11-06 · u/Zh00_dev · Resource · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xprw4r/asyncfiles_v180/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!  
 > A few months ago, I shared the first release of **asyncfiles** here. I went through your feedback and suggestions and have been working on improving the library.
@@ -249,9 +257,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > Thanks to everyone who shared feedback on the original post. I'd appreciate it if you took another look and shared your thoughts!  
 > **Repository:** [https://github.com/cve-zh00/asyncfiles](https://github.com/cve-zh00/asyncfiles)
 
+<a id="post-5"></a>
+
 ### 5. VSCODE Autofill
 
-2026-11-06 · u/18ahmed · Discussion · score 4 · 19 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xprvie/vscode_autofill/)
+2026-11-06 · u/18ahmed · Discussion · score 4 · 19 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xprvie/vscode_autofill/) · [↑ back to the list](#last-50-posts)
 
 > Hi lads,
 >
@@ -261,75 +271,97 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/Python-ModTeam): Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python subreddit proper, however it should be very appropriate for our sister subreddit /r/LearnPython or for the r/Python discord: https://discord.gg/python. The reason for the removal is that /r/Python is dedicated to discussion of Python news, projects, uses and debates. It is not designed to act as Q&A or FAQ board. The regular community is not a fan of "how do I..." questions, so you will not get the best responses over here. On /r/LearnPython the community and the r/Python discord are actively expecting questions and are looking to help. You can expect far more understanding, encouraging and insightful responses over there. **No matter what level of question you have, if you are looking for help with Python, you should get good answers**. Make sure to check out the rules for both places. Warm regards, and best of luck with your Pythoneering!
 
+<a id="post-6"></a>
+
 ### 6. Giving back to the community - The Complete Backend Development Course
 
-2026-11-06 · u/OrganizationGreat823 · Tutorial · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpr5lr/giving_back_to_the_community_the_complete_backend/)
+2026-11-06 · u/OrganizationGreat823 · Tutorial · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpr5lr/giving_back_to_the_community_the_complete_backend/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Object Storage Client (One API/CLI/GUI to rule them all)
 
-2026-11-06 · u/kamikazer · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpn84z/object_storage_client_one_apicligui_to_rule_them/)
+2026-11-06 · u/kamikazer · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpn84z/object_storage_client_one_apicligui_to_rule_them/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-8"></a>
+
 ### 8. Python Notebook: a notebook where the file is just a .py with # %% cells (no dependencies)
 
-2026-11-06 · u/compleathorseplayer · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpezob/python_notebook_a_notebook_where_the_file_is_just/)
+2026-11-06 · u/compleathorseplayer · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpezob/python_notebook_a_notebook_where_the_file_is_just/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-9"></a>
 
 ### 9. Podium Bots: a free league where Python bots predict Spanish La Quiniela, with a stdlib-only starter
 
-2026-11-06 · u/PodiumBots · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpbtht/podium_bots_a_free_league_where_python_bots/)
+2026-11-06 · u/PodiumBots · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpbtht/podium_bots_a_free_league_where_python_bots/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. PYTHON 🆚 ALL ...
 
-2026-11-06 · u/scartfife · Discussion · score 0 · 28 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpay57/python_all/)
+2026-11-06 · u/scartfife · Discussion · score 0 · 28 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xpay57/python_all/) · [↑ back to the list](#last-50-posts)
 
 > "If you want to learn programming, don’t start with Python; you should start with another language."
 >
 > This advice seems ridiculous to me, even though I hear it everywhere. Can someone explain this advice to me... and are they right?
 
+<a id="post-11"></a>
+
 ### 11. Automating Data Preprocessing: A Guide to Python AI Data Cleaning
 
-2026-11-06 · u/Ok_pettech · Tutorial · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp8inn/automating_data_preprocessing_a_guide_to_python/)
+2026-11-06 · u/Ok_pettech · Tutorial · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp8inn/automating_data_preprocessing_a_guide_to_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. What will we become in the end?
 
-2026-11-06 · u/scartfife · Discussion · score 0 · 5 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp75ls/what_will_we_become_in_the_end/)
+2026-11-06 · u/scartfife · Discussion · score 0 · 5 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp75ls/what_will_we_become_in_the_end/) · [↑ back to the list](#last-50-posts)
 
 > "Is there anything that is hard for AI to do in Python?
 >
 > To be honest, coding by yourself is fun, but that doesn't matter to the job market. We'll just settle for building our own projects, but it's frustrating to see AI outperform you... And since the job market is being destroyed—and will be destroyed!!—by AI, it seems we will end up turning to sabotage and attacking companies if no jobs are available for programmers, especially the Python community..."
 
+<a id="post-13"></a>
+
 ### 13. Finally an actual deep learning pkg with readable codebase
 
-2026-11-06 · u/InternalYoghurt9489 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp67px/finally_an_actual_deep_learning_pkg_with_readable/)
+2026-11-06 · u/InternalYoghurt9489 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp67px/finally_an_actual_deep_learning_pkg_with_readable/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-14"></a>
 
 ### 14. I wrote a Bitcoin-style proof-of-work blockchain in pure Python (SHA-256d, UTXO, LWMA) – looking for
 
-2026-11-06 · u/ExpensiveSky9062 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp3lth/i_wrote_a_bitcoinstyle_proofofwork_blockchain_in/)
+2026-11-06 · u/ExpensiveSky9062 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp3lth/i_wrote_a_bitcoinstyle_proofofwork_blockchain_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-15"></a>
+
 ### 15. Guys i am thinking to create a Microsoft-office-like Application with python
 
-2026-11-06 · u/Onyxl_build · Discussion · score 0 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp2j1u/guys_i_am_thinking_to_create_a/)
+2026-11-06 · u/Onyxl_build · Discussion · score 0 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xp2j1u/guys_i_am_thinking_to_create_a/) · [↑ back to the list](#last-50-posts)
 
 > So everybody knows that Python has Tkinter and other libraries like tksheet for improving it i am thinking to push it to the max by creating a FULL Office starting of with Excel and major apps and then diving into cloud storage and web services
 
+<a id="post-16"></a>
+
 ### 16. Friday Daily Thread: r/Python Meta and Free-Talk Fridays
 
-2026-11-06 · u/AutoModerator · :pythonLogo: Daily Thread · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoydtc/friday_daily_thread_rpython_meta_and_freetalk/)
+2026-11-06 · u/AutoModerator · :pythonLogo: Daily Thread · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoydtc/friday_daily_thread_rpython_meta_and_freetalk/) · [↑ back to the list](#last-50-posts)
 
 > # Weekly Thread: Meta Discussions and Free Talk Friday 🎙️
 >
@@ -357,61 +389,79 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Let's keep the conversation going. Happy discussing! 🌟
 
+<a id="post-17"></a>
+
 ### 17. Testing for meaning, not just schema: value drift checks in a Python pipeline
 
-2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xov3qn/testing_for_meaning_not_just_schema_value_drift/)
+2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xov3qn/testing_for_meaning_not_just_schema_value_drift/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-18"></a>
 
 ### 18. B2B Sales & Revenue Analytics Dashboard
 
-2026-11-05 · u/ComplaintMaster4853 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoucr1/b2b_sales_revenue_analytics_dashboard/)
+2026-11-05 · u/ComplaintMaster4853 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoucr1/b2b_sales_revenue_analytics_dashboard/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
+
+<a id="post-19"></a>
 
 ### 19. Built a lightweight B2B Sales & Revenue Analytics Dashboard for freelancers and agencies
 
-2026-11-05 · u/ComplaintMaster4853 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xou1ph/built_a_lightweight_b2b_sales_revenue_analytics/)
+2026-11-05 · u/ComplaintMaster4853 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xou1ph/built_a_lightweight_b2b_sales_revenue_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-20"></a>
+
 ### 20. PYTHON.........
 
-2026-11-05 · u/scartfife · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xordrl/python/)
+2026-11-05 · u/scartfife · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xordrl/python/) · [↑ back to the list](#last-50-posts)
 
 > Hello Python enthusiasts, I have a question and I haven't been able to find a precise answer yet.. Is programming really dead, and has AI taken over?
 
+<a id="post-21"></a>
+
 ### 21. Call4Agents: make a Python agent's actions safe to retry after a crash (standard library only)
 
-2026-11-05 · u/KaleidoscopeNew9259 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoqr2d/call4agents_make_a_python_agents_actions_safe_to/)
+2026-11-05 · u/KaleidoscopeNew9259 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoqr2d/call4agents_make_a_python_agents_actions_safe_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-22"></a>
 
 ### 22. Has anyone moved document parsing off their own Python workers?
 
-2026-11-05 · u/danielmartinez22 · Discussion · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xop2ap/has_anyone_moved_document_parsing_off_their_own/)
+2026-11-05 · u/danielmartinez22 · Discussion · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xop2ap/has_anyone_moved_document_parsing_off_their_own/) · [↑ back to the list](#last-50-posts)
 
 > pdf parsing in python is just good as long as youre using it but when someone uploads a 700 page file the worker runs out of memory so splitting it into 50 to 100 page chunks with docling or marker on celery gets you past that but tables get cut at the boundaries and now theres a queue, retries and memory limits to babysit the other route is paying for something like llamaparse or the paid parsers has anyone moved either way and was it worth it? like what did you do inside your tool/app when it started scaling
 
+<a id="post-23"></a>
+
 ### 23. Autonomous M2M Micro-Payment & Cryptographic Clearing Protocol for AI Agents
 
-2026-11-05 · u/Polling545 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xolh1f/autonomous_m2m_micropayment_cryptographic/)
+2026-11-05 · u/Polling545 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xolh1f/autonomous_m2m_micropayment_cryptographic/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. PyCharm 2026.3 released (IDE)
 
-2026-11-05 · u/greenrobot_de · News · score 47 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xol7yf/pycharm_20263_released_ide/)
+2026-11-05 · u/greenrobot_de · News · score 47 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xol7yf/pycharm_20263_released_ide/) · [↑ back to the list](#last-50-posts)
 
 > [https://blog.jetbrains.com/pycharm/2026/11/what-s-new-in-pycharm-2026-3/](https://blog.jetbrains.com/pycharm/2026/11/what-s-new-in-pycharm-2026-3/)
 
+<a id="post-25"></a>
+
 ### 25. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/analyticsvector-yt · Tutorial · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoiles/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/analyticsvector-yt · Tutorial · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoiles/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changed what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -437,17 +487,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-26"></a>
+
 ### 26. \[Web\] I built a browser game where you script stickman combat in Python!
 
-2026-11-05 · u/Delicious-Editor-168 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoiett/web_i_built_a_browser_game_where_you_script/)
+2026-11-05 · u/Delicious-Editor-168 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoiett/web_i_built_a_browser_game_where_you_script/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-27"></a>
+
 ### 27. qs.filter(...) on its own line does nothing. Patterns like this across 44 open-source repos: 62 app
 
-2026-11-05 · u/jeonghun917 · Discussion · score 0 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoh5m4/qsfilter_on_its_own_line_does_nothing_patterns/)
+2026-11-05 · u/jeonghun917 · Discussion · score 0 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoh5m4/qsfilter_on_its_own_line_does_nothing_patterns/) · [↑ back to the list](#last-50-posts)
 
 > Most bugs that survive into production in mature codebases are not syntax errors. They are clean, idiomatic lines that quietly drop their result or skip a check.
 >
@@ -473,45 +527,59 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * a permission check on one view but not its sibling (`update` guarded, `delete` not)
 > * a page size read from the request, validated, then never applied
 
+<a id="post-28"></a>
+
 ### 28. I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)
 
-2026-11-05 · u/No-Praline-9052 · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xog7bh/i_built_a_lightweight_pyside6_gui_for_ytdlp/)
+2026-11-05 · u/No-Praline-9052 · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xog7bh/i_built_a_lightweight_pyside6_gui_for_ytdlp/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-29"></a>
 
 ### 29. Feasibility check: Writing a constrained Python-to-Rust transpiler for numeric code
 
-2026-11-05 · u/Thin-Parsley-1660 · Discussion · score 6 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoeowp/feasibility_check_writing_a_constrained/)
+2026-11-05 · u/Thin-Parsley-1660 · Discussion · score 6 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xoeowp/feasibility_check_writing_a_constrained/) · [↑ back to the list](#last-50-posts)
 
 > so i would want to know about the feasibility of such a tool/project and whether it has any real uses or is it the equivalent of re inventing a worse wheel , basically core idea is to somehow transpile python to rust but not all of python ,instead more similar to numpy but instead the whole specified block of code is compiled for maximum speed almost like numba?? any feedback would be appreciated
 
+<a id="post-30"></a>
+
 ### 30. \[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community
 
-2026-11-05 · u/AssistanceNational76 · Resource · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xodaot/oc_macro_pro_a_lightweight_standalone_macro/)
+2026-11-05 · u/AssistanceNational76 · Resource · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xodaot/oc_macro_pro_a_lightweight_standalone_macro/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-31"></a>
 
 ### 31. \[OC\] Macro Pro, a lightweight standalone macro recorder for Windows – Looking for community
 
-2026-11-05 · u/AssistanceNational76 · Resource · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod986/oc_macro_pro_a_lightweight_standalone_macro/)
+2026-11-05 · u/AssistanceNational76 · Resource · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod986/oc_macro_pro_a_lightweight_standalone_macro/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-32"></a>
 
 ### 32. ToolBoundary – An open-source Python library for runtime security and policy enforcement in AI agent
 
-2026-11-05 · u/Present_Education_98 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod84g/toolboundary_an_opensource_python_library_for/)
+2026-11-05 · u/Present_Education_98 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod84g/toolboundary_an_opensource_python_library_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. ToolBoundary – Runtime security and policy enforcement for AI agents
 
-2026-11-05 · u/Present_Education_98 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod44v/toolboundary_runtime_security_and_policy/)
+2026-11-05 · u/Present_Education_98 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xod44v/toolboundary_runtime_security_and_policy/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Thursday Daily Thread: Python Careers, Courses, and Furthering Education!
 
-2026-11-05 · u/AutoModerator · :pythonLogo: Daily Thread · score 16 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xo41r2/thursday_daily_thread_python_careers_courses_and/)
+2026-11-05 · u/AutoModerator · :pythonLogo: Daily Thread · score 16 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xo41r2/thursday_daily_thread_python_careers_courses_and/) · [↑ back to the list](#last-50-posts)
 
 > # Weekly Thread: Professional Use, Jobs, and Education 🏢
 >
@@ -546,69 +614,89 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Let's help each other grow in our careers and education. Happy discussing! 🌟
 
+<a id="post-35"></a>
+
 ### 35. Consolidated my multi-language clients (Python, JS, PHP) for bypassing WAFs and anti-bot challenges
 
-2026-11-04 · u/promcoder · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xny6ni/consolidated_my_multilanguage_clients_python_js/)
+2026-11-04 · u/promcoder · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xny6ni/consolidated_my_multilanguage_clients_python_js/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-36"></a>
 
 ### 36. Code Review: Automated ARP/NDP Network Tool in Python (arpspecter)
 
-2026-11-04 · u/Far_Yogurtcloset9465 · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnw40f/code_review_automated_arpndp_network_tool_in/)
+2026-11-04 · u/Far_Yogurtcloset9465 · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnw40f/code_review_automated_arpndp_network_tool_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. I made a game In Python
 
-2026-11-04 · u/No_Tennis_4843 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xntwzg/i_made_a_game_in_python/)
+2026-11-04 · u/No_Tennis_4843 · Showcase · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xntwzg/i_made_a_game_in_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-38"></a>
+
 ### 38. Showcase Thread
 
-2026-11-04 · u/AutoModerator · Showcase · score 18 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xntm2j/showcase_thread/)
+2026-11-04 · u/AutoModerator · Showcase · score 18 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xntm2j/showcase_thread/) · [↑ back to the list](#last-50-posts)
 
 > Post all of your code/projects/showcases/AI slop here. 
 >
 > Recycles once a month.
 
+<a id="post-39"></a>
+
 ### 39. Botstock: a live stock exchange for trading agents, with a stdlib-only Python example
 
-2026-11-04 · u/Frosty_Ad8830pkdev · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xns19j/botstock_a_live_stock_exchange_for_trading_agents/)
+2026-11-04 · u/Frosty_Ad8830pkdev · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xns19j/botstock_a_live_stock_exchange_for_trading_agents/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-40"></a>
+
 ### 40. checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()
 
-2026-11-04 · u/KevinBeicon · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnqfxi/checkmodel_onecall_diagnostics_for_statistical/)
+2026-11-04 · u/KevinBeicon · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnqfxi/checkmodel_onecall_diagnostics_for_statistical/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-41"></a>
 
 ### 41. What Python project taught you the most about real world development?
 
-2026-11-04 · u/Sonu_Jana · Discussion · score 23 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnp9kl/what_python_project_taught_you_the_most_about/)
+2026-11-04 · u/Sonu_Jana · Discussion · score 23 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnp9kl/what_python_project_taught_you_the_most_about/) · [↑ back to the list](#last-50-posts)
 
 > I'm interested in hearing about projects that genuinely improved your programming skills. Not necessarily huge projects, but ones that taught you something valuable
 
+<a id="post-42"></a>
+
 ### 42. silentbug-lite: a small static checker for five bugs that usually pass tests (Python + JS/TS)
 
-2026-11-04 · u/manish_builds · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnnqlw/silentbuglite_a_small_static_checker_for_five/)
+2026-11-04 · u/manish_builds · Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnnqlw/silentbuglite_a_small_static_checker_for_five/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. Has anyone here tried CodShot?
 
-2026-11-04 · u/karoly22 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnk1ts/has_anyone_here_tried_codshot/)
+2026-11-04 · u/karoly22 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnk1ts/has_anyone_here_tried_codshot/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. GIL is a mutex in CPython that ensures only one thread executes Python bytecode at a time
 
-2026-11-04 · u/DueBid3298 · Discussion · score 0 · 6 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnjoo1/gil_is_a_mutex_in_cpython_that_ensures_only_one/)
+2026-11-04 · u/DueBid3298 · Discussion · score 0 · 6 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnjoo1/gil_is_a_mutex_in_cpython_that_ensures_only_one/) · [↑ back to the list](#last-50-posts)
 
 > 1. What advantage does interpreter language has over compiled language?(try with some in-depth low level answers and please try avoiding text book answers )  
 > 2. What advantage does python has over c++ being interpreted language? 
@@ -617,41 +705,53 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/Python-ModTeam): Hi there, from the /r/Python mods. We have removed this post as it is not suited to the /r/Python subreddit proper, however it should be very appropriate for our sister subreddit /r/LearnPython or for the r/Python discord: https://discord.gg/python. The reason for the removal is that /r/Python is dedicated to discussion of Python news, projects, uses and debates. It is not designed to act as Q&A or FAQ board. The regular community is not a fan of "how do I..." questions, so you will not get the best responses over here. On /r/LearnPython the community and the r/Python discord are actively expecting questions and are looking to help. You can expect far more understanding, encouraging and insightful responses over there. **No matter what level of question you have, if you are looking for help with Python, you should get good answers**. Make sure to check out the rules for both places. Warm regards, and best of luck with your Pythoneering!
 
+<a id="post-45"></a>
+
 ### 45. ssh-honeypot: Paramiko-based deception honeypot with MITRE ATT&CK mapping (Python)
 
-2026-11-04 · u/Dev9269 · Showcase · score 1 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xni8ej/sshhoneypot_paramikobased_deception_honeypot_with/)
+2026-11-04 · u/Dev9269 · Showcase · score 1 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xni8ej/sshhoneypot_paramikobased_deception_honeypot_with/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-46"></a>
 
 ### 46. Open-access directory of 125+ vectorized Python scripts for Quant Finance & Algo Trading
 
-2026-11-04 · u/CuriousBuilder99 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnh0gc/openaccess_directory_of_125_vectorized_python/)
+2026-11-04 · u/CuriousBuilder99 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnh0gc/openaccess_directory_of_125_vectorized_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. I built a free library of 125+ production-ready Python scripts for quants and financial automation
 
-2026-11-04 · u/CuriousBuilder99 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xneoxy/i_built_a_free_library_of_125_productionready/)
+2026-11-04 · u/CuriousBuilder99 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xneoxy/i_built_a_free_library_of_125_productionready/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed as it does not contain a link to a GitHub, GitLab, or other recognizable repository hosting provider. To prevent further holds in the future, consider re-reading the r/Python rule (specifically rule #5): Rule 5: When posting projects please include both description text and a link to source code When posting a project please include an image showing your project if applicable as well as a textual description of your project including how Python is relevant to it and a link to source code.
 
+<a id="post-48"></a>
+
 ### 48. \[Project\] Dynamic Island for Windows in Python + ctypes (<18 MB RAM vs 350 MB on Electron)
 
-2026-11-04 · u/Nasty_Dev_12 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnbe0f/project_dynamic_island_for_windows_in_python/)
+2026-11-04 · u/Nasty_Dev_12 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xnbe0f/project_dynamic_island_for_windows_in_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-49"></a>
 
 ### 49. repovet: check a GitHub repo for auto-run tasks, curl\|sh and agent-file tricks before you open it
 
-2026-11-03 · u/Low-Story5395 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xn6swb/repovet_check_a_github_repo_for_autorun_tasks/)
+2026-11-03 · u/Low-Story5395 · Showcase · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Python/comments/1xn6swb/repovet_check_a_github_repo_for_autorun_tasks/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. Designing a zero-dependency Python scraping SDK: sticking with pure stdlib vs adding httpx?
 
-2026-11-03 · u/Solid-Bidl · Discussion · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xn28q6/designing_a_zerodependency_python_scraping_sdk/)
+2026-11-03 · u/Solid-Bidl · Discussion · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xn28q6/designing_a_zerodependency_python_scraping_sdk/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/Python,
 >
@@ -701,9 +801,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Curious how other library authors here balance the "zero-dependency stdlib" philosophy against developer ergonomics in 2026.
 
+<a id="post-51"></a>
+
 ### 51. litellm 1.107.0 on PyPI is compromised
 
-2026-10-21 · u/BattleRemote3157 · News · score 409 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
+2026-10-21 · u/BattleRemote3157 · News · score 409 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/) · [↑ back to the list](#last-50-posts)
 
 > the payloads run on every python start on the machine and not just when you import litellm. Your IDE, pip, CI jobs everything python on that host is affected.
 >
@@ -713,9 +815,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > complete breakdown: [safedep.io/litellm-pypi-compromise-credential-stealer-backdoor](http://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor)
 
+<a id="post-52"></a>
+
 ### 52. \[CVE-2026-111497\] If you run a python server, you should update it right now
 
-2026-10-24 · u/me_myself_ai · News · score 231 · 53 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/)
+2026-10-24 · u/me_myself_ai · News · score 231 · 53 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/) · [↑ back to the list](#last-50-posts)
 
 > The "HTTP2Shell" vulnerability affects servers that know how to speak Google's 'brotli' compression protocol, which would likely make its way into your server through an innoccuous-sounding speedup dep like `urllib3[brotli]` or `aiohttp[speedups]`, and could be used by basically any server, including Flask, Quart, Starlette, FastAPI, etc. It was [downloaded](https://pypistats.org/packages/brotli) 4,200,000 times from PyPI yesterday alone, to give you a sense of the scale.
 >
@@ -737,15 +841,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > **Does anyone kn\*w a good way to to get notified proactively for Python-relevant CVEs and other incidents?**
 
+<a id="post-53"></a>
+
 ### 53. Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out
 
-2026-10-26 · u/japaget · News · score 230 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xgcu6d/python_3152_31410_31318_31216_and_31118_are_out/)
+2026-10-26 · u/japaget · News · score 230 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xgcu6d/python_3152_31410_31318_31216_and_31118_are_out/) · [↑ back to the list](#last-50-posts)
 
 > See [https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/](https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/) .  This is another security update that addresses the [compromised eMudhra intermediate Certificate Authority keys](https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576).
 
+<a id="post-54"></a>
+
 ### 54. PEP 851 – Add list.discard()
 
-2026-10-30 · u/kirara0048 · News · score 213 · 56 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/)
+2026-10-30 · u/kirara0048 · News · score 213 · 56 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/) · [↑ back to the list](#last-50-posts)
 
 > # PEP 851 – Add list.discard()
 >
@@ -804,15 +912,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > The cost of providing this is small, as `discard()` reuses the existing search and removal implementation of [`remove()`](https://docs.python.org/3/builtins/stdtypes.html#list.remove).
 
+<a id="post-55"></a>
+
 ### 55. What are some features in Python that you discovered many years later?
 
-2026-10-12 · u/igorrto2 · Discussion · score 211 · 149 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x3vy20/what_are_some_features_in_python_that_you/)
+2026-10-12 · u/igorrto2 · Discussion · score 211 · 149 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x3vy20/what_are_some_features_in_python_that_you/) · [↑ back to the list](#last-50-posts)
 
 > For me, it was the the option to use & to find intersections of two sets, | operator to unionize two sets, as well as \^ for symmetric difference
 
+<a id="post-56"></a>
+
 ### 56. GeoPolars is being actively developed again: geometry types, CRS-aware measurements and GeoParquet
 
-2026-10-11 · u/Balance- · News · score 198 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x31w69/geopolars_is_being_actively_developed_again/)
+2026-10-11 · u/Balance- · News · score 198 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x31w69/geopolars_is_being_actively_developed_again/) · [↑ back to the list](#last-50-posts)
 
 > GeoPolars, the geospatial extension for Polars, had been mostly dormant. Since mid-September, Aida van de Wetering has pushed around 125 commits to the [dev branch](https://github.com/pola-rs/geopolars/commits/dev/). It now looks like a rebuild around a Polars-native geo expression namespace.
 >
@@ -826,9 +938,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > It's still a prototype. Nothing has been released yet, and the API is changing. Still, it's worth watching if you'd like to do geospatial work in Polars without going through GeoPandas.
 
+<a id="post-57"></a>
+
 ### 57. Jazzband is shutting down
 
-2026-10-13 · u/nicholashairs · News · score 197 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x5caxn/jazzband_is_shutting_down/)
+2026-10-13 · u/nicholashairs · News · score 197 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x5caxn/jazzband_is_shutting_down/) · [↑ back to the list](#last-50-posts)
 
 > Jazzband was a collaborative community to share the responsibility of maintaining Python-based projects. And after 10 years of operation it is shutting down. The shutdown was announced in March and will continue later this year.
 >
@@ -848,9 +962,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > It looks like other community organisations have cropped up in that time as well such as [Django Commons](https://django-commons.org/). I've only taken a brief look at them but I'm interested to know more about their structure and how well it's working - [I've previously looked for such community organisations](https://www.reddit.com/r/Python/comments/1ao1pkv/is_there_a_community_organisation_focussed_on/) when I took over maintaining python-json-logger.
 
+<a id="post-58"></a>
+
 ### 58. Info for Python users regarding eMudhra / emSign CA certificate security incident
 
-2026-10-20 · u/sethmlarson_ · News · score 165 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xb1lcf/info_for_python_users_regarding_emudhra_emsign_ca/)
+2026-10-20 · u/sethmlarson_ · News · score 165 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xb1lcf/info_for_python_users_regarding_emudhra_emsign_ca/) · [↑ back to the list](#last-50-posts)
 
 > A [security incident affecting eMudhra intermediate certificates](https://emudhra.we-have-a-problem.com/) has required removing the emSign root CA certificate from CA bundles such as “[certifi](https://pypi.org/p/certifi)”. It’s important to immediately upgrade the software packages below to at least the versions specified and rebuild container images to fetch the latest system certificates. Failure to do so could result in monster-in-the-middle (MITM) attacks against TLS clients, including [`python.org`](http://python.org) and [`pypi.org`](http://pypi.org) .
 >
@@ -865,9 +981,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Please read the full post on [discuss.python.org](http://discuss.python.org) for up-to-date information: [https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576](https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576)
 
+<a id="post-59"></a>
+
 ### 59. I'm now maintaining passlib
 
-2026-10-30 · u/Amazing_Learn · Discussion · score 163 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/Python/comments/1xj74pw/im_now_maintaining_passlib/)
+2026-10-30 · u/Amazing_Learn · Discussion · score 163 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/Python/comments/1xj74pw/im_now_maintaining_passlib/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone, around a week ago passlib was [transferred](https://github.com/pypi/support/issues/9290#issuecomment-4008772766) to me on PyPi after the previous maintainer became unreachable. I've been trying to maintain it in the meantime under a different PyPi name ([libpass](https://pypi.org/project/libpass/)).
 >
@@ -905,9 +1023,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'd welcome co-maintainers, repository could be found here: [https://github.com/notypecheck/passlib](https://github.com/notypecheck/passlib), even short-term involvement would be very much appreciated
 
+<a id="post-60"></a>
+
 ### 60. LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never
 
-2026-10-24 · u/correctMeIfImcorrect · News · score 145 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/)
+2026-10-24 · u/correctMeIfImcorrect · News · score 145 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/) · [↑ back to the list](#last-50-posts)
 
 > [https://youtu.be/vxE3XbcLCa8](https://youtu.be/vxE3XbcLCa8) 
 >
@@ -921,9 +1041,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you’ve ever pushed a key to a public repo: deleting the commit doesn’t make the key stop working.
 
+<a id="post-61"></a>
+
 ### 61. Python jettisons the native JIT, at least for now
 
-2026-10-28 · u/nicholashairs · News · score 136 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhadxq/python_jettisons_the_native_jit_at_least_for_now/)
+2026-10-28 · u/nicholashairs · News · score 136 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhadxq/python_jettisons_the_native_jit_at_least_for_now/) · [↑ back to the list](#last-50-posts)
 
 > [High level summary article](https://www.infoworld.com/article/4241003/python-jettisons-the-native-jit-at-least-for-now.html)
 >
@@ -931,9 +1053,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > \> In June, the Python steering council announced that it was pausing work on the JIT in CPython's main branch until there was an accepted Python Enhancement Proposal (PEP) that addressed concerns about maintenance, compatibility, and set clear success metrics as well as a timeline for completion. After \[....\] months of discussion, the JIT maintainers have withdrawn the PEP. For now, it appears that development on the once-promising project has come to an end
 
+<a id="post-62"></a>
+
 ### 62. If you run Python 3.10 on AWS Lambda: it's deprecated this Friday (Oct 31). Gotchas moving to 3.12+
 
-2026-10-28 · u/timmywick · Discussion · score 121 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhoetl/if_you_run_python_310_on_aws_lambda_its/)
+2026-10-28 · u/timmywick · Discussion · score 121 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhoetl/if_you_run_python_310_on_aws_lambda_its/) · [↑ back to the list](#last-50-posts)
 
 > Heads-up for anyone with Lambda functions still on python3.10. AWS deprecates the runtime on Oct 31, 2026. Functions keep running, but they stop getting patches, the console won't let you edit them, and in 2027 AWS blocks creating new ones (Jul 29) and then updating existing ones (Aug 31).
 >
@@ -967,9 +1091,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > What else broke for you going 3.10 → 3.12/3.13?
 
+<a id="post-63"></a>
+
 ### 63. Python Typing Survey 2026 Results
 
-2026-10-28 · u/BeamMeUpBiscotti · Discussion · score 112 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhnvs0/python_typing_survey_2026_results/)
+2026-10-28 · u/BeamMeUpBiscotti · Discussion · score 112 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xhnvs0/python_typing_survey_2026_results/) · [↑ back to the list](#last-50-posts)
 
 > The results are out for the [2026 Python Typing Survey](https://www.reddit.com/r/Python/comments/1vh295u/2026_python_type_system_and_tooling_survey/) (1,794 responses).
 >
@@ -982,9 +1108,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > - Missing type information in third-party libraries remained the most common difficulty, reported by 65.1% of respondents.
 > - Better `Callable` syntax was the most requested missing feature, at 45.7%.
 
+<a id="post-64"></a>
+
 ### 64. Request for feedback: uv check & PEP 723 script support in ty
 
-2026-10-20 · u/zsol · Discussion · score 110 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xb18ik/request_for_feedback_uv_check_pep_723_script/)
+2026-10-20 · u/zsol · Discussion · score 110 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xb18ik/request_for_feedback_uv_check_pep_723_script/) · [↑ back to the list](#last-50-posts)
 
 > We've been working on[ PEP 723 inline metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/) support for ty both on the command line (`ty check`) and in the IDE (code navigation, autocompletion, etc) for a while now; we're finally at a stage where we're ready for more people to try it out and let us know what works and what doesn't.
 >
@@ -994,9 +1122,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > All of the above is currently opt-in, experimental, and subject to change at any time 😄 But if you're willing to give it a try, I'd be curious how it went.
 
+<a id="post-65"></a>
+
 ### 65. Microsoft partners w/ Meta to bring Pyrefly support to Pylance in VS Code
 
-2026-10-26 · u/BeamMeUpBiscotti · News · score 107 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xfvk76/microsoft_partners_w_meta_to_bring_pyrefly/)
+2026-10-26 · u/BeamMeUpBiscotti · News · score 107 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xfvk76/microsoft_partners_w_meta_to_bring_pyrefly/) · [↑ back to the list](#last-50-posts)
 
 > Link to blog: https://devblogs.microsoft.com/python/announcing-tsp/
 >
@@ -1006,9 +1136,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > To enable this, Microsoft developed an extension to the language server protocol (LSP) called the type server protocol (TSP), a new standard that separates wider set of language server features from the type checker/compiler powering some of them.
 
+<a id="post-66"></a>
+
 ### 66. Summary of Major Changes Between Python Versions (2026 Update)
 
-2026-10-20 · u/nicholashairs · Resource · score 103 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xak07n/summary_of_major_changes_between_python_versions/)
+2026-10-20 · u/nicholashairs · Resource · score 103 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xak07n/summary_of_major_changes_between_python_versions/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/python 👋 
 >
@@ -1016,9 +1148,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I've updated my "one page" [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/) for Python 3.15 and hope that it continues to be a useful resource for the community 😊
 
+<a id="post-67"></a>
+
 ### 67. Python 3.10–3.15 encoding benchmarks: big gains for Base32 and Base85, but 3.14 leads Base16
 
-2026-10-17 · u/BestRef · Discussion · score 102 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x89bnq/python_310315_encoding_benchmarks_big_gains_for/)
+2026-10-17 · u/BestRef · Discussion · score 102 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x89bnq/python_310315_encoding_benchmarks_big_gains_for/) · [↑ back to the list](#last-50-posts)
 
 > Eight encoding benchmarks across Python 3.10–3.15 using pyperformance. Python 3.15 recorded the lowest mean in seven of them, with particularly large improvements in Base32, Ascii85 and Base85.
 >
@@ -1064,9 +1198,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Have you observed similar improvements on Linux or macOS, or in applications that spend substantial time on these encoding operations?
 
+<a id="post-68"></a>
+
 ### 68. FastAPI Cloud is now generally available
 
-2026-11-02 · u/tiangolo · News · score 98 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/)
+2026-11-02 · u/tiangolo · News · score 98 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/) · [↑ back to the list](#last-50-posts)
 
 > I'm excited to share with you all that FastAPI Cloud is now generally available: [https://fastapicloud.com/blog/fastapi-cloud-generally-available/](https://fastapicloud.com/blog/fastapi-cloud-generally-available/)
 >
@@ -1074,9 +1210,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Note: I thought it could be shareable here as it's a nice milestone (also for FastAPI itself), but let me know if this feels spammy and I'll remove it.
 
+<a id="post-69"></a>
+
 ### 69. Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation
 
-2026-11-03 · u/zurtex · News · score 79 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/)
+2026-11-03 · u/zurtex · News · score 79 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/) · [↑ back to the list](#last-50-posts)
 
 > Today I got to be the release manager for pip 26.3! There was two big features, and one documentation update, that I think worth talking about:
 >
@@ -1128,9 +1266,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > The full change log: [https://pip.pypa.io/en/stable/news/#v26-3](https://pip.pypa.io/en/stable/news/#v26-3)
 
+<a id="post-70"></a>
+
 ### 70. Are fewer young people getting into Python these days?
 
-2026-10-11 · u/digitalice · Discussion · score 77 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x2z666/are_fewer_young_people_getting_into_python_these/)
+2026-10-11 · u/digitalice · Discussion · score 77 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/Python/comments/1x2z666/are_fewer_young_people_getting_into_python_these/) · [↑ back to the list](#last-50-posts)
 
 > I recently attended a local PyDay (a Python community event) in my city, and the auditorium was around 70% full.
 >

@@ -35,56 +35,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Learning skills](https://www.reddit.com/r/dataanalytics/comments/1xpyhso/learning_skills/) | u/Common_Primary9551 | — | text | 1 | 2 | live | — |
-| 2 | 2026-11-07 | [Recent Grad Looking for Data-Related Side Hustle While Applying for Jobs](https://www.reddit.com/r/dataanalytics/comments/1xpvzrk/recent_grad_looking_for_datarelated_side_hustle/) | u/Business_Walk1624 | — | text | 0 | 2 | live | — |
-| 3 | 2026-11-07 | [Asking for advice](https://www.reddit.com/r/dataanalytics/comments/1xpvpt2/asking_for_advice/) | u/Afraid_Gold3060 | — | text | 1 | 0 | live | — |
-| 4 | 2026-11-06 | [suggest me a good data analytics course](https://www.reddit.com/r/dataanalytics/comments/1xpjhar/suggest_me_a_good_data_analytics_course/) | u/BigDataSmoke | — | text | 0 | 0 | spam-filtered | — |
-| 5 | 2026-11-06 | [Some genuine questions as a beginner](https://www.reddit.com/r/dataanalytics/comments/1xpddd9/some_genuine_questions_as_a_beginner/) | u/Extension-Ranger3831 | — | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-06 | [Most HR dashboards measure what is easy, not what anyone acts on](https://www.reddit.com/r/dataanalytics/comments/1xp95pq/most_hr_dashboards_measure_what_is_easy_not_what/) | u/imogen-maddox-246 | — | text | 0 | 0 | content_takedown | — |
-| 7 | 2026-11-06 | ["We're a data-driven company."](https://www.reddit.com/r/dataanalytics/comments/1xp5f45/were_a_datadriven_company/) | u/Legitimate-Issue1856 | — | i.redd.it | 7 | 0 | live | — |
-| 8 | 2026-11-05 | [Learning how to understand business](https://www.reddit.com/r/dataanalytics/comments/1xonv89/learning_how_to_understand_business/) | u/Senior-Ad-6588 | — | text | 2 | 1 | live | — |
-| 9 | 2026-11-05 | [Capital one Senior Data Analyst Power Day](https://www.reddit.com/r/dataanalytics/comments/1xolx7v/capital_one_senior_data_analyst_power_day/) | u/Haunting_Witness6910 | — | text | 4 | 2 | live | — |
-| 10 | 2026-11-05 | [I want to switch into analytics side , but don't know how](https://www.reddit.com/r/dataanalytics/comments/1xoj9o7/i_want_to_switch_into_analytics_side_but_dont/) | u/BlueberryKindly958 | — | text | 6 | 4 | live | — |
-| 11 | 2026-11-05 | [Pretty new to data analytics](https://www.reddit.com/r/dataanalytics/comments/1xochwr/pretty_new_to_data_analytics/) | u/Mobile-Conference887 | — | text | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-05 | [A Nursing Student Learning Data Analysis — Looking to Connect With Like-Minded People](https://www.reddit.com/r/dataanalytics/comments/1xo78p5/a_nursing_student_learning_data_analysis_looking/) | u/No_Cake_1961 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-05 | [2026 CSE graduate confused between continuing with Data Analytics or starting coding (Java/MERN) from scratch…](https://www.reddit.com/r/dataanalytics/comments/1xo54fu/2026_cse_graduate_confused_between_continuing/) | u/Real-Scientist-5549 | — | text | 1 | 3 | live | — |
-| 14 | 2026-11-05 | [Is this the last chill career left?](https://www.reddit.com/r/dataanalytics/comments/1xo4s2s/is_this_the_last_chill_career_left/) | u/Serious-Onion-0714 | — | text | 1 | 0 | spam-filtered | — |
-| 15 | 2026-11-04 | [Dev fullstack -> data analyst ?](https://www.reddit.com/r/dataanalytics/comments/1xo0quj/dev_fullstack_data_analyst/) | u/Strong-Soft-2282 | — | text | 2 | 2 | live | — |
-| 16 | 2026-11-04 | [Avis sur mon CV Data Analyst : que puis-je améliorer ?](https://www.reddit.com/r/dataanalytics/comments/1xo0a83/avis_sur_mon_cv_data_analyst_que_puisje_améliorer/) | u/Careless-Yam-2960 | — | i.redd.it | 1 | 0 | live | — |
-| 17 | 2026-11-04 | [can someone suggest me any book for data analytics](https://www.reddit.com/r/dataanalytics/comments/1xo093o/can_someone_suggest_me_any_book_for_data_analytics/) | u/Head-Safe29 | — | text | 8 | 7 | live | — |
-| 18 | 2026-11-04 | [Fresher data analyst: should I take a Zendesk support analyst role (night shift, ~3.2-3.5 LPA + night allowan…](https://www.reddit.com/r/dataanalytics/comments/1xnyq5b/fresher_data_analyst_should_i_take_a_zendesk/) | u/Peterparkerx18 | — | text | 1 | 1 | live | — |
-| 19 | 2026-11-04 | [\[US\] 30+ Data Analytics jobs that opened this week (remote, hybrid)](https://www.reddit.com/r/dataanalytics/comments/1xnyc04/us_30_data_analytics_jobs_that_opened_this_week/) | u/TheCryptoCaveman | — | text | 15 | 2 | live | — |
-| 20 | 2026-11-04 | [Resume Tips? :)](https://www.reddit.com/r/dataanalytics/comments/1xnos4c/resume_tips/) | u/No_Yellow_61 | — | i.redd.it | 1 | 3 | live | — |
-| 21 | 2026-11-04 | [Tips for My Resume?](https://www.reddit.com/r/dataanalytics/comments/1xnonq8/tips_for_my_resume/) | u/No_Yellow_61 | — | i.redd.it | 1 | 0 | live | — |
-| 22 | 2026-11-04 | [Would you use an AI agent that handles end-to-end data analysis and data science workflows?](https://www.reddit.com/r/dataanalytics/comments/1xnnxhu/would_you_use_an_ai_agent_that_handles_endtoend/) | u/No_Incident_6009 | — | text | 1 | 1 | live | — |
-| 23 | 2026-11-04 | [Data analyst](https://www.reddit.com/r/dataanalytics/comments/1xnl4d9/data_analyst/) | u/Armstrong_UC | — | text | 0 | 0 | spam-filtered | — |
-| 24 | 2026-11-04 | [Helppp](https://www.reddit.com/r/dataanalytics/comments/1xniqrh/helppp/) | u/irlDevan | — | text | 1 | 3 | live | — |
-| 25 | 2026-11-04 | [Can SQL + Power BI prepare me for an entry-level data analyst role?](https://www.reddit.com/r/dataanalytics/comments/1xnhc1r/can_sql_power_bi_prepare_me_for_an_entrylevel/) | u/TelevisionGlad110 | — | text | 0 | 4 | live | — |
-| 26 | 2026-11-04 | [Why Data Analytics Certification Is Essential for Career Growth in 2026](https://www.reddit.com/r/dataanalytics/comments/1xnglpo/why_data_analytics_certification_is_essential_for/) | u/OkSchedule671 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 27 | 2026-11-04 | [Lyft data analyst interview](https://www.reddit.com/r/dataanalytics/comments/1xnbw9q/lyft_data_analyst_interview/) | u/Boring_Opposite7021 | — | text | 6 | 1 | live | — |
-| 28 | 2026-11-03 | [Google Data Analytics Certificate (2026) – Is It Worth It?](https://www.reddit.com/r/dataanalytics/comments/1xn0o3h/google_data_analytics_certificate_2026_is_it/) | u/kiyach | — | youtube.com | 1 | 0 | removed by mod | — |
-| 29 | 2026-11-03 | [Junior data analyst job ads vs what you actually use at work](https://www.reddit.com/r/dataanalytics/comments/1xmxvwg/junior_data_analyst_job_ads_vs_what_you_actually/) | u/Kavin_muthukumar | — | text | 44 | 10 | live | — |
-| 30 | 2026-11-03 | [Data analyst interview preparation in 10 days](https://www.reddit.com/r/dataanalytics/comments/1xmt3vj/data_analyst_interview_preparation_in_10_days/) | u/Engineer_53 | — | text | 1 | 0 | spam-filtered | — |
-| 31 | 2026-11-03 | [Is b.com computer application ok for data analytics](https://www.reddit.com/r/dataanalytics/comments/1xmozms/is_bcom_computer_application_ok_for_data_analytics/) | u/Right_Calendar_8536 | — | text | 1 | 2 | live | — |
-| 32 | 2026-11-03 | [Need advice on transitioning to data analytics with domain expertise](https://www.reddit.com/r/dataanalytics/comments/1xmnjsq/need_advice_on_transitioning_to_data_analytics/) | u/RazzmatazzSome8980 | — | text | 0 | 0 | spam-filtered | — |
-| 33 | 2026-11-03 | [Which IT Skills Should You Learn in 2027?](https://www.reddit.com/r/dataanalytics/comments/1xmmnib/which_it_skills_should_you_learn_in_2027/) | u/MoistEstimate5397 | — | text | 0 | 0 | spam-filtered | — |
-| 34 | 2026-11-03 | [Is it worth learning how to write sql and python without AI?](https://www.reddit.com/r/dataanalytics/comments/1xmi6xx/is_it_worth_learning_how_to_write_sql_and_python/) | u/ashkash6969 | — | text | 14 | 23 | live | — |
-| 35 | 2026-11-02 | [Why did my video get so many impressions?](https://www.reddit.com/r/dataanalytics/comments/1xmcafr/why_did_my_video_get_so_many_impressions/) | u/Shoddy-Snow-556 | — | i.redd.it | 1 | 0 | removed by mod | — |
-| 36 | 2026-11-02 | [Need advice on finding off-campus Data Analytics jobs as an MBA student](https://www.reddit.com/r/dataanalytics/comments/1xm86m4/need_advice_on_finding_offcampus_data_analytics/) | u/New-Perception3317 | — | text | 1 | 2 | live | — |
-| 37 | 2026-11-02 | [Stay in a comfortable backup DBA role at a large conglomerate or take a solo founding Senior Data Analyst job…](https://www.reddit.com/r/dataanalytics/comments/1xm3irq/stay_in_a_comfortable_backup_dba_role_at_a_large/) | u/Old-Strawberry9740 | — | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-11-02 | [Stay in a comfortable 6 figure backup DBA role at a large conglomerate or take a solo founding Senior Data An…](https://www.reddit.com/r/dataanalytics/comments/1xm3enj/stay_in_a_comfortable_6_figure_backup_dba_role_at/) | u/Old-Strawberry9740 | — | text | 1 | 0 | spam-filtered | — |
-| 39 | 2026-11-02 | [Where to learn data analytics?](https://www.reddit.com/r/dataanalytics/comments/1xlvcjq/where_to_learn_data_analytics/) | u/Right_Calendar_8536 | — | text | 3 | 3 | live | — |
-| 40 | 2026-11-02 | [Im learning Data analysis right now and should I learn python ?](https://www.reddit.com/r/dataanalytics/comments/1xlu987/im_learning_data_analysis_right_now_and_should_i/) | u/MOo0stafa | — | text | 8 | 33 | live | — |
-| 41 | 2026-11-02 | [Data Analyst vs Data Scientist: which one should a fresher start with?](https://www.reddit.com/r/dataanalytics/comments/1xlslgq/data_analyst_vs_data_scientist_which_one_should_a/) | u/MoistEstimate5397 | — | text | 0 | 2 | approved | — |
-| 42 | 2026-11-02 | [Data Analyst vs Data Scientist: Which Career Is Right for You?](https://www.reddit.com/r/dataanalytics/comments/1xls9rq/data_analyst_vs_data_scientist_which_career_is/) | u/MoistEstimate5397 | — | text | 0 | 1 | approved | — |
-| 43 | 2026-11-02 | [spark performance tuning](https://www.reddit.com/r/dataanalytics/comments/1xlrfj0/spark_performance_tuning/) | u/emily-carter-93 | — | text | 1 | 0 | approved | — |
-| 44 | 2026-11-02 | [Live Projects](https://www.reddit.com/r/dataanalytics/comments/1xlqqqa/live_projects/) | u/Harvey_R_Specter_36 | — | text | 1 | 2 | live | — |
-| 45 | 2026-11-02 | [im an 18 yo IT student in the philippines and wants to pursue data analytics in the future.](https://www.reddit.com/r/dataanalytics/comments/1xlqo9s/im_an_18_yo_it_student_in_the_philippines_and/) | u/dihpression002 | — | text | 1 | 0 | spam-filtered | — |
-| 46 | 2026-11-02 | [The Growing Demand for Certified Data Analytics Professionals](https://www.reddit.com/r/dataanalytics/comments/1xlppzp/the_growing_demand_for_certified_data_analytics/) | u/OkSchedule671 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 47 | 2026-11-01 | [To everyone planning to make a career in DA](https://www.reddit.com/r/dataanalytics/comments/1xlay53/to_everyone_planning_to_make_a_career_in_da/) | u/TheOG_DeadShoT | — | i.redd.it | 124 | 36 | live | — |
-| 48 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](https://www.reddit.com/r/dataanalytics/comments/1xlag6h/should_i_be_learning_new_skill_or_just_implement/) | u/WiseWeird6306 | — | text | 11 | 7 | live | — |
-| 49 | 2026-11-01 | [I need to sunstain in IT. Please tell me what all skills required to be at the top of the game. Thanks](https://www.reddit.com/r/dataanalytics/comments/1xl6zrb/i_need_to_sunstain_in_it_please_tell_me_what_all/) | u/No_Championship_7533 | — | text | 1 | 0 | live | — |
-| 50 | 2026-11-01 | [Free resources for data analytics](https://www.reddit.com/r/dataanalytics/comments/1xl6y3i/free_resources_for_data_analytics/) | u/Inevitable-Doubt2399 | — | text | 2 | 10 | live | — |
+| 1 | 2026-11-07 | [Learning skills](#post-1) | u/Common_Primary9551 | — | text | 1 | 2 | live | — |
+| 2 | 2026-11-07 | [Recent Grad Looking for Data-Related Side Hustle While Applying for Jobs](#post-2) | u/Business_Walk1624 | — | text | 0 | 2 | live | — |
+| 3 | 2026-11-07 | [Asking for advice](#post-3) | u/Afraid_Gold3060 | — | text | 1 | 0 | live | — |
+| 4 | 2026-11-06 | [suggest me a good data analytics course](#post-4) | u/BigDataSmoke | — | text | 0 | 0 | spam-filtered | — |
+| 5 | 2026-11-06 | [Some genuine questions as a beginner](#post-5) | u/Extension-Ranger3831 | — | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-06 | [Most HR dashboards measure what is easy, not what anyone acts on](#post-6) | u/imogen-maddox-246 | — | text | 0 | 0 | content_takedown | — |
+| 7 | 2026-11-06 | ["We're a data-driven company."](#post-7) | u/Legitimate-Issue1856 | — | i.redd.it | 7 | 0 | live | — |
+| 8 | 2026-11-05 | [Learning how to understand business](#post-8) | u/Senior-Ad-6588 | — | text | 2 | 1 | live | — |
+| 9 | 2026-11-05 | [Capital one Senior Data Analyst Power Day](#post-9) | u/Haunting_Witness6910 | — | text | 4 | 2 | live | — |
+| 10 | 2026-11-05 | [I want to switch into analytics side , but don't know how](#post-10) | u/BlueberryKindly958 | — | text | 6 | 4 | live | — |
+| 11 | 2026-11-05 | [Pretty new to data analytics](#post-11) | u/Mobile-Conference887 | — | text | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-05 | [A Nursing Student Learning Data Analysis — Looking to Connect With Like-Minded People](#post-12) | u/No_Cake_1961 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-05 | [2026 CSE graduate confused between continuing with Data Analytics or starting coding (Java/MERN) from scratch…](#post-13) | u/Real-Scientist-5549 | — | text | 1 | 3 | live | — |
+| 14 | 2026-11-05 | [Is this the last chill career left?](#post-14) | u/Serious-Onion-0714 | — | text | 1 | 0 | spam-filtered | — |
+| 15 | 2026-11-04 | [Dev fullstack -> data analyst ?](#post-15) | u/Strong-Soft-2282 | — | text | 2 | 2 | live | — |
+| 16 | 2026-11-04 | [Avis sur mon CV Data Analyst : que puis-je améliorer ?](#post-16) | u/Careless-Yam-2960 | — | i.redd.it | 1 | 0 | live | — |
+| 17 | 2026-11-04 | [can someone suggest me any book for data analytics](#post-17) | u/Head-Safe29 | — | text | 8 | 7 | live | — |
+| 18 | 2026-11-04 | [Fresher data analyst: should I take a Zendesk support analyst role (night shift, ~3.2-3.5 LPA + night allowan…](#post-18) | u/Peterparkerx18 | — | text | 1 | 1 | live | — |
+| 19 | 2026-11-04 | [\[US\] 30+ Data Analytics jobs that opened this week (remote, hybrid)](#post-19) | u/TheCryptoCaveman | — | text | 15 | 2 | live | — |
+| 20 | 2026-11-04 | [Resume Tips? :)](#post-20) | u/No_Yellow_61 | — | i.redd.it | 1 | 3 | live | — |
+| 21 | 2026-11-04 | [Tips for My Resume?](#post-21) | u/No_Yellow_61 | — | i.redd.it | 1 | 0 | live | — |
+| 22 | 2026-11-04 | [Would you use an AI agent that handles end-to-end data analysis and data science workflows?](#post-22) | u/No_Incident_6009 | — | text | 1 | 1 | live | — |
+| 23 | 2026-11-04 | [Data analyst](#post-23) | u/Armstrong_UC | — | text | 0 | 0 | spam-filtered | — |
+| 24 | 2026-11-04 | [Helppp](#post-24) | u/irlDevan | — | text | 1 | 3 | live | — |
+| 25 | 2026-11-04 | [Can SQL + Power BI prepare me for an entry-level data analyst role?](#post-25) | u/TelevisionGlad110 | — | text | 0 | 4 | live | — |
+| 26 | 2026-11-04 | [Why Data Analytics Certification Is Essential for Career Growth in 2026](#post-26) | u/OkSchedule671 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 27 | 2026-11-04 | [Lyft data analyst interview](#post-27) | u/Boring_Opposite7021 | — | text | 6 | 1 | live | — |
+| 28 | 2026-11-03 | [Google Data Analytics Certificate (2026) – Is It Worth It?](#post-28) | u/kiyach | — | youtube.com | 1 | 0 | removed by mod | — |
+| 29 | 2026-11-03 | [Junior data analyst job ads vs what you actually use at work](#post-29) | u/Kavin_muthukumar | — | text | 44 | 10 | live | — |
+| 30 | 2026-11-03 | [Data analyst interview preparation in 10 days](#post-30) | u/Engineer_53 | — | text | 1 | 0 | spam-filtered | — |
+| 31 | 2026-11-03 | [Is b.com computer application ok for data analytics](#post-31) | u/Right_Calendar_8536 | — | text | 1 | 2 | live | — |
+| 32 | 2026-11-03 | [Need advice on transitioning to data analytics with domain expertise](#post-32) | u/RazzmatazzSome8980 | — | text | 0 | 0 | spam-filtered | — |
+| 33 | 2026-11-03 | [Which IT Skills Should You Learn in 2027?](#post-33) | u/MoistEstimate5397 | — | text | 0 | 0 | spam-filtered | — |
+| 34 | 2026-11-03 | [Is it worth learning how to write sql and python without AI?](#post-34) | u/ashkash6969 | — | text | 14 | 23 | live | — |
+| 35 | 2026-11-02 | [Why did my video get so many impressions?](#post-35) | u/Shoddy-Snow-556 | — | i.redd.it | 1 | 0 | removed by mod | — |
+| 36 | 2026-11-02 | [Need advice on finding off-campus Data Analytics jobs as an MBA student](#post-36) | u/New-Perception3317 | — | text | 1 | 2 | live | — |
+| 37 | 2026-11-02 | [Stay in a comfortable backup DBA role at a large conglomerate or take a solo founding Senior Data Analyst job…](#post-37) | u/Old-Strawberry9740 | — | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-11-02 | [Stay in a comfortable 6 figure backup DBA role at a large conglomerate or take a solo founding Senior Data An…](#post-38) | u/Old-Strawberry9740 | — | text | 1 | 0 | spam-filtered | — |
+| 39 | 2026-11-02 | [Where to learn data analytics?](#post-39) | u/Right_Calendar_8536 | — | text | 3 | 3 | live | — |
+| 40 | 2026-11-02 | [Im learning Data analysis right now and should I learn python ?](#post-40) | u/MOo0stafa | — | text | 8 | 33 | live | — |
+| 41 | 2026-11-02 | [Data Analyst vs Data Scientist: which one should a fresher start with?](#post-41) | u/MoistEstimate5397 | — | text | 0 | 2 | approved | — |
+| 42 | 2026-11-02 | [Data Analyst vs Data Scientist: Which Career Is Right for You?](#post-42) | u/MoistEstimate5397 | — | text | 0 | 1 | approved | — |
+| 43 | 2026-11-02 | [spark performance tuning](#post-43) | u/emily-carter-93 | — | text | 1 | 0 | approved | — |
+| 44 | 2026-11-02 | [Live Projects](#post-44) | u/Harvey_R_Specter_36 | — | text | 1 | 2 | live | — |
+| 45 | 2026-11-02 | [im an 18 yo IT student in the philippines and wants to pursue data analytics in the future.](#post-45) | u/dihpression002 | — | text | 1 | 0 | spam-filtered | — |
+| 46 | 2026-11-02 | [The Growing Demand for Certified Data Analytics Professionals](#post-46) | u/OkSchedule671 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 47 | 2026-11-01 | [To everyone planning to make a career in DA](#post-47) | u/TheOG_DeadShoT | — | i.redd.it | 124 | 36 | live | — |
+| 48 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](#post-48) | u/WiseWeird6306 | — | text | 11 | 7 | live | — |
+| 49 | 2026-11-01 | [I need to sunstain in IT. Please tell me what all skills required to be at the top of the game. Thanks](#post-49) | u/No_Championship_7533 | — | text | 1 | 0 | live | — |
+| 50 | 2026-11-01 | [Free resources for data analytics](#post-50) | u/Inevitable-Doubt2399 | — | text | 2 | 10 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -92,42 +92,46 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-13 | [I just got hired as data analyst and this is not what I expect](https://www.reddit.com/r/dataanalytics/comments/1x4x71h/i_just_got_hired_as_data_analyst_and_this_is_not/) | u/AcaTwo | — | text | 249 | 105 | live |
-| 47 | 2026-11-01 | [To everyone planning to make a career in DA](https://www.reddit.com/r/dataanalytics/comments/1xlay53/to_everyone_planning_to_make_a_career_in_da/) | u/TheOG_DeadShoT | — | i.redd.it | 124 | 36 | live |
-| 29 | 2026-11-03 | [Junior data analyst job ads vs what you actually use at work](https://www.reddit.com/r/dataanalytics/comments/1xmxvwg/junior_data_analyst_job_ads_vs_what_you_actually/) | u/Kavin_muthukumar | — | text | 44 | 10 | live |
-| 52 | 2026-10-23 | [Rate my dashboard](https://www.reddit.com/r/dataanalytics/comments/1xddium/rate_my_dashboard/) | u/Doin_the_Bulldance | — | i.redd.it | 37 | 13 | live |
-| 53 | 2026-10-26 | [New Data Analyst — how can I become genuinely good at my job?](https://www.reddit.com/r/dataanalytics/comments/1xgaxrg/new_data_analyst_how_can_i_become_genuinely_good/) | u/Fair_Schedule_3083 | — | text | 33 | 23 | live |
-| 54 | 2026-10-17 | [Natural progression of a data analyst](https://www.reddit.com/r/dataanalytics/comments/1x83ne4/natural_progression_of_a_data_analyst/) | u/SuperbPlankton4357 | — | text | 31 | 9 | live |
-| 55 | 2026-10-25 | [12 years in data analytics, recently laid off, not sure which direction to take. What would you do?](https://www.reddit.com/r/dataanalytics/comments/1xf6l1z/12_years_in_data_analytics_recently_laid_off_not/) | u/ProfessionalSquash90 | — | text | 28 | 22 | live |
-| 56 | 2026-10-25 | [Rate my resume - 100+ applications no interview](https://www.reddit.com/r/dataanalytics/comments/1xfg20e/rate_my_resume_100_applications_no_interview/) | u/Happy_go_lucky_08 | — | i.redd.it | 23 | 23 | live |
-| 57 | 2026-10-21 | [Which job is safer, Data analyst or Data engineer? Especially in the upcoming months/ years?](https://www.reddit.com/r/dataanalytics/comments/1xc24j6/which_job_is_safer_data_analyst_or_data_engineer/) | u/ninynin | — | text | 20 | 27 | live |
-| 58 | 2026-10-31 | [Is it worth it to get into data analysis?](https://www.reddit.com/r/dataanalytics/comments/1xk4c2z/is_it_worth_it_to_get_into_data_analysis/) | u/bintelkhandaaq | — | text | 19 | 27 | live |
-| 59 | 2026-10-20 | [Rate this Resume for Data/Business Analyst Role](https://www.reddit.com/r/dataanalytics/comments/1xasyw1/rate_this_resume_for_databusiness_analyst_role/) | u/Dazzling-Aside-9562 | — | i.redd.it | 15 | 14 | live |
-| 19 | 2026-11-04 | [\[US\] 30+ Data Analytics jobs that opened this week (remote, hybrid)](https://www.reddit.com/r/dataanalytics/comments/1xnyc04/us_30_data_analytics_jobs_that_opened_this_week/) | u/TheCryptoCaveman | — | text | 15 | 2 | live |
-| 34 | 2026-11-03 | [Is it worth learning how to write sql and python without AI?](https://www.reddit.com/r/dataanalytics/comments/1xmi6xx/is_it_worth_learning_how_to_write_sql_and_python/) | u/ashkash6969 | — | text | 14 | 23 | live |
-| 60 | 2026-10-15 | [Can a data engineer become a data scientist ?](https://www.reddit.com/r/dataanalytics/comments/1x6sywb/can_a_data_engineer_become_a_data_scientist/) | u/Dear-Athena1111 | — | text | 13 | 21 | live |
-| 61 | 2026-10-29 | [266 data & business analyst jobs posted in the US Oct 17–24, 184 with the salary listed (direct employer link…](https://www.reddit.com/r/dataanalytics/comments/1xi7nwl/266_data_business_analyst_jobs_posted_in_the_us/) | u/Ok-Voice-9610 | — | text | 12 | 1 | live |
-| 48 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](https://www.reddit.com/r/dataanalytics/comments/1xlag6h/should_i_be_learning_new_skill_or_just_implement/) | u/WiseWeird6306 | — | text | 11 | 7 | live |
-| 62 | 2026-10-28 | ["This data set has been accessed too many times."](https://www.reddit.com/r/dataanalytics/comments/1xhkqzv/this_data_set_has_been_accessed_too_many_times/) | u/Legitimate-Issue1856 | — | i.redd.it | 11 | 0 | live |
-| 63 | 2026-10-21 | [Became a Certified Data Analyst at 34. What next?](https://www.reddit.com/r/dataanalytics/comments/1xbh1px/became_a_certified_data_analyst_at_34_what_next/) | u/Passion_Of_Gomez | — | text | 9 | 16 | live |
-| 40 | 2026-11-02 | [Im learning Data analysis right now and should I learn python ?](https://www.reddit.com/r/dataanalytics/comments/1xlu987/im_learning_data_analysis_right_now_and_should_i/) | u/MOo0stafa | — | text | 8 | 33 | live |
-| 64 | 2026-10-19 | [first A/B test as an intern: discovered an issue after presenting results. how bad is this?](https://www.reddit.com/r/dataanalytics/comments/1xacfpb/first_ab_test_as_an_intern_discovered_an_issue/) | u/adobochipotle | — | text | 8 | 10 | live |
+| 51 | 2026-10-13 | [I just got hired as data analyst and this is not what I expect](#post-51) | u/AcaTwo | — | text | 249 | 105 | live |
+| 47 | 2026-11-01 | [To everyone planning to make a career in DA](#post-47) | u/TheOG_DeadShoT | — | i.redd.it | 124 | 36 | live |
+| 29 | 2026-11-03 | [Junior data analyst job ads vs what you actually use at work](#post-29) | u/Kavin_muthukumar | — | text | 44 | 10 | live |
+| 52 | 2026-10-23 | [Rate my dashboard](#post-52) | u/Doin_the_Bulldance | — | i.redd.it | 37 | 13 | live |
+| 53 | 2026-10-26 | [New Data Analyst — how can I become genuinely good at my job?](#post-53) | u/Fair_Schedule_3083 | — | text | 33 | 23 | live |
+| 54 | 2026-10-17 | [Natural progression of a data analyst](#post-54) | u/SuperbPlankton4357 | — | text | 31 | 9 | live |
+| 55 | 2026-10-25 | [12 years in data analytics, recently laid off, not sure which direction to take. What would you do?](#post-55) | u/ProfessionalSquash90 | — | text | 28 | 22 | live |
+| 56 | 2026-10-25 | [Rate my resume - 100+ applications no interview](#post-56) | u/Happy_go_lucky_08 | — | i.redd.it | 23 | 23 | live |
+| 57 | 2026-10-21 | [Which job is safer, Data analyst or Data engineer? Especially in the upcoming months/ years?](#post-57) | u/ninynin | — | text | 20 | 27 | live |
+| 58 | 2026-10-31 | [Is it worth it to get into data analysis?](#post-58) | u/bintelkhandaaq | — | text | 19 | 27 | live |
+| 59 | 2026-10-20 | [Rate this Resume for Data/Business Analyst Role](#post-59) | u/Dazzling-Aside-9562 | — | i.redd.it | 15 | 14 | live |
+| 19 | 2026-11-04 | [\[US\] 30+ Data Analytics jobs that opened this week (remote, hybrid)](#post-19) | u/TheCryptoCaveman | — | text | 15 | 2 | live |
+| 34 | 2026-11-03 | [Is it worth learning how to write sql and python without AI?](#post-34) | u/ashkash6969 | — | text | 14 | 23 | live |
+| 60 | 2026-10-15 | [Can a data engineer become a data scientist ?](#post-60) | u/Dear-Athena1111 | — | text | 13 | 21 | live |
+| 61 | 2026-10-29 | [266 data & business analyst jobs posted in the US Oct 17–24, 184 with the salary listed (direct employer link…](#post-61) | u/Ok-Voice-9610 | — | text | 12 | 1 | live |
+| 48 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](#post-48) | u/WiseWeird6306 | — | text | 11 | 7 | live |
+| 62 | 2026-10-28 | ["This data set has been accessed too many times."](#post-62) | u/Legitimate-Issue1856 | — | i.redd.it | 11 | 0 | live |
+| 63 | 2026-10-21 | [Became a Certified Data Analyst at 34. What next?](#post-63) | u/Passion_Of_Gomez | — | text | 9 | 16 | live |
+| 40 | 2026-11-02 | [Im learning Data analysis right now and should I learn python ?](#post-40) | u/MOo0stafa | — | text | 8 | 33 | live |
+| 64 | 2026-10-19 | [first A/B test as an intern: discovered an issue after presenting results. how bad is this?](#post-64) | u/adobochipotle | — | text | 8 | 10 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Learning skills
 
-2026-11-07 · u/Common_Primary9551 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpyhso/learning_skills/)
+2026-11-07 · u/Common_Primary9551 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpyhso/learning_skills/) · [↑ back to the list](#last-50-posts)
 
 > After learning sql and python what should be have to learn for data analyst 
 >
 > Any suggestions please....
 
+<a id="post-2"></a>
+
 ### 2. Recent Grad Looking for Data-Related Side Hustle While Applying for Jobs
 
-2026-11-07 · u/Business_Walk1624 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpvzrk/recent_grad_looking_for_datarelated_side_hustle/)
+2026-11-07 · u/Business_Walk1624 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpvzrk/recent_grad_looking_for_datarelated_side_hustle/) · [↑ back to the list](#last-50-posts)
 
 > I'm a recent CS graduate working on building my data analysis skills/portfolio and applying for jobs.
 >
@@ -135,9 +139,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Any ideas or advice is welcome, thank you in advance!
 
+<a id="post-3"></a>
+
 ### 3. Asking for advice
 
-2026-11-07 · u/Afraid_Gold3060 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpvpt2/asking_for_advice/)
+2026-11-07 · u/Afraid_Gold3060 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpvpt2/asking_for_advice/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!   
 > I’m looking for advice. I’m currently working as a teacher and learning data analytics. With how teaching can be demanding and all the extra added on that I have to work out of my working hours, it gets more difficult to keep up but I’m still trying. 
@@ -149,21 +155,27 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thank you
 
+<a id="post-4"></a>
+
 ### 4. suggest me a good data analytics course
 
-2026-11-06 · u/BigDataSmoke · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpjhar/suggest_me_a_good_data_analytics_course/)
+2026-11-06 · u/BigDataSmoke · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpjhar/suggest_me_a_good_data_analytics_course/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-5"></a>
 
 ### 5. Some genuine questions as a beginner
 
-2026-11-06 · u/Extension-Ranger3831 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpddd9/some_genuine_questions_as_a_beginner/)
+2026-11-06 · u/Extension-Ranger3831 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xpddd9/some_genuine_questions_as_a_beginner/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. Most HR dashboards measure what is easy, not what anyone acts on
 
-2026-11-06 · u/imogen-maddox-246 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xp95pq/most_hr_dashboards_measure_what_is_easy_not_what/)
+2026-11-06 · u/imogen-maddox-246 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xp95pq/most_hr_dashboards_measure_what_is_easy_not_what/) · [↑ back to the list](#last-50-posts)
 
 > Headcount, turnover rate, time to hire every people dashboard has them and almost nobody changes a decision because of them. Hr analytics software keeps getting better at showing numbers, but I'm not convinced the dashboards are getting more useful.
 >
@@ -173,30 +185,38 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Disagree with me if you have a people dashboard anyone genuinely uses. What is on it?
 
+<a id="post-7"></a>
+
 ### 7. "We're a data-driven company."
 
-2026-11-06 · u/Legitimate-Issue1856 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xp5f45/were_a_datadriven_company/)
+2026-11-06 · u/Legitimate-Issue1856 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xp5f45/were_a_datadriven_company/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/mkfwjxh6nxzh1.png>
 
 
+<a id="post-8"></a>
+
 ### 8. Learning how to understand business
 
-2026-11-05 · u/Senior-Ad-6588 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xonv89/learning_how_to_understand_business/)
+2026-11-05 · u/Senior-Ad-6588 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xonv89/learning_how_to_understand_business/) · [↑ back to the list](#last-50-posts)
 
 > Hey, I'm 22 college student currently learning data analytics, I want to learn how to understand business models,  how to ask critical questions about whatever's happening, how to get those problem solving skills and how to actually answer or improve them. Now I know that problem solving skills are some which can be learned by actually solving the problems but still if you can recommend any advice on any of these questions and more please do as it would be very helpful for my data analytics journey.
 
+<a id="post-9"></a>
+
 ### 9. Capital one Senior Data Analyst Power Day
 
-2026-11-05 · u/Haunting_Witness6910 · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xolx7v/capital_one_senior_data_analyst_power_day/)
+2026-11-05 · u/Haunting_Witness6910 · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xolx7v/capital_one_senior_data_analyst_power_day/) · [↑ back to the list](#last-50-posts)
 
 > I have my power day scheduled soon, I wanted to ask for any tips/ how the interview process went for people who gave the interview. What to expect, and what do they expect you to answer like. 
 >
 > It is in person for me so I would like to know what the environment would be like as well, and how do I prep myself for it. Thanks!!
 
+<a id="post-10"></a>
+
 ### 10. I want to switch into analytics side , but don't know how
 
-2026-11-05 · u/BlueberryKindly958 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xoj9o7/i_want_to_switch_into_analytics_side_but_dont/)
+2026-11-05 · u/BlueberryKindly958 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xoj9o7/i_want_to_switch_into_analytics_side_but_dont/) · [↑ back to the list](#last-50-posts)
 
 > I am currently working remotely as a marine operational engineer in a foreign startup, where I worked mostly on excel sheets. I did my BTech from tier 2 college but due to low Cgpa i wasn't able to get a good job during my placement season. It's been more than 1 year in my current job, and I want to switch into the Data Analytics side. I learnt everything whatever is required to get the role , whether it's python, SQL, power BI and I have dedicated projects for all too.
 >
@@ -206,23 +226,29 @@ Link: <https://i.redd.it/mkfwjxh6nxzh1.png>
 >
 > Can you guys please help me guide what I should do ? What more should I do , are there any changes i need to do?
 
+<a id="post-11"></a>
+
 ### 11. Pretty new to data analytics
 
-2026-11-05 · u/Mobile-Conference887 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xochwr/pretty_new_to_data_analytics/)
+2026-11-05 · u/Mobile-Conference887 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xochwr/pretty_new_to_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. A Nursing Student Learning Data Analysis — Looking to Connect With Like-Minded People
 
-2026-11-05 · u/No_Cake_1961 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo78p5/a_nursing_student_learning_data_analysis_looking/)
+2026-11-05 · u/No_Cake_1961 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo78p5/a_nursing_student_learning_data_analysis_looking/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/awbhoc4rgpzh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. 2026 CSE graduate confused between continuing with Data Analytics or starting coding (Java/MERN) from scratch. Need honest career advice.
 
-2026-11-05 · u/Real-Scientist-5549 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo54fu/2026_cse_graduate_confused_between_continuing/)
+2026-11-05 · u/Real-Scientist-5549 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo54fu/2026_cse_graduate_confused_between_continuing/) · [↑ back to the list](#last-50-posts)
 
 > I'm a 2026 B.Tech CSE graduate from India, and honestly, I'm feeling quite lost about my career direction.
 >
@@ -276,21 +302,27 @@ Link: <https://i.redd.it/awbhoc4rgpzh1.jpeg>
 >
 > I'd appreciate honest opinions, including criticism. I don't want to waste another 6 months following the wrong direction.
 
+<a id="post-14"></a>
+
 ### 14. Is this the last chill career left?
 
-2026-11-05 · u/Serious-Onion-0714 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo4s2s/is_this_the_last_chill_career_left/)
+2026-11-05 · u/Serious-Onion-0714 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo4s2s/is_this_the_last_chill_career_left/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-15"></a>
+
 ### 15. Dev fullstack -> data analyst ?
 
-2026-11-04 · u/Strong-Soft-2282 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo0quj/dev_fullstack_data_analyst/)
+2026-11-04 · u/Strong-Soft-2282 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo0quj/dev_fullstack_data_analyst/) · [↑ back to the list](#last-50-posts)
 
 > Bonjour, est-ce que c'est nécessaire de passer de dev à data analyst et plutard data engenier ? Ou vaut mieux poursuivre en dev aujourd'hui ?
 
+<a id="post-16"></a>
+
 ### 16. Avis sur mon CV Data Analyst : que puis-je améliorer ?
 
-2026-11-04 · u/Careless-Yam-2960 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo0a83/avis_sur_mon_cv_data_analyst_que_puisje_améliorer/)
+2026-11-04 · u/Careless-Yam-2960 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo0a83/avis_sur_mon_cv_data_analyst_que_puisje_améliorer/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ggtjelj2xnzh1.jpeg>
 
@@ -320,15 +352,19 @@ Link: <https://i.redd.it/ggtjelj2xnzh1.jpeg>
 >
 > Merci d'avance à tous ceux qui prendront quelques minutes pour me conseiller !
 
+<a id="post-17"></a>
+
 ### 17. can someone suggest me any book for data analytics
 
-2026-11-04 · u/Head-Safe29 · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo093o/can_someone_suggest_me_any_book_for_data_analytics/)
+2026-11-04 · u/Head-Safe29 · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xo093o/can_someone_suggest_me_any_book_for_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I was wondering if there is a book on data analytics that covers every aspect of data analysis. If you know of one, please tell me in the comments. BTW, I am taking my course through PW Skill. Is it a good platform for the skill I am learning
 
+<a id="post-18"></a>
+
 ### 18. Fresher data analyst: should I take a Zendesk support analyst role (night shift, ~3.2-3.5 LPA + night allowance)?
 
-2026-11-04 · u/Peterparkerx18 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnyq5b/fresher_data_analyst_should_i_take_a_zendesk/)
+2026-11-04 · u/Peterparkerx18 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnyq5b/fresher_data_analyst_should_i_take_a_zendesk/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, 2025 B.Tech CSE grad (AI & ML) based in Chennai. I've done two internships, Data Analyst - AI variant and Data Engineer at Capgemini and my stack is SQL, Power BI, Tableau, Excel, DAX, Python and PySpark. I want a BI/MIS/reporting analyst role long term, and this is currently my only interview.
 >
@@ -340,9 +376,11 @@ Link: <https://i.redd.it/ggtjelj2xnzh1.jpeg>
 >
 > Any advice from people who started in support roles and moved to analytics would be great. Thanks!
 
+<a id="post-19"></a>
+
 ### 19. \[US\] 30+ Data Analytics jobs that opened this week (remote, hybrid)
 
-2026-11-04 · u/TheCryptoCaveman · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnyc04/us_30_data_analytics_jobs_that_opened_this_week/)
+2026-11-04 · u/TheCryptoCaveman · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnyc04/us_30_data_analytics_jobs_that_opened_this_week/) · [↑ back to the list](#last-50-posts)
 
 > Heyy, I made a list of recent Data Analytics jobs for you all!
 >
@@ -461,9 +499,11 @@ Link: <https://i.redd.it/ggtjelj2xnzh1.jpeg>
 >
 > Like the post if I should keep doing more of these, Cheers!
 
+<a id="post-20"></a>
+
 ### 20. Resume Tips? :)
 
-2026-11-04 · u/No_Yellow_61 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnos4c/resume_tips/)
+2026-11-04 · u/No_Yellow_61 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnos4c/resume_tips/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6lqmthwtplzh1.jpeg>
 
@@ -473,9 +513,11 @@ Link: <https://i.redd.it/6lqmthwtplzh1.jpeg>
 >
 > Any tips appreciated!
 
+<a id="post-21"></a>
+
 ### 21. Tips for My Resume?
 
-2026-11-04 · u/No_Yellow_61 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnonq8/tips_for_my_resume/)
+2026-11-04 · u/No_Yellow_61 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnonq8/tips_for_my_resume/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/voqprhluolzh1.jpeg>
 
@@ -485,9 +527,11 @@ Link: <https://i.redd.it/voqprhluolzh1.jpeg>
 >
 > Any tips appreciated!
 
+<a id="post-22"></a>
+
 ### 22. Would you use an AI agent that handles end-to-end data analysis and data science workflows?
 
-2026-11-04 · u/No_Incident_6009 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnnxhu/would_you_use_an_ai_agent_that_handles_endtoend/)
+2026-11-04 · u/No_Incident_6009 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnnxhu/would_you_use_an_ai_agent_that_handles_endtoend/) · [↑ back to the list](#last-50-posts)
 
 > I'm exploring an idea and would love some honest feedback from people working in data science, analytics, and machine learning.
 >
@@ -528,21 +572,27 @@ Link: <https://i.redd.it/voqprhluolzh1.jpeg>
 >
 > I'm not looking for validation. I'd genuinely like to understand whether this is a problem worth solving.
 
+<a id="post-23"></a>
+
 ### 23. Data analyst
 
-2026-11-04 · u/Armstrong_UC · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnl4d9/data_analyst/)
+2026-11-04 · u/Armstrong_UC · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnl4d9/data_analyst/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. Helppp
 
-2026-11-04 · u/irlDevan · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xniqrh/helppp/)
+2026-11-04 · u/irlDevan · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xniqrh/helppp/) · [↑ back to the list](#last-50-posts)
 
 > Guys I have, MIslS cordinator interview coming up next week, I don't know anything about it. How do I interview prep for it??
 
+<a id="post-25"></a>
+
 ### 25. Can SQL + Power BI prepare me for an entry-level data analyst role?
 
-2026-11-04 · u/TelevisionGlad110 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnhc1r/can_sql_power_bi_prepare_me_for_an_entrylevel/)
+2026-11-04 · u/TelevisionGlad110 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnhc1r/can_sql_power_bi_prepare_me_for_an_entrylevel/) · [↑ back to the list](#last-50-posts)
 
 > I'm working towards becoming a Data Analyst / BI professional. My main focus is mastering SQL and Power BI deeply rather than learning many tools superficially.
 >
@@ -587,17 +637,21 @@ Link: <https://i.redd.it/voqprhluolzh1.jpeg>
 >
 > My goal is to develop genuine practical competence, not just finish courses or collect certificates.
 
+<a id="post-26"></a>
+
 ### 26. Why Data Analytics Certification Is Essential for Career Growth in 2026
 
-2026-11-04 · u/OkSchedule671 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnglpo/why_data_analytics_certification_is_essential_for/)
+2026-11-04 · u/OkSchedule671 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnglpo/why_data_analytics_certification_is_essential_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/coy4j8p6djzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-27"></a>
+
 ### 27. Lyft data analyst interview
 
-2026-11-04 · u/Boring_Opposite7021 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnbw9q/lyft_data_analyst_interview/)
+2026-11-04 · u/Boring_Opposite7021 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xnbw9q/lyft_data_analyst_interview/) · [↑ back to the list](#last-50-posts)
 
 > Hi. Just as the title suggest, I have a lyft data analyst interview coming up, and I wanted to know if anybody else had previously given this interview.
 >
@@ -605,17 +659,21 @@ Link: <https://i.redd.it/coy4j8p6djzh1.png>
 >
 > I was told it’s gonna be a case study for 30-45 mins. Any insights would be great!
 
+<a id="post-28"></a>
+
 ### 28. Google Data Analytics Certificate (2026) – Is It Worth It?
 
-2026-11-03 · u/kiyach · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xn0o3h/google_data_analytics_certificate_2026_is_it/)
+2026-11-03 · u/kiyach · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xn0o3h/google_data_analytics_certificate_2026_is_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=pLBXTly_2xA&si=zSSaWePuVlY-bTky>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. Junior data analyst job ads vs what you actually use at work
 
-2026-11-03 · u/Kavin_muthukumar · score 44 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmxvwg/junior_data_analyst_job_ads_vs_what_you_actually/)
+2026-11-03 · u/Kavin_muthukumar · score 44 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmxvwg/junior_data_analyst_job_ads_vs_what_you_actually/) · [↑ back to the list](#last-50-posts)
 
 > I work in data in the UK, and I’ve noticed a big gap between what job ads ask for and what I use week to week.
 >
@@ -629,49 +687,63 @@ Link: <https://youtube.com/watch?v=pLBXTly_2xA&si=zSSaWePuVlY-bTky>
 >
 > What does the gap look like for you? Any skill from the job ads you’ve never needed, or something nobody listed that you use constantly?
 
+<a id="post-30"></a>
+
 ### 30. Data analyst interview preparation in 10 days
 
-2026-11-03 · u/Engineer_53 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmt3vj/data_analyst_interview_preparation_in_10_days/)
+2026-11-03 · u/Engineer_53 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmt3vj/data_analyst_interview_preparation_in_10_days/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-31"></a>
 
 ### 31. Is b.com computer application ok for data analytics
 
-2026-11-03 · u/Right_Calendar_8536 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmozms/is_bcom_computer_application_ok_for_data_analytics/)
+2026-11-03 · u/Right_Calendar_8536 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmozms/is_bcom_computer_application_ok_for_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-32"></a>
+
 ### 32. Need advice on transitioning to data analytics with domain expertise
 
-2026-11-03 · u/RazzmatazzSome8980 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmnjsq/need_advice_on_transitioning_to_data_analytics/)
+2026-11-03 · u/RazzmatazzSome8980 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmnjsq/need_advice_on_transitioning_to_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. Which IT Skills Should You Learn in 2027?
 
-2026-11-03 · u/MoistEstimate5397 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmmnib/which_it_skills_should_you_learn_in_2027/)
+2026-11-03 · u/MoistEstimate5397 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmmnib/which_it_skills_should_you_learn_in_2027/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Is it worth learning how to write sql and python without AI?
 
-2026-11-03 · u/ashkash6969 · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmi6xx/is_it_worth_learning_how_to_write_sql_and_python/)
+2026-11-03 · u/ashkash6969 · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmi6xx/is_it_worth_learning_how_to_write_sql_and_python/) · [↑ back to the list](#last-50-posts)
 
 > Or is understanding what the sql does and what the code does enough and I should focus more on other things 
 >
 > Context: Junior looking for internships in data role
 
+<a id="post-35"></a>
+
 ### 35. Why did my video get so many impressions?
 
-2026-11-02 · u/Shoddy-Snow-556 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmcafr/why_did_my_video_get_so_many_impressions/)
+2026-11-02 · u/Shoddy-Snow-556 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xmcafr/why_did_my_video_get_so_many_impressions/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/yqfoyl6h4azh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. Need advice on finding off-campus Data Analytics jobs as an MBA student
 
-2026-11-02 · u/New-Perception3317 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm86m4/need_advice_on_finding_offcampus_data_analytics/)
+2026-11-02 · u/New-Perception3317 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm86m4/need_advice_on_finding_offcampus_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -695,27 +767,35 @@ Link: <https://i.redd.it/yqfoyl6h4azh1.png>
 >
 > Thanks in advance!
 
+<a id="post-37"></a>
+
 ### 37. Stay in a comfortable backup DBA role at a large conglomerate or take a solo founding Senior Data Analyst job at a smaller, younger company with more potential upside?
 
-2026-11-02 · u/Old-Strawberry9740 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm3irq/stay_in_a_comfortable_backup_dba_role_at_a_large/)
+2026-11-02 · u/Old-Strawberry9740 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm3irq/stay_in_a_comfortable_backup_dba_role_at_a_large/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-38"></a>
 
 ### 38. Stay in a comfortable 6 figure backup DBA role at a large conglomerate or take a solo founding Senior Data Analyst job at a smaller, younger company with more potential upside?
 
-2026-11-02 · u/Old-Strawberry9740 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm3enj/stay_in_a_comfortable_6_figure_backup_dba_role_at/)
+2026-11-02 · u/Old-Strawberry9740 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xm3enj/stay_in_a_comfortable_6_figure_backup_dba_role_at/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Where to learn data analytics?
 
-2026-11-02 · u/Right_Calendar_8536 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlvcjq/where_to_learn_data_analytics/)
+2026-11-02 · u/Right_Calendar_8536 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlvcjq/where_to_learn_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-40"></a>
+
 ### 40. Im learning Data analysis right now and should I learn python ?
 
-2026-11-02 · u/MOo0stafa · score 8 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlu987/im_learning_data_analysis_right_now_and_should_i/)
+2026-11-02 · u/MOo0stafa · score 8 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlu987/im_learning_data_analysis_right_now_and_should_i/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -727,9 +807,11 @@ Link: <https://i.redd.it/yqfoyl6h4azh1.png>
 >
 > I've a good analytical skills and Im good at recognizing patterns as well. So do you think this can land me a job and if not what would you recommend ?
 
+<a id="post-41"></a>
+
 ### 41. Data Analyst vs Data Scientist: which one should a fresher start with?
 
-2026-11-02 · u/MoistEstimate5397 · score 0 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlslgq/data_analyst_vs_data_scientist_which_one_should_a/)
+2026-11-02 · u/MoistEstimate5397 · score 0 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlslgq/data_analyst_vs_data_scientist_which_one_should_a/) · [↑ back to the list](#last-50-posts)
 
 > ![img](n20nfda626zh1 "Data Analyst vs Data Scientist: skills and path at a glance")
 >
@@ -780,9 +862,11 @@ Link: <https://i.redd.it/yqfoyl6h4azh1.png>
 >
 > \#DataAnalyst #DataScience #Python #SQL #CareerAdvice
 
+<a id="post-42"></a>
+
 ### 42. Data Analyst vs Data Scientist: Which Career Is Right for You?
 
-2026-11-02 · u/MoistEstimate5397 · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xls9rq/data_analyst_vs_data_scientist_which_career_is/)
+2026-11-02 · u/MoistEstimate5397 · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xls9rq/data_analyst_vs_data_scientist_which_career_is/) · [↑ back to the list](#last-50-posts)
 
 > ![img](sehotld9y5zh1 "Learn AI & Machine Learning from basics to advanced, with hands-on training, live projects, and placement support.")
 >
@@ -1017,37 +1101,47 @@ Link: <https://i.redd.it/yqfoyl6h4azh1.png>
 >
 > \#AI #MachineLearning #DeepLearning #Python #DataScience
 
+<a id="post-43"></a>
+
 ### 43. spark performance tuning
 
-2026-11-02 · u/emily-carter-93 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlrfj0/spark_performance_tuning/)
+2026-11-02 · u/emily-carter-93 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlrfj0/spark_performance_tuning/) · [↑ back to the list](#last-50-posts)
 
 > which tools are you currently using for spark performance tuning?
 
+<a id="post-44"></a>
+
 ### 44. Live Projects
 
-2026-11-02 · u/Harvey_R_Specter_36 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlqqqa/live_projects/)
+2026-11-02 · u/Harvey_R_Specter_36 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlqqqa/live_projects/) · [↑ back to the list](#last-50-posts)
 
 > Hi! I'm 25 y/o, cleared CFA L2, done with MBA and have 1.5 years of work-ex. I was wondering if there's any bootcamp or so where I'll be able to learn SQL, Python, PowerBI, etc. tools via some live projects that can help me sharpen my skill and can me in job switch as well.
 >
 > What would you guys suggest? Which bootcamp can be helpful?
 
+<a id="post-45"></a>
+
 ### 45. im an 18 yo IT student in the philippines and wants to pursue data analytics in the future.
 
-2026-11-02 · u/dihpression002 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlqo9s/im_an_18_yo_it_student_in_the_philippines_and/)
+2026-11-02 · u/dihpression002 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlqo9s/im_an_18_yo_it_student_in_the_philippines_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. The Growing Demand for Certified Data Analytics Professionals
 
-2026-11-02 · u/OkSchedule671 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlppzp/the_growing_demand_for_certified_data_analytics/)
+2026-11-02 · u/OkSchedule671 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlppzp/the_growing_demand_for_certified_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/027kz04765zh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. To everyone planning to make a career in DA
 
-2026-11-01 · u/TheOG_DeadShoT · score 124 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlay53/to_everyone_planning_to_make_a_career_in_da/)
+2026-11-01 · u/TheOG_DeadShoT · score 124 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlay53/to_everyone_planning_to_make_a_career_in_da/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/oxnxx9g4r1zh1.jpeg>
 
@@ -1059,9 +1153,11 @@ Link: <https://i.redd.it/oxnxx9g4r1zh1.jpeg>
 >
 > Supply Side: Alot of folks joined DA by completing random courses during the 2022 - 2023 peak. The graph might show that we are back to pre covid levels but the supply has also increased exponentially.
 
+<a id="post-48"></a>
+
 ### 48. Should I be learning new skill or just implement things with Claude?
 
-2026-11-01 · u/WiseWeird6306 · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlag6h/should_i_be_learning_new_skill_or_just_implement/)
+2026-11-01 · u/WiseWeird6306 · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xlag6h/should_i_be_learning_new_skill_or_just_implement/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -1071,50 +1167,64 @@ Link: <https://i.redd.it/oxnxx9g4r1zh1.jpeg>
 >
 > My traditional mindset is learn the fundamentals and then play with it. But with how quick others are in implementing things via Claude without spending time on understanding things and it still works out for them, I do not know what learning path to take. Need advice!
 
+<a id="post-49"></a>
+
 ### 49. I need to sunstain in IT. Please tell me what all skills required to be at the top of the game. Thanks
 
-2026-11-01 · u/No_Championship_7533 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xl6zrb/i_need_to_sunstain_in_it_please_tell_me_what_all/)
+2026-11-01 · u/No_Championship_7533 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xl6zrb/i_need_to_sunstain_in_it_please_tell_me_what_all/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-50"></a>
+
 ### 50. Free resources for data analytics
 
-2026-11-01 · u/Inevitable-Doubt2399 · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xl6y3i/free_resources_for_data_analytics/)
+2026-11-01 · u/Inevitable-Doubt2399 · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xl6y3i/free_resources_for_data_analytics/) · [↑ back to the list](#last-50-posts)
 
 > Can anybody suggest a proper roadmap and all the resources I could utilise to get into data analytics,
 >
 > I am currently a 2nd year cse student
 
+<a id="post-51"></a>
+
 ### 51. I just got hired as data analyst and this is not what I expect
 
-2026-10-13 · u/AcaTwo · score 249 · 105 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x4x71h/i_just_got_hired_as_data_analyst_and_this_is_not/)
+2026-10-13 · u/AcaTwo · score 249 · 105 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x4x71h/i_just_got_hired_as_data_analyst_and_this_is_not/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I just got hired as a data analyst and this is so exhausting 😭. I spend 90% of my data analysis encoding the data 10% doing the analysis it self. My company only do have physical copies of their data and I have to manually type it in Excel. I was expecting during the interview that they will be giving me a messy data and its up to me on how I clean it but now its so tiring!! Is this normal? I am currently doing doing the automation at home but this is just so unfair because am not paid to do it at home and I also dont have the time to build the automation at work because I spend most of it encoding.
 
+<a id="post-52"></a>
+
 ### 52. Rate my dashboard
 
-2026-10-23 · u/Doin_the_Bulldance · score 37 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xddium/rate_my_dashboard/)
+2026-10-23 · u/Doin_the_Bulldance · score 37 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xddium/rate_my_dashboard/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/xsm0f858u7xh1.jpeg>
 
 
+<a id="post-53"></a>
+
 ### 53. New Data Analyst — how can I become genuinely good at my job?
 
-2026-10-26 · u/Fair_Schedule_3083 · score 33 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xgaxrg/new_data_analyst_how_can_i_become_genuinely_good/)
+2026-10-26 · u/Fair_Schedule_3083 · score 33 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xgaxrg/new_data_analyst_how_can_i_become_genuinely_good/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, 
 >
 > I just started working as a data analyst, fresh out of uni and i just realised i don’t know as much as i did, but I really want to learn and be the best in my job. I mainly work as a data analyst uncovering sale insights, what’s the best advice you could give me? i’m already doing the extra certifications but how can I actually learn more and be better
 
+<a id="post-54"></a>
+
 ### 54. Natural progression of a data analyst
 
-2026-10-17 · u/SuperbPlankton4357 · score 31 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x83ne4/natural_progression_of_a_data_analyst/)
+2026-10-17 · u/SuperbPlankton4357 · score 31 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x83ne4/natural_progression_of_a_data_analyst/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, I was wondering what do you think is the natural progression after becoming a data analyst for sometime? Is it becoming a data scientist or a machine learning engineer or a data engineer or an AI engineer? What do you think is the best route?
 
+<a id="post-55"></a>
+
 ### 55. 12 years in data analytics, recently laid off, not sure which direction to take. What would you do?
 
-2026-10-25 · u/ProfessionalSquash90 · score 28 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xf6l1z/12_years_in_data_analytics_recently_laid_off_not/)
+2026-10-25 · u/ProfessionalSquash90 · score 28 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xf6l1z/12_years_in_data_analytics_recently_laid_off_not/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,  
 > I was recently laid off and would appreciate some honest advice on what to do next.  
@@ -1132,9 +1242,11 @@ Link: <https://i.redd.it/xsm0f858u7xh1.jpeg>
 > ﻿﻿﻿Which skills do you think will still matter for analysts as Al takes on more of the work?  
 > Thanks, any honest views welcome.
 
+<a id="post-56"></a>
+
 ### 56. Rate my resume - 100+ applications no interview
 
-2026-10-25 · u/Happy_go_lucky_08 · score 23 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xfg20e/rate_my_resume_100_applications_no_interview/)
+2026-10-25 · u/Happy_go_lucky_08 · score 23 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xfg20e/rate_my_resume_100_applications_no_interview/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/q7a2878nyoxh1.jpeg>
 
@@ -1144,17 +1256,21 @@ Link: <https://i.redd.it/q7a2878nyoxh1.jpeg>
 >
 > Thank you so much in advance!
 
+<a id="post-57"></a>
+
 ### 57. Which job is safer, Data analyst or Data engineer? Especially in the upcoming months/ years?
 
-2026-10-21 · u/ninynin · score 20 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xc24j6/which_job_is_safer_data_analyst_or_data_engineer/)
+2026-10-21 · u/ninynin · score 20 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xc24j6/which_job_is_safer_data_analyst_or_data_engineer/) · [↑ back to the list](#last-50-posts)
 
 > This question is for the people who are already working in the data industry. (Asking as an engineering student who wants to start focusing on one of these fields) 
 >
 > Personally, when I read about the job roles, data analyst is something I find more interesting , but at this point, maybe I should prefer the safer option, and if so, which one?
 
+<a id="post-58"></a>
+
 ### 58. Is it worth it to get into data analysis?
 
-2026-10-31 · u/bintelkhandaaq · score 19 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xk4c2z/is_it_worth_it_to_get_into_data_analysis/)
+2026-10-31 · u/bintelkhandaaq · score 19 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xk4c2z/is_it_worth_it_to_get_into_data_analysis/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone,
 >
@@ -1168,24 +1284,30 @@ Link: <https://i.redd.it/q7a2878nyoxh1.jpeg>
 >
 > Is it threatened by AI?
 
+<a id="post-59"></a>
+
 ### 59. Rate this Resume for Data/Business Analyst Role
 
-2026-10-20 · u/Dazzling-Aside-9562 · score 15 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xasyw1/rate_this_resume_for_databusiness_analyst_role/)
+2026-10-20 · u/Dazzling-Aside-9562 · score 15 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xasyw1/rate_this_resume_for_databusiness_analyst_role/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/rhm9whjepmwh1.jpeg>
 
 
+<a id="post-60"></a>
+
 ### 60. Can a data engineer become a data scientist ?
 
-2026-10-15 · u/Dear-Athena1111 · score 13 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x6sywb/can_a_data_engineer_become_a_data_scientist/)
+2026-10-15 · u/Dear-Athena1111 · score 13 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1x6sywb/can_a_data_engineer_become_a_data_scientist/) · [↑ back to the list](#last-50-posts)
 
 > And is the vice versa?
 >
 > I meant to write data analytic \*\*
 
+<a id="post-61"></a>
+
 ### 61. 266 data & business analyst jobs posted in the US Oct 17–24, 184 with the salary listed (direct employer links)
 
-2026-10-29 · u/Ok-Voice-9610 · score 12 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xi7nwl/266_data_business_analyst_jobs_posted_in_the_us/)
+2026-10-29 · u/Ok-Voice-9610 · score 12 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xi7nwl/266_data_business_analyst_jobs_posted_in_the_us/) · [↑ back to the list](#last-50-posts)
 
 > I run Careerify (our recruiters apply to jobs for people), so we see every new posting in the fields we work in. Every week I pull out the new US data, business and BI analyst roles and put them in one free list. Oct 17 to Oct 24:
 >
@@ -1223,17 +1345,21 @@ Link: <https://i.redd.it/rhm9whjepmwh1.jpeg>
 >
 > Every link goes to the company's own application page, not a job board. Happy to answer questions about what we're seeing in analyst hiring.
 
+<a id="post-62"></a>
+
 ### 62. "This data set has been accessed too many times."
 
-2026-10-28 · u/Legitimate-Issue1856 · score 11 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xhkqzv/this_data_set_has_been_accessed_too_many_times/)
+2026-10-28 · u/Legitimate-Issue1856 · score 11 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xhkqzv/this_data_set_has_been_accessed_too_many_times/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/y4nzl4l5t6yh1.png>
 
 > Still thinking about my genius hypothesis.
 
+<a id="post-63"></a>
+
 ### 63. Became a Certified Data Analyst at 34. What next?
 
-2026-10-21 · u/Passion_Of_Gomez · score 9 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xbh1px/became_a_certified_data_analyst_at_34_what_next/)
+2026-10-21 · u/Passion_Of_Gomez · score 9 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xbh1px/became_a_certified_data_analyst_at_34_what_next/) · [↑ back to the list](#last-50-posts)
 
 > Hi. I'm 34 with primary experience in copywriting and content writing from India. Last year, a series of layoff started in my company and I ended up joining a family business of a relative for a year. That didn't work for me. So, keeping in mind that copywriting is a dying field because of AI, I decided to get into tech. So I started learning how to be a data analyst on Coursera. 
 >
@@ -1244,9 +1370,11 @@ Link: <https://i.redd.it/y4nzl4l5t6yh1.png>
 >
 > Do I need a portfolio? What do I write in my CV? etc. Any help would be appreciated.
 
+<a id="post-64"></a>
+
 ### 64. first A/B test as an intern: discovered an issue after presenting results. how bad is this?
 
-2026-10-19 · u/adobochipotle · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xacfpb/first_ab_test_as_an_intern_discovered_an_issue/)
+2026-10-19 · u/adobochipotle · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/dataanalytics/comments/1xacfpb/first_ab_test_as_an_intern_discovered_an_issue/) · [↑ back to the list](#last-50-posts)
 
 > i'm a data intern, and i recently conducted my first A/B test analysis comparing a new website form against an existing one. i analyzed the results, found that the new form appeared to perform better, and presented my findings to senior stakeholders.
 >

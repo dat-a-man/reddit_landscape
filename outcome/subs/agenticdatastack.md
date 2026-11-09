@@ -41,20 +41,20 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-08-05 | [Data Engineering After AI](https://www.reddit.com/r/agenticdatastack/comments/1vg8drd/data_engineering_after_ai/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 2 | 2026-08-03 | [Toolsmaxxing vs techmaxxing" a thread from r/dataengineering that basically describes why this sub exists](https://www.reddit.com/r/agenticdatastack/comments/1vef4d2/toolsmaxxing_vs_techmaxxing_a_thread_from/) | u/Thinker_Assignment | — | text | 1 | 2 | live | — |
-| 3 | 2026-07-30 | [How have you personally used (agentic) ontologies recently?](https://www.reddit.com/r/agenticdatastack/comments/1vaxoky/how_have_you_personally_used_agentic_ontologies/) | u/Thinker_Assignment | — | i.redd.it | 2 | 1 | live | — |
-| 4 | 2026-07-30 | [Maintain a deployed pipeline from cursor chat with dltHub Pro](https://www.reddit.com/r/agenticdatastack/comments/1vaxnoq/maintain_a_deployed_pipeline_from_cursor_chat/) | u/Thinker_Assignment | — | v.redd.it | 1 | 0 | live | — |
-| 5 | 2026-07-30 | [You cannot buy a context layer — the content does not exist yet (Tasman's build guide)](https://www.reddit.com/r/agenticdatastack/comments/1vamnd9/you_cannot_buy_a_context_layer_the_content_does/) | u/Thinker_Assignment | — | text | 2 | 0 | live | — |
-| 6 | 2026-07-29 | [Data Engineering advances in the age of LLMs](https://www.reddit.com/r/agenticdatastack/comments/1v9uk7w/data_engineering_advances_in_the_age_of_llms/) | u/Thinker_Assignment | — | — | 1 | 1 | live | — |
-| 7 | 2026-07-29 | [How to deal with text only vector search across multimodal embedding space?](https://www.reddit.com/r/agenticdatastack/comments/1v9uc50/how_to_deal_with_text_only_vector_search_across/) | u/Thinker_Assignment | — | — | 1 | 1 | live | — |
-| 8 | 2026-07-29 | [How to deal with text only vector search across multimodal embedding space?](https://www.reddit.com/r/agenticdatastack/comments/1v9ubok/how_to_deal_with_text_only_vector_search_across/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 9 | 2026-07-29 | [One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.](https://www.reddit.com/r/agenticdatastack/comments/1v9p6rn/one_engineer_25_production_pipelines_into/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 10 | 2026-07-27 | ["The move in 2026 is agentic harnesses" - shopify](https://www.reddit.com/r/agenticdatastack/comments/1v7youy/the_move_in_2026_is_agentic_harnesses_shopify/) | u/Thinker_Assignment | — | bvp.com | 2 | 0 | live | — |
-| 11 | 2026-07-27 | [Ramp built an in-house AI data analyst — last 4 weeks: 1,476 questions answered vs 66 through the old help ch…](https://www.reddit.com/r/agenticdatastack/comments/1v7y8xe/ramp_built_an_inhouse_ai_data_analyst_last_4/) | u/Thinker_Assignment | — | builders.ramp.com | 1 | 1 | live | — |
-| 12 | 2026-07-23 | [Same Claude, two methods - the default leaks your credentials](https://www.reddit.com/r/agenticdatastack/comments/1v4gy3y/same_claude_two_methods_the_default_leaks_your/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
-| 13 | 2026-07-23 | [Google took Conversational Analytics in BigQuery GA](https://www.reddit.com/r/agenticdatastack/comments/1v4gqm0/google_took_conversational_analytics_in_bigquery/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 14 | 2026-07-21 | [I can't find a sub where people discuss AI-native data stacks](https://www.reddit.com/r/agenticdatastack/comments/1v2m1bj/i_cant_find_a_sub_where_people_discuss_ainative/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 1 | 2026-08-05 | [Data Engineering After AI](#post-1) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 2 | 2026-08-03 | [Toolsmaxxing vs techmaxxing" a thread from r/dataengineering that basically describes why this sub exists](#post-2) | u/Thinker_Assignment | — | text | 1 | 2 | live | — |
+| 3 | 2026-07-30 | [How have you personally used (agentic) ontologies recently?](#post-3) | u/Thinker_Assignment | — | i.redd.it | 2 | 1 | live | — |
+| 4 | 2026-07-30 | [Maintain a deployed pipeline from cursor chat with dltHub Pro](#post-4) | u/Thinker_Assignment | — | v.redd.it | 1 | 0 | live | — |
+| 5 | 2026-07-30 | [You cannot buy a context layer — the content does not exist yet (Tasman's build guide)](#post-5) | u/Thinker_Assignment | — | text | 2 | 0 | live | — |
+| 6 | 2026-07-29 | [Data Engineering advances in the age of LLMs](#post-6) | u/Thinker_Assignment | — | — | 1 | 1 | live | — |
+| 7 | 2026-07-29 | [How to deal with text only vector search across multimodal embedding space?](#post-7) | u/Thinker_Assignment | — | — | 1 | 1 | live | — |
+| 8 | 2026-07-29 | [How to deal with text only vector search across multimodal embedding space?](#post-8) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 9 | 2026-07-29 | [One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.](#post-9) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 10 | 2026-07-27 | ["The move in 2026 is agentic harnesses" - shopify](#post-10) | u/Thinker_Assignment | — | bvp.com | 2 | 0 | live | — |
+| 11 | 2026-07-27 | [Ramp built an in-house AI data analyst — last 4 weeks: 1,476 questions answered vs 66 through the old help ch…](#post-11) | u/Thinker_Assignment | — | builders.ramp.com | 1 | 1 | live | — |
+| 12 | 2026-07-23 | [Same Claude, two methods - the default leaks your credentials](#post-12) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
+| 13 | 2026-07-23 | [Google took Conversational Analytics in BigQuery GA](#post-13) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 14 | 2026-07-21 | [I can't find a sub where people discuss AI-native data stacks](#post-14) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -66,9 +66,11 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Data Engineering After AI
 
-2026-08-05 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vg8drd/data_engineering_after_ai/)
+2026-08-05 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vg8drd/data_engineering_after_ai/) · [↑ back to the list](#last-50-posts)
 
 > Stumbled on a piece I wish I'd read in February: "Data Engineering After AI" by Ananth Packkildurai.
 >
@@ -78,9 +80,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > The piece: [https://www.dataengineeringweekly.com/p/data-engineering-after-ai](https://www.dataengineeringweekly.com/p/data-engineering-after-ai)
 
+<a id="post-2"></a>
+
 ### 2. Toolsmaxxing vs techmaxxing" a thread from r/dataengineering that basically describes why this sub exists
 
-2026-08-03 · u/Thinker_Assignment · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vef4d2/toolsmaxxing_vs_techmaxxing_a_thread_from/)
+2026-08-03 · u/Thinker_Assignment · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vef4d2/toolsmaxxing_vs_techmaxxing_a_thread_from/) · [↑ back to the list](#last-50-posts)
 
 > There's a thread on r/dataengineering worth reading: a data engineer with 14 YOE, deep in Palantir Foundry and GenAI pipeline delivery, holder of multiple platform certs — but who says they've never built a code repo from scratch, wouldn't know when to split out a helper function, and keeps failing interview loops gated on coding fundamentals.
 >
@@ -95,23 +99,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > (Original thread: [https://www.reddit.com/r/dataengineering/comments/1v9uy60/comment/p0k3huf](https://www.reddit.com/r/dataengineering/comments/1v9uy60/comment/p0k3huf) — u/sneekeeei, u/vaibeslop, u/discord-ian made the key points)
 
+<a id="post-3"></a>
+
 ### 3. How have you personally used (agentic) ontologies recently?
 
-2026-07-30 · u/Thinker_Assignment · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vaxoky/how_have_you_personally_used_agentic_ontologies/)
+2026-07-30 · u/Thinker_Assignment · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vaxoky/how_have_you_personally_used_agentic_ontologies/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/omfzub89pdgh1.png>
 
 
+<a id="post-4"></a>
+
 ### 4. Maintain a deployed pipeline from cursor chat with dltHub Pro
 
-2026-07-30 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vaxnoq/maintain_a_deployed_pipeline_from_cursor_chat/)
+2026-07-30 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vaxnoq/maintain_a_deployed_pipeline_from_cursor_chat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/v4s2k6dubu8h1>
 
 
+<a id="post-5"></a>
+
 ### 5. You cannot buy a context layer — the content does not exist yet (Tasman's build guide)
 
-2026-07-30 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vamnd9/you_cannot_buy_a_context_layer_the_content_does/)
+2026-07-30 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1vamnd9/you_cannot_buy_a_context_layer_the_content_does/) · [↑ back to the list](#last-50-posts)
 
 > ai summary  
 >
@@ -130,29 +140,37 @@ Link: <https://v.redd.it/v4s2k6dubu8h1>
 >
 > Full piece: [https://www.tasman.ai/news/how-to-build-a-context-layer](https://www.tasman.ai/news/how-to-build-a-context-layer)
 
+<a id="post-6"></a>
+
 ### 6. Data Engineering advances in the age of LLMs
 
-2026-07-29 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9uk7w/data_engineering_advances_in_the_age_of_llms/)
+2026-07-29 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9uk7w/data_engineering_advances_in_the_age_of_llms/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/1v90rrc/data_engineering_advances_in_the_age_of_llms/>
 
 
+<a id="post-7"></a>
+
 ### 7. How to deal with text only vector search across multimodal embedding space?
 
-2026-07-29 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9uc50/how_to_deal_with_text_only_vector_search_across/)
+2026-07-29 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9uc50/how_to_deal_with_text_only_vector_search_across/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/1v9aec1/how_to_deal_with_text_only_vector_search_across/>
 
 
+<a id="post-8"></a>
+
 ### 8. How to deal with text only vector search across multimodal embedding space?
 
-2026-07-29 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9ubok/how_to_deal_with_text_only_vector_search_across/)
+2026-07-29 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9ubok/how_to_deal_with_text_only_vector_search_across/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-9"></a>
+
 ### 9. One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.
 
-2026-07-29 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9p6rn/one_engineer_25_production_pipelines_into/)
+2026-07-29 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v9p6rn/one_engineer_25_production_pipelines_into/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/a9jgn5iwg4gh1.gif>
 
@@ -181,9 +199,11 @@ Link: <https://i.redd.it/a9jgn5iwg4gh1.gif>
 > Get the video: [https://www.linkedin.com/feed/update/urn:li:activity:7485368657171124225/](https://www.linkedin.com/feed/update/urn:li:activity:7485368657171124225/)  
 > Get the setup: [https://dlthub.com/blueprints/agentic-data-stack](https://dlthub.com/blueprints/agentic-data-stack)
 
+<a id="post-10"></a>
+
 ### 10. "The move in 2026 is agentic harnesses" - shopify
 
-2026-07-27 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v7youy/the_move_in_2026_is_agentic_harnesses_shopify/)
+2026-07-27 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v7youy/the_move_in_2026_is_agentic_harnesses_shopify/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.bvp.com/atlas/inside-ai-pilled-engineering-teams-five-lessons-for-scaling-without-losing-the-plot>
 
@@ -199,9 +219,11 @@ Link: <https://www.bvp.com/atlas/inside-ai-pilled-engineering-teams-five-lessons
 >
 > Models leapfrog each other every quarter; standardizing on one is a lease, not an asset. The harness — the skills, context, and boundaries that make any agent competent on your stack — is the part you own.
 
+<a id="post-11"></a>
+
 ### 11. Ramp built an in-house AI data analyst — last 4 weeks: 1,476 questions answered vs 66 through the old help channel
 
-2026-07-27 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v7y8xe/ramp_built_an_inhouse_ai_data_analyst_last_4/)
+2026-07-27 · u/Thinker_Assignment · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v7y8xe/ramp_built_an_inhouse_ai_data_analyst_last_4/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://builders.ramp.com/post/meet-ramp-research>
 
@@ -221,9 +243,11 @@ Link: <https://builders.ramp.com/post/meet-ramp-research>
 >
 > That's the third in-house write-up this year (after Anthropic's and OpenAI's) landing on the same conclusion: the agent is the thin part, the context is the asset.
 
+<a id="post-12"></a>
+
 ### 12. Same Claude, two methods - the default leaks your credentials
 
-2026-07-23 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v4gy3y/same_claude_two_methods_the_default_leaks_your/)
+2026-07-23 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v4gy3y/same_claude_two_methods_the_default_leaks_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8a8m8xw0yzeh1.png>
 
@@ -231,9 +255,11 @@ Link: <https://i.redd.it/8a8m8xw0yzeh1.png>
 >
 > [https://dlthub.com/blog/agentic-rest-eval](https://dlthub.com/blog/agentic-rest-eval)
 
+<a id="post-13"></a>
+
 ### 13. Google took Conversational Analytics in BigQuery GA
 
-2026-07-23 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v4gqm0/google_took_conversational_analytics_in_bigquery/)
+2026-07-23 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v4gqm0/google_took_conversational_analytics_in_bigquery/) · [↑ back to the list](#last-50-posts)
 
 > Google shipped Conversational Analytics in BigQuery to GA on July 1. Plain-language question in, the agent plans, writes the SQL, runs the analysis, hands back a report. Five things stood out reading it:
 >
@@ -253,9 +279,11 @@ Link: <https://i.redd.it/8a8m8xw0yzeh1.png>
 >
 > [https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga](https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga)
 
+<a id="post-14"></a>
+
 ### 14. I can't find a sub where people discuss AI-native data stacks
 
-2026-07-21 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v2m1bj/i_cant_find_a_sub_where_people_discuss_ainative/)
+2026-07-21 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/agenticdatastack/comments/1v2m1bj/i_cant_find_a_sub_where_people_discuss_ainative/) · [↑ back to the list](#last-50-posts)
 
 > so like normal data stacks, but without hating on AI and actually trying to make it work
 >

@@ -53,56 +53,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Hey everyone i urgently need help with something](https://www.reddit.com/r/salesforce/comments/1xpw5fg/hey_everyone_i_urgently_need_help_with_something/) | u/Key_Salary_1494 | help please | text | 0 | 7 | live | — |
-| 2 | 2026-11-06 | [Do you all like Salesforce?](https://www.reddit.com/r/salesforce/comments/1xpjwn9/do_you_all_like_salesforce/) | u/k2718 | developer | text | 0 | 65 | live | — |
-| 3 | 2026-11-06 | [restricting record views?](https://www.reddit.com/r/salesforce/comments/1xpjaiv/restricting_record_views/) | u/mathematical_cat | admin | text | 1 | 5 | live | — |
-| 4 | 2026-11-06 | [In-person interview for a Technical Support Engineer](https://www.reddit.com/r/salesforce/comments/1xpj1tp/inperson_interview_for_a_technical_support/) | u/MharmCS_SofEng | help please | text | 3 | 2 | live | — |
-| 5 | 2026-11-06 | [Salesforce aquasitions](https://www.reddit.com/r/salesforce/comments/1xpi00s/salesforce_aquasitions/) | u/Beneficial-Chair-333 | off topic | text | 0 | 2 | live | — |
-| 6 | 2026-11-06 | [Stay at a stable but miserable job, or take a senior developer role at a smaller company with no safety net?](https://www.reddit.com/r/salesforce/comments/1xphnut/stay_at_a_stable_but_miserable_job_or_take_a/) | u/AngryVegetables9 | help please | text | 9 | 22 | live | — |
-| 7 | 2026-11-06 | [Cert Verification](https://www.reddit.com/r/salesforce/comments/1xpf58s/cert_verification/) | u/Message-Former | certification question | text | 12 | 46 | live | — |
-| 8 | 2026-11-06 | [Where to find full time jobs in America as Canadian and European?](https://www.reddit.com/r/salesforce/comments/1xpc24v/where_to_find_full_time_jobs_in_america_as/) | u/AlexPCloud | help please | text | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-06 | [How to f create a support case now?](https://www.reddit.com/r/salesforce/comments/1xpacs4/how_to_f_create_a_support_case_now/) | u/Juss3pp3 | help please | text | 22 | 27 | live | — |
-| 10 | 2026-11-06 | [Asking for a referral](https://www.reddit.com/r/salesforce/comments/1xp7p7f/asking_for_a_referral/) | u/Ok-Bite5619 | help please | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-06 | [Single sign-on for support tools: is role mapping worth the pain?](https://www.reddit.com/r/salesforce/comments/1xp6qy2/single_signon_for_support_tools_is_role_mapping/) | u/MegzzAsleep6969 | developer | text | 2 | 1 | live | — |
-| 12 | 2026-11-06 | [Referral please](https://www.reddit.com/r/salesforce/comments/1xp6033/referral_please/) | u/zayn7821 | getting started | text | 0 | 0 | live | — |
-| 13 | 2026-11-06 | [udemy refund issue getting salesforce authentication error when support bot ask to log in and directed to sal…](https://www.reddit.com/r/salesforce/comments/1xp30a6/udemy_refund_issue_getting_salesforce/) | u/Interesting-Ad4494 | help please | text | 1 | 0 | live | — |
-| 14 | 2026-11-06 | [Salesforce fde](https://www.reddit.com/r/salesforce/comments/1xp2mci/salesforce_fde/) | u/BubbsTea | career question | text | 0 | 3 | live | — |
-| 15 | 2026-11-06 | [Salesforce Backup](https://www.reddit.com/r/salesforce/comments/1xp22q5/salesforce_backup/) | u/Aggravating-Dig1203 | help please | text | 2 | 14 | live | — |
-| 16 | 2026-11-05 | [Agentforce Coworker on Exp. Cloud Site](https://www.reddit.com/r/salesforce/comments/1xow213/agentforce_coworker_on_exp_cloud_site/) | u/krisdawg123 | apps/products | text | 3 | 8 | live | — |
-| 17 | 2026-11-05 | [How is it possible that nCino/Salesforce are so terrible?](https://www.reddit.com/r/salesforce/comments/1xovejt/how_is_it_possible_that_ncinosalesforce_are_so/) | u/Laborious_Tug | apps/products | text | 18 | 15 | live | — |
-| 18 | 2026-11-05 | [Agentforce Observability and Adoption](https://www.reddit.com/r/salesforce/comments/1xotdmc/agentforce_observability_and_adoption/) | u/TheRealMichaelBluth | help please | text | 4 | 2 | live | — |
-| 19 | 2026-11-05 | [Why lower rates for add on clouds like CPQ, Health, Ed, etc?](https://www.reddit.com/r/salesforce/comments/1xoswry/why_lower_rates_for_add_on_clouds_like_cpq_health/) | u/grimview | venting 😤 | text | 0 | 7 | live | — |
-| 20 | 2026-11-05 | [MFA Enforcement for All Users + Phishing Resistant](https://www.reddit.com/r/salesforce/comments/1xosbt6/mfa_enforcement_for_all_users_phishing_resistant/) | u/Final_Description636 | help please | text | 3 | 9 | live | — |
-| 21 | 2026-11-05 | [Does Salesforce Models API consume Flex Credits?](https://www.reddit.com/r/salesforce/comments/1xooy8s/does_salesforce_models_api_consume_flex_credits/) | u/North-Clue-2313 | developer | text | 2 | 9 | live | — |
-| 22 | 2026-11-05 | [I was prepping for a Salesforce interview. Then I hit a wall. 🧱](https://www.reddit.com/r/salesforce/comments/1xomd26/i_was_prepping_for_a_salesforce_interview_then_i/) | u/Used-Apricot-3775 | developer | text | 1 | 0 | spam-filtered | — |
-| 23 | 2026-11-05 | [I don't know how to choose CRM](https://www.reddit.com/r/salesforce/comments/1xog6gp/i_dont_know_how_to_choose_crm/) | u/dubidumdum | getting started | text | 0 | 11 | spam-filtered | — |
-| 24 | 2026-11-05 | [Need Career Advice: Early-Career Salesforce Developer Facing Uncertainty](https://www.reddit.com/r/salesforce/comments/1xoba4w/need_career_advice_earlycareer_salesforce/) | u/Kishore86 | help please | text | 8 | 6 | live | — |
-| 25 | 2026-11-05 | [Salesforce released some cool free artifact templates for Claudeforce](https://www.reddit.com/r/salesforce/comments/1xo8fzd/salesforce_released_some_cool_free_artifact/) | u/throwingbbymaway | admin | text | 1 | 0 | spam-filtered | — |
-| 26 | 2026-11-05 | [Salesforce QA Automation – Selenium vs Playwright vs Other Tools?](https://www.reddit.com/r/salesforce/comments/1xo52bf/salesforce_qa_automation_selenium_vs_playwright/) | u/Fit-Turnover4712 | career question | text | 1 | 3 | live | — |
-| 27 | 2026-11-04 | [I got tired of comparing perm sets by hand, so I made a free extension for it](https://www.reddit.com/r/salesforce/comments/1xo3678/i_got_tired_of_comparing_perm_sets_by_hand_so_i/) | u/Individual-Pen-3835 | developer | text | 0 | 0 | spam-filtered | — |
-| 28 | 2026-11-04 | [Has anyone ever bought or sold a one-person Salesforce consulting business?](https://www.reddit.com/r/salesforce/comments/1xo2n0r/has_anyone_ever_bought_or_sold_a_oneperson/) | u/mysfmcjobs | off topic | text | 17 | 13 | live | — |
-| 29 | 2026-11-04 | [Occupy SaaS, what do you think?](https://www.reddit.com/r/salesforce/comments/1xo0cgd/occupy_saas_what_do_you_think/) | u/pearljamfan | propaganda | reddit.com | 0 | 6 | live | — |
-| 30 | 2026-11-04 | [Recover Deleted Sandbox](https://www.reddit.com/r/salesforce/comments/1xnuhac/recover_deleted_sandbox/) | u/YuHe_23 | help please | text | 3 | 16 | live | — |
-| 31 | 2026-11-04 | [Salesforce User Record Visibility Issue](https://www.reddit.com/r/salesforce/comments/1xntbt7/salesforce_user_record_visibility_issue/) | u/Zealousideal_Ant343 | developer | text | 1 | 0 | live | — |
-| 32 | 2026-11-04 | [Another feature degradation going on for more then 1 WEEK!!](https://www.reddit.com/r/salesforce/comments/1xnqli4/another_feature_degradation_going_on_for_more/) | u/ImportantPudding1570 | venting 😤 | text | 22 | 4 | live | — |
-| 33 | 2026-11-04 | [Job Search Salesforce](https://www.reddit.com/r/salesforce/comments/1xnnxja/job_search_salesforce/) | u/MenuRealistic3074 | developer | text | 0 | 0 | live | — |
-| 34 | 2026-11-04 | [How are you integrating Salesforce with Jira, including comments and attachments?](https://www.reddit.com/r/salesforce/comments/1xnmt6e/how_are_you_integrating_salesforce_with_jira/) | u/Historical-Box-311 | help please | text | 1 | 0 | spam-filtered | — |
-| 35 | 2026-11-04 | [Acquired companies salary by location/remote](https://www.reddit.com/r/salesforce/comments/1xngc0k/acquired_companies_salary_by_locationremote/) | u/LorPsyArk | help please | text | 1 | 7 | live | — |
-| 36 | 2026-11-04 | [Salesforce Senior Product Security Engineer role](https://www.reddit.com/r/salesforce/comments/1xnevw0/salesforce_senior_product_security_engineer_role/) | u/Fit-Fisherman-2706 | career question | text | 4 | 0 | live | — |
-| 37 | 2026-11-04 | [Salesforce Internship Referral — Should I Apply or Wait?](https://www.reddit.com/r/salesforce/comments/1xnd9lt/salesforce_internship_referral_should_i_apply_or/) | u/SignificantFig8856 | developer | text | 2 | 0 | live | — |
-| 38 | 2026-11-04 | [Salesforce Security Center](https://www.reddit.com/r/salesforce/comments/1xnd8wd/salesforce_security_center/) | u/Pretend-Leave7081 | help please | text | 1 | 3 | live | — |
-| 39 | 2026-11-03 | [B2B Commerce cloud](https://www.reddit.com/r/salesforce/comments/1xn72r7/b2b_commerce_cloud/) | u/sachinbansal98 | certification passed | text | 1 | 0 | live | — |
-| 40 | 2026-11-03 | [Offer from Startup, been acquired by Salesforce](https://www.reddit.com/r/salesforce/comments/1xn1ufv/offer_from_startup_been_acquired_by_salesforce/) | u/ruggedtrails | career question | text | 14 | 12 | live | — |
-| 41 | 2026-11-03 | [Starting your own consulting practice](https://www.reddit.com/r/salesforce/comments/1xmz82b/starting_your_own_consulting_practice/) | u/Gold_Woodpecker_8929 | help please | text | 6 | 28 | live | — |
-| 42 | 2026-11-03 | [Sales reps refusing to log calls is going to be my villain origin story](https://www.reddit.com/r/salesforce/comments/1xmyfpm/sales_reps_refusing_to_log_calls_is_going_to_be/) | u/Due-Emotion1959 | venting 😤 | text | 39 | 37 | live | — |
-| 43 | 2026-11-03 | [Pluto 2.0: an open-source AI agent engine for Salesforce that runs without Agentforce or Data Cloud licenses](https://www.reddit.com/r/salesforce/comments/1xmx93w/pluto_20_an_opensource_ai_agent_engine_for/) | u/EarOdd5244 | developer | i.redd.it | 0 | 5 | live | — |
-| 44 | 2026-11-03 | [5 years of experience as an Admin, became somewhat senior, reasonably technical, working as a business analys…](https://www.reddit.com/r/salesforce/comments/1xmwtnb/5_years_of_experience_as_an_admin_became_somewhat/) | u/WetSloppySocks | career question | text | 3 | 15 | live | — |
-| 45 | 2026-11-03 | [Email Content Builder Not Loading Templates/Content](https://www.reddit.com/r/salesforce/comments/1xmwnp5/email_content_builder_not_loading_templatescontent/) | u/sodawsome | help please | i.redd.it | 2 | 2 | live | — |
-| 46 | 2026-11-03 | [West Africa Dreamin' - Giving Away 5 Tickets](https://www.reddit.com/r/salesforce/comments/1xmtv9h/west_africa_dreamin_giving_away_5_tickets/) | u/Interesting_Button60 | off topic | i.redd.it | 9 | 5 | live | — |
-| 47 | 2026-11-03 | [Stop Chaining + and \n: Apex Multiline Strings + template() #Salesforce ...](https://www.reddit.com/r/salesforce/comments/1xmrl5p/stop_chaining_and_n_apex_multiline_strings/) | u/murugank2324 | developer | youtube.com | 3 | 1 | live | — |
-| 48 | 2026-11-03 | [Finished final HM round at Salesforce on Friday — typical wait time for recruiter update?](https://www.reddit.com/r/salesforce/comments/1xmqvn0/finished_final_hm_round_at_salesforce_on_friday/) | u/Late_Rate_2983 | career question | text | 0 | 2 | live | — |
-| 49 | 2026-11-03 | [Junior Salesforce Developer: my work gets sent back 2-3 times for review. How do I reduce the rework?](https://www.reddit.com/r/salesforce/comments/1xmpgzr/junior_salesforce_developer_my_work_gets_sent/) | u/Ok-Site-2791 | developer | text | 1 | 0 | spam-filtered | — |
-| 50 | 2026-11-03 | [Business productivity](https://www.reddit.com/r/salesforce/comments/1xmocny/business_productivity/) | u/Zestyclose-Count8990 | off topic | text | 0 | 3 | live | — |
+| 1 | 2026-11-07 | [Hey everyone i urgently need help with something](#post-1) | u/Key_Salary_1494 | help please | text | 0 | 7 | live | — |
+| 2 | 2026-11-06 | [Do you all like Salesforce?](#post-2) | u/k2718 | developer | text | 0 | 65 | live | — |
+| 3 | 2026-11-06 | [restricting record views?](#post-3) | u/mathematical_cat | admin | text | 1 | 5 | live | — |
+| 4 | 2026-11-06 | [In-person interview for a Technical Support Engineer](#post-4) | u/MharmCS_SofEng | help please | text | 3 | 2 | live | — |
+| 5 | 2026-11-06 | [Salesforce aquasitions](#post-5) | u/Beneficial-Chair-333 | off topic | text | 0 | 2 | live | — |
+| 6 | 2026-11-06 | [Stay at a stable but miserable job, or take a senior developer role at a smaller company with no safety net?](#post-6) | u/AngryVegetables9 | help please | text | 9 | 22 | live | — |
+| 7 | 2026-11-06 | [Cert Verification](#post-7) | u/Message-Former | certification question | text | 12 | 46 | live | — |
+| 8 | 2026-11-06 | [Where to find full time jobs in America as Canadian and European?](#post-8) | u/AlexPCloud | help please | text | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-06 | [How to f create a support case now?](#post-9) | u/Juss3pp3 | help please | text | 22 | 27 | live | — |
+| 10 | 2026-11-06 | [Asking for a referral](#post-10) | u/Ok-Bite5619 | help please | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-06 | [Single sign-on for support tools: is role mapping worth the pain?](#post-11) | u/MegzzAsleep6969 | developer | text | 2 | 1 | live | — |
+| 12 | 2026-11-06 | [Referral please](#post-12) | u/zayn7821 | getting started | text | 0 | 0 | live | — |
+| 13 | 2026-11-06 | [udemy refund issue getting salesforce authentication error when support bot ask to log in and directed to sal…](#post-13) | u/Interesting-Ad4494 | help please | text | 1 | 0 | live | — |
+| 14 | 2026-11-06 | [Salesforce fde](#post-14) | u/BubbsTea | career question | text | 0 | 3 | live | — |
+| 15 | 2026-11-06 | [Salesforce Backup](#post-15) | u/Aggravating-Dig1203 | help please | text | 2 | 14 | live | — |
+| 16 | 2026-11-05 | [Agentforce Coworker on Exp. Cloud Site](#post-16) | u/krisdawg123 | apps/products | text | 3 | 8 | live | — |
+| 17 | 2026-11-05 | [How is it possible that nCino/Salesforce are so terrible?](#post-17) | u/Laborious_Tug | apps/products | text | 18 | 15 | live | — |
+| 18 | 2026-11-05 | [Agentforce Observability and Adoption](#post-18) | u/TheRealMichaelBluth | help please | text | 4 | 2 | live | — |
+| 19 | 2026-11-05 | [Why lower rates for add on clouds like CPQ, Health, Ed, etc?](#post-19) | u/grimview | venting 😤 | text | 0 | 7 | live | — |
+| 20 | 2026-11-05 | [MFA Enforcement for All Users + Phishing Resistant](#post-20) | u/Final_Description636 | help please | text | 3 | 9 | live | — |
+| 21 | 2026-11-05 | [Does Salesforce Models API consume Flex Credits?](#post-21) | u/North-Clue-2313 | developer | text | 2 | 9 | live | — |
+| 22 | 2026-11-05 | [I was prepping for a Salesforce interview. Then I hit a wall. 🧱](#post-22) | u/Used-Apricot-3775 | developer | text | 1 | 0 | spam-filtered | — |
+| 23 | 2026-11-05 | [I don't know how to choose CRM](#post-23) | u/dubidumdum | getting started | text | 0 | 11 | spam-filtered | — |
+| 24 | 2026-11-05 | [Need Career Advice: Early-Career Salesforce Developer Facing Uncertainty](#post-24) | u/Kishore86 | help please | text | 8 | 6 | live | — |
+| 25 | 2026-11-05 | [Salesforce released some cool free artifact templates for Claudeforce](#post-25) | u/throwingbbymaway | admin | text | 1 | 0 | spam-filtered | — |
+| 26 | 2026-11-05 | [Salesforce QA Automation – Selenium vs Playwright vs Other Tools?](#post-26) | u/Fit-Turnover4712 | career question | text | 1 | 3 | live | — |
+| 27 | 2026-11-04 | [I got tired of comparing perm sets by hand, so I made a free extension for it](#post-27) | u/Individual-Pen-3835 | developer | text | 0 | 0 | spam-filtered | — |
+| 28 | 2026-11-04 | [Has anyone ever bought or sold a one-person Salesforce consulting business?](#post-28) | u/mysfmcjobs | off topic | text | 17 | 13 | live | — |
+| 29 | 2026-11-04 | [Occupy SaaS, what do you think?](#post-29) | u/pearljamfan | propaganda | reddit.com | 0 | 6 | live | — |
+| 30 | 2026-11-04 | [Recover Deleted Sandbox](#post-30) | u/YuHe_23 | help please | text | 3 | 16 | live | — |
+| 31 | 2026-11-04 | [Salesforce User Record Visibility Issue](#post-31) | u/Zealousideal_Ant343 | developer | text | 1 | 0 | live | — |
+| 32 | 2026-11-04 | [Another feature degradation going on for more then 1 WEEK!!](#post-32) | u/ImportantPudding1570 | venting 😤 | text | 22 | 4 | live | — |
+| 33 | 2026-11-04 | [Job Search Salesforce](#post-33) | u/MenuRealistic3074 | developer | text | 0 | 0 | live | — |
+| 34 | 2026-11-04 | [How are you integrating Salesforce with Jira, including comments and attachments?](#post-34) | u/Historical-Box-311 | help please | text | 1 | 0 | spam-filtered | — |
+| 35 | 2026-11-04 | [Acquired companies salary by location/remote](#post-35) | u/LorPsyArk | help please | text | 1 | 7 | live | — |
+| 36 | 2026-11-04 | [Salesforce Senior Product Security Engineer role](#post-36) | u/Fit-Fisherman-2706 | career question | text | 4 | 0 | live | — |
+| 37 | 2026-11-04 | [Salesforce Internship Referral — Should I Apply or Wait?](#post-37) | u/SignificantFig8856 | developer | text | 2 | 0 | live | — |
+| 38 | 2026-11-04 | [Salesforce Security Center](#post-38) | u/Pretend-Leave7081 | help please | text | 1 | 3 | live | — |
+| 39 | 2026-11-03 | [B2B Commerce cloud](#post-39) | u/sachinbansal98 | certification passed | text | 1 | 0 | live | — |
+| 40 | 2026-11-03 | [Offer from Startup, been acquired by Salesforce](#post-40) | u/ruggedtrails | career question | text | 14 | 12 | live | — |
+| 41 | 2026-11-03 | [Starting your own consulting practice](#post-41) | u/Gold_Woodpecker_8929 | help please | text | 6 | 28 | live | — |
+| 42 | 2026-11-03 | [Sales reps refusing to log calls is going to be my villain origin story](#post-42) | u/Due-Emotion1959 | venting 😤 | text | 39 | 37 | live | — |
+| 43 | 2026-11-03 | [Pluto 2.0: an open-source AI agent engine for Salesforce that runs without Agentforce or Data Cloud licenses](#post-43) | u/EarOdd5244 | developer | i.redd.it | 0 | 5 | live | — |
+| 44 | 2026-11-03 | [5 years of experience as an Admin, became somewhat senior, reasonably technical, working as a business analys…](#post-44) | u/WetSloppySocks | career question | text | 3 | 15 | live | — |
+| 45 | 2026-11-03 | [Email Content Builder Not Loading Templates/Content](#post-45) | u/sodawsome | help please | i.redd.it | 2 | 2 | live | — |
+| 46 | 2026-11-03 | [West Africa Dreamin' - Giving Away 5 Tickets](#post-46) | u/Interesting_Button60 | off topic | i.redd.it | 9 | 5 | live | — |
+| 47 | 2026-11-03 | [Stop Chaining + and \n: Apex Multiline Strings + template() #Salesforce ...](#post-47) | u/murugank2324 | developer | youtube.com | 3 | 1 | live | — |
+| 48 | 2026-11-03 | [Finished final HM round at Salesforce on Friday — typical wait time for recruiter update?](#post-48) | u/Late_Rate_2983 | career question | text | 0 | 2 | live | — |
+| 49 | 2026-11-03 | [Junior Salesforce Developer: my work gets sent back 2-3 times for review. How do I reduce the rework?](#post-49) | u/Ok-Site-2791 | developer | text | 1 | 0 | spam-filtered | — |
+| 50 | 2026-11-03 | [Business productivity](#post-50) | u/Zestyclose-Count8990 | off topic | text | 0 | 3 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -110,40 +110,44 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-27 | [A Slack insider just explained exactly what kind of company Salesforce is. Time to stop drinking the Ohana Ko…](https://www.reddit.com/r/salesforce/comments/1xgyawx/a_slack_insider_just_explained_exactly_what_kind/) | u/reddit0_r | propaganda | i.redd.it | 291 | 87 | live |
-| 52 | 2026-10-21 | [Hill I'll die on: I'd take 10 years of hands-on Salesforce over 30 certifications (from a former anti-cert gu…](https://www.reddit.com/r/salesforce/comments/1xbo678/hill_ill_die_on_id_take_10_years_of_handson/) | u/jcarmona86 | venting 😤 | text | 231 | 101 | live |
-| 53 | 2026-10-23 | [Salesforce down](https://www.reddit.com/r/salesforce/comments/1xd3gt3/salesforce_down/) | u/Low-Presentation-936 | help please | i.redd.it | 186 | 30 | live |
-| 54 | 2026-10-29 | [PSA: Claude will highjack Salesforce CLI login tokens to do whatever it wants without authorization](https://www.reddit.com/r/salesforce/comments/1xinrvl/psa_claude_will_highjack_salesforce_cli_login/) | u/Steady_Ri0t | apps/products | reddit.com | 144 | 123 | live |
-| 55 | 2026-10-30 | [Is Salesforce destroying the ecosystem on purpose?](https://www.reddit.com/r/salesforce/comments/1xjf3d1/is_salesforce_destroying_the_ecosystem_on_purpose/) | u/Accomplished-Ad-9163 | help please | text | 99 | 57 | live |
-| 56 | 2026-10-26 | [Trailhead Milestones!](https://www.reddit.com/r/salesforce/comments/1xfm27x/trailhead_milestones/) | u/Encrypted_Zero | off topic | i.redd.it | 95 | 33 | live |
-| 57 | 2026-10-22 | [salesforce partner left us for a diy claude setup, came back in 2 months](https://www.reddit.com/r/salesforce/comments/1xckuh6/salesforce_partner_left_us_for_a_diy_claude_setup/) | u/neilsarkr | apps/products | text | 86 | 51 | live |
-| 58 | 2026-10-13 | [Summer'27 Release Notes - Abridged Edition by SFXD](https://www.reddit.com/r/salesforce/comments/1x4zvw0/summer27_release_notes_abridged_edition_by_sfxd/) | u/Windyo | propaganda | text | 81 | 7 | live |
-| 59 | 2026-10-20 | [Salesforce acquires Braze. Thoughts?](https://www.reddit.com/r/salesforce/comments/1xaqr4b/salesforce_acquires_braze_thoughts/) | u/NoMobile3086 | propaganda | investor.salesforce.com | 71 | 143 | live |
-| 60 | 2026-10-23 | [Big outage right now](https://www.reddit.com/r/salesforce/comments/1xd2jrd/big_outage_right_now/) | u/triford | apps/products | i.redd.it | 69 | 52 | live |
-| 61 | 2026-10-17 | [Logging In By Username In Sandboxes](https://www.reddit.com/r/salesforce/comments/1x7zfz6/logging_in_by_username_in_sandboxes/) | u/LazyPerfection | venting 😤 | i.redd.it | 64 | 23 | live |
-| 62 | 2026-10-28 | [I built a free library of Salesforce/SLDS-styled React components](https://www.reddit.com/r/salesforce/comments/1xhw1bg/i_built_a_free_library_of_salesforcesldsstyled/) | u/ctawannabe | apps/products | text | 62 | 11 | live |
-| 63 | 2026-11-02 | [Salesforce Signs Definitive Agreement to Acquire Cresta](https://www.reddit.com/r/salesforce/comments/1xma06d/salesforce_signs_definitive_agreement_to_acquire/) | u/-ClownPenisDotFart- | apps/products | salesforce.com | 47 | 39 | live |
-| 42 | 2026-11-03 | [Sales reps refusing to log calls is going to be my villain origin story](https://www.reddit.com/r/salesforce/comments/1xmyfpm/sales_reps_refusing_to_log_calls_is_going_to_be/) | u/Due-Emotion1959 | venting 😤 | text | 39 | 37 | live |
-| 64 | 2026-10-23 | [What’s the future of Salesforce Architects with AI evolving so quickly?](https://www.reddit.com/r/salesforce/comments/1xczbvz/whats_the_future_of_salesforce_architects_with_ai/) | u/Big_Gain_6474 | career question | text | 39 | 21 | live |
-| 65 | 2026-10-15 | [Inspired by Dave of Portwood: Rowhouse, a free, open-source data grid for Salesforce](https://www.reddit.com/r/salesforce/comments/1x6z1hn/inspired_by_dave_of_portwood_rowhouse_a_free/) | u/kuldiph | admin | text | 38 | 27 | live |
-| 66 | 2026-10-19 | [Ouath Refresh Token - 30 day expiry policy activated in our prod org two weeks early, chaos ensues](https://www.reddit.com/r/salesforce/comments/1xa2afd/ouath_refresh_token_30_day_expiry_policy/) | u/Steady_Ri0t | venting 😤 | text | 36 | 10 | live |
-| 67 | 2026-10-31 | [Salesforce Signs Definitive Agreement to Acquire Rune Technologies 🤭](https://www.reddit.com/r/salesforce/comments/1xjzjp1/salesforce_signs_definitive_agreement_to_acquire/) | u/NoMobile3086 | propaganda | salesforce.com | 35 | 16 | live |
-| 68 | 2026-10-16 | [Has anyone here been through an acquisition from Salesforce?](https://www.reddit.com/r/salesforce/comments/1x7gosh/has_anyone_here_been_through_an_acquisition_from/) | u/Appropriate_Milk_470 | off topic | text | 32 | 41 | live |
-| 69 | 2026-10-15 | [UPDATE: 1 Year of Building Cert++](https://www.reddit.com/r/salesforce/comments/1x6sra6/update_1_year_of_building_cert/) | u/MoleManMattG | apps/products | text | 32 | 6 | live |
+| 51 | 2026-10-27 | [A Slack insider just explained exactly what kind of company Salesforce is. Time to stop drinking the Ohana Ko…](#post-51) | u/reddit0_r | propaganda | i.redd.it | 291 | 87 | live |
+| 52 | 2026-10-21 | [Hill I'll die on: I'd take 10 years of hands-on Salesforce over 30 certifications (from a former anti-cert gu…](#post-52) | u/jcarmona86 | venting 😤 | text | 231 | 101 | live |
+| 53 | 2026-10-23 | [Salesforce down](#post-53) | u/Low-Presentation-936 | help please | i.redd.it | 186 | 30 | live |
+| 54 | 2026-10-29 | [PSA: Claude will highjack Salesforce CLI login tokens to do whatever it wants without authorization](#post-54) | u/Steady_Ri0t | apps/products | reddit.com | 144 | 123 | live |
+| 55 | 2026-10-30 | [Is Salesforce destroying the ecosystem on purpose?](#post-55) | u/Accomplished-Ad-9163 | help please | text | 99 | 57 | live |
+| 56 | 2026-10-26 | [Trailhead Milestones!](#post-56) | u/Encrypted_Zero | off topic | i.redd.it | 95 | 33 | live |
+| 57 | 2026-10-22 | [salesforce partner left us for a diy claude setup, came back in 2 months](#post-57) | u/neilsarkr | apps/products | text | 86 | 51 | live |
+| 58 | 2026-10-13 | [Summer'27 Release Notes - Abridged Edition by SFXD](#post-58) | u/Windyo | propaganda | text | 81 | 7 | live |
+| 59 | 2026-10-20 | [Salesforce acquires Braze. Thoughts?](#post-59) | u/NoMobile3086 | propaganda | investor.salesforce.com | 71 | 143 | live |
+| 60 | 2026-10-23 | [Big outage right now](#post-60) | u/triford | apps/products | i.redd.it | 69 | 52 | live |
+| 61 | 2026-10-17 | [Logging In By Username In Sandboxes](#post-61) | u/LazyPerfection | venting 😤 | i.redd.it | 64 | 23 | live |
+| 62 | 2026-10-28 | [I built a free library of Salesforce/SLDS-styled React components](#post-62) | u/ctawannabe | apps/products | text | 62 | 11 | live |
+| 63 | 2026-11-02 | [Salesforce Signs Definitive Agreement to Acquire Cresta](#post-63) | u/-ClownPenisDotFart- | apps/products | salesforce.com | 47 | 39 | live |
+| 42 | 2026-11-03 | [Sales reps refusing to log calls is going to be my villain origin story](#post-42) | u/Due-Emotion1959 | venting 😤 | text | 39 | 37 | live |
+| 64 | 2026-10-23 | [What’s the future of Salesforce Architects with AI evolving so quickly?](#post-64) | u/Big_Gain_6474 | career question | text | 39 | 21 | live |
+| 65 | 2026-10-15 | [Inspired by Dave of Portwood: Rowhouse, a free, open-source data grid for Salesforce](#post-65) | u/kuldiph | admin | text | 38 | 27 | live |
+| 66 | 2026-10-19 | [Ouath Refresh Token - 30 day expiry policy activated in our prod org two weeks early, chaos ensues](#post-66) | u/Steady_Ri0t | venting 😤 | text | 36 | 10 | live |
+| 67 | 2026-10-31 | [Salesforce Signs Definitive Agreement to Acquire Rune Technologies 🤭](#post-67) | u/NoMobile3086 | propaganda | salesforce.com | 35 | 16 | live |
+| 68 | 2026-10-16 | [Has anyone here been through an acquisition from Salesforce?](#post-68) | u/Appropriate_Milk_470 | off topic | text | 32 | 41 | live |
+| 69 | 2026-10-15 | [UPDATE: 1 Year of Building Cert++](#post-69) | u/MoleManMattG | apps/products | text | 32 | 6 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Hey everyone i urgently need help with something
 
-2026-11-07 · u/Key_Salary_1494 · help please · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpw5fg/hey_everyone_i_urgently_need_help_with_something/)
+2026-11-07 · u/Key_Salary_1494 · help please · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpw5fg/hey_everyone_i_urgently_need_help_with_something/) · [↑ back to the list](#last-50-posts)
 
 > I work in an insurance company where we do renewals of the policies on sales force i want to automate few steps if someone can guide me through it how to do that please?
 
+<a id="post-2"></a>
+
 ### 2. Do you all like Salesforce?
 
-2026-11-06 · u/k2718 · developer · score 0 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpjwn9/do_you_all_like_salesforce/)
+2026-11-06 · u/k2718 · developer · score 0 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpjwn9/do_you_all_like_salesforce/) · [↑ back to the list](#last-50-posts)
 
 > I'm a developer who sometimes has to integrate with Salesforce. I've done a bit more in the past. I really don't like Salesforce and no one I know does. So so many pain points. The UI is unintuitive, the data model is strange, and the integrations and work flows are weird.
 >
@@ -152,17 +156,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I so curious, do you all who work with it every day like it?
 
+<a id="post-3"></a>
+
 ### 3. restricting record views?
 
-2026-11-06 · u/mathematical_cat · admin · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpjaiv/restricting_record_views/)
+2026-11-06 · u/mathematical_cat · admin · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpjaiv/restricting_record_views/) · [↑ back to the list](#last-50-posts)
 
 > I have two separate apps that both need to utilize the Account & Opportunity objects. Each of these apps have separate profiles that can access them. I have created separate record types for each of the apps that use these objects. I know I can restrict which profile can create certain record types, but is there a way to restrict which app or profile can access and view the records in a certain record type within an object?
 >
 > For example, if I am in App1 with a certain profile but only want to be able to access the accounts with record type = App1RecordType, I can still see all record types when I go into the list view and have the list view at All Accounts.
 
+<a id="post-4"></a>
+
 ### 4. In-person interview for a Technical Support Engineer
 
-2026-11-06 · u/MharmCS_SofEng · help please · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpj1tp/inperson_interview_for_a_technical_support/)
+2026-11-06 · u/MharmCS_SofEng · help please · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpj1tp/inperson_interview_for_a_technical_support/) · [↑ back to the list](#last-50-posts)
 
 > I have an upcoming in-person interview for a Technical Support Engineer role on the Sales Cloud team.
 >
@@ -170,23 +178,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Any tips, insights, or advice would be greatly appreciated. Thanks in advance!
 
+<a id="post-5"></a>
+
 ### 5. Salesforce aquasitions
 
-2026-11-06 · u/Beneficial-Chair-333 · off topic · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpi00s/salesforce_aquasitions/)
+2026-11-06 · u/Beneficial-Chair-333 · off topic · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpi00s/salesforce_aquasitions/) · [↑ back to the list](#last-50-posts)
 
 > Salesforce did plenty of aquasitions in past and recently did some aquasitions. How was your experience in aquasitions and integration? Are these aquasitions really able to add value in the Salesforce? Are you able to work freely like you used to previously or internal structure suppressed it?
 
+<a id="post-6"></a>
+
 ### 6. Stay at a stable but miserable job, or take a senior developer role at a smaller company with no safety net?
 
-2026-11-06 · u/AngryVegetables9 · help please · score 9 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xphnut/stay_at_a_stable_but_miserable_job_or_take_a/)
+2026-11-06 · u/AngryVegetables9 · help please · score 9 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xphnut/stay_at_a_stable_but_miserable_job_or_take_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm 30 and have been at a large utility for about 9 years including internships, the last 3 as a Salesforce developer (mostly OmniStudio). Total comp is about $125k: $110k base, a \~$6k bonus, a strong 401(k) match plus a pension, cheap health insurance, 5 weeks of PTO, and 2 WFH days. It's very hard to get fired here. But I'm badly burned out: my manager dismisses real problems as excuses, a big consulting vendor regularly overwrites weeks of my work, crunch time means mandatory weekends, there are reorg rumors, and I see no path to senior. My manager would likely block an internal transfer.
 >
 > I just got an offer as a Senior Salesforce Engineer at a \~300-person private lab company: $120k base plus a possible bonus, the first in-house Salesforce dev, lots of integration and Apex work, and a CTO who clearly wants me. The catch is that total comp is about $4-5k lower (3% match, no pension, pricier insurance, 4 days in office), and it's a small company in a rough economy. I have no family to fall back on and about $8k I could pull from a Roth, so a layoff a year in would be devastating. With that being said, the company has 7x’d growth the last 10 years and the recruiter assures me the probability of layoffs are almost 0. I'm leaning toward staying, building savings, and networking internally, but I'm really torn. What would you do?
 
+<a id="post-7"></a>
+
 ### 7. Cert Verification
 
-2026-11-06 · u/Message-Former · certification question · score 12 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpf58s/cert_verification/)
+2026-11-06 · u/Message-Former · certification question · score 12 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpf58s/cert_verification/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to give people the benefit of the doubt here. I'm trying to hire a certified Admin & Dev, and I continue to get people who put this on their resume, say they are, but cannot provide proof.
 >
@@ -198,15 +212,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Is anyone else struggling with this issue?
 
+<a id="post-8"></a>
+
 ### 8. Where to find full time jobs in America as Canadian and European?
 
-2026-11-06 · u/AlexPCloud · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpc24v/where_to_find_full_time_jobs_in_america_as/)
+2026-11-06 · u/AlexPCloud · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpc24v/where_to_find_full_time_jobs_in_america_as/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. How to f create a support case now?
 
-2026-11-06 · u/Juss3pp3 · help please · score 22 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpacs4/how_to_f_create_a_support_case_now/)
+2026-11-06 · u/Juss3pp3 · help please · score 22 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xpacs4/how_to_f_create_a_support_case_now/) · [↑ back to the list](#last-50-posts)
 
 > Sorry but im feeling so stupid now
 >
@@ -216,39 +234,51 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * That link redirects to [https://help.salesforce.com/s/](https://help.salesforce.com/s/)
 > * Infinite Loop
 
+<a id="post-10"></a>
+
 ### 10. Asking for a referral
 
-2026-11-06 · u/Ok-Bite5619 · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp7p7f/asking_for_a_referral/)
+2026-11-06 · u/Ok-Bite5619 · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp7p7f/asking_for_a_referral/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Single sign-on for support tools: is role mapping worth the pain?
 
-2026-11-06 · u/MegzzAsleep6969 · developer · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp6qy2/single_signon_for_support_tools_is_role_mapping/)
+2026-11-06 · u/MegzzAsleep6969 · developer · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp6qy2/single_signon_for_support_tools_is_role_mapping/) · [↑ back to the list](#last-50-posts)
 
 > SSO is the obvious security win, but it looks like the hard part is mapping identity groups to helpdesk roles. If an agent moves teams, does the role change automatically, or does someone have to remember? I'm leaning toward mapping roles from groups so access follows the person, but the setup looks fiddly. Is it worth it for a team under 50? Or do you keep SSO for login and manage roles by hand? What went wrong for you when people changed teams or left?
 
+<a id="post-12"></a>
+
 ### 12. Referral please
 
-2026-11-06 · u/zayn7821 · getting started · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp6033/referral_please/)
+2026-11-06 · u/zayn7821 · getting started · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp6033/referral_please/) · [↑ back to the list](#last-50-posts)
 
 > Hello. I am a student at a decent college with a 95.5% score till my most recent semester. I also had a past internship in my 2nd year. I do well in the field and I even was top 150 in Amazon's ML challenge. I was wondering if anyone is willing to refer me to an intern position. I am looking for SWE or AI or Applied Science positions. Thank you for your kindness and consideration. If you want to know more details please DM.
 
+<a id="post-13"></a>
+
 ### 13. udemy refund issue getting salesforce authentication error when support bot ask to log in and directed to saleforce sso error . anyone know how to resolve ? thks !
 
-2026-11-06 · u/Interesting-Ad4494 · help please · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp30a6/udemy_refund_issue_getting_salesforce/)
+2026-11-06 · u/Interesting-Ad4494 · help please · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp30a6/udemy_refund_issue_getting_salesforce/) · [↑ back to the list](#last-50-posts)
 
 > anyone know how to resolve ? thks !
 
+<a id="post-14"></a>
+
 ### 14. Salesforce fde
 
-2026-11-06 · u/BubbsTea · career question · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp2mci/salesforce_fde/)
+2026-11-06 · u/BubbsTea · career question · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp2mci/salesforce_fde/) · [↑ back to the list](#last-50-posts)
 
 > What is this role. What do you even do. How much travel? And is it fun? Drop as much as you know about it, it’s so vague would love insight
 
+<a id="post-15"></a>
+
 ### 15. Salesforce Backup
 
-2026-11-06 · u/Aggravating-Dig1203 · help please · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp22q5/salesforce_backup/)
+2026-11-06 · u/Aggravating-Dig1203 · help please · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xp22q5/salesforce_backup/) · [↑ back to the list](#last-50-posts)
 
 > We have few posts that talk about Salesforce backup. Unless you have compliance requirements, is there a reason for external backup like Spanning or Veeam?
 >
@@ -258,31 +288,39 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Appreciate your responses.
 
+<a id="post-16"></a>
+
 ### 16. Agentforce Coworker on Exp. Cloud Site
 
-2026-11-05 · u/krisdawg123 · apps/products · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xow213/agentforce_coworker_on_exp_cloud_site/)
+2026-11-05 · u/krisdawg123 · apps/products · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xow213/agentforce_coworker_on_exp_cloud_site/) · [↑ back to the list](#last-50-posts)
 
 > Can you enable agentforce coworker on an experience cloud site / external customer portal? The users would be our customers. They are authenticated when they log in. We want them to be able to ask about their previous cases conversationally. Would like to see if there’s an option to do this without using data cloud.
 
+<a id="post-17"></a>
+
 ### 17. How is it possible that nCino/Salesforce are so terrible?
 
-2026-11-05 · u/Laborious_Tug · apps/products · score 18 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xovejt/how_is_it_possible_that_ncinosalesforce_are_so/)
+2026-11-05 · u/Laborious_Tug · apps/products · score 18 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xovejt/how_is_it_possible_that_ncinosalesforce_are_so/) · [↑ back to the list](#last-50-posts)
 
 > I see this with many AI-based companies, but nCino is by far the worst. We recently implemented nCino at my place of work and it is beyond terrible. The UI is unnecessarily large and bulky. Items don't sort alphabetically. Menus are confusing or missing important information altogether. Simple features, like the ability to sort line items alphabetically or even a simple 'Select All' button are completely missing. Almost every aspect of the program is clunky and not user-friendly, and many of the issues are (at least to me) very basic, bare-bones features that any program in 2026 would have by default. It is infinitely worse than the product we were previously using, but corporate has spoken so here we are.
 >
 > How is it that a multibillion dollar company can produce such a garbage product and then make apparently zero effort to fix any of the issues that are reported to them?
 
+<a id="post-18"></a>
+
 ### 18. Agentforce Observability and Adoption
 
-2026-11-05 · u/TheRealMichaelBluth · help please · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xotdmc/agentforce_observability_and_adoption/)
+2026-11-05 · u/TheRealMichaelBluth · help please · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xotdmc/agentforce_observability_and_adoption/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
 > We recently got Agentforce and we're trying to figure out how to measure adoption. I've taken a look at Observability dashboards, but I wasn't able to get a clear idea of what it can and cannot measure. For other admins, if you're measuring adoption what metrics and tools have you used?
 
+<a id="post-19"></a>
+
 ### 19. Why lower rates for add on clouds like CPQ, Health, Ed, etc?
 
-2026-11-05 · u/grimview · venting 😤 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xoswry/why_lower_rates_for_add_on_clouds_like_cpq_health/)
+2026-11-05 · u/grimview · venting 😤 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xoswry/why_lower_rates_for_add_on_clouds_like_cpq_health/) · [↑ back to the list](#last-50-posts)
 
 > Every recruiter that contacts me for role involving add-on clouds wants a at least 5 dollars lower rate then the regular sales/service cloud roles.
 >
@@ -290,9 +328,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > All this BS about wanting back to back project experience on a specific add-on app, only to find out the rates are much lower.
 
+<a id="post-20"></a>
+
 ### 20. MFA Enforcement for All Users + Phishing Resistant
 
-2026-11-05 · u/Final_Description636 · help please · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xosbt6/mfa_enforcement_for_all_users_phishing_resistant/)
+2026-11-05 · u/Final_Description636 · help please · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xosbt6/mfa_enforcement_for_all_users_phishing_resistant/) · [↑ back to the list](#last-50-posts)
 
 > How have you been able to solve for this?  
 > We just got a notice our extension runs out beginning of Dec in sandboxes, and late Jan in Prod. 
@@ -318,21 +358,27 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > How can we eliminate the multiple login / verification processes to access Salesforce. It's already a headache getting sales users to use the tool... putting up a barrier to actually accessing is another nail.
 
+<a id="post-21"></a>
+
 ### 21. Does Salesforce Models API consume Flex Credits?
 
-2026-11-05 · u/North-Clue-2313 · developer · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xooy8s/does_salesforce_models_api_consume_flex_credits/)
+2026-11-05 · u/North-Clue-2313 · developer · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xooy8s/does_salesforce_models_api_consume_flex_credits/) · [↑ back to the list](#last-50-posts)
 
 > I am deep on a project, and getting mixed ideas about whether Models API consumes Einstein Requests or Flex Credits and would love a clear answer if anyone has. I am under the impression Einstein Requests are different than Flex Credits, and Models API consumes Einstein Requests. But now I am not sure, maybe it consumes Flex Credits too? Thanks in advanced!
 
+<a id="post-22"></a>
+
 ### 22. I was prepping for a Salesforce interview. Then I hit a wall. 🧱
 
-2026-11-05 · u/Used-Apricot-3775 · developer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xomd26/i_was_prepping_for_a_salesforce_interview_then_i/)
+2026-11-05 · u/Used-Apricot-3775 · developer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xomd26/i_was_prepping_for_a_salesforce_interview_then_i/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. I don't know how to choose CRM
 
-2026-11-05 · u/dubidumdum · getting started · score 0 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xog6gp/i_dont_know_how_to_choose_crm/)
+2026-11-05 · u/dubidumdum · getting started · score 0 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xog6gp/i_dont_know_how_to_choose_crm/) · [↑ back to the list](#last-50-posts)
 
 > I've been researching CRM tools lately, but the more I compare them, the harder it gets to choose one.
 >
@@ -362,9 +408,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > At what point should you start considering a custom-built CRM instead?
 
+<a id="post-24"></a>
+
 ### 24. Need Career Advice: Early-Career Salesforce Developer Facing Uncertainty
 
-2026-11-05 · u/Kishore86 · help please · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xoba4w/need_career_advice_earlycareer_salesforce/)
+2026-11-05 · u/Kishore86 · help please · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xoba4w/need_career_advice_earlycareer_salesforce/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -389,15 +437,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thank you!
 
+<a id="post-25"></a>
+
 ### 25. Salesforce released some cool free artifact templates for Claudeforce
 
-2026-11-05 · u/throwingbbymaway · admin · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo8fzd/salesforce_released_some_cool_free_artifact/)
+2026-11-05 · u/throwingbbymaway · admin · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo8fzd/salesforce_released_some_cool_free_artifact/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. Salesforce QA Automation – Selenium vs Playwright vs Other Tools?
 
-2026-11-05 · u/Fit-Turnover4712 · career question · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo52bf/salesforce_qa_automation_selenium_vs_playwright/)
+2026-11-05 · u/Fit-Turnover4712 · career question · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo52bf/salesforce_qa_automation_selenium_vs_playwright/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -417,15 +469,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-27"></a>
+
 ### 27. I got tired of comparing perm sets by hand, so I made a free extension for it
 
-2026-11-04 · u/Individual-Pen-3835 · developer · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo3678/i_got_tired_of_comparing_perm_sets_by_hand_so_i/)
+2026-11-04 · u/Individual-Pen-3835 · developer · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo3678/i_got_tired_of_comparing_perm_sets_by_hand_so_i/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. Has anyone ever bought or sold a one-person Salesforce consulting business?
 
-2026-11-04 · u/mysfmcjobs · off topic · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo2n0r/has_anyone_ever_bought_or_sold_a_oneperson/)
+2026-11-04 · u/mysfmcjobs · off topic · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo2n0r/has_anyone_ever_bought_or_sold_a_oneperson/) · [↑ back to the list](#last-50-posts)
 
 > With AI becoming more capable, I'm starting to think that running a small Salesforce consulting business is becoming much easier.
 >
@@ -435,9 +491,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Would buyers value recurring clients, contracts, and relationships more than the actual technical operation?
 
+<a id="post-29"></a>
+
 ### 29. Occupy SaaS, what do you think?
 
-2026-11-04 · u/pearljamfan · propaganda · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo0cgd/occupy_saas_what_do_you_think/)
+2026-11-04 · u/pearljamfan · propaganda · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xo0cgd/occupy_saas_what_do_you_think/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software_developers_start_ambitious/?share_id=VlU7DtP3NmGpVb6Ngk-dj&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=1>
 
@@ -453,9 +511,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > What do you think chat
 
+<a id="post-30"></a>
+
 ### 30. Recover Deleted Sandbox
 
-2026-11-04 · u/YuHe_23 · help please · score 3 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnuhac/recover_deleted_sandbox/)
+2026-11-04 · u/YuHe_23 · help please · score 3 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnuhac/recover_deleted_sandbox/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys! 
 >
@@ -464,9 +524,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > If you had a similar case and were able to recover it recently, please let me know
 
+<a id="post-31"></a>
+
 ### 31. Salesforce User Record Visibility Issue
 
-2026-11-04 · u/Zealousideal_Ant343 · developer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xntbt7/salesforce_user_record_visibility_issue/)
+2026-11-04 · u/Zealousideal_Ant343 · developer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xntbt7/salesforce_user_record_visibility_issue/) · [↑ back to the list](#last-50-posts)
 
 > Experts need your help on this issue 
 >
@@ -483,9 +545,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > By soql they are not able to see which is correct
 
+<a id="post-32"></a>
+
 ### 32. Another feature degradation going on for more then 1 WEEK!!
 
-2026-11-04 · u/ImportantPudding1570 · venting 😤 · score 22 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnqli4/another_feature_degradation_going_on_for_more/)
+2026-11-04 · u/ImportantPudding1570 · venting 😤 · score 22 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnqli4/another_feature_degradation_going_on_for_more/) · [↑ back to the list](#last-50-posts)
 
 > This time it is community. Imagine your website is running slow for a week just because you used the new Lightning runtime
 >
@@ -497,9 +561,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > Were they trying to get away and fix it silently and not even acknowledging a direct user facing product is not performing as expected!! How much can we Trust their real Status now?
 
+<a id="post-33"></a>
+
 ### 33. Job Search Salesforce
 
-2026-11-04 · u/MenuRealistic3074 · developer · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnnxja/job_search_salesforce/)
+2026-11-04 · u/MenuRealistic3074 · developer · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnnxja/job_search_salesforce/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone, 
 >
@@ -509,27 +575,35 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > Thank you for your time.
 
+<a id="post-34"></a>
+
 ### 34. How are you integrating Salesforce with Jira, including comments and attachments?
 
-2026-11-04 · u/Historical-Box-311 · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnmt6e/how_are_you_integrating_salesforce_with_jira/)
+2026-11-04 · u/Historical-Box-311 · help please · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnmt6e/how_are_you_integrating_salesforce_with_jira/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-35"></a>
+
 ### 35. Acquired companies salary by location/remote
 
-2026-11-04 · u/LorPsyArk · help please · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xngc0k/acquired_companies_salary_by_locationremote/)
+2026-11-04 · u/LorPsyArk · help please · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xngc0k/acquired_companies_salary_by_locationremote/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, I'm from one of the recently acquired companies and wondered if anyone can share insight on whether salesforce scales roles by location, do they pay less for remote? Does this apply to their acquisitions too?
 
+<a id="post-36"></a>
+
 ### 36. Salesforce Senior Product Security Engineer role
 
-2026-11-04 · u/Fit-Fisherman-2706 · career question · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnevw0/salesforce_senior_product_security_engineer_role/)
+2026-11-04 · u/Fit-Fisherman-2706 · career question · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnevw0/salesforce_senior_product_security_engineer_role/) · [↑ back to the list](#last-50-posts)
 
 > any advice? for interviews? or any challenges you've faced with the Product Security/App Sec teams?
 
+<a id="post-37"></a>
+
 ### 37. Salesforce Internship Referral — Should I Apply or Wait?
 
-2026-11-04 · u/SignificantFig8856 · developer · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnd9lt/salesforce_internship_referral_should_i_apply_or/)
+2026-11-04 · u/SignificantFig8856 · developer · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnd9lt/salesforce_internship_referral_should_i_apply_or/) · [↑ back to the list](#last-50-posts)
 
 > I asked a family connection at Salesforce to refer me for an internship. He said, "I have referred you," and when I asked if I should apply, he said, "I forwarded it to the intern HR. For interns you have to apply."
 >
@@ -542,15 +616,19 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > To clarify, he just submitted the referral so it could take some time to register but I just want to make sure I don't apply to early
 
+<a id="post-38"></a>
+
 ### 38. Salesforce Security Center
 
-2026-11-04 · u/Pretend-Leave7081 · help please · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnd8wd/salesforce_security_center/)
+2026-11-04 · u/Pretend-Leave7081 · help please · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xnd8wd/salesforce_security_center/) · [↑ back to the list](#last-50-posts)
 
 > My company recently purchased the Salesforce Security Center add-on, and I want to make the most out of it. Does anybody have experience with SSC? If so, please share your most useful use cases for it. Thanks in advance!!!
 
+<a id="post-39"></a>
+
 ### 39. B2B Commerce cloud
 
-2026-11-03 · u/sachinbansal98 · certification passed · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xn72r7/b2b_commerce_cloud/)
+2026-11-03 · u/sachinbansal98 · certification passed · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xn72r7/b2b_commerce_cloud/) · [↑ back to the list](#last-50-posts)
 
 > Hey Folks,
 >
@@ -558,9 +636,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > I need some tips? Please DM
 
+<a id="post-40"></a>
+
 ### 40. Offer from Startup, been acquired by Salesforce
 
-2026-11-03 · u/ruggedtrails · career question · score 14 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xn1ufv/offer_from_startup_been_acquired_by_salesforce/)
+2026-11-03 · u/ruggedtrails · career question · score 14 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xn1ufv/offer_from_startup_been_acquired_by_salesforce/) · [↑ back to the list](#last-50-posts)
 
 > I have an offer from a startup that was acquired by Salesforce in the last 2 weeks and will close by April next year.
 >
@@ -568,17 +648,21 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > Appreciate any thoughts and comments!
 
+<a id="post-41"></a>
+
 ### 41. Starting your own consulting practice
 
-2026-11-03 · u/Gold_Woodpecker_8929 · help please · score 6 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmz82b/starting_your_own_consulting_practice/)
+2026-11-03 · u/Gold_Woodpecker_8929 · help please · score 6 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmz82b/starting_your_own_consulting_practice/) · [↑ back to the list](#last-50-posts)
 
 > Anyone else struggling to secure clients for their own consulting practice? I’m running into a lot of Ai-can-do-it-all type of small businesses and wondering if anyone is hitting that wall too. 
 >
 > Any good grow your business programs out there that are worthwhile to head this off?
 
+<a id="post-42"></a>
+
 ### 42. Sales reps refusing to log calls is going to be my villain origin story
 
-2026-11-03 · u/Due-Emotion1959 · venting 😤 · score 39 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmyfpm/sales_reps_refusing_to_log_calls_is_going_to_be/)
+2026-11-03 · u/Due-Emotion1959 · venting 😤 · score 39 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmyfpm/sales_reps_refusing_to_log_calls_is_going_to_be/) · [↑ back to the list](#last-50-posts)
 
 > I swear if i have to build one more flow to remind AEs to actually do their job im going to lose it.  
 >
@@ -586,9 +670,11 @@ Link: <https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software
 >
 > Honestly flow builder was lagging so horribly today while I was setting the nodes up I almost threw my laptop. Why does this company spend thousands on SFDC licenses if nobody actually wants to use the system?? Just venting before the weekend tbh, my brain is completely fried.
 
+<a id="post-43"></a>
+
 ### 43. Pluto 2.0: an open-source AI agent engine for Salesforce that runs without Agentforce or Data Cloud licenses
 
-2026-11-03 · u/EarOdd5244 · developer · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmx93w/pluto_20_an_opensource_ai_agent_engine_for/)
+2026-11-03 · u/EarOdd5244 · developer · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmx93w/pluto_20_an_opensource_ai_agent_engine_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/bbdr7hm2afzh1.png>
 
@@ -612,9 +698,11 @@ Link: <https://i.redd.it/bbdr7hm2afzh1.png>
 >
 > GitHub: [https://github.com/iamsonal/pluto](https://github.com/iamsonal/pluto)
 
+<a id="post-44"></a>
+
 ### 44. 5 years of experience as an Admin, became somewhat senior, reasonably technical, working as a business analyst, data governance, emergency triage, and not sure where to go next. Burning out and just need to know what I can expect with my skillset and experience.
 
-2026-11-03 · u/WetSloppySocks · career question · score 3 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmwtnb/5_years_of_experience_as_an_admin_became_somewhat/)
+2026-11-03 · u/WetSloppySocks · career question · score 3 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmwtnb/5_years_of_experience_as_an_admin_became_somewhat/) · [↑ back to the list](#last-50-posts)
 
 > When I joined we were a much larger team. We've been downsized repeatedly, had developer and QA resources pulled but the workload is the same. Today, I am here.
 >
@@ -650,9 +738,11 @@ Link: <https://i.redd.it/bbdr7hm2afzh1.png>
 >
 > Is it reasonable to shoot for that level of compensation in another organization given my experience and abilities? I can also rotate a PDF without installing malware if it helps.
 
+<a id="post-45"></a>
+
 ### 45. Email Content Builder Not Loading Templates/Content
 
-2026-11-03 · u/sodawsome · help please · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmwnp5/email_content_builder_not_loading_templatescontent/)
+2026-11-03 · u/sodawsome · help please · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmwnp5/email_content_builder_not_loading_templatescontent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ugdw89wb5fzh1.png>
 
@@ -662,9 +752,11 @@ Link: <https://i.redd.it/ugdw89wb5fzh1.png>
 >
 > Thanks in advance!
 
+<a id="post-46"></a>
+
 ### 46. West Africa Dreamin' - Giving Away 5 Tickets
 
-2026-11-03 · u/Interesting_Button60 · off topic · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmtv9h/west_africa_dreamin_giving_away_5_tickets/)
+2026-11-03 · u/Interesting_Button60 · off topic · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmtv9h/west_africa_dreamin_giving_away_5_tickets/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2frjpgw3nezh1.png>
 
@@ -680,9 +772,11 @@ Link: <https://i.redd.it/2frjpgw3nezh1.png>
 >
 > Have an awesome week!
 
+<a id="post-47"></a>
+
 ### 47. Stop Chaining + and \n: Apex Multiline Strings + template() #Salesforce ...
 
-2026-11-03 · u/murugank2324 · developer · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmrl5p/stop_chaining_and_n_apex_multiline_strings/)
+2026-11-03 · u/murugank2324 · developer · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmrl5p/stop_chaining_and_n_apex_multiline_strings/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/shorts/BQ-LemjU7Kw?si=_QAMl-qHDHWIDYNx>
 
@@ -699,27 +793,35 @@ Link: <https://youtube.com/shorts/BQ-LemjU7Kw?si=_QAMl-qHDHWIDYNx>
 >
 > [**#Salesforce**](https://www.linkedin.com/search/results/all/?keywords=%23salesforce&origin=HASH_TAG_FROM_FEED) [**#Apex**](https://www.linkedin.com/search/results/all/?keywords=%23apex&origin=HASH_TAG_FROM_FEED) [**#SalesforceDevelopers**](https://www.linkedin.com/search/results/all/?keywords=%23salesforcedevelopers&origin=HASH_TAG_FROM_FEED) [**#Summer26**](https://www.linkedin.com/search/results/all/?keywords=%23summer26&origin=HASH_TAG_FROM_FEED) [**#CleanCode**](https://www.linkedin.com/search/results/all/?keywords=%23cleancode&origin=HASH_TAG_FROM_FEED)
 
+<a id="post-48"></a>
+
 ### 48. Finished final HM round at Salesforce on Friday — typical wait time for recruiter update?
 
-2026-11-03 · u/Late_Rate_2983 · career question · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmqvn0/finished_final_hm_round_at_salesforce_on_friday/)
+2026-11-03 · u/Late_Rate_2983 · career question · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmqvn0/finished_final_hm_round_at_salesforce_on_friday/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, I had my final Hiring Manager round at Salesforce this past Friday. The conversation went quite well—covered past system architecture, project deep-dives, and situational/behavioral questions. For those who have interviewed with Salesforce recently (specifically for engineering roles): \* \*\*What was the typical turnaround time between your final HM round and hearing back from the recruiter?\*\* \* \*\*Does it typically lean closer to a few days, or is a 1–2 week buffer normal while other candidate loops finish?\*\* \* \*\*When is an appropriate time to send a polite follow-up if there's no update?\*\* Would appreciate any insights or recent timelines. Thanks!
 
+<a id="post-49"></a>
+
 ### 49. Junior Salesforce Developer: my work gets sent back 2-3 times for review. How do I reduce the rework?
 
-2026-11-03 · u/Ok-Site-2791 · developer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmpgzr/junior_salesforce_developer_my_work_gets_sent/)
+2026-11-03 · u/Ok-Site-2791 · developer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmpgzr/junior_salesforce_developer_my_work_gets_sent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. Business productivity
 
-2026-11-03 · u/Zestyclose-Count8990 · off topic · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmocny/business_productivity/)
+2026-11-03 · u/Zestyclose-Count8990 · off topic · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xmocny/business_productivity/) · [↑ back to the list](#last-50-posts)
 
 > What is one thing that can be improved to increase business productivity. It can be in any area like sales/support/csm/dev.
 
+<a id="post-51"></a>
+
 ### 51. A Slack insider just explained exactly what kind of company Salesforce is. Time to stop drinking the Ohana Kool-Aid.
 
-2026-10-27 · u/reddit0_r · propaganda · score 291 · 87 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xgyawx/a_slack_insider_just_explained_exactly_what_kind/)
+2026-10-27 · u/reddit0_r · propaganda · score 291 · 87 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xgyawx/a_slack_insider_just_explained_exactly_what_kind/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9tnpidfpk1yh1.jpeg>
 
@@ -751,9 +853,11 @@ Link: <https://i.redd.it/9tnpidfpk1yh1.jpeg>
 >
 > Anyone else been through a Salesforce acquisition? Curious if this matches what you saw.
 
+<a id="post-52"></a>
+
 ### 52. Hill I'll die on: I'd take 10 years of hands-on Salesforce over 30 certifications (from a former anti-cert guy who now has 13)
 
-2026-10-21 · u/jcarmona86 · venting 😤 · score 231 · 101 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xbo678/hill_ill_die_on_id_take_10_years_of_handson/)
+2026-10-21 · u/jcarmona86 · venting 😤 · score 231 · 101 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xbo678/hill_ill_die_on_id_take_10_years_of_handson/) · [↑ back to the list](#last-50-posts)
 
 > For years I was the anti-certification guy.
 >
@@ -777,17 +881,21 @@ Link: <https://i.redd.it/9tnpidfpk1yh1.jpeg>
 >
 > What’s the Salesforce hill you’re dying for (Disclaimer: no one is actually dying as “hill I die for” is a metaphor)?
 
+<a id="post-53"></a>
+
 ### 53. Salesforce down
 
-2026-10-23 · u/Low-Presentation-936 · help please · score 186 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xd3gt3/salesforce_down/)
+2026-10-23 · u/Low-Presentation-936 · help please · score 186 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xd3gt3/salesforce_down/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fzirn5ix15xh1.jpeg>
 
 > Salesforce has been down for over two hours tonight across 80+ instances in the US, Canada and Brazil. Cause not disclosed. Salesforce says it has no evidence of PHP2Shell exploitation, and it's probably an ordinary outage.
 
+<a id="post-54"></a>
+
 ### 54. PSA: Claude will highjack Salesforce CLI login tokens to do whatever it wants without authorization
 
-2026-10-29 · u/Steady_Ri0t · apps/products · score 144 · 123 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xinrvl/psa_claude_will_highjack_salesforce_cli_login/)
+2026-10-29 · u/Steady_Ri0t · apps/products · score 144 · 123 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xinrvl/psa_claude_will_highjack_salesforce_cli_login/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xinrvl>
 
@@ -796,25 +904,31 @@ Link: <https://www.reddit.com/gallery/1xinrvl>
 >
 > So, just as a heads up: you might want to pre-emptively tell Claude not connect to any environments you haven't explicitly given it permission to connect to, or it might just do it without authorization.
 
+<a id="post-55"></a>
+
 ### 55. Is Salesforce destroying the ecosystem on purpose?
 
-2026-10-30 · u/Accomplished-Ad-9163 · help please · score 99 · 57 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xjf3d1/is_salesforce_destroying_the_ecosystem_on_purpose/)
+2026-10-30 · u/Accomplished-Ad-9163 · help please · score 99 · 57 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xjf3d1/is_salesforce_destroying_the_ecosystem_on_purpose/) · [↑ back to the list](#last-50-posts)
 
 > Any other Salesforce partners finding that Salesforce is now actively selling against you to your biggest joint customers?    
 >
 > Between the new AI credit scheme and other aggressive sales tactics, it feels like they are actively trying to undermine the ecosystem. Is the goal to take all of those work loads for their own AI and push less stable, less feature rich solutions on customers to maintain wallet share?
 
+<a id="post-56"></a>
+
 ### 56. Trailhead Milestones!
 
-2026-10-26 · u/Encrypted_Zero · off topic · score 95 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xfm27x/trailhead_milestones/)
+2026-10-26 · u/Encrypted_Zero · off topic · score 95 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xfm27x/trailhead_milestones/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1ob6vajwcqxh1.png>
 
 > Finally hit double star ranger, 200k points, and my first Agentblazer level! Shooting for 250k points and all of the Agentblazer levels by the 2-year mark in my Salesforce career!
 
+<a id="post-57"></a>
+
 ### 57. salesforce partner left us for a diy claude setup, came back in 2 months
 
-2026-10-22 · u/neilsarkr · apps/products · score 86 · 51 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xckuh6/salesforce_partner_left_us_for_a_diy_claude_setup/)
+2026-10-22 · u/neilsarkr · apps/products · score 86 · 51 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xckuh6/salesforce_partner_left_us_for_a_diy_claude_setup/) · [↑ back to the list](#last-50-posts)
 
 > i've been in salesforce 6+ years and i run clientell, so yeah, vendor in the room. i know how this looks. vendor posts a customer win story on r/salesforce. downvote away.
 >
@@ -828,9 +942,11 @@ Link: <https://i.redd.it/1ob6vajwcqxh1.png>
 >
 > no ill will towards them though. we were cordial when they left and we've been cordial since. I checked with him before posting this, he was fine with it,  just asked us to keep their name out.
 
+<a id="post-58"></a>
+
 ### 58. Summer'27 Release Notes - Abridged Edition by SFXD
 
-2026-10-13 · u/Windyo · propaganda · score 81 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x4zvw0/summer27_release_notes_abridged_edition_by_sfxd/)
+2026-10-13 · u/Windyo · propaganda · score 81 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x4zvw0/summer27_release_notes_abridged_edition_by_sfxd/) · [↑ back to the list](#last-50-posts)
 
 > - - - - -
 >
@@ -857,25 +973,31 @@ Link: <https://i.redd.it/1ob6vajwcqxh1.png>
 >
 > ****
 
+<a id="post-59"></a>
+
 ### 59. Salesforce acquires Braze. Thoughts?
 
-2026-10-20 · u/NoMobile3086 · propaganda · score 71 · 143 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xaqr4b/salesforce_acquires_braze_thoughts/)
+2026-10-20 · u/NoMobile3086 · propaganda · score 71 · 143 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xaqr4b/salesforce_acquires_braze_thoughts/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/default.aspx>
 
 > Salesforce signs definitive agreement to acquire Braze.
 
+<a id="post-60"></a>
+
 ### 60. Big outage right now
 
-2026-10-23 · u/triford · apps/products · score 69 · 52 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xd2jrd/big_outage_right_now/)
+2026-10-23 · u/triford · apps/products · score 69 · 52 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xd2jrd/big_outage_right_now/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/27ee56rmt4xh1.jpeg>
 
 > 3 usa instances affected right now
 
+<a id="post-61"></a>
+
 ### 61. Logging In By Username In Sandboxes
 
-2026-10-17 · u/LazyPerfection · venting 😤 · score 64 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x7zfz6/logging_in_by_username_in_sandboxes/)
+2026-10-17 · u/LazyPerfection · venting 😤 · score 64 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x7zfz6/logging_in_by_username_in_sandboxes/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/f1bqc92n0yvh1.jpeg>
 
@@ -885,9 +1007,11 @@ Link: <https://i.redd.it/f1bqc92n0yvh1.jpeg>
 >
 > Luckily one of my fellow admins was still at his desktop and was able to send me the URL the main login page takes you to when trying to login with username. So if you run into this issue know you can use https://test.salesforce.com/?login=1 to login to your sandbox by username.
 
+<a id="post-62"></a>
+
 ### 62. I built a free library of Salesforce/SLDS-styled React components
 
-2026-10-28 · u/ctawannabe · apps/products · score 62 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xhw1bg/i_built_a_free_library_of_salesforcesldsstyled/)
+2026-10-28 · u/ctawannabe · apps/products · score 62 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xhw1bg/i_built_a_free_library_of_salesforcesldsstyled/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -899,16 +1023,20 @@ Link: <https://i.redd.it/f1bqc92n0yvh1.jpeg>
 >
 > Completely free and MIT-licensed, check it out at https://ui.wisty.ai
 
+<a id="post-63"></a>
+
 ### 63. Salesforce Signs Definitive Agreement to Acquire Cresta
 
-2026-11-02 · u/-ClownPenisDotFart- · apps/products · score 47 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xma06d/salesforce_signs_definitive_agreement_to_acquire/)
+2026-11-02 · u/-ClownPenisDotFart- · apps/products · score 47 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xma06d/salesforce_signs_definitive_agreement_to_acquire/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/>
 
 
+<a id="post-64"></a>
+
 ### 64. What’s the future of Salesforce Architects with AI evolving so quickly?
 
-2026-10-23 · u/Big_Gain_6474 · career question · score 39 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xczbvz/whats_the_future_of_salesforce_architects_with_ai/)
+2026-10-23 · u/Big_Gain_6474 · career question · score 39 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xczbvz/whats_the_future_of_salesforce_architects_with_ai/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working in the Salesforce ecosystem for 10+ years and currently work as a Salesforce Architect with 11 certifications.
 >
@@ -927,9 +1055,11 @@ Link: <https://www.salesforce.com/news/stories/salesforce-signs-definitive-agree
 >
 > Would love to hear your thoughts.
 
+<a id="post-65"></a>
+
 ### 65. Inspired by Dave of Portwood: Rowhouse, a free, open-source data grid for Salesforce
 
-2026-10-15 · u/kuldiph · admin · score 38 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x6z1hn/inspired_by_dave_of_portwood_rowhouse_a_free/)
+2026-10-15 · u/kuldiph · admin · score 38 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x6z1hn/inspired_by_dave_of_portwood_rowhouse_a_free/) · [↑ back to the list](#last-50-posts)
 
 > **Rowhouse Grid is a highly-capable grid app for $0. There's no paid tier, nothing to unlock, and help is free.** The install link and github repository are below. 
 >
@@ -956,30 +1086,38 @@ Link: <https://www.salesforce.com/news/stories/salesforce-signs-definitive-agree
 >
 > Site: [https://rowhouse.app](https://rowhouse.app)
 
+<a id="post-66"></a>
+
 ### 66. Ouath Refresh Token - 30 day expiry policy activated in our prod org two weeks early, chaos ensues
 
-2026-10-19 · u/Steady_Ri0t · venting 😤 · score 36 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xa2afd/ouath_refresh_token_30_day_expiry_policy/)
+2026-10-19 · u/Steady_Ri0t · venting 😤 · score 36 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xa2afd/ouath_refresh_token_30_day_expiry_policy/) · [↑ back to the list](#last-50-posts)
 
 > So many connected apps are broken, but there are no errors anywhere in Salesforce. Login history shows everything is fine for all integration users. Connected oauth app section is set up properly. And yet, we are having sync issues with at least 5 different connected apps anyway. Tried reconnecting several integrations, nothing changed. 
 >
 > Nothing mentioned on the Status page. Anyone else experiencing issues or are we going through our own Monday hell?
 
+<a id="post-67"></a>
+
 ### 67. Salesforce Signs Definitive Agreement to Acquire Rune Technologies 🤭
 
-2026-10-31 · u/NoMobile3086 · propaganda · score 35 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xjzjp1/salesforce_signs_definitive_agreement_to_acquire/)
+2026-10-31 · u/NoMobile3086 · propaganda · score 35 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1xjzjp1/salesforce_signs_definitive_agreement_to_acquire/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/>
 
 
+<a id="post-68"></a>
+
 ### 68. Has anyone here been through an acquisition from Salesforce?
 
-2026-10-16 · u/Appropriate_Milk_470 · off topic · score 32 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x7gosh/has_anyone_here_been_through_an_acquisition_from/)
+2026-10-16 · u/Appropriate_Milk_470 · off topic · score 32 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x7gosh/has_anyone_here_been_through_an_acquisition_from/) · [↑ back to the list](#last-50-posts)
 
 > Would love to know the specifics, what changed and if it was a net negative/positive.
 
+<a id="post-69"></a>
+
 ### 69. UPDATE: 1 Year of Building Cert++
 
-2026-10-15 · u/MoleManMattG · apps/products · score 32 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x6sra6/update_1_year_of_building_cert/)
+2026-10-15 · u/MoleManMattG · apps/products · score 32 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/salesforce/comments/1x6sra6/update_1_year_of_building_cert/) · [↑ back to the list](#last-50-posts)
 
 > Over a year ago I first [shared that I was building a website](https://www.reddit.com/r/salesforce/comments/1msz5wo/i_made_a_focusonforce_alternative/) around Salesforce practice sort of like ~~FoF~~ K2U.ai. I’m so excited to share that we’ve had over 1500 people create accounts on the site! It's taken thousands of hours of work and a ton of community feedback to figure out how to write good questions, but we've finally reached the milestone of supporting every Salesforce certification (including some that I didn’t realize existed when this project started) 
 >

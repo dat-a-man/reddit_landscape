@@ -51,56 +51,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Four alerts for LLM pipelines that read long inputs: treating truncation as a data-quality metric](https://www.reddit.com/r/mlops/comments/1xpqsdx/four_alerts_for_llm_pipelines_that_read_long/) | u/ClickOk5811 | Self-promotion :upvote: | text | 0 | 1 | live | — |
-| 2 | 2026-11-06 | [MLOps folks at big companies: what does the role and interview process look like?](https://www.reddit.com/r/mlops/comments/1xpqmmj/mlops_folks_at_big_companies_what_does_the_role/) | u/the_one777777897 | Discussion :snoo_dealwithit: | text | 27 | 9 | live | — |
-| 3 | 2026-11-06 | [Vast is fine for experiments but I wouldn’t put client data on a marketplace host](https://www.reddit.com/r/mlops/comments/1xpc4ko/vast_is_fine_for_experiments_but_i_wouldnt_put/) | u/Most-Swing-7286 | Discussion :snoo_dealwithit: | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Most-Swing-7286 — thanks for posting to r/mlops! Because this communit… |
-| 4 | 2026-11-06 | [I published a research-stage framework for evaluating the financial value of AI systems](https://www.reddit.com/r/mlops/comments/1xp9hoi/i_published_a_researchstage_framework_for/) | u/zerovariance36 | Discussion :snoo_dealwithit: | text | 2 | 4 | live | — |
-| 5 | 2026-11-06 | [AI Infra Precheck – A Practical GPU Cluster Health & Troubleshooting Checklist](https://www.reddit.com/r/mlops/comments/1xp7sid/ai_infra_precheck_a_practical_gpu_cluster_health/) | u/AFT7525 | Self-promotion :upvote: | text | 0 | 1 | live | — |
-| 6 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/mlops/comments/1xow814/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion :snoo_dealwithit: | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this commun… |
-| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/mlops/comments/1xouaic/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion :snoo_dealwithit: | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this commun… |
-| 8 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](https://www.reddit.com/r/mlops/comments/1xoj90u/would_you_use_scalacatsstyle_io_and_fibers_in_a/) | u/Apart_Paramedic_1850 | Self-promotion :upvote: | text | 0 | 7 | live | — |
-| 9 | 2026-11-05 | [Hire MLOps Engineer to Build Scalable, Reliable and Production-Ready AI Systems](https://www.reddit.com/r/mlops/comments/1xodrz4/hire_mlops_engineer_to_build_scalable_reliable/) | u/Working_Resource4617 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Working_Resource4617 — thanks for posting to r/mlops! Because this com… |
-| 10 | 2026-11-05 | [How a small, decoupled LLM gateway compares to the large ones: only 31 MB of memory](https://www.reddit.com/r/mlops/comments/1xo64nt/how_a_small_decoupled_llm_gateway_compares_to_the/) | u/respan-81 | Self-promotion :upvote: | text | 1 | 4 | live | — |
-| 11 | 2026-11-05 | [Which LLM proxy software are you running in production once every team needs its own token budget?](https://www.reddit.com/r/mlops/comments/1xo5vuc/which_llm_proxy_software_are_you_running_in/) | u/elena_kolen | MLOps Questions :snoo_heartey… | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/elena_kolen — thanks for posting to r/mlops! Because this community di… |
-| 12 | 2026-11-04 | [Your eval dashboard might be tracking the grader, not the system](https://www.reddit.com/r/mlops/comments/1xnu5jv/your_eval_dashboard_might_be_tracking_the_grader/) | u/No-Expression7400 | Discussion :snoo_dealwithit: | text | 3 | 3 | live | — |
-| 13 | 2026-11-04 | [context drift killed our production deployment mid-conversation. not a jailbreak, not adversarial input. just…](https://www.reddit.com/r/mlops/comments/1xnrdnp/context_drift_killed_our_production_deployment/) | u/GasProfessional5544 | (Gen)AI / Agents / LLMOps :il… | text | 0 | 1 | live | — |
-| 14 | 2026-11-04 | [best multi model AI gateway for enterprises? every team picked its own provider and now finance wants one bill](https://www.reddit.com/r/mlops/comments/1xnhh39/best_multi_model_ai_gateway_for_enterprises_every/) | u/CollectionPure7752 | Discussion :snoo_dealwithit: | text | 1 | 11 | live | — |
-| 15 | 2026-11-04 | [Standard PyTorch Attention OOMs at 32k tokens. My custom kernel survives and is 11x faster.](https://www.reddit.com/r/mlops/comments/1xnhdwz/standard_pytorch_attention_ooms_at_32k_tokens_my/) | u/vankownlaw | (Gen)AI / Agents / LLMOps :il… | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/vankownlaw — thanks for posting to r/mlops! Because this community dis… |
-| 16 | 2026-11-04 | [Truth check : Data Engineering is the Backbone of Successful MLOps Engineering](https://www.reddit.com/r/mlops/comments/1xnehx5/truth_check_data_engineering_is_the_backbone_of/) | u/BookkeeperAutomatic | Self-promotion :upvote: | text | 0 | 4 | removed by mod | **AI usage disclosure** Hi u/BookkeeperAutomatic — thanks for posting to r/mlops! Because this comm… |
-| 17 | 2026-11-03 | [are u running Databricks Genie Agent for prod?](https://www.reddit.com/r/mlops/comments/1xmwxfa/are_u_running_databricks_genie_agent_for_prod/) | u/sqlink2 | Discussion :snoo_dealwithit: | text | 1 | 5 | live | — |
-| 18 | 2026-11-03 | [\[D\] What's actually in your model rollback runbook?](https://www.reddit.com/r/mlops/comments/1xmvwjn/d_whats_actually_in_your_model_rollback_runbook/) | u/iamjessew | Discussion :snoo_dealwithit: | text | 4 | 4 | live | — |
-| 19 | 2026-11-03 | [FleetML: open-source canary rollouts, A/B tests and drift detection for models on phones and edge devices](https://www.reddit.com/r/mlops/comments/1xmtl8a/fleetml_opensource_canary_rollouts_ab_tests_and/) | u/fleetml | Self-promotion :upvote: | text | 3 | 2 | approved | — |
-| 20 | 2026-11-03 | [How to Make an ML Experiment Portable](https://www.reddit.com/r/mlops/comments/1xmpdgl/how_to_make_an_ml_experiment_portable/) | u/avtozavodetz | MLOps Questions :snoo_heartey… | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community d… |
-| 21 | 2026-11-03 | [How to Make an ML Experiment Portable](https://www.reddit.com/r/mlops/comments/1xmp07f/how_to_make_an_ml_experiment_portable/) | u/avtozavodetz | MLOps Questions :snoo_heartey… | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community d… |
-| 22 | 2026-11-03 | [\[D\] Would you use an AI-powered end-to-end ML platform?](https://www.reddit.com/r/mlops/comments/1xmk9xq/d_would_you_use_an_aipowered_endtoend_ml_platform/) | u/Jonesmithllanos | Discussion :snoo_dealwithit: | text | 4 | 13 | live | — |
-| 23 | 2026-11-03 | [I'm releasing an OSS image management backend and want some product feedback from ML folks](https://www.reddit.com/r/mlops/comments/1xmhz86/im_releasing_an_oss_image_management_backend_and/) | u/pumpkin_spice_daily | Self-promotion :upvote: | text | 1 | 7 | live | — |
-| 24 | 2026-11-03 | [our model monitoring is just a friday afternoon jupyter notebook and i know it will break](https://www.reddit.com/r/mlops/comments/1xmg45o/our_model_monitoring_is_just_a_friday_afternoon/) | u/PaintingHungry1341 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | — |
-| 25 | 2026-11-02 | [our model drift detection is basically just vibes right now and i know it's going to bite us](https://www.reddit.com/r/mlops/comments/1xm2qfl/our_model_drift_detection_is_basically_just_vibes/) | u/Fancy_Palpitation134 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Fancy_Palpitation134 — thanks for posting to r/mlops! Because this com… |
-| 26 | 2026-11-02 | [The same 2B embedding model runs about 1.5x faster served through an open source inference engine than throug…](https://www.reddit.com/r/mlops/comments/1xlqczk/the_same_2b_embedding_model_runs_about_15x_faster/) | u/Real_Two3356 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Real_Two3356 — thanks for posting to r/mlops! Because this community d… |
-| 27 | 2026-11-01 | [Our helpfulness judge blocked a PR that QA thought was fine](https://www.reddit.com/r/mlops/comments/1xldbud/our_helpfulness_judge_blocked_a_pr_that_qa/) | u/pleased_sending | MLOps Questions :snoo_heartey… | text | 27 | 11 | spam-filtered | **AI usage disclosure** Hi u/pleased_sending — thanks for posting to r/mlops! Because this communit… |
-| 28 | 2026-11-01 | [Which GPU platforms, free or paid, would you want a training runner to support? I have vast.ai, Kaggle, Light…](https://www.reddit.com/r/mlops/comments/1xlcbao/which_gpu_platforms_free_or_paid_would_you_want_a/) | u/Gerrux | Self-promotion :upvote: | text | 1 | 5 | live | — |
-| 29 | 2026-11-01 | [Founder hiring a senior Python ML engineer, remote, $4-5k/month](https://www.reddit.com/r/mlops/comments/1xl3jxq/founder_hiring_a_senior_python_ml_engineer_remote/) | u/ManufacturerAway1200 | Self-promotion :upvote: | text | 1 | 5 | approved | — |
-| 30 | 2026-10-31 | [Composite model(Resnet50+FPN+YOLO26 detection head)](https://www.reddit.com/r/mlops/comments/1xkau5x/composite_modelresnet50fpnyolo26_detection_head/) | u/No_Conference2740 | Research / Academia :snoo_hea… | text | 4 | 5 | live | — |
-| 31 | 2026-10-30 | [GPUlayer: send PyTorch training and Python jobs to any GPU you can reach (CUDA + Apple Silicon)](https://www.reddit.com/r/mlops/comments/1xjpyei/gpulayer_send_pytorch_training_and_python_jobs_to/) | u/Neat-Function7110 | (Gen)AI / Agents / LLMOps :il… | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Neat-Function7110 — thanks for posting to r/mlops! Because this commun… |
-| 32 | 2026-10-30 | [The shared vs dedicated GPU debate for regulated data really comes down to how much isolation you can prove](https://www.reddit.com/r/mlops/comments/1xjmnae/the_shared_vs_dedicated_gpu_debate_for_regulated/) | u/Kind_Taste_3985 | Discussion :snoo_dealwithit: | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Kind_Taste_3985 — thanks for posting to r/mlops! Because this communit… |
-| 33 | 2026-10-30 | [The 3-year GPU depreciation most cost models use doesn’t match how long these cards keep earning](https://www.reddit.com/r/mlops/comments/1xjlvlq/the_3year_gpu_depreciation_most_cost_models_use/) | u/Typical-Artist-7360 | Discussion :snoo_dealwithit: | text | 1 | 5 | approved | — |
-| 34 | 2026-10-30 | [How are you running LLM apps in customers' clouds without a GPU fleet per customer?](https://www.reddit.com/r/mlops/comments/1xjd48n/how_are_you_running_llm_apps_in_customers_clouds/) | u/Temporary_Doing | MLOps Questions :snoo_heartey… | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Temporary_Doing — thanks for posting to r/mlops! Because this communit… |
-| 35 | 2026-10-29 | [When training AI model how do you decide whether to invest more in faster GPUs or better data pipelines?](https://www.reddit.com/r/mlops/comments/1xiqrnh/when_training_ai_model_how_do_you_decide_whether/) | u/xeo_wanderlust | MLOps Questions :snoo_heartey… | text | 9 | 14 | live | — |
-| 36 | 2026-10-29 | [MLOps - JR](https://www.reddit.com/r/mlops/comments/1xilsai/mlops_jr/) | u/Inevitable-Smile-553 | MLOps Questions :snoo_heartey… | text | 10 | 13 | live | — |
-| 37 | 2026-10-29 | [Running your own weights doesn’t mean your inference is actually "private"](https://www.reddit.com/r/mlops/comments/1xik13u/running_your_own_weights_doesnt_mean_your/) | u/WallabyIcy8537 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | — |
-| 38 | 2026-10-29 | [How do teams find and vet domain experts for eval and preference data?](https://www.reddit.com/r/mlops/comments/1xiif60/how_do_teams_find_and_vet_domain_experts_for_eval/) | u/ImaginaryJicama6086 | Discussion :snoo_dealwithit: | text | 17 | 6 | live | — |
-| 39 | 2026-10-29 | [I built a physical monitoring panel for distributed training clusters (64 nodes, up to 512 GPUs)](https://www.reddit.com/r/mlops/comments/1xifcp3/i_built_a_physical_monitoring_panel_for/) | u/perone | Discussion :snoo_dealwithit: | text | 4 | 5 | live | — |
-| 40 | 2026-10-29 | [If you're benchmarking models on a GPU, your timers might be lying.](https://www.reddit.com/r/mlops/comments/1xidn0h/if_youre_benchmarking_models_on_a_gpu_your_timers/) | u/Extension_Key_5970 | Tales From the Trenches :snoo… | text | 2 | 7 | live | — |
-| 41 | 2026-10-29 | [Is anyone building/using a GPU-aware, multi-engine load balancer for mixed inference fleets?](https://www.reddit.com/r/mlops/comments/1xicejm/is_anyone_buildingusing_a_gpuaware_multiengine/) | u/ankush2324235 | Discussion :snoo_dealwithit: | text | 12 | 4 | live | — |
-| 42 | 2026-10-29 | [Welcome to r/MLSystemsDesign](https://www.reddit.com/r/mlops/comments/1xi8izy/welcome_to_rmlsystemsdesign/) | u/ArchitectingAI | Discussion :snoo_dealwithit: | text | 2 | 2 | removed by mod | **AI usage disclosure** Hi u/ArchitectingAI — thanks for posting to r/mlops! Because this community… |
-| 43 | 2026-10-28 | [Vendor post: what a prepaid credit match changes for inference costs (coralbricks.ai, through Oct 31)](https://www.reddit.com/r/mlops/comments/1xi1d7t/vendor_post_what_a_prepaid_credit_match_changes/) | u/Ctbhatia | Self-promotion :upvote: | text | 1 | 2 | removed by mod | **AI usage disclosure** Hi u/Ctbhatia — thanks for posting to r/mlops! Because this community discu… |
-| 44 | 2026-10-28 | [\[ Removed by moderator \]](https://www.reddit.com/r/mlops/comments/1xi0buc/removed_by_moderator/) | u/camerongreen95 | Discussion :snoo_dealwithit: | text | 0 | 2 | removed by mod | — |
-| 45 | 2026-10-28 | [An anomaly detector caught 88% of events on time but failed every workload feasibility test](https://www.reddit.com/r/mlops/comments/1xhzaj3/an_anomaly_detector_caught_88_of_events_on_time/) | u/CuriousAboutModels | Self-promotion :upvote: | text | 1 | 2 | live | — |
-| 46 | 2026-10-28 | [Devs, curious how you're handling sensitive data in your LLM applications.](https://www.reddit.com/r/mlops/comments/1xhaw3h/devs_curious_how_youre_handling_sensitive_data_in/) | u/abhi1510 | MLOps Questions :snoo_heartey… | text | 20 | 14 | live | — |
-| 47 | 2026-10-28 | [Can a detector achieve 88% event timeliness and still fail deployment requirements?](https://www.reddit.com/r/mlops/comments/1xh98jl/can_a_detector_achieve_88_event_timeliness_and/) | u/New-Seat7917 | Self-promotion :upvote: | text | 0 | 1 | content_takedown | **AI usage disclosure** Hi u/New-Seat7917 — thanks for posting to r/mlops! Because this community d… |
-| 48 | 2026-10-27 | [hands on workshop: replacing LLM routing with encoders and conformal prediction, runs on a laptop](https://www.reddit.com/r/mlops/comments/1xh4myl/hands_on_workshop_replacing_llm_routing_with/) | u/camerongreen95 | Discussion :snoo_dealwithit: | text | 1 | 3 | removed by mod | — |
-| 49 | 2026-10-27 | [We built a tool that learns what your agent system normally looks like, then alerts when something changes. O…](https://www.reddit.com/r/mlops/comments/1xh2o70/we_built_a_tool_that_learns_what_your_agent/) | u/CognitiveEngineering | Discussion :snoo_dealwithit: | text | 1 | 7 | live | — |
-| 50 | 2026-10-27 | [What should businesses evaluate when choosing AI engineering support for production?](https://www.reddit.com/r/mlops/comments/1xgta09/what_should_businesses_evaluate_when_choosing_ai/) | u/Silly_Captain2089 | Self-promotion :upvote: | text | 2 | 6 | live | — |
+| 1 | 2026-11-06 | [Four alerts for LLM pipelines that read long inputs: treating truncation as a data-quality metric](#post-1) | u/ClickOk5811 | Self-promotion :upvote: | text | 0 | 1 | live | — |
+| 2 | 2026-11-06 | [MLOps folks at big companies: what does the role and interview process look like?](#post-2) | u/the_one777777897 | Discussion :snoo_dealwithit: | text | 27 | 9 | live | — |
+| 3 | 2026-11-06 | [Vast is fine for experiments but I wouldn’t put client data on a marketplace host](#post-3) | u/Most-Swing-7286 | Discussion :snoo_dealwithit: | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Most-Swing-7286 — thanks for posting to r/mlops! Because this communit… |
+| 4 | 2026-11-06 | [I published a research-stage framework for evaluating the financial value of AI systems](#post-4) | u/zerovariance36 | Discussion :snoo_dealwithit: | text | 2 | 4 | live | — |
+| 5 | 2026-11-06 | [AI Infra Precheck – A Practical GPU Cluster Health & Troubleshooting Checklist](#post-5) | u/AFT7525 | Self-promotion :upvote: | text | 0 | 1 | live | — |
+| 6 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-6) | u/fristprinciplesde | Discussion :snoo_dealwithit: | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this commun… |
+| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-7) | u/fristprinciplesde | Discussion :snoo_dealwithit: | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this commun… |
+| 8 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](#post-8) | u/Apart_Paramedic_1850 | Self-promotion :upvote: | text | 0 | 7 | live | — |
+| 9 | 2026-11-05 | [Hire MLOps Engineer to Build Scalable, Reliable and Production-Ready AI Systems](#post-9) | u/Working_Resource4617 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Working_Resource4617 — thanks for posting to r/mlops! Because this com… |
+| 10 | 2026-11-05 | [How a small, decoupled LLM gateway compares to the large ones: only 31 MB of memory](#post-10) | u/respan-81 | Self-promotion :upvote: | text | 1 | 4 | live | — |
+| 11 | 2026-11-05 | [Which LLM proxy software are you running in production once every team needs its own token budget?](#post-11) | u/elena_kolen | MLOps Questions :snoo_heartey… | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/elena_kolen — thanks for posting to r/mlops! Because this community di… |
+| 12 | 2026-11-04 | [Your eval dashboard might be tracking the grader, not the system](#post-12) | u/No-Expression7400 | Discussion :snoo_dealwithit: | text | 3 | 3 | live | — |
+| 13 | 2026-11-04 | [context drift killed our production deployment mid-conversation. not a jailbreak, not adversarial input. just…](#post-13) | u/GasProfessional5544 | (Gen)AI / Agents / LLMOps :il… | text | 0 | 1 | live | — |
+| 14 | 2026-11-04 | [best multi model AI gateway for enterprises? every team picked its own provider and now finance wants one bill](#post-14) | u/CollectionPure7752 | Discussion :snoo_dealwithit: | text | 1 | 11 | live | — |
+| 15 | 2026-11-04 | [Standard PyTorch Attention OOMs at 32k tokens. My custom kernel survives and is 11x faster.](#post-15) | u/vankownlaw | (Gen)AI / Agents / LLMOps :il… | text | 0 | 1 | spam-filtered | **AI usage disclosure** Hi u/vankownlaw — thanks for posting to r/mlops! Because this community dis… |
+| 16 | 2026-11-04 | [Truth check : Data Engineering is the Backbone of Successful MLOps Engineering](#post-16) | u/BookkeeperAutomatic | Self-promotion :upvote: | text | 0 | 4 | removed by mod | **AI usage disclosure** Hi u/BookkeeperAutomatic — thanks for posting to r/mlops! Because this comm… |
+| 17 | 2026-11-03 | [are u running Databricks Genie Agent for prod?](#post-17) | u/sqlink2 | Discussion :snoo_dealwithit: | text | 1 | 5 | live | — |
+| 18 | 2026-11-03 | [\[D\] What's actually in your model rollback runbook?](#post-18) | u/iamjessew | Discussion :snoo_dealwithit: | text | 4 | 4 | live | — |
+| 19 | 2026-11-03 | [FleetML: open-source canary rollouts, A/B tests and drift detection for models on phones and edge devices](#post-19) | u/fleetml | Self-promotion :upvote: | text | 3 | 2 | approved | — |
+| 20 | 2026-11-03 | [How to Make an ML Experiment Portable](#post-20) | u/avtozavodetz | MLOps Questions :snoo_heartey… | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community d… |
+| 21 | 2026-11-03 | [How to Make an ML Experiment Portable](#post-21) | u/avtozavodetz | MLOps Questions :snoo_heartey… | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community d… |
+| 22 | 2026-11-03 | [\[D\] Would you use an AI-powered end-to-end ML platform?](#post-22) | u/Jonesmithllanos | Discussion :snoo_dealwithit: | text | 4 | 13 | live | — |
+| 23 | 2026-11-03 | [I'm releasing an OSS image management backend and want some product feedback from ML folks](#post-23) | u/pumpkin_spice_daily | Self-promotion :upvote: | text | 1 | 7 | live | — |
+| 24 | 2026-11-03 | [our model monitoring is just a friday afternoon jupyter notebook and i know it will break](#post-24) | u/PaintingHungry1341 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | — |
+| 25 | 2026-11-02 | [our model drift detection is basically just vibes right now and i know it's going to bite us](#post-25) | u/Fancy_Palpitation134 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Fancy_Palpitation134 — thanks for posting to r/mlops! Because this com… |
+| 26 | 2026-11-02 | [The same 2B embedding model runs about 1.5x faster served through an open source inference engine than throug…](#post-26) | u/Real_Two3356 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Real_Two3356 — thanks for posting to r/mlops! Because this community d… |
+| 27 | 2026-11-01 | [Our helpfulness judge blocked a PR that QA thought was fine](#post-27) | u/pleased_sending | MLOps Questions :snoo_heartey… | text | 27 | 11 | spam-filtered | **AI usage disclosure** Hi u/pleased_sending — thanks for posting to r/mlops! Because this communit… |
+| 28 | 2026-11-01 | [Which GPU platforms, free or paid, would you want a training runner to support? I have vast.ai, Kaggle, Light…](#post-28) | u/Gerrux | Self-promotion :upvote: | text | 1 | 5 | live | — |
+| 29 | 2026-11-01 | [Founder hiring a senior Python ML engineer, remote, $4-5k/month](#post-29) | u/ManufacturerAway1200 | Self-promotion :upvote: | text | 1 | 5 | approved | — |
+| 30 | 2026-10-31 | [Composite model(Resnet50+FPN+YOLO26 detection head)](#post-30) | u/No_Conference2740 | Research / Academia :snoo_hea… | text | 4 | 5 | live | — |
+| 31 | 2026-10-30 | [GPUlayer: send PyTorch training and Python jobs to any GPU you can reach (CUDA + Apple Silicon)](#post-31) | u/Neat-Function7110 | (Gen)AI / Agents / LLMOps :il… | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Neat-Function7110 — thanks for posting to r/mlops! Because this commun… |
+| 32 | 2026-10-30 | [The shared vs dedicated GPU debate for regulated data really comes down to how much isolation you can prove](#post-32) | u/Kind_Taste_3985 | Discussion :snoo_dealwithit: | text | 1 | 2 | spam-filtered | **AI usage disclosure** Hi u/Kind_Taste_3985 — thanks for posting to r/mlops! Because this communit… |
+| 33 | 2026-10-30 | [The 3-year GPU depreciation most cost models use doesn’t match how long these cards keep earning](#post-33) | u/Typical-Artist-7360 | Discussion :snoo_dealwithit: | text | 1 | 5 | approved | — |
+| 34 | 2026-10-30 | [How are you running LLM apps in customers' clouds without a GPU fleet per customer?](#post-34) | u/Temporary_Doing | MLOps Questions :snoo_heartey… | text | 1 | 1 | spam-filtered | **AI usage disclosure** Hi u/Temporary_Doing — thanks for posting to r/mlops! Because this communit… |
+| 35 | 2026-10-29 | [When training AI model how do you decide whether to invest more in faster GPUs or better data pipelines?](#post-35) | u/xeo_wanderlust | MLOps Questions :snoo_heartey… | text | 9 | 14 | live | — |
+| 36 | 2026-10-29 | [MLOps - JR](#post-36) | u/Inevitable-Smile-553 | MLOps Questions :snoo_heartey… | text | 10 | 13 | live | — |
+| 37 | 2026-10-29 | [Running your own weights doesn’t mean your inference is actually "private"](#post-37) | u/WallabyIcy8537 | Discussion :snoo_dealwithit: | text | 1 | 1 | spam-filtered | — |
+| 38 | 2026-10-29 | [How do teams find and vet domain experts for eval and preference data?](#post-38) | u/ImaginaryJicama6086 | Discussion :snoo_dealwithit: | text | 17 | 6 | live | — |
+| 39 | 2026-10-29 | [I built a physical monitoring panel for distributed training clusters (64 nodes, up to 512 GPUs)](#post-39) | u/perone | Discussion :snoo_dealwithit: | text | 4 | 5 | live | — |
+| 40 | 2026-10-29 | [If you're benchmarking models on a GPU, your timers might be lying.](#post-40) | u/Extension_Key_5970 | Tales From the Trenches :snoo… | text | 2 | 7 | live | — |
+| 41 | 2026-10-29 | [Is anyone building/using a GPU-aware, multi-engine load balancer for mixed inference fleets?](#post-41) | u/ankush2324235 | Discussion :snoo_dealwithit: | text | 12 | 4 | live | — |
+| 42 | 2026-10-29 | [Welcome to r/MLSystemsDesign](#post-42) | u/ArchitectingAI | Discussion :snoo_dealwithit: | text | 2 | 2 | removed by mod | **AI usage disclosure** Hi u/ArchitectingAI — thanks for posting to r/mlops! Because this community… |
+| 43 | 2026-10-28 | [Vendor post: what a prepaid credit match changes for inference costs (coralbricks.ai, through Oct 31)](#post-43) | u/Ctbhatia | Self-promotion :upvote: | text | 1 | 2 | removed by mod | **AI usage disclosure** Hi u/Ctbhatia — thanks for posting to r/mlops! Because this community discu… |
+| 44 | 2026-10-28 | [\[ Removed by moderator \]](#post-44) | u/camerongreen95 | Discussion :snoo_dealwithit: | text | 0 | 2 | removed by mod | — |
+| 45 | 2026-10-28 | [An anomaly detector caught 88% of events on time but failed every workload feasibility test](#post-45) | u/CuriousAboutModels | Self-promotion :upvote: | text | 1 | 2 | live | — |
+| 46 | 2026-10-28 | [Devs, curious how you're handling sensitive data in your LLM applications.](#post-46) | u/abhi1510 | MLOps Questions :snoo_heartey… | text | 20 | 14 | live | — |
+| 47 | 2026-10-28 | [Can a detector achieve 88% event timeliness and still fail deployment requirements?](#post-47) | u/New-Seat7917 | Self-promotion :upvote: | text | 0 | 1 | content_takedown | **AI usage disclosure** Hi u/New-Seat7917 — thanks for posting to r/mlops! Because this community d… |
+| 48 | 2026-10-27 | [hands on workshop: replacing LLM routing with encoders and conformal prediction, runs on a laptop](#post-48) | u/camerongreen95 | Discussion :snoo_dealwithit: | text | 1 | 3 | removed by mod | — |
+| 49 | 2026-10-27 | [We built a tool that learns what your agent system normally looks like, then alerts when something changes. O…](#post-49) | u/CognitiveEngineering | Discussion :snoo_dealwithit: | text | 1 | 7 | live | — |
+| 50 | 2026-10-27 | [What should businesses evaluate when choosing AI engineering support for production?](#post-50) | u/Silly_Captain2089 | Self-promotion :upvote: | text | 2 | 6 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -108,34 +108,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-19 | [How do you evaluate LLM output in prod when there's no clear ground truth?](https://www.reddit.com/r/mlops/comments/1xa88ja/how_do_you_evaluate_llm_output_in_prod_when/) | u/Kristel_Tech | Discussion :snoo_dealwithit: | text | 27 | 15 | live |
-| 2 | 2026-11-06 | [MLOps folks at big companies: what does the role and interview process look like?](https://www.reddit.com/r/mlops/comments/1xpqmmj/mlops_folks_at_big_companies_what_does_the_role/) | u/the_one777777897 | Discussion :snoo_dealwithit: | text | 27 | 9 | live |
-| 52 | 2026-10-23 | [Databricks MLOps Best Practices](https://www.reddit.com/r/mlops/comments/1xd2n88/databricks_mlops_best_practices/) | u/ceeej777 | Discussion :snoo_dealwithit: | text | 23 | 27 | live |
-| 46 | 2026-10-28 | [Devs, curious how you're handling sensitive data in your LLM applications.](https://www.reddit.com/r/mlops/comments/1xhaw3h/devs_curious_how_youre_handling_sensitive_data_in/) | u/abhi1510 | MLOps Questions :snoo_heartey… | text | 20 | 14 | live |
-| 38 | 2026-10-29 | [How do teams find and vet domain experts for eval and preference data?](https://www.reddit.com/r/mlops/comments/1xiif60/how_do_teams_find_and_vet_domain_experts_for_eval/) | u/ImaginaryJicama6086 | Discussion :snoo_dealwithit: | text | 17 | 6 | live |
-| 53 | 2026-10-10 | [How are you handling GPU scheduling for ML jobs?](https://www.reddit.com/r/mlops/comments/1x2g3o2/how_are_you_handling_gpu_scheduling_for_ml_jobs/) | u/xdonan | MLOps Questions :snoo_heartey… | text | 14 | 9 | live |
-| 54 | 2026-10-12 | [Struggling to transition into production MLE roles. Open to advice on how to close this professional gap afte…](https://www.reddit.com/r/mlops/comments/1x4dw7k/struggling_to_transition_into_production_mle/) | u/born_1800 | Career :snoo_putback::redditg… | text | 13 | 16 | live |
-| 41 | 2026-10-29 | [Is anyone building/using a GPU-aware, multi-engine load balancer for mixed inference fleets?](https://www.reddit.com/r/mlops/comments/1xicejm/is_anyone_buildingusing_a_gpuaware_multiengine/) | u/ankush2324235 | Discussion :snoo_dealwithit: | text | 12 | 4 | live |
-| 55 | 2026-10-14 | [Organization won’t allow us to use containers of any kind for “security” reasons](https://www.reddit.com/r/mlops/comments/1x668z7/organization_wont_allow_us_to_use_containers_of/) | u/orndoda | Discussion :snoo_dealwithit: | text | 11 | 20 | live |
-| 56 | 2026-10-14 | [Introducting pytest-torch!](https://www.reddit.com/r/mlops/comments/1x5ir9x/introducting_pytesttorch/) | u/AKJ7 | Self-promotion :upvote: | text | 11 | 3 | live |
-| 57 | 2026-10-21 | [How do you version the model, data and code together for prod?](https://www.reddit.com/r/mlops/comments/1xbvv7a/how_do_you_version_the_model_data_and_code/) | u/iamjessew | Discussion :snoo_dealwithit: | text | 10 | 17 | live |
-| 36 | 2026-10-29 | [MLOps - JR](https://www.reddit.com/r/mlops/comments/1xilsai/mlops_jr/) | u/Inevitable-Smile-553 | MLOps Questions :snoo_heartey… | text | 10 | 13 | live |
-| 58 | 2026-10-26 | [Pipeline - Training and promotion](https://www.reddit.com/r/mlops/comments/1xfx8b4/pipeline_training_and_promotion/) | u/Senior_Tea_842 | MLOps Questions :snoo_heartey… | text | 10 | 8 | live |
-| 35 | 2026-10-29 | [When training AI model how do you decide whether to invest more in faster GPUs or better data pipelines?](https://www.reddit.com/r/mlops/comments/1xiqrnh/when_training_ai_model_how_do_you_decide_whether/) | u/xeo_wanderlust | MLOps Questions :snoo_heartey… | text | 9 | 14 | live |
-| 59 | 2026-10-27 | [Evaluating AI governance solutions for a regulated industry rollout, what should be on the shortlist?](https://www.reddit.com/r/mlops/comments/1xgik73/evaluating_ai_governance_solutions_for_a/) | u/No_Strategy3345 | Discussion :snoo_dealwithit: | text | 9 | 11 | live |
-| 60 | 2026-10-19 | [MLE interview questions](https://www.reddit.com/r/mlops/comments/1xa1bfj/mle_interview_questions/) | u/Senior_Tea_842 | Discussion :snoo_dealwithit: | text | 9 | 6 | live |
-| 61 | 2026-10-22 | [we outgrew langfuse the week we let non engineers touch prompts](https://www.reddit.com/r/mlops/comments/1xcuwxt/we_outgrew_langfuse_the_week_we_let_non_engineers/) | u/CollectionPure7752 | Discussion :snoo_dealwithit: | text | 9 | 5 | live |
-| 62 | 2026-10-17 | [MLflow and DVC in 2026.](https://www.reddit.com/r/mlops/comments/1x7y7o3/mlflow_and_dvc_in_2026/) | u/baked_doge | MLOps Questions :snoo_heartey… | text | 8 | 16 | live |
-| 63 | 2026-10-13 | [What I learned building an MLflow-based modeling workbench for credit origination](https://www.reddit.com/r/mlops/comments/1x58apv/what_i_learned_building_an_mlflowbased_modeling/) | u/Excellent-Sport-758 | Tales From the Trenches :snoo… | text | 8 | 6 | live |
-| 64 | 2026-10-13 | [Workflow Design Is the New Coding for MLOps engineers](https://www.reddit.com/r/mlops/comments/1x4rmxa/workflow_design_is_the_new_coding_for_mlops/) | u/MrsDaughting | Discussion :snoo_dealwithit: | text | 8 | 5 | live |
+| 51 | 2026-10-19 | [How do you evaluate LLM output in prod when there's no clear ground truth?](#post-51) | u/Kristel_Tech | Discussion :snoo_dealwithit: | text | 27 | 15 | live |
+| 2 | 2026-11-06 | [MLOps folks at big companies: what does the role and interview process look like?](#post-2) | u/the_one777777897 | Discussion :snoo_dealwithit: | text | 27 | 9 | live |
+| 52 | 2026-10-23 | [Databricks MLOps Best Practices](#post-52) | u/ceeej777 | Discussion :snoo_dealwithit: | text | 23 | 27 | live |
+| 46 | 2026-10-28 | [Devs, curious how you're handling sensitive data in your LLM applications.](#post-46) | u/abhi1510 | MLOps Questions :snoo_heartey… | text | 20 | 14 | live |
+| 38 | 2026-10-29 | [How do teams find and vet domain experts for eval and preference data?](#post-38) | u/ImaginaryJicama6086 | Discussion :snoo_dealwithit: | text | 17 | 6 | live |
+| 53 | 2026-10-10 | [How are you handling GPU scheduling for ML jobs?](#post-53) | u/xdonan | MLOps Questions :snoo_heartey… | text | 14 | 9 | live |
+| 54 | 2026-10-12 | [Struggling to transition into production MLE roles. Open to advice on how to close this professional gap afte…](#post-54) | u/born_1800 | Career :snoo_putback::redditg… | text | 13 | 16 | live |
+| 41 | 2026-10-29 | [Is anyone building/using a GPU-aware, multi-engine load balancer for mixed inference fleets?](#post-41) | u/ankush2324235 | Discussion :snoo_dealwithit: | text | 12 | 4 | live |
+| 55 | 2026-10-14 | [Organization won’t allow us to use containers of any kind for “security” reasons](#post-55) | u/orndoda | Discussion :snoo_dealwithit: | text | 11 | 20 | live |
+| 56 | 2026-10-14 | [Introducting pytest-torch!](#post-56) | u/AKJ7 | Self-promotion :upvote: | text | 11 | 3 | live |
+| 57 | 2026-10-21 | [How do you version the model, data and code together for prod?](#post-57) | u/iamjessew | Discussion :snoo_dealwithit: | text | 10 | 17 | live |
+| 36 | 2026-10-29 | [MLOps - JR](#post-36) | u/Inevitable-Smile-553 | MLOps Questions :snoo_heartey… | text | 10 | 13 | live |
+| 58 | 2026-10-26 | [Pipeline - Training and promotion](#post-58) | u/Senior_Tea_842 | MLOps Questions :snoo_heartey… | text | 10 | 8 | live |
+| 35 | 2026-10-29 | [When training AI model how do you decide whether to invest more in faster GPUs or better data pipelines?](#post-35) | u/xeo_wanderlust | MLOps Questions :snoo_heartey… | text | 9 | 14 | live |
+| 59 | 2026-10-27 | [Evaluating AI governance solutions for a regulated industry rollout, what should be on the shortlist?](#post-59) | u/No_Strategy3345 | Discussion :snoo_dealwithit: | text | 9 | 11 | live |
+| 60 | 2026-10-19 | [MLE interview questions](#post-60) | u/Senior_Tea_842 | Discussion :snoo_dealwithit: | text | 9 | 6 | live |
+| 61 | 2026-10-22 | [we outgrew langfuse the week we let non engineers touch prompts](#post-61) | u/CollectionPure7752 | Discussion :snoo_dealwithit: | text | 9 | 5 | live |
+| 62 | 2026-10-17 | [MLflow and DVC in 2026.](#post-62) | u/baked_doge | MLOps Questions :snoo_heartey… | text | 8 | 16 | live |
+| 63 | 2026-10-13 | [What I learned building an MLflow-based modeling workbench for credit origination](#post-63) | u/Excellent-Sport-758 | Tales From the Trenches :snoo… | text | 8 | 6 | live |
+| 64 | 2026-10-13 | [Workflow Design Is the New Coding for MLOps engineers](#post-64) | u/MrsDaughting | Discussion :snoo_dealwithit: | text | 8 | 5 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Four alerts for LLM pipelines that read long inputs: treating truncation as a data-quality metric
 
-2026-11-06 · u/ClickOk5811 · Self-promotion :upvote: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpqsdx/four_alerts_for_llm_pipelines_that_read_long/)
+2026-11-06 · u/ClickOk5811 · Self-promotion :upvote: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpqsdx/four_alerts_for_llm_pipelines_that_read_long/) · [↑ back to the list](#last-50-posts)
 
 > Long documents were silently cut off before reaching the model, outputs stayed well formed and error-free, and the problem surfaced weeks later when someone checked a contract by hand.
 >
@@ -177,23 +179,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Which input-quality metrics do you monitor for LLM or document pipelines, and what do you alert on?
 
+<a id="post-2"></a>
+
 ### 2. MLOps folks at big companies: what does the role and interview process look like?
 
-2026-11-06 · u/the_one777777897 · Discussion :snoo_dealwithit: · score 27 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpqmmj/mlops_folks_at_big_companies_what_does_the_role/)
+2026-11-06 · u/the_one777777897 · Discussion :snoo_dealwithit: · score 27 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpqmmj/mlops_folks_at_big_companies_what_does_the_role/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, I just started an MLOps job and I’m trying to understand how the field works at bigger companies. It still feels pretty new, so titles and expectations seem to vary a lot. If you work in MLOps at a large company, what’s your role and day-to-day, and what did the interview process look like (number of rounds, coding, system design, ML fundamentals, infra/DevOps questions)? Also curious which tools they asked about and what you’d recommend learning to grow in the role. Any advice is appreciated, even a short answer!
 
+<a id="post-3"></a>
+
 ### 3. Vast is fine for experiments but I wouldn’t put client data on a marketplace host
 
-2026-11-06 · u/Most-Swing-7286 · Discussion :snoo_dealwithit: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpc4ko/vast_is_fine_for_experiments_but_i_wouldnt_put/)
+2026-11-06 · u/Most-Swing-7286 · Discussion :snoo_dealwithit: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xpc4ko/vast_is_fine_for_experiments_but_i_wouldnt_put/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Most-Swing-7286 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-4"></a>
+
 ### 4. I published a research-stage framework for evaluating the financial value of AI systems
 
-2026-11-06 · u/zerovariance36 · Discussion :snoo_dealwithit: · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xp9hoi/i_published_a_researchstage_framework_for/)
+2026-11-06 · u/zerovariance36 · Discussion :snoo_dealwithit: · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xp9hoi/i_published_a_researchstage_framework_for/) · [↑ back to the list](#last-50-posts)
 
 > I have published a new document from my Organic Intelligence Protocol (OIP) research.
 >
@@ -207,9 +215,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I welcome constructive technical and financial feedback.
 
+<a id="post-5"></a>
+
 ### 5. AI Infra Precheck – A Practical GPU Cluster Health & Troubleshooting Checklist
 
-2026-11-06 · u/AFT7525 · Self-promotion :upvote: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xp7sid/ai_infra_precheck_a_practical_gpu_cluster_health/)
+2026-11-06 · u/AFT7525 · Self-promotion :upvote: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xp7sid/ai_infra_precheck_a_practical_gpu_cluster_health/) · [↑ back to the list](#last-50-posts)
 
 > I've been working on an open-source project called **AI Infra Precheck**, a practical checklist for validating GPU cluster infrastructure and troubleshooting distributed AI training issues.
 >
@@ -231,25 +241,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Feedback, suggestions, and contributions are very welcome! I'd especially appreciate insights from people operating large-scale GPU/HPC clusters.
 
+<a id="post-6"></a>
+
 ### 6. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion :snoo_dealwithit: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xow814/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion :snoo_dealwithit: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xow814/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
+
+<a id="post-7"></a>
 
 ### 7. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion :snoo_dealwithit: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xouaic/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion :snoo_dealwithit: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xouaic/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/fristprinciplesde — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-8"></a>
+
 ### 8. Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?
 
-2026-11-05 · u/Apart_Paramedic_1850 · Self-promotion :upvote: · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xoj90u/would_you_use_scalacatsstyle_io_and_fibers_in_a/)
+2026-11-05 · u/Apart_Paramedic_1850 · Self-promotion :upvote: · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xoj90u/would_you_use_scalacatsstyle_io_and_fibers_in_a/) · [↑ back to the list](#last-50-posts)
 
 > Disclaimer: I'm the author of [`fp_mojo`](https://github.com/Spellbound-Mojo/fp_mojo) ([docs](https://spellbound-mojo.github.io/fp_mojo/)), and I'm posting here to get some feedback from the broader data engineering community on the concept of integrating Scala / Cats Effect async and concurrency primitives into a Python-like language.
 >
@@ -411,17 +427,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Repo link if you want to poke around: https://github.com/Spellbound-Mojo/fp_mojo
 
+<a id="post-9"></a>
+
 ### 9. Hire MLOps Engineer to Build Scalable, Reliable and Production-Ready AI Systems
 
-2026-11-05 · u/Working_Resource4617 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xodrz4/hire_mlops_engineer_to_build_scalable_reliable/)
+2026-11-05 · u/Working_Resource4617 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xodrz4/hire_mlops_engineer_to_build_scalable_reliable/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Working_Resource4617 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-10"></a>
+
 ### 10. How a small, decoupled LLM gateway compares to the large ones: only 31 MB of memory
 
-2026-11-05 · u/respan-81 · Self-promotion :upvote: · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xo64nt/how_a_small_decoupled_llm_gateway_compares_to_the/)
+2026-11-05 · u/respan-81 · Self-promotion :upvote: · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xo64nt/how_a_small_decoupled_llm_gateway_compares_to_the/) · [↑ back to the list](#last-50-posts)
 
 > I ran our open-source Rust gateway against Bifrost, Portkey and LiteLLM under the same load, then checked how much memory each one was holding afterwards. Ours was at 31 MB, while Bifrost was at 488 MB, LiteLLM at 418 MB and Portkey at 350 MB.
 >
@@ -433,17 +453,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > source: [https://github.com/respanai/respan-gateway](https://github.com/respanai/respan-gateway)
 
+<a id="post-11"></a>
+
 ### 11. Which LLM proxy software are you running in production once every team needs its own token budget?
 
-2026-11-05 · u/elena_kolen · MLOps Questions :snoo_hearteyes: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xo5vuc/which_llm_proxy_software_are_you_running_in/)
+2026-11-05 · u/elena_kolen · MLOps Questions :snoo_hearteyes: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xo5vuc/which_llm_proxy_software_are_you_running_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/elena_kolen — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-12"></a>
+
 ### 12. Your eval dashboard might be tracking the grader, not the system
 
-2026-11-04 · u/No-Expression7400 · Discussion :snoo_dealwithit: · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnu5jv/your_eval_dashboard_might_be_tracking_the_grader/)
+2026-11-04 · u/No-Expression7400 · Discussion :snoo_dealwithit: · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnu5jv/your_eval_dashboard_might_be_tracking_the_grader/) · [↑ back to the list](#last-50-posts)
 
 > Here is a scenario I keep turning over whenever I read posts about evaluation dashboards. Say a team scores its pipeline with an LLM judge every week and watches the trend line. One week the judge model gets swapped, and the dashboard suddenly shows a regression. Everyone digs through the pipeline for days, although the pipeline itself never actually changed.
 >
@@ -457,9 +481,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > When the model behind your judge gets updated or retired, how do you keep that judge pinned across months?
 
+<a id="post-13"></a>
+
 ### 13. context drift killed our production deployment mid-conversation. not a jailbreak, not adversarial input. just normal conversation.
 
-2026-11-04 · u/GasProfessional5544 · (Gen)AI / Agents / LLMOps :illuminati: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnrdnp/context_drift_killed_our_production_deployment/)
+2026-11-04 · u/GasProfessional5544 · (Gen)AI / Agents / LLMOps :illuminati: · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnrdnp/context_drift_killed_our_production_deployment/) · [↑ back to the list](#last-50-posts)
 
 > gonna share something that messed with my head for a while, partly because it was obvious in retrospect and we completely missed it pre-launch.
 >
@@ -493,9 +519,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > github: [https://github.com/operator92-dot/boundary-stress-protocol](https://github.com/operator92-dot/boundary-stress-protocol)
 
+<a id="post-14"></a>
+
 ### 14. best multi model AI gateway for enterprises? every team picked its own provider and now finance wants one bill
 
-2026-11-04 · u/CollectionPure7752 · Discussion :snoo_dealwithit: · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnhh39/best_multi_model_ai_gateway_for_enterprises_every/)
+2026-11-04 · u/CollectionPure7752 · Discussion :snoo_dealwithit: · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnhh39/best_multi_model_ai_gateway_for_enterprises_every/) · [↑ back to the list](#last-50-posts)
 
 > So we grew into this the dumb way cause one of our team's on openai, then another on anthropic through bedrock, data science on whatever was cheapest that month, and every team kept its own keys in its own vault then when last month finance asked what each team spends on LLMs which btw is a Simple question but it took us a week to answer cause we mushed it up
 >
@@ -509,9 +537,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > right now any team can call any model the gateway knows about, and I already know which team tries the most expensive one first
 
+<a id="post-15"></a>
+
 ### 15. Standard PyTorch Attention OOMs at 32k tokens. My custom kernel survives and is 11x faster.
 
-2026-11-04 · u/vankownlaw · (Gen)AI / Agents / LLMOps :illuminati: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnhdwz/standard_pytorch_attention_ooms_at_32k_tokens_my/)
+2026-11-04 · u/vankownlaw · (Gen)AI / Agents / LLMOps :illuminati: · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnhdwz/standard_pytorch_attention_ooms_at_32k_tokens_my/) · [↑ back to the list](#last-50-posts)
 
 > I've been working on a custom attention mechanism for long-context processing. I built a kernel that mimics human memory: it keeps the first few tokens as "sinks" (core memories) and uses a rolling window with entropy decay for the rest.
 >
@@ -535,9 +565,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/vankownlaw — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-16"></a>
+
 ### 16. Truth check : Data Engineering is the Backbone of Successful MLOps Engineering
 
-2026-11-04 · u/BookkeeperAutomatic · Self-promotion :upvote: · score 0 · 4 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnehx5/truth_check_data_engineering_is_the_backbone_of/)
+2026-11-04 · u/BookkeeperAutomatic · Self-promotion :upvote: · score 0 · 4 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xnehx5/truth_check_data_engineering_is_the_backbone_of/) · [↑ back to the list](#last-50-posts)
 
 > # Everyone here is talking about model training and deployment on every alternate post. Without a solid data foundation, even the most sophisticated models will fail.
 >
@@ -547,15 +579,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/BookkeeperAutomatic — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-17"></a>
+
 ### 17. are u running Databricks Genie Agent for prod?
 
-2026-11-03 · u/sqlink2 · Discussion :snoo_dealwithit: · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmwxfa/are_u_running_databricks_genie_agent_for_prod/)
+2026-11-03 · u/sqlink2 · Discussion :snoo_dealwithit: · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmwxfa/are_u_running_databricks_genie_agent_for_prod/) · [↑ back to the list](#last-50-posts)
 
 > My team is testing Genie Agent internally, but we r skeptical of real world stability beyond those fancy demos. For anyone running it with non technical users, how are you catching silent query hallucinations , and how much manual upkeep does the metadata context actually require to keep it reliable for user s?
 
+<a id="post-18"></a>
+
 ### 18. \[D\] What's actually in your model rollback runbook?
 
-2026-11-03 · u/iamjessew · Discussion :snoo_dealwithit: · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmvwjn/d_whats_actually_in_your_model_rollback_runbook/)
+2026-11-03 · u/iamjessew · Discussion :snoo_dealwithit: · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmvwjn/d_whats_actually_in_your_model_rollback_runbook/) · [↑ back to the list](#last-50-posts)
 
 > Everyone has a deploy process. I'm curious how many teams have a rollback that someone on call at 2am can run without the person who trained the model.
 >
@@ -564,9 +600,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * How long does it take in practice?
 > * Ever had a rollback fail because the "old" version was overwritten or garbage collected? For context on my bias: I maintain KitOps, where the model, dataset reference, code, and config get packed into one versioned OCI artifact (a ModelKit), so "roll back" means pointing at the previous digest. That covers the artifact, but it doesn't solve feature stores or schema changes, and I'd like to know how people handle those parts. Stories about the time it didn't work are welcome.
 
+<a id="post-19"></a>
+
 ### 19. FleetML: open-source canary rollouts, A/B tests and drift detection for models on phones and edge devices
 
-2026-11-03 · u/fleetml · Self-promotion :upvote: · score 3 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmtl8a/fleetml_opensource_canary_rollouts_ab_tests_and/)
+2026-11-03 · u/fleetml · Self-promotion :upvote: · score 3 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmtl8a/fleetml_opensource_canary_rollouts_ab_tests_and/) · [↑ back to the list](#last-50-posts)
 
 > We built FleetML because shipping a model to phones and edge devices is easy, but knowing if the new version is actually worse, and pulling it back before it hits everyone, is not. It's open source (Apache-2.0) and you host it yourself.
 >
@@ -582,25 +620,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Site and docs: https://fleetml.dev, code: https://github.com/fleetml/fleetml. We'd really like feedback on the stats side, the gate thresholds, the t-test assumptions and how we bin for PSI.
 
+<a id="post-20"></a>
+
 ### 20. How to Make an ML Experiment Portable
 
-2026-11-03 · u/avtozavodetz · MLOps Questions :snoo_hearteyes: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmpdgl/how_to_make_an_ml_experiment_portable/)
+2026-11-03 · u/avtozavodetz · MLOps Questions :snoo_hearteyes: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmpdgl/how_to_make_an_ml_experiment_portable/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
+
+<a id="post-21"></a>
 
 ### 21. How to Make an ML Experiment Portable
 
-2026-11-03 · u/avtozavodetz · MLOps Questions :snoo_hearteyes: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmp07f/how_to_make_an_ml_experiment_portable/)
+2026-11-03 · u/avtozavodetz · MLOps Questions :snoo_hearteyes: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmp07f/how_to_make_an_ml_experiment_portable/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/avtozavodetz — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-22"></a>
+
 ### 22. \[D\] Would you use an AI-powered end-to-end ML platform?
 
-2026-11-03 · u/Jonesmithllanos · Discussion :snoo_dealwithit: · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmk9xq/d_would_you_use_an_aipowered_endtoend_ml_platform/)
+2026-11-03 · u/Jonesmithllanos · Discussion :snoo_dealwithit: · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmk9xq/d_would_you_use_an_aipowered_endtoend_ml_platform/) · [↑ back to the list](#last-50-posts)
 
 > I'm building a platform called Quantum, and I'd love some honest feedback from people working in Data Science and Machine Learning.
 >
@@ -626,9 +670,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'm especially interested in critical feedback. What am I overlooking?
 
+<a id="post-23"></a>
+
 ### 23. I'm releasing an OSS image management backend and want some product feedback from ML folks
 
-2026-11-03 · u/pumpkin_spice_daily · Self-promotion :upvote: · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmhz86/im_releasing_an_oss_image_management_backend_and/)
+2026-11-03 · u/pumpkin_spice_daily · Self-promotion :upvote: · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmhz86/im_releasing_an_oss_image_management_backend_and/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys, I've spent the last 18 months building a self hosted image management platform designed for web backends handling images, product photos, user generated content, etc. I've recently added a "raw pixels" output format that supports translation to pixels. 
 >
@@ -644,31 +690,39 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Docs about pixel output: https://konifer.io/docs/concepts/concepts-pixels
 
+<a id="post-24"></a>
+
 ### 24. our model monitoring is just a friday afternoon jupyter notebook and i know it will break
 
-2026-11-03 · u/PaintingHungry1341 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmg45o/our_model_monitoring_is_just_a_friday_afternoon/)
+2026-11-03 · u/PaintingHungry1341 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xmg45o/our_model_monitoring_is_just_a_friday_afternoon/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. our model drift detection is basically just vibes right now and i know it's going to bite us
 
-2026-11-02 · u/Fancy_Palpitation134 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xm2qfl/our_model_drift_detection_is_basically_just_vibes/)
+2026-11-02 · u/Fancy_Palpitation134 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xm2qfl/our_model_drift_detection_is_basically_just_vibes/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Fancy_Palpitation134 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-26"></a>
+
 ### 26. The same 2B embedding model runs about 1.5x faster served through an open source inference engine than through the stock Hugging Face pipeline... on the same card
 
-2026-11-02 · u/Real_Two3356 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xlqczk/the_same_2b_embedding_model_runs_about_15x_faster/)
+2026-11-02 · u/Real_Two3356 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xlqczk/the_same_2b_embedding_model_runs_about_15x_faster/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Real_Two3356 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-27"></a>
+
 ### 27. Our helpfulness judge blocked a PR that QA thought was fine
 
-2026-11-01 · u/pleased_sending · MLOps Questions :snoo_hearteyes: · score 27 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xldbud/our_helpfulness_judge_blocked_a_pr_that_qa/)
+2026-11-01 · u/pleased_sending · MLOps Questions :snoo_hearteyes: · score 27 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xldbud/our_helpfulness_judge_blocked_a_pr_that_qa/) · [↑ back to the list](#last-50-posts)
 
 > A PR for our customer-response assistant got held because a model-graded helpfulness score dropped on an address-change reply. The order had already shipped, and our QA reviewer thought the short "we can't change it now, here's how to contact the carrier" response was appropriate.
 >
@@ -690,9 +744,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/pleased_sending — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-28"></a>
+
 ### 28. Which GPU platforms, free or paid, would you want a training runner to support? I have vast.ai, Kaggle, Lightning AI, Colab, SSH and local so far
 
-2026-11-01 · u/Gerrux · Self-promotion :upvote: · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xlcbao/which_gpu_platforms_free_or_paid_would_you_want_a/)
+2026-11-01 · u/Gerrux · Self-promotion :upvote: · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xlcbao/which_gpu_platforms_free_or_paid_would_you_want_a/) · [↑ back to the list](#last-50-posts)
 
 > I train 3D CV models, and classical ones at hackathons. I got tired of driving `vastai`, `kaggle kernels push` and `scp` by hand, so I wrote a small CLI: one YAML manifest says where the GPU comes from, what to upload, what to run and what to pull back. My usual loop is a smoke test on a free Kaggle GPU, then the real run on vast.ai with a cost cap. A background poller destroys the instance when the run finishes, fails, goes silent or hits the cap, and every command has `--json`, so an agent can launch runs and read metrics on its own.
 >
@@ -705,9 +761,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Repo for context, MIT: [https://github.com/Gerrux/xrun](https://github.com/Gerrux/xrun)
 
+<a id="post-29"></a>
+
 ### 29. Founder hiring a senior Python ML engineer, remote, $4-5k/month
 
-2026-11-01 · u/ManufacturerAway1200 · Self-promotion :upvote: · score 1 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xl3jxq/founder_hiring_a_senior_python_ml_engineer_remote/)
+2026-11-01 · u/ManufacturerAway1200 · Self-promotion :upvote: · score 1 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xl3jxq/founder_hiring_a_senior_python_ml_engineer_remote/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -730,9 +788,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > No fees, ever.
 
+<a id="post-30"></a>
+
 ### 30. Composite model(Resnet50+FPN+YOLO26 detection head)
 
-2026-10-31 · u/No_Conference2740 · Research / Academia :snoo_hearteyes: · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xkau5x/composite_modelresnet50fpnyolo26_detection_head/)
+2026-10-31 · u/No_Conference2740 · Research / Academia :snoo_hearteyes: · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xkau5x/composite_modelresnet50fpnyolo26_detection_head/) · [↑ back to the list](#last-50-posts)
 
 > Experimental Object Detection Architecture: ResNet50 + FPN + YOLO26 OBB Head
 >
@@ -780,25 +840,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks for reading!
 
+<a id="post-31"></a>
+
 ### 31. GPUlayer: send PyTorch training and Python jobs to any GPU you can reach (CUDA + Apple Silicon)
 
-2026-10-30 · u/Neat-Function7110 · (Gen)AI / Agents / LLMOps :illuminati: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjpyei/gpulayer_send_pytorch_training_and_python_jobs_to/)
+2026-10-30 · u/Neat-Function7110 · (Gen)AI / Agents / LLMOps :illuminati: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjpyei/gpulayer_send_pytorch_training_and_python_jobs_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Neat-Function7110 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-32"></a>
+
 ### 32. The shared vs dedicated GPU debate for regulated data really comes down to how much isolation you can prove
 
-2026-10-30 · u/Kind_Taste_3985 · Discussion :snoo_dealwithit: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjmnae/the_shared_vs_dedicated_gpu_debate_for_regulated/)
+2026-10-30 · u/Kind_Taste_3985 · Discussion :snoo_dealwithit: · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjmnae/the_shared_vs_dedicated_gpu_debate_for_regulated/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Kind_Taste_3985 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-33"></a>
+
 ### 33. The 3-year GPU depreciation most cost models use doesn’t match how long these cards keep earning
 
-2026-10-30 · u/Typical-Artist-7360 · Discussion :snoo_dealwithit: · score 1 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjlvlq/the_3year_gpu_depreciation_most_cost_models_use/)
+2026-10-30 · u/Typical-Artist-7360 · Discussion :snoo_dealwithit: · score 1 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjlvlq/the_3year_gpu_depreciation_most_cost_models_use/) · [↑ back to the list](#last-50-posts)
 
 > Most infra models write a GPU off in 3 years like it dies or soemthing. But the real service lives are way longer, and that one assumption decides a lot of buy-vs-rent calls (btw, read a lot of these posts and all say the same thing).
 >
@@ -816,17 +882,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > So the number that matters in this case isn’t the depreciation rate, it’s whether your workload can ride a card down that ladder for 5+ years. If it can, writing it off in 3 years is just a notion all these peeople are talking about.
 
+<a id="post-34"></a>
+
 ### 34. How are you running LLM apps in customers' clouds without a GPU fleet per customer?
 
-2026-10-30 · u/Temporary_Doing · MLOps Questions :snoo_hearteyes: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjd48n/how_are_you_running_llm_apps_in_customers_clouds/)
+2026-10-30 · u/Temporary_Doing · MLOps Questions :snoo_hearteyes: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xjd48n/how_are_you_running_llm_apps_in_customers_clouds/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Temporary_Doing — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-35"></a>
+
 ### 35. When training AI model how do you decide whether to invest more in faster GPUs or better data pipelines?
 
-2026-10-29 · u/xeo_wanderlust · MLOps Questions :snoo_hearteyes: · score 9 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xiqrnh/when_training_ai_model_how_do_you_decide_whether/)
+2026-10-29 · u/xeo_wanderlust · MLOps Questions :snoo_hearteyes: · score 9 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xiqrnh/when_training_ai_model_how_do_you_decide_whether/) · [↑ back to the list](#last-50-posts)
 
 > Its easy to think that faster GPUs will always speed up the training process but if parts like data loading, preprocessing, storage speed or communication between systems become the slowest parts then adding more powerful hardware might not give the expected results.
 >
@@ -835,9 +905,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Do you guys start by testing the whole training process to find the bottlenecks or do you begin with a specific GPU setup and adjust everything around it?
 
+<a id="post-36"></a>
+
 ### 36. MLOps - JR
 
-2026-10-29 · u/Inevitable-Smile-553 · MLOps Questions :snoo_hearteyes: · score 10 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xilsai/mlops_jr/)
+2026-10-29 · u/Inevitable-Smile-553 · MLOps Questions :snoo_hearteyes: · score 10 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xilsai/mlops_jr/) · [↑ back to the list](#last-50-posts)
 
 > # Spanish
 >
@@ -855,15 +927,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > What are the best sources where I can really learn these skills? I’ve tried asking AI, but I wasn’t convinced by what it said, and it always agrees with me no matter what kind of question I ask.
 
+<a id="post-37"></a>
+
 ### 37. Running your own weights doesn’t mean your inference is actually "private"
 
-2026-10-29 · u/WallabyIcy8537 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xik13u/running_your_own_weights_doesnt_mean_your/)
+2026-10-29 · u/WallabyIcy8537 · Discussion :snoo_dealwithit: · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xik13u/running_your_own_weights_doesnt_mean_your/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. How do teams find and vet domain experts for eval and preference data?
 
-2026-10-29 · u/ImaginaryJicama6086 · Discussion :snoo_dealwithit: · score 17 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xiif60/how_do_teams_find_and_vet_domain_experts_for_eval/)
+2026-10-29 · u/ImaginaryJicama6086 · Discussion :snoo_dealwithit: · score 17 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xiif60/how_do_teams_find_and_vet_domain_experts_for_eval/) · [↑ back to the list](#last-50-posts)
 
 > Question from the other side of this. I'm a senior C++ dev, 20+ years, mostly on big legacy codebase. Lately I keep seeing eval and RLHF projects that want people like me, or doctors, lawyers, etc, not general annotators.
 >
@@ -871,15 +947,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > And how do you know their work is any good? With general labeling you can check agreement between annotators. But if two senior engineers disagree on which answer is better, who decides?
 
+<a id="post-39"></a>
+
 ### 39. I built a physical monitoring panel for distributed training clusters (64 nodes, up to 512 GPUs)
 
-2026-10-29 · u/perone · Discussion :snoo_dealwithit: · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xifcp3/i_built_a_physical_monitoring_panel_for/)
+2026-10-29 · u/perone · Discussion :snoo_dealwithit: · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xifcp3/i_built_a_physical_monitoring_panel_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi, just if anyone is interested, I built a monitoring box for distributed training cluster, still a lot of work to do but it is starting to get its shape. [Here is the link](https://blog.christianperone.com/2026/10/pandora-m1-a-training-monitor-box-64-nodes-x-8-gpus-support/) if anyone is interested, I'm planning to open everything as soon as I get time to finish the code + hardware.
 
+<a id="post-40"></a>
+
 ### 40. If you're benchmarking models on a GPU, your timers might be lying.
 
-2026-10-29 · u/Extension_Key_5970 · Tales From the Trenches :snoo_shrug: · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xidn0h/if_youre_benchmarking_models_on_a_gpu_your_timers/)
+2026-10-29 · u/Extension_Key_5970 · Tales From the Trenches :snoo_shrug: · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xidn0h/if_youre_benchmarking_models_on_a_gpu_your_timers/) · [↑ back to the list](#last-50-posts)
 
 > I recently ran into a bizarre issue while benchmarking YOLO on an Apple GPU. At a batch size of 16, it reported a blazing-fast inference time of **0.42 ms** per image.  
 >
@@ -901,9 +981,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I wrote down the full breakdown here: [https://medium.com/@thevarunfreelance/how-to-accurately-time-training-and-inference-steps-72dea6762f12](https://medium.com/@thevarunfreelance/how-to-accurately-time-training-and-inference-steps-72dea6762f12)
 
+<a id="post-41"></a>
+
 ### 41. Is anyone building/using a GPU-aware, multi-engine load balancer for mixed inference fleets?
 
-2026-10-29 · u/ankush2324235 · Discussion :snoo_dealwithit: · score 12 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xicejm/is_anyone_buildingusing_a_gpuaware_multiengine/)
+2026-10-29 · u/ankush2324235 · Discussion :snoo_dealwithit: · score 12 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xicejm/is_anyone_buildingusing_a_gpuaware_multiengine/) · [↑ back to the list](#last-50-posts)
 
 > I’m validating an architecture idea and want to see if this solves a real pain point for others running AI infra at scale.
 >
@@ -923,9 +1005,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Would love your brutal feedback on whether this is worth building or a solved problem!!!!
 
+<a id="post-42"></a>
+
 ### 42. Welcome to r/MLSystemsDesign
 
-2026-10-29 · u/ArchitectingAI · Discussion :snoo_dealwithit: · score 2 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi8izy/welcome_to_rmlsystemsdesign/)
+2026-10-29 · u/ArchitectingAI · Discussion :snoo_dealwithit: · score 2 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi8izy/welcome_to_rmlsystemsdesign/) · [↑ back to the list](#last-50-posts)
 
 > **Welcome to** r/MLSystemsDesign
 >
@@ -948,23 +1032,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/ArchitectingAI — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-43"></a>
+
 ### 43. Vendor post: what a prepaid credit match changes for inference costs (coralbricks.ai, through Oct 31)
 
-2026-10-28 · u/Ctbhatia · Self-promotion :upvote: · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi1d7t/vendor_post_what_a_prepaid_credit_match_changes/)
+2026-10-28 · u/Ctbhatia · Self-promotion :upvote: · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi1d7t/vendor_post_what_a_prepaid_credit_match_changes/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/Ctbhatia — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-44"></a>
+
 ### 44. \[ Removed by moderator \]
 
-2026-10-28 · u/camerongreen95 · Discussion :snoo_dealwithit: · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi0buc/removed_by_moderator/)
+2026-10-28 · u/camerongreen95 · Discussion :snoo_dealwithit: · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xi0buc/removed_by_moderator/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-45"></a>
+
 ### 45. An anomaly detector caught 88% of events on time but failed every workload feasibility test
 
-2026-10-28 · u/CuriousAboutModels · Self-promotion :upvote: · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xhzaj3/an_anomaly_detector_caught_88_of_events_on_time/)
+2026-10-28 · u/CuriousAboutModels · Self-promotion :upvote: · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xhzaj3/an_anomaly_detector_caught_88_of_events_on_time/) · [↑ back to the list](#last-50-posts)
 
 > A detector can look great on event-level metrics and still produce an alert stream that’s difficult to operate in production.
 >
@@ -983,9 +1073,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > **Code and reproducibility:** https://github.com/Minxuan-Hu/streaming-integrity-alerting  
 > **Published paper:** https://doi.org/10.1016/j.eswa.2026.134305
 
+<a id="post-46"></a>
+
 ### 46. Devs, curious how you're handling sensitive data in your LLM applications.
 
-2026-10-28 · u/abhi1510 · MLOps Questions :snoo_hearteyes: · score 20 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xhaw3h/devs_curious_how_youre_handling_sensitive_data_in/)
+2026-10-28 · u/abhi1510 · MLOps Questions :snoo_hearteyes: · score 20 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xhaw3h/devs_curious_how_youre_handling_sensitive_data_in/) · [↑ back to the list](#last-50-posts)
 
 > **How seriously are you treating PII exposure in your LLM applications?**  
 > I’ve been thinking about something and wanted to get perspectives from people actually building LLM-powered applications.  
@@ -1002,9 +1094,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > Also genuinely interested in hearing from developers who **don’t** see this as a significant problem. What’s your reasoning?  
 > Trying to understand how much of a concern this actually is in practice versus how much attention it gets in security discussions.
 
+<a id="post-47"></a>
+
 ### 47. Can a detector achieve 88% event timeliness and still fail deployment requirements?
 
-2026-10-28 · u/New-Seat7917 · Self-promotion :upvote: · score 0 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh98jl/can_a_detector_achieve_88_event_timeliness_and/)
+2026-10-28 · u/New-Seat7917 · Self-promotion :upvote: · score 0 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh98jl/can_a_detector_achieve_88_event_timeliness_and/) · [↑ back to the list](#last-50-posts)
 
 > Anomaly detection benchmarks often focus on detection quality or timeliness. But in production monitoring, the resulting alerts also need to be operationally manageable.
 >
@@ -1025,9 +1119,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 
 **Mod comment** (u/AutoModerator): **AI usage disclosure** Hi u/New-Seat7917 — thanks for posting to r/mlops! Because this community discusses and builds AI/ML systems, using AI tools is not inherently a problem. We do, however, ask for transparency about how submissions are created. **Please reply to this comment with a brief AI / automation disclosure, particularly if this post was created or submitted in whole or in part by an autonomous agent, bot, workflow, or other automated system.** If AI or automation was involved, please briefly describe what it did and what human review was performed before posting. This disclosure helps the r/mlops community distinguish human discussion, AI-assisted work, and automated/agent traffic while keeping the focus on useful technical conversation. Thanks for helping keep the signal high.
 
+<a id="post-48"></a>
+
 ### 48. hands on workshop: replacing LLM routing with encoders and conformal prediction, runs on a laptop
 
-2026-10-27 · u/camerongreen95 · Discussion :snoo_dealwithit: · score 1 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh4myl/hands_on_workshop_replacing_llm_routing_with/)
+2026-10-27 · u/camerongreen95 · Discussion :snoo_dealwithit: · score 1 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh4myl/hands_on_workshop_replacing_llm_routing_with/) · [↑ back to the list](#last-50-posts)
 
 > hey everyone, sharing this because a lot of teams are paying for an LLM call on every request that a small model could handle
 >
@@ -1045,9 +1141,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > happy to answer any questions about what gets covered
 
+<a id="post-49"></a>
+
 ### 49. We built a tool that learns what your agent system normally looks like, then alerts when something changes. Open source.
 
-2026-10-27 · u/CognitiveEngineering · Discussion :snoo_dealwithit: · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh2o70/we_built_a_tool_that_learns_what_your_agent/)
+2026-10-27 · u/CognitiveEngineering · Discussion :snoo_dealwithit: · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xh2o70/we_built_a_tool_that_learns_what_your_agent/) · [↑ back to the list](#last-50-posts)
 
 > agent-certify observes your past sessions, builds a baseline (tools used, communication patterns, error rates, sub-agent behavior), then flags anomalies in new sessions :   
 >
@@ -1068,9 +1166,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Happy to get your feedback
 
+<a id="post-50"></a>
+
 ### 50. What should businesses evaluate when choosing AI engineering support for production?
 
-2026-10-27 · u/Silly_Captain2089 · Self-promotion :upvote: · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xgta09/what_should_businesses_evaluate_when_choosing_ai/)
+2026-10-27 · u/Silly_Captain2089 · Self-promotion :upvote: · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xgta09/what_should_businesses_evaluate_when_choosing_ai/) · [↑ back to the list](#last-50-posts)
 
 > Moving an AI project from a promising demo to a reliable production system involves much more than selecting a model. Data quality, integration with existing systems, evaluation, deployment, security, and ongoing monitoring all affect whether the solution works in practice.
 >
@@ -1078,9 +1178,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For those who have worked with external AI engineering teams, what evidence would you look for before choosing a provider? Would you prioritize production case studies, evaluation methods, deployment experience, or the ability to maintain the system after launch?
 
+<a id="post-51"></a>
+
 ### 51. How do you evaluate LLM output in prod when there's no clear ground truth?
 
-2026-10-19 · u/Kristel_Tech · Discussion :snoo_dealwithit: · score 27 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xa88ja/how_do_you_evaluate_llm_output_in_prod_when/)
+2026-10-19 · u/Kristel_Tech · Discussion :snoo_dealwithit: · score 27 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xa88ja/how_do_you_evaluate_llm_output_in_prod_when/) · [↑ back to the list](#last-50-posts)
 
 > So we ve got a feature where an LLM writes free-form text (summaries, explanations, that kind of thing) and I’m realizing I have no good way to tell if a change made it better or worse. BLEU/ROUGE are basically useless here and reading outputs by hand doesn't scale.
 >
@@ -1088,23 +1190,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Anyone running this for real? What does your setup look like, and what do you wish you'd done earlier? (bonus points if you ve got a story where your evals said everything was fine and users said otherwise) :D
 
+<a id="post-52"></a>
+
 ### 52. Databricks MLOps Best Practices
 
-2026-10-23 · u/ceeej777 · Discussion :snoo_dealwithit: · score 23 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xd2n88/databricks_mlops_best_practices/)
+2026-10-23 · u/ceeej777 · Discussion :snoo_dealwithit: · score 23 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xd2n88/databricks_mlops_best_practices/) · [↑ back to the list](#last-50-posts)
 
 > If you were designing an MLOps framework in Databricks. How would you set things up? I’m starting from scratch here. Planning to have Genie Code assist with a lot of it but I want to know the ins and outs from people who have lived and learned.
 
+<a id="post-53"></a>
+
 ### 53. How are you handling GPU scheduling for ML jobs?
 
-2026-10-10 · u/xdonan · MLOps Questions :snoo_hearteyes: · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x2g3o2/how_are_you_handling_gpu_scheduling_for_ml_jobs/)
+2026-10-10 · u/xdonan · MLOps Questions :snoo_hearteyes: · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x2g3o2/how_are_you_handling_gpu_scheduling_for_ml_jobs/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I’m building a project focused on making AI infrastructure more efficient. This is an heuristic for the GPU job scheduling problem.
 >
 > I’m curious how you handle ML training pipelines and if you’ve experienced any challenges? I've developed the tool and tested it with traces but I'm unsure what to do next. How would I test this in a real environment?
 
+<a id="post-54"></a>
+
 ### 54. Struggling to transition into production MLE roles. Open to advice on how to close this professional gap after layoff
 
-2026-10-12 · u/born_1800 · Career :snoo_putback::redditgold: · score 13 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x4dw7k/struggling_to_transition_into_production_mle/)
+2026-10-12 · u/born_1800 · Career :snoo_putback::redditgold: · score 13 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x4dw7k/struggling_to_transition_into_production_mle/) · [↑ back to the list](#last-50-posts)
 
 > I'm looking for some advice from experienced ML engineers, particularly those involved in production ML systems or hiring.
 >
@@ -1134,9 +1242,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'd really appreciate perspectives from engineers who've made a similar transition or hiring managers who've evaluated candidates with research-heavy backgrounds.
 
+<a id="post-55"></a>
+
 ### 55. Organization won’t allow us to use containers of any kind for “security” reasons
 
-2026-10-14 · u/orndoda · Discussion :snoo_dealwithit: · score 11 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x668z7/organization_wont_allow_us_to_use_containers_of/)
+2026-10-14 · u/orndoda · Discussion :snoo_dealwithit: · score 11 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x668z7/organization_wont_allow_us_to_use_containers_of/) · [↑ back to the list](#last-50-posts)
 
 > Curious if anyone has any advice for this situation. I work for a medium sized bank. Our data science team is quite small and I am the only one with any type of ML Ops knowledge/experience on the team. We are working on deploying a recommendation engine in snowflake. In the past I would deploy a model as a FastAPI app in a container.
 >
@@ -1144,9 +1254,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > My only guess is that they are carrying this over from when we did everything on prem.
 
+<a id="post-56"></a>
+
 ### 56. Introducting pytest-torch!
 
-2026-10-14 · u/AKJ7 · Self-promotion :upvote: · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x5ir9x/introducting_pytesttorch/)
+2026-10-14 · u/AKJ7 · Self-promotion :upvote: · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x5ir9x/introducting_pytesttorch/) · [↑ back to the list](#last-50-posts)
 
 > I built pytest-torch to make testing PyTorch models easier
 >
@@ -1160,15 +1272,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks and please drop a star if possible.
 
+<a id="post-57"></a>
+
 ### 57. How do you version the model, data and code together for prod?
 
-2026-10-21 · u/iamjessew · Discussion :snoo_dealwithit: · score 10 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xbvv7a/how_do_you_version_the_model_data_and_code/)
+2026-10-21 · u/iamjessew · Discussion :snoo_dealwithit: · score 10 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xbvv7a/how_do_you_version_the_model_data_and_code/) · [↑ back to the list](#last-50-posts)
 
 > We track experiments in one tool, data in another, and code in git, and the "what exactly is running in prod" answer ends up being a wiki page. How are you tying these together into one deployable, auditable unit? Single artifact, lockfile, registry convention, something else? Interested in what has survived contact with an audit.
 
+<a id="post-58"></a>
+
 ### 58. Pipeline - Training and promotion
 
-2026-10-26 · u/Senior_Tea_842 · MLOps Questions :snoo_hearteyes: · score 10 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xfx8b4/pipeline_training_and_promotion/)
+2026-10-26 · u/Senior_Tea_842 · MLOps Questions :snoo_hearteyes: · score 10 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xfx8b4/pipeline_training_and_promotion/) · [↑ back to the list](#last-50-posts)
 
 > I have a training pytorch script in that register metrics for hyperparameter calibration in MLFlow.
 >
@@ -1176,21 +1292,27 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Nowadays, which would it be the best tool (e.g. Prefect / Metaflow / Airflow / Zenml)?
 
+<a id="post-59"></a>
+
 ### 59. Evaluating AI governance solutions for a regulated industry rollout, what should be on the shortlist?
 
-2026-10-27 · u/No_Strategy3345 · Discussion :snoo_dealwithit: · score 9 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xgik73/evaluating_ai_governance_solutions_for_a/)
+2026-10-27 · u/No_Strategy3345 · Discussion :snoo_dealwithit: · score 9 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xgik73/evaluating_ai_governance_solutions_for_a/) · [↑ back to the list](#last-50-posts)
 
 > Healthcare system here, and the board wants an agent roadmap early next year with governance settled before any agent ships. Procurement sent me a long list of vendors that all call themselves AI governance solutions, and I don't have time to demo more than a handful, so I'm looking for the criteria other CIOs used to cut the list.
 
+<a id="post-60"></a>
+
 ### 60. MLE interview questions
 
-2026-10-19 · u/Senior_Tea_842 · Discussion :snoo_dealwithit: · score 9 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xa1bfj/mle_interview_questions/)
+2026-10-19 · u/Senior_Tea_842 · Discussion :snoo_dealwithit: · score 9 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xa1bfj/mle_interview_questions/) · [↑ back to the list](#last-50-posts)
 
 > Is there any books/resources that present good interview questions for MLE positions?
 
+<a id="post-61"></a>
+
 ### 61. we outgrew langfuse the week we let non engineers touch prompts
 
-2026-10-22 · u/CollectionPure7752 · Discussion :snoo_dealwithit: · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xcuwxt/we_outgrew_langfuse_the_week_we_let_non_engineers/)
+2026-10-22 · u/CollectionPure7752 · Discussion :snoo_dealwithit: · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1xcuwxt/we_outgrew_langfuse_the_week_we_let_non_engineers/) · [↑ back to the list](#last-50-posts)
 
 > langfuse was fine while it was three engineers and a tracing dashboard but it stopped being fine the week product and support started wanting to edit prompts, cause suddenly it was who can change what runs in production and was a real question and tracing doesn't answer it
 >
@@ -1204,9 +1326,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > how are the rest of you handling the live side? is anyone actually blocking bad responses inline before they ship, or is everyone still catching them in offline evals and hoping the gap between runs is small enough?
 
+<a id="post-62"></a>
+
 ### 62. MLflow and DVC in 2026.
 
-2026-10-17 · u/baked_doge · MLOps Questions :snoo_hearteyes: · score 8 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x7y7o3/mlflow_and_dvc_in_2026/)
+2026-10-17 · u/baked_doge · MLOps Questions :snoo_hearteyes: · score 8 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x7y7o3/mlflow_and_dvc_in_2026/) · [↑ back to the list](#last-50-posts)
 
 > Over the lifetime of these two tools, I feel their feature set has converged. It appears both can:
 >
@@ -1222,9 +1346,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thank you!
 
+<a id="post-63"></a>
+
 ### 63. What I learned building an MLflow-based modeling workbench for credit origination
 
-2026-10-13 · u/Excellent-Sport-758 · Tales From the Trenches :snoo_shrug: · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x58apv/what_i_learned_building_an_mlflowbased_modeling/)
+2026-10-13 · u/Excellent-Sport-758 · Tales From the Trenches :snoo_shrug: · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x58apv/what_i_learned_building_an_mlflowbased_modeling/) · [↑ back to the list](#last-50-posts)
 
 > From 2019–2021, I helped design and build Xper, internal data-science software for credit origination. The goal was to make the path from a modeling idea to a comparable, reviewable experiment much less fragmented.
 >
@@ -1248,9 +1374,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > This is a retrospective from my work in credit origination; I can’t share the original implementation or customer data. I’m curious how other teams draw the line between a flexible MLflow-centered workbench and separate services for data readiness, experimentation, and production monitoring. What did you find worth centralizing, and what stayed product-specific?
 
+<a id="post-64"></a>
+
 ### 64. Workflow Design Is the New Coding for MLOps engineers
 
-2026-10-13 · u/MrsDaughting · Discussion :snoo_dealwithit: · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x4rmxa/workflow_design_is_the_new_coding_for_mlops/)
+2026-10-13 · u/MrsDaughting · Discussion :snoo_dealwithit: · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mlops/comments/1x4rmxa/workflow_design_is_the_new_coding_for_mlops/) · [↑ back to the list](#last-50-posts)
 
 > I've noticed an interesting shift in MLOps.
 >

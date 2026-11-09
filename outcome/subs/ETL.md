@@ -39,56 +39,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [How do you stop an agent from making unnecessary tool calls?](https://www.reddit.com/r/ETL/comments/1xpca8m/how_do_you_stop_an_agent_from_making_unnecessary/) | u/snowingbol | — | text | 1 | 3 | live | — |
-| 2 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](https://www.reddit.com/r/ETL/comments/1xpbc3e/built_an_ai_extension_that_generates_complete/) | u/prettywhale_ai | — | reddit.com | 1 | 1 | live | — |
-| 3 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](https://www.reddit.com/r/ETL/comments/1xpb655/automating_data_preprocessing_a_guide_to_python/) | u/Ok_pettech | — | reddit.com | 1 | 0 | live | — |
-| 4 | 2026-11-06 | [Same guarantees, without programming them: Hydra ETL vs Airflow + dlt + dbt vs Airflow + Airbyte + dbt](https://www.reddit.com/r/ETL/comments/1xp8tbe/same_guarantees_without_programming_them_hydra/) | u/hydra-etl | — | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_with_source_schema/) | u/BullfrogFinal3566 | — | text | 6 | 11 | live | — |
-| 6 | 2026-11-05 | [Managed versus self-hosted ingestion](https://www.reddit.com/r/ETL/comments/1xorw70/managed_versus_selfhosted_ingestion/) | u/Sea_Engineering_3918 | — | text | 6 | 10 | live | — |
-| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/ETL/comments/1xorocy/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 0 | 1 | spam-filtered | — |
-| 8 | 2026-11-05 | [The ETL failure that passes every check: a source changed what a value means](https://www.reddit.com/r/ETL/comments/1xora48/the_etl_failure_that_passes_every_check_a_source/) | u/fristprinciplesde | — | text | 1 | 0 | live | — |
-| 9 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](https://www.reddit.com/r/ETL/comments/1xoj95j/i_built_an_opensource_semantic_layer_that/) | u/wrosa85 | — | text | 1 | 0 | spam-filtered | — |
-| 10 | 2026-11-05 | [Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (…](https://www.reddit.com/r/ETL/comments/1xogyli/notsobeginner_wanting_to_independently_build_etl/) | u/Usual_Macaroon7881 | — | text | 5 | 8 | live | — |
-| 11 | 2026-11-05 | [Feedback for product market fit and observation](https://www.reddit.com/r/ETL/comments/1xofzds/feedback_for_product_market_fit_and_observation/) | u/Meal_Last | — | text | 1 | 1 | live | — |
-| 12 | 2026-11-05 | [Added institutions, funders and code in Research @ foo🦍](https://www.reddit.com/r/ETL/comments/1xocdqb/added_institutions_funders_and_code_in_research/) | u/foorilla | — | foorilla.com | 3 | 0 | live | — |
-| 13 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta lake, dbt, Airflow) - Key Learnings & Architectur…](https://www.reddit.com/r/ETL/comments/1xobgu5/built_an_end_to_end_azure_lakehouse_adf/) | u/Surendhar_ | — | github.com | 11 | 2 | live | — |
-| 14 | 2026-11-04 | [Mapping datasets by reach and promises](https://www.reddit.com/r/ETL/comments/1xno48f/mapping_datasets_by_reach_and_promises/) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live | — |
-| 15 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](https://www.reddit.com/r/ETL/comments/1xnithl/anyone_else_finding_it_difficult_to_predict_their/) | u/BullfrogFinal3566 | — | text | 0 | 2 | removed by mod | Removing this posting because it lacks value. Please consider adding useful and relevant content an… |
-| 16 | 2026-11-03 | [Benchmarking 1M CSV rows: Scriptella 1.7 vs Pandas, JDBC, and native loaders](https://www.reddit.com/r/ETL/comments/1xn7o2i/benchmarking_1m_csv_rows_scriptella_17_vs_pandas/) | u/fykup | — | text | 8 | 7 | live | — |
-| 17 | 2026-11-03 | [GraveTrail Lineage tool](https://www.reddit.com/r/ETL/comments/1xn241b/gravetrail_lineage_tool/) | u/TkGraveWalkeRr | — | text | 4 | 0 | live | — |
-| 18 | 2026-11-03 | [Looking for honest feedback - My CA friend kept copying between Alteryx and ChatGPT to build workflows, so I…](https://www.reddit.com/r/ETL/comments/1xmrng3/looking_for_honest_feedback_my_ca_friend_kept/) | u/NoCommunication421 | — | reddit.com | 0 | 0 | live | — |
-| 19 | 2026-11-03 | [Why BYOK (Bring Your Own Key) Matters in AI powered ETL Development](https://www.reddit.com/r/ETL/comments/1xmlb9x/why_byok_bring_your_own_key_matters_in_ai_powered/) | u/Janani_proden2025 | — | text | 1 | 0 | spam-filtered | — |
-| 20 | 2026-11-02 | [ACTUALLY USEFUL Big Data Project Ideas](https://www.reddit.com/r/ETL/comments/1xma929/actually_useful_big_data_project_ideas/) | u/mulberry-cream | — | reddit.com | 2 | 2 | live | — |
-| 21 | 2026-11-02 | [Apache Iceberg REST Catalog in Practice: 7 Patterns That Make a Multi-Engine Lakehouse Production-Ready](https://www.reddit.com/r/ETL/comments/1xlza3j/apache_iceberg_rest_catalog_in_practice_7/) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live | — |
-| 22 | 2026-11-02 | [ETL backfills are getting expensive... how are you handling them?](https://www.reddit.com/r/ETL/comments/1xlt6yc/etl_backfills_are_getting_expensive_how_are_you/) | u/Signifoicant-Bke-499 | — | text | 0 | 0 | content_takedown | — |
-| 23 | 2026-11-02 | [How do you approach spark observability and tuning on prod pipelines?](https://www.reddit.com/r/ETL/comments/1xlsu3o/how_do_you_approach_spark_observability_and/) | u/Budget_Note4222 | — | text | 3 | 1 | live | — |
-| 24 | 2026-11-02 | [Who’s leading in Spark acceleration right now?](https://www.reddit.com/r/ETL/comments/1xlrr8m/whos_leading_in_spark_acceleration_right_now/) | u/Potential-Key-2175 | — | text | 2 | 0 | live | — |
-| 25 | 2026-11-02 | [spark performance tuning.](https://www.reddit.com/r/ETL/comments/1xlriox/spark_performance_tuning/) | u/liam_brooks-12 | — | text | 0 | 0 | content_takedown | — |
-| 26 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](https://www.reddit.com/r/ETL/comments/1xlnt2f/duckstring_pullorchestrated_data_pipelines_on/) | u/isaac-harvey | — | v.redd.it | 9 | 2 | live | — |
-| 27 | 2026-11-01 | [We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.](https://www.reddit.com/r/ETL/comments/1xle831/we_pointed_our_sql_editor_at_a_64table_database/) | u/tabitha_tm | — | v.redd.it | 0 | 0 | live | — |
-| 28 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](https://www.reddit.com/r/ETL/comments/1xkzt2l/snowflake_to_iceberg_lakehouse_migration_guide/) | u/codingdecently | — | lakeops.dev | 4 | 0 | live | — |
-| 29 | 2026-10-31 | [Is incremental batch processing of SCD type 2 with multiple sources, actually that hard to solve?](https://www.reddit.com/r/ETL/comments/1xkkj7s/is_incremental_batch_processing_of_scd_type_2/) | u/AggravatingAvocado36 | — | text | 18 | 15 | live | — |
-| 30 | 2026-10-31 | [Set up Stripe Data Pipeline for ClickHouse](https://www.reddit.com/r/ETL/comments/1xkjay7/set_up_stripe_data_pipeline_for_clickhouse/) | u/tanin47 | — | bookofrevenue.com | 2 | 0 | live | — |
-| 31 | 2026-10-31 | [**Stop hiding your Informatica experience: How legacy ETL actually makes you a better dbt engineer**](https://www.reddit.com/r/ETL/comments/1xk9vzi/stop_hiding_your_informatica_experience_how/) | u/Prasad127056 | — | reddit.com | 1 | 0 | live | — |
-| 32 | 2026-10-30 | [Company using new add-on](https://www.reddit.com/r/ETL/comments/1xji3in/company_using_new_addon/) | u/Impressive-State-124 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-10-30 | [How do you handle documents in your ETL pipelines?](https://www.reddit.com/r/ETL/comments/1xj9x2d/how_do_you_handle_documents_in_your_etl_pipelines/) | u/Ok_Host1989 | — | text | 1 | 0 | live | — |
-| 34 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](https://www.reddit.com/r/ETL/comments/1xigshi/update_earlier_this_month_i_shared_the_prototype/) | u/JohnPerformante | — | i.redd.it | 4 | 0 | live | — |
-| 35 | 2026-10-29 | [Cli tooling for dbt in CI/CD workflows](https://www.reddit.com/r/ETL/comments/1xifubv/cli_tooling_for_dbt_in_cicd_workflows/) | u/datablock-dev | — | github.com | 5 | 0 | live | — |
-| 36 | 2026-10-29 | [Connector SDK sync runner is released to Public Preview](https://www.reddit.com/r/ETL/comments/1xi9yk1/connector_sdk_sync_runner_is_released_to_public/) | u/ediril | — | reddit.com | 2 | 0 | live | — |
-| 37 | 2026-10-28 | [Just built this on Sigma. Take a look! #SigmaGiveaway](https://www.reddit.com/r/ETL/comments/1xhzplv/just_built_this_on_sigma_take_a_look_sigmagiveaway/) | u/CultureDifficult8302 | — | public.sigmacomputing.com | 0 | 0 | spam-filtered | — |
-| 38 | 2026-10-28 | [I built a free, open-source ETL tool with AI-assisted pipeline building](https://www.reddit.com/r/ETL/comments/1xhqinm/i_built_a_free_opensource_etl_tool_with/) | u/steroidmonkey66 | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 39 | 2026-10-28 | [Sharper sidebar insights, a new Stats tab, and Spaces are now Places](https://www.reddit.com/r/ETL/comments/1xhnbwc/sharper_sidebar_insights_a_new_stats_tab_and/) | u/foorilla | — | foorilla.com | 3 | 0 | live | — |
-| 40 | 2026-10-28 | [Where do you guys actually put data quality checks in an ETL pipeline?](https://www.reddit.com/r/ETL/comments/1xhk2px/where_do_you_guys_actually_put_data_quality/) | u/Delulu62134 | — | text | 11 | 13 | live | — |
-| 41 | 2026-10-28 | [UPDATE dbt 2.0: what changes when you upgrade, and the dbt vs dbt-oss split](https://www.reddit.com/r/ETL/comments/1xhisbo/update_dbt_20_what_changes_when_you_upgrade_and/) | u/Data-Queen-Mayra | — | reddit.com | 1 | 0 | live | — |
-| 42 | 2026-10-28 | [What do you do when source data changes after the pipeline is already running?](https://www.reddit.com/r/ETL/comments/1xhgz0z/what_do_you_do_when_source_data_changes_after_the/) | u/BullfrogFinal3566 | — | text | 10 | 7 | live | — |
-| 43 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](https://www.reddit.com/r/ETL/comments/1xh7w6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) | u/isaac-harvey | — | duckstring.com | 11 | 3 | live | — |
-| 44 | 2026-10-27 | [Pre-mortem for a nightly pipeline: six incident headlines and the check that would have caught each](https://www.reddit.com/r/ETL/comments/1xgzrma/premortem_for_a_nightly_pipeline_six_incident/) | u/ClickOk5811 | — | text | 4 | 1 | live | — |
-| 45 | 2026-10-27 | [Real-time vs batch processing: at what point does real time justify the complexity?](https://www.reddit.com/r/ETL/comments/1xgm04z/realtime_vs_batch_processing_at_what_point_does/) | u/Maryy_Green0 | — | text | 11 | 27 | live | — |
-| 46 | 2026-10-27 | [What’s the most frustrating part of managing your data pipelines right now?](https://www.reddit.com/r/ETL/comments/1xgjmcn/whats_the_most_frustrating_part_of_managing_your/) | u/BullfrogFinal3566 | — | text | 2 | 9 | live | — |
-| 47 | 2026-10-26 | [If I had to become a Production-Ready Data Engineer from scratch, this is the exact roadmap I would follow.](https://www.reddit.com/r/ETL/comments/1xg2582/if_i_had_to_become_a_productionready_data/) | u/Loud_Zombie3698 | — | reddit.com | 2 | 0 | live | — |
-| 48 | 2026-10-26 | [Two T-SQL strategies for controlling partition refresh on append-heavy fact tables](https://www.reddit.com/r/ETL/comments/1xfzd4g/two_tsql_strategies_for_controlling_partition/) | u/Salvatore997 | — | reddit.com | 1 | 0 | live | — |
-| 49 | 2026-10-26 | [How to Recover Broken CSV Files? - Values That Have Not Been Double-Quoted Although Containing Commas or Line…](https://www.reddit.com/r/ETL/comments/1xfscqe/how_to_recover_broken_csv_files_values_that_have/) | u/pie-is-finite | — | text | 9 | 15 | live | — |
-| 50 | 2026-10-26 | [AWS Data Engineering: 5 Things to Consider Before Building Your First Data Pipeline](https://www.reddit.com/r/ETL/comments/1xfs9w6/aws_data_engineering_5_things_to_consider_before/) | u/certificationmantra1 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 1 | 2026-11-06 | [How do you stop an agent from making unnecessary tool calls?](#post-1) | u/snowingbol | — | text | 1 | 3 | live | — |
+| 2 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](#post-2) | u/prettywhale_ai | — | reddit.com | 1 | 1 | live | — |
+| 3 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](#post-3) | u/Ok_pettech | — | reddit.com | 1 | 0 | live | — |
+| 4 | 2026-11-06 | [Same guarantees, without programming them: Hydra ETL vs Airflow + dlt + dbt vs Airflow + Airbyte + dbt](#post-4) | u/hydra-etl | — | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](#post-5) | u/BullfrogFinal3566 | — | text | 6 | 11 | live | — |
+| 6 | 2026-11-05 | [Managed versus self-hosted ingestion](#post-6) | u/Sea_Engineering_3918 | — | text | 6 | 10 | live | — |
+| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-7) | u/fristprinciplesde | — | text | 0 | 1 | spam-filtered | — |
+| 8 | 2026-11-05 | [The ETL failure that passes every check: a source changed what a value means](#post-8) | u/fristprinciplesde | — | text | 1 | 0 | live | — |
+| 9 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](#post-9) | u/wrosa85 | — | text | 1 | 0 | spam-filtered | — |
+| 10 | 2026-11-05 | [Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (…](#post-10) | u/Usual_Macaroon7881 | — | text | 5 | 8 | live | — |
+| 11 | 2026-11-05 | [Feedback for product market fit and observation](#post-11) | u/Meal_Last | — | text | 1 | 1 | live | — |
+| 12 | 2026-11-05 | [Added institutions, funders and code in Research @ foo🦍](#post-12) | u/foorilla | — | foorilla.com | 3 | 0 | live | — |
+| 13 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta lake, dbt, Airflow) - Key Learnings & Architectur…](#post-13) | u/Surendhar_ | — | github.com | 11 | 2 | live | — |
+| 14 | 2026-11-04 | [Mapping datasets by reach and promises](#post-14) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live | — |
+| 15 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](#post-15) | u/BullfrogFinal3566 | — | text | 0 | 2 | removed by mod | Removing this posting because it lacks value. Please consider adding useful and relevant content an… |
+| 16 | 2026-11-03 | [Benchmarking 1M CSV rows: Scriptella 1.7 vs Pandas, JDBC, and native loaders](#post-16) | u/fykup | — | text | 8 | 7 | live | — |
+| 17 | 2026-11-03 | [GraveTrail Lineage tool](#post-17) | u/TkGraveWalkeRr | — | text | 4 | 0 | live | — |
+| 18 | 2026-11-03 | [Looking for honest feedback - My CA friend kept copying between Alteryx and ChatGPT to build workflows, so I…](#post-18) | u/NoCommunication421 | — | reddit.com | 0 | 0 | live | — |
+| 19 | 2026-11-03 | [Why BYOK (Bring Your Own Key) Matters in AI powered ETL Development](#post-19) | u/Janani_proden2025 | — | text | 1 | 0 | spam-filtered | — |
+| 20 | 2026-11-02 | [ACTUALLY USEFUL Big Data Project Ideas](#post-20) | u/mulberry-cream | — | reddit.com | 2 | 2 | live | — |
+| 21 | 2026-11-02 | [Apache Iceberg REST Catalog in Practice: 7 Patterns That Make a Multi-Engine Lakehouse Production-Ready](#post-21) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live | — |
+| 22 | 2026-11-02 | [ETL backfills are getting expensive... how are you handling them?](#post-22) | u/Signifoicant-Bke-499 | — | text | 0 | 0 | content_takedown | — |
+| 23 | 2026-11-02 | [How do you approach spark observability and tuning on prod pipelines?](#post-23) | u/Budget_Note4222 | — | text | 3 | 1 | live | — |
+| 24 | 2026-11-02 | [Who’s leading in Spark acceleration right now?](#post-24) | u/Potential-Key-2175 | — | text | 2 | 0 | live | — |
+| 25 | 2026-11-02 | [spark performance tuning.](#post-25) | u/liam_brooks-12 | — | text | 0 | 0 | content_takedown | — |
+| 26 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](#post-26) | u/isaac-harvey | — | v.redd.it | 9 | 2 | live | — |
+| 27 | 2026-11-01 | [We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.](#post-27) | u/tabitha_tm | — | v.redd.it | 0 | 0 | live | — |
+| 28 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](#post-28) | u/codingdecently | — | lakeops.dev | 4 | 0 | live | — |
+| 29 | 2026-10-31 | [Is incremental batch processing of SCD type 2 with multiple sources, actually that hard to solve?](#post-29) | u/AggravatingAvocado36 | — | text | 18 | 15 | live | — |
+| 30 | 2026-10-31 | [Set up Stripe Data Pipeline for ClickHouse](#post-30) | u/tanin47 | — | bookofrevenue.com | 2 | 0 | live | — |
+| 31 | 2026-10-31 | [**Stop hiding your Informatica experience: How legacy ETL actually makes you a better dbt engineer**](#post-31) | u/Prasad127056 | — | reddit.com | 1 | 0 | live | — |
+| 32 | 2026-10-30 | [Company using new add-on](#post-32) | u/Impressive-State-124 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-10-30 | [How do you handle documents in your ETL pipelines?](#post-33) | u/Ok_Host1989 | — | text | 1 | 0 | live | — |
+| 34 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](#post-34) | u/JohnPerformante | — | i.redd.it | 4 | 0 | live | — |
+| 35 | 2026-10-29 | [Cli tooling for dbt in CI/CD workflows](#post-35) | u/datablock-dev | — | github.com | 5 | 0 | live | — |
+| 36 | 2026-10-29 | [Connector SDK sync runner is released to Public Preview](#post-36) | u/ediril | — | reddit.com | 2 | 0 | live | — |
+| 37 | 2026-10-28 | [Just built this on Sigma. Take a look! #SigmaGiveaway](#post-37) | u/CultureDifficult8302 | — | public.sigmacomputing.com | 0 | 0 | spam-filtered | — |
+| 38 | 2026-10-28 | [I built a free, open-source ETL tool with AI-assisted pipeline building](#post-38) | u/steroidmonkey66 | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 39 | 2026-10-28 | [Sharper sidebar insights, a new Stats tab, and Spaces are now Places](#post-39) | u/foorilla | — | foorilla.com | 3 | 0 | live | — |
+| 40 | 2026-10-28 | [Where do you guys actually put data quality checks in an ETL pipeline?](#post-40) | u/Delulu62134 | — | text | 11 | 13 | live | — |
+| 41 | 2026-10-28 | [UPDATE dbt 2.0: what changes when you upgrade, and the dbt vs dbt-oss split](#post-41) | u/Data-Queen-Mayra | — | reddit.com | 1 | 0 | live | — |
+| 42 | 2026-10-28 | [What do you do when source data changes after the pipeline is already running?](#post-42) | u/BullfrogFinal3566 | — | text | 10 | 7 | live | — |
+| 43 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](#post-43) | u/isaac-harvey | — | duckstring.com | 11 | 3 | live | — |
+| 44 | 2026-10-27 | [Pre-mortem for a nightly pipeline: six incident headlines and the check that would have caught each](#post-44) | u/ClickOk5811 | — | text | 4 | 1 | live | — |
+| 45 | 2026-10-27 | [Real-time vs batch processing: at what point does real time justify the complexity?](#post-45) | u/Maryy_Green0 | — | text | 11 | 27 | live | — |
+| 46 | 2026-10-27 | [What’s the most frustrating part of managing your data pipelines right now?](#post-46) | u/BullfrogFinal3566 | — | text | 2 | 9 | live | — |
+| 47 | 2026-10-26 | [If I had to become a Production-Ready Data Engineer from scratch, this is the exact roadmap I would follow.](#post-47) | u/Loud_Zombie3698 | — | reddit.com | 2 | 0 | live | — |
+| 48 | 2026-10-26 | [Two T-SQL strategies for controlling partition refresh on append-heavy fact tables](#post-48) | u/Salvatore997 | — | reddit.com | 1 | 0 | live | — |
+| 49 | 2026-10-26 | [How to Recover Broken CSV Files? - Values That Have Not Been Double-Quoted Although Containing Commas or Line…](#post-49) | u/pie-is-finite | — | text | 9 | 15 | live | — |
+| 50 | 2026-10-26 | [AWS Data Engineering: 5 Things to Consider Before Building Your First Data Pipeline](#post-50) | u/certificationmantra1 | — | i.redd.it | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -96,34 +96,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-20 | [how critical is real-time data for AI in production?](https://www.reddit.com/r/ETL/comments/1xao9vi/how_critical_is_realtime_data_for_ai_in_production/) | u/Forward_Bid_4439 | — | text | 18 | 22 | live |
-| 29 | 2026-10-31 | [Is incremental batch processing of SCD type 2 with multiple sources, actually that hard to solve?](https://www.reddit.com/r/ETL/comments/1xkkj7s/is_incremental_batch_processing_of_scd_type_2/) | u/AggravatingAvocado36 | — | text | 18 | 15 | live |
-| 52 | 2026-10-23 | [How do you handle late-committing rows when your incremental load uses an updated_at watermark?](https://www.reddit.com/r/ETL/comments/1xdi59v/how_do_you_handle_latecommitting_rows_when_your/) | u/ClickOk5811 | — | text | 18 | 10 | live |
-| 53 | 2026-10-25 | [Flowfile: open source ETL platform now truly does two-way design between code and canvas](https://www.reddit.com/r/ETL/comments/1xey24b/flowfile_open_source_etl_platform_now_truly_does/) | u/Proof_Difficulty_434 | — | text | 15 | 0 | live |
-| 54 | 2026-10-13 | [What is the best way to build reusable etl pipelines for different file formats??](https://www.reddit.com/r/ETL/comments/1x4tjkd/what_is_the_best_way_to_build_reusable_etl/) | u/BugSquare4344 | — | text | 14 | 11 | live |
-| 55 | 2026-10-12 | [what data integration tools are people using to get real time data into snowflake?](https://www.reddit.com/r/ETL/comments/1x3zn8t/what_data_integration_tools_are_people_using_to/) | u/goodpoint_wellmade | — | text | 13 | 24 | live |
-| 56 | 2026-10-21 | [Did anyone here contribute to Apache Spark?](https://www.reddit.com/r/ETL/comments/1xbbdeu/did_anyone_here_contribute_to_apache_spark/) | u/Powerful_Loan_9084 | — | text | 12 | 4 | live |
-| 45 | 2026-10-27 | [Real-time vs batch processing: at what point does real time justify the complexity?](https://www.reddit.com/r/ETL/comments/1xgm04z/realtime_vs_batch_processing_at_what_point_does/) | u/Maryy_Green0 | — | text | 11 | 27 | live |
-| 40 | 2026-10-28 | [Where do you guys actually put data quality checks in an ETL pipeline?](https://www.reddit.com/r/ETL/comments/1xhk2px/where_do_you_guys_actually_put_data_quality/) | u/Delulu62134 | — | text | 11 | 13 | live |
-| 43 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](https://www.reddit.com/r/ETL/comments/1xh7w6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) | u/isaac-harvey | — | duckstring.com | 11 | 3 | live |
-| 13 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta lake, dbt, Airflow) - Key Learnings & Architectur…](https://www.reddit.com/r/ETL/comments/1xobgu5/built_an_end_to_end_azure_lakehouse_adf/) | u/Surendhar_ | — | github.com | 11 | 2 | live |
-| 42 | 2026-10-28 | [What do you do when source data changes after the pipeline is already running?](https://www.reddit.com/r/ETL/comments/1xhgz0z/what_do_you_do_when_source_data_changes_after_the/) | u/BullfrogFinal3566 | — | text | 10 | 7 | live |
-| 57 | 2026-10-11 | [Showcasing det: A lightweight Rust/Polars ETL engine with an embedded data catalog (looking for architecture…](https://www.reddit.com/r/ETL/comments/1x36913/showcasing_det_a_lightweight_rustpolars_etl/) | u/Western_Rub_7236 | — | github.com | 10 | 5 | live |
-| 49 | 2026-10-26 | [How to Recover Broken CSV Files? - Values That Have Not Been Double-Quoted Although Containing Commas or Line…](https://www.reddit.com/r/ETL/comments/1xfscqe/how_to_recover_broken_csv_files_values_that_have/) | u/pie-is-finite | — | text | 9 | 15 | live |
-| 58 | 2026-10-18 | [Do you rerun the entire ETL pipeline when one step fails, or just the failed part?](https://www.reddit.com/r/ETL/comments/1x93q6s/do_you_rerun_the_entire_etl_pipeline_when_one/) | u/Bhanuprakash_1947 | — | text | 9 | 13 | live |
-| 26 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](https://www.reddit.com/r/ETL/comments/1xlnt2f/duckstring_pullorchestrated_data_pipelines_on/) | u/isaac-harvey | — | v.redd.it | 9 | 2 | live |
-| 16 | 2026-11-03 | [Benchmarking 1M CSV rows: Scriptella 1.7 vs Pandas, JDBC, and native loaders](https://www.reddit.com/r/ETL/comments/1xn7o2i/benchmarking_1m_csv_rows_scriptella_17_vs_pandas/) | u/fykup | — | text | 8 | 7 | live |
-| 59 | 2026-10-12 | [How do you handle deletes when a source only provides snapshots?](https://www.reddit.com/r/ETL/comments/1x3umlj/how_do_you_handle_deletes_when_a_source_only/) | u/BullfrogFinal3566 | — | text | 8 | 7 | live |
-| 60 | 2026-10-11 | [I built an NHANES Data Engineering Pipeline as a beginner — feedback appreciated!](https://www.reddit.com/r/ETL/comments/1x3754p/i_built_an_nhanes_data_engineering_pipeline_as_a/) | u/beingspector | — | text | 8 | 5 | live |
-| 61 | 2026-10-23 | [Your data pipeline can be running successfully while quietly producing wrong data.](https://www.reddit.com/r/ETL/comments/1xdbzfj/your_data_pipeline_can_be_running_successfully/) | u/djgoel123 | — | text | 7 | 13 | live |
+| 51 | 2026-10-20 | [how critical is real-time data for AI in production?](#post-51) | u/Forward_Bid_4439 | — | text | 18 | 22 | live |
+| 29 | 2026-10-31 | [Is incremental batch processing of SCD type 2 with multiple sources, actually that hard to solve?](#post-29) | u/AggravatingAvocado36 | — | text | 18 | 15 | live |
+| 52 | 2026-10-23 | [How do you handle late-committing rows when your incremental load uses an updated_at watermark?](#post-52) | u/ClickOk5811 | — | text | 18 | 10 | live |
+| 53 | 2026-10-25 | [Flowfile: open source ETL platform now truly does two-way design between code and canvas](#post-53) | u/Proof_Difficulty_434 | — | text | 15 | 0 | live |
+| 54 | 2026-10-13 | [What is the best way to build reusable etl pipelines for different file formats??](#post-54) | u/BugSquare4344 | — | text | 14 | 11 | live |
+| 55 | 2026-10-12 | [what data integration tools are people using to get real time data into snowflake?](#post-55) | u/goodpoint_wellmade | — | text | 13 | 24 | live |
+| 56 | 2026-10-21 | [Did anyone here contribute to Apache Spark?](#post-56) | u/Powerful_Loan_9084 | — | text | 12 | 4 | live |
+| 45 | 2026-10-27 | [Real-time vs batch processing: at what point does real time justify the complexity?](#post-45) | u/Maryy_Green0 | — | text | 11 | 27 | live |
+| 40 | 2026-10-28 | [Where do you guys actually put data quality checks in an ETL pipeline?](#post-40) | u/Delulu62134 | — | text | 11 | 13 | live |
+| 43 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](#post-43) | u/isaac-harvey | — | duckstring.com | 11 | 3 | live |
+| 13 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta lake, dbt, Airflow) - Key Learnings & Architectur…](#post-13) | u/Surendhar_ | — | github.com | 11 | 2 | live |
+| 42 | 2026-10-28 | [What do you do when source data changes after the pipeline is already running?](#post-42) | u/BullfrogFinal3566 | — | text | 10 | 7 | live |
+| 57 | 2026-10-11 | [Showcasing det: A lightweight Rust/Polars ETL engine with an embedded data catalog (looking for architecture…](#post-57) | u/Western_Rub_7236 | — | github.com | 10 | 5 | live |
+| 49 | 2026-10-26 | [How to Recover Broken CSV Files? - Values That Have Not Been Double-Quoted Although Containing Commas or Line…](#post-49) | u/pie-is-finite | — | text | 9 | 15 | live |
+| 58 | 2026-10-18 | [Do you rerun the entire ETL pipeline when one step fails, or just the failed part?](#post-58) | u/Bhanuprakash_1947 | — | text | 9 | 13 | live |
+| 26 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](#post-26) | u/isaac-harvey | — | v.redd.it | 9 | 2 | live |
+| 16 | 2026-11-03 | [Benchmarking 1M CSV rows: Scriptella 1.7 vs Pandas, JDBC, and native loaders](#post-16) | u/fykup | — | text | 8 | 7 | live |
+| 59 | 2026-10-12 | [How do you handle deletes when a source only provides snapshots?](#post-59) | u/BullfrogFinal3566 | — | text | 8 | 7 | live |
+| 60 | 2026-10-11 | [I built an NHANES Data Engineering Pipeline as a beginner — feedback appreciated!](#post-60) | u/beingspector | — | text | 8 | 5 | live |
+| 61 | 2026-10-23 | [Your data pipeline can be running successfully while quietly producing wrong data.](#post-61) | u/djgoel123 | — | text | 7 | 13 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. How do you stop an agent from making unnecessary tool calls?
 
-2026-11-06 · u/snowingbol · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpca8m/how_do_you_stop_an_agent_from_making_unnecessary/)
+2026-11-06 · u/snowingbol · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpca8m/how_do_you_stop_an_agent_from_making_unnecessary/) · [↑ back to the list](#last-50-posts)
 
 > I’m building a company research agent that can query external data through MCP, and I’m using Coresignal’s MCP for the company and employee lookups. Letting the model decide what to fetch works better than stuffing everything into the prompt. What I’m still struggling with is the stopping condition. On some accounts it makes two calls and writes the brief. On others it keeps going, checking one more thing each time.
 >
@@ -131,9 +133,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > How do you word stopping conditions for agents like this? Do you set a call budget in code and tell the model about it, or does that make the output worse?
 
+<a id="post-2"></a>
+
 ### 2. Built an AI extension that generates complete Python data pipelines from data samples
 
-2026-11-06 · u/prettywhale_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpbc3e/built_an_ai_extension_that_generates_complete/)
+2026-11-06 · u/prettywhale_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpbc3e/built_an_ai_extension_that_generates_complete/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpbc3e>
 
@@ -172,22 +176,28 @@ Link: <https://www.reddit.com/gallery/1xpbc3e>
 >
 > Curious to hear your thoughts or what you'd like to see next in terms of features. Happy to answer any questions!
 
+<a id="post-3"></a>
+
 ### 3. Automating Data Preprocessing: A Guide to Python AI Data Cleaning
 
-2026-11-06 · u/Ok_pettech · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpb655/automating_data_preprocessing_a_guide_to_python/)
+2026-11-06 · u/Ok_pettech · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xpb655/automating_data_preprocessing_a_guide_to_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_preprocessing_a_guide_to_python/>
 
 
+<a id="post-4"></a>
+
 ### 4. Same guarantees, without programming them: Hydra ETL vs Airflow + dlt + dbt vs Airflow + Airbyte + dbt
 
-2026-11-06 · u/hydra-etl · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xp8tbe/same_guarantees_without_programming_them_hydra/)
+2026-11-06 · u/hydra-etl · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xp8tbe/same_guarantees_without_programming_them_hydra/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. How does your team deal with source schema changes breaking downstream pipelines?
 
-2026-11-06 · u/BullfrogFinal3566 · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_with_source_schema/)
+2026-11-06 · u/BullfrogFinal3566 · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_with_source_schema/) · [↑ back to the list](#last-50-posts)
 
 > I've been thinking about how much time data teams spend dealing with unexpected schema changes.
 >
@@ -203,15 +213,19 @@ Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_prep
 >
 > I work at Hevo Data, so I see these pipeline problems from the data integration side too. I'd genuinely like to hear how other engineers are handling them, especially if they're working with multiple sources and destinations.
 
+<a id="post-6"></a>
+
 ### 6. Managed versus self-hosted ingestion
 
-2026-11-05 · u/Sea_Engineering_3918 · score 6 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xorw70/managed_versus_selfhosted_ingestion/)
+2026-11-05 · u/Sea_Engineering_3918 · score 6 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xorw70/managed_versus_selfhosted_ingestion/) · [↑ back to the list](#last-50-posts)
 
 > Posting this here. For a small data team when do i need to run my own ingestion stack versus paying for a managed service? I’m interested in the maintenance and reliability tradeoffs not just the monthly price.
 
+<a id="post-7"></a>
+
 ### 7. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xorocy/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xorocy/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changes what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -231,9 +245,11 @@ Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_prep
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-8"></a>
+
 ### 8. The ETL failure that passes every check: a source changed what a value means
 
-2026-11-05 · u/fristprinciplesde · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xora48/the_etl_failure_that_passes_every_check_a_source/)
+2026-11-05 · u/fristprinciplesde · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xora48/the_etl_failure_that_passes_every_check_a_source/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changes what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -255,15 +271,19 @@ Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_prep
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-9"></a>
+
 ### 9. I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases, MCP)
 
-2026-11-05 · u/wrosa85 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xoj95j/i_built_an_opensource_semantic_layer_that/)
+2026-11-05 · u/wrosa85 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xoj95j/i_built_an_opensource_semantic_layer_that/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (100-1000 sources) to use.
 
-2026-11-05 · u/Usual_Macaroon7881 · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xogyli/notsobeginner_wanting_to_independently_build_etl/)
+2026-11-05 · u/Usual_Macaroon7881 · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xogyli/notsobeginner_wanting_to_independently_build_etl/) · [↑ back to the list](#last-50-posts)
 
 > The title.
 >
@@ -273,9 +293,11 @@ Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_prep
 >
 > Thanks <3
 
+<a id="post-11"></a>
+
 ### 11. Feedback for product market fit and observation
 
-2026-11-05 · u/Meal_Last · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xofzds/feedback_for_product_market_fit_and_observation/)
+2026-11-05 · u/Meal_Last · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xofzds/feedback_for_product_market_fit_and_observation/) · [↑ back to the list](#last-50-posts)
 
 > I've seen there are 3 categories of Data engineering work.
 >
@@ -285,9 +307,11 @@ Link: <https://www.reddit.com/r/pythontips/comments/1xpb605/automating_data_prep
 >
 > Just a FYI I'm not a data engineer who has like worked across 10s of project or so. I just did one and felt maybe there is a better solution than what I hand crafted.
 
+<a id="post-12"></a>
+
 ### 12. Added institutions, funders and code in Research @ foo🦍
 
-2026-11-05 · u/foorilla · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xocdqb/added_institutions_funders_and_code_in_research/)
+2026-11-05 · u/foorilla · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xocdqb/added_institutions_funders_and_code_in_research/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://foorilla.com/changelog/>
 
@@ -301,9 +325,11 @@ Link: <https://foorilla.com/changelog/>
 >
 > API v1.10.1 adds all of this without breaking changes. Papers include `scholarly`, the OpenAlex record (or `null` when there isn't a matching one), and `code_references`. New `/api/v1/research/institution/`, `/st/` and `/{pk}` endpoints list institutions with their ROR profile and paper counts. Papers can be filtered by `institution`, `funder` and `has_code`, and repositories add `paper_count` and a `named_by_papers` filter. See the [API documentation](https://foorilla.com/api/v1/docs) for details.
 
+<a id="post-13"></a>
+
 ### 13. Built an End to End Azure Lakehouse (ADF, Databricks, Delta lake, dbt, Airflow) - Key Learnings & Architecture Patterns
 
-2026-11-05 · u/Surendhar_ · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xobgu5/built_an_end_to_end_azure_lakehouse_adf/)
+2026-11-05 · u/Surendhar_ · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xobgu5/built_an_end_to_end_azure_lakehouse_adf/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Suray-27/Weather-Lakehouse>
 
@@ -369,17 +395,21 @@ Link: <https://github.com/Suray-27/Weather-Lakehouse>
 >
 > Thanks for reading! Any feedback or suggestions are welcome.
 
+<a id="post-14"></a>
+
 ### 14. Mapping datasets by reach and promises
 
-2026-11-04 · u/sfnmoll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xno48f/mapping_datasets_by_reach_and_promises/)
+2026-11-04 · u/sfnmoll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xno48f/mapping_datasets_by_reach_and_promises/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://steffenmoll.github.io/where-a-dataset-naturally-fits>
 
 > The Open Data Contract Standard, Apache Ossie and Medallion structure all lacks a central component, who the data is for and how it hits the organization! Join me as I elaborate on some thoughts while working on data platform in a broader context
 
+<a id="post-15"></a>
+
 ### 15. Anyone else finding it difficult to predict their ETL costs as data grows?
 
-2026-11-04 · u/BullfrogFinal3566 · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xnithl/anyone_else_finding_it_difficult_to_predict_their/)
+2026-11-04 · u/BullfrogFinal3566 · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xnithl/anyone_else_finding_it_difficult_to_predict_their/) · [↑ back to the list](#last-50-posts)
 
 > I've been speaking with data teams that are running into an interesting problem with managed data pipelines.
 >
@@ -397,9 +427,11 @@ Link: <https://steffenmoll.github.io/where-a-dataset-naturally-fits>
 
 **Mod comment** (u/ETL-ModTeam): Removing this posting because it lacks value. Please consider adding useful and relevant content and re-posting.
 
+<a id="post-16"></a>
+
 ### 16. Benchmarking 1M CSV rows: Scriptella 1.7 vs Pandas, JDBC, and native loaders
 
-2026-11-03 · u/fykup · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xn7o2i/benchmarking_1m_csv_rows_scriptella_17_vs_pandas/)
+2026-11-03 · u/fykup · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xn7o2i/benchmarking_1m_csv_rows_scriptella_17_vs_pandas/) · [↑ back to the list](#last-50-posts)
 
 > I've been benchmarking CSV-to-database import performance for Scriptella, a Java-based, SQL-first ETL tool I maintain.
 >
@@ -426,9 +458,11 @@ Link: <https://steffenmoll.github.io/where-a-dataset-naturally-fits>
 >
 > Now that I've covered CSV imports, I'd like to explore more realistic ETL workloads. **What scenarios would you find most interesting to benchmark?** Database-to-database migrations, transformations, heterogeneous data sources, or something else? I'd also be interested in which ETL capabilities matter most in your actual workflows.
 
+<a id="post-17"></a>
+
 ### 17. GraveTrail Lineage tool
 
-2026-11-03 · u/TkGraveWalkeRr · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xn241b/gravetrail_lineage_tool/)
+2026-11-03 · u/TkGraveWalkeRr · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xn241b/gravetrail_lineage_tool/) · [↑ back to the list](#last-50-posts)
 
 > Hi All
 >
@@ -442,37 +476,47 @@ Link: <https://steffenmoll.github.io/where-a-dataset-naturally-fits>
 >
 > Good, bad, need improvements , something like this already exists
 
+<a id="post-18"></a>
+
 ### 18. Looking for honest feedback - My CA friend kept copying between Alteryx and ChatGPT to build workflows, so I built a tool that does both.
 
-2026-11-03 · u/NoCommunication421 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xmrng3/looking_for_honest_feedback_my_ca_friend_kept/)
+2026-11-03 · u/NoCommunication421 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xmrng3/looking_for_honest_feedback_my_ca_friend_kept/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Alteryx/comments/1xmq8ti/looking_for_honest_feedback_my_ca_friend_kept/>
 
 
+<a id="post-19"></a>
+
 ### 19. Why BYOK (Bring Your Own Key) Matters in AI powered ETL Development
 
-2026-11-03 · u/Janani_proden2025 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xmlb9x/why_byok_bring_your_own_key_matters_in_ai_powered/)
+2026-11-03 · u/Janani_proden2025 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xmlb9x/why_byok_bring_your_own_key_matters_in_ai_powered/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. ACTUALLY USEFUL Big Data Project Ideas
 
-2026-11-02 · u/mulberry-cream · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xma929/actually_useful_big_data_project_ideas/)
+2026-11-02 · u/mulberry-cream · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xma929/actually_useful_big_data_project_ideas/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/databricks/comments/1xma8lw/actually_useful_big_data_project_ideas/>
 
 
+<a id="post-21"></a>
+
 ### 21. Apache Iceberg REST Catalog in Practice: 7 Patterns That Make a Multi-Engine Lakehouse Production-Ready
 
-2026-11-02 · u/Expensive-Insect-317 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlza3j/apache_iceberg_rest_catalog_in_practice_7/)
+2026-11-02 · u/Expensive-Insect-317 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlza3j/apache_iceberg_rest_catalog_in_practice_7/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@sendoamoronta/apache-iceberg-rest-catalog-in-practice-7-patterns-that-make-a-multi-engine-lakehouse-3d1e5364f3dd>
 
 > *Hands-on with Apache Polaris, Spark and Trino: shared tables, credential vending, concurrent writes, metadata maintenance, and the operational mistakes that can quietly break your lakehouse.*
 
+<a id="post-22"></a>
+
 ### 22. ETL backfills are getting expensive... how are you handling them?
 
-2026-11-02 · u/Signifoicant-Bke-499 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlt6yc/etl_backfills_are_getting_expensive_how_are_you/)
+2026-11-02 · u/Signifoicant-Bke-499 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlt6yc/etl_backfills_are_getting_expensive_how_are_you/) · [↑ back to the list](#last-50-posts)
 
 > Daily Spark jobs are one thing, but backfilling months of data can turn into a whole different headache.
 >
@@ -480,9 +524,11 @@ Link: <https://medium.com/@sendoamoronta/apache-iceberg-rest-catalog-in-practice
 >
 > For those running ETL pipelines in prod, are you optimizing the jobs themselves or changing how they run?
 
+<a id="post-23"></a>
+
 ### 23. How do you approach spark observability and tuning on prod pipelines?
 
-2026-11-02 · u/Budget_Note4222 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlsu3o/how_do_you_approach_spark_observability_and/)
+2026-11-02 · u/Budget_Note4222 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlsu3o/how_do_you_approach_spark_observability_and/) · [↑ back to the list](#last-50-posts)
 
 > Our setup grew the usual way. Airflow kicks off Spark jobs on EMR every night, all on one shared cluster sized for the worst job. That cluster is now the biggest line on our AWS bill, and nobody can actually say which job is burning it.
 >
@@ -495,23 +541,29 @@ Link: <https://medium.com/@sendoamoronta/apache-iceberg-rest-catalog-in-practice
 >
 > Only part Im unsure about is where to stop like When a job is crawling during a backfill, someone still needs to just make it finish. Do you keep a separate oversized cluster for that with an alert on use, or does nobody ever throw hardware at prod without the metrics first?
 
+<a id="post-24"></a>
+
 ### 24. Who’s leading in Spark acceleration right now?
 
-2026-11-02 · u/Potential-Key-2175 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlrr8m/whos_leading_in_spark_acceleration_right_now/)
+2026-11-02 · u/Potential-Key-2175 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlrr8m/whos_leading_in_spark_acceleration_right_now/) · [↑ back to the list](#last-50-posts)
 
 > Our data eng team cant just agree on how to treat speedups. Treating them as tuning ignores that they need engine changes, treating them as engine swaps ignores that some need an FPGA instance instead, and meanwhile each job reuses the cluster config it shipped with. Im more interested in the modeling question than products, though we're looking at DataPelago, DualBird, Flarion and Gluten, so hearing how they handle it would help the debate.
 
+<a id="post-25"></a>
+
 ### 25. spark performance tuning.
 
-2026-11-02 · u/liam_brooks-12 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlriox/spark_performance_tuning/)
+2026-11-02 · u/liam_brooks-12 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlriox/spark_performance_tuning/) · [↑ back to the list](#last-50-posts)
 
 > which tools are you currently using for spark performance tuning among the likes of DualBird, NVIDIA RAPIDS, Databricks Photon, DataFlint, etc..?  
 >
 > Share your experience.
 
+<a id="post-26"></a>
+
 ### 26. Duckstring - Pull-orchestrated data pipelines on DuckDB
 
-2026-11-02 · u/isaac-harvey · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlnt2f/duckstring_pullorchestrated_data_pipelines_on/)
+2026-11-02 · u/isaac-harvey · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xlnt2f/duckstring_pullorchestrated_data_pipelines_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/wpcxbf9zm4zh1>
 
@@ -541,23 +593,29 @@ Link: <https://v.redd.it/wpcxbf9zm4zh1>
 >
 > It's pre-1.0, though has been in active development since January, and is ready to try on real pipelines. I'd love to hear your feedback!
 
+<a id="post-27"></a>
+
 ### 27. We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.
 
-2026-11-01 · u/tabitha_tm · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xle831/we_pointed_our_sql_editor_at_a_64table_database/)
+2026-11-01 · u/tabitha_tm · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xle831/we_pointed_our_sql_editor_at_a_64table_database/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/mglzlygqo1zh1>
 
 
+<a id="post-28"></a>
+
 ### 28. Snowflake to Iceberg Lakehouse Migration Guide
 
-2026-11-01 · u/codingdecently · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkzt2l/snowflake_to_iceberg_lakehouse_migration_guide/)
+2026-11-01 · u/codingdecently · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkzt2l/snowflake_to_iceberg_lakehouse_migration_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 
 
+<a id="post-29"></a>
+
 ### 29. Is incremental batch processing of SCD type 2 with multiple sources, actually that hard to solve?
 
-2026-10-31 · u/AggravatingAvocado36 · score 18 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkkj7s/is_incremental_batch_processing_of_scd_type_2/)
+2026-10-31 · u/AggravatingAvocado36 · score 18 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkkj7s/is_incremental_batch_processing_of_scd_type_2/) · [↑ back to the list](#last-50-posts)
 
 > Hi folks, 
 >
@@ -576,29 +634,37 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > How have you solved this problem, is there pattern that I am missing?
 
+<a id="post-30"></a>
+
 ### 30. Set up Stripe Data Pipeline for ClickHouse
 
-2026-10-31 · u/tanin47 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkjay7/set_up_stripe_data_pipeline_for_clickhouse/)
+2026-10-31 · u/tanin47 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xkjay7/set_up_stripe_data_pipeline_for_clickhouse/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://bookofrevenue.com/blog/6ae4d508e115910001bc9bb2/set-up-stripe-data-pipeline-for-clickhouse>
 
 
+<a id="post-31"></a>
+
 ### 31. **Stop hiding your Informatica experience: How legacy ETL actually makes you a better dbt engineer**
 
-2026-10-31 · u/Prasad127056 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xk9vzi/stop_hiding_your_informatica_experience_how/)
+2026-10-31 · u/Prasad127056 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xk9vzi/stop_hiding_your_informatica_experience_how/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/LegacyToModern/comments/1xk9vv4/stop_hiding_your_informatica_experience_how/>
 
 
+<a id="post-32"></a>
+
 ### 32. Company using new add-on
 
-2026-10-30 · u/Impressive-State-124 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xji3in/company_using_new_addon/)
+2026-10-30 · u/Impressive-State-124 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xji3in/company_using_new_addon/) · [↑ back to the list](#last-50-posts)
 
 > I am sure we have all dealt with people above us who have no idea what they are talking about giving their input on how to do the job. I have been working in the data engineering field for about 11 years. All throughout I have had a manager tell me how to do my job. Usually, I will get my way lol. However, I have been using ADF for years and built our whole pipeline. Not many people truly understand it at my company, we are relatively small to mid size. A couple times I have been on vacation and, low and behold, nobody is their to fix anything if anything goes wrong. Well, my boss called me into his office today and wanted to ask my opinion on trying out a new he saw that would help him be able to see what is going on. There is this tool called ETLMaestro. I was wondering if anyone has looked into it? From my research it looks like a good idea, as much as I do not like that the guy who always has something to say about my job, he may have actually found something descent. Yeah, if anyone has seen this before and can see if this is worth investing in lmk pls.
 
+<a id="post-33"></a>
+
 ### 33. How do you handle documents in your ETL pipelines?
 
-2026-10-30 · u/Ok_Host1989 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xj9x2d/how_do_you_handle_documents_in_your_etl_pipelines/)
+2026-10-30 · u/Ok_Host1989 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xj9x2d/how_do_you_handle_documents_in_your_etl_pipelines/) · [↑ back to the list](#last-50-posts)
 
 > I've noticed that working with PDFs, scanned files, and other unstructured documents can make data processing more complicated than expected.
 >
@@ -610,16 +676,20 @@ Link: <https://www.reddit.com/r/LegacyToModern/comments/1xk9vv4/stop_hiding_your
 >
 > I'd be interested to hear what's worked best for you, particularly when it comes to accuracy, processing speed, and data quality.
 
+<a id="post-34"></a>
+
 ### 34. Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta
 
-2026-10-29 · u/JohnPerformante · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xigshi/update_earlier_this_month_i_shared_the_prototype/)
+2026-10-29 · u/JohnPerformante · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xigshi/update_earlier_this_month_i_shared_the_prototype/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4ib0vum8wdyh1.png>
 
 
+<a id="post-35"></a>
+
 ### 35. Cli tooling for dbt in CI/CD workflows
 
-2026-10-29 · u/datablock-dev · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xifubv/cli_tooling_for_dbt_in_cicd_workflows/)
+2026-10-29 · u/datablock-dev · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xifubv/cli_tooling_for_dbt_in_cicd_workflows/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/datablock-dev/dbt-ci>
 
@@ -650,16 +720,20 @@ Link: <https://github.com/datablock-dev/dbt-ci>
 >
 > Any feedback is welcome, but I am also interested to see how it is performing on other large cloud databases like Redshift, Snowflake etc.
 
+<a id="post-36"></a>
+
 ### 36. Connector SDK sync runner is released to Public Preview
 
-2026-10-29 · u/ediril · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xi9yk1/connector_sdk_sync_runner_is_released_to_public/)
+2026-10-29 · u/ediril · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xi9yk1/connector_sdk_sync_runner_is_released_to_public/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Fivetran/comments/1xi9yd7/connector_sdk_sync_runner_is_released_to_public/>
 
 
+<a id="post-37"></a>
+
 ### 37. Just built this on Sigma. Take a look! #SigmaGiveaway
 
-2026-10-28 · u/CultureDifficult8302 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhzplv/just_built_this_on_sigma_take_a_look_sigmagiveaway/)
+2026-10-28 · u/CultureDifficult8302 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhzplv/just_built_this_on_sigma_take_a_look_sigmagiveaway/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://public.sigmacomputing.com/view-workbook/7cODMgi2xcSp7XZs3dbE5I>
 
@@ -669,17 +743,21 @@ Link: <https://public.sigmacomputing.com/view-workbook/7cODMgi2xcSp7XZs3dbE5I>
 >
 > \#SigmaGiveaway
 
+<a id="post-38"></a>
+
 ### 38. I built a free, open-source ETL tool with AI-assisted pipeline building
 
-2026-10-28 · u/steroidmonkey66 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhqinm/i_built_a_free_opensource_etl_tool_with/)
+2026-10-28 · u/steroidmonkey66 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhqinm/i_built_a_free_opensource_etl_tool_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/5f17uhsoo5yh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Sharper sidebar insights, a new Stats tab, and Spaces are now Places
 
-2026-10-28 · u/foorilla · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhnbwc/sharper_sidebar_insights_a_new_stats_tab_and/)
+2026-10-28 · u/foorilla · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhnbwc/sharper_sidebar_insights_a_new_stats_tab_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://foorilla.com/changelog/>
 
@@ -693,9 +771,11 @@ Link: <https://foorilla.com/changelog/>
 >
 > The API follows the rename in v1.9, which is a breaking change for Work integrations. `/api/v1/work/space/`, `/api/v1/work/space/st/` and `/api/v1/work/space/{pk}` are now `/api/v1/work/place/`, `/api/v1/work/place/st/` and `/api/v1/work/place/{pk}`, and the `space_type` field and filter is now `place_type`. API metadata uses `place.*` names, and geography statistics report `place_count`, `place_view_count` and `place_click_count`. The previous Space endpoints are no longer available, so please update any clients that use them. See the API documentation ([/api/v1/docs](https://foorilla.com/api/v1/docs)) for the full endpoint and filter details.
 
+<a id="post-40"></a>
+
 ### 40. Where do you guys actually put data quality checks in an ETL pipeline?
 
-2026-10-28 · u/Delulu62134 · score 11 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhk2px/where_do_you_guys_actually_put_data_quality/)
+2026-10-28 · u/Delulu62134 · score 11 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhk2px/where_do_you_guys_actually_put_data_quality/) · [↑ back to the list](#last-50-posts)
 
 > I've been thinking about this while working with data pipelines, and I'm curious how other teams handle it.
 >
@@ -721,16 +801,20 @@ Link: <https://foorilla.com/changelog/>
 >
 > I'd love to hear how people structure this in real projects. Where do you draw the line between catching issues early and adding too many checks that become difficult to maintain?
 
+<a id="post-41"></a>
+
 ### 41. UPDATE dbt 2.0: what changes when you upgrade, and the dbt vs dbt-oss split
 
-2026-10-28 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhisbo/update_dbt_20_what_changes_when_you_upgrade_and/)
+2026-10-28 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhisbo/update_dbt_20_what_changes_when_you_upgrade_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/DataBuildTool/comments/1xhis84/update_dbt_20_what_changes_when_you_upgrade_and/>
 
 
+<a id="post-42"></a>
+
 ### 42. What do you do when source data changes after the pipeline is already running?
 
-2026-10-28 · u/BullfrogFinal3566 · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhgz0z/what_do_you_do_when_source_data_changes_after_the/)
+2026-10-28 · u/BullfrogFinal3566 · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xhgz0z/what_do_you_do_when_source_data_changes_after_the/) · [↑ back to the list](#last-50-posts)
 
 > Say your daily pipeline runs successfully, but a source system updates a record from three days ago. Your warehouse now has the old value, and your pipeline has already moved on.
 >
@@ -742,9 +826,11 @@ Link: <https://www.reddit.com/r/DataBuildTool/comments/1xhis84/update_dbt_20_wha
 >
 > I work at Hevo on the data integration side, and I'm interested in hearing how different teams handle this in practice.
 
+<a id="post-43"></a>
+
 ### 43. DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to 1 TB
 
-2026-10-27 · u/isaac-harvey · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xh7w6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/)
+2026-10-27 · u/isaac-harvey · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xh7w6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 
@@ -756,9 +842,11 @@ Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 >
 > https://www.duckstring.com/blog/duckdb-pipeline-engine
 
+<a id="post-44"></a>
+
 ### 44. Pre-mortem for a nightly pipeline: six incident headlines and the check that would have caught each
 
-2026-10-27 · u/ClickOk5811 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgzrma/premortem_for_a_nightly_pipeline_six_incident/)
+2026-10-27 · u/ClickOk5811 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgzrma/premortem_for_a_nightly_pipeline_six_incident/) · [↑ back to the list](#last-50-posts)
 
 > Pre-mortem exercise: assume a nightly load has failed badly six months from now, and write the headlines. These are hypothetical, but I think each one is common. Next to each is the cheapest check I’d add.
 >
@@ -792,9 +880,11 @@ Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 >
 > Which headline would you add, and what check would have caught it?
 
+<a id="post-45"></a>
+
 ### 45. Real-time vs batch processing: at what point does real time justify the complexity?
 
-2026-10-27 · u/Maryy_Green0 · score 11 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgm04z/realtime_vs_batch_processing_at_what_point_does/)
+2026-10-27 · u/Maryy_Green0 · score 11 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgm04z/realtime_vs_batch_processing_at_what_point_does/) · [↑ back to the list](#last-50-posts)
 
 > We've managed with hourly Snowflake loads for years and honestly they've been good enough most of the time. Lately though, product keeps asking for live dashboards while our ML team is pushing for fresher training data.
 >
@@ -802,9 +892,11 @@ Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 >
 > For anyone who's made the switch, what was the moment where real-time vs batch processing stopped being a debate and became an obvious decision?
 
+<a id="post-46"></a>
+
 ### 46. What’s the most frustrating part of managing your data pipelines right now?
 
-2026-10-27 · u/BullfrogFinal3566 · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgjmcn/whats_the_most_frustrating_part_of_managing_your/)
+2026-10-27 · u/BullfrogFinal3566 · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xgjmcn/whats_the_most_frustrating_part_of_managing_your/) · [↑ back to the list](#last-50-posts)
 
 > Hey Guys!,
 >
@@ -822,16 +914,20 @@ Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 >
 > What are you struggling with most in your current data setup?
 
+<a id="post-47"></a>
+
 ### 47. If I had to become a Production-Ready Data Engineer from scratch, this is the exact roadmap I would follow.
 
-2026-10-26 · u/Loud_Zombie3698 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xg2582/if_i_had_to_become_a_productionready_data/)
+2026-10-26 · u/Loud_Zombie3698 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xg2582/if_i_had_to_become_a_productionready_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xg23je/if_i_had_to_become_a_productionready_data/>
 
 
+<a id="post-48"></a>
+
 ### 48. Two T-SQL strategies for controlling partition refresh on append-heavy fact tables
 
-2026-10-26 · u/Salvatore997 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfzd4g/two_tsql_strategies_for_controlling_partition/)
+2026-10-26 · u/Salvatore997 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfzd4g/two_tsql_strategies_for_controlling_partition/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SQL/comments/1xeanrp/two_tsql_strategies_for_controlling_partition/>
 
@@ -857,9 +953,11 @@ Link: <https://www.reddit.com/r/SQL/comments/1xeanrp/two_tsql_strategies_for_con
 >
 > **What would you change or do differently?**
 
+<a id="post-49"></a>
+
 ### 49. How to Recover Broken CSV Files? - Values That Have Not Been Double-Quoted Although Containing Commas or Line Returns
 
-2026-10-26 · u/pie-is-finite · score 9 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfscqe/how_to_recover_broken_csv_files_values_that_have/)
+2026-10-26 · u/pie-is-finite · score 9 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfscqe/how_to_recover_broken_csv_files_values_that_have/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -898,25 +996,31 @@ Link: <https://www.reddit.com/r/SQL/comments/1xeanrp/two_tsql_strategies_for_con
 >
 > I'm looking forward to hear from your experiences, edge cases, and any tools/code lirbraries worth investigating. Thanks!
 
+<a id="post-50"></a>
+
 ### 50. AWS Data Engineering: 5 Things to Consider Before Building Your First Data Pipeline
 
-2026-10-26 · u/certificationmantra1 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfs9w6/aws_data_engineering_5_things_to_consider_before/)
+2026-10-26 · u/certificationmantra1 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xfs9w6/aws_data_engineering_5_things_to_consider_before/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lartmi928sxh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-51"></a>
+
 ### 51. how critical is real-time data for AI in production?
 
-2026-10-20 · u/Forward_Bid_4439 · score 18 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xao9vi/how_critical_is_realtime_data_for_ai_in_production/)
+2026-10-20 · u/Forward_Bid_4439 · score 18 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xao9vi/how_critical_is_realtime_data_for_ai_in_production/) · [↑ back to the list](#last-50-posts)
 
 > our ML team has been making a strong case for moving feature generation closer to real time their argument is that hourly and nightly batches are leaving models behind especially for fraud detection and dynamic pricing
 >
 > im trying to separate genuine business value from architecture hype for anyone using real time data for AI in production, did fresher features noticeably improve model performance or was the difference smaller than expected?
 
+<a id="post-52"></a>
+
 ### 52. How do you handle late-committing rows when your incremental load uses an updated_at watermark?
 
-2026-10-23 · u/ClickOk5811 · score 18 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xdi59v/how_do_you_handle_latecommitting_rows_when_your/)
+2026-10-23 · u/ClickOk5811 · score 18 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xdi59v/how_do_you_handle_latecommitting_rows_when_your/) · [↑ back to the list](#last-50-posts)
 
 > Most incremental loads I see described work like this: store the max `updated_at`, then pull `WHERE updated_at > :watermark` on the next run. It works for a long time, which is why the failure cases are easy to miss. Curious how others handle them. Here are the three I keep running into in the literature and docs, and the pattern I’d reach for.
 >
@@ -939,9 +1043,11 @@ Link: <https://i.redd.it/lartmi928sxh1.png>
 >
 > I’m not saying the simple watermark is wrong. For a small table with short transactions it’s often fine. But a periodic row-count comparison against the source is cheap, and it catches the quiet losses.
 
+<a id="post-53"></a>
+
 ### 53. Flowfile: open source ETL platform now truly does two-way design between code and canvas
 
-2026-10-25 · u/Proof_Difficulty_434 · score 15 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xey24b/flowfile_open_source_etl_platform_now_truly_does/)
+2026-10-25 · u/Proof_Difficulty_434 · score 15 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xey24b/flowfile_open_source_etl_platform_now_truly_does/) · [↑ back to the list](#last-50-posts)
 
 > ![gif](zvcydbab2lxh1 "Two way designing ETL")
 >
@@ -959,15 +1065,19 @@ Link: <https://i.redd.it/lartmi928sxh1.png>
 >
 > GitHub: [https://github.com/edwardvaneechoud/Flowfile](https://github.com/edwardvaneechoud/Flowfile)
 
+<a id="post-54"></a>
+
 ### 54. What is the best way to build reusable etl pipelines for different file formats??
 
-2026-10-13 · u/BugSquare4344 · score 14 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x4tjkd/what_is_the_best_way_to_build_reusable_etl/)
+2026-10-13 · u/BugSquare4344 · score 14 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x4tjkd/what_is_the_best_way_to_build_reusable_etl/) · [↑ back to the list](#last-50-posts)
 
 > how to handle every file format during ingestion without rewriting the entire pipeline.
 
+<a id="post-55"></a>
+
 ### 55. what data integration tools are people using to get real time data into snowflake?
 
-2026-10-12 · u/goodpoint_wellmade · score 13 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3zn8t/what_data_integration_tools_are_people_using_to/)
+2026-10-12 · u/goodpoint_wellmade · score 13 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3zn8t/what_data_integration_tools_are_people_using_to/) · [↑ back to the list](#last-50-posts)
 
 > we've reached the point where our python scripts are causing more problems than they're solving
 >
@@ -975,17 +1085,21 @@ Link: <https://i.redd.it/lartmi928sxh1.png>
 >
 > what are people happy with these days?
 
+<a id="post-56"></a>
+
 ### 56. Did anyone here contribute to Apache Spark?
 
-2026-10-21 · u/Powerful_Loan_9084 · score 12 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xbbdeu/did_anyone_here_contribute_to_apache_spark/)
+2026-10-21 · u/Powerful_Loan_9084 · score 12 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xbbdeu/did_anyone_here_contribute_to_apache_spark/) · [↑ back to the list](#last-50-posts)
 
 > I’m curious if anyone here has contributed to Apache Spark.    
 > For example, working on core modules or building/maintaining libraries, fixing issues, or submitting PRs.    
 > I’d love to hear about your experience, what you worked on, and any advice for someone who wants to start contributing.
 
+<a id="post-57"></a>
+
 ### 57. Showcasing det: A lightweight Rust/Polars ETL engine with an embedded data catalog (looking for architecture reviews & contributors)
 
-2026-10-11 · u/Western_Rub_7236 · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x36913/showcasing_det_a_lightweight_rustpolars_etl/)
+2026-10-11 · u/Western_Rub_7236 · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x36913/showcasing_det_a_lightweight_rustpolars_etl/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/det-Labs/det>
 
@@ -1031,17 +1145,21 @@ Link: <https://github.com/det-Labs/det>
 >
 > Repository: https://github.com/det-Labs/det
 
+<a id="post-58"></a>
+
 ### 58. Do you rerun the entire ETL pipeline when one step fails, or just the failed part?
 
-2026-10-18 · u/Bhanuprakash_1947 · score 9 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x93q6s/do_you_rerun_the_entire_etl_pipeline_when_one/)
+2026-10-18 · u/Bhanuprakash_1947 · score 9 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x93q6s/do_you_rerun_the_entire_etl_pipeline_when_one/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
 > I am m curious how different teams handle this, especially when a pipeline has multiple transformation steps and some of them have already completed. How do you avoid duplicate records or inconsistent data when rerunning..
 
+<a id="post-59"></a>
+
 ### 59. How do you handle deletes when a source only provides snapshots?
 
-2026-10-12 · u/BullfrogFinal3566 · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3umlj/how_do_you_handle_deletes_when_a_source_only/)
+2026-10-12 · u/BullfrogFinal3566 · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3umlj/how_do_you_handle_deletes_when_a_source_only/) · [↑ back to the list](#last-50-posts)
 
 > I've been thinking about a problem with sources that only provide periodic snapshots instead of CDC or a reliable `updated_at` field.
 >
@@ -1051,9 +1169,11 @@ Link: <https://github.com/det-Labs/det>
 >
 > what has worked well for people running these pipelines in production??
 
+<a id="post-60"></a>
+
 ### 60. I built an NHANES Data Engineering Pipeline as a beginner — feedback appreciated!
 
-2026-10-11 · u/beingspector · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3754p/i_built_an_nhanes_data_engineering_pipeline_as_a/)
+2026-10-11 · u/beingspector · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1x3754p/i_built_an_nhanes_data_engineering_pipeline_as_a/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! 👋
 >
@@ -1081,9 +1201,11 @@ Link: <https://github.com/det-Labs/det>
 >
 > I'm open to constructive criticism. Thanks! 🙌
 
+<a id="post-61"></a>
+
 ### 61. Your data pipeline can be running successfully while quietly producing wrong data.
 
-2026-10-23 · u/djgoel123 · score 7 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xdbzfj/your_data_pipeline_can_be_running_successfully/)
+2026-10-23 · u/djgoel123 · score 7 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/ETL/comments/1xdbzfj/your_data_pipeline_can_be_running_successfully/) · [↑ back to the list](#last-50-posts)
 
 > A pipeline finishes on schedule.
 >

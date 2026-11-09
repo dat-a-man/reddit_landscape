@@ -27,56 +27,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-10-25 | [Honestly, how often do you regret choosing Neo4j over Postgres CTEs?](https://www.reddit.com/r/Neo4j/comments/1xf0y54/honestly_how_often_do_you_regret_choosing_neo4j/) | u/mvj2828 | — | text | 8 | 12 | live | — |
-| 2 | 2026-10-22 | [Mapping EF Core entities to Neo4j nodes and relationships (open source, I'm the author)](https://www.reddit.com/r/Neo4j/comments/1xcg31d/mapping_ef_core_entities_to_neo4j_nodes_and/) | u/joslatzrh | — | text | 3 | 1 | live | — |
-| 3 | 2026-10-19 | [Techniques to build semantically graph](https://www.reddit.com/r/Neo4j/comments/1x9iuy4/techniques_to_build_semantically_graph/) | u/Historical_Ad4384 | — | text | 2 | 1 | live | — |
-| 4 | 2026-10-04 | [RocksGraph: an open-source graph database in C++ with Cypher and RocksDB](https://www.reddit.com/r/Neo4j/comments/1wxebmi/rocksgraph_an_opensource_graph_database_in_c_with/) | u/Middle-Sky171 | — | text | 3 | 2 | live | — |
-| 5 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](https://www.reddit.com/r/Neo4j/comments/1wxdk83/we_just_released_gqldb_an_htap_graph_database/) | u/\[deleted\] | — | — | 0 | 0 | deleted by author | — |
-| 6 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](https://www.reddit.com/r/Neo4j/comments/1wxdjwf/we_just_released_gqldb_an_htap_graph_database/) | u/artika4biz | — | — | 0 | 0 | spam-filtered | — |
-| 7 | 2026-09-23 | [Agentic RAG: Graph vs. Vector](https://www.reddit.com/r/Neo4j/comments/1wofh9j/agentic_rag_graph_vs_vector/) | u/aiprod | — | — | 1 | 0 | live | — |
-| 8 | 2026-09-23 | [Self managed cost](https://www.reddit.com/r/Neo4j/comments/1wo3dh1/self_managed_cost/) | u/rahoo_reddit | — | text | 2 | 1 | live | — |
-| 9 | 2026-09-16 | [How do you use graph databases today? We're running a survey and will publish all the results](https://www.reddit.com/r/Neo4j/comments/1whk9by/how_do_you_use_graph_databases_today_were_running/) | u/lomakin_andrey | — | — | 3 | 0 | live | — |
-| 10 | 2026-09-15 | [Workshop, Sep 19: build explainable AI apps with Neo4j, GraphRAG, Cypher and LLM Agents](https://www.reddit.com/r/Neo4j/comments/1whc1uv/workshop_sep_19_build_explainable_ai_apps_with/) | u/camerongreen95 | — | text | 2 | 0 | live | — |
-| 11 | 2026-08-17 | [Neo4j community limitation while using in Production. Are there any statistics available like home many max n…](https://www.reddit.com/r/Neo4j/comments/1vqmr8w/neo4j_community_limitation_while_using_in/) | u/manishshakya007 | — | text | 2 | 4 | live | — |
-| 12 | 2026-08-13 | [Is Neo4j suitable for my project?](https://www.reddit.com/r/Neo4j/comments/1vnhw4q/is_neo4j_suitable_for_my_project/) | u/Nice-Rest-8267 | — | text | 2 | 19 | live | — |
-| 13 | 2026-08-12 | [Neo4j Database Platform Admin – Referral Opportunity \| US / Ireland](https://www.reddit.com/r/Neo4j/comments/1vmpnfb/neo4j_database_platform_admin_referral/) | u/No-Candy-2185 | — | text | 2 | 0 | live | — |
-| 14 | 2026-08-10 | [Neo4j vs Postgres w\ Apache AGE](https://www.reddit.com/r/Neo4j/comments/1vkoiy5/neo4j_vs_postgres_w_apache_age/) | u/stixmike | — | text | 0 | 2 | live | — |
-| 15 | 2026-08-10 | [Big data graph multi level visualization tool](https://www.reddit.com/r/Neo4j/comments/1vklsyb/big_data_graph_multi_level_visualization_tool/) | u/Alone_Cauliflower308 | — | text | 2 | 2 | live | — |
-| 16 | 2026-08-07 | [I open-sourced a 3-layer ER middleware to stop LangChain from polluting Neo4j with duplicate nodes.](https://www.reddit.com/r/Neo4j/comments/1vi02uy/i_opensourced_a_3layer_er_middleware_to_stop/) | u/Sorry-Substance8283 | — | text | 6 | 0 | spam-filtered | — |
-| 17 | 2026-08-04 | [Showing a photo of a parrot, ask someone "Who is this?"](https://www.reddit.com/r/Neo4j/comments/1vfhx2j/showing_a_photo_of_a_parrot_ask_someone_who_is/) | u/CeleryPotential1856 | — | text | 0 | 4 | live | — |
-| 18 | 2026-07-26 | [Modelling security controls, risks and incidents as a Neo4j knowledge graph — does this schema make sense?](https://www.reddit.com/r/Neo4j/comments/1v6vliz/modelling_security_controls_risks_and_incidents/) | u/GroundbreakingFun336 | — | youtu.be | 0 | 0 | live | — |
-| 19 | 2026-07-26 | [As primary database?](https://www.reddit.com/r/Neo4j/comments/1v6rxzw/as_primary_database/) | u/j7n5 | — | text | 5 | 20 | live | — |
-| 20 | 2026-07-20 | [Built a Laravel integration for the official Neo4j MCP server (Neo4j Laravel Boost)](https://www.reddit.com/r/Neo4j/comments/1v1dmka/built_a_laravel_integration_for_the_official/) | u/Zoinkfwip | — | — | 1 | 0 | live | — |
-| 21 | 2026-07-17 | [Backend architecture for FastAPI + Neo4j — does this structure make sense?](https://www.reddit.com/r/Neo4j/comments/1uz1bw4/backend_architecture_for_fastapi_neo4j_does_this/) | u/Ok_Respect_3503 | — | — | 1 | 1 | live | — |
-| 22 | 2026-07-14 | [ArcadeDB certified Bolt compatibility against all 5 official Neo4j drivers (39 scenarios, 14 pinned versions,…](https://www.reddit.com/r/Neo4j/comments/1uwa6kj/arcadedb_certified_bolt_compatibility_against_all/) | u/lgarulli | — | i.redd.it | 6 | 5 | live | — |
-| 23 | 2026-06-19 | [What graph database technologies do banks actually use?](https://www.reddit.com/r/Neo4j/comments/1u9xrwa/what_graph_database_technologies_do_banks/) | u/Worth-Winner2609 | — | — | 1 | 0 | live | — |
-| 24 | 2026-06-17 | [What’s an adequate infrastructure for my case?](https://www.reddit.com/r/Neo4j/comments/1u8ng89/whats_an_adequate_infrastructure_for_my_case/) | u/mateus_evangelista | — | text | 2 | 3 | live | — |
-| 25 | 2026-06-16 | [SQL Dev Tries Graph Database for the First Time 🤯 \| Neo4j \| Graph RAG](https://www.reddit.com/r/Neo4j/comments/1u73u56/sql_dev_tries_graph_database_for_the_first_time/) | u/ostwal | — | youtube.com | 0 | 1 | live | — |
-| 26 | 2026-06-11 | [One API across nine KG backends, where does Neo4j fit alongside RDF / NetworkX / embedded?](https://www.reddit.com/r/Neo4j/comments/1u3cj4o/one_api_across_nine_kg_backends_where_does_neo4j/) | u/coldoven | — | text | 1 | 0 | deleted by author | — |
-| 27 | 2026-06-10 | [A pre-execution gate for LLM-generated Cypher queries](https://www.reddit.com/r/Neo4j/comments/1u23dmw/a_preexecution_gate_for_llmgenerated_cypher/) | u/softmatsg | — | text | 0 | 0 | live | — |
-| 28 | 2026-06-07 | [Wiki4j](https://www.reddit.com/r/Neo4j/comments/1tzanfr/wiki4j/) | u/DistributionSoggy678 | — | text | 4 | 0 | live | — |
-| 29 | 2026-06-05 | [Neogit: filesystem snapshots stored in Neo4j as a queryable graph](https://www.reddit.com/r/Neo4j/comments/1txchon/neogit_filesystem_snapshots_stored_in_neo4j_as_a/) | u/wenz3l | — | i.redd.it | 9 | 0 | live | — |
-| 30 | 2026-06-04 | [I built an open-source Neo4j memory layer for Claude Code so project knowledge survives across sessions](https://www.reddit.com/r/Neo4j/comments/1twh7nb/i_built_an_opensource_neo4j_memory_layer_for/) | u/MatchMajor3334 | — | text | 1 | 0 | spam-filtered | — |
-| 31 | 2026-05-30 | [Using a Neo4j requirements ontology as the retrieval layer for AI coding agents (GraphRAG on a codebase's spe…](https://www.reddit.com/r/Neo4j/comments/1ts0xm7/using_a_neo4j_requirements_ontology_as_the/) | u/Key_Temperature_5309 | — | text | 1 | 0 | spam-filtered | — |
-| 32 | 2026-05-29 | [Using an agent to go from unstructured pharmaceutical documents to a knowledge graph (with the right harness)](https://www.reddit.com/r/Neo4j/comments/1tr0i33/using_an_agent_to_go_from_unstructured/) | u/aiprod | — | i.redd.it | 17 | 2 | live | — |
-| 33 | 2026-05-25 | [I’m working on a project idea around multi-database graph reasoning.](https://www.reddit.com/r/Neo4j/comments/1tnkbto/im_working_on_a_project_idea_around_multidatabase/) | u/Far_Pangolin_7657 | — | text | 1 | 1 | live | — |
-| 34 | 2026-05-18 | [Creating a classical music works based Neo4j graph database](https://www.reddit.com/r/Neo4j/comments/1tgw6f8/creating_a_classical_music_works_based_neo4j/) | u/JBI1971 | — | — | 2 | 0 | live | — |
-| 35 | 2026-05-07 | [Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-…](https://www.reddit.com/r/Neo4j/comments/1t64qb4/introducing_create_context_graph_ai_agents_with/) | u/lyonwj | — | medium.com | 2 | 2 | live | — |
-| 36 | 2026-05-01 | [Schema-Based Knowledge Graph based on Databricks](https://www.reddit.com/r/Neo4j/comments/1t14k0c/schemabased_knowledge_graph_based_on_databricks/) | u/notikosaeder | — | text | 1 | 0 | deleted by author | — |
-| 37 | 2026-04-26 | [FANTASIA 1.0 for UE 5.6 is out — open-source plugin for conversational characters with local Whisper, Neo4j,…](https://www.reddit.com/r/Neo4j/comments/1swgyj9/fantasia_10_for_ue_56_is_out_opensource_plugin/) | u/OutsideMatter8744 | — | — | 0 | 0 | live | — |
-| 38 | 2026-04-24 | [Why I'm building agent memory on a private Neo4j per user — a quick tour of ClawVault's architecture](https://www.reddit.com/r/Neo4j/comments/1sus6dk/why_im_building_agent_memory_on_a_private_neo4j/) | u/clawvault | — | — | 0 | 0 | live | — |
-| 39 | 2026-04-20 | [Experimenting with RL to autonomously prune Neo4j graphs (stopping RAG decay). Need advice on local LLM judge…](https://www.reddit.com/r/Neo4j/comments/1sqjed4/experimenting_with_rl_to_autonomously_prune_neo4j/) | u/Worried-Ad-7351 | — | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-04-15 | [chunking advices](https://www.reddit.com/r/Neo4j/comments/1smbwvh/chunking_advices/) | u/Signal_City940 | — | text | 1 | 2 | live | — |
-| 41 | 2026-04-12 | [Scaling text-to-SQL agent](https://www.reddit.com/r/Neo4j/comments/1sjsgpo/scaling_texttosql_agent/) | u/CriticalJackfruit404 | — | text | 3 | 2 | live | — |
-| 42 | 2026-04-12 | [Seeking Advice & References for Financial Knowledge Graph Ontology (GraphRAG on SEC 10-K/10-Q)](https://www.reddit.com/r/Neo4j/comments/1sji4cd/seeking_advice_references_for_financial_knowledge/) | u/ArgonTagar | — | — | 1 | 0 | live | — |
-| 43 | 2026-04-12 | [I built an MCP server that gives Claude Code permanent memory across sessions — Neo4j-native, accumulates ove…](https://www.reddit.com/r/Neo4j/comments/1sj87kc/i_built_an_mcp_server_that_gives_claude_code/) | u/MatchMajor3334 | — | text | 1 | 0 | spam-filtered | — |
-| 44 | 2026-04-10 | [Built a sentence graph based memory layer for AI agents on top of Neo4j - here's the problem it solves, ditch…](https://www.reddit.com/r/Neo4j/comments/1shejrf/built_a_sentence_graph_based_memory_layer_for_ai/) | u/Expert-Address-2918 | — | text | 1 | 4 | live | — |
-| 45 | 2026-04-08 | [Neo4j at the heart of a Federal Big Pharma Knowledge Graph Lawsuit](https://www.reddit.com/r/Neo4j/comments/1sg13bx/neo4j_at_the_heart_of_a_federal_big_pharma/) | u/PuppetNewsNetwork | — | text | 0 | 3 | live | — |
-| 46 | 2026-04-08 | [I built a iOS/Android app to connect to your Neo4j databases on the go](https://www.reddit.com/r/Neo4j/comments/1sflfp9/i_built_a_iosandroid_app_to_connect_to_your_neo4j/) | u/BrightPrompt1513 | — | pocketgraph.app | 0 | 0 | live | — |
-| 47 | 2026-04-07 | [Beyond Vector Search: Why Knowledge Graphs Are the Missing Link in Enterprise RAG](https://www.reddit.com/r/Neo4j/comments/1sf5ixl/beyond_vector_search_why_knowledge_graphs_are_the/) | u/Admirable_Grade4027 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 48 | 2026-04-06 | [How to create an incrementally expanding / updating knowledge graph.](https://www.reddit.com/r/Neo4j/comments/1sdnvhy/how_to_create_an_incrementally_expanding_updating/) | u/unmanageable_ | — | text | 2 | 1 | live | — |
-| 49 | 2026-04-05 | [NornicDB – 2.2x faster than Neo4j for formal automata learning](https://www.reddit.com/r/Neo4j/comments/1scv66q/nornicdb_22x_faster_than_neo4j_for_formal/) | u/Dense_Gate_5193 | — | — | 0 | 0 | live | — |
-| 50 | 2026-04-04 | [Built a graph QA project with Cypher-style querying and explainable answers](https://www.reddit.com/r/Neo4j/comments/1sce7vy/built_a_graph_qa_project_with_cypherstyle/) | u/big_haptun777 | — | text | 3 | 1 | live | — |
+| 1 | 2026-10-25 | [Honestly, how often do you regret choosing Neo4j over Postgres CTEs?](#post-1) | u/mvj2828 | — | text | 8 | 12 | live | — |
+| 2 | 2026-10-22 | [Mapping EF Core entities to Neo4j nodes and relationships (open source, I'm the author)](#post-2) | u/joslatzrh | — | text | 3 | 1 | live | — |
+| 3 | 2026-10-19 | [Techniques to build semantically graph](#post-3) | u/Historical_Ad4384 | — | text | 2 | 1 | live | — |
+| 4 | 2026-10-04 | [RocksGraph: an open-source graph database in C++ with Cypher and RocksDB](#post-4) | u/Middle-Sky171 | — | text | 3 | 2 | live | — |
+| 5 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](#post-5) | u/\[deleted\] | — | — | 0 | 0 | deleted by author | — |
+| 6 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](#post-6) | u/artika4biz | — | — | 0 | 0 | spam-filtered | — |
+| 7 | 2026-09-23 | [Agentic RAG: Graph vs. Vector](#post-7) | u/aiprod | — | — | 1 | 0 | live | — |
+| 8 | 2026-09-23 | [Self managed cost](#post-8) | u/rahoo_reddit | — | text | 2 | 1 | live | — |
+| 9 | 2026-09-16 | [How do you use graph databases today? We're running a survey and will publish all the results](#post-9) | u/lomakin_andrey | — | — | 3 | 0 | live | — |
+| 10 | 2026-09-15 | [Workshop, Sep 19: build explainable AI apps with Neo4j, GraphRAG, Cypher and LLM Agents](#post-10) | u/camerongreen95 | — | text | 2 | 0 | live | — |
+| 11 | 2026-08-17 | [Neo4j community limitation while using in Production. Are there any statistics available like home many max n…](#post-11) | u/manishshakya007 | — | text | 2 | 4 | live | — |
+| 12 | 2026-08-13 | [Is Neo4j suitable for my project?](#post-12) | u/Nice-Rest-8267 | — | text | 2 | 19 | live | — |
+| 13 | 2026-08-12 | [Neo4j Database Platform Admin – Referral Opportunity \| US / Ireland](#post-13) | u/No-Candy-2185 | — | text | 2 | 0 | live | — |
+| 14 | 2026-08-10 | [Neo4j vs Postgres w\ Apache AGE](#post-14) | u/stixmike | — | text | 0 | 2 | live | — |
+| 15 | 2026-08-10 | [Big data graph multi level visualization tool](#post-15) | u/Alone_Cauliflower308 | — | text | 2 | 2 | live | — |
+| 16 | 2026-08-07 | [I open-sourced a 3-layer ER middleware to stop LangChain from polluting Neo4j with duplicate nodes.](#post-16) | u/Sorry-Substance8283 | — | text | 6 | 0 | spam-filtered | — |
+| 17 | 2026-08-04 | [Showing a photo of a parrot, ask someone "Who is this?"](#post-17) | u/CeleryPotential1856 | — | text | 0 | 4 | live | — |
+| 18 | 2026-07-26 | [Modelling security controls, risks and incidents as a Neo4j knowledge graph — does this schema make sense?](#post-18) | u/GroundbreakingFun336 | — | youtu.be | 0 | 0 | live | — |
+| 19 | 2026-07-26 | [As primary database?](#post-19) | u/j7n5 | — | text | 5 | 20 | live | — |
+| 20 | 2026-07-20 | [Built a Laravel integration for the official Neo4j MCP server (Neo4j Laravel Boost)](#post-20) | u/Zoinkfwip | — | — | 1 | 0 | live | — |
+| 21 | 2026-07-17 | [Backend architecture for FastAPI + Neo4j — does this structure make sense?](#post-21) | u/Ok_Respect_3503 | — | — | 1 | 1 | live | — |
+| 22 | 2026-07-14 | [ArcadeDB certified Bolt compatibility against all 5 official Neo4j drivers (39 scenarios, 14 pinned versions,…](#post-22) | u/lgarulli | — | i.redd.it | 6 | 5 | live | — |
+| 23 | 2026-06-19 | [What graph database technologies do banks actually use?](#post-23) | u/Worth-Winner2609 | — | — | 1 | 0 | live | — |
+| 24 | 2026-06-17 | [What’s an adequate infrastructure for my case?](#post-24) | u/mateus_evangelista | — | text | 2 | 3 | live | — |
+| 25 | 2026-06-16 | [SQL Dev Tries Graph Database for the First Time 🤯 \| Neo4j \| Graph RAG](#post-25) | u/ostwal | — | youtube.com | 0 | 1 | live | — |
+| 26 | 2026-06-11 | [One API across nine KG backends, where does Neo4j fit alongside RDF / NetworkX / embedded?](#post-26) | u/coldoven | — | text | 1 | 0 | deleted by author | — |
+| 27 | 2026-06-10 | [A pre-execution gate for LLM-generated Cypher queries](#post-27) | u/softmatsg | — | text | 0 | 0 | live | — |
+| 28 | 2026-06-07 | [Wiki4j](#post-28) | u/DistributionSoggy678 | — | text | 4 | 0 | live | — |
+| 29 | 2026-06-05 | [Neogit: filesystem snapshots stored in Neo4j as a queryable graph](#post-29) | u/wenz3l | — | i.redd.it | 9 | 0 | live | — |
+| 30 | 2026-06-04 | [I built an open-source Neo4j memory layer for Claude Code so project knowledge survives across sessions](#post-30) | u/MatchMajor3334 | — | text | 1 | 0 | spam-filtered | — |
+| 31 | 2026-05-30 | [Using a Neo4j requirements ontology as the retrieval layer for AI coding agents (GraphRAG on a codebase's spe…](#post-31) | u/Key_Temperature_5309 | — | text | 1 | 0 | spam-filtered | — |
+| 32 | 2026-05-29 | [Using an agent to go from unstructured pharmaceutical documents to a knowledge graph (with the right harness)](#post-32) | u/aiprod | — | i.redd.it | 17 | 2 | live | — |
+| 33 | 2026-05-25 | [I’m working on a project idea around multi-database graph reasoning.](#post-33) | u/Far_Pangolin_7657 | — | text | 1 | 1 | live | — |
+| 34 | 2026-05-18 | [Creating a classical music works based Neo4j graph database](#post-34) | u/JBI1971 | — | — | 2 | 0 | live | — |
+| 35 | 2026-05-07 | [Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-…](#post-35) | u/lyonwj | — | medium.com | 2 | 2 | live | — |
+| 36 | 2026-05-01 | [Schema-Based Knowledge Graph based on Databricks](#post-36) | u/notikosaeder | — | text | 1 | 0 | deleted by author | — |
+| 37 | 2026-04-26 | [FANTASIA 1.0 for UE 5.6 is out — open-source plugin for conversational characters with local Whisper, Neo4j,…](#post-37) | u/OutsideMatter8744 | — | — | 0 | 0 | live | — |
+| 38 | 2026-04-24 | [Why I'm building agent memory on a private Neo4j per user — a quick tour of ClawVault's architecture](#post-38) | u/clawvault | — | — | 0 | 0 | live | — |
+| 39 | 2026-04-20 | [Experimenting with RL to autonomously prune Neo4j graphs (stopping RAG decay). Need advice on local LLM judge…](#post-39) | u/Worried-Ad-7351 | — | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-04-15 | [chunking advices](#post-40) | u/Signal_City940 | — | text | 1 | 2 | live | — |
+| 41 | 2026-04-12 | [Scaling text-to-SQL agent](#post-41) | u/CriticalJackfruit404 | — | text | 3 | 2 | live | — |
+| 42 | 2026-04-12 | [Seeking Advice & References for Financial Knowledge Graph Ontology (GraphRAG on SEC 10-K/10-Q)](#post-42) | u/ArgonTagar | — | — | 1 | 0 | live | — |
+| 43 | 2026-04-12 | [I built an MCP server that gives Claude Code permanent memory across sessions — Neo4j-native, accumulates ove…](#post-43) | u/MatchMajor3334 | — | text | 1 | 0 | spam-filtered | — |
+| 44 | 2026-04-10 | [Built a sentence graph based memory layer for AI agents on top of Neo4j - here's the problem it solves, ditch…](#post-44) | u/Expert-Address-2918 | — | text | 1 | 4 | live | — |
+| 45 | 2026-04-08 | [Neo4j at the heart of a Federal Big Pharma Knowledge Graph Lawsuit](#post-45) | u/PuppetNewsNetwork | — | text | 0 | 3 | live | — |
+| 46 | 2026-04-08 | [I built a iOS/Android app to connect to your Neo4j databases on the go](#post-46) | u/BrightPrompt1513 | — | pocketgraph.app | 0 | 0 | live | — |
+| 47 | 2026-04-07 | [Beyond Vector Search: Why Knowledge Graphs Are the Missing Link in Enterprise RAG](#post-47) | u/Admirable_Grade4027 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 48 | 2026-04-06 | [How to create an incrementally expanding / updating knowledge graph.](#post-48) | u/unmanageable_ | — | text | 2 | 1 | live | — |
+| 49 | 2026-04-05 | [NornicDB – 2.2x faster than Neo4j for formal automata learning](#post-49) | u/Dense_Gate_5193 | — | — | 0 | 0 | live | — |
+| 50 | 2026-04-04 | [Built a graph QA project with Cypher-style querying and explainable answers](#post-50) | u/big_haptun777 | — | text | 3 | 1 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -84,17 +84,19 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-10-25 | [Honestly, how often do you regret choosing Neo4j over Postgres CTEs?](https://www.reddit.com/r/Neo4j/comments/1xf0y54/honestly_how_often_do_you_regret_choosing_neo4j/) | u/mvj2828 | — | text | 8 | 12 | live |
-| 2 | 2026-10-22 | [Mapping EF Core entities to Neo4j nodes and relationships (open source, I'm the author)](https://www.reddit.com/r/Neo4j/comments/1xcg31d/mapping_ef_core_entities_to_neo4j_nodes_and/) | u/joslatzrh | — | text | 3 | 1 | live |
-| 3 | 2026-10-19 | [Techniques to build semantically graph](https://www.reddit.com/r/Neo4j/comments/1x9iuy4/techniques_to_build_semantically_graph/) | u/Historical_Ad4384 | — | text | 2 | 1 | live |
+| 1 | 2026-10-25 | [Honestly, how often do you regret choosing Neo4j over Postgres CTEs?](#post-1) | u/mvj2828 | — | text | 8 | 12 | live |
+| 2 | 2026-10-22 | [Mapping EF Core entities to Neo4j nodes and relationships (open source, I'm the author)](#post-2) | u/joslatzrh | — | text | 3 | 1 | live |
+| 3 | 2026-10-19 | [Techniques to build semantically graph](#post-3) | u/Historical_Ad4384 | — | text | 2 | 1 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Honestly, how often do you regret choosing Neo4j over Postgres CTEs?
 
-2026-10-25 · u/mvj2828 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1xf0y54/honestly_how_often_do_you_regret_choosing_neo4j/)
+2026-10-25 · u/mvj2828 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1xf0y54/honestly_how_often_do_you_regret_choosing_neo4j/) · [↑ back to the list](#last-50-posts)
 
 > Our team is currently designing a permission system and user relationship model (think 3 to 4 levels of organizational hierarchies and shared resource access).
 >
@@ -102,9 +104,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For those who picked Neo4j for a similar feature: did the maintenance overhead (syncing data with your primary DB, backups, monitoring) end up being worth the clean query syntax? Or did you end up wishing you had just stuck with relational?
 
+<a id="post-2"></a>
+
 ### 2. Mapping EF Core entities to Neo4j nodes and relationships (open source, I'm the author)
 
-2026-10-22 · u/joslatzrh · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1xcg31d/mapping_ef_core_entities_to_neo4j_nodes_and/)
+2026-10-22 · u/joslatzrh · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1xcg31d/mapping_ef_core_entities_to_neo4j_nodes_and/) · [↑ back to the list](#last-50-posts)
 
 > I've been building GraphBridge, an open-source EF Core provider for Neo4j. The hardest part was the mapping: making EF's model land as a graph you'd design by hand. I call it "Fluent Cypher" 
 >
@@ -146,9 +150,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'd value graph modellers' opinions on these mapping. What would you model differently?
 
+<a id="post-3"></a>
+
 ### 3. Techniques to build semantically graph
 
-2026-10-19 · u/Historical_Ad4384 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1x9iuy4/techniques_to_build_semantically_graph/)
+2026-10-19 · u/Historical_Ad4384 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1x9iuy4/techniques_to_build_semantically_graph/) · [↑ back to the list](#last-50-posts)
 
 > I'm looking to build semantic graph for my requirements.
 >
@@ -160,9 +166,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Any help or advice is appreciated.
 
+<a id="post-4"></a>
+
 ### 4. RocksGraph: an open-source graph database in C++ with Cypher and RocksDB
 
-2026-10-04 · u/Middle-Sky171 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxebmi/rocksgraph_an_opensource_graph_database_in_c_with/)
+2026-10-04 · u/Middle-Sky171 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxebmi/rocksgraph_an_opensource_graph_database_in_c_with/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!   I’m building \*\*RocksGraph\*\*, an open-source graph database backed by RocksDB.
 >
@@ -182,29 +190,37 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Licensed under Apache 2.0.
 
+<a id="post-5"></a>
+
 ### 5. We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM integration
 
-2026-10-04 · u/\[deleted\] · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxdk83/we_just_released_gqldb_an_htap_graph_database/)
+2026-10-04 · u/\[deleted\] · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxdk83/we_just_released_gqldb_an_htap_graph_database/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-6"></a>
+
 ### 6. We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM integration
 
-2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxdjwf/we_just_released_gqldb_an_htap_graph_database/)
+2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wxdjwf/we_just_released_gqldb_an_htap_graph_database/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/semanticweb/comments/1wxdjr0/we_just_released_gqldb_an_htap_graph_database/>
 
 
+<a id="post-7"></a>
+
 ### 7. Agentic RAG: Graph vs. Vector
 
-2026-09-23 · u/aiprod · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wofh9j/agentic_rag_graph_vs_vector/)
+2026-09-23 · u/aiprod · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wofh9j/agentic_rag_graph_vs_vector/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Rag/comments/1wofghh/agentic_rag_graph_vs_vector/>
 
 
+<a id="post-8"></a>
+
 ### 8. Self managed cost
 
-2026-09-23 · u/rahoo_reddit · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wo3dh1/self_managed_cost/)
+2026-09-23 · u/rahoo_reddit · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1wo3dh1/self_managed_cost/) · [↑ back to the list](#last-50-posts)
 
 > Hey, I am using neo4j's Aura (managed solution) and considering moving to self managed.
 >
@@ -212,16 +228,20 @@ Link: </r/Rag/comments/1wofghh/agentic_rag_graph_vs_vector/>
 >
 > Is anyone self hosting the enyerprise edition and can share from his expierience ?
 
+<a id="post-9"></a>
+
 ### 9. How do you use graph databases today? We're running a survey and will publish all the results
 
-2026-09-16 · u/lomakin_andrey · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1whk9by/how_do_you_use_graph_databases_today_were_running/)
+2026-09-16 · u/lomakin_andrey · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1whk9by/how_do_you_use_graph_databases_today_were_running/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_running/>
 
 
+<a id="post-10"></a>
+
 ### 10. Workshop, Sep 19: build explainable AI apps with Neo4j, GraphRAG, Cypher and LLM Agents
 
-2026-09-15 · u/camerongreen95 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1whc1uv/workshop_sep_19_build_explainable_ai_apps_with/)
+2026-09-15 · u/camerongreen95 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1whc1uv/workshop_sep_19_build_explainable_ai_apps_with/) · [↑ back to the list](#last-50-posts)
 
 > There's a hands-on workshop on September 19 for anyone working with Neo4j who wants to see it applied to a real GraphRAG use case, not just graph modeling in isolation.
 >
@@ -241,15 +261,19 @@ Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_
 >
 > Happy to answer questions on the Cypher/graph modeling side specifically.
 
+<a id="post-11"></a>
+
 ### 11. Neo4j community limitation while using in Production. Are there any statistics available like home many max nodes, neo4j community can support, post that need Enterprise
 
-2026-08-17 · u/manishshakya007 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vqmr8w/neo4j_community_limitation_while_using_in/)
+2026-08-17 · u/manishshakya007 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vqmr8w/neo4j_community_limitation_while_using_in/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-12"></a>
+
 ### 12. Is Neo4j suitable for my project?
 
-2026-08-13 · u/Nice-Rest-8267 · score 2 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vnhw4q/is_neo4j_suitable_for_my_project/)
+2026-08-13 · u/Nice-Rest-8267 · score 2 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vnhw4q/is_neo4j_suitable_for_my_project/) · [↑ back to the list](#last-50-posts)
 
 > I have this project. It's in the early stages, I'm designing it theoretically. The design works best when it's highly graph-like, with associations as the core. That's the ideal. But the total number of nodes won't exceed 20,000, at 10 KB in avg per node (roughly 200 MB total). That's really tiny, honestly.
 >
@@ -257,9 +281,11 @@ Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_
 >
 > The project will probably be used only by me, it won't be available to anyone else. It's a web app hosted locally on my laptop.
 
+<a id="post-13"></a>
+
 ### 13. Neo4j Database Platform Admin – Referral Opportunity \| US / Ireland
 
-2026-08-12 · u/No-Candy-2185 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vmpnfb/neo4j_database_platform_admin_referral/)
+2026-08-12 · u/No-Candy-2185 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vmpnfb/neo4j_database_platform_admin_referral/) · [↑ back to the list](#last-50-posts)
 
 > I have access to an employee referral opportunity for an experienced **Neo4j Database Platform Administrator**.
 >
@@ -276,15 +302,19 @@ Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_
 >
 > I'll review the profile and, where appropriate, help with the referral process.
 
+<a id="post-14"></a>
+
 ### 14. Neo4j vs Postgres w\ Apache AGE
 
-2026-08-10 · u/stixmike · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vkoiy5/neo4j_vs_postgres_w_apache_age/)
+2026-08-10 · u/stixmike · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vkoiy5/neo4j_vs_postgres_w_apache_age/) · [↑ back to the list](#last-50-posts)
 
 > So my team is creating an application that will analyze downstream impacts in IT infrastructure if applications and servers go down and also analyze deployment architecture relationships. We currently use neo4j but we may not be able to get funding for an enterprise license. The main alternative we are researching is Postgres with the Apache AGE. Is Apache AGE good enough for this type of use case?
 
+<a id="post-15"></a>
+
 ### 15. Big data graph multi level visualization tool
 
-2026-08-10 · u/Alone_Cauliflower308 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vklsyb/big_data_graph_multi_level_visualization_tool/)
+2026-08-10 · u/Alone_Cauliflower308 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vklsyb/big_data_graph_multi_level_visualization_tool/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I have a dataset of 20M nodes and about 500M edges in neo4j and I need to visualize them in an interactive way
 >
@@ -298,9 +328,11 @@ Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_
 >
 > Thank you all
 
+<a id="post-16"></a>
+
 ### 16. I open-sourced a 3-layer ER middleware to stop LangChain from polluting Neo4j with duplicate nodes.
 
-2026-08-07 · u/Sorry-Substance8283 · score 6 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vi02uy/i_opensourced_a_3layer_er_middleware_to_stop/)
+2026-08-07 · u/Sorry-Substance8283 · score 6 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vi02uy/i_opensourced_a_3layer_er_middleware_to_stop/) · [↑ back to the list](#last-50-posts)
 
 > Been working on a Neo4j knowledge graph using LangChain and kept running into the classic issue: the LLM extracts "Apple", "Apple Inc.", and "Apple Incorporated" as three completely separate nodes.
 >
@@ -317,15 +349,19 @@ Link: </r/youtrackdb/comments/1whk824/how_do_you_use_graph_databases_today_were_
 >
 > N.B.: The project is on a really early stage, i've been working on it for a week and published it on github just yesterday. You can find some "benchmarks" on GitHub too.
 
+<a id="post-17"></a>
+
 ### 17. Showing a photo of a parrot, ask someone "Who is this?"
 
-2026-08-04 · u/CeleryPotential1856 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vfhx2j/showing_a_photo_of_a_parrot_ask_someone_who_is/)
+2026-08-04 · u/CeleryPotential1856 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1vfhx2j/showing_a_photo_of_a_parrot_ask_someone_who_is/) · [↑ back to the list](#last-50-posts)
 
 > The answer that comes back almost every time is "a parrot." It's true, and it's still wrong: "who" asks for an individual, and "a parrot" names a class. "Jack" would have been right. So would "I don't know," since that means the question was understood, just not answerable from what's in front of you. I use this to install the instance/class distinction first: the trap only works because "who" expects an individual and gets a category back instead. Curious whether others use similarly trivial examples to install a distinction before it gets buried in schema or notation debates. What's your go-to?
 
+<a id="post-18"></a>
+
 ### 18. Modelling security controls, risks and incidents as a Neo4j knowledge graph — does this schema make sense?
 
-2026-07-26 · u/GroundbreakingFun336 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v6vliz/modelling_security_controls_risks_and_incidents/)
+2026-07-26 · u/GroundbreakingFun336 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v6vliz/modelling_security_controls_risks_and_incidents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/lrEy179tQgE>
 
@@ -372,9 +408,11 @@ Link: <https://youtu.be/lrEy179tQgE>
 >
 > I’d be particularly interested in feedback from anyone who has modelled expert knowledge or probabilistic relationships in Neo4j.
 
+<a id="post-19"></a>
+
 ### 19. As primary database?
 
-2026-07-26 · u/j7n5 · score 5 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v6rxzw/as_primary_database/)
+2026-07-26 · u/j7n5 · score 5 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v6rxzw/as_primary_database/) · [↑ back to the list](#last-50-posts)
 
 > I am building a Java application that will need an embedded database, vector store and has many connections. 
 >
@@ -391,23 +429,29 @@ Link: <https://youtu.be/lrEy179tQgE>
 >
 > Thanks in advance
 
+<a id="post-20"></a>
+
 ### 20. Built a Laravel integration for the official Neo4j MCP server (Neo4j Laravel Boost)
 
-2026-07-20 · u/Zoinkfwip · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v1dmka/built_a_laravel_integration_for_the_official/)
+2026-07-20 · u/Zoinkfwip · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1v1dmka/built_a_laravel_integration_for_the_official/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/mcp/comments/1v1djej/built_a_laravel_integration_for_the_official/>
 
 
+<a id="post-21"></a>
+
 ### 21. Backend architecture for FastAPI + Neo4j — does this structure make sense?
 
-2026-07-17 · u/Ok_Respect_3503 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1uz1bw4/backend_architecture_for_fastapi_neo4j_does_this/)
+2026-07-17 · u/Ok_Respect_3503 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1uz1bw4/backend_architecture_for_fastapi_neo4j_does_this/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/FastAPI/comments/1uz192r/backend_architecture_for_fastapi_neo4j_does_this/>
 
 
+<a id="post-22"></a>
+
 ### 22. ArcadeDB certified Bolt compatibility against all 5 official Neo4j drivers (39 scenarios, 14 pinned versions, nightly, published including failures)
 
-2026-07-14 · u/lgarulli · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1uwa6kj/arcadedb_certified_bolt_compatibility_against_all/)
+2026-07-14 · u/lgarulli · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1uwa6kj/arcadedb_certified_bolt_compatibility_against_all/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/68n5mohwf7dh1.jpeg>
 
@@ -429,24 +473,30 @@ Link: <https://i.redd.it/68n5mohwf7dh1.jpeg>
 >
 > (Disclosure: I'm the founder of ArcadeDB, ask me anything.)
 
+<a id="post-23"></a>
+
 ### 23. What graph database technologies do banks actually use?
 
-2026-06-19 · u/Worth-Winner2609 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u9xrwa/what_graph_database_technologies_do_banks/)
+2026-06-19 · u/Worth-Winner2609 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u9xrwa/what_graph_database_technologies_do_banks/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/graphql/comments/1u8i251/what_graph_database_technologies_do_banks/>
 
 
+<a id="post-24"></a>
+
 ### 24. What’s an adequate infrastructure for my case?
 
-2026-06-17 · u/mateus_evangelista · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u8ng89/whats_an_adequate_infrastructure_for_my_case/)
+2026-06-17 · u/mateus_evangelista · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u8ng89/whats_an_adequate_infrastructure_for_my_case/) · [↑ back to the list](#last-50-posts)
 
 > At this moment, my company’s database has 4 billion relationships and almost 2 billion nodes running on a 12-core cpu and 256GB of RAM. I’m not an infrastructure guy, but I think that’s inadequate since doing basic stuff (like counting nodes that have a relationship with another nodes on a different label) very often results in timeouts. 
 >
 > Has anyone faced a similar situation? Your answers are of great help.
 
+<a id="post-25"></a>
+
 ### 25. SQL Dev Tries Graph Database for the First Time 🤯 \| Neo4j \| Graph RAG
 
-2026-06-16 · u/ostwal · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u73u56/sql_dev_tries_graph_database_for_the_first_time/)
+2026-06-16 · u/ostwal · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u73u56/sql_dev_tries_graph_database_for_the_first_time/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=IK9AMrU7S3g>
 
@@ -471,18 +521,22 @@ Link: <https://www.youtube.com/watch?v=IK9AMrU7S3g>
 >
 > I actually recorded my entire side-by-side breakdown of Postgres vs Neo4j, running the exact same queries in both terminals to see how the syntax compares. If you're a SQL dev wanting to learn Graph, you can check out the full 18-minute breakdown in the above video.
 
+<a id="post-26"></a>
+
 ### 26. One API across nine KG backends, where does Neo4j fit alongside RDF / NetworkX / embedded?
 
-2026-06-11 · u/coldoven · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u3cj4o/one_api_across_nine_kg_backends_where_does_neo4j/)
+2026-06-11 · u/coldoven · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u3cj4o/one_api_across_nine_kg_backends_where_does_neo4j/) · [↑ back to the list](#last-50-posts)
 
 > Not trying to replace Neo4j, the opposite. I've been building a layer where you declare a graph traversal once and run it across families (Cypher/Neo4j, RDF/SPARQL, in-memory networkx and others), so you can prototype on networkx, run Neo4j in production, and keep the same code. Switching backend is a config change. 
 >
 >
 > Does that match how you move between a throwaway prototype graph and Neo4j in prod, or do you just commit to Cypher from day one and never look back?
 
+<a id="post-27"></a>
+
 ### 27. A pre-execution gate for LLM-generated Cypher queries
 
-2026-06-10 · u/softmatsg · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u23dmw/a_preexecution_gate_for_llmgenerated_cypher/)
+2026-06-10 · u/softmatsg · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1u23dmw/a_preexecution_gate_for_llmgenerated_cypher/) · [↑ back to the list](#last-50-posts)
 
 > If you run LLM agents against Neo4j, some fraction of the generated Cypher is structurally broken. It crashes at the database, wastes compute, and the error message that comes back is not designed for an agent to act on. CYGNET sits between the agent and the database and catches these failures before they execute. It validates the query against the graph schema and includes execution against a minimal mirror graph, all at a low latency. When a query fails, the gate returns a structured error with suggestions and enough context for an LLM corrector to fix it in a retry loop.
 >
@@ -492,15 +546,19 @@ Link: <https://www.youtube.com/watch?v=IK9AMrU7S3g>
 >
 > Code: [https://github.com/softmatsg/thulge-cygnet-rel](https://github.com/softmatsg/thulge-cygnet-rel)
 
+<a id="post-28"></a>
+
 ### 28. Wiki4j
 
-2026-06-07 · u/DistributionSoggy678 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tzanfr/wiki4j/)
+2026-06-07 · u/DistributionSoggy678 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tzanfr/wiki4j/) · [↑ back to the list](#last-50-posts)
 
 > Are there any existing code which can be used to set up a (structured) wiki based on Neo4J?
 
+<a id="post-29"></a>
+
 ### 29. Neogit: filesystem snapshots stored in Neo4j as a queryable graph
 
-2026-06-05 · u/wenz3l · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1txchon/neogit_filesystem_snapshots_stored_in_neo4j_as_a/)
+2026-06-05 · u/wenz3l · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1txchon/neogit_filesystem_snapshots_stored_in_neo4j_as_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/r943auk0fe5h1.gif>
 
@@ -528,21 +586,27 @@ Link: <https://i.redd.it/r943auk0fe5h1.gif>
 >
 > Contributions, feeback and ideas are welcome ! 👏
 
+<a id="post-30"></a>
+
 ### 30. I built an open-source Neo4j memory layer for Claude Code so project knowledge survives across sessions
 
-2026-06-04 · u/MatchMajor3334 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1twh7nb/i_built_an_opensource_neo4j_memory_layer_for/)
+2026-06-04 · u/MatchMajor3334 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1twh7nb/i_built_an_opensource_neo4j_memory_layer_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-31"></a>
 
 ### 31. Using a Neo4j requirements ontology as the retrieval layer for AI coding agents (GraphRAG on a codebase's spec)
 
-2026-05-30 · u/Key_Temperature_5309 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1ts0xm7/using_a_neo4j_requirements_ontology_as_the/)
+2026-05-30 · u/Key_Temperature_5309 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1ts0xm7/using_a_neo4j_requirements_ontology_as_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. Using an agent to go from unstructured pharmaceutical documents to a knowledge graph (with the right harness)
 
-2026-05-29 · u/aiprod · score 17 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tr0i33/using_an_agent_to_go_from_unstructured/)
+2026-05-29 · u/aiprod · score 17 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tr0i33/using_an_agent_to_go_from_unstructured/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/xmagb9kmm24h1.jpeg>
 
@@ -566,9 +630,11 @@ Link: <https://i.redd.it/xmagb9kmm24h1.jpeg>
 >
 > A full writeup is here: https://www.blueguardrails.com/en/blog/knowledge-graph-agent-steering
 
+<a id="post-33"></a>
+
 ### 33. I’m working on a project idea around multi-database graph reasoning.
 
-2026-05-25 · u/Far_Pangolin_7657 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tnkbto/im_working_on_a_project_idea_around_multidatabase/)
+2026-05-25 · u/Far_Pangolin_7657 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tnkbto/im_working_on_a_project_idea_around_multidatabase/) · [↑ back to the list](#last-50-posts)
 
 > I’m working on a project idea around multi-database graph reasoning.
 >
@@ -642,23 +708,29 @@ Link: <https://i.redd.it/xmagb9kmm24h1.jpeg>
 >
 > Would love feedback from people working with Neo4j, graph databases, Text2Cypher, GraphRAG, or enterprise data systems.
 
+<a id="post-34"></a>
+
 ### 34. Creating a classical music works based Neo4j graph database
 
-2026-05-18 · u/JBI1971 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tgw6f8/creating_a_classical_music_works_based_neo4j/)
+2026-05-18 · u/JBI1971 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1tgw6f8/creating_a_classical_music_works_based_neo4j/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/classicalmusic/comments/1tgw260/creating_a_classical_music_works_based_neo4j/>
 
 
+<a id="post-35"></a>
+
 ### 35. Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-graph
 
-2026-05-07 · u/lyonwj · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1t64qb4/introducing_create_context_graph_ai_agents_with/)
+2026-05-07 · u/lyonwj · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1t64qb4/introducing_create_context_graph_ai_agents_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/neo4j/introducing-create-context-graph-e6d40e2d55c7>
 
 
+<a id="post-36"></a>
+
 ### 36. Schema-Based Knowledge Graph based on Databricks
 
-2026-05-01 · u/notikosaeder · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1t14k0c/schemabased_knowledge_graph_based_on_databricks/)
+2026-05-01 · u/notikosaeder · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1t14k0c/schemabased_knowledge_graph_based_on_databricks/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -682,35 +754,45 @@ Link: <https://medium.com/neo4j/introducing-create-context-graph-e6d40e2d55c7>
 >
 > https://preview.redd.it/avxvvuad1lyg1.png?width=3024&format=png&auto=webp&s=9b4865c03e07421f351d9fae18f96327d85b9e5e
 
+<a id="post-37"></a>
+
 ### 37. FANTASIA 1.0 for UE 5.6 is out — open-source plugin for conversational characters with local Whisper, Neo4j, LangGraph (Blueprint-only, free)
 
-2026-04-26 · u/OutsideMatter8744 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1swgyj9/fantasia_10_for_ue_56_is_out_opensource_plugin/)
+2026-04-26 · u/OutsideMatter8744 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1swgyj9/fantasia_10_for_ue_56_is_out_opensource_plugin/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/UnrealEngine5/comments/1swgxvd/fantasia_10_for_ue_56_is_out_opensource_plugin/>
 
 
+<a id="post-38"></a>
+
 ### 38. Why I'm building agent memory on a private Neo4j per user — a quick tour of ClawVault's architecture
 
-2026-04-24 · u/clawvault · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sus6dk/why_im_building_agent_memory_on_a_private_neo4j/)
+2026-04-24 · u/clawvault · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sus6dk/why_im_building_agent_memory_on_a_private_neo4j/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/u_clawvault/comments/1suoti5/why_im_building_agent_memory_on_a_private_neo4j/>
 
 
+<a id="post-39"></a>
+
 ### 39. Experimenting with RL to autonomously prune Neo4j graphs (stopping RAG decay). Need advice on local LLM judges (currently using Gemma) and embeddings.
 
-2026-04-20 · u/Worried-Ad-7351 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sqjed4/experimenting_with_rl_to_autonomously_prune_neo4j/)
+2026-04-20 · u/Worried-Ad-7351 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sqjed4/experimenting_with_rl_to_autonomously_prune_neo4j/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. chunking advices
 
-2026-04-15 · u/Signal_City940 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1smbwvh/chunking_advices/)
+2026-04-15 · u/Signal_City940 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1smbwvh/chunking_advices/) · [↑ back to the list](#last-50-posts)
 
 > i am working currently working on building a chatbot which answers must be deterministic as its in a legal context , i will be using graphrag so i will be building a graph database but im stuck in the chunking part because the quality of the whole system depends on the quality of chunks, i have thought of refining the boundries using the entropy jsd but still not satisfied with the results. any advices or recommendations ?
 
+<a id="post-41"></a>
+
 ### 41. Scaling text-to-SQL agent
 
-2026-04-12 · u/CriticalJackfruit404 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sjsgpo/scaling_texttosql_agent/)
+2026-04-12 · u/CriticalJackfruit404 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sjsgpo/scaling_texttosql_agent/) · [↑ back to the list](#last-50-posts)
 
 > Title: Anyone here scaled a text-to-SQL agent across lots of domains/metrics?
 >
@@ -746,22 +828,28 @@ Link: </r/u_clawvault/comments/1suoti5/why_im_building_agent_memory_on_a_private
 >
 > Thanks
 
+<a id="post-42"></a>
+
 ### 42. Seeking Advice & References for Financial Knowledge Graph Ontology (GraphRAG on SEC 10-K/10-Q)
 
-2026-04-12 · u/ArgonTagar · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sji4cd/seeking_advice_references_for_financial_knowledge/)
+2026-04-12 · u/ArgonTagar · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sji4cd/seeking_advice_references_for_financial_knowledge/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Rag/comments/1sji373/seeking_advice_references_for_financial_knowledge/>
 
 
+<a id="post-43"></a>
+
 ### 43. I built an MCP server that gives Claude Code permanent memory across sessions — Neo4j-native, accumulates over time
 
-2026-04-12 · u/MatchMajor3334 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sj87kc/i_built_an_mcp_server_that_gives_claude_code/)
+2026-04-12 · u/MatchMajor3334 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sj87kc/i_built_an_mcp_server_that_gives_claude_code/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. Built a sentence graph based memory layer for AI agents on top of Neo4j - here's the problem it solves, ditched knowledge graphs for this
 
-2026-04-10 · u/Expert-Address-2918 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1shejrf/built_a_sentence_graph_based_memory_layer_for_ai/)
+2026-04-10 · u/Expert-Address-2918 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1shejrf/built_a_sentence_graph_based_memory_layer_for_ai/) · [↑ back to the list](#last-50-posts)
 
 > Working on Vektori, an open source memory layer for long running AI agents. Just shipped Neo4j as a storage backend option(works really well :D).
 >
@@ -777,9 +865,11 @@ Link: </r/Rag/comments/1sji373/seeking_advice_references_for_financial_knowledge
 >
 > Happy to discuss the graph schema if anyone's interested.
 
+<a id="post-45"></a>
+
 ### 45. Neo4j at the heart of a Federal Big Pharma Knowledge Graph Lawsuit
 
-2026-04-08 · u/PuppetNewsNetwork · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sg13bx/neo4j_at_the_heart_of_a_federal_big_pharma/)
+2026-04-08 · u/PuppetNewsNetwork · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sg13bx/neo4j_at_the_heart_of_a_federal_big_pharma/) · [↑ back to the list](#last-50-posts)
 
 > So I posted this right after I submitted to federal court - [https://dusoma.com/born-v-abbvie-inc-25-cv-12737-4-8-26-update/](https://dusoma.com/born-v-abbvie-inc-25-cv-12737-4-8-26-update/)
 >
@@ -810,9 +900,11 @@ Link: </r/Rag/comments/1sji373/seeking_advice_references_for_financial_knowledge
 >
 > Ok, let's see if this gets dinged and pulled down....
 
+<a id="post-46"></a>
+
 ### 46. I built a iOS/Android app to connect to your Neo4j databases on the go
 
-2026-04-08 · u/BrightPrompt1513 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sflfp9/i_built_a_iosandroid_app_to_connect_to_your_neo4j/)
+2026-04-08 · u/BrightPrompt1513 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sflfp9/i_built_a_iosandroid_app_to_connect_to_your_neo4j/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://pocketgraph.app/>
 
@@ -835,17 +927,21 @@ Link: <https://pocketgraph.app/>
 >
 > I'd love to hear what you think, and I'm very open to feedback and feature requests. What would make a mobile Neo4j tool most useful for your workflow?
 
+<a id="post-47"></a>
+
 ### 47. Beyond Vector Search: Why Knowledge Graphs Are the Missing Link in Enterprise RAG
 
-2026-04-07 · u/Admirable_Grade4027 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sf5ixl/beyond_vector_search_why_knowledge_graphs_are_the/)
+2026-04-07 · u/Admirable_Grade4027 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sf5ixl/beyond_vector_search_why_knowledge_graphs_are_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/v6cxree4httg1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. How to create an incrementally expanding / updating knowledge graph.
 
-2026-04-06 · u/unmanageable_ · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sdnvhy/how_to_create_an_incrementally_expanding_updating/)
+2026-04-06 · u/unmanageable_ · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sdnvhy/how_to_create_an_incrementally_expanding_updating/) · [↑ back to the list](#last-50-posts)
 
 > I want to use LLM chat bots to create and maintain a personalised knowledge graph of a user to store organisational information such as daily schedules and plans.   
 >
@@ -861,16 +957,20 @@ Link: <https://i.redd.it/v6cxree4httg1.png>
 >
 > (P.S.) The main reason that I want to eventually store user information in a properly structured format is that the data will be used for certain non-language downstream processes like reminder setting. the LLM chat should ideally be seeking out responses from the user that complete the knowledge graph and optimise these downstream processes
 
+<a id="post-49"></a>
+
 ### 49. NornicDB – 2.2x faster than Neo4j for formal automata learning
 
-2026-04-05 · u/Dense_Gate_5193 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1scv66q/nornicdb_22x_faster_than_neo4j_for_formal/)
+2026-04-05 · u/Dense_Gate_5193 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1scv66q/nornicdb_22x_faster_than_neo4j_for_formal/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Rag/comments/1scv22o/nornicdb_22x_faster_than_neo4j_for_formal/>
 
 
+<a id="post-50"></a>
+
 ### 50. Built a graph QA project with Cypher-style querying and explainable answers
 
-2026-04-04 · u/big_haptun777 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sce7vy/built_a_graph_qa_project_with_cypherstyle/)
+2026-04-04 · u/big_haptun777 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Neo4j/comments/1sce7vy/built_a_graph_qa_project_with_cypherstyle/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working on a small project to learn graph databases more practically by building a document QA system on top of a knowledge graph.
 >

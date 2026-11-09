@@ -54,56 +54,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [I built ChronoRAG-G because finding relevant documents isn’t enough to answer temporal questions correctly](https://www.reddit.com/r/LLMDevs/comments/1xpzi25/i_built_chronoragg_because_finding_relevant/) | u/LowAd8593 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 2 | 2026-11-07 | [I built a deploy-failure agent with persistent memory. The hard part was getting it to ignore its memory.](https://www.reddit.com/r/LLMDevs/comments/1xpzaxp/i_built_a_deployfailure_agent_with_persistent/) | u/Independent_Sort1157 | Discussion | drive.google.com | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-07 | [Meet the AI Agent That Never Forgets: Building a Smarter Meeting Assistant with Hindsight](https://www.reddit.com/r/LLMDevs/comments/1xpzabd/meet_the_ai_agent_that_never_forgets_building_a/) | u/HELLNAHH-5126 | Discussion | text | 1 | 0 | live | — |
-| 4 | 2026-11-07 | [I built a meeting prep agent that remembers every broken promise and open question across past meetings](https://www.reddit.com/r/LLMDevs/comments/1xpyxfj/i_built_a_meeting_prep_agent_that_remembers_every/) | u/Even-Psychology2539 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-11-07 | [Your AI Forgets Everything. I Gave Mine a Memory That Actually Works.](https://www.reddit.com/r/LLMDevs/comments/1xpyqrq/your_ai_forgets_everything_i_gave_mine_a_memory/) | u/UmeshGupta2008 | Discussion | text | 0 | 3 | live | — |
-| 6 | 2026-11-07 | [Building OpenSite: An AI-Powered Web Engine with Persistent Context — Architecture & Live Demo](https://www.reddit.com/r/LLMDevs/comments/1xpy8uj/building_opensite_an_aipowered_web_engine_with/) | u/Mallikarjunr_444 | News | text | 1 | 0 | approved | — |
-| 7 | 2026-11-07 | [Your Meeting Notes Have Amnesia. I Built Meet & Prep to Fix That](https://www.reddit.com/r/LLMDevs/comments/1xpx3jn/your_meeting_notes_have_amnesia_i_built_meet_prep/) | u/thedaddy73 | Tools | text | 0 | 0 | spam-filtered | — |
-| 8 | 2026-11-07 | [We built a lending agent that remembers defaults. My memory layer silently failed first.](https://www.reddit.com/r/LLMDevs/comments/1xpvuab/we_built_a_lending_agent_that_remembers_defaults/) | u/Background_Two_8837 | News | text | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-07 | [End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, S…](https://www.reddit.com/r/LLMDevs/comments/1xpvdz0/endtoend_desktop_quantization_workspace_for_large/) | u/Zipidyzip | Tools | v.redd.it | 3 | 0 | live | — |
-| 10 | 2026-11-07 | [Why my incident response agent stores what failed, not just what worked (Hindsight)](https://www.reddit.com/r/LLMDevs/comments/1xpu7qt/why_my_incident_response_agent_stores_what_failed/) | u/noufal_rizwan | Discussion | text | 1 | 1 | content_takedown | — |
-| 11 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](https://www.reddit.com/r/LLMDevs/comments/1xptipe/same_agent_same_prompt_two_briefs_what_hindsight/) | u/Whole-Village-6194 | Resource | dev.to | 1 | 0 | approved | — |
-| 12 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](https://www.reddit.com/r/LLMDevs/comments/1xpth05/same_agent_same_prompt_two_briefs_what_hindsight/) | u/Whole-Village-6194 | Resource | dev.to | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-06 | [Prompt Engineering as a Software Engineering Discipline: The Technical Case for Agentic AI v6.0](https://www.reddit.com/r/LLMDevs/comments/1xps0rc/prompt_engineering_as_a_software_engineering/) | u/Ok_pettech | Resource | interconnectd.com | 1 | 0 | spam-filtered | — |
-| 14 | 2026-11-06 | [I measured my LLM requests by part. The system prompt + tool schemas were 98–99% of every call.](https://www.reddit.com/r/LLMDevs/comments/1xpmyla/i_measured_my_llm_requests_by_part_the_system/) | u/behrouzbk | Tools | text | 1 | 15 | live | — |
-| 15 | 2026-11-06 | [the full precision model is the risky pick on a 16 gb laptop](https://www.reddit.com/r/LLMDevs/comments/1xpmslv/the_full_precision_model_is_the_risky_pick_on_a/) | u/Nir777 | Resource | youtube.com | 0 | 0 | live | — |
-| 16 | 2026-11-06 | [counting tokens from coding agent transcripts is easy to get wrong. what I hit building a self-hosted usage d…](https://www.reddit.com/r/LLMDevs/comments/1xplwm7/counting_tokens_from_coding_agent_transcripts_is/) | u/Nitjsefnie | Tools | text | 1 | 1 | live | — |
-| 17 | 2026-11-06 | [First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, trainin…](https://www.reddit.com/r/LLMDevs/comments/1xpl15n/first_paper_on_how_to_train_actual_sota_decision/) | u/m4rkGS | Great Resource 🚀 | i.redd.it | 54 | 2 | live | — |
-| 18 | 2026-11-06 | [BoopFace: an MIT-licensed SVG robot avatar Web Component for AI bots](https://www.reddit.com/r/LLMDevs/comments/1xpk9l2/boopface_an_mitlicensed_svg_robot_avatar_web/) | u/Additional-Ad5527 | Tools | v.redd.it | 4 | 6 | live | — |
-| 19 | 2026-11-06 | [I Built RecallDesk: A Customer Support Agent with Persistent Memory](https://www.reddit.com/r/LLMDevs/comments/1xpk7dx/i_built_recalldesk_a_customer_support_agent_with/) | u/geethacharan | Discussion | text | 1 | 1 | live | — |
-| 20 | 2026-11-06 | [Are we optimizing the wrong metric for LLM costs? Cost per token vs. cost per completed task](https://www.reddit.com/r/LLMDevs/comments/1xpjz6h/are_we_optimizing_the_wrong_metric_for_llm_costs/) | u/masterKova | Discussion | text | 0 | 0 | spam-filtered | — |
-| 21 | 2026-11-06 | [I Built RecallDesk: A Customer Support Agent with Persistent Memory](https://www.reddit.com/r/LLMDevs/comments/1xpjdqv/i_built_recalldesk_a_customer_support_agent_with/) | u/lakshmisrivalli | Discussion | text | 0 | 1 | spam-filtered | — |
-| 22 | 2026-11-06 | [I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.](https://www.reddit.com/r/LLMDevs/comments/1xpj7do/i_replaced_vectorsearch_rag_with_markdown/) | u/Shivam__kumar | Discussion | text | 55 | 19 | live | — |
-| 23 | 2026-11-06 | [Local DeepSeek V4.1 Flash behind an Anthropic-compatible endpoint: FLE Link + FLE engine, with a status endpo…](https://www.reddit.com/r/LLMDevs/comments/1xpj0fv/local_deepseek_v41_flash_behind_an/) | u/Ryyn_- | Tools | text | 2 | 2 | live | — |
-| 24 | 2026-11-06 | [A notch display for coding agents: live status, approvals (click or head nod) and limits for Claude Code, Cod…](https://www.reddit.com/r/LLMDevs/comments/1xphnln/a_notch_display_for_coding_agents_live_status/) | u/Nkgsporty | Great Resource 🚀 | reddit.com | 6 | 0 | live | — |
-| 25 | 2026-11-06 | [I built an agent that remembers which incident fixes only bought three days](https://www.reddit.com/r/LLMDevs/comments/1xpgykd/i_built_an_agent_that_remembers_which_incident/) | u/DIVYASHREE4757 | Great Resource 🚀 | dev.to | 1 | 0 | spam-filtered | — |
-| 26 | 2026-11-06 | [We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq](https://www.reddit.com/r/LLMDevs/comments/1xpgifk/we_built_an_sre_copilot_that_actually_remembers/) | u/jayamala_gouda | Discussion | dev.to | 2 | 0 | approved | — |
-| 27 | 2026-11-06 | [I built an agent that remembers which incident fixes only bought three days (Hindsight memory + Groq)](https://www.reddit.com/r/LLMDevs/comments/1xpg3tf/i_built_an_agent_that_remembers_which_incident/) | u/DIVYASHREE4757 | Great Resource 🚀 | dev.to | 0 | 0 | spam-filtered | — |
-| 28 | 2026-11-06 | [What is a popular benchmark to test LLMs for long window context?](https://www.reddit.com/r/LLMDevs/comments/1xpfs6b/what_is_a_popular_benchmark_to_test_llms_for_long/) | u/Dry_Mixture130 | Help Wanted | text | 3 | 4 | live | — |
-| 29 | 2026-11-06 | [Is Decentralised AI Possible?](https://www.reddit.com/r/LLMDevs/comments/1xpfp91/is_decentralised_ai_possible/) | u/Accurate-Screen8774 | Help Wanted | text | 1 | 3 | live | — |
-| 30 | 2026-11-06 | [We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq](https://www.reddit.com/r/LLMDevs/comments/1xpfdqr/we_built_an_sre_copilot_that_actually_remembers/) | u/jayamala_gouda | Discussion | dev.to | 1 | 0 | approved | — |
-| 31 | 2026-11-06 | [I ran Lightpanda's demo crawler: memory ratios were close to its claim; speed results differed](https://www.reddit.com/r/LLMDevs/comments/1xpdou3/i_ran_lightpandas_demo_crawler_memory_ratios_were/) | u/Specialist-Can2889 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 32 | 2026-11-06 | [Ling-3.2-flash adds native image and video input through both OpenAI-compatible and Anthropic-compatible APIs](https://www.reddit.com/r/LLMDevs/comments/1xpddyu/ling32flash_adds_native_image_and_video_input/) | u/maniac518 | News | text | 1 | 0 | live | — |
-| 33 | 2026-11-06 | [Finetuning vs RAG for legal knowledge base?](https://www.reddit.com/r/LLMDevs/comments/1xpd3jl/finetuning_vs_rag_for_legal_knowledge_base/) | u/DueBid3298 | Discussion | text | 7 | 18 | live | — |
-| 34 | 2026-11-06 | [I got tired of free AI models repeating the same broken fix 5 times, so I built an open-source memory & verif…](https://www.reddit.com/r/LLMDevs/comments/1xpc2pv/i_got_tired_of_free_ai_models_repeating_the_same/) | u/Sudhanshu_raj_13 | Discussion | text | 0 | 3 | live | — |
-| 35 | 2026-11-06 | [which vector database you use in your production/mvp RAG and why did you choose over others?](https://www.reddit.com/r/LLMDevs/comments/1xpbzll/which_vector_database_you_use_in_your/) | u/DueBid3298 | Discussion | text | 1 | 3 | live | — |
-| 36 | 2026-11-06 | [I reran a persona benchmark on 18 models: more reasoning effort gave less character, and a GPT judge ranked O…](https://www.reddit.com/r/LLMDevs/comments/1xp9y5i/i_reran_a_persona_benchmark_on_18_models_more/) | u/Ornery_Wrangler6836 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 37 | 2026-11-06 | [MCP questions on interviews?](https://www.reddit.com/r/LLMDevs/comments/1xp9fjy/mcp_questions_on_interviews/) | u/DueBid3298 | Discussion | text | 1 | 1 | live | — |
-| 38 | 2026-11-06 | [What libraries/tools you use in your production/mvp for extracting data from pdfs, docx, excels with lot of m…](https://www.reddit.com/r/LLMDevs/comments/1xp9edq/what_librariestools_you_use_in_your_productionmvp/) | u/DueBid3298 | Discussion | text | 1 | 2 | live | — |
-| 39 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](https://www.reddit.com/r/LLMDevs/comments/1xp9b3j/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) | u/hottown | Great Resource 🚀 | i.redd.it | 4 | 14 | live | — |
-| 40 | 2026-11-06 | [p99 matters way more than p50 once your agent runs searches in parallel](https://www.reddit.com/r/LLMDevs/comments/1xp96a4/p99_matters_way_more_than_p50_once_your_agent/) | u/Content_Secret6493 | Tools | text | 1 | 0 | spam-filtered | — |
-| 41 | 2026-11-06 | [A cheap cache decision can still add expensive waiting](https://www.reddit.com/r/LLMDevs/comments/1xp91mp/a_cheap_cache_decision_can_still_add_expensive/) | u/No_Engineer_1224 | Discussion | text | 1 | 0 | live | — |
-| 42 | 2026-11-06 | [Oken_Behavioral_Similarity_Methodology](https://www.reddit.com/r/LLMDevs/comments/1xp8tl8/oken_behavioral_similarity_methodology/) | u/oken415 | Tools | text | 1 | 0 | spam-filtered | — |
-| 43 | 2026-11-06 | [Preprint: Qwen3-8B and gpt-oss-20b sometimes add unsupported rules to their own handoff summaries](https://www.reddit.com/r/LLMDevs/comments/1xp8jjw/preprint_qwen38b_and_gptoss20b_sometimes_add/) | u/Few-Decision6287 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 44 | 2026-11-06 | [I have 100 dollars worth of claude api key credits](https://www.reddit.com/r/LLMDevs/comments/1xp88sm/i_have_100_dollars_worth_of_claude_api_key_credits/) | u/MarionberryHuman9323 | Help Wanted | text | 2 | 2 | live | — |
-| 45 | 2026-11-06 | [Looking to chat with developers building LLM-powered agents and applications](https://www.reddit.com/r/LLMDevs/comments/1xp6nl1/looking_to_chat_with_developers_building/) | u/Aggravating-Song1375 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 46 | 2026-11-06 | [I built OpsBridge: a workbench for investigating blocked invoices with evidence and human approval](https://www.reddit.com/r/LLMDevs/comments/1xp6jvg/i_built_opsbridge_a_workbench_for_investigating/) | u/Fit_Fortune953 | Help Wanted | text | 2 | 5 | live | — |
-| 47 | 2026-11-06 | [apple-llm 0.3: local STT, Apple’s on-device LLM, and TTS in one Node/Python package](https://www.reddit.com/r/LLMDevs/comments/1xp4pu7/applellm_03_local_stt_apples_ondevice_llm_and_tts/) | u/light_2earth | Great Resource 🚀 | v.redd.it | 17 | 3 | live | — |
-| 48 | 2026-11-06 | [Start the voices before the script is finished: a streaming two-host podcast pipeline on local hardware](https://www.reddit.com/r/LLMDevs/comments/1xp3umk/start_the_voices_before_the_script_is_finished_a/) | u/Old_Librarian_9916 | Tools | v.redd.it | 3 | 1 | live | — |
-| 49 | 2026-11-06 | [I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — t…](https://www.reddit.com/r/LLMDevs/comments/1xp3mbo/i_integrated_local_meta_muse_glimmer_30b_into_a/) | u/acaimari | Discussion | text | 1 | 0 | live | — |
-| 50 | 2026-11-06 | [We benchmarked 6 LLM inference engines on speed AND quality — including 64K–256K contexts, concurrency, and G…](https://www.reddit.com/r/LLMDevs/comments/1xp2i3o/we_benchmarked_6_llm_inference_engines_on_speed/) | u/fuzhongkai | Discussion | text | 2 | 0 | live | — |
+| 1 | 2026-11-07 | [I built ChronoRAG-G because finding relevant documents isn’t enough to answer temporal questions correctly](#post-1) | u/LowAd8593 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 2 | 2026-11-07 | [I built a deploy-failure agent with persistent memory. The hard part was getting it to ignore its memory.](#post-2) | u/Independent_Sort1157 | Discussion | drive.google.com | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-07 | [Meet the AI Agent That Never Forgets: Building a Smarter Meeting Assistant with Hindsight](#post-3) | u/HELLNAHH-5126 | Discussion | text | 1 | 0 | live | — |
+| 4 | 2026-11-07 | [I built a meeting prep agent that remembers every broken promise and open question across past meetings](#post-4) | u/Even-Psychology2539 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-11-07 | [Your AI Forgets Everything. I Gave Mine a Memory That Actually Works.](#post-5) | u/UmeshGupta2008 | Discussion | text | 0 | 3 | live | — |
+| 6 | 2026-11-07 | [Building OpenSite: An AI-Powered Web Engine with Persistent Context — Architecture & Live Demo](#post-6) | u/Mallikarjunr_444 | News | text | 1 | 0 | approved | — |
+| 7 | 2026-11-07 | [Your Meeting Notes Have Amnesia. I Built Meet & Prep to Fix That](#post-7) | u/thedaddy73 | Tools | text | 0 | 0 | spam-filtered | — |
+| 8 | 2026-11-07 | [We built a lending agent that remembers defaults. My memory layer silently failed first.](#post-8) | u/Background_Two_8837 | News | text | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-07 | [End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, S…](#post-9) | u/Zipidyzip | Tools | v.redd.it | 3 | 0 | live | — |
+| 10 | 2026-11-07 | [Why my incident response agent stores what failed, not just what worked (Hindsight)](#post-10) | u/noufal_rizwan | Discussion | text | 1 | 1 | content_takedown | — |
+| 11 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](#post-11) | u/Whole-Village-6194 | Resource | dev.to | 1 | 0 | approved | — |
+| 12 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](#post-12) | u/Whole-Village-6194 | Resource | dev.to | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-06 | [Prompt Engineering as a Software Engineering Discipline: The Technical Case for Agentic AI v6.0](#post-13) | u/Ok_pettech | Resource | interconnectd.com | 1 | 0 | spam-filtered | — |
+| 14 | 2026-11-06 | [I measured my LLM requests by part. The system prompt + tool schemas were 98–99% of every call.](#post-14) | u/behrouzbk | Tools | text | 1 | 15 | live | — |
+| 15 | 2026-11-06 | [the full precision model is the risky pick on a 16 gb laptop](#post-15) | u/Nir777 | Resource | youtube.com | 0 | 0 | live | — |
+| 16 | 2026-11-06 | [counting tokens from coding agent transcripts is easy to get wrong. what I hit building a self-hosted usage d…](#post-16) | u/Nitjsefnie | Tools | text | 1 | 1 | live | — |
+| 17 | 2026-11-06 | [First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, trainin…](#post-17) | u/m4rkGS | Great Resource 🚀 | i.redd.it | 54 | 2 | live | — |
+| 18 | 2026-11-06 | [BoopFace: an MIT-licensed SVG robot avatar Web Component for AI bots](#post-18) | u/Additional-Ad5527 | Tools | v.redd.it | 4 | 6 | live | — |
+| 19 | 2026-11-06 | [I Built RecallDesk: A Customer Support Agent with Persistent Memory](#post-19) | u/geethacharan | Discussion | text | 1 | 1 | live | — |
+| 20 | 2026-11-06 | [Are we optimizing the wrong metric for LLM costs? Cost per token vs. cost per completed task](#post-20) | u/masterKova | Discussion | text | 0 | 0 | spam-filtered | — |
+| 21 | 2026-11-06 | [I Built RecallDesk: A Customer Support Agent with Persistent Memory](#post-21) | u/lakshmisrivalli | Discussion | text | 0 | 1 | spam-filtered | — |
+| 22 | 2026-11-06 | [I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.](#post-22) | u/Shivam__kumar | Discussion | text | 55 | 19 | live | — |
+| 23 | 2026-11-06 | [Local DeepSeek V4.1 Flash behind an Anthropic-compatible endpoint: FLE Link + FLE engine, with a status endpo…](#post-23) | u/Ryyn_- | Tools | text | 2 | 2 | live | — |
+| 24 | 2026-11-06 | [A notch display for coding agents: live status, approvals (click or head nod) and limits for Claude Code, Cod…](#post-24) | u/Nkgsporty | Great Resource 🚀 | reddit.com | 6 | 0 | live | — |
+| 25 | 2026-11-06 | [I built an agent that remembers which incident fixes only bought three days](#post-25) | u/DIVYASHREE4757 | Great Resource 🚀 | dev.to | 1 | 0 | spam-filtered | — |
+| 26 | 2026-11-06 | [We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq](#post-26) | u/jayamala_gouda | Discussion | dev.to | 2 | 0 | approved | — |
+| 27 | 2026-11-06 | [I built an agent that remembers which incident fixes only bought three days (Hindsight memory + Groq)](#post-27) | u/DIVYASHREE4757 | Great Resource 🚀 | dev.to | 0 | 0 | spam-filtered | — |
+| 28 | 2026-11-06 | [What is a popular benchmark to test LLMs for long window context?](#post-28) | u/Dry_Mixture130 | Help Wanted | text | 3 | 4 | live | — |
+| 29 | 2026-11-06 | [Is Decentralised AI Possible?](#post-29) | u/Accurate-Screen8774 | Help Wanted | text | 1 | 3 | live | — |
+| 30 | 2026-11-06 | [We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq](#post-30) | u/jayamala_gouda | Discussion | dev.to | 1 | 0 | approved | — |
+| 31 | 2026-11-06 | [I ran Lightpanda's demo crawler: memory ratios were close to its claim; speed results differed](#post-31) | u/Specialist-Can2889 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 32 | 2026-11-06 | [Ling-3.2-flash adds native image and video input through both OpenAI-compatible and Anthropic-compatible APIs](#post-32) | u/maniac518 | News | text | 1 | 0 | live | — |
+| 33 | 2026-11-06 | [Finetuning vs RAG for legal knowledge base?](#post-33) | u/DueBid3298 | Discussion | text | 7 | 18 | live | — |
+| 34 | 2026-11-06 | [I got tired of free AI models repeating the same broken fix 5 times, so I built an open-source memory & verif…](#post-34) | u/Sudhanshu_raj_13 | Discussion | text | 0 | 3 | live | — |
+| 35 | 2026-11-06 | [which vector database you use in your production/mvp RAG and why did you choose over others?](#post-35) | u/DueBid3298 | Discussion | text | 1 | 3 | live | — |
+| 36 | 2026-11-06 | [I reran a persona benchmark on 18 models: more reasoning effort gave less character, and a GPT judge ranked O…](#post-36) | u/Ornery_Wrangler6836 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 37 | 2026-11-06 | [MCP questions on interviews?](#post-37) | u/DueBid3298 | Discussion | text | 1 | 1 | live | — |
+| 38 | 2026-11-06 | [What libraries/tools you use in your production/mvp for extracting data from pdfs, docx, excels with lot of m…](#post-38) | u/DueBid3298 | Discussion | text | 1 | 2 | live | — |
+| 39 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](#post-39) | u/hottown | Great Resource 🚀 | i.redd.it | 4 | 14 | live | — |
+| 40 | 2026-11-06 | [p99 matters way more than p50 once your agent runs searches in parallel](#post-40) | u/Content_Secret6493 | Tools | text | 1 | 0 | spam-filtered | — |
+| 41 | 2026-11-06 | [A cheap cache decision can still add expensive waiting](#post-41) | u/No_Engineer_1224 | Discussion | text | 1 | 0 | live | — |
+| 42 | 2026-11-06 | [Oken_Behavioral_Similarity_Methodology](#post-42) | u/oken415 | Tools | text | 1 | 0 | spam-filtered | — |
+| 43 | 2026-11-06 | [Preprint: Qwen3-8B and gpt-oss-20b sometimes add unsupported rules to their own handoff summaries](#post-43) | u/Few-Decision6287 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 44 | 2026-11-06 | [I have 100 dollars worth of claude api key credits](#post-44) | u/MarionberryHuman9323 | Help Wanted | text | 2 | 2 | live | — |
+| 45 | 2026-11-06 | [Looking to chat with developers building LLM-powered agents and applications](#post-45) | u/Aggravating-Song1375 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 46 | 2026-11-06 | [I built OpsBridge: a workbench for investigating blocked invoices with evidence and human approval](#post-46) | u/Fit_Fortune953 | Help Wanted | text | 2 | 5 | live | — |
+| 47 | 2026-11-06 | [apple-llm 0.3: local STT, Apple’s on-device LLM, and TTS in one Node/Python package](#post-47) | u/light_2earth | Great Resource 🚀 | v.redd.it | 17 | 3 | live | — |
+| 48 | 2026-11-06 | [Start the voices before the script is finished: a streaming two-host podcast pipeline on local hardware](#post-48) | u/Old_Librarian_9916 | Tools | v.redd.it | 3 | 1 | live | — |
+| 49 | 2026-11-06 | [I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — t…](#post-49) | u/acaimari | Discussion | text | 1 | 0 | live | — |
+| 50 | 2026-11-06 | [We benchmarked 6 LLM inference engines on speed AND quality — including 64K–256K contexts, concurrency, and G…](#post-50) | u/fuzhongkai | Discussion | text | 2 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -111,48 +111,54 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-16 | [I built a shopper attention heatmap using open-source computer vision models](https://www.reddit.com/r/LLMDevs/comments/1x76vtw/i_built_a_shopper_attention_heatmap_using/) | u/claudioe | Tools | v.redd.it | 985 | 101 | live |
-| 52 | 2026-10-31 | [Google's Open Knowledge Format (OKF), an implementation that addresses real life problems](https://www.reddit.com/r/LLMDevs/comments/1xkebc5/googles_open_knowledge_format_okf_an/) | u/chlankboot | Discussion | i.redd.it | 370 | 49 | live |
-| 53 | 2026-10-24 | [I took apart Claude Code, OpenCode and Pi, then turned what I learned into a free course on harness engineeri…](https://www.reddit.com/r/LLMDevs/comments/1xe3vbw/i_took_apart_claude_code_opencode_and_pi_then/) | u/pauliusztin | Great Resource 🚀 | i.redd.it | 310 | 16 | live |
-| 54 | 2026-10-28 | [Developers saving 10+ hours a week with AI dropped from 68% to 25% in a year. The time went to fixing generat…](https://www.reddit.com/r/LLMDevs/comments/1xhj52a/developers_saving_10_hours_a_week_with_ai_dropped/) | u/Suspicious_Orchid770 | Discussion | leaddev.com | 230 | 110 | live |
-| 55 | 2026-10-15 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.reddit.com/r/LLMDevs/comments/1x6dnrz/bank_of_america_hired_1000_contractors_to_patch/) | u/lulzxdxdxd | News | cnbc.com | 149 | 31 | live |
-| 56 | 2026-10-29 | [I built a harness that everybody on my engineering team ended up using every day over the past 6 months. Afte…](https://www.reddit.com/r/LLMDevs/comments/1xitb9k/i_built_a_harness_that_everybody_on_my/) | u/rudderstackdev | Tools | i.redd.it | 123 | 21 | live |
-| 57 | 2026-10-28 | [After 6 months of daily building, I just released Hillock v1.0 stable: a local neuro-symbolic memory engine t…](https://www.reddit.com/r/LLMDevs/comments/1xhk193/after_6_months_of_daily_building_i_just_released/) | u/Equivalent-Flan-1590 | Great Discussion 💭 | text | 122 | 81 | live |
-| 58 | 2026-10-30 | [DeepSeek V4.1 Flash on Colab. Uncensored. 118.7 tok/s.](https://www.reddit.com/r/LLMDevs/comments/1xjnhn7/deepseek_v41_flash_on_colab_uncensored_1187_toks/) | u/Healthy_Essay3388 | Tools | v.redd.it | 122 | 13 | live |
-| 59 | 2026-10-27 | [I gave my local LLM a real phone number to make calls for me (open-source)](https://www.reddit.com/r/LLMDevs/comments/1xh3n68/i_gave_my_local_llm_a_real_phone_number_to_make/) | u/Agent007_MI9 | Tools | i.redd.it | 97 | 21 | live |
-| 60 | 2026-10-27 | [I built a tiny self-hostable kanban board MCP server for coding agents: 10–60 tokens per reply, ~3 MB of RAM](https://www.reddit.com/r/LLMDevs/comments/1xgdoar/i_built_a_tiny_selfhostable_kanban_board_mcp/) | u/allmudi | Resource | i.redd.it | 74 | 44 | live |
-| 61 | 2026-10-27 | [watching terminal coding agents grep a 500k-line repo feels like a 30-year technological regression, isn't it?](https://www.reddit.com/r/LLMDevs/comments/1xh3uqz/watching_terminal_coding_agents_grep_a_500kline/) | u/Evening_Hawk_7470 | Discussion | text | 65 | 78 | live |
-| 62 | 2026-10-18 | [Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)](https://www.reddit.com/r/LLMDevs/comments/1x8wwhy/openspline_host_a_realtime_talking_avatar_on_a/) | u/Mikasa0xdev | Discussion | i.redd.it | 60 | 6 | live |
-| 22 | 2026-11-06 | [I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.](https://www.reddit.com/r/LLMDevs/comments/1xpj7do/i_replaced_vectorsearch_rag_with_markdown/) | u/Shivam__kumar | Discussion | text | 55 | 19 | live |
-| 63 | 2026-10-15 | [A Harvard study found AI agents increased coding activity but not shipped work, partly because code review be…](https://www.reddit.com/r/LLMDevs/comments/1x6i0t5/a_harvard_study_found_ai_agents_increased_coding/) | u/Suspicious_Orchid770 | Discussion | leaddev.com | 54 | 19 | live |
-| 17 | 2026-11-06 | [First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, trainin…](https://www.reddit.com/r/LLMDevs/comments/1xpl15n/first_paper_on_how_to_train_actual_sota_decision/) | u/m4rkGS | Great Resource 🚀 | i.redd.it | 54 | 2 | live |
-| 64 | 2026-10-13 | [A post from LocalLlaMa](https://www.reddit.com/r/LLMDevs/comments/1x55s84/a_post_from_localllama/) | u/TangeloOk9486 | Discussion | i.redd.it | 46 | 26 | live |
-| 65 | 2026-10-20 | [We tested Jev as a reranker against Voyage, Cohere and Qwen on 1,000 eval cases. It came within 0.003 of firs…](https://www.reddit.com/r/LLMDevs/comments/1xattho/we_tested_jev_as_a_reranker_against_voyage_cohere/) | u/srnsnemil | Discussion | text | 43 | 3 | live |
-| 66 | 2026-11-03 | [Prompt caching patterns across major LLM providers look very different](https://www.reddit.com/r/LLMDevs/comments/1xmxn2u/prompt_caching_patterns_across_major_llm/) | u/Sufficient-Bat-9880 | Discussion | i.redd.it | 42 | 16 | live |
-| 67 | 2026-10-11 | [I use a ~322M local model to judge every tool call my coding agents make (about 90 ms on CPU, no API)](https://www.reddit.com/r/LLMDevs/comments/1x317c6/i_use_a_322m_local_model_to_judge_every_tool_call/) | u/Extreme_Ad5709 | Resource | reddit.com | 36 | 14 | live |
-| 68 | 2026-10-23 | [Full DeepSeek-V4.1-Flash-1017 (510 GB, original weights) on a 64 GB RAM + RTX 3060 12 GB PC: up to 7.4 tok/s,…](https://www.reddit.com/r/LLMDevs/comments/1xdm5gj/full_deepseekv41flash1017_510_gb_original_weights/) | u/Muted_Context_1999 | Tools | reddit.com | 35 | 14 | live |
+| 51 | 2026-10-16 | [I built a shopper attention heatmap using open-source computer vision models](#post-51) | u/claudioe | Tools | v.redd.it | 985 | 101 | live |
+| 52 | 2026-10-31 | [Google's Open Knowledge Format (OKF), an implementation that addresses real life problems](#post-52) | u/chlankboot | Discussion | i.redd.it | 370 | 49 | live |
+| 53 | 2026-10-24 | [I took apart Claude Code, OpenCode and Pi, then turned what I learned into a free course on harness engineeri…](#post-53) | u/pauliusztin | Great Resource 🚀 | i.redd.it | 310 | 16 | live |
+| 54 | 2026-10-28 | [Developers saving 10+ hours a week with AI dropped from 68% to 25% in a year. The time went to fixing generat…](#post-54) | u/Suspicious_Orchid770 | Discussion | leaddev.com | 230 | 110 | live |
+| 55 | 2026-10-15 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](#post-55) | u/lulzxdxdxd | News | cnbc.com | 149 | 31 | live |
+| 56 | 2026-10-29 | [I built a harness that everybody on my engineering team ended up using every day over the past 6 months. Afte…](#post-56) | u/rudderstackdev | Tools | i.redd.it | 123 | 21 | live |
+| 57 | 2026-10-28 | [After 6 months of daily building, I just released Hillock v1.0 stable: a local neuro-symbolic memory engine t…](#post-57) | u/Equivalent-Flan-1590 | Great Discussion 💭 | text | 122 | 81 | live |
+| 58 | 2026-10-30 | [DeepSeek V4.1 Flash on Colab. Uncensored. 118.7 tok/s.](#post-58) | u/Healthy_Essay3388 | Tools | v.redd.it | 122 | 13 | live |
+| 59 | 2026-10-27 | [I gave my local LLM a real phone number to make calls for me (open-source)](#post-59) | u/Agent007_MI9 | Tools | i.redd.it | 97 | 21 | live |
+| 60 | 2026-10-27 | [I built a tiny self-hostable kanban board MCP server for coding agents: 10–60 tokens per reply, ~3 MB of RAM](#post-60) | u/allmudi | Resource | i.redd.it | 74 | 44 | live |
+| 61 | 2026-10-27 | [watching terminal coding agents grep a 500k-line repo feels like a 30-year technological regression, isn't it?](#post-61) | u/Evening_Hawk_7470 | Discussion | text | 65 | 78 | live |
+| 62 | 2026-10-18 | [Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)](#post-62) | u/Mikasa0xdev | Discussion | i.redd.it | 60 | 6 | live |
+| 22 | 2026-11-06 | [I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.](#post-22) | u/Shivam__kumar | Discussion | text | 55 | 19 | live |
+| 63 | 2026-10-15 | [A Harvard study found AI agents increased coding activity but not shipped work, partly because code review be…](#post-63) | u/Suspicious_Orchid770 | Discussion | leaddev.com | 54 | 19 | live |
+| 17 | 2026-11-06 | [First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, trainin…](#post-17) | u/m4rkGS | Great Resource 🚀 | i.redd.it | 54 | 2 | live |
+| 64 | 2026-10-13 | [A post from LocalLlaMa](#post-64) | u/TangeloOk9486 | Discussion | i.redd.it | 46 | 26 | live |
+| 65 | 2026-10-20 | [We tested Jev as a reranker against Voyage, Cohere and Qwen on 1,000 eval cases. It came within 0.003 of firs…](#post-65) | u/srnsnemil | Discussion | text | 43 | 3 | live |
+| 66 | 2026-11-03 | [Prompt caching patterns across major LLM providers look very different](#post-66) | u/Sufficient-Bat-9880 | Discussion | i.redd.it | 42 | 16 | live |
+| 67 | 2026-10-11 | [I use a ~322M local model to judge every tool call my coding agents make (about 90 ms on CPU, no API)](#post-67) | u/Extreme_Ad5709 | Resource | reddit.com | 36 | 14 | live |
+| 68 | 2026-10-23 | [Full DeepSeek-V4.1-Flash-1017 (510 GB, original weights) on a 64 GB RAM + RTX 3060 12 GB PC: up to 7.4 tok/s,…](#post-68) | u/Muted_Context_1999 | Tools | reddit.com | 35 | 14 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. I built ChronoRAG-G because finding relevant documents isn’t enough to answer temporal questions correctly
 
-2026-11-07 · u/LowAd8593 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzi25/i_built_chronoragg_because_finding_relevant/)
+2026-11-07 · u/LowAd8593 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzi25/i_built_chronoragg_because_finding_relevant/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. I built a deploy-failure agent with persistent memory. The hard part was getting it to ignore its memory.
 
-2026-11-07 · u/Independent_Sort1157 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzaxp/i_built_a_deployfailure_agent_with_persistent/)
+2026-11-07 · u/Independent_Sort1157 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzaxp/i_built_a_deployfailure_agent_with_persistent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://drive.google.com/file/d/1lFCNx6y5elY_wxoXNqsoE1f90VIIQivC/view?usp=drivesdk>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Meet the AI Agent That Never Forgets: Building a Smarter Meeting Assistant with Hindsight
 
-2026-11-07 · u/HELLNAHH-5126 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzabd/meet_the_ai_agent_that_never_forgets_building_a/)
+2026-11-07 · u/HELLNAHH-5126 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpzabd/meet_the_ai_agent_that_never_forgets_building_a/) · [↑ back to the list](#last-50-posts)
 
 > Imagine having an AI assistant that remembers every important decision, every promise, and every small detail from your meetings. No more searching through endless notes. No more asking, “What did we decide last week?” This is the idea behind our project: an intelligent meeting assistant powered by Hindsight.
 >
@@ -286,15 +292,19 @@ Link: <https://drive.google.com/file/d/1lFCNx6y5elY_wxoXNqsoE1f90VIIQivC/view?us
 >
 > We are building an AI that remembers the answers, the decisions, and the promises that matter.
 
+<a id="post-4"></a>
+
 ### 4. I built a meeting prep agent that remembers every broken promise and open question across past meetings
 
-2026-11-07 · u/Even-Psychology2539 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpyxfj/i_built_a_meeting_prep_agent_that_remembers_every/)
+2026-11-07 · u/Even-Psychology2539 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpyxfj/i_built_a_meeting_prep_agent_that_remembers_every/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. Your AI Forgets Everything. I Gave Mine a Memory That Actually Works.
 
-2026-11-07 · u/UmeshGupta2008 · Discussion · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpyqrq/your_ai_forgets_everything_i_gave_mine_a_memory/)
+2026-11-07 · u/UmeshGupta2008 · Discussion · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpyqrq/your_ai_forgets_everything_i_gave_mine_a_memory/) · [↑ back to the list](#last-50-posts)
 
 > # 
 >
@@ -449,9 +459,11 @@ Link: <https://drive.google.com/file/d/1lFCNx6y5elY_wxoXNqsoE1f90VIIQivC/view?us
 >
 > *Tech stack: Python · Hindsight (retain/recall memory) · Groq (Llama 3.3 70B)*
 
+<a id="post-6"></a>
+
 ### 6. Building OpenSite: An AI-Powered Web Engine with Persistent Context — Architecture & Live Demo
 
-2026-11-07 · u/Mallikarjunr_444 · News · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpy8uj/building_opensite_an_aipowered_web_engine_with/)
+2026-11-07 · u/Mallikarjunr_444 · News · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpy8uj/building_opensite_an_aipowered_web_engine_with/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -481,21 +493,27 @@ Link: <https://drive.google.com/file/d/1lFCNx6y5elY_wxoXNqsoE1f90VIIQivC/view?us
 >
 > We’d love feedback from fellow developers on the overall approach, edge-case handling, and ideas for further optimizations. Contributions and discussions are welcome!
 
+<a id="post-7"></a>
+
 ### 7. Your Meeting Notes Have Amnesia. I Built Meet & Prep to Fix That
 
-2026-11-07 · u/thedaddy73 · Tools · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpx3jn/your_meeting_notes_have_amnesia_i_built_meet_prep/)
+2026-11-07 · u/thedaddy73 · Tools · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpx3jn/your_meeting_notes_have_amnesia_i_built_meet_prep/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-8"></a>
 
 ### 8. We built a lending agent that remembers defaults. My memory layer silently failed first.
 
-2026-11-07 · u/Background_Two_8837 · News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpvuab/we_built_a_lending_agent_that_remembers_defaults/)
+2026-11-07 · u/Background_Two_8837 · News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpvuab/we_built_a_lending_agent_that_remembers_defaults/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step guided Conversions to GGUF, MLX, and ONNX, and Visualize Model Changes and quick publishing to huggingface with full model card.
 
-2026-11-07 · u/Zipidyzip · Tools · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpvdz0/endtoend_desktop_quantization_workspace_for_large/)
+2026-11-07 · u/Zipidyzip · Tools · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpvdz0/endtoend_desktop_quantization_workspace_for_large/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/7yecpcktr30i1>
 
@@ -507,9 +525,11 @@ Link: <https://v.redd.it/7yecpcktr30i1>
 >
 > Thank u.
 
+<a id="post-10"></a>
+
 ### 10. Why my incident response agent stores what failed, not just what worked (Hindsight)
 
-2026-11-07 · u/noufal_rizwan · Discussion · score 1 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpu7qt/why_my_incident_response_agent_stores_what_failed/)
+2026-11-07 · u/noufal_rizwan · Discussion · score 1 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpu7qt/why_my_incident_response_agent_stores_what_failed/) · [↑ back to the list](#last-50-posts)
 
 > While building this, I ran into a few interesting problems:
 >
@@ -568,33 +588,41 @@ Link: <https://v.redd.it/7yecpcktr30i1>
 >
 > **Would you trust an agent's retrieved memory to generate operational warnings, or would you always validate those warnings against structured incident records?**
 
+<a id="post-11"></a>
+
 ### 11. Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed
 
-2026-11-07 · u/Whole-Village-6194 · Resource · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xptipe/same_agent_same_prompt_two_briefs_what_hindsight/)
+2026-11-07 · u/Whole-Village-6194 · Resource · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xptipe/same_agent_same_prompt_two_briefs_what_hindsight/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/ranjith28100/same-agent-same-prompt-two-briefs-what-hindsight-memory-changed-5fga>
 
 > *Author here. The most useful thing I learned: my agent's memory was fine, but one prompt rule ("open near the best discount you've seen") made every ask smaller than the last, so a winning tactic kept looking like a failure. Happy to answer questions about the setup: Hindsight for memory, outcomes stored as metadata and counted in code, citations on every claim.*
 
+<a id="post-12"></a>
+
 ### 12. Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed
 
-2026-11-07 · u/Whole-Village-6194 · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpth05/same_agent_same_prompt_two_briefs_what_hindsight/)
+2026-11-07 · u/Whole-Village-6194 · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpth05/same_agent_same_prompt_two_briefs_what_hindsight/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/ranjith28100/same-agent-same-prompt-two-briefs-what-hindsight-memory-changed-5fga>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Prompt Engineering as a Software Engineering Discipline: The Technical Case for Agentic AI v6.0
 
-2026-11-06 · u/Ok_pettech · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xps0rc/prompt_engineering_as_a_software_engineering/)
+2026-11-06 · u/Ok_pettech · Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xps0rc/prompt_engineering_as_a_software_engineering/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://interconnectd.com/blog/26/the-agentic-ai-foundation-v6-0-prompt-engineering-as-a-discipline-a-technic/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. I measured my LLM requests by part. The system prompt + tool schemas were 98–99% of every call.
 
-2026-11-06 · u/behrouzbk · Tools · score 1 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpmyla/i_measured_my_llm_requests_by_part_the_system/)
+2026-11-06 · u/behrouzbk · Tools · score 1 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpmyla/i_measured_my_llm_requests_by_part_the_system/) · [↑ back to the list](#last-50-posts)
 
 > I've been looking at where input tokens actually go in a typical support-bot request.  
 > I split each request into the fixed part (system prompt + tool schemas, the same on  
@@ -624,17 +652,21 @@ Link: <https://interconnectd.com/blog/26/the-agentic-ai-foundation-v6-0-prompt-e
 > How do you handle this in production: one system prompt for all languages, or one per  
 > language?
 
+<a id="post-15"></a>
+
 ### 15. the full precision model is the risky pick on a 16 gb laptop
 
-2026-11-06 · u/Nir777 · Resource · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpmslv/the_full_precision_model_is_the_risky_pick_on_a/)
+2026-11-06 · u/Nir777 · Resource · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpmslv/the_full_precision_model_is_the_risky_pick_on_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=IaDdFp6fFfI&list=PLBrpE2PttR2k>
 
 > a dev has about 6 gb free and wants the safe local model, so she takes the small one at 16 bits. we ran it against three squeezed qwen3 models on 200 tasks, checked by script. the video goes through the results and what q4 and q8 really mean.
 
+<a id="post-16"></a>
+
 ### 16. counting tokens from coding agent transcripts is easy to get wrong. what I hit building a self-hosted usage dashboard for Claude Code, Codex and Kimi CLI
 
-2026-11-06 · u/Nitjsefnie · Tools · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xplwm7/counting_tokens_from_coding_agent_transcripts_is/)
+2026-11-06 · u/Nitjsefnie · Tools · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xplwm7/counting_tokens_from_coding_agent_transcripts_is/) · [↑ back to the list](#last-50-posts)
 
 > I wanted months of numbers on my own agent usage, what it cost and where the tokens went, so I built claudit. MIT, self-hosted, about 6 months old. it ingests the session transcripts and puts the numbers on one page. it doesn't grade your sessions, reading them is on you
 >
@@ -654,9 +686,11 @@ Link: <https://www.youtube.com/watch?v=IaDdFp6fFfI&list=PLBrpE2PttR2k>
 >
 > https://github.com/Nitjsefnie/claudit
 
+<a id="post-17"></a>
+
 ### 17. First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, training, evaluation, inference \[R\]
 
-2026-11-06 · u/m4rkGS · Great Resource 🚀 · score 54 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpl15n/first_paper_on_how_to_train_actual_sota_decision/)
+2026-11-06 · u/m4rkGS · Great Resource 🚀 · score 54 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpl15n/first_paper_on_how_to_train_actual_sota_decision/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/c909x2tkh10i1.png>
 
@@ -724,9 +758,11 @@ Link: <https://i.redd.it/c909x2tkh10i1.png>
 >
 > Hopefully it's useful for anyone experimenting with local agent routers, tool selection, or training their own decision models.
 
+<a id="post-18"></a>
+
 ### 18. BoopFace: an MIT-licensed SVG robot avatar Web Component for AI bots
 
-2026-11-06 · u/Additional-Ad5527 · Tools · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpk9l2/boopface_an_mitlicensed_svg_robot_avatar_web/)
+2026-11-06 · u/Additional-Ad5527 · Tools · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpk9l2/boopface_an_mitlicensed_svg_robot_avatar_web/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/4ki163v1810i1>
 
@@ -765,9 +801,11 @@ Link: <https://v.redd.it/4ki163v1810i1>
 >
 > If anyone has other weird/fun ideas for what this could be used for, let me know!
 
+<a id="post-19"></a>
+
 ### 19. I Built RecallDesk: A Customer Support Agent with Persistent Memory
 
-2026-11-06 · u/geethacharan · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpk7dx/i_built_recalldesk_a_customer_support_agent_with/)
+2026-11-06 · u/geethacharan · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpk7dx/i_built_recalldesk_a_customer_support_agent_with/) · [↑ back to the list](#last-50-posts)
 
 > I built RecallDesk to explore how persistent memory can improve AI customer support.
 >
@@ -783,16 +821,20 @@ Link: <https://v.redd.it/4ki163v1810i1>
 > One design decision I found important was distinguishing between attempted troubleshooting and customer-confirmed successful resolutions.
 >
 > I'm interested in feedback on the memory architecture, especially how to improve retrieval relevance and prevent incorrect resolutions from being reused.
+
+<a id="post-20"></a>
 
 ### 20. Are we optimizing the wrong metric for LLM costs? Cost per token vs. cost per completed task
 
-2026-11-06 · u/masterKova · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpjz6h/are_we_optimizing_the_wrong_metric_for_llm_costs/)
+2026-11-06 · u/masterKova · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpjz6h/are_we_optimizing_the_wrong_metric_for_llm_costs/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-21"></a>
+
 ### 21. I Built RecallDesk: A Customer Support Agent with Persistent Memory
 
-2026-11-06 · u/lakshmisrivalli · Discussion · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpjdqv/i_built_recalldesk_a_customer_support_agent_with/)
+2026-11-06 · u/lakshmisrivalli · Discussion · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpjdqv/i_built_recalldesk_a_customer_support_agent_with/) · [↑ back to the list](#last-50-posts)
 
 > I built RecallDesk to explore how persistent memory can improve AI customer support.
 >
@@ -809,9 +851,11 @@ Link: <https://v.redd.it/4ki163v1810i1>
 >
 > I'm interested in feedback on the memory architecture, especially how to improve retrieval relevance and prevent incorrect resolutions from being reused.
 
+<a id="post-22"></a>
+
 ### 22. I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.
 
-2026-11-06 · u/Shivam__kumar · Discussion · score 55 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpj7do/i_replaced_vectorsearch_rag_with_markdown/)
+2026-11-06 · u/Shivam__kumar · Discussion · score 55 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpj7do/i_replaced_vectorsearch_rag_with_markdown/) · [↑ back to the list](#last-50-posts)
 
 > I want to share something I've been experimenting with recently. Not claiming this is some revolutionary architecture or that I've solved RAG. I'm just curious if anyone else has tried something similar.
 >
@@ -859,17 +903,21 @@ Link: <https://v.redd.it/4ki163v1810i1>
 >
 > Would genuinely appreciate feedback from people who have built production AI agents or worked with complex enterprise RAG systems.
 
+<a id="post-23"></a>
+
 ### 23. Local DeepSeek V4.1 Flash behind an Anthropic-compatible endpoint: FLE Link + FLE engine, with a status endpoint
 
-2026-11-06 · u/Ryyn_- · Tools · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpj0fv/local_deepseek_v41_flash_behind_an/)
+2026-11-06 · u/Ryyn_- · Tools · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpj0fv/local_deepseek_v41_flash_behind_an/) · [↑ back to the list](#last-50-posts)
 
 > For people wiring agents to local models: FLE Link serves OpenAI- and Anthropic-compatible endpoints (`flelink connect claude` prints the settings for Claude Code, Codex, OpenCode, pi). The engine exposes `/fle/status` (schema 1: profile, cache, RAM store, draft acceptance, live tok/s, warnings), FLE Link passes it through at `/api/engine/fle-status`, and failed starts report a reason (`fit_budget_too_large`, `ram_too_small`, `model_load_failed`). Model: DeepSeek V4.1 Flash 2-bit (Rin), \~50 tok/s on one 32 GB card. Disclosure: I make FLE and FLE Link.
 >
 > Links: [FLE Link](https://flelink.run) · [FLE engine](https://github.com/sirfyyn/FastLocalExperts) · [Rin (HF)](https://huggingface.co/sirfyyn/Rin-Deepseek-V4.1-Flash-1017-FLE-GGUF)
 
+<a id="post-24"></a>
+
 ### 24. A notch display for coding agents: live status, approvals (click or head nod) and limits for Claude Code, Codex and Cursor
 
-2026-11-06 · u/Nkgsporty · Great Resource 🚀 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xphnln/a_notch_display_for_coding_agents_live_status/)
+2026-11-06 · u/Nkgsporty · Great Resource 🚀 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xphnln/a_notch_display_for_coding_agents_live_status/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xphnln>
 
@@ -889,38 +937,48 @@ Link: <https://www.reddit.com/gallery/1xphnln>
 >
 > Feel free to try it out and leave your feedback!
 
+<a id="post-25"></a>
+
 ### 25. I built an agent that remembers which incident fixes only bought three days
 
-2026-11-06 · u/DIVYASHREE4757 · Great Resource 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpgykd/i_built_an_agent_that_remembers_which_incident/)
+2026-11-06 · u/DIVYASHREE4757 · Great Resource 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpgykd/i_built_an_agent_that_remembers_which_incident/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/divya_s_71bf64b77a34715c8/hindsight-remembers-which-incident-fixes-only-bought-three-days-2d0c>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq
 
-2026-11-06 · u/jayamala_gouda · Discussion · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpgifk/we_built_an_sre_copilot_that_actually_remembers/)
+2026-11-06 · u/jayamala_gouda · Discussion · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpgifk/we_built_an_sre_copilot_that_actually_remembers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/manikanthamarathi/we-built-an-sre-copilot-that-actually-remembers-past-outages-using-hindsight-fastapi-and-groq-oba>
 
 
+<a id="post-27"></a>
+
 ### 27. I built an agent that remembers which incident fixes only bought three days (Hindsight memory + Groq)
 
-2026-11-06 · u/DIVYASHREE4757 · Great Resource 🚀 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpg3tf/i_built_an_agent_that_remembers_which_incident/)
+2026-11-06 · u/DIVYASHREE4757 · Great Resource 🚀 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpg3tf/i_built_an_agent_that_remembers_which_incident/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/divya_s_71bf64b77a34715c8/hindsight-remembers-which-incident-fixes-only-bought-three-days-2d0c>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. What is a popular benchmark to test LLMs for long window context?
 
-2026-11-06 · u/Dry_Mixture130 · Help Wanted · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfs6b/what_is_a_popular_benchmark_to_test_llms_for_long/)
+2026-11-06 · u/Dry_Mixture130 · Help Wanted · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfs6b/what_is_a_popular_benchmark_to_test_llms_for_long/) · [↑ back to the list](#last-50-posts)
 
 > Hi Everyone, I am working on building a framework/library which I strongly feel could solve large context window across the chat thread. (I know llms can reason across 1 million context window) but i have noticed sometimes when i give openai or claude a task and the chat thread goes really long it sometimes loses earlier chat window context. I want to solve this problem and test it against a benchmark. What are some  popular benchmarks i could test this against? Thanks for the help.
 
+<a id="post-29"></a>
+
 ### 29. Is Decentralised AI Possible?
 
-2026-11-06 · u/Accurate-Screen8774 · Help Wanted · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfp91/is_decentralised_ai_possible/)
+2026-11-06 · u/Accurate-Screen8774 · Help Wanted · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfp91/is_decentralised_ai_possible/) · [↑ back to the list](#last-50-posts)
 
 > this is not an ad. my app is not commercialized in any way. this project is for my own research and investigation. i mention the links and demo code because i think im asking something unique and it needs examples. i hope it helps to understand what im asking. 
 >
@@ -940,22 +998,28 @@ Link: <https://dev.to/divya_s_71bf64b77a34715c8/hindsight-remembers-which-incide
 >
 > if anyone can share any guidance on the matter it might be an option for me to "figure it out".
 
+<a id="post-30"></a>
+
 ### 30. We Built an SRE Copilot That Actually Remembers Past Outages Using Hindsight, FastAPI, and Groq
 
-2026-11-06 · u/jayamala_gouda · Discussion · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfdqr/we_built_an_sre_copilot_that_actually_remembers/)
+2026-11-06 · u/jayamala_gouda · Discussion · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpfdqr/we_built_an_sre_copilot_that_actually_remembers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/manikanthamarathi/we-built-an-sre-copilot-that-actually-remembers-past-outages-using-hindsight-fastapi-and-groq-oba>
 
 
+<a id="post-31"></a>
+
 ### 31. I ran Lightpanda's demo crawler: memory ratios were close to its claim; speed results differed
 
-2026-11-06 · u/Specialist-Can2889 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpdou3/i_ran_lightpandas_demo_crawler_memory_ratios_were/)
+2026-11-06 · u/Specialist-Can2889 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpdou3/i_ran_lightpandas_demo_crawler_memory_ratios_were/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. Ling-3.2-flash adds native image and video input through both OpenAI-compatible and Anthropic-compatible APIs
 
-2026-11-06 · u/maniac518 · News · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpddyu/ling32flash_adds_native_image_and_video_input/)
+2026-11-06 · u/maniac518 · News · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpddyu/ling32flash_adds_native_image_and_video_input/) · [↑ back to the list](#last-50-posts)
 
 > Ant Ling's API documentation now lists Ling-3.2-flash for native text, image and video input through both supported request formats: OpenAI-compatible Chat Completions and Anthropic-compatible Messages.
 >
@@ -963,15 +1027,19 @@ Link: <https://dev.to/manikanthamarathi/we-built-an-sre-copilot-that-actually-re
 >
 > The model specification is 560B total parameters, 25B active, with a maximum 1M-token context window. Its release demonstrations cover research PDFs, visual frontend work, professional-software operation and agents producing multiple deliverables from shared task context.
 
+<a id="post-33"></a>
+
 ### 33. Finetuning vs RAG for legal knowledge base?
 
-2026-11-06 · u/DueBid3298 · Discussion · score 7 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpd3jl/finetuning_vs_rag_for_legal_knowledge_base/)
+2026-11-06 · u/DueBid3298 · Discussion · score 7 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpd3jl/finetuning_vs_rag_for_legal_knowledge_base/) · [↑ back to the list](#last-50-posts)
 
 > For creating summary, answering questions in legal style which one you thing will work better-> RAG or finetuning? Also share your experience when you would/have choose finetuning over RAG
 
+<a id="post-34"></a>
+
 ### 34. I got tired of free AI models repeating the same broken fix 5 times, so I built an open-source memory & verification harness in Python (Open for contributors!)
 
-2026-11-06 · u/Sudhanshu_raj_13 · Discussion · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpc2pv/i_got_tired_of_free_ai_models_repeating_the_same/)
+2026-11-06 · u/Sudhanshu_raj_13 · Discussion · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpc2pv/i_got_tired_of_free_ai_models_repeating_the_same/) · [↑ back to the list](#last-50-posts)
 
 > When using smaller or free-tier models (like Gemini 3.8 Flash or Qwen 3.8 27B) on real multi-file projects, two things usually break: installing too many skills bloats the startup prompt, and when a test fails, the model loops on the exact same broken fix.
 >
@@ -1001,27 +1069,35 @@ Link: <https://dev.to/manikanthamarathi/we-built-an-sre-copilot-that-actually-re
 >
 > Would love honest feedback on the architecture and what stack cartridges we should add next!
 
+<a id="post-35"></a>
+
 ### 35. which vector database you use in your production/mvp RAG and why did you choose over others?
 
-2026-11-06 · u/DueBid3298 · Discussion · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpbzll/which_vector_database_you_use_in_your/)
+2026-11-06 · u/DueBid3298 · Discussion · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xpbzll/which_vector_database_you_use_in_your/) · [↑ back to the list](#last-50-posts)
 
 > Hi folks, curious on what vector database do you guys use in your production/mvp and why did you choose to go with your choice over others?
 
+<a id="post-36"></a>
+
 ### 36. I reran a persona benchmark on 18 models: more reasoning effort gave less character, and a GPT judge ranked OpenAI models first
 
-2026-11-06 · u/Ornery_Wrangler6836 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9y5i/i_reran_a_persona_benchmark_on_18_models_more/)
+2026-11-06 · u/Ornery_Wrangler6836 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9y5i/i_reran_a_persona_benchmark_on_18_models_more/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. MCP questions on interviews?
 
-2026-11-06 · u/DueBid3298 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9fjy/mcp_questions_on_interviews/)
+2026-11-06 · u/DueBid3298 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9fjy/mcp_questions_on_interviews/) · [↑ back to the list](#last-50-posts)
 
 > Can folks share questions asked related to MCP on AI interviews such as integration, auth, designing, pros/cons, inetrnals etc?
 
+<a id="post-38"></a>
+
 ### 38. What libraries/tools you use in your production/mvp for extracting data from pdfs, docx, excels with lot of merge cells, ppts?
 
-2026-11-06 · u/DueBid3298 · Discussion · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9edq/what_librariestools_you_use_in_your_productionmvp/)
+2026-11-06 · u/DueBid3298 · Discussion · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9edq/what_librariestools_you_use_in_your_productionmvp/) · [↑ back to the list](#last-50-posts)
 
 > # 
 >
@@ -1034,9 +1110,11 @@ Link: <https://dev.to/manikanthamarathi/we-built-an-sre-copilot-that-actually-re
 >
 > Also share the cons along with pros in your approaches if possible
 
+<a id="post-39"></a>
+
 ### 39. MCP vs API vs CLI: How Should AI Agents Connect to Your App?
 
-2026-11-06 · u/hottown · Great Resource 🚀 · score 4 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9b3j/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/)
+2026-11-06 · u/hottown · Great Resource 🚀 · score 4 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp9b3j/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/hio9tz14wyzh1.jpeg>
 
@@ -1058,15 +1136,19 @@ Link: <https://i.redd.it/hio9tz14wyzh1.jpeg>
 >
 > Here's the full guide: [https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app](https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app)
 
+<a id="post-40"></a>
+
 ### 40. p99 matters way more than p50 once your agent runs searches in parallel
 
-2026-11-06 · u/Content_Secret6493 · Tools · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp96a4/p99_matters_way_more_than_p50_once_your_agent/)
+2026-11-06 · u/Content_Secret6493 · Tools · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp96a4/p99_matters_way_more_than_p50_once_your_agent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. A cheap cache decision can still add expensive waiting
 
-2026-11-06 · u/No_Engineer_1224 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp91mp/a_cheap_cache_decision_can_still_add_expensive/)
+2026-11-06 · u/No_Engineer_1224 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp91mp/a_cheap_cache_decision_can_still_add_expensive/) · [↑ back to the list](#last-50-posts)
 
 > I'm James Luan, CTO of Zilliz, the company behind Milvus, an open-source vector database to store, index, and search embeddings. Vector Lakebase extends that serving foundation toward lake-native discovery, analytics, and continuous improvement over the same data.
 >
@@ -1078,33 +1160,43 @@ Link: <https://i.redd.it/hio9tz14wyzh1.jpeg>
 >
 > These figures describe the measured setups, not a universal latency ranking. The practical decision is whether the avoided generation is worth the added check for the workload being served. Reuse quality and decision latency both belong in that evaluation.
 
+<a id="post-42"></a>
+
 ### 42. Oken_Behavioral_Similarity_Methodology
 
-2026-11-06 · u/oken415 · Tools · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp8tl8/oken_behavioral_similarity_methodology/)
+2026-11-06 · u/oken415 · Tools · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp8tl8/oken_behavioral_similarity_methodology/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. Preprint: Qwen3-8B and gpt-oss-20b sometimes add unsupported rules to their own handoff summaries
 
-2026-11-06 · u/Few-Decision6287 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp8jjw/preprint_qwen38b_and_gptoss20b_sometimes_add/)
+2026-11-06 · u/Few-Decision6287 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp8jjw/preprint_qwen38b_and_gptoss20b_sometimes_add/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-44"></a>
 
 ### 44. I have 100 dollars worth of claude api key credits
 
-2026-11-06 · u/MarionberryHuman9323 · Help Wanted · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp88sm/i_have_100_dollars_worth_of_claude_api_key_credits/)
+2026-11-06 · u/MarionberryHuman9323 · Help Wanted · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp88sm/i_have_100_dollars_worth_of_claude_api_key_credits/) · [↑ back to the list](#last-50-posts)
 
 > I'm not using tht for a long time now so thought can i sell it to anyone online for a lesser price is it possible. Like i will generate a key for them and they use it fully. Is this doable i need guidance
 
+<a id="post-45"></a>
+
 ### 45. Looking to chat with developers building LLM-powered agents and applications
 
-2026-11-06 · u/Aggravating-Song1375 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp6nl1/looking_to_chat_with_developers_building/)
+2026-11-06 · u/Aggravating-Song1375 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp6nl1/looking_to_chat_with_developers_building/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. I built OpsBridge: a workbench for investigating blocked invoices with evidence and human approval
 
-2026-11-06 · u/Fit_Fortune953 · Help Wanted · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp6jvg/i_built_opsbridge_a_workbench_for_investigating/)
+2026-11-06 · u/Fit_Fortune953 · Help Wanted · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp6jvg/i_built_opsbridge_a_workbench_for_investigating/) · [↑ back to the list](#last-50-posts)
 
 > An invoice says 20 chairs. Receiving shows 18. A supplier email says everything arrived.
 >
@@ -1127,9 +1219,11 @@ Link: <https://i.redd.it/hio9tz14wyzh1.jpeg>
 >
 > If you work in AP or procurement, what would you need to see before trusting this during an investigation.
 
+<a id="post-47"></a>
+
 ### 47. apple-llm 0.3: local STT, Apple’s on-device LLM, and TTS in one Node/Python package
 
-2026-11-06 · u/light_2earth · Great Resource 🚀 · score 17 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp4pu7/applellm_03_local_stt_apples_ondevice_llm_and_tts/)
+2026-11-06 · u/light_2earth · Great Resource 🚀 · score 17 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp4pu7/applellm_03_local_stt_apples_ondevice_llm_and_tts/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/w7ma4wxtfxzh1>
 
@@ -1151,9 +1245,11 @@ Link: <https://v.redd.it/w7ma4wxtfxzh1>
 >
 > Requirements: macOS 26+ on Apple Silicon and Xcode Command Line Tools. For local-only LLM processing, select `tier: 'device'`; the optional Private Cloud Compute tier sends prompts off the Mac.
 
+<a id="post-48"></a>
+
 ### 48. Start the voices before the script is finished: a streaming two-host podcast pipeline on local hardware
 
-2026-11-06 · u/Old_Librarian_9916 · Tools · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp3umk/start_the_voices_before_the_script_is_finished_a/)
+2026-11-06 · u/Old_Librarian_9916 · Tools · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp3umk/start_the_voices_before_the_script_is_finished_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/k42eddo97xzh1>
 
@@ -1177,9 +1273,11 @@ Link: <https://v.redd.it/k42eddo97xzh1>
 >
 > How would you handle a line that needs changing after playback has started?
 
+<a id="post-49"></a>
+
 ### 49. I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — technical feedback welcome
 
-2026-11-06 · u/acaimari · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp3mbo/i_integrated_local_meta_muse_glimmer_30b_into_a/)
+2026-11-06 · u/acaimari · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp3mbo/i_integrated_local_meta_muse_glimmer_30b_into_a/) · [↑ back to the list](#last-50-posts)
 
 > **Title: I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — technical feedback welcome**
 >
@@ -1218,9 +1316,11 @@ Link: <https://v.redd.it/k42eddo97xzh1>
 >
 > **For developers running local LLMs: what has been your biggest challenge with tool calling and context limits?**
 
+<a id="post-50"></a>
+
 ### 50. We benchmarked 6 LLM inference engines on speed AND quality — including 64K–256K contexts, concurrency, and GGUF vs NInfer
 
-2026-11-06 · u/fuzhongkai · Discussion · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp2i3o/we_benchmarked_6_llm_inference_engines_on_speed/)
+2026-11-06 · u/fuzhongkai · Discussion · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xp2i3o/we_benchmarked_6_llm_inference_engines_on_speed/) · [↑ back to the list](#last-50-posts)
 
 > Most LLM inference benchmarks focus on tokens/sec, TTFT, or throughput.
 >
@@ -1300,9 +1400,11 @@ Link: <https://v.redd.it/k42eddo97xzh1>
 >
 > *Benchmark details and results are in the attached poster.*
 
+<a id="post-51"></a>
+
 ### 51. I built a shopper attention heatmap using open-source computer vision models
 
-2026-10-16 · u/claudioe · Tools · score 985 · 101 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x76vtw/i_built_a_shopper_attention_heatmap_using/)
+2026-10-16 · u/claudioe · Tools · score 985 · 101 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x76vtw/i_built_a_shopper_attention_heatmap_using/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/t5jr928yarvh1>
 
@@ -1324,9 +1426,11 @@ Link: <https://v.redd.it/t5jr928yarvh1>
 >
 > 🎬 Video: [https://youtu.be/w3M8PlVcndU](https://youtu.be/w3M8PlVcndU)
 
+<a id="post-52"></a>
+
 ### 52. Google's Open Knowledge Format (OKF), an implementation that addresses real life problems
 
-2026-10-31 · u/chlankboot · Discussion · score 370 · 49 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xkebc5/googles_open_knowledge_format_okf_an/)
+2026-10-31 · u/chlankboot · Discussion · score 370 · 49 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xkebc5/googles_open_knowledge_format_okf_an/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zrabn8kavtyh1.png>
 
@@ -1351,9 +1455,11 @@ Link: <https://i.redd.it/zrabn8kavtyh1.png>
 >
 > Are you using OKF, where do you think it breaks, and how you handle trust and sources when you let a model answer from company documents.
 
+<a id="post-53"></a>
+
 ### 53. I took apart Claude Code, OpenCode and Pi, then turned what I learned into a free course on harness engineering
 
-2026-10-24 · u/pauliusztin · Great Resource 🚀 · score 310 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xe3vbw/i_took_apart_claude_code_opencode_and_pi_then/)
+2026-10-24 · u/pauliusztin · Great Resource 🚀 · score 310 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xe3vbw/i_took_apart_claude_code_opencode_and_pi_then/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ltt319n4ldxh1.png>
 
@@ -1386,24 +1492,30 @@ Link: <https://i.redd.it/ltt319n4ldxh1.png>
 >
 > Curious what others here think. Which of these steps has been the hardest to get right in your own agents?
 
+<a id="post-54"></a>
+
 ### 54. Developers saving 10+ hours a week with AI dropped from 68% to 25% in a year. The time went to fixing generated code.
 
-2026-10-28 · u/Suspicious_Orchid770 · Discussion · score 230 · 110 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xhj52a/developers_saving_10_hours_a_week_with_ai_dropped/)
+2026-10-28 · u/Suspicious_Orchid770 · Discussion · score 230 · 110 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xhj52a/developers_saving_10_hours_a_week_with_ai_dropped/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://leaddev.com/ai/ais-time-savings-are-disappearing-into-code-review>
 
 > The old friction hasn’t gone anywhere.
 
+<a id="post-55"></a>
+
 ### 55. Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos
 
-2026-10-15 · u/lulzxdxdxd · News · score 149 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x6dnrz/bank_of_america_hired_1000_contractors_to_patch/)
+2026-10-15 · u/lulzxdxdxd · News · score 149 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x6dnrz/bank_of_america_hired_1000_contractors_to_patch/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html>
 
 
+<a id="post-56"></a>
+
 ### 56. I built a harness that everybody on my engineering team ended up using every day over the past 6 months. After delegating 1500+ Linear issues to it with an 80% merge rate, I'm open sourcing it (MIT license).
 
-2026-10-29 · u/rudderstackdev · Tools · score 123 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xitb9k/i_built_a_harness_that_everybody_on_my/)
+2026-10-29 · u/rudderstackdev · Tools · score 123 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xitb9k/i_built_a_harness_that_everybody_on_my/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fqx85ap84gyh1.gif>
 
@@ -1434,9 +1546,11 @@ Link: <https://i.redd.it/fqx85ap84gyh1.gif>
 >
 > This week, I open sourced it, MIT license. Deploy it in your cloud with Docker/Kubernetes, bring your own models (OpenAI/Anthropic supported for now), no telemetry. Let me know your experience.
 
+<a id="post-57"></a>
+
 ### 57. After 6 months of daily building, I just released Hillock v1.0 stable: a local neuro-symbolic memory engine that runs under 1.2GB VRAM with zero hallucinations
 
-2026-10-28 · u/Equivalent-Flan-1590 · Great Discussion 💭 · score 122 · 81 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xhk193/after_6_months_of_daily_building_i_just_released/)
+2026-10-28 · u/Equivalent-Flan-1590 · Great Discussion 💭 · score 122 · 81 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xhk193/after_6_months_of_daily_building_i_just_released/) · [↑ back to the list](#last-50-posts)
 
 > I spent the last half year obsessing over one specific problem: why does giving a local LLM long-term memory require spinning up massive vector databases that eat gigabytes of RAM and still hallucinate? Today I finally pushed the v1.0.0 stable release of Hillock, and it runs completely offline on consumer hardware or pure laptop CPU.
 >
@@ -1452,9 +1566,11 @@ Link: <https://i.redd.it/fqx85ap84gyh1.gif>
 >
 > I started this project from my bedroom in Norway six months ago and worked on it almost every single day. Seeing v1.0 stable finally tagged feels surreal. The repository is open-source under AGPL-3.0. If you try it out or star the repo, it genuinely means the world to an independent developer: [https://github.com/roandejager/Hillock](https://github.com/roandejager/Hillock)
 
+<a id="post-58"></a>
+
 ### 58. DeepSeek V4.1 Flash on Colab. Uncensored. 118.7 tok/s.
 
-2026-10-30 · u/Healthy_Essay3388 · Tools · score 122 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xjnhn7/deepseek_v41_flash_on_colab_uncensored_1187_toks/)
+2026-10-30 · u/Healthy_Essay3388 · Tools · score 122 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xjnhn7/deepseek_v41_flash_on_colab_uncensored_1187_toks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/r9kmv1q2fnyh1>
 
@@ -1464,9 +1580,11 @@ Link: <https://v.redd.it/r9kmv1q2fnyh1>
 >
 > [https://github.com/leonxger/deepseek-colab](https://github.com/leonxger/deepseek-colab)
 
+<a id="post-59"></a>
+
 ### 59. I gave my local LLM a real phone number to make calls for me (open-source)
 
-2026-10-27 · u/Agent007_MI9 · Tools · score 97 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xh3n68/i_gave_my_local_llm_a_real_phone_number_to_make/)
+2026-10-27 · u/Agent007_MI9 · Tools · score 97 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xh3n68/i_gave_my_local_llm_a_real_phone_number_to_make/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/l0hzu99mj2yh1.png>
 
@@ -1503,9 +1621,11 @@ Link: <https://i.redd.it/l0hzu99mj2yh1.png>
 >
 > Repo: [github.com/oxwn/ai-phone](http://github.com/oxwn/ai-phone)
 
+<a id="post-60"></a>
+
 ### 60. I built a tiny self-hostable kanban board MCP server for coding agents: 10–60 tokens per reply, ~3 MB of RAM
 
-2026-10-27 · u/allmudi · Resource · score 74 · 44 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xgdoar/i_built_a_tiny_selfhostable_kanban_board_mcp/)
+2026-10-27 · u/allmudi · Resource · score 74 · 44 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xgdoar/i_built_a_tiny_selfhostable_kanban_board_mcp/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tma64k3ejwxh1.gif>
 
@@ -1532,9 +1652,11 @@ Link: <https://i.redd.it/tma64k3ejwxh1.gif>
 >
 > count\_tokens docs: [https://platform.claude.com/docs/en/build-with-claude/token-counting](https://platform.claude.com/docs/en/build-with-claude/token-counting)
 
+<a id="post-61"></a>
+
 ### 61. watching terminal coding agents grep a 500k-line repo feels like a 30-year technological regression, isn't it?
 
-2026-10-27 · u/Evening_Hawk_7470 · Discussion · score 65 · 78 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xh3uqz/watching_terminal_coding_agents_grep_a_500kline/)
+2026-10-27 · u/Evening_Hawk_7470 · Discussion · score 65 · 78 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xh3uqz/watching_terminal_coding_agents_grep_a_500kline/) · [↑ back to the list](#last-50-posts)
 
 > to start with, software engineering spent the last thirty years building compilers, language servers, and IDE indexers that resolve type hierarchies, overloaded methods, and cross-package call graphs in milliseconds.   
 > now we give a terminal AI coding agent bash access on a 500,000-line repository, and it spends ten minutes running `ripgrep` loops across the entire directory tree, likemissing overloaded methods in test fixtures, confusing shadowed variables, and burning 50,000 input tokens just trying to find which interface implemented a method.  
@@ -1545,9 +1667,11 @@ Link: <https://i.redd.it/tma64k3ejwxh1.gif>
 >
 > and now this left me guessing (maybe you would answer..) are we leaning so hard into terminal minimalism that we are literally throwing away the compiler tools we spent decades building, or have you found a way to make pure text-search CLI agents reliable on massive codebases without burning a fortune in input tokens?
 
+<a id="post-62"></a>
+
 ### 62. Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)
 
-2026-10-18 · u/Mikasa0xdev · Discussion · score 60 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x8wwhy/openspline_host_a_realtime_talking_avatar_on_a/)
+2026-10-18 · u/Mikasa0xdev · Discussion · score 60 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x8wwhy/openspline_host_a_realtime_talking_avatar_on_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kndj9w2of6wh1.png>
 
@@ -1566,25 +1690,31 @@ Link: <https://i.redd.it/kndj9w2of6wh1.png>
 >
 > PS: sorry for a sleepy photo, it's 5:10am and didn't sleep last night :P
 
+<a id="post-63"></a>
+
 ### 63. A Harvard study found AI agents increased coding activity but not shipped work, partly because code review became the bottleneck.
 
-2026-10-15 · u/Suspicious_Orchid770 · Discussion · score 54 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x6i0t5/a_harvard_study_found_ai_agents_increased_coding/)
+2026-10-15 · u/Suspicious_Orchid770 · Discussion · score 54 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x6i0t5/a_harvard_study_found_ai_agents_increased_coding/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://leaddev.com/leadership/5-shifts-im-watching-as-leaddevs-new-editor-at-large>
 
 > * AI amplifies your existing foundations… **both good and bad**.
 
+<a id="post-64"></a>
+
 ### 64. A post from LocalLlaMa
 
-2026-10-13 · u/TangeloOk9486 · Discussion · score 46 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x55s84/a_post_from_localllama/)
+2026-10-13 · u/TangeloOk9486 · Discussion · score 46 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x55s84/a_post_from_localllama/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6wwjopaaaavh1.jpeg>
 
 > Why are not the china models still giving us a move? Why so quiet
 
+<a id="post-65"></a>
+
 ### 65. We tested Jev as a reranker against Voyage, Cohere and Qwen on 1,000 eval cases. It came within 0.003 of first place (!!)
 
-2026-10-20 · u/srnsnemil · Discussion · score 43 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xattho/we_tested_jev_as_a_reranker_against_voyage_cohere/)
+2026-10-20 · u/srnsnemil · Discussion · score 43 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xattho/we_tested_jev_as_a_reranker_against_voyage_cohere/) · [↑ back to the list](#last-50-posts)
 
 > We run millions of retrieval queries a month at [kapa.ai](http://kapa.ai) (YC S23) - all of them go through a reranker in some way, so picking the right one matters a lot to us.
 >
@@ -1642,9 +1772,11 @@ Link: <https://i.redd.it/6wwjopaaaavh1.jpeg>
 >
 > *Cohere costs come from billed units. For Qwen3 reranker 8B we used what was available on OpenRouter. Self-hosting it would most likely make it cheaper and faster.*
 
+<a id="post-66"></a>
+
 ### 66. Prompt caching patterns across major LLM providers look very different
 
-2026-11-03 · u/Sufficient-Bat-9880 · Discussion · score 42 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xmxn2u/prompt_caching_patterns_across_major_llm/)
+2026-11-03 · u/Sufficient-Bat-9880 · Discussion · score 42 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xmxn2u/prompt_caching_patterns_across_major_llm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/00m4hromcfzh1.png>
 
@@ -1653,9 +1785,11 @@ Link: <https://i.redd.it/00m4hromcfzh1.png>
 > I find it interesting how much higher Anthropic and Cursor are on cached tokens compared to Google and apparently caching can also give some indication of how heavily models are being used for agent workflows since agents tend to reuse a lot of context.
 > Full article: [https://ramp.com/data/googles-models-lag-in-agentic-ai-usage](https://ramp.com/data/googles-models-lag-in-agentic-ai-usage)
 
+<a id="post-67"></a>
+
 ### 67. I use a ~322M local model to judge every tool call my coding agents make (about 90 ms on CPU, no API)
 
-2026-10-11 · u/Extreme_Ad5709 · Resource · score 36 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x317c6/i_use_a_322m_local_model_to_judge_every_tool_call/)
+2026-10-11 · u/Extreme_Ad5709 · Resource · score 36 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1x317c6/i_use_a_322m_local_model_to_judge_every_tool_call/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x317c6>
 
@@ -1671,9 +1805,11 @@ Link: <https://www.reddit.com/gallery/1x317c6>
 >
 > Repo: [https://github.com/scs0209/laya-guard](https://github.com/scs0209/laya-guard) (install with `pip install laya-guardrail`)
 
+<a id="post-68"></a>
+
 ### 68. Full DeepSeek-V4.1-Flash-1017 (510 GB, original weights) on a 64 GB RAM + RTX 3060 12 GB PC: up to 7.4 tok/s, 98.3% agreement with the full model. Engine released
 
-2026-10-23 · u/Muted_Context_1999 · Tools · score 35 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xdm5gj/full_deepseekv41flash1017_510_gb_original_weights/)
+2026-10-23 · u/Muted_Context_1999 · Tools · score 35 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/LLMDevs/comments/1xdm5gj/full_deepseekv41flash1017_510_gb_original_weights/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xdm5gj>
 

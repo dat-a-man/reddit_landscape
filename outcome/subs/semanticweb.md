@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Title: LinkedDataHub 6: the application is data](https://www.reddit.com/r/semanticweb/comments/1xpe4cr/title_linkeddatahub_6_the_application_is_data/) | u/namedgraph | — | text | 11 | 2 | live | — |
-| 2 | 2026-11-06 | [Old Repair Records Have No Tire IDs. Can a New Ontology Invent Them?](https://www.reddit.com/r/semanticweb/comments/1xp9om4/old_repair_records_have_no_tire_ids_can_a_new/) | u/CapitalLog7599 | — | text | 0 | 0 | live | — |
-| 3 | 2026-11-06 | [GB Tree Studio: a free browser tool that draws tree diagrams and checks sentences against (Government & Bindi…](https://www.reddit.com/r/semanticweb/comments/1xp2w6n/gb_tree_studio_a_free_browser_tool_that_draws/) | u/Ok_Swan995 | — | reddit.com | 0 | 0 | live | — |
-| 4 | 2026-11-02 | [Local-first entity linking: your knowledge graph answers first, Wikidata fills the gaps, sameAs bridges the t…](https://www.reddit.com/r/semanticweb/comments/1xlxhzu/localfirst_entity_linking_your_knowledge_graph/) | u/InformationKindly675 | — | v.redd.it | 0 | 8 | live | — |
-| 5 | 2026-11-01 | [Csv to RDF](https://www.reddit.com/r/semanticweb/comments/1xl0tv4/csv_to_rdf/) | u/helomithrandir | — | text | 9 | 17 | live | — |
-| 6 | 2026-10-31 | [Ted's Lab](https://www.reddit.com/r/semanticweb/comments/1xknebk/teds_lab/) | u/OmniKnowledge-Dev | — | reddit.com | 0 | 0 | removed by mod | — |
-| 7 | 2026-10-28 | [Interview coming up for a RAG / knowledge graph role, how would you prep?](https://www.reddit.com/r/semanticweb/comments/1xi01xg/interview_coming_up_for_a_rag_knowledge_graph/) | u/AbbreviationsShot240 | — | text | 10 | 11 | live | — |
-| 8 | 2026-10-28 | [Why do AI systems struggle to make sense of company data, even when there’s plenty of it?](https://www.reddit.com/r/semanticweb/comments/1xhgos1/why_do_ai_systems_struggle_to_make_sense_of/) | u/Rajxai | — | text | 3 | 0 | live | — |
-| 9 | 2026-10-27 | [Why does Artificial Intelligence need to rediscover the Philosophy of Language?](https://www.reddit.com/r/semanticweb/comments/1xgsdwk/why_does_artificial_intelligence_need_to/) | u/xthumb_24 | — | text | 0 | 1 | live | — |
-| 10 | 2026-10-27 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](https://www.reddit.com/r/semanticweb/comments/1xgm53q/fully_offline_multilang_slavic_languages/) | u/x-0D | — | text | 1 | 0 | live | — |
-| 11 | 2026-10-26 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](https://www.reddit.com/r/semanticweb/comments/1xga553/fully_offline_multilang_slavic_languages/) | u/x-0D | — | reddit.com | 4 | 0 | live | — |
-| 12 | 2026-10-26 | [RDF 1.2 & SPARQL 1.2 Developer Cheat Sheet](https://www.reddit.com/r/semanticweb/comments/1xg6mty/rdf_12_sparql_12_developer_cheat_sheet/) | u/kolchinmax | — | text | 2 | 2 | live | — |
-| 13 | 2026-10-25 | [Tonto is a textual ontology modeling language.](https://www.reddit.com/r/semanticweb/comments/1xf0dnz/tonto_is_a_textual_ontology_modeling_language/) | u/Old-Tone-9064 | — | reddit.com | 3 | 0 | live | — |
-| 14 | 2026-10-25 | [How Many Objects Are There in One Car?](https://www.reddit.com/r/semanticweb/comments/1xeu551/how_many_objects_are_there_in_one_car/) | u/CapitalLog7599 | — | text | 7 | 7 | live | — |
-| 15 | 2026-10-24 | [MatGUI - AI powered SPARQL workbench](https://www.reddit.com/r/semanticweb/comments/1xekzfq/matgui_ai_powered_sparql_workbench/) | u/Inside_Credit_3914 | — | text | 8 | 1 | live | — |
-| 16 | 2026-10-24 | [Who said it? How I model a text where most of the claims aren't the narrator's (schema map, RDF 1.2, andthree…](https://www.reddit.com/r/semanticweb/comments/1xe5fiz/who_said_it_how_i_model_a_text_where_most_of_the/) | u/DougEgge | — | text | 7 | 10 | live | — |
-| 17 | 2026-10-24 | [Honest reviews of Context graphs and Gemini Knowledge Catalog please](https://www.reddit.com/r/semanticweb/comments/1xe32hy/honest_reviews_of_context_graphs_and_gemini/) | u/nkmrao | — | text | 13 | 17 | live | — |
-| 18 | 2026-10-20 | [I built a React + Tailwind e-commerce admin dashboard — feedback welcome](https://www.reddit.com/r/semanticweb/comments/1xae844/i_built_a_react_tailwind_ecommerce_admin/) | u/Hanan_Web_Dev | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 19 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](https://www.reddit.com/r/semanticweb/comments/1xa8rfo/i_wanted_the_editor_experience_every_programming/) | u/ascendToSurvive | — | v.redd.it | 34 | 17 | live | — |
-| 20 | 2026-10-19 | [Techniques to build semantic graph](https://www.reddit.com/r/semanticweb/comments/1x9sxe5/techniques_to_build_semantic_graph/) | u/Historical_Ad4384 | — | text | 17 | 11 | live | — |
-| 21 | 2026-10-16 | [Ontobug](https://www.reddit.com/r/semanticweb/comments/1x7fqjw/ontobug/) | u/ParaboloidalCrest | — | i.redd.it | 1 | 0 | live | — |
-| 22 | 2026-10-16 | [Does enterprise AI need an ontology first? The approach we're exploring in Oryh](https://www.reddit.com/r/semanticweb/comments/1x7a8g6/does_enterprise_ai_need_an_ontology_first_the/) | u/CapitalLog7599 | — | text | 4 | 17 | live | — |
-| 23 | 2026-10-16 | [Ontobug](https://www.reddit.com/r/semanticweb/comments/1x74g0h/ontobug/) | u/coderarun | — | i.redd.it | 0 | 0 | live | — |
-| 24 | 2026-10-14 | [Anyone tried packaging a whole body of rules as a versioned dependency instead of an ontology or a dataset?](https://www.reddit.com/r/semanticweb/comments/1x61pgo/anyone_tried_packaging_a_whole_body_of_rules_as_a/) | u/arxohq | — | text | 10 | 12 | live | — |
-| 25 | 2026-10-13 | [Catenary: a scribble tool for RDF models](https://www.reddit.com/r/semanticweb/comments/1x548ca/catenary_a_scribble_tool_for_rdf_models/) | u/Environmental-Web584 | — | text | 8 | 3 | live | — |
-| 26 | 2026-10-12 | [Make an obsidian vault into an ontology with reasoning and query with SPARQL, using a few frontmatter keys (l…](https://www.reddit.com/r/semanticweb/comments/1x4fbgx/make_an_obsidian_vault_into_an_ontology_with/) | u/b_i_s_c_u_i_t_s | — | — | 4 | 2 | live | — |
-| 27 | 2026-10-12 | [Bible Ontology: design choices and open questions in a knowledge graph of a literary corpus (developer, seeki…](https://www.reddit.com/r/semanticweb/comments/1x40bn1/bible_ontology_design_choices_and_open_questions/) | u/DougEgge | — | text | 14 | 23 | live | — |
-| 28 | 2026-10-12 | [Can an Ordinary Company Afford a Real FDE?](https://www.reddit.com/r/semanticweb/comments/1x3wh0v/can_an_ordinary_company_afford_a_real_fde/) | u/CapitalLog7599 | — | text | 0 | 2 | live | — |
-| 29 | 2026-10-10 | [An Ontology crosswalk to merge 2 video games together](https://www.reddit.com/r/semanticweb/comments/1x2c19o/an_ontology_crosswalk_to_merge_2_video_games/) | u/Successful-Farm5339 | — | v.redd.it | 31 | 5 | live | — |
-| 30 | 2026-10-08 | [The Glass Tesseract](https://www.reddit.com/r/semanticweb/comments/1x1676r/the_glass_tesseract/) | u/MichaelDMcCray | — | — | 0 | 0 | live | — |
-| 31 | 2026-10-07 | [..beautiful and intimidating.](https://www.reddit.com/r/semanticweb/comments/1x0b8xm/beautiful_and_intimidating/) | u/FeverForest | — | i.redd.it | 17 | 13 | live | — |
-| 32 | 2026-10-05 | [Feedback wanted: metadata for transparent, revisable web knowledge](https://www.reddit.com/r/semanticweb/comments/1wya0jw/feedback_wanted_metadata_for_transparent/) | u/Dry_Board_5479 | — | text | 8 | 1 | live | — |
-| 33 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](https://www.reddit.com/r/semanticweb/comments/1wxdjr0/we_just_released_gqldb_an_htap_graph_database/) | u/artika4biz | — | text | 0 | 0 | spam-filtered | — |
-| 34 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](https://www.reddit.com/r/semanticweb/comments/1wxdisw/we_just_released_gqldb_an_htap_graph_database/) | u/artika4biz | — | — | 0 | 0 | spam-filtered | — |
-| 35 | 2026-10-02 | [The Ontology Worked. Then Nobody Dared Change It.](https://www.reddit.com/r/semanticweb/comments/1wvr0xq/the_ontology_worked_then_nobody_dared_change_it/) | u/CapitalLog7599 | — | text | 0 | 7 | live | — |
-| 36 | 2026-10-01 | [Wittgenstein Apartment: Separating action identity, character access and executability in a behavioral predic…](https://www.reddit.com/r/semanticweb/comments/1wuzezz/wittgenstein_apartment_separating_action_identity/) | u/Kon-tiki-ship | — | text | 3 | 2 | live | — |
-| 37 | 2026-10-01 | [Graphwise AI Summit 2026, Oct 7-8](https://www.reddit.com/r/semanticweb/comments/1wuycnx/graphwise_ai_summit_2026_oct_78/) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 1 | live | — |
-| 38 | 2026-10-01 | [Graphwise AI Summit 2026, Oct 7-8, Online](https://www.reddit.com/r/semanticweb/comments/1wuy6pn/graphwise_ai_summit_2026_oct_78_online/) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 39 | 2026-10-01 | [Promo Post \| Graphwise AI Summit, Oct 7-8, Online & Free](https://www.reddit.com/r/semanticweb/comments/1wuy2sr/promo_post_graphwise_ai_summit_oct_78_online_free/) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 40 | 2026-10-01 | [Taxonomist to Ontologist: Advice on tools, tech stack, and governance?](https://www.reddit.com/r/semanticweb/comments/1wuuw4y/taxonomist_to_ontologist_advice_on_tools_tech/) | u/Interesting-Issue311 | — | text | 24 | 11 | live | — |
-| 41 | 2026-10-01 | [The Legal Ontologies Foundry](https://www.reddit.com/r/semanticweb/comments/1wun5rc/the_legal_ontologies_foundry/) | u/ScholarForeign7549 | — | text | 14 | 1 | live | — |
-| 42 | 2026-09-30 | [How would you model a character as a repertoire of Allowed / Not Allowed behavioral predicates?](https://www.reddit.com/r/semanticweb/comments/1wu5exv/how_would_you_model_a_character_as_a_repertoire/) | u/Kon-tiki-ship | — | text | 1 | 1 | live | — |
-| 43 | 2026-09-30 | [Could most of the Semantic Web / ontology creation pipeline eventually be automated by AI?](https://www.reddit.com/r/semanticweb/comments/1wtvwiz/could_most_of_the_semantic_web_ontology_creation/) | u/himanshu_urck | — | text | 15 | 11 | live | — |
-| 44 | 2026-09-30 | [\[Ontology Series 7\] A Tire Becomes an Object Today. Who Fixes Yesterday's System?](https://www.reddit.com/r/semanticweb/comments/1wttvgv/ontology_series_7_a_tire_becomes_an_object_today/) | u/CapitalLog7599 | — | text | 0 | 1 | live | — |
-| 45 | 2026-09-29 | [How important is structured entity data for establishing a person as a recognized entity?](https://www.reddit.com/r/semanticweb/comments/1wt8kcw/how_important_is_structured_entity_data_for/) | u/Low-Captain350 | — | text | 0 | 0 | spam-filtered | — |
-| 46 | 2026-09-28 | [Wittgenstein Apartment — a system for representing what a character can actually do](https://www.reddit.com/r/semanticweb/comments/1wsik2t/wittgenstein_apartment_a_system_for_representing/) | u/Kon-tiki-ship | — | text | 1 | 0 | spam-filtered | — |
-| 47 | 2026-09-28 | [\[Ontology Series 6\] If AI Can Draw the Map, Why Make It Follow the Map?](https://www.reddit.com/r/semanticweb/comments/1wsaqfy/ontology_series_6_if_ai_can_draw_the_map_why_make/) | u/CapitalLog7599 | — | text | 6 | 3 | live | — |
-| 48 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](https://www.reddit.com/r/semanticweb/comments/1wr3uz7/ontologyfirst_is_necessary_but_what_should_come/) | u/Kusamakura0467 | — | text | 4 | 3 | live | — |
-| 49 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](https://www.reddit.com/r/semanticweb/comments/1wr3fne/ontologyfirst_is_necessary_but_what_should_come/) | u/Kusamakura0467 | — | text | 11 | 14 | live | — |
-| 50 | 2026-09-26 | [What if a semantic graph is the stored representation, but meaning is computed as spaces?](https://www.reddit.com/r/semanticweb/comments/1wqjbpg/what_if_a_semantic_graph_is_the_stored/) | u/Kusamakura0467 | — | text | 4 | 3 | live | — |
+| 1 | 2026-11-06 | [Title: LinkedDataHub 6: the application is data](#post-1) | u/namedgraph | — | text | 11 | 2 | live | — |
+| 2 | 2026-11-06 | [Old Repair Records Have No Tire IDs. Can a New Ontology Invent Them?](#post-2) | u/CapitalLog7599 | — | text | 0 | 0 | live | — |
+| 3 | 2026-11-06 | [GB Tree Studio: a free browser tool that draws tree diagrams and checks sentences against (Government & Bindi…](#post-3) | u/Ok_Swan995 | — | reddit.com | 0 | 0 | live | — |
+| 4 | 2026-11-02 | [Local-first entity linking: your knowledge graph answers first, Wikidata fills the gaps, sameAs bridges the t…](#post-4) | u/InformationKindly675 | — | v.redd.it | 0 | 8 | live | — |
+| 5 | 2026-11-01 | [Csv to RDF](#post-5) | u/helomithrandir | — | text | 9 | 17 | live | — |
+| 6 | 2026-10-31 | [Ted's Lab](#post-6) | u/OmniKnowledge-Dev | — | reddit.com | 0 | 0 | removed by mod | — |
+| 7 | 2026-10-28 | [Interview coming up for a RAG / knowledge graph role, how would you prep?](#post-7) | u/AbbreviationsShot240 | — | text | 10 | 11 | live | — |
+| 8 | 2026-10-28 | [Why do AI systems struggle to make sense of company data, even when there’s plenty of it?](#post-8) | u/Rajxai | — | text | 3 | 0 | live | — |
+| 9 | 2026-10-27 | [Why does Artificial Intelligence need to rediscover the Philosophy of Language?](#post-9) | u/xthumb_24 | — | text | 0 | 1 | live | — |
+| 10 | 2026-10-27 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](#post-10) | u/x-0D | — | text | 1 | 0 | live | — |
+| 11 | 2026-10-26 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](#post-11) | u/x-0D | — | reddit.com | 4 | 0 | live | — |
+| 12 | 2026-10-26 | [RDF 1.2 & SPARQL 1.2 Developer Cheat Sheet](#post-12) | u/kolchinmax | — | text | 2 | 2 | live | — |
+| 13 | 2026-10-25 | [Tonto is a textual ontology modeling language.](#post-13) | u/Old-Tone-9064 | — | reddit.com | 3 | 0 | live | — |
+| 14 | 2026-10-25 | [How Many Objects Are There in One Car?](#post-14) | u/CapitalLog7599 | — | text | 7 | 7 | live | — |
+| 15 | 2026-10-24 | [MatGUI - AI powered SPARQL workbench](#post-15) | u/Inside_Credit_3914 | — | text | 8 | 1 | live | — |
+| 16 | 2026-10-24 | [Who said it? How I model a text where most of the claims aren't the narrator's (schema map, RDF 1.2, andthree…](#post-16) | u/DougEgge | — | text | 7 | 10 | live | — |
+| 17 | 2026-10-24 | [Honest reviews of Context graphs and Gemini Knowledge Catalog please](#post-17) | u/nkmrao | — | text | 13 | 17 | live | — |
+| 18 | 2026-10-20 | [I built a React + Tailwind e-commerce admin dashboard — feedback welcome](#post-18) | u/Hanan_Web_Dev | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 19 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](#post-19) | u/ascendToSurvive | — | v.redd.it | 34 | 17 | live | — |
+| 20 | 2026-10-19 | [Techniques to build semantic graph](#post-20) | u/Historical_Ad4384 | — | text | 17 | 11 | live | — |
+| 21 | 2026-10-16 | [Ontobug](#post-21) | u/ParaboloidalCrest | — | i.redd.it | 1 | 0 | live | — |
+| 22 | 2026-10-16 | [Does enterprise AI need an ontology first? The approach we're exploring in Oryh](#post-22) | u/CapitalLog7599 | — | text | 4 | 17 | live | — |
+| 23 | 2026-10-16 | [Ontobug](#post-23) | u/coderarun | — | i.redd.it | 0 | 0 | live | — |
+| 24 | 2026-10-14 | [Anyone tried packaging a whole body of rules as a versioned dependency instead of an ontology or a dataset?](#post-24) | u/arxohq | — | text | 10 | 12 | live | — |
+| 25 | 2026-10-13 | [Catenary: a scribble tool for RDF models](#post-25) | u/Environmental-Web584 | — | text | 8 | 3 | live | — |
+| 26 | 2026-10-12 | [Make an obsidian vault into an ontology with reasoning and query with SPARQL, using a few frontmatter keys (l…](#post-26) | u/b_i_s_c_u_i_t_s | — | — | 4 | 2 | live | — |
+| 27 | 2026-10-12 | [Bible Ontology: design choices and open questions in a knowledge graph of a literary corpus (developer, seeki…](#post-27) | u/DougEgge | — | text | 14 | 23 | live | — |
+| 28 | 2026-10-12 | [Can an Ordinary Company Afford a Real FDE?](#post-28) | u/CapitalLog7599 | — | text | 0 | 2 | live | — |
+| 29 | 2026-10-10 | [An Ontology crosswalk to merge 2 video games together](#post-29) | u/Successful-Farm5339 | — | v.redd.it | 31 | 5 | live | — |
+| 30 | 2026-10-08 | [The Glass Tesseract](#post-30) | u/MichaelDMcCray | — | — | 0 | 0 | live | — |
+| 31 | 2026-10-07 | [..beautiful and intimidating.](#post-31) | u/FeverForest | — | i.redd.it | 17 | 13 | live | — |
+| 32 | 2026-10-05 | [Feedback wanted: metadata for transparent, revisable web knowledge](#post-32) | u/Dry_Board_5479 | — | text | 8 | 1 | live | — |
+| 33 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](#post-33) | u/artika4biz | — | text | 0 | 0 | spam-filtered | — |
+| 34 | 2026-10-04 | [We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM in…](#post-34) | u/artika4biz | — | — | 0 | 0 | spam-filtered | — |
+| 35 | 2026-10-02 | [The Ontology Worked. Then Nobody Dared Change It.](#post-35) | u/CapitalLog7599 | — | text | 0 | 7 | live | — |
+| 36 | 2026-10-01 | [Wittgenstein Apartment: Separating action identity, character access and executability in a behavioral predic…](#post-36) | u/Kon-tiki-ship | — | text | 3 | 2 | live | — |
+| 37 | 2026-10-01 | [Graphwise AI Summit 2026, Oct 7-8](#post-37) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 1 | live | — |
+| 38 | 2026-10-01 | [Graphwise AI Summit 2026, Oct 7-8, Online](#post-38) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 39 | 2026-10-01 | [Promo Post \| Graphwise AI Summit, Oct 7-8, Online & Free](#post-39) | u/Tasty-Impression-277 | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 40 | 2026-10-01 | [Taxonomist to Ontologist: Advice on tools, tech stack, and governance?](#post-40) | u/Interesting-Issue311 | — | text | 24 | 11 | live | — |
+| 41 | 2026-10-01 | [The Legal Ontologies Foundry](#post-41) | u/ScholarForeign7549 | — | text | 14 | 1 | live | — |
+| 42 | 2026-09-30 | [How would you model a character as a repertoire of Allowed / Not Allowed behavioral predicates?](#post-42) | u/Kon-tiki-ship | — | text | 1 | 1 | live | — |
+| 43 | 2026-09-30 | [Could most of the Semantic Web / ontology creation pipeline eventually be automated by AI?](#post-43) | u/himanshu_urck | — | text | 15 | 11 | live | — |
+| 44 | 2026-09-30 | [\[Ontology Series 7\] A Tire Becomes an Object Today. Who Fixes Yesterday's System?](#post-44) | u/CapitalLog7599 | — | text | 0 | 1 | live | — |
+| 45 | 2026-09-29 | [How important is structured entity data for establishing a person as a recognized entity?](#post-45) | u/Low-Captain350 | — | text | 0 | 0 | spam-filtered | — |
+| 46 | 2026-09-28 | [Wittgenstein Apartment — a system for representing what a character can actually do](#post-46) | u/Kon-tiki-ship | — | text | 1 | 0 | spam-filtered | — |
+| 47 | 2026-09-28 | [\[Ontology Series 6\] If AI Can Draw the Map, Why Make It Follow the Map?](#post-47) | u/CapitalLog7599 | — | text | 6 | 3 | live | — |
+| 48 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](#post-48) | u/Kusamakura0467 | — | text | 4 | 3 | live | — |
+| 49 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](#post-49) | u/Kusamakura0467 | — | text | 11 | 14 | live | — |
+| 50 | 2026-09-26 | [What if a semantic graph is the stored representation, but meaning is computed as spaces?](#post-50) | u/Kusamakura0467 | — | text | 4 | 3 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,34 +86,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 19 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](https://www.reddit.com/r/semanticweb/comments/1xa8rfo/i_wanted_the_editor_experience_every_programming/) | u/ascendToSurvive | — | v.redd.it | 34 | 17 | live |
-| 29 | 2026-10-10 | [An Ontology crosswalk to merge 2 video games together](https://www.reddit.com/r/semanticweb/comments/1x2c19o/an_ontology_crosswalk_to_merge_2_video_games/) | u/Successful-Farm5339 | — | v.redd.it | 31 | 5 | live |
-| 20 | 2026-10-19 | [Techniques to build semantic graph](https://www.reddit.com/r/semanticweb/comments/1x9sxe5/techniques_to_build_semantic_graph/) | u/Historical_Ad4384 | — | text | 17 | 11 | live |
-| 27 | 2026-10-12 | [Bible Ontology: design choices and open questions in a knowledge graph of a literary corpus (developer, seeki…](https://www.reddit.com/r/semanticweb/comments/1x40bn1/bible_ontology_design_choices_and_open_questions/) | u/DougEgge | — | text | 14 | 23 | live |
-| 17 | 2026-10-24 | [Honest reviews of Context graphs and Gemini Knowledge Catalog please](https://www.reddit.com/r/semanticweb/comments/1xe32hy/honest_reviews_of_context_graphs_and_gemini/) | u/nkmrao | — | text | 13 | 17 | live |
-| 1 | 2026-11-06 | [Title: LinkedDataHub 6: the application is data](https://www.reddit.com/r/semanticweb/comments/1xpe4cr/title_linkeddatahub_6_the_application_is_data/) | u/namedgraph | — | text | 11 | 2 | live |
-| 24 | 2026-10-14 | [Anyone tried packaging a whole body of rules as a versioned dependency instead of an ontology or a dataset?](https://www.reddit.com/r/semanticweb/comments/1x61pgo/anyone_tried_packaging_a_whole_body_of_rules_as_a/) | u/arxohq | — | text | 10 | 12 | live |
-| 7 | 2026-10-28 | [Interview coming up for a RAG / knowledge graph role, how would you prep?](https://www.reddit.com/r/semanticweb/comments/1xi01xg/interview_coming_up_for_a_rag_knowledge_graph/) | u/AbbreviationsShot240 | — | text | 10 | 11 | live |
-| 5 | 2026-11-01 | [Csv to RDF](https://www.reddit.com/r/semanticweb/comments/1xl0tv4/csv_to_rdf/) | u/helomithrandir | — | text | 9 | 17 | live |
-| 25 | 2026-10-13 | [Catenary: a scribble tool for RDF models](https://www.reddit.com/r/semanticweb/comments/1x548ca/catenary_a_scribble_tool_for_rdf_models/) | u/Environmental-Web584 | — | text | 8 | 3 | live |
-| 15 | 2026-10-24 | [MatGUI - AI powered SPARQL workbench](https://www.reddit.com/r/semanticweb/comments/1xekzfq/matgui_ai_powered_sparql_workbench/) | u/Inside_Credit_3914 | — | text | 8 | 1 | live |
-| 16 | 2026-10-24 | [Who said it? How I model a text where most of the claims aren't the narrator's (schema map, RDF 1.2, andthree…](https://www.reddit.com/r/semanticweb/comments/1xe5fiz/who_said_it_how_i_model_a_text_where_most_of_the/) | u/DougEgge | — | text | 7 | 10 | live |
-| 14 | 2026-10-25 | [How Many Objects Are There in One Car?](https://www.reddit.com/r/semanticweb/comments/1xeu551/how_many_objects_are_there_in_one_car/) | u/CapitalLog7599 | — | text | 7 | 7 | live |
-| 22 | 2026-10-16 | [Does enterprise AI need an ontology first? The approach we're exploring in Oryh](https://www.reddit.com/r/semanticweb/comments/1x7a8g6/does_enterprise_ai_need_an_ontology_first_the/) | u/CapitalLog7599 | — | text | 4 | 17 | live |
-| 26 | 2026-10-12 | [Make an obsidian vault into an ontology with reasoning and query with SPARQL, using a few frontmatter keys (l…](https://www.reddit.com/r/semanticweb/comments/1x4fbgx/make_an_obsidian_vault_into_an_ontology_with/) | u/b_i_s_c_u_i_t_s | — | — | 4 | 2 | live |
-| 11 | 2026-10-26 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](https://www.reddit.com/r/semanticweb/comments/1xga553/fully_offline_multilang_slavic_languages/) | u/x-0D | — | reddit.com | 4 | 0 | live |
-| 8 | 2026-10-28 | [Why do AI systems struggle to make sense of company data, even when there’s plenty of it?](https://www.reddit.com/r/semanticweb/comments/1xhgos1/why_do_ai_systems_struggle_to_make_sense_of/) | u/Rajxai | — | text | 3 | 0 | live |
-| 13 | 2026-10-25 | [Tonto is a textual ontology modeling language.](https://www.reddit.com/r/semanticweb/comments/1xf0dnz/tonto_is_a_textual_ontology_modeling_language/) | u/Old-Tone-9064 | — | reddit.com | 3 | 0 | live |
-| 12 | 2026-10-26 | [RDF 1.2 & SPARQL 1.2 Developer Cheat Sheet](https://www.reddit.com/r/semanticweb/comments/1xg6mty/rdf_12_sparql_12_developer_cheat_sheet/) | u/kolchinmax | — | text | 2 | 2 | live |
-| 10 | 2026-10-27 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](https://www.reddit.com/r/semanticweb/comments/1xgm53q/fully_offline_multilang_slavic_languages/) | u/x-0D | — | text | 1 | 0 | live |
+| 19 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](#post-19) | u/ascendToSurvive | — | v.redd.it | 34 | 17 | live |
+| 29 | 2026-10-10 | [An Ontology crosswalk to merge 2 video games together](#post-29) | u/Successful-Farm5339 | — | v.redd.it | 31 | 5 | live |
+| 20 | 2026-10-19 | [Techniques to build semantic graph](#post-20) | u/Historical_Ad4384 | — | text | 17 | 11 | live |
+| 27 | 2026-10-12 | [Bible Ontology: design choices and open questions in a knowledge graph of a literary corpus (developer, seeki…](#post-27) | u/DougEgge | — | text | 14 | 23 | live |
+| 17 | 2026-10-24 | [Honest reviews of Context graphs and Gemini Knowledge Catalog please](#post-17) | u/nkmrao | — | text | 13 | 17 | live |
+| 1 | 2026-11-06 | [Title: LinkedDataHub 6: the application is data](#post-1) | u/namedgraph | — | text | 11 | 2 | live |
+| 24 | 2026-10-14 | [Anyone tried packaging a whole body of rules as a versioned dependency instead of an ontology or a dataset?](#post-24) | u/arxohq | — | text | 10 | 12 | live |
+| 7 | 2026-10-28 | [Interview coming up for a RAG / knowledge graph role, how would you prep?](#post-7) | u/AbbreviationsShot240 | — | text | 10 | 11 | live |
+| 5 | 2026-11-01 | [Csv to RDF](#post-5) | u/helomithrandir | — | text | 9 | 17 | live |
+| 25 | 2026-10-13 | [Catenary: a scribble tool for RDF models](#post-25) | u/Environmental-Web584 | — | text | 8 | 3 | live |
+| 15 | 2026-10-24 | [MatGUI - AI powered SPARQL workbench](#post-15) | u/Inside_Credit_3914 | — | text | 8 | 1 | live |
+| 16 | 2026-10-24 | [Who said it? How I model a text where most of the claims aren't the narrator's (schema map, RDF 1.2, andthree…](#post-16) | u/DougEgge | — | text | 7 | 10 | live |
+| 14 | 2026-10-25 | [How Many Objects Are There in One Car?](#post-14) | u/CapitalLog7599 | — | text | 7 | 7 | live |
+| 22 | 2026-10-16 | [Does enterprise AI need an ontology first? The approach we're exploring in Oryh](#post-22) | u/CapitalLog7599 | — | text | 4 | 17 | live |
+| 26 | 2026-10-12 | [Make an obsidian vault into an ontology with reasoning and query with SPARQL, using a few frontmatter keys (l…](#post-26) | u/b_i_s_c_u_i_t_s | — | — | 4 | 2 | live |
+| 11 | 2026-10-26 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](#post-11) | u/x-0D | — | reddit.com | 4 | 0 | live |
+| 8 | 2026-10-28 | [Why do AI systems struggle to make sense of company data, even when there’s plenty of it?](#post-8) | u/Rajxai | — | text | 3 | 0 | live |
+| 13 | 2026-10-25 | [Tonto is a textual ontology modeling language.](#post-13) | u/Old-Tone-9064 | — | reddit.com | 3 | 0 | live |
+| 12 | 2026-10-26 | [RDF 1.2 & SPARQL 1.2 Developer Cheat Sheet](#post-12) | u/kolchinmax | — | text | 2 | 2 | live |
+| 10 | 2026-10-27 | [Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?](#post-10) | u/x-0D | — | text | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Title: LinkedDataHub 6: the application is data
 
-2026-11-06 · u/namedgraph · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xpe4cr/title_linkeddatahub_6_the_application_is_data/)
+2026-11-06 · u/namedgraph · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xpe4cr/title_linkeddatahub_6_the_application_is_data/) · [↑ back to the list](#last-50-posts)
 
 > It's been a while since I posted about LinkedDataHub here. Version 6 is the biggest release since then: [https://atomgraph.com/blog/linkeddatahub-6/](https://atomgraph.com/blog/linkeddatahub-6/)
 >
@@ -135,9 +137,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'd be interested in where this architecture would or wouldn't fit the applications you're building.
 
+<a id="post-2"></a>
+
 ### 2. Old Repair Records Have No Tire IDs. Can a New Ontology Invent Them?
 
-2026-11-06 · u/CapitalLog7599 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xp9om4/old_repair_records_have_no_tire_ids_can_a_new/)
+2026-11-06 · u/CapitalLog7599 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xp9om4/old_repair_records_have_no_tire_ids_can_a_new/) · [↑ back to the list](#last-50-posts)
 
 > *When Agents Run the Business · A development note*
 >
@@ -197,16 +201,20 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I'm a developer of Oryh, an Apache-2.0 open-source project. AI assistance was used to prepare and edit this post.
 
+<a id="post-3"></a>
+
 ### 3. GB Tree Studio: a free browser tool that draws tree diagrams and checks sentences against (Government & Binding) principles
 
-2026-11-06 · u/Ok_Swan995 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xp2w6n/gb_tree_studio_a_free_browser_tool_that_draws/)
+2026-11-06 · u/Ok_Swan995 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xp2w6n/gb_tree_studio_a_free_browser_tool_that_draws/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/conlangs/comments/1xp2twf/gb_tree_studio_a_free_browser_tool_that_draws/>
 
 
+<a id="post-4"></a>
+
 ### 4. Local-first entity linking: your knowledge graph answers first, Wikidata fills the gaps, sameAs bridges the two
 
-2026-11-02 · u/InformationKindly675 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xlxhzu/localfirst_entity_linking_your_knowledge_graph/)
+2026-11-02 · u/InformationKindly675 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xlxhzu/localfirst_entity_linking_your_knowledge_graph/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/9n565fjwu6zh1>
 
@@ -227,24 +235,30 @@ Link: <https://v.redd.it/9n565fjwu6zh1>
 >
 > What I'd like this community's view on: for those publishing or consuming KGs, is per-mention provenance (which world answered) the right granularity, or do you expect dataset-level negotiation up front? And how are you handling the sameAs bridge when the public item and the local entity disagree on type?
 
+<a id="post-5"></a>
+
 ### 5. Csv to RDF
 
-2026-11-01 · u/helomithrandir · score 9 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xl0tv4/csv_to_rdf/)
+2026-11-01 · u/helomithrandir · score 9 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xl0tv4/csv_to_rdf/) · [↑ back to the list](#last-50-posts)
 
 > Hi, does anybody have a resource where they explain the concepts behind CSV to RDF conversion. Currently, the way I understand, I used the concept of direct mapping as recommended by W3C. Which in my understanding, means that the Csv name could be represented as an RDF class, Each row becomes a subject, the column name could be a predicate and the values itself as literals. The next step is to map it to my Ontology. Using Claude, I was able to use SPARQL to map it to my Ontology in graphdb.  However, I'm not clear about the concepts and claude is not making it very difficult to understand.  The way, I understand it, the mapping is working in a way that each row from csv which was represented as a subject, now becomes an instance of my Ontology.
 >
 > if somebody could explain it better and maybe point towards more resources, it would be much appreciated.
 
+<a id="post-6"></a>
+
 ### 6. Ted's Lab
 
-2026-10-31 · u/OmniKnowledge-Dev · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xknebk/teds_lab/)
+2026-10-31 · u/OmniKnowledge-Dev · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xknebk/teds_lab/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/TedsLab/comments/1xkne88/teds_lab/>
 
 
+<a id="post-7"></a>
+
 ### 7. Interview coming up for a RAG / knowledge graph role, how would you prep?
 
-2026-10-28 · u/AbbreviationsShot240 · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xi01xg/interview_coming_up_for_a_rag_knowledge_graph/)
+2026-10-28 · u/AbbreviationsShot240 · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xi01xg/interview_coming_up_for_a_rag_knowledge_graph/) · [↑ back to the list](#last-50-posts)
 
 > Got an interview next week-ish for a data/AI engineer role at one of the Big 4 here in Europe. Long assignment, 12+ months.
 >
@@ -260,9 +274,11 @@ Link: <https://www.reddit.com/r/TedsLab/comments/1xkne88/teds_lab/>
 >
 > If you’ve worked on something like this and it went sideways, I’d love to hear how.
 
+<a id="post-8"></a>
+
 ### 8. Why do AI systems struggle to make sense of company data, even when there’s plenty of it?
 
-2026-10-28 · u/Rajxai · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xhgos1/why_do_ai_systems_struggle_to_make_sense_of/)
+2026-10-28 · u/Rajxai · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xhgos1/why_do_ai_systems_struggle_to_make_sense_of/) · [↑ back to the list](#last-50-posts)
 
 > I think one reason is that data doesn’t always tell the whole story on its own.
 >
@@ -278,9 +294,11 @@ Link: <https://www.reddit.com/r/TedsLab/comments/1xkne88/teds_lab/>
 >
 > Would love to hear what’s worked in real projects, especially in healthcare.
 
+<a id="post-9"></a>
+
 ### 9. Why does Artificial Intelligence need to rediscover the Philosophy of Language?
 
-2026-10-27 · u/xthumb_24 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xgsdwk/why_does_artificial_intelligence_need_to/)
+2026-10-27 · u/xthumb_24 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xgsdwk/why_does_artificial_intelligence_need_to/) · [↑ back to the list](#last-50-posts)
 
 > In recent years, the field of AI has undergone an undeniable revolution. We’ve traded the rigid rules of traditional programming for the statistical mathematics of Large Language Models (LLMs). Binary syllogisms have given way to vector spaces, Transformers, and probability calculations involving trillions of parameters.
 >
@@ -316,9 +334,11 @@ Link: <https://www.reddit.com/r/TedsLab/comments/1xkne88/teds_lab/>
 >
 > Now, to reach maturity, it must rediscover the philosophers of language. The future of technology is, ironically, profoundly human—and classical.
 
+<a id="post-10"></a>
+
 ### 10. Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?
 
-2026-10-27 · u/x-0D · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xgm53q/fully_offline_multilang_slavic_languages/)
+2026-10-27 · u/x-0D · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xgm53q/fully_offline_multilang_slavic_languages/) · [↑ back to the list](#last-50-posts)
 
 > Have you seen, encountered, or have any developments for completely offline generation of primary knowledge graphs based on text data, running on edge devices or low-end PCs?
 >
@@ -328,16 +348,20 @@ Link: <https://www.reddit.com/r/TedsLab/comments/1xkne88/teds_lab/>
 >
 > I think that I just need to get a view, an understanding, some direction from a person who at least has some understanding of ontologies, and not sit and stew over this thought while communicating with LLM.
 
+<a id="post-11"></a>
+
 ### 11. Fully offline multilang (Slavic languages preferred) Knowledge Graphs Ontologies?
 
-2026-10-26 · u/x-0D · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xga553/fully_offline_multilang_slavic_languages/)
+2026-10-26 · u/x-0D · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xga553/fully_offline_multilang_slavic_languages/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Rag/comments/1xga4x6/fully_offline_multilang_slavic_languages/>
 
 
+<a id="post-12"></a>
+
 ### 12. RDF 1.2 & SPARQL 1.2 Developer Cheat Sheet
 
-2026-10-26 · u/kolchinmax · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xg6mty/rdf_12_sparql_12_developer_cheat_sheet/)
+2026-10-26 · u/kolchinmax · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xg6mty/rdf_12_sparql_12_developer_cheat_sheet/) · [↑ back to the list](#last-50-posts)
 
 > Hey! With the W3C RDF 1.2 and SPARQL 1.2 working drafts stabilizing, you may be wondering about the new syntax constructs: when to use a pure triple term \`<<(:s :p :o)>>\` vs reified triple \`<<:s :p :o>>\` vs edge annotation \`{| :key "val" |}\` vs named reifiers \`\~ :id\`.
 >
@@ -345,16 +369,20 @@ Link: <https://www.reddit.com/r/Rag/comments/1xga4x6/fully_offline_multilang_sla
 >
 > Feedback, corrections, or edge cases you've encountered with engine support are very welcome!
 
+<a id="post-13"></a>
+
 ### 13. Tonto is a textual ontology modeling language.
 
-2026-10-25 · u/Old-Tone-9064 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xf0dnz/tonto_is_a_textual_ontology_modeling_language/)
+2026-10-25 · u/Old-Tone-9064 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xf0dnz/tonto_is_a_textual_ontology_modeling_language/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/OntoUML_UFO_gUFO/comments/1xf0d5s/tonto_is_a_textual_ontology_modeling_language/>
 
 
+<a id="post-14"></a>
+
 ### 14. How Many Objects Are There in One Car?
 
-2026-10-25 · u/CapitalLog7599 · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xeu551/how_many_objects_are_there_in_one_car/)
+2026-10-25 · u/CapitalLog7599 · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xeu551/how_many_objects_are_there_in_one_car/) · [↑ back to the list](#last-50-posts)
 
 > *When Agents Run the Business · A development note*
 >
@@ -412,17 +440,21 @@ Link: <https://www.reddit.com/r/OntoUML_UFO_gUFO/comments/1xf0d5s/tonto_is_a_tex
 >
 > I'm a developer of Oryh, an Apache-2.0 open-source project. AI assistance was used to prepare and edit this post.
 
+<a id="post-15"></a>
+
 ### 15. MatGUI - AI powered SPARQL workbench
 
-2026-10-24 · u/Inside_Credit_3914 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xekzfq/matgui_ai_powered_sparql_workbench/)
+2026-10-24 · u/Inside_Credit_3914 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xekzfq/matgui_ai_powered_sparql_workbench/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone, I've been proudly continuing to develop the well known YasGUI. Recently I gave my fork a complete makeover and added AI assistent support. Check it out and let me know if you have any feature requests! [https://matgui.matdata.eu/](https://matgui.matdata.eu/)
 >
 > https://i.redd.it/mcsb5x71lhxh1.png
 
+<a id="post-16"></a>
+
 ### 16. Who said it? How I model a text where most of the claims aren't the narrator's (schema map, RDF 1.2, andthree open questions)
 
-2026-10-24 · u/DougEgge · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xe5fiz/who_said_it_how_i_model_a_text_where_most_of_the/)
+2026-10-24 · u/DougEgge · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xe5fiz/who_said_it_how_i_model_a_text_where_most_of_the/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/7uzl6xdmvbxh1.png
 >
@@ -510,9 +542,11 @@ Link: <https://www.reddit.com/r/OntoUML_UFO_gUFO/comments/1xf0d5s/tonto_is_a_tex
 >
 > This picks up the conversation from my first post. That one made the work better, and I'd like to continue it.
 
+<a id="post-17"></a>
+
 ### 17. Honest reviews of Context graphs and Gemini Knowledge Catalog please
 
-2026-10-24 · u/nkmrao · score 13 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xe32hy/honest_reviews_of_context_graphs_and_gemini/)
+2026-10-24 · u/nkmrao · score 13 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xe32hy/honest_reviews_of_context_graphs_and_gemini/) · [↑ back to the list](#last-50-posts)
 
 > I am interested in learning more about context graphs. What they are, how to practically build them, maintain them, how best to use them, is a human engineer absolutely necessary for designing the schema, etc. If you have opinions about context graphs or using graphs in general, please share.   
 >
@@ -520,17 +554,21 @@ Link: <https://www.reddit.com/r/OntoUML_UFO_gUFO/comments/1xf0d5s/tonto_is_a_tex
 >
 > I recently came across Gemini Knowledge Catalog which apparently helps create context graphs. If anybody has used it, what do you think? Is it any good? Also, what are some other frameworks or solutions that enable the development of context graphs?
 
+<a id="post-18"></a>
+
 ### 18. I built a React + Tailwind e-commerce admin dashboard — feedback welcome
 
-2026-10-20 · u/Hanan_Web_Dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xae844/i_built_a_react_tailwind_ecommerce_admin/)
+2026-10-20 · u/Hanan_Web_Dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xae844/i_built_a_react_tailwind_ecommerce_admin/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/mk3bddhmriwh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. I wanted the editor experience every programming language gets, for RDF. So I built a language server for Turtle and SPARQL (try it in your browser)
 
-2026-10-19 · u/ascendToSurvive · score 34 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xa8rfo/i_wanted_the_editor_experience_every_programming/)
+2026-10-19 · u/ascendToSurvive · score 34 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1xa8rfo/i_wanted_the_editor_experience_every_programming/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ecfofb2tlhwh1>
 
@@ -588,9 +626,11 @@ Link: <https://v.redd.it/ecfofb2tlhwh1>
 >
 > What would it need before you'd use it every day?
 
+<a id="post-20"></a>
+
 ### 20. Techniques to build semantic graph
 
-2026-10-19 · u/Historical_Ad4384 · score 17 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x9sxe5/techniques_to_build_semantic_graph/)
+2026-10-19 · u/Historical_Ad4384 · score 17 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x9sxe5/techniques_to_build_semantic_graph/) · [↑ back to the list](#last-50-posts)
 
 > I'm looking to build semantic graph for my requirements.
 >
@@ -602,16 +642,20 @@ Link: <https://v.redd.it/ecfofb2tlhwh1>
 >
 > Any help or advice is appreciated.
 
+<a id="post-21"></a>
+
 ### 21. Ontobug
 
-2026-10-16 · u/ParaboloidalCrest · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x7fqjw/ontobug/)
+2026-10-16 · u/ParaboloidalCrest · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x7fqjw/ontobug/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zq46i4msoqvh1.png>
 
 
+<a id="post-22"></a>
+
 ### 22. Does enterprise AI need an ontology first? The approach we're exploring in Oryh
 
-2026-10-16 · u/CapitalLog7599 · score 4 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x7a8g6/does_enterprise_ai_need_an_ontology_first_the/)
+2026-10-16 · u/CapitalLog7599 · score 4 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x7a8g6/does_enterprise_ai_need_an_ontology_first_the/) · [↑ back to the list](#last-50-posts)
 
 > Several discussions here have asked what the approach behind these articles looks like in code.
 >
@@ -625,16 +669,20 @@ Link: <https://i.redd.it/zq46i4msoqvh1.png>
 >
 > Part of Ontology & FDE in Practice. AI assistance was used to prepare and edit this post.
 
+<a id="post-23"></a>
+
 ### 23. Ontobug
 
-2026-10-16 · u/coderarun · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x74g0h/ontobug/)
+2026-10-16 · u/coderarun · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x74g0h/ontobug/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zq46i4msoqvh1.png>
 
 
+<a id="post-24"></a>
+
 ### 24. Anyone tried packaging a whole body of rules as a versioned dependency instead of an ontology or a dataset?
 
-2026-10-14 · u/arxohq · score 10 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x61pgo/anyone_tried_packaging_a_whole_body_of_rules_as_a/)
+2026-10-14 · u/arxohq · score 10 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x61pgo/anyone_tried_packaging_a_whole_body_of_rules_as_a/) · [↑ back to the list](#last-50-posts)
 
 > Been chewing on this for a while and I'm curious how people here would look at it.
 >
@@ -650,9 +698,11 @@ Link: <https://i.redd.it/zq46i4msoqvh1.png>
 >
 > I'm building it, the public repos are a small demo sample across law, chess, physics, chemistry, bio, philosophy. can drop links in comments if anyone wants, but mostly I want to know how you'd model the two examples above with ur stack.
 
+<a id="post-25"></a>
+
 ### 25. Catenary: a scribble tool for RDF models
 
-2026-10-13 · u/Environmental-Web584 · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x548ca/catenary_a_scribble_tool_for_rdf_models/)
+2026-10-13 · u/Environmental-Web584 · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x548ca/catenary_a_scribble_tool_for_rdf_models/) · [↑ back to the list](#last-50-posts)
 
 > The thing did a small tool for my own modeling work and put it online in case it is useful to someone else.
 >
@@ -678,16 +728,20 @@ Link: <https://i.redd.it/zq46i4msoqvh1.png>
 >
 > The tool already has 0 stars!
 
+<a id="post-26"></a>
+
 ### 26. Make an obsidian vault into an ontology with reasoning and query with SPARQL, using a few frontmatter keys (local, open source)
 
-2026-10-12 · u/b_i_s_c_u_i_t_s · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x4fbgx/make_an_obsidian_vault_into_an_ontology_with/)
+2026-10-12 · u/b_i_s_c_u_i_t_s · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x4fbgx/make_an_obsidian_vault_into_an_ontology_with/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ObsidianMD/comments/1x4cd2y/make_the_vault_into_an_ontology_with_reasoning/>
 
 
+<a id="post-27"></a>
+
 ### 27. Bible Ontology: design choices and open questions in a knowledge graph of a literary corpus (developer, seeking feedback)
 
-2026-10-12 · u/DougEgge · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x40bn1/bible_ontology_design_choices_and_open_questions/)
+2026-10-12 · u/DougEgge · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x40bn1/bible_ontology_design_choices_and_open_questions/) · [↑ back to the list](#last-50-posts)
 
 > **I'm the developer.** This is a non-profit project, and I'm posting for feedback on the knowledge engineering, not to promote a viewpoint. The goal is classic, well-grounded modelling of a text, not indoctrination: the graph records what the text says, marks interpretation as interpretation, and takes no doctrinal position.
 >
@@ -725,9 +779,11 @@ Link: </r/ObsidianMD/comments/1x4cd2y/make_the_vault_into_an_ontology_with_reaso
 >
 > Thanks. I'll be around to answer questions.
 
+<a id="post-28"></a>
+
 ### 28. Can an Ordinary Company Afford a Real FDE?
 
-2026-10-12 · u/CapitalLog7599 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x3wh0v/can_an_ordinary_company_afford_a_real_fde/)
+2026-10-12 · u/CapitalLog7599 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x3wh0v/can_an_ordinary_company_afford_a_real_fde/) · [↑ back to the list](#last-50-posts)
 
 > # Can an Ordinary Company Afford a Real FDE?
 >
@@ -783,9 +839,11 @@ Link: </r/ObsidianMD/comments/1x4cd2y/make_the_vault_into_an_ontology_with_reaso
 >
 > I'm a developer of Oryh, an Apache-2.0 open-source project. AI assistance was used to prepare and edit this post.
 
+<a id="post-29"></a>
+
 ### 29. An Ontology crosswalk to merge 2 video games together
 
-2026-10-10 · u/Successful-Farm5339 · score 31 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x2c19o/an_ontology_crosswalk_to_merge_2_video_games/)
+2026-10-10 · u/Successful-Farm5339 · score 31 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x2c19o/an_ontology_crosswalk_to_merge_2_video_games/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/e65qq1ktamuh1>
 
@@ -815,16 +873,20 @@ Link: <https://v.redd.it/e65qq1ktamuh1>
 >
 > Code (MIT): https://github.com/fabio-rovai/asset-passport.
 
+<a id="post-30"></a>
+
 ### 30. The Glass Tesseract
 
-2026-10-08 · u/MichaelDMcCray · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x1676r/the_glass_tesseract/)
+2026-10-08 · u/MichaelDMcCray · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x1676r/the_glass_tesseract/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/polymodality/comments/1x166cs/the_glass_tesseract/>
 
 
+<a id="post-31"></a>
+
 ### 31. ..beautiful and intimidating.
 
-2026-10-07 · u/FeverForest · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x0b8xm/beautiful_and_intimidating/)
+2026-10-07 · u/FeverForest · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1x0b8xm/beautiful_and_intimidating/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lw6ys1cwm4uh1.jpeg>
 
@@ -832,9 +894,11 @@ Link: <https://i.redd.it/lw6ys1cwm4uh1.jpeg>
 >
 > Sleep time.
 
+<a id="post-32"></a>
+
 ### 32. Feedback wanted: metadata for transparent, revisable web knowledge
 
-2026-10-05 · u/Dry_Board_5479 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wya0jw/feedback_wanted_metadata_for_transparent/)
+2026-10-05 · u/Dry_Board_5479 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wya0jw/feedback_wanted_metadata_for_transparent/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/semanticweb,
 >
@@ -874,9 +938,11 @@ Link: <https://i.redd.it/lw6ys1cwm4uh1.jpeg>
 >
 > Disclosure: I work on this project and am looking for rigorous feedback, including criticism that may change the design.
 
+<a id="post-33"></a>
+
 ### 33. We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM integration
 
-2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wxdjr0/we_just_released_gqldb_an_htap_graph_database/)
+2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wxdjr0/we_just_released_gqldb_an_htap_graph_database/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -900,16 +966,20 @@ Link: <https://i.redd.it/lw6ys1cwm4uh1.jpeg>
 >
 > Happy to answer technical questions and share more details about the architecture and benchmarks.
 
+<a id="post-34"></a>
+
 ### 34. We just released GQLDB — an HTAP graph database that combines property graphs, RDF, vector search, and LLM integration
 
-2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wxdisw/we_just_released_gqldb_an_htap_graph_database/)
+2026-10-04 · u/artika4biz · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wxdisw/we_just_released_gqldb_an_htap_graph_database/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/graphdatabase/comments/1wxdind/we_just_released_gqldb_an_htap_graph_database/>
 
 
+<a id="post-35"></a>
+
 ### 35. The Ontology Worked. Then Nobody Dared Change It.
 
-2026-10-02 · u/CapitalLog7599 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wvr0xq/the_ontology_worked_then_nobody_dared_change_it/)
+2026-10-02 · u/CapitalLog7599 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wvr0xq/the_ontology_worked_then_nobody_dared_change_it/) · [↑ back to the list](#last-50-posts)
 
 > *Ontology Series · Part 8*
 >
@@ -967,9 +1037,11 @@ Link: </r/graphdatabase/comments/1wxdind/we_just_released_gqldb_an_htap_graph_da
 >
 > **Discussion question:** For those maintaining production ontologies: what keeps a local business change from becoming a cross-team migration project? I’m especially interested in examples where versioning or clear ownership worked, and where exceptions gradually moved outside the model.
 
+<a id="post-36"></a>
+
 ### 36. Wittgenstein Apartment: Separating action identity, character access and executability in a behavioral predicates ontology
 
-2026-10-01 · u/Kon-tiki-ship · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuzezz/wittgenstein_apartment_separating_action_identity/)
+2026-10-01 · u/Kon-tiki-ship · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuzezz/wittgenstein_apartment_separating_action_identity/) · [↑ back to the list](#last-50-posts)
 
 > The problem that started this project was: **How can we represent an action, a character’s access to that action, and the current conditions for performing it without collapsing all three into one semantic layer?** That question turned into about eight months of work on **Wittgenstein Apartment**.
 >
@@ -994,9 +1066,11 @@ Link: </r/graphdatabase/comments/1wxdind/we_just_released_gqldb_an_htap_graph_da
 >
 > I’m not looking only for encouragement. If you think this should be modeled differently, belongs outside ontology work entirely, duplicates existing Semantic Web patterns, or introduces distinctions that are not useful, please say so directly. I’d be interested in criticism around RDF/OWL, SHACL, knowledge-graph structure, capability modeling, semantic interoperability and the conceptual boundaries of the system.
 
+<a id="post-37"></a>
+
 ### 37. Graphwise AI Summit 2026, Oct 7-8
 
-2026-10-01 · u/Tasty-Impression-277 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuycnx/graphwise_ai_summit_2026_oct_78/)
+2026-10-01 · u/Tasty-Impression-277 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuycnx/graphwise_ai_summit_2026_oct_78/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/wkrlv6v9push1>
 
@@ -1012,25 +1086,31 @@ Link: <https://v.redd.it/wkrlv6v9push1>
 >
 > Sharing registration link in the comments if useful.
 
+<a id="post-38"></a>
+
 ### 38. Graphwise AI Summit 2026, Oct 7-8, Online
 
-2026-10-01 · u/Tasty-Impression-277 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuy6pn/graphwise_ai_summit_2026_oct_78_online/)
+2026-10-01 · u/Tasty-Impression-277 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuy6pn/graphwise_ai_summit_2026_oct_78_online/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/elq5idssnush1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Promo Post \| Graphwise AI Summit, Oct 7-8, Online & Free
 
-2026-10-01 · u/Tasty-Impression-277 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuy2sr/promo_post_graphwise_ai_summit_oct_78_online_free/)
+2026-10-01 · u/Tasty-Impression-277 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuy2sr/promo_post_graphwise_ai_summit_oct_78_online_free/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/k9gddmelmush1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. Taxonomist to Ontologist: Advice on tools, tech stack, and governance?
 
-2026-10-01 · u/Interesting-Issue311 · score 24 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuuw4y/taxonomist_to_ontologist_advice_on_tools_tech/)
+2026-10-01 · u/Interesting-Issue311 · score 24 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wuuw4y/taxonomist_to_ontologist_advice_on_tools_tech/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1046,15 +1126,19 @@ Link: <https://v.redd.it/k9gddmelmush1>
 >
 > Appreciate any book, course, or roadmap recommendations you have. Thanks!
 
+<a id="post-41"></a>
+
 ### 41. The Legal Ontologies Foundry
 
-2026-10-01 · u/ScholarForeign7549 · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wun5rc/the_legal_ontologies_foundry/)
+2026-10-01 · u/ScholarForeign7549 · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wun5rc/the_legal_ontologies_foundry/) · [↑ back to the list](#last-50-posts)
 
 > One of the most successful resources in ontology development is the decades-old OBO Foundry. Open-source, collaborative efforts in ontology/knowledge graph library development are essential to improving interoperability in general. We are doing something similar with legal ontologies and we are looking for those similarly interested in open-source ontologies grounded in BFO. [legal-ontologies-foundry/legal-ontologies-foundry.github.io: Legal Ontologies Foundry (LOF): a collaborative foundry of open, interoperable legal ontologies and design patterns built on Basic Formal Ontology (BFO).](https://github.com/legal-ontologies-foundry/legal-ontologies-foundry.github.io)
 
+<a id="post-42"></a>
+
 ### 42. How would you model a character as a repertoire of Allowed / Not Allowed behavioral predicates?
 
-2026-09-30 · u/Kon-tiki-ship · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wu5exv/how_would_you_model_a_character_as_a_repertoire/)
+2026-09-30 · u/Kon-tiki-ship · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wu5exv/how_would_you_model_a_character_as_a_repertoire/) · [↑ back to the list](#last-50-posts)
 
 > I’m interested in a model where actions have stable semantic identities, but access to those actions is character-relative.
 >
@@ -1100,9 +1184,11 @@ Link: <https://v.redd.it/k9gddmelmush1>
 >
 > without ending up with an unmanageable number of ad hoc character-action assertions.
 
+<a id="post-43"></a>
+
 ### 43. Could most of the Semantic Web / ontology creation pipeline eventually be automated by AI?
 
-2026-09-30 · u/himanshu_urck · score 15 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wtvwiz/could_most_of_the_semantic_web_ontology_creation/)
+2026-09-30 · u/himanshu_urck · score 15 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wtvwiz/could_most_of_the_semantic_web_ontology_creation/) · [↑ back to the list](#last-50-posts)
 
 > I’m relatively new to the Semantic Web ecosystem and trying to understand where the difficult engineering work actually lies.
 >
@@ -1128,9 +1214,11 @@ Link: <https://v.redd.it/k9gddmelmush1>
 >
 > I’d especially like to hear from people who have built semantic systems in production.
 
+<a id="post-44"></a>
+
 ### 44. \[Ontology Series 7\] A Tire Becomes an Object Today. Who Fixes Yesterday's System?
 
-2026-09-30 · u/CapitalLog7599 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wttvgv/ontology_series_7_a_tire_becomes_an_object_today/)
+2026-09-30 · u/CapitalLog7599 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wttvgv/ontology_series_7_a_tire_becomes_an_object_today/) · [↑ back to the list](#last-50-posts)
 
 > # A Tire Becomes an Object Today. Who Fixes Yesterday's System?
 >
@@ -1186,21 +1274,27 @@ Link: <https://v.redd.it/k9gddmelmush1>
 >
 > **Discussion question:** When a property becomes an independently tracked object, how do you preserve historical meaning without inventing facts the old system never recorded?
 
+<a id="post-45"></a>
+
 ### 45. How important is structured entity data for establishing a person as a recognized entity?
 
-2026-09-29 · u/Low-Captain350 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wt8kcw/how_important_is_structured_entity_data_for/)
+2026-09-29 · u/Low-Captain350 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wt8kcw/how_important_is_structured_entity_data_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-46"></a>
 
 ### 46. Wittgenstein Apartment — a system for representing what a character can actually do
 
-2026-09-28 · u/Kon-tiki-ship · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wsik2t/wittgenstein_apartment_a_system_for_representing/)
+2026-09-28 · u/Kon-tiki-ship · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wsik2t/wittgenstein_apartment_a_system_for_representing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. \[Ontology Series 6\] If AI Can Draw the Map, Why Make It Follow the Map?
 
-2026-09-28 · u/CapitalLog7599 · score 6 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wsaqfy/ontology_series_6_if_ai_can_draw_the_map_why_make/)
+2026-09-28 · u/CapitalLog7599 · score 6 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wsaqfy/ontology_series_6_if_ai_can_draw_the_map_why_make/) · [↑ back to the list](#last-50-posts)
 
 > # If AI Can Draw the Company's Map, Why Make It Follow the Map?
 >
@@ -1262,9 +1356,11 @@ Link: <https://v.redd.it/k9gddmelmush1>
 >
 > **Discussion question:** If AI can build and update an enterprise map itself, should that map be treated as business truth, a retrieval aid, or a temporary view? What evidence should remain outside it?
 
+<a id="post-48"></a>
+
 ### 48. Ontology-first is necessary — but what should come after the ontology?
 
-2026-09-26 · u/Kusamakura0467 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wr3uz7/ontologyfirst_is_necessary_but_what_should_come/)
+2026-09-26 · u/Kusamakura0467 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wr3uz7/ontologyfirst_is_necessary_but_what_should_come/) · [↑ back to the list](#last-50-posts)
 
 > I strongly agree with the ontology-first direction.  
 > In my own open-source work, I’ve reached a similar conclusion: implementation should be projected from explicit semantic structure rather than treated as the source of meaning.  
@@ -1277,10 +1373,12 @@ Link: <https://v.redd.it/k9gddmelmush1>
 > One question I’d be interested in discussing here is:  
 > **Where do you draw the boundary between ontology and the runtime structures that make ontology operational over time?**  
 > For example, do you model provenance, temporal position, agent roles, observations, and execution history as ontology itself, or as adjacent semantic structures?
+
+<a id="post-49"></a>
 
 ### 49. Ontology-first is necessary — but what should come after the ontology?
 
-2026-09-26 · u/Kusamakura0467 · score 11 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wr3fne/ontologyfirst_is_necessary_but_what_should_come/)
+2026-09-26 · u/Kusamakura0467 · score 11 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wr3fne/ontologyfirst_is_necessary_but_what_should_come/) · [↑ back to the list](#last-50-posts)
 
 > I strongly agree with the ontology-first direction.  
 > In my own open-source work, I’ve reached a similar conclusion: implementation should be projected from explicit semantic structure rather than treated as the source of meaning.  
@@ -1294,9 +1392,11 @@ Link: <https://v.redd.it/k9gddmelmush1>
 > **Where do you draw the boundary between ontology and the runtime structures that make ontology operational over time?**  
 > For example, do you model provenance, temporal position, agent roles, observations, and execution history as ontology itself, or as adjacent semantic structures?
 
+<a id="post-50"></a>
+
 ### 50. What if a semantic graph is the stored representation, but meaning is computed as spaces?
 
-2026-09-26 · u/Kusamakura0467 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wqjbpg/what_if_a_semantic_graph_is_the_stored/)
+2026-09-26 · u/Kusamakura0467 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/semanticweb/comments/1wqjbpg/what_if_a_semantic_graph_is_the_stored/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working on an open-source semantic system called **Akasha**, and I’d be interested in feedback from people here who work with ontologies, knowledge graphs, RDF/OWL, semantic search, or related systems.  
 > One of the design decisions I keep coming back to is that a graph is an excellent way to **retain semantic structure**, but I’m not convinced that every semantic operation should be expressed as graph traversal.  

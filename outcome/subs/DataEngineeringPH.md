@@ -48,56 +48,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-04 | [Hiring Junior-Mid Data Engineers](https://www.reddit.com/r/DataEngineeringPH/comments/1xno59o/hiring_juniormid_data_engineers/) | u/electricfanwagon | 🔎 Jobs & Opportunities | text | 1 | 0 | held by automod | — |
-| 2 | 2026-11-03 | [5 months unemployed. 1,200+ job applications, 200+ rejections, 2 interviews, 0 offers. Hindi ko na alam kung…](https://www.reddit.com/r/DataEngineeringPH/comments/1xn2o5o/5_months_unemployed_1200_job_applications_200/) | u/AdStreet2258 | 🆘 Help | i.redd.it | 24 | 14 | live | — |
-| 3 | 2026-11-02 | [How do you freelance? Upwork? Linkedin?](https://www.reddit.com/r/DataEngineeringPH/comments/1xlu2ca/how_do_you_freelance_upwork_linkedin/) | u/Pure_Description_682 | 💼 Career | text | 1 | 0 | held by automod | — |
-| 4 | 2026-11-01 | [500+ applications, 0 interviews, and a mounting sense of existential dread. Destroy my resume so I can finall…](https://www.reddit.com/r/DataEngineeringPH/comments/1xl1oly/500_applications_0_interviews_and_a_mounting/) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | i.redd.it | 80 | 20 | live | — |
-| 5 | 2026-11-01 | [Please roast my resume as a recent graduate hoping to get into data engineering](https://www.reddit.com/r/DataEngineeringPH/comments/1xkyttd/please_roast_my_resume_as_a_recent_graduate/) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | text | 1 | 0 | held by automod | — |
-| 6 | 2026-10-29 | [How do small teams unify data from 7 different systems without building custom pipelines?](https://www.reddit.com/r/DataEngineeringPH/comments/1xivoi9/how_do_small_teams_unify_data_from_7_different/) | u/Adept-Addition4988 | ❓ Question | text | 1 | 0 | held by automod | — |
-| 7 | 2026-10-29 | [Hedgeserv Technical Interview Advice](https://www.reddit.com/r/DataEngineeringPH/comments/1xiepz2/hedgeserv_technical_interview_advice/) | u/WorkingSurround5133 | 🆘 Help | text | 1 | 0 | held by automod | — |
-| 8 | 2026-10-29 | [Need some advice and guidance from working professionals.](https://www.reddit.com/r/DataEngineeringPH/comments/1xiacs4/need_some_advice_and_guidance_from_working/) | u/FunFoundation6021 | 💡 Discussion | text | 1 | 0 | held by automod | — |
-| 9 | 2026-10-28 | [Title: 2025 CSE graduate struggling to get a job — starting my data engineering journey today](https://www.reddit.com/r/DataEngineeringPH/comments/1xhpjlh/title_2025_cse_graduate_struggling_to_get_a_job/) | u/Responder_One | 💼 Career | text | 7 | 2 | approved | — |
-| 10 | 2026-10-28 | [Deep tech Data/AI Research Scientists and Engineers, how did you start your career journey and how does it lo…](https://www.reddit.com/r/DataEngineeringPH/comments/1xhi9o9/deep_tech_dataai_research_scientists_and/) | u/roundroundsatellite | 💼 Career | text | 5 | 2 | approved | — |
-| 11 | 2026-10-27 | [Mapua: Masters in Business Analytics](https://www.reddit.com/r/DataEngineeringPH/comments/1xgs1hw/mapua_masters_in_business_analytics/) | u/cktrvs | ❓ Question | text | 1 | 0 | held by automod | — |
-| 12 | 2026-10-26 | [Bosscoder Academy review for data engineers](https://www.reddit.com/r/DataEngineeringPH/comments/1xfs4ee/bosscoder_academy_review_for_data_engineers/) | u/Himanshu-Prajapati | 💼 Career | text | 0 | 0 | held by automod | — |
-| 13 | 2026-10-24 | [phoenix data science internship](https://www.reddit.com/r/DataEngineeringPH/comments/1xe0agj/phoenix_data_science_internship/) | u/ClassicQuantity5949 | 💼 Career | text | 1 | 0 | held by automod | — |
-| 14 | 2026-10-23 | [\[ Removed by Reddit \]](https://www.reddit.com/r/DataEngineeringPH/comments/1xd5xlt/removed_by_reddit/) | u/elnora123 | 💼 Career | text | 1 | 0 | content_takedown | — |
-| 15 | 2026-10-21 | [what matters the most for a 25 year old data engineer](https://www.reddit.com/r/DataEngineeringPH/comments/1xbdh8m/what_matters_the_most_for_a_25_year_old_data/) | u/Antique-Use-6921 | 💼 Career | text | 1 | 0 | held by automod | — |
-| 16 | 2026-10-20 | [\[LF Study Buddies / Mentor\] Total Data Eng beginner looking to build a portfolio project for accountability!](https://www.reddit.com/r/DataEngineeringPH/comments/1xayzj7/lf_study_buddies_mentor_total_data_eng_beginner/) | u/Choice-Average-1324 | 🆘 Help | text | 1 | 0 | held by automod | — |
-| 17 | 2026-10-20 | [Graduated in 2023, career gap, and still struggling to get my first Data Engineering job. What should I do?](https://www.reddit.com/r/DataEngineeringPH/comments/1xajq9i/graduated_in_2023_career_gap_and_still_struggling/) | u/ajkhnn | ❓ Question | text | 1 | 0 | held by automod | — |
-| 18 | 2026-10-19 | [Real time vs Batch processing, how does real time justify the complexity ?](https://www.reddit.com/r/DataEngineeringPH/comments/1xa4kjx/real_time_vs_batch_processing_how_does_real_time/) | u/Effective_Routine892 | 💡 Discussion | text | 1 | 0 | approved | — |
-| 19 | 2026-10-18 | [Experiencing corporate office life for the first time](https://www.reddit.com/r/DataEngineeringPH/comments/1x937v4/experiencing_corporate_office_life_for_the_first/) | u/WharZxc | 💼 Career | text | 10 | 1 | approved | — |
-| 20 | 2026-10-17 | [White Cloak Technologies, Inc. Data Analyst Intern - How was it like to work?](https://www.reddit.com/r/DataEngineeringPH/comments/1x83qfm/white_cloak_technologies_inc_data_analyst_intern/) | u/lowkeycheesecake | ❓ Question | text | 1 | 0 | approved | — |
-| 21 | 2026-10-17 | [Data Scientist vs Data Engineering: which is worth it today?](https://www.reddit.com/r/DataEngineeringPH/comments/1x7yulv/data_scientist_vs_data_engineering_which_is_worth/) | u/FunFoundation6021 | 💡 Discussion | text | 1 | 0 | held by automod | — |
-| 22 | 2026-10-16 | [Seeking Master’s Degree Advice with a BS in Applied Mathematics](https://www.reddit.com/r/DataEngineeringPH/comments/1x7jk1r/seeking_masters_degree_advice_with_a_bs_in/) | u/Common_Recording5973 | 💼 Career | text | 4 | 1 | approved | — |
-| 23 | 2026-10-15 | [Where to start building data science projects and a portfolio?](https://www.reddit.com/r/DataEngineeringPH/comments/1x6onll/where_to_start_building_data_science_projects_and/) | u/nezuchan08 | 🆘 Help | text | 0 | 0 | held by automod | — |
-| 24 | 2026-10-15 | [Looking for advise to start career in data engineering](https://www.reddit.com/r/DataEngineeringPH/comments/1x695ew/looking_for_advise_to_start_career_in_data/) | u/Bhanumad | 💼 Career | text | 3 | 2 | live | — |
-| 25 | 2026-10-14 | [What is the typical salary for an entry-level Data Analyst?](https://www.reddit.com/r/DataEngineeringPH/comments/1x5ud5d/what_is_the_typical_salary_for_an_entrylevel_data/) | u/1l3v4k4m | 💡 Discussion | text | 1 | 0 | spam-filtered | — |
-| 26 | 2026-10-14 | [\[LOOKING FOR\] 2 External Machine Learning Experts for Undergraduate Thesis Instrument Validation](https://www.reddit.com/r/DataEngineeringPH/comments/1x5kbi5/looking_for_2_external_machine_learning_experts/) | u/Chromecell | 🆘 Help | text | 1 | 0 | approved | — |
-| 27 | 2026-10-14 | [I just finished studying for a degree I had no passion for, discovering data made me feel like an excited fre…](https://www.reddit.com/r/DataEngineeringPH/comments/1x5do7i/i_just_finished_studying_for_a_degree_i_had_no/) | u/Poooootaaaa | 💼 Career | text | 27 | 4 | approved | — |
-| 28 | 2026-10-13 | [What's the bare minimum that every data engineers should know?](https://www.reddit.com/r/DataEngineeringPH/comments/1x4uq45/whats_the_bare_minimum_that_every_data_engineers/) | u/idkforfun | ❓ Question | text | 1 | 0 | spam-filtered | — |
-| 29 | 2026-10-12 | [Data Engineer Salary with 2 Years of Experience](https://www.reddit.com/r/DataEngineeringPH/comments/1x432zc/data_engineer_salary_with_2_years_of_experience/) | u/SpiritualTrash1525 | 🆘 Help | text | 32 | 13 | approved | — |
-| 30 | 2026-10-07 | [How do you effectively manage and execute 5,000+ data quality and ETL testing rules during a large-scale migr…](https://www.reddit.com/r/DataEngineeringPH/comments/1wzxfnt/how_do_you_effectively_manage_and_execute_5000/) | u/OkSolid1673 | 🆘 Help | text | 0 | 0 | spam-filtered | — |
-| 31 | 2026-10-06 | [Cómo conseguir trabajo para ing de datos?](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0z6w/cómo_conseguir_trabajo_para_ing_de_datos/) | u/PrestigiousGarden815 | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 32 | 2026-10-06 | [What tool do you use for etl testing 🤷‍♂️](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0end/what_tool_do_you_use_for_etl_testing/) | u/Enough-Wrap4261 | 💻 Tools / Technology | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-10-06 | [What is the best ETL testing tool in the market right now?🤷‍♂️](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0bs8/what_is_the_best_etl_testing_tool_in_the_market/) | u/\[deleted\] | 💡 Discussion | — | 1 | 0 | deleted by author | — |
-| 34 | 2026-10-06 | [Is this a legit email from DEP?](https://www.reddit.com/r/DataEngineeringPH/comments/1wz09if/is_this_a_legit_email_from_dep/) | u/bluee_butterfly | 🆘 Help | i.redd.it | 3 | 4 | live | — |
-| 35 | 2026-10-04 | [Looking for Airflow / Data Engineering Opportunities](https://www.reddit.com/r/DataEngineeringPH/comments/1wxmq15/looking_for_airflow_data_engineering_opportunities/) | u/billymuri | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
-| 36 | 2026-10-04 | [Data Engineer role disguised as Software Engineer/Fullstack Developer](https://www.reddit.com/r/DataEngineeringPH/comments/1wx4gg5/data_engineer_role_disguised_as_software/) | u/shiyayonn | 💼 Career | text | 17 | 2 | approved | — |
-| 37 | 2026-10-03 | [Fresher Data Engineer: What 2 Projects + Tech Stack Should I Learn?](https://www.reddit.com/r/DataEngineeringPH/comments/1wwq9n2/fresher_data_engineer_what_2_projects_tech_stack/) | u/beingspector | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-10-03 | [AI and Data Careers in Singapore: Skills, Job Roles, Hiring Trends and Career Pathways for 2026 and Beyond](https://www.reddit.com/r/DataEngineeringPH/comments/1wwahcf/ai_and_data_careers_in_singapore_skills_job_roles/) | u/careersingapore | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 39 | 2026-10-02 | [LF Data Engineer at least 2yrs exp](https://www.reddit.com/r/DataEngineeringPH/comments/1wvp9vv/lf_data_engineer_at_least_2yrs_exp/) | u/electricfanwagon | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-09-30 | [How do you validate ETL data after a pipeline finishes?](https://www.reddit.com/r/DataEngineeringPH/comments/1wu3n45/how_do_you_validate_etl_data_after_a_pipeline/) | u/saanndyy | 🆘 Help | text | 2 | 0 | deleted by author | — |
-| 41 | 2026-09-29 | [We're hiring for the month of October](https://www.reddit.com/r/DataEngineeringPH/comments/1wtjnn2/were_hiring_for_the_month_of_october/) | u/rizzchizzzzzzz | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
-| 42 | 2026-09-29 | [Placed at 3.5 LPA in a core company, but I want to switch to Data Science. Can a slow learner survive VIT's M…](https://www.reddit.com/r/DataEngineeringPH/comments/1wt5npm/placed_at_35_lpa_in_a_core_company_but_i_want_to/) | u/ImportanceObvious695 | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 43 | 2026-09-27 | [\[ Removed by Reddit \]](https://www.reddit.com/r/DataEngineeringPH/comments/1wrdzb9/removed_by_reddit/) | u/Dry_West_6783 | 💼 Career | text | 0 | 0 | content_takedown | — |
-| 44 | 2026-09-25 | [College Assignment for Data Science](https://www.reddit.com/r/DataEngineeringPH/comments/1wq3afb/college_assignment_for_data_science/) | u/SilentNomad_18 | 🆘 Help | text | 1 | 0 | spam-filtered | — |
-| 45 | 2026-09-23 | [Data Analyst - Laid off due to redundancy](https://www.reddit.com/r/DataEngineeringPH/comments/1wo91p6/data_analyst_laid_off_due_to_redundancy/) | u/Old_Win_1100 | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 46 | 2026-09-21 | [Need guidance for transitioning into the Data Engineering role](https://www.reddit.com/r/DataEngineeringPH/comments/1wm1g7l/need_guidance_for_transitioning_into_the_data/) | u/DarthCoder11 | 💼 Career | text | 4 | 12 | approved | — |
-| 47 | 2026-09-19 | [You Can Learn Data Engineering. But How Do You Prove You Have Experience? Read the Complete Post 🚀](https://www.reddit.com/r/DataEngineeringPH/comments/1wl04ws/you_can_learn_data_engineering_but_how_do_you/) | u/iamengineerdurgesh | 💼 Career | text | 1 | 0 | spam-filtered | — |
-| 48 | 2026-09-18 | [Good youtube chanels to learn data engineering](https://www.reddit.com/r/DataEngineeringPH/comments/1wjqp0x/good_youtube_chanels_to_learn_data_engineering/) | u/InfiniteLoopLatte | 📚 Learning Resource | text | 1 | 0 | spam-filtered | — |
-| 49 | 2026-09-17 | [Complete data engineering project](https://www.reddit.com/r/DataEngineeringPH/comments/1wj08qm/complete_data_engineering_project/) | u/Fit-Profession5712 | 📚 Learning Resource | youtu.be | 1 | 0 | spam-filtered | — |
-| 50 | 2026-09-17 | [UPD Professional Master in Data Science](https://www.reddit.com/r/DataEngineeringPH/comments/1wixt1m/upd_professional_master_in_data_science/) | u/Random137035 | ❓ Question | text | 8 | 0 | approved | — |
+| 1 | 2026-11-04 | [Hiring Junior-Mid Data Engineers](#post-1) | u/electricfanwagon | 🔎 Jobs & Opportunities | text | 1 | 0 | held by automod | — |
+| 2 | 2026-11-03 | [5 months unemployed. 1,200+ job applications, 200+ rejections, 2 interviews, 0 offers. Hindi ko na alam kung…](#post-2) | u/AdStreet2258 | 🆘 Help | i.redd.it | 24 | 14 | live | — |
+| 3 | 2026-11-02 | [How do you freelance? Upwork? Linkedin?](#post-3) | u/Pure_Description_682 | 💼 Career | text | 1 | 0 | held by automod | — |
+| 4 | 2026-11-01 | [500+ applications, 0 interviews, and a mounting sense of existential dread. Destroy my resume so I can finall…](#post-4) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | i.redd.it | 80 | 20 | live | — |
+| 5 | 2026-11-01 | [Please roast my resume as a recent graduate hoping to get into data engineering](#post-5) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | text | 1 | 0 | held by automod | — |
+| 6 | 2026-10-29 | [How do small teams unify data from 7 different systems without building custom pipelines?](#post-6) | u/Adept-Addition4988 | ❓ Question | text | 1 | 0 | held by automod | — |
+| 7 | 2026-10-29 | [Hedgeserv Technical Interview Advice](#post-7) | u/WorkingSurround5133 | 🆘 Help | text | 1 | 0 | held by automod | — |
+| 8 | 2026-10-29 | [Need some advice and guidance from working professionals.](#post-8) | u/FunFoundation6021 | 💡 Discussion | text | 1 | 0 | held by automod | — |
+| 9 | 2026-10-28 | [Title: 2025 CSE graduate struggling to get a job — starting my data engineering journey today](#post-9) | u/Responder_One | 💼 Career | text | 7 | 2 | approved | — |
+| 10 | 2026-10-28 | [Deep tech Data/AI Research Scientists and Engineers, how did you start your career journey and how does it lo…](#post-10) | u/roundroundsatellite | 💼 Career | text | 5 | 2 | approved | — |
+| 11 | 2026-10-27 | [Mapua: Masters in Business Analytics](#post-11) | u/cktrvs | ❓ Question | text | 1 | 0 | held by automod | — |
+| 12 | 2026-10-26 | [Bosscoder Academy review for data engineers](#post-12) | u/Himanshu-Prajapati | 💼 Career | text | 0 | 0 | held by automod | — |
+| 13 | 2026-10-24 | [phoenix data science internship](#post-13) | u/ClassicQuantity5949 | 💼 Career | text | 1 | 0 | held by automod | — |
+| 14 | 2026-10-23 | [\[ Removed by Reddit \]](#post-14) | u/elnora123 | 💼 Career | text | 1 | 0 | content_takedown | — |
+| 15 | 2026-10-21 | [what matters the most for a 25 year old data engineer](#post-15) | u/Antique-Use-6921 | 💼 Career | text | 1 | 0 | held by automod | — |
+| 16 | 2026-10-20 | [\[LF Study Buddies / Mentor\] Total Data Eng beginner looking to build a portfolio project for accountability!](#post-16) | u/Choice-Average-1324 | 🆘 Help | text | 1 | 0 | held by automod | — |
+| 17 | 2026-10-20 | [Graduated in 2023, career gap, and still struggling to get my first Data Engineering job. What should I do?](#post-17) | u/ajkhnn | ❓ Question | text | 1 | 0 | held by automod | — |
+| 18 | 2026-10-19 | [Real time vs Batch processing, how does real time justify the complexity ?](#post-18) | u/Effective_Routine892 | 💡 Discussion | text | 1 | 0 | approved | — |
+| 19 | 2026-10-18 | [Experiencing corporate office life for the first time](#post-19) | u/WharZxc | 💼 Career | text | 10 | 1 | approved | — |
+| 20 | 2026-10-17 | [White Cloak Technologies, Inc. Data Analyst Intern - How was it like to work?](#post-20) | u/lowkeycheesecake | ❓ Question | text | 1 | 0 | approved | — |
+| 21 | 2026-10-17 | [Data Scientist vs Data Engineering: which is worth it today?](#post-21) | u/FunFoundation6021 | 💡 Discussion | text | 1 | 0 | held by automod | — |
+| 22 | 2026-10-16 | [Seeking Master’s Degree Advice with a BS in Applied Mathematics](#post-22) | u/Common_Recording5973 | 💼 Career | text | 4 | 1 | approved | — |
+| 23 | 2026-10-15 | [Where to start building data science projects and a portfolio?](#post-23) | u/nezuchan08 | 🆘 Help | text | 0 | 0 | held by automod | — |
+| 24 | 2026-10-15 | [Looking for advise to start career in data engineering](#post-24) | u/Bhanumad | 💼 Career | text | 3 | 2 | live | — |
+| 25 | 2026-10-14 | [What is the typical salary for an entry-level Data Analyst?](#post-25) | u/1l3v4k4m | 💡 Discussion | text | 1 | 0 | spam-filtered | — |
+| 26 | 2026-10-14 | [\[LOOKING FOR\] 2 External Machine Learning Experts for Undergraduate Thesis Instrument Validation](#post-26) | u/Chromecell | 🆘 Help | text | 1 | 0 | approved | — |
+| 27 | 2026-10-14 | [I just finished studying for a degree I had no passion for, discovering data made me feel like an excited fre…](#post-27) | u/Poooootaaaa | 💼 Career | text | 27 | 4 | approved | — |
+| 28 | 2026-10-13 | [What's the bare minimum that every data engineers should know?](#post-28) | u/idkforfun | ❓ Question | text | 1 | 0 | spam-filtered | — |
+| 29 | 2026-10-12 | [Data Engineer Salary with 2 Years of Experience](#post-29) | u/SpiritualTrash1525 | 🆘 Help | text | 32 | 13 | approved | — |
+| 30 | 2026-10-07 | [How do you effectively manage and execute 5,000+ data quality and ETL testing rules during a large-scale migr…](#post-30) | u/OkSolid1673 | 🆘 Help | text | 0 | 0 | spam-filtered | — |
+| 31 | 2026-10-06 | [Cómo conseguir trabajo para ing de datos?](#post-31) | u/PrestigiousGarden815 | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 32 | 2026-10-06 | [What tool do you use for etl testing 🤷‍♂️](#post-32) | u/Enough-Wrap4261 | 💻 Tools / Technology | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-10-06 | [What is the best ETL testing tool in the market right now?🤷‍♂️](#post-33) | u/\[deleted\] | 💡 Discussion | — | 1 | 0 | deleted by author | — |
+| 34 | 2026-10-06 | [Is this a legit email from DEP?](#post-34) | u/bluee_butterfly | 🆘 Help | i.redd.it | 3 | 4 | live | — |
+| 35 | 2026-10-04 | [Looking for Airflow / Data Engineering Opportunities](#post-35) | u/billymuri | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
+| 36 | 2026-10-04 | [Data Engineer role disguised as Software Engineer/Fullstack Developer](#post-36) | u/shiyayonn | 💼 Career | text | 17 | 2 | approved | — |
+| 37 | 2026-10-03 | [Fresher Data Engineer: What 2 Projects + Tech Stack Should I Learn?](#post-37) | u/beingspector | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-10-03 | [AI and Data Careers in Singapore: Skills, Job Roles, Hiring Trends and Career Pathways for 2026 and Beyond](#post-38) | u/careersingapore | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 39 | 2026-10-02 | [LF Data Engineer at least 2yrs exp](#post-39) | u/electricfanwagon | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-09-30 | [How do you validate ETL data after a pipeline finishes?](#post-40) | u/saanndyy | 🆘 Help | text | 2 | 0 | deleted by author | — |
+| 41 | 2026-09-29 | [We're hiring for the month of October](#post-41) | u/rizzchizzzzzzz | 🔎 Jobs & Opportunities | text | 1 | 0 | spam-filtered | — |
+| 42 | 2026-09-29 | [Placed at 3.5 LPA in a core company, but I want to switch to Data Science. Can a slow learner survive VIT's M…](#post-42) | u/ImportanceObvious695 | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 43 | 2026-09-27 | [\[ Removed by Reddit \]](#post-43) | u/Dry_West_6783 | 💼 Career | text | 0 | 0 | content_takedown | — |
+| 44 | 2026-09-25 | [College Assignment for Data Science](#post-44) | u/SilentNomad_18 | 🆘 Help | text | 1 | 0 | spam-filtered | — |
+| 45 | 2026-09-23 | [Data Analyst - Laid off due to redundancy](#post-45) | u/Old_Win_1100 | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 46 | 2026-09-21 | [Need guidance for transitioning into the Data Engineering role](#post-46) | u/DarthCoder11 | 💼 Career | text | 4 | 12 | approved | — |
+| 47 | 2026-09-19 | [You Can Learn Data Engineering. But How Do You Prove You Have Experience? Read the Complete Post 🚀](#post-47) | u/iamengineerdurgesh | 💼 Career | text | 1 | 0 | spam-filtered | — |
+| 48 | 2026-09-18 | [Good youtube chanels to learn data engineering](#post-48) | u/InfiniteLoopLatte | 📚 Learning Resource | text | 1 | 0 | spam-filtered | — |
+| 49 | 2026-09-17 | [Complete data engineering project](#post-49) | u/Fit-Profession5712 | 📚 Learning Resource | youtu.be | 1 | 0 | spam-filtered | — |
+| 50 | 2026-09-17 | [UPD Professional Master in Data Science](#post-50) | u/Random137035 | ❓ Question | text | 8 | 0 | approved | — |
 
 ## Top 20 posts, last 30 days
 
@@ -105,32 +105,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | 2026-11-01 | [500+ applications, 0 interviews, and a mounting sense of existential dread. Destroy my resume so I can finall…](https://www.reddit.com/r/DataEngineeringPH/comments/1xl1oly/500_applications_0_interviews_and_a_mounting/) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | i.redd.it | 80 | 20 | live |
-| 29 | 2026-10-12 | [Data Engineer Salary with 2 Years of Experience](https://www.reddit.com/r/DataEngineeringPH/comments/1x432zc/data_engineer_salary_with_2_years_of_experience/) | u/SpiritualTrash1525 | 🆘 Help | text | 32 | 13 | approved |
-| 27 | 2026-10-14 | [I just finished studying for a degree I had no passion for, discovering data made me feel like an excited fre…](https://www.reddit.com/r/DataEngineeringPH/comments/1x5do7i/i_just_finished_studying_for_a_degree_i_had_no/) | u/Poooootaaaa | 💼 Career | text | 27 | 4 | approved |
-| 2 | 2026-11-03 | [5 months unemployed. 1,200+ job applications, 200+ rejections, 2 interviews, 0 offers. Hindi ko na alam kung…](https://www.reddit.com/r/DataEngineeringPH/comments/1xn2o5o/5_months_unemployed_1200_job_applications_200/) | u/AdStreet2258 | 🆘 Help | i.redd.it | 24 | 14 | live |
-| 19 | 2026-10-18 | [Experiencing corporate office life for the first time](https://www.reddit.com/r/DataEngineeringPH/comments/1x937v4/experiencing_corporate_office_life_for_the_first/) | u/WharZxc | 💼 Career | text | 10 | 1 | approved |
-| 9 | 2026-10-28 | [Title: 2025 CSE graduate struggling to get a job — starting my data engineering journey today](https://www.reddit.com/r/DataEngineeringPH/comments/1xhpjlh/title_2025_cse_graduate_struggling_to_get_a_job/) | u/Responder_One | 💼 Career | text | 7 | 2 | approved |
-| 10 | 2026-10-28 | [Deep tech Data/AI Research Scientists and Engineers, how did you start your career journey and how does it lo…](https://www.reddit.com/r/DataEngineeringPH/comments/1xhi9o9/deep_tech_dataai_research_scientists_and/) | u/roundroundsatellite | 💼 Career | text | 5 | 2 | approved |
-| 22 | 2026-10-16 | [Seeking Master’s Degree Advice with a BS in Applied Mathematics](https://www.reddit.com/r/DataEngineeringPH/comments/1x7jk1r/seeking_masters_degree_advice_with_a_bs_in/) | u/Common_Recording5973 | 💼 Career | text | 4 | 1 | approved |
-| 24 | 2026-10-15 | [Looking for advise to start career in data engineering](https://www.reddit.com/r/DataEngineeringPH/comments/1x695ew/looking_for_advise_to_start_career_in_data/) | u/Bhanumad | 💼 Career | text | 3 | 2 | live |
-| 18 | 2026-10-19 | [Real time vs Batch processing, how does real time justify the complexity ?](https://www.reddit.com/r/DataEngineeringPH/comments/1xa4kjx/real_time_vs_batch_processing_how_does_real_time/) | u/Effective_Routine892 | 💡 Discussion | text | 1 | 0 | approved |
-| 20 | 2026-10-17 | [White Cloak Technologies, Inc. Data Analyst Intern - How was it like to work?](https://www.reddit.com/r/DataEngineeringPH/comments/1x83qfm/white_cloak_technologies_inc_data_analyst_intern/) | u/lowkeycheesecake | ❓ Question | text | 1 | 0 | approved |
-| 26 | 2026-10-14 | [\[LOOKING FOR\] 2 External Machine Learning Experts for Undergraduate Thesis Instrument Validation](https://www.reddit.com/r/DataEngineeringPH/comments/1x5kbi5/looking_for_2_external_machine_learning_experts/) | u/Chromecell | 🆘 Help | text | 1 | 0 | approved |
+| 4 | 2026-11-01 | [500+ applications, 0 interviews, and a mounting sense of existential dread. Destroy my resume so I can finall…](#post-4) | u/Wooden-Standard-3577 | 📄 Resume / Portfolio Review | i.redd.it | 80 | 20 | live |
+| 29 | 2026-10-12 | [Data Engineer Salary with 2 Years of Experience](#post-29) | u/SpiritualTrash1525 | 🆘 Help | text | 32 | 13 | approved |
+| 27 | 2026-10-14 | [I just finished studying for a degree I had no passion for, discovering data made me feel like an excited fre…](#post-27) | u/Poooootaaaa | 💼 Career | text | 27 | 4 | approved |
+| 2 | 2026-11-03 | [5 months unemployed. 1,200+ job applications, 200+ rejections, 2 interviews, 0 offers. Hindi ko na alam kung…](#post-2) | u/AdStreet2258 | 🆘 Help | i.redd.it | 24 | 14 | live |
+| 19 | 2026-10-18 | [Experiencing corporate office life for the first time](#post-19) | u/WharZxc | 💼 Career | text | 10 | 1 | approved |
+| 9 | 2026-10-28 | [Title: 2025 CSE graduate struggling to get a job — starting my data engineering journey today](#post-9) | u/Responder_One | 💼 Career | text | 7 | 2 | approved |
+| 10 | 2026-10-28 | [Deep tech Data/AI Research Scientists and Engineers, how did you start your career journey and how does it lo…](#post-10) | u/roundroundsatellite | 💼 Career | text | 5 | 2 | approved |
+| 22 | 2026-10-16 | [Seeking Master’s Degree Advice with a BS in Applied Mathematics](#post-22) | u/Common_Recording5973 | 💼 Career | text | 4 | 1 | approved |
+| 24 | 2026-10-15 | [Looking for advise to start career in data engineering](#post-24) | u/Bhanumad | 💼 Career | text | 3 | 2 | live |
+| 18 | 2026-10-19 | [Real time vs Batch processing, how does real time justify the complexity ?](#post-18) | u/Effective_Routine892 | 💡 Discussion | text | 1 | 0 | approved |
+| 20 | 2026-10-17 | [White Cloak Technologies, Inc. Data Analyst Intern - How was it like to work?](#post-20) | u/lowkeycheesecake | ❓ Question | text | 1 | 0 | approved |
+| 26 | 2026-10-14 | [\[LOOKING FOR\] 2 External Machine Learning Experts for Undergraduate Thesis Instrument Validation](#post-26) | u/Chromecell | 🆘 Help | text | 1 | 0 | approved |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Hiring Junior-Mid Data Engineers
 
-2026-11-04 · u/electricfanwagon · 🔎 Jobs & Opportunities · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xno59o/hiring_juniormid_data_engineers/)
+2026-11-04 · u/electricfanwagon · 🔎 Jobs & Opportunities · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xno59o/hiring_juniormid_data_engineers/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. 5 months unemployed. 1,200+ job applications, 200+ rejections, 2 interviews, 0 offers. Hindi ko na alam kung saan ako na
 
-2026-11-03 · u/AdStreet2258 · 🆘 Help · score 24 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xn2o5o/5_months_unemployed_1200_job_applications_200/)
+2026-11-03 · u/AdStreet2258 · 🆘 Help · score 24 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xn2o5o/5_months_unemployed_1200_job_applications_200/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/pv4n1cgn8gzh1.png>
 
@@ -515,15 +519,19 @@ Link: <https://i.redd.it/pv4n1cgn8gzh1.png>
 >
 > At ang pinakamasakit, hindi ko alam kung kailan matatapos yung ganitong buhay.
 
+<a id="post-3"></a>
+
 ### 3. How do you freelance? Upwork? Linkedin?
 
-2026-11-02 · u/Pure_Description_682 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xlu2ca/how_do_you_freelance_upwork_linkedin/)
+2026-11-02 · u/Pure_Description_682 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xlu2ca/how_do_you_freelance_upwork_linkedin/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. 500+ applications, 0 interviews, and a mounting sense of existential dread. Destroy my resume so I can finally blame the
 
-2026-11-01 · u/Wooden-Standard-3577 · 📄 Resume / Portfolio Review · score 80 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xl1oly/500_applications_0_interviews_and_a_mounting/)
+2026-11-01 · u/Wooden-Standard-3577 · 📄 Resume / Portfolio Review · score 80 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xl1oly/500_applications_0_interviews_and_a_mounting/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/edwec55mtzyh1.png>
 
@@ -532,33 +540,43 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > But I also don't have the right skills and experience to get into entry level roles such as junior software engineer, backend developer, or data analyst. I really need help now because I am already unemployed for around 5 months now. I am losing hope of getting a work before the year ends and I don't really know what to do or my path that I should take now.
 
+<a id="post-5"></a>
+
 ### 5. Please roast my resume as a recent graduate hoping to get into data engineering
 
-2026-11-01 · u/Wooden-Standard-3577 · 📄 Resume / Portfolio Review · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xkyttd/please_roast_my_resume_as_a_recent_graduate/)
+2026-11-01 · u/Wooden-Standard-3577 · 📄 Resume / Portfolio Review · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xkyttd/please_roast_my_resume_as_a_recent_graduate/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-6"></a>
 
 ### 6. How do small teams unify data from 7 different systems without building custom pipelines?
 
-2026-10-29 · u/Adept-Addition4988 · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xivoi9/how_do_small_teams_unify_data_from_7_different/)
+2026-10-29 · u/Adept-Addition4988 · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xivoi9/how_do_small_teams_unify_data_from_7_different/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-7"></a>
 
 ### 7. Hedgeserv Technical Interview Advice
 
-2026-10-29 · u/WorkingSurround5133 · 🆘 Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xiepz2/hedgeserv_technical_interview_advice/)
+2026-10-29 · u/WorkingSurround5133 · 🆘 Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xiepz2/hedgeserv_technical_interview_advice/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-8"></a>
 
 ### 8. Need some advice and guidance from working professionals.
 
-2026-10-29 · u/FunFoundation6021 · 💡 Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xiacs4/need_some_advice_and_guidance_from_working/)
+2026-10-29 · u/FunFoundation6021 · 💡 Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xiacs4/need_some_advice_and_guidance_from_working/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. Title: 2025 CSE graduate struggling to get a job — starting my data engineering journey today
 
-2026-10-28 · u/Responder_One · 💼 Career · score 7 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xhpjlh/title_2025_cse_graduate_struggling_to_get_a_job/)
+2026-10-28 · u/Responder_One · 💼 Career · score 7 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xhpjlh/title_2025_cse_graduate_struggling_to_get_a_job/) · [↑ back to the list](#last-50-posts)
 
 > People who saw my previous post know that I’m a 2025 CSE graduate who has been struggling to get a job.
 >
@@ -578,67 +596,87 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Any advice, guidance, or suggestions would be greatly appreciated.
 
+<a id="post-10"></a>
+
 ### 10. Deep tech Data/AI Research Scientists and Engineers, how did you start your career journey and how does it look like?
 
-2026-10-28 · u/roundroundsatellite · 💼 Career · score 5 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xhi9o9/deep_tech_dataai_research_scientists_and/)
+2026-10-28 · u/roundroundsatellite · 💼 Career · score 5 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xhi9o9/deep_tech_dataai_research_scientists_and/) · [↑ back to the list](#last-50-posts)
 
 > Interested to know if we have Filipino academics and professionals in this field. Do you work in this field or know anyone who does? I know you would need a phd and have to be the cream of the crop - and not just by OH standards.
 >
 > I'm interested to know what that journey is like.
 
+<a id="post-11"></a>
+
 ### 11. Mapua: Masters in Business Analytics
 
-2026-10-27 · u/cktrvs · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xgs1hw/mapua_masters_in_business_analytics/)
+2026-10-27 · u/cktrvs · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xgs1hw/mapua_masters_in_business_analytics/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-12"></a>
 
 ### 12. Bosscoder Academy review for data engineers
 
-2026-10-26 · u/Himanshu-Prajapati · 💼 Career · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xfs4ee/bosscoder_academy_review_for_data_engineers/)
+2026-10-26 · u/Himanshu-Prajapati · 💼 Career · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xfs4ee/bosscoder_academy_review_for_data_engineers/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-13"></a>
 
 ### 13. phoenix data science internship
 
-2026-10-24 · u/ClassicQuantity5949 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xe0agj/phoenix_data_science_internship/)
+2026-10-24 · u/ClassicQuantity5949 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xe0agj/phoenix_data_science_internship/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-14"></a>
 
 ### 14. \[ Removed by Reddit \]
 
-2026-10-23 · u/elnora123 · 💼 Career · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xd5xlt/removed_by_reddit/)
+2026-10-23 · u/elnora123 · 💼 Career · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xd5xlt/removed_by_reddit/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-15"></a>
 
 ### 15. what matters the most for a 25 year old data engineer
 
-2026-10-21 · u/Antique-Use-6921 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xbdh8m/what_matters_the_most_for_a_25_year_old_data/)
+2026-10-21 · u/Antique-Use-6921 · 💼 Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xbdh8m/what_matters_the_most_for_a_25_year_old_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-16"></a>
 
 ### 16. \[LF Study Buddies / Mentor\] Total Data Eng beginner looking to build a portfolio project for accountability!
 
-2026-10-20 · u/Choice-Average-1324 · 🆘 Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xayzj7/lf_study_buddies_mentor_total_data_eng_beginner/)
+2026-10-20 · u/Choice-Average-1324 · 🆘 Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xayzj7/lf_study_buddies_mentor_total_data_eng_beginner/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-17"></a>
 
 ### 17. Graduated in 2023, career gap, and still struggling to get my first Data Engineering job. What should I do?
 
-2026-10-20 · u/ajkhnn · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xajq9i/graduated_in_2023_career_gap_and_still_struggling/)
+2026-10-20 · u/ajkhnn · ❓ Question · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xajq9i/graduated_in_2023_career_gap_and_still_struggling/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. Real time vs Batch processing, how does real time justify the complexity ?
 
-2026-10-19 · u/Effective_Routine892 · 💡 Discussion · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xa4kjx/real_time_vs_batch_processing_how_does_real_time/)
+2026-10-19 · u/Effective_Routine892 · 💡 Discussion · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1xa4kjx/real_time_vs_batch_processing_how_does_real_time/) · [↑ back to the list](#last-50-posts)
 
 > We've managed with hourly Snowflake loads for years and honestly they've been good enough most of the time. Lately though, product keeps asking for live dashboards while our ML team is pushing for fresher training data.  
 > I'm not against moving to  real-time, but I also don't want to introduce streaming infrastructure just because it sounds modern.  
 > For anyone who's made the switch, what was the moment where real-time vs batch processing stopped being a debate and became an obvious decision?
 
+<a id="post-19"></a>
+
 ### 19. Experiencing corporate office life for the first time
 
-2026-10-18 · u/WharZxc · 💼 Career · score 10 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x937v4/experiencing_corporate_office_life_for_the_first/)
+2026-10-18 · u/WharZxc · 💼 Career · score 10 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x937v4/experiencing_corporate_office_life_for_the_first/) · [↑ back to the list](#last-50-posts)
 
 > Hello, idk if i can post this here. I just want to talk to people that might understand what im feeling.
 >
@@ -654,9 +692,11 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Sorry for the random rant.
 
+<a id="post-20"></a>
+
 ### 20. White Cloak Technologies, Inc. Data Analyst Intern - How was it like to work?
 
-2026-10-17 · u/lowkeycheesecake · ❓ Question · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x83qfm/white_cloak_technologies_inc_data_analyst_intern/)
+2026-10-17 · u/lowkeycheesecake · ❓ Question · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x83qfm/white_cloak_technologies_inc_data_analyst_intern/) · [↑ back to the list](#last-50-posts)
 
 > Hello! I have seen an opening for a Data Analyst Intern. I was wondering if someone here have worked there before (as an previous intern or an current/previous employee).
 >
@@ -664,15 +704,19 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Hoping for a response, thank you.
 
+<a id="post-21"></a>
+
 ### 21. Data Scientist vs Data Engineering: which is worth it today?
 
-2026-10-17 · u/FunFoundation6021 · 💡 Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x7yulv/data_scientist_vs_data_engineering_which_is_worth/)
+2026-10-17 · u/FunFoundation6021 · 💡 Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x7yulv/data_scientist_vs_data_engineering_which_is_worth/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-22"></a>
+
 ### 22. Seeking Master’s Degree Advice with a BS in Applied Mathematics
 
-2026-10-16 · u/Common_Recording5973 · 💼 Career · score 4 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x7jk1r/seeking_masters_degree_advice_with_a_bs_in/)
+2026-10-16 · u/Common_Recording5973 · 💼 Career · score 4 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x7jk1r/seeking_masters_degree_advice_with_a_bs_in/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! I’m currently working as a Risk Modeller, and I hold a bachelor’s degree in Applied Mathematics, majoring in Statistics.
 >
@@ -686,15 +730,19 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Thank you!
 
+<a id="post-23"></a>
+
 ### 23. Where to start building data science projects and a portfolio?
 
-2026-10-15 · u/nezuchan08 · 🆘 Help · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x6onll/where_to_start_building_data_science_projects_and/)
+2026-10-15 · u/nezuchan08 · 🆘 Help · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x6onll/where_to_start_building_data_science_projects_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. Looking for advise to start career in data engineering
 
-2026-10-15 · u/Bhanumad · 💼 Career · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x695ew/looking_for_advise_to_start_career_in_data/)
+2026-10-15 · u/Bhanumad · 💼 Career · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x695ew/looking_for_advise_to_start_career_in_data/) · [↑ back to the list](#last-50-posts)
 
 > Hi gang,
 >
@@ -706,15 +754,19 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > And i am not a hard core vibe coder i know vibe coding but i dont do code like  slopocolypse sort of coding i prefer doing a planning, brain stromming, documenting and implementing sort of person so yeah there is lot running but this is for the moment …
 
+<a id="post-25"></a>
+
 ### 25. What is the typical salary for an entry-level Data Analyst?
 
-2026-10-14 · u/1l3v4k4m · 💡 Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5ud5d/what_is_the_typical_salary_for_an_entrylevel_data/)
+2026-10-14 · u/1l3v4k4m · 💡 Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5ud5d/what_is_the_typical_salary_for_an_entrylevel_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. \[LOOKING FOR\] 2 External Machine Learning Experts for Undergraduate Thesis Instrument Validation
 
-2026-10-14 · u/Chromecell · 🆘 Help · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5kbi5/looking_for_2_external_machine_learning_experts/)
+2026-10-14 · u/Chromecell · 🆘 Help · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5kbi5/looking_for_2_external_machine_learning_experts/) · [↑ back to the list](#last-50-posts)
 
 > Hello! We’re undergraduate BSIT researchers looking for **2 Machine Learning experts with at least a master’s degree** in Computer Science, Information Technology, AI, Data Science, or a related field.
 >
@@ -730,9 +782,11 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Please DM me if interested or if you can refer someone qualified. Thank you so much po!
 
+<a id="post-27"></a>
+
 ### 27. I just finished studying for a degree I had no passion for, discovering data made me feel like an excited freshman
 
-2026-10-14 · u/Poooootaaaa · 💼 Career · score 27 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5do7i/i_just_finished_studying_for_a_degree_i_had_no/)
+2026-10-14 · u/Poooootaaaa · 💼 Career · score 27 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x5do7i/i_just_finished_studying_for_a_degree_i_had_no/) · [↑ back to the list](#last-50-posts)
 
 > Gusto ko lang maka hingi ng honest thoughts, opinions, and whatever tips you can give me, and at the same time I just want to write and talk about my supposed plans now that I have the freedom to chase whatever I want in life. Sorry in advance kung humaba haha
 >
@@ -770,15 +824,19 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Is there a good local mentorship program somewhere for free? (or not)
 
+<a id="post-28"></a>
+
 ### 28. What's the bare minimum that every data engineers should know?
 
-2026-10-13 · u/idkforfun · ❓ Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x4uq45/whats_the_bare_minimum_that_every_data_engineers/)
+2026-10-13 · u/idkforfun · ❓ Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x4uq45/whats_the_bare_minimum_that_every_data_engineers/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. Data Engineer Salary with 2 Years of Experience
 
-2026-10-12 · u/SpiritualTrash1525 · 🆘 Help · score 32 · 13 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x432zc/data_engineer_salary_with_2_years_of_experience/)
+2026-10-12 · u/SpiritualTrash1525 · 🆘 Help · score 32 · 13 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1x432zc/data_engineer_salary_with_2_years_of_experience/) · [↑ back to the list](#last-50-posts)
 
 > Hi! I'm currently a Data Engineer earning ₱35k/month, with experience in Snowflake, SQL, and ETL in the banking industry.
 >
@@ -786,33 +844,43 @@ Link: <https://i.redd.it/edwec55mtzyh1.png>
 >
 > Is ₱50k–₱60k a reasonable expectation, or am I aiming too high? Would appreciate insights from those in the field. Thanks!
 
+<a id="post-30"></a>
+
 ### 30. How do you effectively manage and execute 5,000+ data quality and ETL testing rules during a large-scale migration???
 
-2026-10-07 · u/OkSolid1673 · 🆘 Help · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wzxfnt/how_do_you_effectively_manage_and_execute_5000/)
+2026-10-07 · u/OkSolid1673 · 🆘 Help · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wzxfnt/how_do_you_effectively_manage_and_execute_5000/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-31"></a>
 
 ### 31. Cómo conseguir trabajo para ing de datos?
 
-2026-10-06 · u/PrestigiousGarden815 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0z6w/cómo_conseguir_trabajo_para_ing_de_datos/)
+2026-10-06 · u/PrestigiousGarden815 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0z6w/cómo_conseguir_trabajo_para_ing_de_datos/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-32"></a>
 
 ### 32. What tool do you use for etl testing 🤷‍♂️
 
-2026-10-06 · u/Enough-Wrap4261 · 💻 Tools / Technology · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0end/what_tool_do_you_use_for_etl_testing/)
+2026-10-06 · u/Enough-Wrap4261 · 💻 Tools / Technology · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0end/what_tool_do_you_use_for_etl_testing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. What is the best ETL testing tool in the market right now?🤷‍♂️
 
-2026-10-06 · u/\[deleted\] · 💡 Discussion · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0bs8/what_is_the_best_etl_testing_tool_in_the_market/)
+2026-10-06 · u/\[deleted\] · 💡 Discussion · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz0bs8/what_is_the_best_etl_testing_tool_in_the_market/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Is this a legit email from DEP?
 
-2026-10-06 · u/bluee_butterfly · 🆘 Help · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz09if/is_this_a_legit_email_from_dep/)
+2026-10-06 · u/bluee_butterfly · 🆘 Help · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wz09if/is_this_a_legit_email_from_dep/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0jfdu88e2uth1.jpeg>
 
@@ -820,15 +888,19 @@ Link: <https://i.redd.it/0jfdu88e2uth1.jpeg>
 >
 > Im so afraid to click the hyperlink lol 😂
 
+<a id="post-35"></a>
+
 ### 35. Looking for Airflow / Data Engineering Opportunities
 
-2026-10-04 · u/billymuri · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wxmq15/looking_for_airflow_data_engineering_opportunities/)
+2026-10-04 · u/billymuri · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wxmq15/looking_for_airflow_data_engineering_opportunities/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. Data Engineer role disguised as Software Engineer/Fullstack Developer
 
-2026-10-04 · u/shiyayonn · 💼 Career · score 17 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wx4gg5/data_engineer_role_disguised_as_software/)
+2026-10-04 · u/shiyayonn · 💼 Career · score 17 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wx4gg5/data_engineer_role_disguised_as_software/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! I recently joined a trading firm as a backend-heavy full-stack dev (Java/Spring). I’ve been really enjoying the work, but a recent reorg just moved me to a completely different team.
 >
@@ -839,27 +911,35 @@ Link: <https://i.redd.it/0jfdu88e2uth1.jpeg>
 >
 > I’m completely new to this second stack but eager to learn. This transition made me wonder: have I essentially been doing Data Engineering this whole time without the title? If so, how can a traditional backend dev quickly ramp up on Data Engineering? I'm currently diving into Python, AWS, and core ETL concepts, but I would love any advice or resources!
 
+<a id="post-37"></a>
+
 ### 37. Fresher Data Engineer: What 2 Projects + Tech Stack Should I Learn?
 
-2026-10-03 · u/beingspector · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wwq9n2/fresher_data_engineer_what_2_projects_tech_stack/)
+2026-10-03 · u/beingspector · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wwq9n2/fresher_data_engineer_what_2_projects_tech_stack/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-38"></a>
 
 ### 38. AI and Data Careers in Singapore: Skills, Job Roles, Hiring Trends and Career Pathways for 2026 and Beyond
 
-2026-10-03 · u/careersingapore · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wwahcf/ai_and_data_careers_in_singapore_skills_job_roles/)
+2026-10-03 · u/careersingapore · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wwahcf/ai_and_data_careers_in_singapore_skills_job_roles/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-39"></a>
 
 ### 39. LF Data Engineer at least 2yrs exp
 
-2026-10-02 · u/electricfanwagon · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wvp9vv/lf_data_engineer_at_least_2yrs_exp/)
+2026-10-02 · u/electricfanwagon · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wvp9vv/lf_data_engineer_at_least_2yrs_exp/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. How do you validate ETL data after a pipeline finishes?
 
-2026-09-30 · u/saanndyy · 🆘 Help · score 2 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wu3n45/how_do_you_validate_etl_data_after_a_pipeline/)
+2026-09-30 · u/saanndyy · 🆘 Help · score 2 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wu3n45/how_do_you_validate_etl_data_after_a_pipeline/) · [↑ back to the list](#last-50-posts)
 
 > I'm curious how different teams handle this.
 >
@@ -882,39 +962,51 @@ Link: <https://i.redd.it/0jfdu88e2uth1.jpeg>
 >
 > Interested to hear how other teams approach this.
 
+<a id="post-41"></a>
+
 ### 41. We're hiring for the month of October
 
-2026-09-29 · u/rizzchizzzzzzz · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wtjnn2/were_hiring_for_the_month_of_october/)
+2026-09-29 · u/rizzchizzzzzzz · 🔎 Jobs & Opportunities · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wtjnn2/were_hiring_for_the_month_of_october/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-42"></a>
 
 ### 42. Placed at 3.5 LPA in a core company, but I want to switch to Data Science. Can a slow learner survive VIT's M.Tech?
 
-2026-09-29 · u/ImportanceObvious695 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wt5npm/placed_at_35_lpa_in_a_core_company_but_i_want_to/)
+2026-09-29 · u/ImportanceObvious695 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wt5npm/placed_at_35_lpa_in_a_core_company_but_i_want_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. \[ Removed by Reddit \]
 
-2026-09-27 · u/Dry_West_6783 · 💼 Career · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wrdzb9/removed_by_reddit/)
+2026-09-27 · u/Dry_West_6783 · 💼 Career · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wrdzb9/removed_by_reddit/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-44"></a>
 
 ### 44. College Assignment for Data Science
 
-2026-09-25 · u/SilentNomad_18 · 🆘 Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wq3afb/college_assignment_for_data_science/)
+2026-09-25 · u/SilentNomad_18 · 🆘 Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wq3afb/college_assignment_for_data_science/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-45"></a>
 
 ### 45. Data Analyst - Laid off due to redundancy
 
-2026-09-23 · u/Old_Win_1100 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wo91p6/data_analyst_laid_off_due_to_redundancy/)
+2026-09-23 · u/Old_Win_1100 · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wo91p6/data_analyst_laid_off_due_to_redundancy/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. Need guidance for transitioning into the Data Engineering role
 
-2026-09-21 · u/DarthCoder11 · 💼 Career · score 4 · 12 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wm1g7l/need_guidance_for_transitioning_into_the_data/)
+2026-09-21 · u/DarthCoder11 · 💼 Career · score 4 · 12 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wm1g7l/need_guidance_for_transitioning_into_the_data/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone!
 >
@@ -959,28 +1051,36 @@ Link: <https://i.redd.it/0jfdu88e2uth1.jpeg>
 >
 > Any honest advice, especially from people currently working in Data Engineering or who have made a similar career move, would be greatly appreciated. Thank you!
 
+<a id="post-47"></a>
+
 ### 47. You Can Learn Data Engineering. But How Do You Prove You Have Experience? Read the Complete Post 🚀
 
-2026-09-19 · u/iamengineerdurgesh · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wl04ws/you_can_learn_data_engineering_but_how_do_you/)
+2026-09-19 · u/iamengineerdurgesh · 💼 Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wl04ws/you_can_learn_data_engineering_but_how_do_you/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-48"></a>
 
 ### 48. Good youtube chanels to learn data engineering
 
-2026-09-18 · u/InfiniteLoopLatte · 📚 Learning Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wjqp0x/good_youtube_chanels_to_learn_data_engineering/)
+2026-09-18 · u/InfiniteLoopLatte · 📚 Learning Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wjqp0x/good_youtube_chanels_to_learn_data_engineering/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-49"></a>
+
 ### 49. Complete data engineering project
 
-2026-09-17 · u/Fit-Profession5712 · 📚 Learning Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wj08qm/complete_data_engineering_project/)
+2026-09-17 · u/Fit-Profession5712 · 📚 Learning Resource · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wj08qm/complete_data_engineering_project/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/DEAxgvsjH7k>
 
 
+<a id="post-50"></a>
+
 ### 50. UPD Professional Master in Data Science
 
-2026-09-17 · u/Random137035 · ❓ Question · score 8 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wixt1m/upd_professional_master_in_data_science/)
+2026-09-17 · u/Random137035 · ❓ Question · score 8 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DataEngineeringPH/comments/1wixt1m/upd_professional_master_in_data_science/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >

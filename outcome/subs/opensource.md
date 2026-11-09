@@ -59,56 +59,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Molty: a strict superset of Python that catches common traps at compile time](https://www.reddit.com/r/opensource/comments/1xq0vkc/molty_a_strict_superset_of_python_that_catches/) | u/Shogo256 | Promotional | text | 1 | 1 | removed by mod | Hello u/Shogo256. Your post has been automatically removed. Accounts must be at least 1 year old to… |
-| 2 | 2026-11-07 | [Built a free desktop tool under GPL 3.0, but caught in a code-signing chicken-and-egg problem. Need feedback!](https://www.reddit.com/r/opensource/comments/1xq0uy0/built_a_free_desktop_tool_under_gpl_30_but_caught/) | u/Inevitable_Apple3821 | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-07 | [I built Warden, a free open-source Android firewall that needs no root. It shows which apps talk to which ser…](https://www.reddit.com/r/opensource/comments/1xq0oq8/i_built_warden_a_free_opensource_android_firewall/) | u/sammyi_69 | — | text | 1 | 1 | removed by mod | Hello, u/sammyi_69. Your post has been automatically removed. Currently, you do not meet the karma… |
-| 4 | 2026-11-07 | [Anyone Interested in Bringing Ninja Arashi 2 & Shadow Return Back to Life?](https://www.reddit.com/r/opensource/comments/1xq0obh/anyone_interested_in_bringing_ninja_arashi_2/) | u/New-Surprise-9396 | — | text | 1 | 1 | removed by mod | Hello, u/New-Surprise-9396. Your post has been automatically removed. Currently, you do not meet th… |
-| 5 | 2026-11-07 | [Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK](https://www.reddit.com/r/opensource/comments/1xq0lio/pipeverify_compare_a_table_before_and_after_a/) | u/GuidanceBrief612 | Promotional | text | 1 | 1 | removed by mod | Hello, u/GuidanceBrief612. Your post has been automatically removed. Currently, you do not meet the… |
-| 6 | 2026-11-07 | [I got tired of manually searching for potential clients, so I built a tool for it — LeadFinder (Open Source)](https://www.reddit.com/r/opensource/comments/1xq0jdk/i_got_tired_of_manually_searching_for_potential/) | u/iamfrankie_c | Promotional | text | 1 | 0 | spam-filtered | — |
-| 7 | 2026-11-07 | [Constantly changing my CV for each Job Posting got tiring... so I built a free open source desktop app that t…](https://www.reddit.com/r/opensource/comments/1xq021d/constantly_changing_my_cv_for_each_job_posting/) | u/BaccyConesCureCancer | Promotional | text | 1 | 0 | live | — |
-| 8 | 2026-11-07 | [Can I make android apps open-source that I built with REA and not having any problem for me or my github Repo?](https://www.reddit.com/r/opensource/comments/1xq01fc/can_i_make_android_apps_opensource_that_i_built/) | u/boobaaboob | — | text | 1 | 1 | removed by mod | Hello u/boobaaboob. Your post has been automatically removed. Accounts must be at least 1 year old… |
-| 9 | 2026-11-07 | [Open sourced a VR Game (Beat Saber)](https://www.reddit.com/r/opensource/comments/1xpzxo9/open_sourced_a_vr_game_beat_saber/) | u/Fabulous-Possible311 | — | text | 1 | 1 | removed by mod | Hello, u/Fabulous-Possible311. Your post has been automatically removed. Currently, you do not meet… |
-| 10 | 2026-11-07 | [I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora](https://www.reddit.com/r/opensource/comments/1xpzq1b/i_got_tired_of_the_limitations_of_windows_screen/) | u/tahirshaikh-744 | Promotional | github.com | 1 | 1 | removed by mod | Hello u/tahirshaikh-744. Your post has been automatically removed. Accounts must be at least 1 year… |
-| 11 | 2026-11-07 | [Constantly changing my CV for each Job Posting got tiring... so I built a free desktop app that tailors it fo…](https://www.reddit.com/r/opensource/comments/1xpznrm/constantly_changing_my_cv_for_each_job_posting/) | u/BaccyConesCureCancer | — | i.imgur.com | 1 | 1 | removed by mod | Hi, u/BaccyConesCureCancer. Unfortunately, your post has been removed. We do not allow image posts… |
-| 12 | 2026-11-07 | [Bridger memory runtime analysis](https://www.reddit.com/r/opensource/comments/1xpzl52/bridger_memory_runtime_analysis/) | u/Sad_Owl_255 | — | reddit.com | 1 | 1 | removed by mod | Hello u/Sad_Owl_255. Your post has been automatically removed. Accounts must be at least 1 year old… |
-| 13 | 2026-11-07 | [Discussion: Can automated code fixes be verified before they're applied?](https://www.reddit.com/r/opensource/comments/1xpzi3z/discussion_can_automated_code_fixes_be_verified/) | u/chipConductor | — | text | 1 | 1 | removed by mod | — |
-| 14 | 2026-11-07 | [I built an open-source tool that auto-fixes problems in your project, but only when it can prove nothing visi…](https://www.reddit.com/r/opensource/comments/1xpzh3w/i_built_an_opensource_tool_that_autofixes/) | u/chipConductor | Discussion | text | 1 | 1 | removed by mod | Hello u/chipConductor. Your post has been automatically removed. Accounts must be at least 1 year o… |
-| 15 | 2026-11-07 | [Ayuda con software libre.](https://www.reddit.com/r/opensource/comments/1xpz002/ayuda_con_software_libre/) | u/EnElCratoN | — | reddit.com | 1 | 1 | removed by mod | Hello u/EnElCratoN. Your post has been automatically removed. Accounts must be at least 1 year old… |
-| 16 | 2026-11-07 | [Discovered an interesting open-source live video mixer built with Rust – GodwinMix](https://www.reddit.com/r/opensource/comments/1xpyzhr/discovered_an_interesting_opensource_live_video/) | u/Avinesh_07 | Promotional | github.com | 1 | 0 | spam-filtered | — |
-| 17 | 2026-11-07 | [Discovered an interesting open-source live video mixer built with Rust – GodwinMix](https://www.reddit.com/r/opensource/comments/1xpyt59/discovered_an_interesting_opensource_live_video/) | u/Avinesh_07 | Promotional | text | 1 | 0 | spam-filtered | — |
-| 18 | 2026-11-07 | [Nosy Notch – free, MIT-licensed macOS notch app: coding-agent status, file shelf, calendar and a little anima…](https://www.reddit.com/r/opensource/comments/1xpxm6y/nosy_notch_free_mitlicensed_macos_notch_app/) | u/Nkgsporty | Promotional | text | 1 | 1 | removed by mod | Hello, u/Nkgsporty. Your post has been automatically removed. Currently, you do not meet the karma… |
-| 19 | 2026-11-07 | [I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 3…](https://www.reddit.com/r/opensource/comments/1xpxjti/i_finally_worked_on_my_opensource_ideaand_in_a/) | u/light_2earth | — | text | 1 | 1 | removed by mod | Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year ol… |
-| 20 | 2026-11-07 | [I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 3…](https://www.reddit.com/r/opensource/comments/1xpxjki/i_finally_worked_on_my_opensource_ideaand_in_a/) | u/light_2earth | Discussion | text | 1 | 1 | removed by mod | Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year ol… |
-| 21 | 2026-11-07 | [Wavefront: open-source (AGPL) harness for building AI apps on enterprise data. Agents, workflows, RBAC, guard…](https://www.reddit.com/r/opensource/comments/1xpx3vk/wavefront_opensource_agpl_harness_for_building_ai/) | u/Traditional-Let-856 | Off-Topic | text | 1 | 1 | removed by mod | Hello u/Traditional-Let-856, ChatGPT is not Open Source. Thin shims built to use it are thus off-to… |
-| 22 | 2026-11-07 | [What if we built an open-source verification layer for human knowledge?](https://www.reddit.com/r/opensource/comments/1xpwus1/what_if_we_built_an_opensource_verification_layer/) | u/Low_Jackfruit1647 | Discussion | text | 1 | 1 | removed by mod | Hello u/Low_Jackfruit1647. Your post has been automatically removed. Accounts must be at least 1 ye… |
-| 23 | 2026-11-07 | [VulnPath-AI: offline open-source scanner for AI/agent app security risks](https://www.reddit.com/r/opensource/comments/1xpw7hz/vulnpathai_offline_opensource_scanner_for_aiagent/) | u/Ok-Suggestion-4676 | — | text | 1 | 1 | removed by mod | Hello u/Ok-Suggestion-4676. Your post has been automatically removed. Accounts must be at least 1 y… |
-| 24 | 2026-11-07 | [Your AI assistant shouldn't need the cloud to be useful.](https://www.reddit.com/r/opensource/comments/1xpw2vj/your_ai_assistant_shouldnt_need_the_cloud_to_be/) | u/NIDO_007 | Discussion | reddit.com | 1 | 1 | removed by mod | Hello u/NIDO_007. Your post has been automatically removed. Accounts must be at least 1 year old to… |
-| 25 | 2026-11-07 | [Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes](https://www.reddit.com/r/opensource/comments/1xpu41f/burrows_core_is_now_agpl_a_localfirst_windows_app/) | u/Revibed69 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Revibed69. Your post has been automatically removed. Currently, you do not meet the karma… |
-| 26 | 2026-11-07 | [samenland: A cozy, historically grounded real-time medieval settlement simulation set in Northern Germany aro…](https://www.reddit.com/r/opensource/comments/1xptu5h/samenland_a_cozy_historically_grounded_realtime/) | u/Doener23 | Promotional | github.com | 0 | 2 | live | — |
-| 27 | 2026-11-07 | [My personal project: OpenLasso](https://www.reddit.com/r/opensource/comments/1xptmg8/my_personal_project_openlasso/) | u/Tech_now111 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karm… |
-| 28 | 2026-11-07 | [My personal project: OpenLasso](https://www.reddit.com/r/opensource/comments/1xptllj/my_personal_project_openlasso/) | u/Tech_now111 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karm… |
-| 29 | 2026-11-07 | [I made Shortcuts to copy and paste between your phone and your PC — no app, no account](https://www.reddit.com/r/opensource/comments/1xpt6i1/i_made_shortcuts_to_copy_and_paste_between_your/) | u/Hairy_Minimum_4659 | — | text | 1 | 1 | removed by mod | Hello, u/Hairy_Minimum_4659. Your post has been automatically removed. Currently, you do not meet t… |
-| 30 | 2026-11-07 | [Corvus: an open-source reverse proxy like NPM, with a WAF, auto-bans and a waiting room built in](https://www.reddit.com/r/opensource/comments/1xpt1sk/corvus_an_opensource_reverse_proxy_like_npm_with/) | u/jkmoon_dev | Promotional | github.com | 1 | 1 | removed by mod | Hello u/jkmoon_dev. Your post has been automatically removed. Accounts must be at least 1 year old… |
-| 31 | 2026-11-07 | [Check out my open-source project, MyDevPortal, built with Laravel](https://www.reddit.com/r/opensource/comments/1xpsngv/check_out_my_opensource_project_mydevportal_built/) | u/senpaikaito | Promotional | github.com | 1 | 1 | removed by mod | Hello, u/senpaikaito. Your post has been automatically removed. Currently, you do not meet the karm… |
-| 32 | 2026-11-06 | [i hate generative ai as much as the rest of yall but banning everyone that doesn't speak english is not the w…](https://www.reddit.com/r/opensource/comments/1xpr9dw/i_hate_generative_ai_as_much_as_the_rest_of_yall/) | u/MargoSizemore | Discussion | text | 1 | 2 | removed by mod | Hello, u/MargoSizemore. Your post has been automatically removed. Currently, you do not meet the ka… |
-| 33 | 2026-11-06 | [Desk Panel (Android)](https://www.reddit.com/r/opensource/comments/1xpqnp4/desk_panel_android/) | u/Mitradir | Promotional | text | 1 | 1 | removed by mod | Hello, u/Mitradir. Your post has been automatically removed. Currently, you do not meet the karma r… |
-| 34 | 2026-11-06 | [I made my own OS called NimbusOS.](https://www.reddit.com/r/opensource/comments/1xpq1kv/i_made_my_own_os_called_nimbusos/) | u/Remarkable-Spot-2179 | — | text | 1 | 0 | spam-filtered | — |
-| 35 | 2026-11-06 | [My GitLab tabs now look like GitHub and stop showing stale pipeline status](https://www.reddit.com/r/opensource/comments/1xpq173/my_gitlab_tabs_now_look_like_github_and_stop/) | u/shravanrevanna | — | github.com | 1 | 1 | removed by mod | Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the k… |
-| 36 | 2026-11-06 | [My GitLab tabs now look like GitHub and stop showing stale pipeline status](https://www.reddit.com/r/opensource/comments/1xpq0aa/my_gitlab_tabs_now_look_like_github_and_stop/) | u/shravanrevanna | — | github.com | 1 | 1 | removed by mod | Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the k… |
-| 37 | 2026-11-06 | [3D Software factory - self improving](https://www.reddit.com/r/opensource/comments/1xpp4re/3d_software_factory_self_improving/) | u/Rough-While3444 | Promotional | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-11-06 | [I built BDLMinerV2 — a free, open-source ESP32 Bitcoin solo miner with a web dashboard](https://www.reddit.com/r/opensource/comments/1xpow8a/i_built_bdlminerv2_a_free_opensource_esp32/) | u/Sweaty-Hurry8928 | — | text | 1 | 1 | removed by mod | Hello u/Sweaty-Hurry8928. Your post has been automatically removed. Accounts must be at least 1 yea… |
-| 39 | 2026-11-06 | [Object Storage Client (one API/CLI/GUI to rule them all)](https://www.reddit.com/r/opensource/comments/1xpnbx6/object_storage_client_one_apicligui_to_rule_them/) | u/kamikazer | Promotional | text | 1 | 1 | spam-filtered | Hello, u/kamikazer. Your post has been automatically removed. Currently, you do not meet the karma… |
-| 40 | 2026-11-06 | [Before making a private repo public, I dropped the whole git history instead of rewriting it. Was that the ri…](https://www.reddit.com/r/opensource/comments/1xpmtca/before_making_a_private_repo_public_i_dropped_the/) | u/Careless-Mongoose589 | Discussion | text | 1 | 1 | removed by mod | Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet… |
-| 41 | 2026-11-06 | [I got tired of paying for separate apps to control my Mac, so I built a free, open-source alternative. Lookin…](https://www.reddit.com/r/opensource/comments/1xpmrpo/i_got_tired_of_paying_for_separate_apps_to/) | u/thechougala | Discussion | getmarc.app | 1 | 1 | removed by mod | Hello u/thechougala. Your post has been automatically removed. Accounts must be at least 1 year old… |
-| 42 | 2026-11-06 | [Unit 7 - a free, self-hosted backend developer for apps you build with AI](https://www.reddit.com/r/opensource/comments/1xpmqgv/unit_7_a_free_selfhosted_backend_developer_for/) | u/Careless-Mongoose589 | Promotional | youtu.be | 0 | 1 | removed by mod | Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet… |
-| 43 | 2026-11-06 | [Anyone else frustrated with how hard it is to find good open source alternatives?](https://www.reddit.com/r/opensource/comments/1xpmonv/anyone_else_frustrated_with_how_hard_it_is_to/) | u/girlsxxgirlz | Discussion | text | 1 | 1 | removed by mod | Hello, u/girlsxxgirlz. Your post has been automatically removed. Currently, you do not meet the kar… |
-| 44 | 2026-11-06 | [I open-sourced my multi-agent coding stack (worker router + AI commit review in Git hooks), looking for contr…](https://www.reddit.com/r/opensource/comments/1xplvte/i_opensourced_my_multiagent_coding_stack_worker/) | u/Professional-Net-512 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Professional-Net-512. Your post has been automatically removed. Currently, you do not meet… |
-| 45 | 2026-11-06 | [Mufify: a music player with no INTERNET permission at all (FLAC/ALAC, gapless, listening stats, open source)](https://www.reddit.com/r/opensource/comments/1xpl62y/mufify_a_music_player_with_no_internet_permission/) | u/yefee8 | Promotional | text | 1 | 1 | removed by mod | Hello, u/yefee8. Your post has been automatically removed. Currently, you do not meet the karma req… |
-| 46 | 2026-11-06 | [hello hello](https://www.reddit.com/r/opensource/comments/1xpk2wh/hello_hello/) | u/jmbradford12 | Promotional | text | 1 | 0 | spam-filtered | — |
-| 47 | 2026-11-06 | [I built a CLI that sizes images to how they are actually rendered (websites)](https://www.reddit.com/r/opensource/comments/1xpjysv/i_built_a_cli_that_sizes_images_to_how_they_are/) | u/EstimateBeginning678 | — | text | 1 | 1 | removed by mod | Hello, u/EstimateBeginning678. Your post has been automatically removed. Currently, you do not meet… |
-| 48 | 2026-11-06 | [Open source, paid, or keep it secret?](https://www.reddit.com/r/opensource/comments/1xpjwpt/open_source_paid_or_keep_it_secret/) | u/mohamedibrahim456 | — | text | 1 | 1 | removed by mod | Hello u/mohamedibrahim456. Your post has been automatically removed. Accounts must be at least 1 ye… |
-| 49 | 2026-11-06 | [open-source Google Calendar clone, looking for contributors](https://www.reddit.com/r/opensource/comments/1xpjwdo/opensource_google_calendar_clone_looking_for/) | u/NoTutor4458 | Promotional | text | 1 | 1 | removed by mod | Hello, u/NoTutor4458. Your post has been automatically removed. Currently, you do not meet the karm… |
-| 50 | 2026-11-06 | [Hosted a Sam Altman avatar run locally on my RAM and you can talk to it in realtime](https://www.reddit.com/r/opensource/comments/1xpjtbq/hosted_a_sam_altman_avatar_run_locally_on_my_ram/) | u/Mikasa0xdev | — | app.openspline.dev | 1 | 1 | removed by mod | Hello u/Mikasa0xdev. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 1 | 2026-11-07 | [Molty: a strict superset of Python that catches common traps at compile time](#post-1) | u/Shogo256 | Promotional | text | 1 | 1 | removed by mod | Hello u/Shogo256. Your post has been automatically removed. Accounts must be at least 1 year old to… |
+| 2 | 2026-11-07 | [Built a free desktop tool under GPL 3.0, but caught in a code-signing chicken-and-egg problem. Need feedback!](#post-2) | u/Inevitable_Apple3821 | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-07 | [I built Warden, a free open-source Android firewall that needs no root. It shows which apps talk to which ser…](#post-3) | u/sammyi_69 | — | text | 1 | 1 | removed by mod | Hello, u/sammyi_69. Your post has been automatically removed. Currently, you do not meet the karma… |
+| 4 | 2026-11-07 | [Anyone Interested in Bringing Ninja Arashi 2 & Shadow Return Back to Life?](#post-4) | u/New-Surprise-9396 | — | text | 1 | 1 | removed by mod | Hello, u/New-Surprise-9396. Your post has been automatically removed. Currently, you do not meet th… |
+| 5 | 2026-11-07 | [Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK](#post-5) | u/GuidanceBrief612 | Promotional | text | 1 | 1 | removed by mod | Hello, u/GuidanceBrief612. Your post has been automatically removed. Currently, you do not meet the… |
+| 6 | 2026-11-07 | [I got tired of manually searching for potential clients, so I built a tool for it — LeadFinder (Open Source)](#post-6) | u/iamfrankie_c | Promotional | text | 1 | 0 | spam-filtered | — |
+| 7 | 2026-11-07 | [Constantly changing my CV for each Job Posting got tiring... so I built a free open source desktop app that t…](#post-7) | u/BaccyConesCureCancer | Promotional | text | 1 | 0 | live | — |
+| 8 | 2026-11-07 | [Can I make android apps open-source that I built with REA and not having any problem for me or my github Repo?](#post-8) | u/boobaaboob | — | text | 1 | 1 | removed by mod | Hello u/boobaaboob. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 9 | 2026-11-07 | [Open sourced a VR Game (Beat Saber)](#post-9) | u/Fabulous-Possible311 | — | text | 1 | 1 | removed by mod | Hello, u/Fabulous-Possible311. Your post has been automatically removed. Currently, you do not meet… |
+| 10 | 2026-11-07 | [I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora](#post-10) | u/tahirshaikh-744 | Promotional | github.com | 1 | 1 | removed by mod | Hello u/tahirshaikh-744. Your post has been automatically removed. Accounts must be at least 1 year… |
+| 11 | 2026-11-07 | [Constantly changing my CV for each Job Posting got tiring... so I built a free desktop app that tailors it fo…](#post-11) | u/BaccyConesCureCancer | — | i.imgur.com | 1 | 1 | removed by mod | Hi, u/BaccyConesCureCancer. Unfortunately, your post has been removed. We do not allow image posts… |
+| 12 | 2026-11-07 | [Bridger memory runtime analysis](#post-12) | u/Sad_Owl_255 | — | reddit.com | 1 | 1 | removed by mod | Hello u/Sad_Owl_255. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 13 | 2026-11-07 | [Discussion: Can automated code fixes be verified before they're applied?](#post-13) | u/chipConductor | — | text | 1 | 1 | removed by mod | — |
+| 14 | 2026-11-07 | [I built an open-source tool that auto-fixes problems in your project, but only when it can prove nothing visi…](#post-14) | u/chipConductor | Discussion | text | 1 | 1 | removed by mod | Hello u/chipConductor. Your post has been automatically removed. Accounts must be at least 1 year o… |
+| 15 | 2026-11-07 | [Ayuda con software libre.](#post-15) | u/EnElCratoN | — | reddit.com | 1 | 1 | removed by mod | Hello u/EnElCratoN. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 16 | 2026-11-07 | [Discovered an interesting open-source live video mixer built with Rust – GodwinMix](#post-16) | u/Avinesh_07 | Promotional | github.com | 1 | 0 | spam-filtered | — |
+| 17 | 2026-11-07 | [Discovered an interesting open-source live video mixer built with Rust – GodwinMix](#post-17) | u/Avinesh_07 | Promotional | text | 1 | 0 | spam-filtered | — |
+| 18 | 2026-11-07 | [Nosy Notch – free, MIT-licensed macOS notch app: coding-agent status, file shelf, calendar and a little anima…](#post-18) | u/Nkgsporty | Promotional | text | 1 | 1 | removed by mod | Hello, u/Nkgsporty. Your post has been automatically removed. Currently, you do not meet the karma… |
+| 19 | 2026-11-07 | [I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 3…](#post-19) | u/light_2earth | — | text | 1 | 1 | removed by mod | Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year ol… |
+| 20 | 2026-11-07 | [I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 3…](#post-20) | u/light_2earth | Discussion | text | 1 | 1 | removed by mod | Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year ol… |
+| 21 | 2026-11-07 | [Wavefront: open-source (AGPL) harness for building AI apps on enterprise data. Agents, workflows, RBAC, guard…](#post-21) | u/Traditional-Let-856 | Off-Topic | text | 1 | 1 | removed by mod | Hello u/Traditional-Let-856, ChatGPT is not Open Source. Thin shims built to use it are thus off-to… |
+| 22 | 2026-11-07 | [What if we built an open-source verification layer for human knowledge?](#post-22) | u/Low_Jackfruit1647 | Discussion | text | 1 | 1 | removed by mod | Hello u/Low_Jackfruit1647. Your post has been automatically removed. Accounts must be at least 1 ye… |
+| 23 | 2026-11-07 | [VulnPath-AI: offline open-source scanner for AI/agent app security risks](#post-23) | u/Ok-Suggestion-4676 | — | text | 1 | 1 | removed by mod | Hello u/Ok-Suggestion-4676. Your post has been automatically removed. Accounts must be at least 1 y… |
+| 24 | 2026-11-07 | [Your AI assistant shouldn't need the cloud to be useful.](#post-24) | u/NIDO_007 | Discussion | reddit.com | 1 | 1 | removed by mod | Hello u/NIDO_007. Your post has been automatically removed. Accounts must be at least 1 year old to… |
+| 25 | 2026-11-07 | [Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes](#post-25) | u/Revibed69 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Revibed69. Your post has been automatically removed. Currently, you do not meet the karma… |
+| 26 | 2026-11-07 | [samenland: A cozy, historically grounded real-time medieval settlement simulation set in Northern Germany aro…](#post-26) | u/Doener23 | Promotional | github.com | 0 | 2 | live | — |
+| 27 | 2026-11-07 | [My personal project: OpenLasso](#post-27) | u/Tech_now111 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karm… |
+| 28 | 2026-11-07 | [My personal project: OpenLasso](#post-28) | u/Tech_now111 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karm… |
+| 29 | 2026-11-07 | [I made Shortcuts to copy and paste between your phone and your PC — no app, no account](#post-29) | u/Hairy_Minimum_4659 | — | text | 1 | 1 | removed by mod | Hello, u/Hairy_Minimum_4659. Your post has been automatically removed. Currently, you do not meet t… |
+| 30 | 2026-11-07 | [Corvus: an open-source reverse proxy like NPM, with a WAF, auto-bans and a waiting room built in](#post-30) | u/jkmoon_dev | Promotional | github.com | 1 | 1 | removed by mod | Hello u/jkmoon_dev. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 31 | 2026-11-07 | [Check out my open-source project, MyDevPortal, built with Laravel](#post-31) | u/senpaikaito | Promotional | github.com | 1 | 1 | removed by mod | Hello, u/senpaikaito. Your post has been automatically removed. Currently, you do not meet the karm… |
+| 32 | 2026-11-06 | [i hate generative ai as much as the rest of yall but banning everyone that doesn't speak english is not the w…](#post-32) | u/MargoSizemore | Discussion | text | 1 | 2 | removed by mod | Hello, u/MargoSizemore. Your post has been automatically removed. Currently, you do not meet the ka… |
+| 33 | 2026-11-06 | [Desk Panel (Android)](#post-33) | u/Mitradir | Promotional | text | 1 | 1 | removed by mod | Hello, u/Mitradir. Your post has been automatically removed. Currently, you do not meet the karma r… |
+| 34 | 2026-11-06 | [I made my own OS called NimbusOS.](#post-34) | u/Remarkable-Spot-2179 | — | text | 1 | 0 | spam-filtered | — |
+| 35 | 2026-11-06 | [My GitLab tabs now look like GitHub and stop showing stale pipeline status](#post-35) | u/shravanrevanna | — | github.com | 1 | 1 | removed by mod | Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the k… |
+| 36 | 2026-11-06 | [My GitLab tabs now look like GitHub and stop showing stale pipeline status](#post-36) | u/shravanrevanna | — | github.com | 1 | 1 | removed by mod | Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the k… |
+| 37 | 2026-11-06 | [3D Software factory - self improving](#post-37) | u/Rough-While3444 | Promotional | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-11-06 | [I built BDLMinerV2 — a free, open-source ESP32 Bitcoin solo miner with a web dashboard](#post-38) | u/Sweaty-Hurry8928 | — | text | 1 | 1 | removed by mod | Hello u/Sweaty-Hurry8928. Your post has been automatically removed. Accounts must be at least 1 yea… |
+| 39 | 2026-11-06 | [Object Storage Client (one API/CLI/GUI to rule them all)](#post-39) | u/kamikazer | Promotional | text | 1 | 1 | spam-filtered | Hello, u/kamikazer. Your post has been automatically removed. Currently, you do not meet the karma… |
+| 40 | 2026-11-06 | [Before making a private repo public, I dropped the whole git history instead of rewriting it. Was that the ri…](#post-40) | u/Careless-Mongoose589 | Discussion | text | 1 | 1 | removed by mod | Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet… |
+| 41 | 2026-11-06 | [I got tired of paying for separate apps to control my Mac, so I built a free, open-source alternative. Lookin…](#post-41) | u/thechougala | Discussion | getmarc.app | 1 | 1 | removed by mod | Hello u/thechougala. Your post has been automatically removed. Accounts must be at least 1 year old… |
+| 42 | 2026-11-06 | [Unit 7 - a free, self-hosted backend developer for apps you build with AI](#post-42) | u/Careless-Mongoose589 | Promotional | youtu.be | 0 | 1 | removed by mod | Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet… |
+| 43 | 2026-11-06 | [Anyone else frustrated with how hard it is to find good open source alternatives?](#post-43) | u/girlsxxgirlz | Discussion | text | 1 | 1 | removed by mod | Hello, u/girlsxxgirlz. Your post has been automatically removed. Currently, you do not meet the kar… |
+| 44 | 2026-11-06 | [I open-sourced my multi-agent coding stack (worker router + AI commit review in Git hooks), looking for contr…](#post-44) | u/Professional-Net-512 | Promotional | text | 1 | 1 | removed by mod | Hello, u/Professional-Net-512. Your post has been automatically removed. Currently, you do not meet… |
+| 45 | 2026-11-06 | [Mufify: a music player with no INTERNET permission at all (FLAC/ALAC, gapless, listening stats, open source)](#post-45) | u/yefee8 | Promotional | text | 1 | 1 | removed by mod | Hello, u/yefee8. Your post has been automatically removed. Currently, you do not meet the karma req… |
+| 46 | 2026-11-06 | [hello hello](#post-46) | u/jmbradford12 | Promotional | text | 1 | 0 | spam-filtered | — |
+| 47 | 2026-11-06 | [I built a CLI that sizes images to how they are actually rendered (websites)](#post-47) | u/EstimateBeginning678 | — | text | 1 | 1 | removed by mod | Hello, u/EstimateBeginning678. Your post has been automatically removed. Currently, you do not meet… |
+| 48 | 2026-11-06 | [Open source, paid, or keep it secret?](#post-48) | u/mohamedibrahim456 | — | text | 1 | 1 | removed by mod | Hello u/mohamedibrahim456. Your post has been automatically removed. Accounts must be at least 1 ye… |
+| 49 | 2026-11-06 | [open-source Google Calendar clone, looking for contributors](#post-49) | u/NoTutor4458 | Promotional | text | 1 | 1 | removed by mod | Hello, u/NoTutor4458. Your post has been automatically removed. Currently, you do not meet the karm… |
+| 50 | 2026-11-06 | [Hosted a Sam Altman avatar run locally on my RAM and you can talk to it in realtime](#post-50) | u/Mikasa0xdev | — | app.openspline.dev | 1 | 1 | removed by mod | Hello u/Mikasa0xdev. Your post has been automatically removed. Accounts must be at least 1 year old… |
 
 ## Top 20 posts, last 30 days
 
@@ -118,78 +118,92 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-26 | [Linus Torvalds posts his AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap](https://www.reddit.com/r/opensource/comments/1xfmd0w/linus_torvalds_posts_his_aiassisted_patch_to_the/) | u/almostsweet | Promotional | tomshardware.com | 2987 | 467 | live |
-| 52 | 2026-11-06 | [Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver](https://www.reddit.com/r/opensource/comments/1xp6wn1/synaptics_appears_to_use_legal_threats_to_block/) | u/nicholashairs | — | phoronix.com | 238 | 33 | live |
-| 53 | 2026-10-25 | [The "spirit" of open-source?](https://www.reddit.com/r/opensource/comments/1xfcbfp/the_spirit_of_opensource/) | u/PureWasian | Discussion | text | 178 | 106 | live |
-| 54 | 2026-10-26 | [My LAN-party management Project (No AI, 10+ years old)](https://www.reddit.com/r/opensource/comments/1xfvgd7/my_lanparty_management_project_no_ai_10_years_old/) | u/allbyoneguy | Promotional | text | 168 | 31 | live |
-| 55 | 2026-10-26 | [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://www.reddit.com/r/opensource/comments/1xg5b54/the_decoherence_trap_when_ai_slop_drowns_out_the/) | u/pzuraq | Discussion | maevyn.codes | 145 | 65 | live |
-| 56 | 2026-11-03 | [A Maintainer's Advice on Contributing to Open Source in 2026](https://www.reddit.com/r/opensource/comments/1xmvj88/a_maintainers_advice_on_contributing_to_open/) | u/Martinsos | — | wasp.sh | 126 | 12 | live |
-| 57 | 2026-10-23 | [NotProton maintainer confronts influencer-backed fork Bridgeplay over macOS Wine sustainability; owner refuse…](https://www.reddit.com/r/opensource/comments/1xdrzt2/notproton_maintainer_confronts_influencerbacked/) | u/IISomeOneII | Promotional | text | 106 | 46 | live |
-| 58 | 2026-11-06 | [Project 2027: An RFC to rebuild public tech using the economics of Open Source](https://www.reddit.com/r/opensource/comments/1xpdumu/project_2027_an_rfc_to_rebuild_public_tech_using/) | u/pzuraq | Discussion | joinproject2027.org | 96 | 31 | live |
-| 59 | 2026-10-26 | [Open Source, AI, and Trust](https://www.reddit.com/r/opensource/comments/1xfufbc/open_source_ai_and_trust/) | u/mynamesleon | Discussion | text | 72 | 60 | live |
-| 60 | 2026-10-26 | [How much of AI is banned in a project tho?](https://www.reddit.com/r/opensource/comments/1xg0in0/how_much_of_ai_is_banned_in_a_project_tho/) | u/Own_Satisfaction_879 | — | text | 64 | 150 | live |
-| 61 | 2026-10-28 | [EMACS turns 50](https://www.reddit.com/r/opensource/comments/1xhxpul/emacs_turns_50/) | u/homothebrave | Discussion | technologyreview.com | 61 | 1 | approved |
-| 62 | 2026-10-26 | [Opensource is great when..](https://www.reddit.com/r/opensource/comments/1xfp1l0/opensource_is_great_when/) | u/rubixstudios | — | text | 58 | 140 | live |
-| 63 | 2026-10-26 | [Smart TV OS Replacements?](https://www.reddit.com/r/opensource/comments/1xgauog/smart_tv_os_replacements/) | u/Sickologyy | — | text | 44 | 26 | live |
-| 64 | 2026-10-23 | [If your business makes money from open source, should you give back?](https://www.reddit.com/r/opensource/comments/1xd5vv3/if_your_business_makes_money_from_open_source/) | u/brainland | Discussion | text | 43 | 25 | live |
-| 65 | 2026-11-03 | [So, any progress on new adjustments?](https://www.reddit.com/r/opensource/comments/1xmjq50/so_any_progress_on_new_adjustments/) | u/hugo5ama | Discussion | reddit.com | 42 | 30 | live |
-| 66 | 2026-11-06 | [Servo Browser Engine Continues Broadening Web Compatibility, New Features](https://www.reddit.com/r/opensource/comments/1xpb5j6/servo_browser_engine_continues_broadening_web/) | u/HimikoTogaFromUSSR | Promotional | phoronix.com | 32 | 2 | live |
-| 67 | 2026-11-01 | [I still can't believe maintainers have to deal with shit like this too](https://www.reddit.com/r/opensource/comments/1xl0nd6/i_still_cant_believe_maintainers_have_to_deal/) | u/codeIMperfect | — | text | 26 | 4 | live |
-| 68 | 2026-10-26 | [MIT-licensed OpenMapView library. I develop it since 2025 as replacement for osmdroid and Google Maps SDK. It…](https://www.reddit.com/r/opensource/comments/1xfx8g0/mitlicensed_openmapview_library_i_develop_it/) | u/farber72 | Promotional | github.com | 24 | 2 | live |
-| 69 | 2026-11-06 | [Adjustment: Scheduled Post for Contributors and Projects to Find Eachother](https://www.reddit.com/r/opensource/comments/1xpb4ny/adjustment_scheduled_post_for_contributors_and/) | u/nicholashairs | Promotional | text | 23 | 12 | live |
-| 70 | 2026-10-31 | [Even after so many years, there's still SO many work to do :(](https://www.reddit.com/r/opensource/comments/1xko9y4/even_after_so_many_years_theres_still_so_many/) | u/ShelLuser42 | Discussion | text | 22 | 10 | live |
+| 51 | 2026-10-26 | [Linus Torvalds posts his AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap](#post-51) | u/almostsweet | Promotional | tomshardware.com | 2987 | 467 | live |
+| 52 | 2026-11-06 | [Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver](#post-52) | u/nicholashairs | — | phoronix.com | 238 | 33 | live |
+| 53 | 2026-10-25 | [The "spirit" of open-source?](#post-53) | u/PureWasian | Discussion | text | 178 | 106 | live |
+| 54 | 2026-10-26 | [My LAN-party management Project (No AI, 10+ years old)](#post-54) | u/allbyoneguy | Promotional | text | 168 | 31 | live |
+| 55 | 2026-10-26 | [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](#post-55) | u/pzuraq | Discussion | maevyn.codes | 145 | 65 | live |
+| 56 | 2026-11-03 | [A Maintainer's Advice on Contributing to Open Source in 2026](#post-56) | u/Martinsos | — | wasp.sh | 126 | 12 | live |
+| 57 | 2026-10-23 | [NotProton maintainer confronts influencer-backed fork Bridgeplay over macOS Wine sustainability; owner refuse…](#post-57) | u/IISomeOneII | Promotional | text | 106 | 46 | live |
+| 58 | 2026-11-06 | [Project 2027: An RFC to rebuild public tech using the economics of Open Source](#post-58) | u/pzuraq | Discussion | joinproject2027.org | 96 | 31 | live |
+| 59 | 2026-10-26 | [Open Source, AI, and Trust](#post-59) | u/mynamesleon | Discussion | text | 72 | 60 | live |
+| 60 | 2026-10-26 | [How much of AI is banned in a project tho?](#post-60) | u/Own_Satisfaction_879 | — | text | 64 | 150 | live |
+| 61 | 2026-10-28 | [EMACS turns 50](#post-61) | u/homothebrave | Discussion | technologyreview.com | 61 | 1 | approved |
+| 62 | 2026-10-26 | [Opensource is great when..](#post-62) | u/rubixstudios | — | text | 58 | 140 | live |
+| 63 | 2026-10-26 | [Smart TV OS Replacements?](#post-63) | u/Sickologyy | — | text | 44 | 26 | live |
+| 64 | 2026-10-23 | [If your business makes money from open source, should you give back?](#post-64) | u/brainland | Discussion | text | 43 | 25 | live |
+| 65 | 2026-11-03 | [So, any progress on new adjustments?](#post-65) | u/hugo5ama | Discussion | reddit.com | 42 | 30 | live |
+| 66 | 2026-11-06 | [Servo Browser Engine Continues Broadening Web Compatibility, New Features](#post-66) | u/HimikoTogaFromUSSR | Promotional | phoronix.com | 32 | 2 | live |
+| 67 | 2026-11-01 | [I still can't believe maintainers have to deal with shit like this too](#post-67) | u/codeIMperfect | — | text | 26 | 4 | live |
+| 68 | 2026-10-26 | [MIT-licensed OpenMapView library. I develop it since 2025 as replacement for osmdroid and Google Maps SDK. It…](#post-68) | u/farber72 | Promotional | github.com | 24 | 2 | live |
+| 69 | 2026-11-06 | [Adjustment: Scheduled Post for Contributors and Projects to Find Eachother](#post-69) | u/nicholashairs | Promotional | text | 23 | 12 | live |
+| 70 | 2026-10-31 | [Even after so many years, there's still SO many work to do :(](#post-70) | u/ShelLuser42 | Discussion | text | 22 | 10 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Molty: a strict superset of Python that catches common traps at compile time
 
-2026-11-07 · u/Shogo256 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0vkc/molty_a_strict_superset_of_python_that_catches/)
+2026-11-07 · u/Shogo256 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0vkc/molty_a_strict_superset_of_python_that_catches/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/Shogo256. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-2"></a>
+
 ### 2. Built a free desktop tool under GPL 3.0, but caught in a code-signing chicken-and-egg problem. Need feedback!
 
-2026-11-07 · u/Inevitable_Apple3821 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0uy0/built_a_free_desktop_tool_under_gpl_30_but_caught/)
+2026-11-07 · u/Inevitable_Apple3821 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0uy0/built_a_free_desktop_tool_under_gpl_30_but_caught/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. I built Warden, a free open-source Android firewall that needs no root. It shows which apps talk to which servers and lets you block them
 
-2026-11-07 · u/sammyi_69 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0oq8/i_built_warden_a_free_opensource_android_firewall/)
+2026-11-07 · u/sammyi_69 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0oq8/i_built_warden_a_free_opensource_android_firewall/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/sammyi_69. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-4"></a>
+
 ### 4. Anyone Interested in Bringing Ninja Arashi 2 & Shadow Return Back to Life?
 
-2026-11-07 · u/New-Surprise-9396 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0obh/anyone_interested_in_bringing_ninja_arashi_2/)
+2026-11-07 · u/New-Surprise-9396 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0obh/anyone_interested_in_bringing_ninja_arashi_2/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/New-Surprise-9396. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-5"></a>
+
 ### 5. Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK
 
-2026-11-07 · u/GuidanceBrief612 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0lio/pipeverify_compare_a_table_before_and_after_a/)
+2026-11-07 · u/GuidanceBrief612 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0lio/pipeverify_compare_a_table_before_and_after_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/GuidanceBrief612. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-6"></a>
+
 ### 6. I got tired of manually searching for potential clients, so I built a tool for it — LeadFinder (Open Source)
 
-2026-11-07 · u/iamfrankie_c · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0jdk/i_got_tired_of_manually_searching_for_potential/)
+2026-11-07 · u/iamfrankie_c · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq0jdk/i_got_tired_of_manually_searching_for_potential/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Constantly changing my CV for each Job Posting got tiring... so I built a free open source desktop app that tailors it for me
 
-2026-11-07 · u/BaccyConesCureCancer · Promotional · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq021d/constantly_changing_my_cv_for_each_job_posting/)
+2026-11-07 · u/BaccyConesCureCancer · Promotional · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq021d/constantly_changing_my_cv_for_each_job_posting/) · [↑ back to the list](#last-50-posts)
 
 > Every time I applied for a job I'd duplicate my CV, delete half the bullets, dig old ones back up, and fiddle until it fit on one page again. So I built Smart CV.
 >
@@ -215,25 +229,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Source: [https://github.com/michaelshirley1/smart-cv](https://github.com/michaelshirley1/smart-cv)
 
+<a id="post-8"></a>
+
 ### 8. Can I make android apps open-source that I built with REA and not having any problem for me or my github Repo?
 
-2026-11-07 · u/boobaaboob · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq01fc/can_i_make_android_apps_opensource_that_i_built/)
+2026-11-07 · u/boobaaboob · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xq01fc/can_i_make_android_apps_opensource_that_i_built/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/boobaaboob. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-9"></a>
+
 ### 9. Open sourced a VR Game (Beat Saber)
 
-2026-11-07 · u/Fabulous-Possible311 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzxo9/open_sourced_a_vr_game_beat_saber/)
+2026-11-07 · u/Fabulous-Possible311 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzxo9/open_sourced_a_vr_game_beat_saber/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Fabulous-Possible311. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-10"></a>
+
 ### 10. I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora
 
-2026-11-07 · u/tahirshaikh-744 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzq1b/i_got_tired_of_the_limitations_of_windows_screen/)
+2026-11-07 · u/tahirshaikh-744 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzq1b/i_got_tired_of_the_limitations_of_windows_screen/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/tahirshaikh744-design/Rekzora>
 
@@ -241,9 +261,11 @@ Link: <https://github.com/tahirshaikh744-design/Rekzora>
 
 **Mod comment** (u/AutoModerator): Hello u/tahirshaikh-744. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-11"></a>
+
 ### 11. Constantly changing my CV for each Job Posting got tiring... so I built a free desktop app that tailors it for me
 
-2026-11-07 · u/BaccyConesCureCancer · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpznrm/constantly_changing_my_cv_for_each_job_posting/)
+2026-11-07 · u/BaccyConesCureCancer · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpznrm/constantly_changing_my_cv_for_each_job_posting/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.imgur.com/N9ZgTd6.gif>
 
@@ -251,9 +273,11 @@ Link: <https://i.imgur.com/N9ZgTd6.gif>
 
 **Mod comment** (u/AutoModerator): Hi, u/BaccyConesCureCancer. Unfortunately, your post has been removed. We do not allow image posts here, as they are most often either memes (See Rule 3) or used as a means to attempt to bypass our policy on spam/excessive self promotion (See Rule 1). If you believe your post has been removed in error, please feel free to [send a message](https://www.reddit.com/message/compose?to=%2Fr%2Fopensource) to the moderators, and they will respond as soon as they can. **Do NOT send private messages to individual moderators, or you will be banned.**
 
+<a id="post-12"></a>
+
 ### 12. Bridger memory runtime analysis
 
-2026-11-07 · u/Sad_Owl_255 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzl52/bridger_memory_runtime_analysis/)
+2026-11-07 · u/Sad_Owl_255 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzl52/bridger_memory_runtime_analysis/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/androiddev/comments/1xpzkzo/bridger_memory_runtime_analysis/>
 
@@ -261,23 +285,29 @@ Link: <https://www.reddit.com/r/androiddev/comments/1xpzkzo/bridger_memory_runti
 
 **Mod comment** (u/AutoModerator): Hello u/Sad_Owl_255. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-13"></a>
+
 ### 13. Discussion: Can automated code fixes be verified before they're applied?
 
-2026-11-07 · u/chipConductor · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzi3z/discussion_can_automated_code_fixes_be_verified/)
+2026-11-07 · u/chipConductor · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzi3z/discussion_can_automated_code_fixes_be_verified/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. I built an open-source tool that auto-fixes problems in your project, but only when it can prove nothing visible changed
 
-2026-11-07 · u/chipConductor · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzh3w/i_built_an_opensource_tool_that_autofixes/)
+2026-11-07 · u/chipConductor · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpzh3w/i_built_an_opensource_tool_that_autofixes/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/chipConductor. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-15"></a>
+
 ### 15. Ayuda con software libre.
 
-2026-11-07 · u/EnElCratoN · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpz002/ayuda_con_software_libre/)
+2026-11-07 · u/EnElCratoN · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpz002/ayuda_con_software_libre/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/u_EnElCratoN/comments/1xpywj5/ayuda_con_software_libre/>
 
@@ -285,71 +315,89 @@ Link: <https://www.reddit.com/r/u_EnElCratoN/comments/1xpywj5/ayuda_con_software
 
 **Mod comment** (u/AutoModerator): Hello u/EnElCratoN. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-16"></a>
+
 ### 16. Discovered an interesting open-source live video mixer built with Rust – GodwinMix
 
-2026-11-07 · u/Avinesh_07 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpyzhr/discovered_an_interesting_opensource_live_video/)
+2026-11-07 · u/Avinesh_07 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpyzhr/discovered_an_interesting_opensource_live_video/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/psmux/GodwinMix>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Discovered an interesting open-source live video mixer built with Rust – GodwinMix
 
-2026-11-07 · u/Avinesh_07 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpyt59/discovered_an_interesting_opensource_live_video/)
+2026-11-07 · u/Avinesh_07 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpyt59/discovered_an_interesting_opensource_live_video/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. Nosy Notch – free, MIT-licensed macOS notch app: coding-agent status, file shelf, calendar and a little animated resident
 
-2026-11-07 · u/Nkgsporty · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxm6y/nosy_notch_free_mitlicensed_macos_notch_app/)
+2026-11-07 · u/Nkgsporty · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxm6y/nosy_notch_free_mitlicensed_macos_notch_app/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Nkgsporty. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-19"></a>
+
 ### 19. I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 34+ GitHub stars
 
-2026-11-07 · u/light_2earth · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxjti/i_finally_worked_on_my_opensource_ideaand_in_a/)
+2026-11-07 · u/light_2earth · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxjti/i_finally_worked_on_my_opensource_ideaand_in_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
+
+<a id="post-20"></a>
 
 ### 20. I finally worked on my open-source idea—and in a month, it reached 250+ npm installs, 170+ pip installs and 34+ GitHub stars
 
-2026-11-07 · u/light_2earth · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxjki/i_finally_worked_on_my_opensource_ideaand_in_a/)
+2026-11-07 · u/light_2earth · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpxjki/i_finally_worked_on_my_opensource_ideaand_in_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/light_2earth. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-21"></a>
+
 ### 21. Wavefront: open-source (AGPL) harness for building AI apps on enterprise data. Agents, workflows, RBAC, guardrails, audit logs
 
-2026-11-07 · u/Traditional-Let-856 · Off-Topic · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpx3vk/wavefront_opensource_agpl_harness_for_building_ai/)
+2026-11-07 · u/Traditional-Let-856 · Off-Topic · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpx3vk/wavefront_opensource_agpl_harness_for_building_ai/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/Traditional-Let-856, ChatGPT is not Open Source. Thin shims built to use it are thus off-topic. **Do not attempt to make a similar post again.** You may seek an exception in mod-mail if your project has **no interfacing** to OpenAI or similar closed-source systems.
 
+<a id="post-22"></a>
+
 ### 22. What if we built an open-source verification layer for human knowledge?
 
-2026-11-07 · u/Low_Jackfruit1647 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpwus1/what_if_we_built_an_opensource_verification_layer/)
+2026-11-07 · u/Low_Jackfruit1647 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpwus1/what_if_we_built_an_opensource_verification_layer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/Low_Jackfruit1647. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-23"></a>
+
 ### 23. VulnPath-AI: offline open-source scanner for AI/agent app security risks
 
-2026-11-07 · u/Ok-Suggestion-4676 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpw7hz/vulnpathai_offline_opensource_scanner_for_aiagent/)
+2026-11-07 · u/Ok-Suggestion-4676 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpw7hz/vulnpathai_offline_opensource_scanner_for_aiagent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/Ok-Suggestion-4676. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-24"></a>
+
 ### 24. Your AI assistant shouldn't need the cloud to be useful.
 
-2026-11-07 · u/NIDO_007 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpw2vj/your_ai_assistant_shouldnt_need_the_cloud_to_be/)
+2026-11-07 · u/NIDO_007 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpw2vj/your_ai_assistant_shouldnt_need_the_cloud_to_be/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/u_NIDO_007/comments/1xpw2gj/your_ai_assistant_shouldnt_need_the_cloud_to_be/>
 
@@ -357,48 +405,60 @@ Link: <https://www.reddit.com/r/u_NIDO_007/comments/1xpw2gj/your_ai_assistant_sh
 
 **Mod comment** (u/AutoModerator): Hello u/NIDO_007. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-25"></a>
+
 ### 25. Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes
 
-2026-11-07 · u/Revibed69 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpu41f/burrows_core_is_now_agpl_a_localfirst_windows_app/)
+2026-11-07 · u/Revibed69 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpu41f/burrows_core_is_now_agpl_a_localfirst_windows_app/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Revibed69. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-26"></a>
+
 ### 26. samenland: A cozy, historically grounded real-time medieval settlement simulation set in Northern Germany around 1500 (MIT license)
 
-2026-11-07 · u/Doener23 · Promotional · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptu5h/samenland_a_cozy_historically_grounded_realtime/)
+2026-11-07 · u/Doener23 · Promotional · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptu5h/samenland_a_cozy_historically_grounded_realtime/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/retrogames23/samenland>
 
 
+<a id="post-27"></a>
+
 ### 27. My personal project: OpenLasso
 
-2026-11-07 · u/Tech_now111 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptmg8/my_personal_project_openlasso/)
+2026-11-07 · u/Tech_now111 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptmg8/my_personal_project_openlasso/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
+
+<a id="post-28"></a>
 
 ### 28. My personal project: OpenLasso
 
-2026-11-07 · u/Tech_now111 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptllj/my_personal_project_openlasso/)
+2026-11-07 · u/Tech_now111 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xptllj/my_personal_project_openlasso/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Tech_now111. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-29"></a>
+
 ### 29. I made Shortcuts to copy and paste between your phone and your PC — no app, no account
 
-2026-11-07 · u/Hairy_Minimum_4659 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpt6i1/i_made_shortcuts_to_copy_and_paste_between_your/)
+2026-11-07 · u/Hairy_Minimum_4659 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpt6i1/i_made_shortcuts_to_copy_and_paste_between_your/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Hairy_Minimum_4659. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-30"></a>
+
 ### 30. Corvus: an open-source reverse proxy like NPM, with a WAF, auto-bans and a waiting room built in
 
-2026-11-07 · u/jkmoon_dev · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpt1sk/corvus_an_opensource_reverse_proxy_like_npm_with/)
+2026-11-07 · u/jkmoon_dev · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpt1sk/corvus_an_opensource_reverse_proxy_like_npm_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/corvus-gateway/corvus>
 
@@ -406,9 +466,11 @@ Link: <https://github.com/corvus-gateway/corvus>
 
 **Mod comment** (u/AutoModerator): Hello u/jkmoon_dev. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-31"></a>
+
 ### 31. Check out my open-source project, MyDevPortal, built with Laravel
 
-2026-11-07 · u/senpaikaito · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpsngv/check_out_my_opensource_project_mydevportal_built/)
+2026-11-07 · u/senpaikaito · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpsngv/check_out_my_opensource_project_mydevportal_built/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.github.com/jmdev11webdev/mydevportal>
 
@@ -416,41 +478,51 @@ Link: <https://www.github.com/jmdev11webdev/mydevportal>
 
 **Mod comment** (u/AutoModerator): Hello, u/senpaikaito. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-32"></a>
+
 ### 32. i hate generative ai as much as the rest of yall but banning everyone that doesn't speak english is not the way to do it 😭
 
-2026-11-06 · u/MargoSizemore · Discussion · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpr9dw/i_hate_generative_ai_as_much_as_the_rest_of_yall/)
+2026-11-06 · u/MargoSizemore · Discussion · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpr9dw/i_hate_generative_ai_as_much_as_the_rest_of_yall/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/MargoSizemore. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-33"></a>
+
 ### 33. Desk Panel (Android)
 
-2026-11-06 · u/Mitradir · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpqnp4/desk_panel_android/)
+2026-11-06 · u/Mitradir · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpqnp4/desk_panel_android/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Mitradir. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-34"></a>
+
 ### 34. I made my own OS called NimbusOS.
 
-2026-11-06 · u/Remarkable-Spot-2179 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq1kv/i_made_my_own_os_called_nimbusos/)
+2026-11-06 · u/Remarkable-Spot-2179 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq1kv/i_made_my_own_os_called_nimbusos/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-35"></a>
 
 ### 35. My GitLab tabs now look like GitHub and stop showing stale pipeline status
 
-2026-11-06 · u/shravanrevanna · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq173/my_gitlab_tabs_now_look_like_github_and_stop/)
+2026-11-06 · u/shravanrevanna · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq173/my_gitlab_tabs_now_look_like_github_and_stop/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/myselfshravan/LabHub>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
+
+<a id="post-36"></a>
 
 ### 36. My GitLab tabs now look like GitHub and stop showing stale pipeline status
 
-2026-11-06 · u/shravanrevanna · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq0aa/my_gitlab_tabs_now_look_like_github_and_stop/)
+2026-11-06 · u/shravanrevanna · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpq0aa/my_gitlab_tabs_now_look_like_github_and_stop/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/myselfshravan/LabHub>
 
@@ -458,39 +530,49 @@ Link: <https://github.com/myselfshravan/LabHub>
 
 **Mod comment** (u/AutoModerator): Hello, u/shravanrevanna. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-37"></a>
+
 ### 37. 3D Software factory - self improving
 
-2026-11-06 · u/Rough-While3444 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpp4re/3d_software_factory_self_improving/)
+2026-11-06 · u/Rough-While3444 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpp4re/3d_software_factory_self_improving/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. I built BDLMinerV2 — a free, open-source ESP32 Bitcoin solo miner with a web dashboard
 
-2026-11-06 · u/Sweaty-Hurry8928 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpow8a/i_built_bdlminerv2_a_free_opensource_esp32/)
+2026-11-06 · u/Sweaty-Hurry8928 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpow8a/i_built_bdlminerv2_a_free_opensource_esp32/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/Sweaty-Hurry8928. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-39"></a>
+
 ### 39. Object Storage Client (one API/CLI/GUI to rule them all)
 
-2026-11-06 · u/kamikazer · Promotional · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpnbx6/object_storage_client_one_apicligui_to_rule_them/)
+2026-11-06 · u/kamikazer · Promotional · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpnbx6/object_storage_client_one_apicligui_to_rule_them/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/kamikazer. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-40"></a>
+
 ### 40. Before making a private repo public, I dropped the whole git history instead of rewriting it. Was that the right call?
 
-2026-11-06 · u/Careless-Mongoose589 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmtca/before_making_a_private_repo_public_i_dropped_the/)
+2026-11-06 · u/Careless-Mongoose589 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmtca/before_making_a_private_repo_public_i_dropped_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-41"></a>
+
 ### 41. I got tired of paying for separate apps to control my Mac, so I built a free, open-source alternative. Looking for early testers and honest feedback!
 
-2026-11-06 · u/thechougala · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmrpo/i_got_tired_of_paying_for_separate_apps_to/)
+2026-11-06 · u/thechougala · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmrpo/i_got_tired_of_paying_for_separate_apps_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://getmarc.app>
 
@@ -498,9 +580,11 @@ Link: <https://getmarc.app>
 
 **Mod comment** (u/AutoModerator): Hello u/thechougala. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-42"></a>
+
 ### 42. Unit 7 - a free, self-hosted backend developer for apps you build with AI
 
-2026-11-06 · u/Careless-Mongoose589 · Promotional · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmqgv/unit_7_a_free_selfhosted_backend_developer_for/)
+2026-11-06 · u/Careless-Mongoose589 · Promotional · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmqgv/unit_7_a_free_selfhosted_backend_developer_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/DdAkPGPHjwg>
 
@@ -508,63 +592,79 @@ Link: <https://youtu.be/DdAkPGPHjwg>
 
 **Mod comment** (u/AutoModerator): Hello, u/Careless-Mongoose589. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-43"></a>
+
 ### 43. Anyone else frustrated with how hard it is to find good open source alternatives?
 
-2026-11-06 · u/girlsxxgirlz · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmonv/anyone_else_frustrated_with_how_hard_it_is_to/)
+2026-11-06 · u/girlsxxgirlz · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpmonv/anyone_else_frustrated_with_how_hard_it_is_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/girlsxxgirlz. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-44"></a>
+
 ### 44. I open-sourced my multi-agent coding stack (worker router + AI commit review in Git hooks), looking for contributors
 
-2026-11-06 · u/Professional-Net-512 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xplvte/i_opensourced_my_multiagent_coding_stack_worker/)
+2026-11-06 · u/Professional-Net-512 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xplvte/i_opensourced_my_multiagent_coding_stack_worker/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/Professional-Net-512. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-45"></a>
+
 ### 45. Mufify: a music player with no INTERNET permission at all (FLAC/ALAC, gapless, listening stats, open source)
 
-2026-11-06 · u/yefee8 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpl62y/mufify_a_music_player_with_no_internet_permission/)
+2026-11-06 · u/yefee8 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpl62y/mufify_a_music_player_with_no_internet_permission/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/yefee8. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-46"></a>
+
 ### 46. hello hello
 
-2026-11-06 · u/jmbradford12 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpk2wh/hello_hello/)
+2026-11-06 · u/jmbradford12 · Promotional · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpk2wh/hello_hello/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. I built a CLI that sizes images to how they are actually rendered (websites)
 
-2026-11-06 · u/EstimateBeginning678 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjysv/i_built_a_cli_that_sizes_images_to_how_they_are/)
+2026-11-06 · u/EstimateBeginning678 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjysv/i_built_a_cli_that_sizes_images_to_how_they_are/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/EstimateBeginning678. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.**
 
+<a id="post-48"></a>
+
 ### 48. Open source, paid, or keep it secret?
 
-2026-11-06 · u/mohamedibrahim456 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjwpt/open_source_paid_or_keep_it_secret/)
+2026-11-06 · u/mohamedibrahim456 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjwpt/open_source_paid_or_keep_it_secret/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello u/mohamedibrahim456. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-49"></a>
+
 ### 49. open-source Google Calendar clone, looking for contributors
 
-2026-11-06 · u/NoTutor4458 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjwdo/opensource_google_calendar_clone_looking_for/)
+2026-11-06 · u/NoTutor4458 · Promotional · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjwdo/opensource_google_calendar_clone_looking_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hello, u/NoTutor4458. Your post has been automatically removed. Currently, you do not meet the karma requirements to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-50"></a>
+
 ### 50. Hosted a Sam Altman avatar run locally on my RAM and you can talk to it in realtime
 
-2026-11-06 · u/Mikasa0xdev · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjtbq/hosted_a_sam_altman_avatar_run_locally_on_my_ram/)
+2026-11-06 · u/Mikasa0xdev · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpjtbq/hosted_a_sam_altman_avatar_run_locally_on_my_ram/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://app.openspline.dev/ram-altman>
 
@@ -572,16 +672,20 @@ Link: <https://app.openspline.dev/ram-altman>
 
 **Mod comment** (u/AutoModerator): Hello u/Mikasa0xdev. Your post has been automatically removed. Accounts must be at least 1 year old to post here. This requirement is part of an effort to cut down on spam and excessive self promotion on this sub and maintain a high standard of quality. **Exceptions to this policy will not be made.** You are still welcome to comment on other posts, although they will be reviewed.
 
+<a id="post-51"></a>
+
 ### 51. Linus Torvalds posts his AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap
 
-2026-10-26 · u/almostsweet · Promotional · score 2987 · 467 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfmd0w/linus_torvalds_posts_his_aiassisted_patch_to_the/)
+2026-10-26 · u/almostsweet · Promotional · score 2987 · 467 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfmd0w/linus_torvalds_posts_his_aiassisted_patch_to_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself>
 
 
+<a id="post-52"></a>
+
 ### 52. Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver
 
-2026-11-06 · u/nicholashairs · score 238 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xp6wn1/synaptics_appears_to_use_legal_threats_to_block/)
+2026-11-06 · u/nicholashairs · score 238 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xp6wn1/synaptics_appears_to_use_legal_threats_to_block/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>
 
@@ -591,9 +695,11 @@ Link: <https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>
 >
 > The downside I've found is that Mac's don't support DP over USB-C so if you have to use one of those for work then you end up in compatibility hell 🙃🙃🙃
 
+<a id="post-53"></a>
+
 ### 53. The "spirit" of open-source?
 
-2026-10-25 · u/PureWasian · Discussion · score 178 · 106 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfcbfp/the_spirit_of_opensource/)
+2026-10-25 · u/PureWasian · Discussion · score 178 · 106 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfcbfp/the_spirit_of_opensource/) · [↑ back to the list](#last-50-posts)
 
 > This subreddit's description currently states:
 >
@@ -611,9 +717,11 @@ Link: <https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>
 >
 > *(and thanks for reading through my wall of text)*
 
+<a id="post-54"></a>
+
 ### 54. My LAN-party management Project (No AI, 10+ years old)
 
-2026-10-26 · u/allbyoneguy · Promotional · score 168 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfvgd7/my_lanparty_management_project_no_ai_10_years_old/)
+2026-10-26 · u/allbyoneguy · Promotional · score 168 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfvgd7/my_lanparty_management_project_no_ai_10_years_old/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys,
 >
@@ -632,24 +740,30 @@ Link: <https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>
 >
 > [https://github.com/sander110419/LANCMS](https://github.com/sander110419/LANCMS)
 
+<a id="post-55"></a>
+
 ### 55. The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise
 
-2026-10-26 · u/pzuraq · Discussion · score 145 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xg5b54/the_decoherence_trap_when_ai_slop_drowns_out_the/)
+2026-10-26 · u/pzuraq · Discussion · score 145 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xg5b54/the_decoherence_trap_when_ai_slop_drowns_out_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://maevyn.codes/decoherence>
 
 > So I'm very much in favor of the recent ban on AI from this sub, after having first hand seen the outcome of an all-in strategy on a codebase for nearly a year. I wrote an essay about it, and I think some folks in this sub may find it resonates.
 
+<a id="post-56"></a>
+
 ### 56. A Maintainer's Advice on Contributing to Open Source in 2026
 
-2026-11-03 · u/Martinsos · score 126 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xmvj88/a_maintainers_advice_on_contributing_to_open/)
+2026-11-03 · u/Martinsos · score 126 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xmvj88/a_maintainers_advice_on_contributing_to_open/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026>
 
 
+<a id="post-57"></a>
+
 ### 57. NotProton maintainer confronts influencer-backed fork Bridgeplay over macOS Wine sustainability; owner refuses to take down repo despite upstream's demands
 
-2026-10-23 · u/IISomeOneII · Promotional · score 106 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xdrzt2/notproton_maintainer_confronts_influencerbacked/)
+2026-10-23 · u/IISomeOneII · Promotional · score 106 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xdrzt2/notproton_maintainer_confronts_influencerbacked/) · [↑ back to the list](#last-50-posts)
 
 > ‎ 
 > On GitHub, the creator of NotProton asked the maintainer of Bridgeplay, a fork of NotProton, to stop distributing it because they believed it weakens the funding behind Wine on macOS. The owner refused to take the repository down. He kept it public, added a "Support Wine / Buy CrossOver" line to the README and website, and closed the issue as completed. The discussion is in [Bridgeplay Issue #79: "This should not exist."](https://github.com/raymondchins/Bridgeplay/issues/79)
@@ -684,9 +798,11 @@ Link: <https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026>
 >
 > Issue: https://github.com/raymondchins/Bridgeplay/issues/79
 
+<a id="post-58"></a>
+
 ### 58. Project 2027: An RFC to rebuild public tech using the economics of Open Source
 
-2026-11-06 · u/pzuraq · Discussion · score 96 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpdumu/project_2027_an_rfc_to_rebuild_public_tech_using/)
+2026-11-06 · u/pzuraq · Discussion · score 96 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpdumu/project_2027_an_rfc_to_rebuild_public_tech_using/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://joinproject2027.org/plan>
 
@@ -700,9 +816,11 @@ Link: <https://joinproject2027.org/plan>
 >
 > We do.
 
+<a id="post-59"></a>
+
 ### 59. Open Source, AI, and Trust
 
-2026-10-26 · u/mynamesleon · Discussion · score 72 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfufbc/open_source_ai_and_trust/)
+2026-10-26 · u/mynamesleon · Discussion · score 72 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfufbc/open_source_ai_and_trust/) · [↑ back to the list](#last-50-posts)
 
 > AI usage is everywhere in dev, and it's not going away. But AI makes trusting open source... complicated... (arguably in a good way though).
 >
@@ -716,9 +834,11 @@ Link: <https://joinproject2027.org/plan>
 >
 > I guess what I'm trying to say is: for all the AI slop out there, there are also a lot of devs out there who know what they're doing. Devs who still care about what they work on, and who may be (and probably are) using AI tools to help them do it, whether that's personal choice, or their company expecting/requiring them to. AI has really highlighted the importance of human critical thinking, which is a good thing. Please don't immediately disregard a project because AI was used. Instead, approach it critically, and sceptically, as you always should have been doing. Continue to call out the slop, but also praise what's been well-reviewed and made with care and attention (regardless of the tooling that was used in its creation).
 
+<a id="post-60"></a>
+
 ### 60. How much of AI is banned in a project tho?
 
-2026-10-26 · u/Own_Satisfaction_879 · score 64 · 150 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xg0in0/how_much_of_ai_is_banned_in_a_project_tho/)
+2026-10-26 · u/Own_Satisfaction_879 · score 64 · 150 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xg0in0/how_much_of_ai_is_banned_in_a_project_tho/) · [↑ back to the list](#last-50-posts)
 
 > like
 >
@@ -730,16 +850,20 @@ Link: <https://joinproject2027.org/plan>
 >
 > (not the best time of the year to suddenly appear in a sub about projects huh)
 
+<a id="post-61"></a>
+
 ### 61. EMACS turns 50
 
-2026-10-28 · u/homothebrave · Discussion · score 61 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xhxpul/emacs_turns_50/)
+2026-10-28 · u/homothebrave · Discussion · score 61 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xhxpul/emacs_turns_50/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/>
 
 
+<a id="post-62"></a>
+
 ### 62. Opensource is great when..
 
-2026-10-26 · u/rubixstudios · score 58 · 140 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfp1l0/opensource_is_great_when/)
+2026-10-26 · u/rubixstudios · score 58 · 140 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfp1l0/opensource_is_great_when/) · [↑ back to the list](#last-50-posts)
 
 > When it's built by a team or a dev who understands the technology they're working with. When they're solving a problem that exist that does not have a solution.
 >
@@ -757,9 +881,11 @@ Link: <https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/>
 >
 > Anyways keep killing the job market, less clients, less work, less jobs, less income.
 
+<a id="post-63"></a>
+
 ### 63. Smart TV OS Replacements?
 
-2026-10-26 · u/Sickologyy · score 44 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xgauog/smart_tv_os_replacements/)
+2026-10-26 · u/Sickologyy · score 44 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xgauog/smart_tv_os_replacements/) · [↑ back to the list](#last-50-posts)
 
 > I've been seeing some articles come about that people have removed and replaced many TV's Operating systems, primarily to remove ads.
 >
@@ -771,9 +897,11 @@ Link: <https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/>
 >
 > Either way, I come here as I don't trust everything I see on the internet.  I'd like to see what other input others have for replacing the software on your TV.  I have hard reset this one, and don't even agree to their terms.  The issues are completely random seeming, and have no real rhyme or reason.  It also returns to full functionality after a reset, for sometimes days, sometimes hours.
 
+<a id="post-64"></a>
+
 ### 64. If your business makes money from open source, should you give back?
 
-2026-10-23 · u/brainland · Discussion · score 43 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xd5vv3/if_your_business_makes_money_from_open_source/)
+2026-10-23 · u/brainland · Discussion · score 43 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xd5vv3/if_your_business_makes_money_from_open_source/) · [↑ back to the list](#last-50-posts)
 
 > I have always had this thought that if your software or business makes money while leveraging open source, I think it's a great culture to dedicate a portion of your earnings to supporting the maintainers behind those projects.
 >
@@ -793,39 +921,49 @@ Link: <https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/>
 >
 > So, if your business makes money using open source, don't you think giving back should be part of your responsibilities, or should it remain entirely optional?
 
+<a id="post-65"></a>
+
 ### 65. So, any progress on new adjustments?
 
-2026-11-03 · u/hugo5ama · Discussion · score 42 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xmjq50/so_any_progress_on_new_adjustments/)
+2026-11-03 · u/hugo5ama · Discussion · score 42 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xmjq50/so_any_progress_on_new_adjustments/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/opensource/comments/1xfursg/adjustments_will_be_made/>
 
 > As title
 
+<a id="post-66"></a>
+
 ### 66. Servo Browser Engine Continues Broadening Web Compatibility, New Features
 
-2026-11-06 · u/HimikoTogaFromUSSR · Promotional · score 32 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpb5j6/servo_browser_engine_continues_broadening_web/)
+2026-11-06 · u/HimikoTogaFromUSSR · Promotional · score 32 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpb5j6/servo_browser_engine_continues_broadening_web/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.phoronix.com/news/Servo-0.7-Changes>
 
 
+<a id="post-67"></a>
+
 ### 67. I still can't believe maintainers have to deal with shit like this too
 
-2026-11-01 · u/codeIMperfect · score 26 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xl0nd6/i_still_cant_believe_maintainers_have_to_deal/)
+2026-11-01 · u/codeIMperfect · score 26 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xl0nd6/i_still_cant_believe_maintainers_have_to_deal/) · [↑ back to the list](#last-50-posts)
 
 > Recently came across [this](https://gcc.gnu.org/pipermail/gcc-help/2024-July/143600.html) and can't believe GCC maintainers have to deal with this bullshit too, I mean this is Jonathan Wakely, a lead maintainer of perhaps some of the most important projects in the world like GNU and instead of being able to use his time for actual important contributions, he has to read and reply to such half assed emails intended for the Gulf Cooperation Council, like wtf.
 >
 > I mean this is one of the hilarious but real mixups, but the mailing list is full of like actual spam. I feel like this is one of the places where maybe adding AI to do some high level moderation is probably not a bad idea.
 
+<a id="post-68"></a>
+
 ### 68. MIT-licensed OpenMapView library. I develop it since 2025 as replacement for osmdroid and Google Maps SDK. It has many examples for Kotlin and Java. Thanks
 
-2026-10-26 · u/farber72 · Promotional · score 24 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfx8g0/mitlicensed_openmapview_library_i_develop_it/)
+2026-10-26 · u/farber72 · Promotional · score 24 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xfx8g0/mitlicensed_openmapview_library_i_develop_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/afarber/OpenMapView>
 
 
+<a id="post-69"></a>
+
 ### 69. Adjustment: Scheduled Post for Contributors and Projects to Find Eachother
 
-2026-11-06 · u/nicholashairs · Promotional · score 23 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpb4ny/adjustment_scheduled_post_for_contributors_and/)
+2026-11-06 · u/nicholashairs · Promotional · score 23 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xpb4ny/adjustment_scheduled_post_for_contributors_and/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/opensource 👋
 >
@@ -880,9 +1018,11 @@ Link: <https://github.com/afarber/OpenMapView>
 >
 > >Hi I’m [Fred](https://github.com), I’m looking for Python projects to contribute to. I’m mostly interested in helping build APIs so any kind of website tool would be best. It doesn’t matter if it’s business focussed like a CRM or a personal tool like Jellyfin. I'm cool with AI, just tell me where to point the slop cannon!
 
+<a id="post-70"></a>
+
 ### 70. Even after so many years, there's still SO many work to do :(
 
-2026-10-31 · u/ShelLuser42 · Discussion · score 22 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xko9y4/even_after_so_many_years_theres_still_so_many/)
+2026-10-31 · u/ShelLuser42 · Discussion · score 22 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/opensource/comments/1xko9y4/even_after_so_many_years_theres_still_so_many/) · [↑ back to the list](#last-50-posts)
 
 > Hi gang!
 >

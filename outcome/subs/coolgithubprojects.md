@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [I built AEGIS Wildlands — a free, offline-first survival app with a locally running AI model](https://www.reddit.com/r/coolgithubprojects/comments/1xpzmrf/i_built_aegis_wildlands_a_free_offlinefirst/) | u/Mammoth_Term_3872 | — | reddit.com | 0 | 3 | live | — |
-| 2 | 2026-11-07 | [Another File Manager For Linux](https://www.reddit.com/r/coolgithubprojects/comments/1xpz3ir/another_file_manager_for_linux/) | u/anzu_uu | — | reddit.com | 4 | 0 | live | — |
-| 3 | 2026-11-07 | [Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a ti…](https://www.reddit.com/r/coolgithubprojects/comments/1xpxtgq/nosy_notch_turns_your_macbook_notch_into_a_live/) | u/Nkgsporty | — | github.com | 0 | 2 | live | — |
-| 4 | 2026-11-07 | [Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a ti…](https://www.reddit.com/r/coolgithubprojects/comments/1xpxsjp/nosy_notch_turns_your_macbook_notch_into_a_live/) | u/Nkgsporty | — | github.com | 1 | 0 | live | — |
-| 5 | 2026-11-07 | [Made one place for all my Claude Code sessions, on every machine](https://www.reddit.com/r/coolgithubprojects/comments/1xpxf8k/made_one_place_for_all_my_claude_code_sessions_on/) | u/SubjectOrigin | — | reddit.com | 4 | 0 | live | — |
-| 6 | 2026-11-07 | [A dedicated IDE for Markdown documentation – VisualMark Studio (Open Source)](https://www.reddit.com/r/coolgithubprojects/comments/1xpwt0w/a_dedicated_ide_for_markdown_documentation/) | u/GhostAPR35 | — | reddit.com | 18 | 10 | live | — |
-| 7 | 2026-11-07 | [Xorvio: M3U, Xtream, Plex, Jellyfin and your own video folders in one app (free and open source) https://gith…](https://www.reddit.com/r/coolgithubprojects/comments/1xpwo37/xorvio_m3u_xtream_plex_jellyfin_and_your_own/) | u/LawrenceOfTheLabia | — | i.redd.it | 1 | 0 | live | — |
-| 8 | 2026-11-07 | [Check Laptop Battery status using Python](https://www.reddit.com/r/coolgithubprojects/comments/1xpwmth/check_laptop_battery_status_using_python/) | u/pyclcoding | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-07 | [I made Keyware, The best key and click remapper out there](https://www.reddit.com/r/coolgithubprojects/comments/1xpwe6b/i_made_keyware_the_best_key_and_click_remapper/) | u/Keyware_lover | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 10 | 2026-11-07 | [I Made Keyware, The best Powertoys alternative out there](https://www.reddit.com/r/coolgithubprojects/comments/1xpw5u5/i_made_keyware_the_best_powertoys_alternative_out/) | u/Keyware_lover | — | keyware.site | 1 | 1 | spam-filtered | — |
-| 11 | 2026-11-07 | [I built a cached torrent search tool that queries 5 sources simultaneously — RD Cached Search v2](https://www.reddit.com/r/coolgithubprojects/comments/1xpv3yr/i_built_a_cached_torrent_search_tool_that_queries/) | u/Fair_Expression_158 | — | reddit.com | 0 | 1 | live | — |
-| 12 | 2026-11-07 | [I really liked AgentsRoom, so I created a Open Source Free Project based on it](https://www.reddit.com/r/coolgithubprojects/comments/1xpunby/i_really_liked_agentsroom_so_i_created_a_open/) | u/Significant_Trash392 | — | reddit.com | 0 | 1 | live | — |
-| 13 | 2026-11-07 | [Davish – agentless desktop SSH client & server monitor with a macOS-style UI (Go + Svelte 5, Wails)](https://www.reddit.com/r/coolgithubprojects/comments/1xpudp1/davish_agentless_desktop_ssh_client_server/) | u/theanishtar | — | reddit.com | 51 | 3 | live | — |
-| 14 | 2026-11-07 | [A realtime, offline-first issue tracker that runs on one Cloudflare Worker - Gateweave Track](https://www.reddit.com/r/coolgithubprojects/comments/1xpty1v/a_realtime_offlinefirst_issue_tracker_that_runs/) | u/DazzlingRecover5037 | — | github.com | 2 | 0 | approved | — |
-| 15 | 2026-11-07 | [TokiRecur (New Ollama alternative)](https://www.reddit.com/r/coolgithubprojects/comments/1xptsp0/tokirecur_new_ollama_alternative/) | u/LHAD16 | — | reddit.com | 3 | 2 | live | — |
-| 16 | 2026-11-07 | [Are there any active mods in this sub?](https://www.reddit.com/r/coolgithubprojects/comments/1xptkda/are_there_any_active_mods_in_this_sub/) | u/power78 | — | reddit.com | 5 | 3 | live | — |
-| 17 | 2026-11-07 | [Binister – Windows tool for analyzing, patching and carving binary files (beta, open source)](https://www.reddit.com/r/coolgithubprojects/comments/1xptcgt/binister_windows_tool_for_analyzing_patching_and/) | u/basegamey | — | i.redd.it | 2 | 0 | live | — |
-| 18 | 2026-11-07 | [Best system-wide optimising tool for Nvidia graphics cards running windows. Tired of windows 11 bloat, or jus…](https://www.reddit.com/r/coolgithubprojects/comments/1xpssvb/best_systemwide_optimising_tool_for_nvidia/) | u/ChampionshipSea6665 | — | i.redd.it | 3 | 1 | live | — |
-| 19 | 2026-11-07 | [Nvidio - OptimisaGH](https://www.reddit.com/r/coolgithubprojects/comments/1xpslyg/nvidio_optimisagh/) | u/ChampionshipSea6665 | — | github.com | 1 | 0 | live | — |
-| 20 | 2026-11-06 | [I made a minimalist, ink-friendly printable A4 monthly project planner in pure HTML/CSS/JS (zero dependencies)](https://www.reddit.com/r/coolgithubprojects/comments/1xpqa9h/i_made_a_minimalist_inkfriendly_printable_a4/) | u/Vegetable_Lunch_6480 | — | github.com | 0 | 0 | approved | — |
-| 21 | 2026-11-06 | [Destaque do dia: Excaliself, Excalidraw+ auto-hospedado para sua equipe](https://www.reddit.com/r/coolgithubprojects/comments/1xppr6t/destaque_do_dia_excaliself_excalidraw/) | u/Initial_Ability4076 | — | i.redd.it | 2 | 0 | live | — |
-| 22 | 2026-11-06 | [GitHub - roshanlam/finances: Personal finance from your own bank statement PDFs, with every number proven. It…](https://www.reddit.com/r/coolgithubprojects/comments/1xppkib/github_roshanlamfinances_personal_finance_from/) | u/nepalidj | — | github.com | 1 | 0 | live | — |
-| 23 | 2026-11-06 | [3D Software Factory](https://www.reddit.com/r/coolgithubprojects/comments/1xppd6l/3d_software_factory/) | u/Startupdown | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 24 | 2026-11-06 | [This project makes previewing local video files much easier](https://www.reddit.com/r/coolgithubprojects/comments/1xpp5mc/this_project_makes_previewing_local_video_files/) | u/foreveracunt | — | github.com | 1 | 0 | live | — |
-| 25 | 2026-11-06 | [Game Dev Snippets: 40 small C++ demos of cool game mechanics that run in your browser](https://www.reddit.com/r/coolgithubprojects/comments/1xpo216/game_dev_snippets_40_small_c_demos_of_cool_game/) | u/endless90 | — | github.com | 2 | 0 | live | — |
-| 26 | 2026-11-06 | [OldPhone CCTV - Turn old phones into CCTV cameras](https://www.reddit.com/r/coolgithubprojects/comments/1xpn4k3/oldphone_cctv_turn_old_phones_into_cctv_cameras/) | u/JustA-Myth | — | reddit.com | 2 | 0 | live | — |
-| 27 | 2026-11-06 | [I made a self-hosted CCTV system that turns old Android phones into cameras: live view, 24/7 recording, motio…](https://www.reddit.com/r/coolgithubprojects/comments/1xpmlnv/i_made_a_selfhosted_cctv_system_that_turns_old/) | u/JustA-Myth | — | reddit.com | 1 | 1 | live | — |
-| 28 | 2026-11-06 | [PlayStar - A music player for Linux and Windows, built with Godot Mono (v1.6.0)](https://www.reddit.com/r/coolgithubprojects/comments/1xpm8lc/playstar_a_music_player_for_linux_and_windows/) | u/hayukimori | — | reddit.com | 3 | 0 | live | — |
-| 29 | 2026-11-06 | [Anura: uno strumento OCR + QR che privilegia la privacy per GTK4/Libadwaita. Accetto feedback.](https://www.reddit.com/r/coolgithubprojects/comments/1xplsi2/anura_uno_strumento_ocr_qr_che_privilegia_la/) | u/Relevant_Hovercraft9 | — | i.redd.it | 1 | 0 | live | — |
-| 30 | 2026-11-06 | [I got tired of Sonos not supporting native casting from Android, so I implemented it myself](https://www.reddit.com/r/coolgithubprojects/comments/1xpl82f/i_got_tired_of_sonos_not_supporting_native/) | u/CGGamer | — | reddit.com | 3 | 1 | live | — |
-| 31 | 2026-11-06 | [I Built VeilVoice: FOSS to Biometrically de-identify your voice cryptographically securely](https://www.reddit.com/r/coolgithubprojects/comments/1xpkzd7/i_built_veilvoice_foss_to_biometrically/) | u/Tilas123 | — | github.com | 6 | 0 | live | — |
-| 32 | 2026-11-06 | [Papr: A TUI to search, read, organize, and write papers without leaving your terminal](https://www.reddit.com/r/coolgithubprojects/comments/1xpkfwp/papr_a_tui_to_search_read_organize_and_write/) | u/Wonderful-Writer146 | — | i.redd.it | 2 | 1 | live | — |
-| 33 | 2026-11-06 | [open-source Google Calendar clone, looking for contributors](https://www.reddit.com/r/coolgithubprojects/comments/1xpkeg0/opensource_google_calendar_clone_looking_for/) | u/NoTutor4458 | — | i.redd.it | 98 | 13 | live | — |
-| 34 | 2026-11-06 | [I made a free Windows app that closes distracting apps and blocks sites while you study, and I think it actua…](https://www.reddit.com/r/coolgithubprojects/comments/1xpjzs2/i_made_a_free_windows_app_that_closes_distracting/) | u/Beautiful_Egg_8673 | — | reddit.com | 1 | 0 | live | — |
-| 35 | 2026-11-06 | [I made a Pc Monitoring Dashboard with a lightweight swiss army like utility](https://www.reddit.com/r/coolgithubprojects/comments/1xpjvbb/i_made_a_pc_monitoring_dashboard_with_a/) | u/DontMovePlease | — | rovarinofficial.com | 1 | 0 | live | — |
-| 36 | 2026-11-06 | [I built an app with modern widgets for windows 11 that uses only 60 MB of RAM.](https://www.reddit.com/r/coolgithubprojects/comments/1xpjr4e/i_built_an_app_with_modern_widgets_for_windows_11/) | u/qqq-bbb | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 37 | 2026-11-06 | [I built an app for windows 11 with modern widgets that uses 60 MB of RAM.](https://www.reddit.com/r/coolgithubprojects/comments/1xpjid4/i_built_an_app_for_windows_11_with_modern_widgets/) | u/qqq-bbb | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 38 | 2026-11-06 | [Hosted a Ram Altman avatar that runs locally on my RAM using openspline and you can talk to it in realtime](https://www.reddit.com/r/coolgithubprojects/comments/1xpjazb/hosted_a_ram_altman_avatar_that_runs_locally_on/) | u/Mikasa0xdev | — | i.redd.it | 3 | 1 | live | — |
-| 39 | 2026-11-06 | [Self-hosted a live Sam Altman avatar you can talk to on my RAM](https://www.reddit.com/r/coolgithubprojects/comments/1xpj8iw/selfhosted_a_live_sam_altman_avatar_you_can_talk/) | u/Mikasa0xdev | — | app.openspline.dev | 0 | 0 | live | — |
-| 40 | 2026-11-06 | [I built an open-source LLM evaluation framework to benchmark tool calling, agent reliability, and memory](https://www.reddit.com/r/coolgithubprojects/comments/1xpivqs/i_built_an_opensource_llm_evaluation_framework_to/) | u/Old_Caterpillar_9872 | — | i.redd.it | 4 | 3 | live | — |
-| 41 | 2026-11-06 | [MDRAP v5.3: open-source Python/C market data validator with a 36 ns/tick native core and a tamper-evident aud…](https://www.reddit.com/r/coolgithubprojects/comments/1xpiq0h/mdrap_v53_opensource_pythonc_market_data/) | u/DoorSubstantial7425 | — | i.redd.it | 1 | 0 | live | — |
-| 42 | 2026-11-06 | [I got tired of Android's dark mode, so I fixed it](https://www.reddit.com/r/coolgithubprojects/comments/1xpii9e/i_got_tired_of_androids_dark_mode_so_i_fixed_it/) | u/xLexip | — | i.redd.it | 6 | 2 | live | — |
-| 43 | 2026-11-06 | [I came across an open-source project that lets you run VS Code in a browser](https://www.reddit.com/r/coolgithubprojects/comments/1xpic53/i_came_across_an_opensource_project_that_lets_you/) | u/CupCool1802 | — | i.redd.it | 0 | 8 | live | — |
-| 44 | 2026-11-06 | [I built Lumio, a lightweight open-source launcher for macOS](https://www.reddit.com/r/coolgithubprojects/comments/1xphf5g/i_built_lumio_a_lightweight_opensource_launcher/) | u/Cool-Post-5098 | — | reddit.com | 4 | 5 | live | — |
-| 45 | 2026-11-06 | [fynepdf-pdfa: PDF/A conversion without Ghostscript (C++ on qpdf, MIT). 0 false PDF/A labels on 2,053 files ch…](https://www.reddit.com/r/coolgithubprojects/comments/1xphf08/fynepdfpdfa_pdfa_conversion_without_ghostscript_c/) | u/birazzzzz | — | github.com | 1 | 1 | live | — |
-| 46 | 2026-11-06 | [I've released the first Beta of Montazhnaya — an open-source video editor for Windows. I'd love to hear your…](https://www.reddit.com/r/coolgithubprojects/comments/1xphb34/ive_released_the_first_beta_of_montazhnaya_an/) | u/Ok-Spite3601 | — | reddit.com | 1 | 1 | live | — |
-| 47 | 2026-11-06 | [Looking for Volunteers to Test My LLM Tool-Calling Evaluation Project!](https://www.reddit.com/r/coolgithubprojects/comments/1xph1ya/looking_for_volunteers_to_test_my_llm_toolcalling/) | u/Old_Caterpillar_9872 | — | github.com | 1 | 0 | live | — |
-| 48 | 2026-11-06 | [Conxol, an open-source terminal workspace for network administration](https://www.reddit.com/r/coolgithubprojects/comments/1xpgsy5/conxol_an_opensource_terminal_workspace_for/) | u/Next_Detective_1225 | — | i.redd.it | 1 | 0 | live | — |
-| 49 | 2026-11-06 | [Elegant solution to keep personal per-project agent skills and instruction files versioned without committing…](https://www.reddit.com/r/coolgithubprojects/comments/1xpgs9y/elegant_solution_to_keep_personal_perproject/) | u/BrianW_undercover | — | i.redd.it | 1 | 0 | live | — |
-| 50 | 2026-11-06 | [QuickPdfOcr: free offline OCR for scanned PDFs on Mac, Windows and Linux](https://www.reddit.com/r/coolgithubprojects/comments/1xpgozi/quickpdfocr_free_offline_ocr_for_scanned_pdfs_on/) | u/danielwomanlover | — | github.com | 1 | 1 | live | — |
+| 1 | 2026-11-07 | [I built AEGIS Wildlands — a free, offline-first survival app with a locally running AI model](#post-1) | u/Mammoth_Term_3872 | — | reddit.com | 0 | 3 | live | — |
+| 2 | 2026-11-07 | [Another File Manager For Linux](#post-2) | u/anzu_uu | — | reddit.com | 4 | 0 | live | — |
+| 3 | 2026-11-07 | [Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a ti…](#post-3) | u/Nkgsporty | — | github.com | 0 | 2 | live | — |
+| 4 | 2026-11-07 | [Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a ti…](#post-4) | u/Nkgsporty | — | github.com | 1 | 0 | live | — |
+| 5 | 2026-11-07 | [Made one place for all my Claude Code sessions, on every machine](#post-5) | u/SubjectOrigin | — | reddit.com | 4 | 0 | live | — |
+| 6 | 2026-11-07 | [A dedicated IDE for Markdown documentation – VisualMark Studio (Open Source)](#post-6) | u/GhostAPR35 | — | reddit.com | 18 | 10 | live | — |
+| 7 | 2026-11-07 | [Xorvio: M3U, Xtream, Plex, Jellyfin and your own video folders in one app (free and open source) https://gith…](#post-7) | u/LawrenceOfTheLabia | — | i.redd.it | 1 | 0 | live | — |
+| 8 | 2026-11-07 | [Check Laptop Battery status using Python](#post-8) | u/pyclcoding | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-07 | [I made Keyware, The best key and click remapper out there](#post-9) | u/Keyware_lover | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 10 | 2026-11-07 | [I Made Keyware, The best Powertoys alternative out there](#post-10) | u/Keyware_lover | — | keyware.site | 1 | 1 | spam-filtered | — |
+| 11 | 2026-11-07 | [I built a cached torrent search tool that queries 5 sources simultaneously — RD Cached Search v2](#post-11) | u/Fair_Expression_158 | — | reddit.com | 0 | 1 | live | — |
+| 12 | 2026-11-07 | [I really liked AgentsRoom, so I created a Open Source Free Project based on it](#post-12) | u/Significant_Trash392 | — | reddit.com | 0 | 1 | live | — |
+| 13 | 2026-11-07 | [Davish – agentless desktop SSH client & server monitor with a macOS-style UI (Go + Svelte 5, Wails)](#post-13) | u/theanishtar | — | reddit.com | 51 | 3 | live | — |
+| 14 | 2026-11-07 | [A realtime, offline-first issue tracker that runs on one Cloudflare Worker - Gateweave Track](#post-14) | u/DazzlingRecover5037 | — | github.com | 2 | 0 | approved | — |
+| 15 | 2026-11-07 | [TokiRecur (New Ollama alternative)](#post-15) | u/LHAD16 | — | reddit.com | 3 | 2 | live | — |
+| 16 | 2026-11-07 | [Are there any active mods in this sub?](#post-16) | u/power78 | — | reddit.com | 5 | 3 | live | — |
+| 17 | 2026-11-07 | [Binister – Windows tool for analyzing, patching and carving binary files (beta, open source)](#post-17) | u/basegamey | — | i.redd.it | 2 | 0 | live | — |
+| 18 | 2026-11-07 | [Best system-wide optimising tool for Nvidia graphics cards running windows. Tired of windows 11 bloat, or jus…](#post-18) | u/ChampionshipSea6665 | — | i.redd.it | 3 | 1 | live | — |
+| 19 | 2026-11-07 | [Nvidio - OptimisaGH](#post-19) | u/ChampionshipSea6665 | — | github.com | 1 | 0 | live | — |
+| 20 | 2026-11-06 | [I made a minimalist, ink-friendly printable A4 monthly project planner in pure HTML/CSS/JS (zero dependencies)](#post-20) | u/Vegetable_Lunch_6480 | — | github.com | 0 | 0 | approved | — |
+| 21 | 2026-11-06 | [Destaque do dia: Excaliself, Excalidraw+ auto-hospedado para sua equipe](#post-21) | u/Initial_Ability4076 | — | i.redd.it | 2 | 0 | live | — |
+| 22 | 2026-11-06 | [GitHub - roshanlam/finances: Personal finance from your own bank statement PDFs, with every number proven. It…](#post-22) | u/nepalidj | — | github.com | 1 | 0 | live | — |
+| 23 | 2026-11-06 | [3D Software Factory](#post-23) | u/Startupdown | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 24 | 2026-11-06 | [This project makes previewing local video files much easier](#post-24) | u/foreveracunt | — | github.com | 1 | 0 | live | — |
+| 25 | 2026-11-06 | [Game Dev Snippets: 40 small C++ demos of cool game mechanics that run in your browser](#post-25) | u/endless90 | — | github.com | 2 | 0 | live | — |
+| 26 | 2026-11-06 | [OldPhone CCTV - Turn old phones into CCTV cameras](#post-26) | u/JustA-Myth | — | reddit.com | 2 | 0 | live | — |
+| 27 | 2026-11-06 | [I made a self-hosted CCTV system that turns old Android phones into cameras: live view, 24/7 recording, motio…](#post-27) | u/JustA-Myth | — | reddit.com | 1 | 1 | live | — |
+| 28 | 2026-11-06 | [PlayStar - A music player for Linux and Windows, built with Godot Mono (v1.6.0)](#post-28) | u/hayukimori | — | reddit.com | 3 | 0 | live | — |
+| 29 | 2026-11-06 | [Anura: uno strumento OCR + QR che privilegia la privacy per GTK4/Libadwaita. Accetto feedback.](#post-29) | u/Relevant_Hovercraft9 | — | i.redd.it | 1 | 0 | live | — |
+| 30 | 2026-11-06 | [I got tired of Sonos not supporting native casting from Android, so I implemented it myself](#post-30) | u/CGGamer | — | reddit.com | 3 | 1 | live | — |
+| 31 | 2026-11-06 | [I Built VeilVoice: FOSS to Biometrically de-identify your voice cryptographically securely](#post-31) | u/Tilas123 | — | github.com | 6 | 0 | live | — |
+| 32 | 2026-11-06 | [Papr: A TUI to search, read, organize, and write papers without leaving your terminal](#post-32) | u/Wonderful-Writer146 | — | i.redd.it | 2 | 1 | live | — |
+| 33 | 2026-11-06 | [open-source Google Calendar clone, looking for contributors](#post-33) | u/NoTutor4458 | — | i.redd.it | 98 | 13 | live | — |
+| 34 | 2026-11-06 | [I made a free Windows app that closes distracting apps and blocks sites while you study, and I think it actua…](#post-34) | u/Beautiful_Egg_8673 | — | reddit.com | 1 | 0 | live | — |
+| 35 | 2026-11-06 | [I made a Pc Monitoring Dashboard with a lightweight swiss army like utility](#post-35) | u/DontMovePlease | — | rovarinofficial.com | 1 | 0 | live | — |
+| 36 | 2026-11-06 | [I built an app with modern widgets for windows 11 that uses only 60 MB of RAM.](#post-36) | u/qqq-bbb | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 37 | 2026-11-06 | [I built an app for windows 11 with modern widgets that uses 60 MB of RAM.](#post-37) | u/qqq-bbb | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 38 | 2026-11-06 | [Hosted a Ram Altman avatar that runs locally on my RAM using openspline and you can talk to it in realtime](#post-38) | u/Mikasa0xdev | — | i.redd.it | 3 | 1 | live | — |
+| 39 | 2026-11-06 | [Self-hosted a live Sam Altman avatar you can talk to on my RAM](#post-39) | u/Mikasa0xdev | — | app.openspline.dev | 0 | 0 | live | — |
+| 40 | 2026-11-06 | [I built an open-source LLM evaluation framework to benchmark tool calling, agent reliability, and memory](#post-40) | u/Old_Caterpillar_9872 | — | i.redd.it | 4 | 3 | live | — |
+| 41 | 2026-11-06 | [MDRAP v5.3: open-source Python/C market data validator with a 36 ns/tick native core and a tamper-evident aud…](#post-41) | u/DoorSubstantial7425 | — | i.redd.it | 1 | 0 | live | — |
+| 42 | 2026-11-06 | [I got tired of Android's dark mode, so I fixed it](#post-42) | u/xLexip | — | i.redd.it | 6 | 2 | live | — |
+| 43 | 2026-11-06 | [I came across an open-source project that lets you run VS Code in a browser](#post-43) | u/CupCool1802 | — | i.redd.it | 0 | 8 | live | — |
+| 44 | 2026-11-06 | [I built Lumio, a lightweight open-source launcher for macOS](#post-44) | u/Cool-Post-5098 | — | reddit.com | 4 | 5 | live | — |
+| 45 | 2026-11-06 | [fynepdf-pdfa: PDF/A conversion without Ghostscript (C++ on qpdf, MIT). 0 false PDF/A labels on 2,053 files ch…](#post-45) | u/birazzzzz | — | github.com | 1 | 1 | live | — |
+| 46 | 2026-11-06 | [I've released the first Beta of Montazhnaya — an open-source video editor for Windows. I'd love to hear your…](#post-46) | u/Ok-Spite3601 | — | reddit.com | 1 | 1 | live | — |
+| 47 | 2026-11-06 | [Looking for Volunteers to Test My LLM Tool-Calling Evaluation Project!](#post-47) | u/Old_Caterpillar_9872 | — | github.com | 1 | 0 | live | — |
+| 48 | 2026-11-06 | [Conxol, an open-source terminal workspace for network administration](#post-48) | u/Next_Detective_1225 | — | i.redd.it | 1 | 0 | live | — |
+| 49 | 2026-11-06 | [Elegant solution to keep personal per-project agent skills and instruction files versioned without committing…](#post-49) | u/BrianW_undercover | — | i.redd.it | 1 | 0 | live | — |
+| 50 | 2026-11-06 | [QuickPdfOcr: free offline OCR for scanned PDFs on Mac, Windows and Linux](#post-50) | u/danielwomanlover | — | github.com | 1 | 1 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,34 +86,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-31 | [I built a free and open-source alternative to proprietary piano-learning software](https://www.reddit.com/r/coolgithubprojects/comments/1xklaxs/i_built_a_free_and_opensource_alternative_to/) | u/Orfeo-Piano | — | i.redd.it | 1222 | 76 | live |
-| 52 | 2026-10-25 | [openGym hit 15,000 stars, your donations paid for every licence, and it's now in the App Store. Thank you! 💚](https://www.reddit.com/r/coolgithubprojects/comments/1xf9g8k/opengym_hit_15000_stars_your_donations_paid_for/) | u/0_KermitTheFrog_0 | — | i.redd.it | 770 | 109 | live |
-| 53 | 2026-10-22 | [CleanYourTV: one prompt for your AI coding agent removes the ads from any Android TV / Google TV over Wi-Fi.…](https://www.reddit.com/r/coolgithubprojects/comments/1xcjedm/cleanyourtv_one_prompt_for_your_ai_coding_agent/) | u/Gathin23 | — | github.com | 596 | 157 | live |
-| 54 | 2026-10-20 | [I built Kept, a self-hosted home inventory. Keep track of what you own, where it is, and what's due: warranti…](https://www.reddit.com/r/coolgithubprojects/comments/1xaqwkj/i_built_kept_a_selfhosted_home_inventory_keep/) | u/SegFault0x00000 | — | reddit.com | 556 | 45 | live |
-| 55 | 2026-10-16 | [I built Musike: a free, open-source music player on YouTube's catalog with no ads, no account and no subscrip…](https://www.reddit.com/r/coolgithubprojects/comments/1x74ygg/i_built_musike_a_free_opensource_music_player_on/) | u/Alarming_Shape_7144 | — | reddit.com | 452 | 118 | live |
-| 56 | 2026-11-06 | [I got tired of missing and forgetting good repos so I built a list that updates itself every 2 days (3k+ repo…](https://www.reddit.com/r/coolgithubprojects/comments/1xp4eoj/i_got_tired_of_missing_and_forgetting_good_repos/) | u/boffti_ | — | reddit.com | 398 | 45 | live |
-| 57 | 2026-10-28 | [I built a file search that reads text inside screenshots. Under 9 MB. Fast and lightweight.](https://www.reddit.com/r/coolgithubprojects/comments/1xi1kom/i_built_a_file_search_that_reads_text_inside/) | u/nothing-counts | — | i.redd.it | 333 | 41 | live |
-| 58 | 2026-10-24 | [I made a free, open-source phone app that debloats your Google TV over Wi-Fi: no PC, no root](https://www.reddit.com/r/coolgithubprojects/comments/1xek32w/i_made_a_free_opensource_phone_app_that_debloats/) | u/manish9461 | — | reddit.com | 309 | 84 | live |
-| 59 | 2026-10-28 | [OpenTV-Remote - Free, open-source TV remote](https://www.reddit.com/r/coolgithubprojects/comments/1xh9jo6/opentvremote_free_opensource_tv_remote/) | u/Ok_Promise_2137 | — | reddit.com | 253 | 33 | live |
-| 60 | 2026-10-14 | [Arrmada](https://www.reddit.com/r/coolgithubprojects/comments/1x5jwkl/arrmada/) | u/No-Turnover3316 | — | i.redd.it | 210 | 48 | live |
-| 61 | 2026-11-03 | [openDJ is a fast and modern open-source DJing and mixing software](https://www.reddit.com/r/coolgithubprojects/comments/1xmn75f/opendj_is_a_fast_and_modern_opensource_djing_and/) | u/seba_cruz | — | i.redd.it | 191 | 30 | live |
-| 62 | 2026-10-16 | [Yapfast: a native Discord client in Rust that idles at about 40 MB instead of Electron's 800 MB](https://www.reddit.com/r/coolgithubprojects/comments/1x7qle4/yapfast_a_native_discord_client_in_rust_that/) | u/JameEnder | — | yapfast.com | 185 | 63 | live |
-| 63 | 2026-11-02 | [Awesome Reverse Engineer Anything:](https://www.reddit.com/r/coolgithubprojects/comments/1xm14a2/awesome_reverse_engineer_anything/) | u/endless90 | — | github.com | 182 | 13 | live |
-| 64 | 2026-10-15 | [I built a 1.22 MB disassembler that runs entirely offline in a single HTML file](https://www.reddit.com/r/coolgithubprojects/comments/1x6azzo/i_built_a_122_mb_disassembler_that_runs_entirely/) | u/marketkernel | — | reddit.com | 143 | 23 | live |
-| 65 | 2026-10-28 | [After half a year of non-stop building, I just shipped v1.0 stable of my open-source local AI engine!](https://www.reddit.com/r/coolgithubprojects/comments/1xhjupz/after_half_a_year_of_nonstop_building_i_just/) | u/Equivalent-Flan-1590 | — | github.com | 141 | 35 | live |
-| 66 | 2026-10-31 | [Syntaxia - A quick cheatsheet for the things you always look up.](https://www.reddit.com/r/coolgithubprojects/comments/1xk84nm/syntaxia_a_quick_cheatsheet_for_the_things_you/) | u/Nearby-Percentage-33 | — | reddit.com | 131 | 17 | live |
-| 67 | 2026-10-21 | [I got tired of re-entering my resume, so I built an open-source job search agent](https://www.reddit.com/r/coolgithubprojects/comments/1xc06h8/i_got_tired_of_reentering_my_resume_so_i_built_an/) | u/rtk1114 | — | i.redd.it | 124 | 13 | live |
-| 68 | 2026-11-01 | [Aleph: give your LLM satellite imagery, 3D buildings, terrain, and Street View (no API keys!)](https://www.reddit.com/r/coolgithubprojects/comments/1xl6ocw/aleph_give_your_llm_satellite_imagery_3d/) | u/EntropyMagnets | — | i.redd.it | 119 | 7 | live |
-| 69 | 2026-11-03 | [Someone is rebuilding Diablo II to run in a browser using C++ and WebAssembly](https://www.reddit.com/r/coolgithubprojects/comments/1xmx3qt/someone_is_rebuilding_diablo_ii_to_run_in_a/) | u/CupCool1802 | — | i.redd.it | 116 | 1 | live |
-| 70 | 2026-10-12 | [Tabchat – WhatsApp, Discord, Teams, Outlook, Brightspace and any website in one lightweight Linux window](https://www.reddit.com/r/coolgithubprojects/comments/1x40v87/tabchat_whatsapp_discord_teams_outlook/) | u/randomquestions113 | — | i.redd.it | 101 | 46 | live |
+| 51 | 2026-10-31 | [I built a free and open-source alternative to proprietary piano-learning software](#post-51) | u/Orfeo-Piano | — | i.redd.it | 1222 | 76 | live |
+| 52 | 2026-10-25 | [openGym hit 15,000 stars, your donations paid for every licence, and it's now in the App Store. Thank you! 💚](#post-52) | u/0_KermitTheFrog_0 | — | i.redd.it | 770 | 109 | live |
+| 53 | 2026-10-22 | [CleanYourTV: one prompt for your AI coding agent removes the ads from any Android TV / Google TV over Wi-Fi.…](#post-53) | u/Gathin23 | — | github.com | 596 | 157 | live |
+| 54 | 2026-10-20 | [I built Kept, a self-hosted home inventory. Keep track of what you own, where it is, and what's due: warranti…](#post-54) | u/SegFault0x00000 | — | reddit.com | 556 | 45 | live |
+| 55 | 2026-10-16 | [I built Musike: a free, open-source music player on YouTube's catalog with no ads, no account and no subscrip…](#post-55) | u/Alarming_Shape_7144 | — | reddit.com | 452 | 118 | live |
+| 56 | 2026-11-06 | [I got tired of missing and forgetting good repos so I built a list that updates itself every 2 days (3k+ repo…](#post-56) | u/boffti_ | — | reddit.com | 398 | 45 | live |
+| 57 | 2026-10-28 | [I built a file search that reads text inside screenshots. Under 9 MB. Fast and lightweight.](#post-57) | u/nothing-counts | — | i.redd.it | 333 | 41 | live |
+| 58 | 2026-10-24 | [I made a free, open-source phone app that debloats your Google TV over Wi-Fi: no PC, no root](#post-58) | u/manish9461 | — | reddit.com | 309 | 84 | live |
+| 59 | 2026-10-28 | [OpenTV-Remote - Free, open-source TV remote](#post-59) | u/Ok_Promise_2137 | — | reddit.com | 253 | 33 | live |
+| 60 | 2026-10-14 | [Arrmada](#post-60) | u/No-Turnover3316 | — | i.redd.it | 210 | 48 | live |
+| 61 | 2026-11-03 | [openDJ is a fast and modern open-source DJing and mixing software](#post-61) | u/seba_cruz | — | i.redd.it | 191 | 30 | live |
+| 62 | 2026-10-16 | [Yapfast: a native Discord client in Rust that idles at about 40 MB instead of Electron's 800 MB](#post-62) | u/JameEnder | — | yapfast.com | 185 | 63 | live |
+| 63 | 2026-11-02 | [Awesome Reverse Engineer Anything:](#post-63) | u/endless90 | — | github.com | 182 | 13 | live |
+| 64 | 2026-10-15 | [I built a 1.22 MB disassembler that runs entirely offline in a single HTML file](#post-64) | u/marketkernel | — | reddit.com | 143 | 23 | live |
+| 65 | 2026-10-28 | [After half a year of non-stop building, I just shipped v1.0 stable of my open-source local AI engine!](#post-65) | u/Equivalent-Flan-1590 | — | github.com | 141 | 35 | live |
+| 66 | 2026-10-31 | [Syntaxia - A quick cheatsheet for the things you always look up.](#post-66) | u/Nearby-Percentage-33 | — | reddit.com | 131 | 17 | live |
+| 67 | 2026-10-21 | [I got tired of re-entering my resume, so I built an open-source job search agent](#post-67) | u/rtk1114 | — | i.redd.it | 124 | 13 | live |
+| 68 | 2026-11-01 | [Aleph: give your LLM satellite imagery, 3D buildings, terrain, and Street View (no API keys!)](#post-68) | u/EntropyMagnets | — | i.redd.it | 119 | 7 | live |
+| 69 | 2026-11-03 | [Someone is rebuilding Diablo II to run in a browser using C++ and WebAssembly](#post-69) | u/CupCool1802 | — | i.redd.it | 116 | 1 | live |
+| 70 | 2026-10-12 | [Tabchat – WhatsApp, Discord, Teams, Outlook, Brightspace and any website in one lightweight Linux window](#post-70) | u/randomquestions113 | — | i.redd.it | 101 | 46 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. I built AEGIS Wildlands — a free, offline-first survival app with a locally running AI model
 
-2026-11-07 · u/Mammoth_Term_3872 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpzmrf/i_built_aegis_wildlands_a_free_offlinefirst/)
+2026-11-07 · u/Mammoth_Term_3872 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpzmrf/i_built_aegis_wildlands_a_free_offlinefirst/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpzmrf>
 
@@ -144,16 +146,20 @@ Link: <https://www.reddit.com/gallery/1xpzmrf>
 >
 > I'd genuinely love feedback. What features would make something like this useful to you? And if you try it, let me know how it performs on your device!
 
+<a id="post-2"></a>
+
 ### 2. Another File Manager For Linux
 
-2026-11-07 · u/anzu_uu · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpz3ir/another_file_manager_for_linux/)
+2026-11-07 · u/anzu_uu · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpz3ir/another_file_manager_for_linux/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp8hh3>
 
 
+<a id="post-3"></a>
+
 ### 3. Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a tiny pet that lives in it)
 
-2026-11-07 · u/Nkgsporty · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxtgq/nosy_notch_turns_your_macbook_notch_into_a_live/)
+2026-11-07 · u/Nkgsporty · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxtgq/nosy_notch_turns_your_macbook_notch_into_a_live/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/ddkbs/nosynotch>
 
@@ -169,10 +175,12 @@ Link: <https://github.com/ddkbs/nosynotch>
 > Native SwiftUI, everything stays on your Mac (hooks talk to [127.0.0.1](http://127.0.0.1) only). Free, MIT, macOS 14+.
 >
 > `npx nosynotch`
+
+<a id="post-4"></a>
 
 ### 4. Nosy Notch – turns your MacBook notch into a live status display for Claude Code, Codex and Cursor (with a tiny pet that lives in it)
 
-2026-11-07 · u/Nkgsporty · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxsjp/nosy_notch_turns_your_macbook_notch_into_a_live/)
+2026-11-07 · u/Nkgsporty · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxsjp/nosy_notch_turns_your_macbook_notch_into_a_live/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/ddkbs/nosynotch>
 
@@ -189,9 +197,11 @@ Link: <https://github.com/ddkbs/nosynotch>
 >
 > `npx nosynotch`
 
+<a id="post-5"></a>
+
 ### 5. Made one place for all my Claude Code sessions, on every machine
 
-2026-11-07 · u/SubjectOrigin · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxf8k/made_one_place_for_all_my_claude_code_sessions_on/)
+2026-11-07 · u/SubjectOrigin · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpxf8k/made_one_place_for_all_my_claude_code_sessions_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpm7cy>
 
@@ -204,9 +214,11 @@ Link: <https://www.reddit.com/gallery/1xpm7cy>
 >
 > GitHub: https://github.com/appnice/smif
 
+<a id="post-6"></a>
+
 ### 6. A dedicated IDE for Markdown documentation – VisualMark Studio (Open Source)
 
-2026-11-07 · u/GhostAPR35 · score 18 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwt0w/a_dedicated_ide_for_markdown_documentation/)
+2026-11-07 · u/GhostAPR35 · score 18 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwt0w/a_dedicated_ide_for_markdown_documentation/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpwt0w>
 
@@ -240,9 +252,11 @@ Link: <https://www.reddit.com/gallery/1xpwt0w>
 >
 > You can also share feedback and discuss ideas in the project's [GitHub Discussion](https://github.com/JagaTheGhost/visualmark-studio/discussions/16)
 
+<a id="post-7"></a>
+
 ### 7. Xorvio: M3U, Xtream, Plex, Jellyfin and your own video folders in one app (free and open source) https://github.com/atomtanstudio/xorvio
 
-2026-11-07 · u/LawrenceOfTheLabia · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwo37/xorvio_m3u_xtream_plex_jellyfin_and_your_own/)
+2026-11-07 · u/LawrenceOfTheLabia · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwo37/xorvio_m3u_xtream_plex_jellyfin_and_your_own/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/mtar3bv1440i1.png>
 
@@ -286,33 +300,41 @@ Link: <https://i.redd.it/mtar3bv1440i1.png>
 >
 > Xorvio comes with no channels or content; you connect your own sources. It's still young (version 0.2.4), so bug reports and feature ideas are very welcome, here or on GitHub.
 
+<a id="post-8"></a>
+
 ### 8. Check Laptop Battery status using Python
 
-2026-11-07 · u/pyclcoding · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwmth/check_laptop_battery_status_using_python/)
+2026-11-07 · u/pyclcoding · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwmth/check_laptop_battery_status_using_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9w3278qurwzh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. I made Keyware, The best key and click remapper out there
 
-2026-11-07 · u/Keyware_lover · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwe6b/i_made_keyware_the_best_key_and_click_remapper/)
+2026-11-07 · u/Keyware_lover · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpwe6b/i_made_keyware_the_best_key_and_click_remapper/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wxh1uppd140i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. I Made Keyware, The best Powertoys alternative out there
 
-2026-11-07 · u/Keyware_lover · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpw5u5/i_made_keyware_the_best_powertoys_alternative_out/)
+2026-11-07 · u/Keyware_lover · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpw5u5/i_made_keyware_the_best_powertoys_alternative_out/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://keyware.site>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. I built a cached torrent search tool that queries 5 sources simultaneously — RD Cached Search v2
 
-2026-11-07 · u/Fair_Expression_158 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpv3yr/i_built_a_cached_torrent_search_tool_that_queries/)
+2026-11-07 · u/Fair_Expression_158 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpv3yr/i_built_a_cached_torrent_search_tool_that_queries/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpv3yr>
 
@@ -342,17 +364,21 @@ Link: <https://www.reddit.com/gallery/1xpv3yr>
 >
 > I will be uploading it to github soon.
 
+<a id="post-12"></a>
+
 ### 12. I really liked AgentsRoom, so I created a Open Source Free Project based on it
 
-2026-11-07 · u/Significant_Trash392 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpunby/i_really_liked_agentsroom_so_i_created_a_open/)
+2026-11-07 · u/Significant_Trash392 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpunby/i_really_liked_agentsroom_so_i_created_a_open/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpunby>
 
 > I was surprised there were no Open Source version of Agents Room out there that allow different Agent Avatars and such. So I built one.
 
+<a id="post-13"></a>
+
 ### 13. Davish – agentless desktop SSH client & server monitor with a macOS-style UI (Go + Svelte 5, Wails)
 
-2026-11-07 · u/theanishtar · score 51 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpudp1/davish_agentless_desktop_ssh_client_server/)
+2026-11-07 · u/theanishtar · score 51 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpudp1/davish_agentless_desktop_ssh_client_server/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpudp1>
 
@@ -373,9 +399,11 @@ Link: <https://www.reddit.com/gallery/1xpudp1>
 >
 > Feedback and feature requests are very welcome!
 
+<a id="post-14"></a>
+
 ### 14. A realtime, offline-first issue tracker that runs on one Cloudflare Worker - Gateweave Track
 
-2026-11-07 · u/DazzlingRecover5037 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpty1v/a_realtime_offlinefirst_issue_tracker_that_runs/)
+2026-11-07 · u/DazzlingRecover5037 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpty1v/a_realtime_offlinefirst_issue_tracker_that_runs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/gateweavehq/track>
 
@@ -387,25 +415,31 @@ Link: <https://github.com/gateweavehq/track>
 >
 > What it measures, what it costs and what the agents got wrong: [https://gateweave.com/blog/one-cloudflare-worker](https://gateweave.com/blog/one-cloudflare-worker)
 
+<a id="post-15"></a>
+
 ### 15. TokiRecur (New Ollama alternative)
 
-2026-11-07 · u/LHAD16 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptsp0/tokirecur_new_ollama_alternative/)
+2026-11-07 · u/LHAD16 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptsp0/tokirecur_new_ollama_alternative/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xptsp0>
 
 > [tokirecur.com](http://tokirecur.com) [https://github.com/lhadzic377-netizen/TokiRecur](https://github.com/lhadzic377-netizen/TokiRecur) I wanted to build something that felt like a true open source ollama so I built TokiRecur. Pull any model from HF that supports llama.ccp and support for image, TTS, SST, and decision API works for some models like Drama 3, Breeze TTS, and more. Supported harness's include Opencode, Claude code, DSH, Openclaw, etc. It's main difference maker when compared to ollama is the kv-cache recycling system that makes sure the same tokens are never recomputed twice.
 
+<a id="post-16"></a>
+
 ### 16. Are there any active mods in this sub?
 
-2026-11-07 · u/power78 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptkda/are_there_any_active_mods_in_this_sub/)
+2026-11-07 · u/power78 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptkda/are_there_any_active_mods_in_this_sub/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://reddit.com>
 
 > Hello?
 
+<a id="post-17"></a>
+
 ### 17. Binister – Windows tool for analyzing, patching and carving binary files (beta, open source)
 
-2026-11-07 · u/basegamey · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptcgt/binister_windows_tool_for_analyzing_patching_and/)
+2026-11-07 · u/basegamey · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xptcgt/binister_windows_tool_for_analyzing_patching_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0b6cv5xs730i1.png>
 
@@ -431,9 +465,11 @@ Link: <https://i.redd.it/0b6cv5xs730i1.png>
 >
 > Happy to hear what breaks first.
 
+<a id="post-18"></a>
+
 ### 18. Best system-wide optimising tool for Nvidia graphics cards running windows. Tired of windows 11 bloat, or just have a slow graphics card? This is for you.
 
-2026-11-07 · u/ChampionshipSea6665 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpssvb/best_systemwide_optimising_tool_for_nvidia/)
+2026-11-07 · u/ChampionshipSea6665 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpssvb/best_systemwide_optimising_tool_for_nvidia/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ecsrpv65430i1.png>
 
@@ -442,9 +478,11 @@ Link: <https://i.redd.it/ecsrpv65430i1.png>
 > Nvidio is a powerful, very lightweight tool in a .exe file and takes less then 10% of resources; RAM, Graphics, Space (It's only a couple MB). If you play games like Java with heavy shaders like IterationT, Kappa, or 512x resources, or play games like Forza Horizon, RDR II, this is for you. I hope to help you! Link below.  
 > [GitHub.com/OptimisaGH/Nvidio](http://GitHub.com/OptimisaGH/Nvidio)
 
+<a id="post-19"></a>
+
 ### 19. Nvidio - OptimisaGH
 
-2026-11-07 · u/ChampionshipSea6665 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpslyg/nvidio_optimisagh/)
+2026-11-07 · u/ChampionshipSea6665 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpslyg/nvidio_optimisagh/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/OptimisaGH/Nvidio>
 
@@ -452,9 +490,11 @@ Link: <https://github.com/OptimisaGH/Nvidio>
 >
 > Seriously try it out tho.
 
+<a id="post-20"></a>
+
 ### 20. I made a minimalist, ink-friendly printable A4 monthly project planner in pure HTML/CSS/JS (zero dependencies)
 
-2026-11-06 · u/Vegetable_Lunch_6480 · score 0 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpqa9h/i_made_a_minimalist_inkfriendly_printable_a4/)
+2026-11-06 · u/Vegetable_Lunch_6480 · score 0 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpqa9h/i_made_a_minimalist_inkfriendly_printable_a4/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/isihussain/monthly-project-planner-a4>
 
@@ -471,23 +511,29 @@ Link: <https://github.com/isihussain/monthly-project-planner-a4>
 > Live demo: https://isihussain.github.io/monthly-project-planner-a4/
 > GitHub repo: https://github.com/isihussain/monthly-project-planner-a4
 
+<a id="post-21"></a>
+
 ### 21. Destaque do dia: Excaliself, Excalidraw+ auto-hospedado para sua equipe
 
-2026-11-06 · u/Initial_Ability4076 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppr6t/destaque_do_dia_excaliself_excalidraw/)
+2026-11-06 · u/Initial_Ability4076 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppr6t/destaque_do_dia_excaliself_excalidraw/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/l2cna4inhszh1.png>
 
 
+<a id="post-22"></a>
+
 ### 22. GitHub - roshanlam/finances: Personal finance from your own bank statement PDFs, with every number proven. It checks each statement against the totals it prints, then shows spending, subscriptions and cash flow. No bank login, no Plaid, runs entirely on your machine.
 
-2026-11-06 · u/nepalidj · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppkib/github_roshanlamfinances_personal_finance_from/)
+2026-11-06 · u/nepalidj · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppkib/github_roshanlamfinances_personal_finance_from/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/roshanlam/finances>
 
 
+<a id="post-23"></a>
+
 ### 23. 3D Software Factory
 
-2026-11-06 · u/Startupdown · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppd6l/3d_software_factory/)
+2026-11-06 · u/Startupdown · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xppd6l/3d_software_factory/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/g1cwcszgd20i1.png>
 
@@ -495,17 +541,21 @@ Link: <https://i.redd.it/g1cwcszgd20i1.png>
 >
 > I created a 3D software factory. Please support: [https://github.com/sis-factory/sis-factory](https://github.com/sis-factory/sis-factory)
 
+<a id="post-24"></a>
+
 ### 24. This project makes previewing local video files much easier
 
-2026-11-06 · u/foreveracunt · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpp5mc/this_project_makes_previewing_local_video_files/)
+2026-11-06 · u/foreveracunt · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpp5mc/this_project_makes_previewing_local_video_files/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/AleksaB98/ExplorerVideoPreview>
 
 > Not affiliated, I just looked around for something like this and found the perfect solution to my problem : not being able to preview video files without having to actually open them in a media player. Big thanks to the creator!
 
+<a id="post-25"></a>
+
 ### 25. Game Dev Snippets: 40 small C++ demos of cool game mechanics that run in your browser
 
-2026-11-06 · u/endless90 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpo216/game_dev_snippets_40_small_c_demos_of_cool_game/)
+2026-11-06 · u/endless90 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpo216/game_dev_snippets_40_small_c_demos_of_cool_game/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/maluramichael/gamedev-snippets>
 
@@ -517,37 +567,47 @@ Link: <https://github.com/maluramichael/gamedev-snippets>
 >
 > Full disclosure: this is my own repo and I used Claude to help me build the demos and tests. If I missed a mechanic you love or got something wrong, tell me.
 
+<a id="post-26"></a>
+
 ### 26. OldPhone CCTV - Turn old phones into CCTV cameras
 
-2026-11-06 · u/JustA-Myth · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpn4k3/oldphone_cctv_turn_old_phones_into_cctv_cameras/)
+2026-11-06 · u/JustA-Myth · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpn4k3/oldphone_cctv_turn_old_phones_into_cctv_cameras/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpn42j>
 
 
+<a id="post-27"></a>
+
 ### 27. I made a self-hosted CCTV system that turns old Android phones into cameras: live view, 24/7 recording, motion alerts via ntfy, two-way talk (MIT)
 
-2026-11-06 · u/JustA-Myth · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpmlnv/i_made_a_selfhosted_cctv_system_that_turns_old/)
+2026-11-06 · u/JustA-Myth · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpmlnv/i_made_a_selfhosted_cctv_system_that_turns_old/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpml8a>
 
 
+<a id="post-28"></a>
+
 ### 28. PlayStar - A music player for Linux and Windows, built with Godot Mono (v1.6.0)
 
-2026-11-06 · u/hayukimori · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpm8lc/playstar_a_music_player_for_linux_and_windows/)
+2026-11-06 · u/hayukimori · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpm8lc/playstar_a_music_player_for_linux_and_windows/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpm71w>
 
 
+<a id="post-29"></a>
+
 ### 29. Anura: uno strumento OCR + QR che privilegia la privacy per GTK4/Libadwaita. Accetto feedback.
 
-2026-11-06 · u/Relevant_Hovercraft9 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xplsi2/anura_uno_strumento_ocr_qr_che_privilegia_la/)
+2026-11-06 · u/Relevant_Hovercraft9 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xplsi2/anura_uno_strumento_ocr_qr_che_privilegia_la/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/yrmz8u08n3yh1.png>
 
 
+<a id="post-30"></a>
+
 ### 30. I got tired of Sonos not supporting native casting from Android, so I implemented it myself
 
-2026-11-06 · u/CGGamer · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpl82f/i_got_tired_of_sonos_not_supporting_native/)
+2026-11-06 · u/CGGamer · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpl82f/i_got_tired_of_sonos_not_supporting_native/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpl82f>
 
@@ -559,9 +619,11 @@ Link: <https://www.reddit.com/gallery/1xpl82f>
 >
 > https://github.com/marcellocgg03/dial-UP
 
+<a id="post-31"></a>
+
 ### 31. I Built VeilVoice: FOSS to Biometrically de-identify your voice cryptographically securely
 
-2026-11-06 · u/Tilas123 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkzd7/i_built_veilvoice_foss_to_biometrically/)
+2026-11-06 · u/Tilas123 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkzd7/i_built_veilvoice_foss_to_biometrically/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/tilas01/veilvoice>
 
@@ -579,9 +641,11 @@ Link: <https://github.com/tilas01/veilvoice>
 >
 > Features, Requests, Questions and more are welcome. Pleases write a comment and I will get back to you. Contributions to the project are greatly appreciated, Thank you.
 
+<a id="post-32"></a>
+
 ### 32. Papr: A TUI to search, read, organize, and write papers without leaving your terminal
 
-2026-11-06 · u/Wonderful-Writer146 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkfwp/papr_a_tui_to_search_read_organize_and_write/)
+2026-11-06 · u/Wonderful-Writer146 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkfwp/papr_a_tui_to_search_read_organize_and_write/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7rtjruxod10i1.gif>
 
@@ -605,9 +669,11 @@ Link: <https://i.redd.it/7rtjruxod10i1.gif>
 >
 > GitHub: [https://github.com/AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr)
 
+<a id="post-33"></a>
+
 ### 33. open-source Google Calendar clone, looking for contributors
 
-2026-11-06 · u/NoTutor4458 · score 98 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkeg0/opensource_google_calendar_clone_looking_for/)
+2026-11-06 · u/NoTutor4458 · score 98 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpkeg0/opensource_google_calendar_clone_looking_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/bjx1i88cd10i1.png>
 
@@ -619,9 +685,11 @@ Link: <https://i.redd.it/bjx1i88cd10i1.png>
 >
 > [https://github.com/nikolozlortki/openday](https://github.com/nikolozlortki/openday)
 
+<a id="post-34"></a>
+
 ### 34. I made a free Windows app that closes distracting apps and blocks sites while you study, and I think it actually helps you stop procrastinating
 
-2026-11-06 · u/Beautiful_Egg_8673 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjzs2/i_made_a_free_windows_app_that_closes_distracting/)
+2026-11-06 · u/Beautiful_Egg_8673 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjzs2/i_made_a_free_windows_app_that_closes_distracting/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpjzs2>
 
@@ -664,9 +732,11 @@ Link: <https://www.reddit.com/gallery/1xpjzs2>
 >
 > I’m trying to get it code-signed, so a GitHub star would mean a lot if you like it. Thank you for reading, and good luck with your studying!
 
+<a id="post-35"></a>
+
 ### 35. I made a Pc Monitoring Dashboard with a lightweight swiss army like utility
 
-2026-11-06 · u/DontMovePlease · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjvbb/i_made_a_pc_monitoring_dashboard_with_a/)
+2026-11-06 · u/DontMovePlease · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjvbb/i_made_a_pc_monitoring_dashboard_with_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://rovarinofficial.com>
 
@@ -680,40 +750,50 @@ Link: <https://rovarinofficial.com>
 >
 > Disclaimer: it’s purely vibe coded (I don’t know code at all besides a little python), but I’ve been intimately involved in its development, UI, and security even using second opinions from other modelswith t3 code etc.
 
+<a id="post-36"></a>
+
 ### 36. I built an app with modern widgets for windows 11 that uses only 60 MB of RAM.
 
-2026-11-06 · u/qqq-bbb · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjr4e/i_built_an_app_with_modern_widgets_for_windows_11/)
+2026-11-06 · u/qqq-bbb · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjr4e/i_built_an_app_with_modern_widgets_for_windows_11/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/rdnzzxly810i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. I built an app for windows 11 with modern widgets that uses 60 MB of RAM.
 
-2026-11-06 · u/qqq-bbb · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjid4/i_built_an_app_for_windows_11_with_modern_widgets/)
+2026-11-06 · u/qqq-bbb · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjid4/i_built_an_app_for_windows_11_with_modern_widgets/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/yacloifa710i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. Hosted a Ram Altman avatar that runs locally on my RAM using openspline and you can talk to it in realtime
 
-2026-11-06 · u/Mikasa0xdev · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjazb/hosted_a_ram_altman_avatar_that_runs_locally_on/)
+2026-11-06 · u/Mikasa0xdev · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpjazb/hosted_a_ram_altman_avatar_that_runs_locally_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8vge2qfo510i1.png>
 
 
+<a id="post-39"></a>
+
 ### 39. Self-hosted a live Sam Altman avatar you can talk to on my RAM
 
-2026-11-06 · u/Mikasa0xdev · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpj8iw/selfhosted_a_live_sam_altman_avatar_you_can_talk/)
+2026-11-06 · u/Mikasa0xdev · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpj8iw/selfhosted_a_live_sam_altman_avatar_you_can_talk/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://app.openspline.dev/ram-altman>
 
 > Used an open source framework called openspline. It allows you to create a realtime lipsynced avatar from an image.
 
+<a id="post-40"></a>
+
 ### 40. I built an open-source LLM evaluation framework to benchmark tool calling, agent reliability, and memory
 
-2026-11-06 · u/Old_Caterpillar_9872 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpivqs/i_built_an_opensource_llm_evaluation_framework_to/)
+2026-11-06 · u/Old_Caterpillar_9872 · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpivqs/i_built_an_opensource_llm_evaluation_framework_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2agbc150310i1.png>
 
@@ -752,9 +832,11 @@ Link: <https://i.redd.it/2agbc150310i1.png>
 >
 > Thanks!
 
+<a id="post-41"></a>
+
 ### 41. MDRAP v5.3: open-source Python/C market data validator with a 36 ns/tick native core and a tamper-evident audit log
 
-2026-11-06 · u/DoorSubstantial7425 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpiq0h/mdrap_v53_opensource_pythonc_market_data/)
+2026-11-06 · u/DoorSubstantial7425 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpiq0h/mdrap_v53_opensource_pythonc_market_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8cvcpekw110i1.png>
 
@@ -786,9 +868,11 @@ Link: <https://i.redd.it/8cvcpekw110i1.png>
 >
 > I’d like to hear which bad-data cases have bitten you that this doesn’t catch.
 
+<a id="post-42"></a>
+
 ### 42. I got tired of Android's dark mode, so I fixed it
 
-2026-11-06 · u/xLexip · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpii9e/i_got_tired_of_androids_dark_mode_so_i_fixed_it/)
+2026-11-06 · u/xLexip · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpii9e/i_got_tired_of_androids_dark_mode_so_i_fixed_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2a9mtkag010i1.png>
 
@@ -800,9 +884,11 @@ Link: <https://i.redd.it/2a9mtkag010i1.png>
 >
 > **GitHub:** https://github.com/xLexip/Adaptive-Theme
 
+<a id="post-43"></a>
+
 ### 43. I came across an open-source project that lets you run VS Code in a browser
 
-2026-11-06 · u/CupCool1802 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpic53/i_came_across_an_opensource_project_that_lets_you/)
+2026-11-06 · u/CupCool1802 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpic53/i_came_across_an_opensource_project_that_lets_you/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/jy4xjrl8z00i1.png>
 
@@ -820,9 +906,11 @@ Link: <https://i.redd.it/jy4xjrl8z00i1.png>
 >
 > Would you use VS Code in a browser, or do you prefer having your entire development environment on your own computer?
 
+<a id="post-44"></a>
+
 ### 44. I built Lumio, a lightweight open-source launcher for macOS
 
-2026-11-06 · u/Cool-Post-5098 · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphf5g/i_built_lumio_a_lightweight_opensource_launcher/)
+2026-11-06 · u/Cool-Post-5098 · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphf5g/i_built_lumio_a_lightweight_opensource_launcher/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xphf5g>
 
@@ -832,16 +920,20 @@ Link: <https://www.reddit.com/gallery/1xphf5g>
 >
 > GitHub: [https://github.com/cavaldos/Lumio](https://github.com/cavaldos/Lumio)
 
+<a id="post-45"></a>
+
 ### 45. fynepdf-pdfa: PDF/A conversion without Ghostscript (C++ on qpdf, MIT). 0 false PDF/A labels on 2,053 files checked by veraPDF
 
-2026-11-06 · u/birazzzzz · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphf08/fynepdfpdfa_pdfa_conversion_without_ghostscript_c/)
+2026-11-06 · u/birazzzzz · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphf08/fynepdfpdfa_pdfa_conversion_without_ghostscript_c/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/fynepdf/fynepdf-pdfa>
 
 
+<a id="post-46"></a>
+
 ### 46. I've released the first Beta of Montazhnaya — an open-source video editor for Windows. I'd love to hear your honest feedback!
 
-2026-11-06 · u/Ok-Spite3601 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphb34/ive_released_the_first_beta_of_montazhnaya_an/)
+2026-11-06 · u/Ok-Spite3601 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xphb34/ive_released_the_first_beta_of_montazhnaya_an/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xphb34>
 
@@ -893,23 +985,29 @@ Link: <https://www.reddit.com/gallery/1xphb34>
 >
 > Thanks to everyone who takes the time to check out the project and give it a try!
 
+<a id="post-47"></a>
+
 ### 47. Looking for Volunteers to Test My LLM Tool-Calling Evaluation Project!
 
-2026-11-06 · u/Old_Caterpillar_9872 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xph1ya/looking_for_volunteers_to_test_my_llm_toolcalling/)
+2026-11-06 · u/Old_Caterpillar_9872 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xph1ya/looking_for_volunteers_to_test_my_llm_toolcalling/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Nonsense0909688/atlas>
 
 
+<a id="post-48"></a>
+
 ### 48. Conxol, an open-source terminal workspace for network administration
 
-2026-11-06 · u/Next_Detective_1225 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgsy5/conxol_an_opensource_terminal_workspace_for/)
+2026-11-06 · u/Next_Detective_1225 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgsy5/conxol_an_opensource_terminal_workspace_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4wh7z6uoo00i1.png>
 
 
+<a id="post-49"></a>
+
 ### 49. Elegant solution to keep personal per-project agent skills and instruction files versioned without committing them the public repo
 
-2026-11-06 · u/BrianW_undercover · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgs9y/elegant_solution_to_keep_personal_perproject/)
+2026-11-06 · u/BrianW_undercover · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgs9y/elegant_solution_to_keep_personal_perproject/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lxj7t322o00i1.png>
 
@@ -925,9 +1023,11 @@ Link: <https://i.redd.it/lxj7t322o00i1.png>
 >
 > Public MIT License, Linux/Windows/macOS support
 
+<a id="post-50"></a>
+
 ### 50. QuickPdfOcr: free offline OCR for scanned PDFs on Mac, Windows and Linux
 
-2026-11-06 · u/danielwomanlover · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgozi/quickpdfocr_free_offline_ocr_for_scanned_pdfs_on/)
+2026-11-06 · u/danielwomanlover · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xpgozi/quickpdfocr_free_offline_ocr_for_scanned_pdfs_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/KSEGIT/QuickPdfOcr>
 
@@ -943,9 +1043,11 @@ Link: <https://github.com/KSEGIT/QuickPdfOcr>
 >
 > I'd welcome feedback on the code and text extraction, especially reading order on pages with columns.
 
+<a id="post-51"></a>
+
 ### 51. I built a free and open-source alternative to proprietary piano-learning software
 
-2026-10-31 · u/Orfeo-Piano · score 1222 · 76 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xklaxs/i_built_a_free_and_opensource_alternative_to/)
+2026-10-31 · u/Orfeo-Piano · score 1222 · 76 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xklaxs/i_built_a_free_and_opensource_alternative_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/t5zjmw1davyh1.png>
 
@@ -963,9 +1065,11 @@ Link: <https://i.redd.it/t5zjmw1davyh1.png>
 >
 > Feedback, contributions and suggestions are welcome!
 
+<a id="post-52"></a>
+
 ### 52. openGym hit 15,000 stars, your donations paid for every licence, and it's now in the App Store. Thank you! 💚
 
-2026-10-25 · u/0_KermitTheFrog_0 · score 770 · 109 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xf9g8k/opengym_hit_15000_stars_your_donations_paid_for/)
+2026-10-25 · u/0_KermitTheFrog_0 · score 770 · 109 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xf9g8k/opengym_hit_15000_stars_your_donations_paid_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zowhtgikmnxh1.png>
 
@@ -987,17 +1091,21 @@ Link: <https://i.redd.it/zowhtgikmnxh1.png>
 >
 > Thanks again for every star, bug report, PR, translation and coffee. You made this a real app 💚
 
+<a id="post-53"></a>
+
 ### 53. CleanYourTV: one prompt for your AI coding agent removes the ads from any Android TV / Google TV over Wi-Fi. No root, reversible, ~150 TV models
 
-2026-10-22 · u/Gathin23 · score 596 · 157 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xcjedm/cleanyourtv_one_prompt_for_your_ai_coding_agent/)
+2026-10-22 · u/Gathin23 · score 596 · 157 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xcjedm/cleanyourtv_one_prompt_for_your_ai_coding_agent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Gathin23/cleanyourtv>
 
 > Disables (never uninstalls) the ad, telemetry and content-row apps over ADB, backs up first, one command restores it all. Community-tested lists for \~150 TV models from 50+ brands, plus an optional 430 KB Apple TV-style launcher with no network permission. MIT licensed.
 
+<a id="post-54"></a>
+
 ### 54. I built Kept, a self-hosted home inventory. Keep track of what you own, where it is, and what's due: warranties, services, loans. With a 3D map of your home, storage unit and more!
 
-2026-10-20 · u/SegFault0x00000 · score 556 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xaqwkj/i_built_kept_a_selfhosted_home_inventory_keep/)
+2026-10-20 · u/SegFault0x00000 · score 556 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xaqwkj/i_built_kept_a_selfhosted_home_inventory_keep/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xaqwkj>
 
@@ -1017,9 +1125,11 @@ Link: <https://www.reddit.com/gallery/1xaqwkj>
 > GitHub: [https://github.com/keptinventory/kept](https://github.com/keptinventory/kept)  
 > Website: [https://keptinventory.info/](https://keptinventory.info/)
 
+<a id="post-55"></a>
+
 ### 55. I built Musike: a free, open-source music player on YouTube's catalog with no ads, no account and no subscription
 
-2026-10-16 · u/Alarming_Shape_7144 · score 452 · 118 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x74ygg/i_built_musike_a_free_opensource_music_player_on/)
+2026-10-16 · u/Alarming_Shape_7144 · score 452 · 118 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x74ygg/i_built_musike_a_free_opensource_music_player_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x74ygg>
 
@@ -1049,9 +1159,11 @@ Link: <https://www.reddit.com/gallery/1x74ygg>
 >
 > It's MIT-licensed and meant for personal use. Feedback, bug reports and ⭐ are very welcome. I'm especially curious what you'd want next: MP3 downloads, importing YouTube playlists, or macOS/Linux builds?
 
+<a id="post-56"></a>
+
 ### 56. I got tired of missing and forgetting good repos so I built a list that updates itself every 2 days (3k+ repos so far)
 
-2026-11-06 · u/boffti_ · score 398 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xp4eoj/i_got_tired_of_missing_and_forgetting_good_repos/)
+2026-11-06 · u/boffti_ · score 398 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xp4eoj/i_got_tired_of_missing_and_forgetting_good_repos/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp4eoj>
 
@@ -1077,9 +1189,11 @@ Link: <https://www.reddit.com/gallery/1xp4eoj>
 >
 > would love feedback on the categories especially, probable need more. and if you know other good places people share repos lmk, I'm adding more sources
 
+<a id="post-57"></a>
+
 ### 57. I built a file search that reads text inside screenshots. Under 9 MB. Fast and lightweight.
 
-2026-10-28 · u/nothing-counts · score 333 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xi1kom/i_built_a_file_search_that_reads_text_inside/)
+2026-10-28 · u/nothing-counts · score 333 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xi1kom/i_built_a_file_search_that_reads_text_inside/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/m86u3vgh2ayh1.gif>
 
@@ -1101,9 +1215,11 @@ Link: <https://i.redd.it/m86u3vgh2ayh1.gif>
 >
 > apparently the same codebase is now part of a 17k ⭐ project.
 
+<a id="post-58"></a>
+
 ### 58. I made a free, open-source phone app that debloats your Google TV over Wi-Fi: no PC, no root
 
-2026-10-24 · u/manish9461 · score 309 · 84 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xek32w/i_made_a_free_opensource_phone_app_that_debloats/)
+2026-10-24 · u/manish9461 · score 309 · 84 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xek32w/i_made_a_free_opensource_phone_app_that_debloats/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xek32w>
 
@@ -1126,9 +1242,11 @@ Link: <https://www.reddit.com/gallery/1xek32w>
 >
 > GitHub (APK + source): [https://github.com/man15h/tellyscope](https://github.com/man15h/tellyscope/releases/tag/v0.6.0)
 
+<a id="post-59"></a>
+
 ### 59. OpenTV-Remote - Free, open-source TV remote
 
-2026-10-28 · u/Ok_Promise_2137 · score 253 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xh9jo6/opentvremote_free_opensource_tv_remote/)
+2026-10-28 · u/Ok_Promise_2137 · score 253 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xh9jo6/opentvremote_free_opensource_tv_remote/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xh9jo6>
 
@@ -1164,9 +1282,11 @@ Link: <https://www.reddit.com/gallery/1xh9jo6>
 >
 > The three screenshots show two Android layouts/colors and the iPhone app. Suggestions and bug reports are welcome.
 
+<a id="post-60"></a>
+
 ### 60. Arrmada
 
-2026-10-14 · u/No-Turnover3316 · score 210 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x5jwkl/arrmada/)
+2026-10-14 · u/No-Turnover3316 · score 210 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x5jwkl/arrmada/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/keexicx2mdvh1.png>
 
@@ -1191,9 +1311,11 @@ Link: <https://i.redd.it/keexicx2mdvh1.png>
 >
 > [https://github.com/tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada)
 
+<a id="post-61"></a>
+
 ### 61. openDJ is a fast and modern open-source DJing and mixing software
 
-2026-11-03 · u/seba_cruz · score 191 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xmn75f/opendj_is_a_fast_and_modern_opensource_djing_and/)
+2026-11-03 · u/seba_cruz · score 191 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xmn75f/opendj_is_a_fast_and_modern_opensource_djing_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3xyi8xpbtczh1.jpeg>
 
@@ -1215,16 +1337,20 @@ Link: <https://i.redd.it/3xyi8xpbtczh1.jpeg>
 >
 > [GitHub: sebastian-beca/opendj](https://github.com/sebastian-beca/opendj)
 
+<a id="post-62"></a>
+
 ### 62. Yapfast: a native Discord client in Rust that idles at about 40 MB instead of Electron's 800 MB
 
-2026-10-16 · u/JameEnder · score 185 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x7qle4/yapfast_a_native_discord_client_in_rust_that/)
+2026-10-16 · u/JameEnder · score 185 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x7qle4/yapfast_a_native_discord_client_in_rust_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://yapfast.com>
 
 
+<a id="post-63"></a>
+
 ### 63. Awesome Reverse Engineer Anything:
 
-2026-11-02 · u/endless90 · score 182 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xm14a2/awesome_reverse_engineer_anything/)
+2026-11-02 · u/endless90 · score 182 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xm14a2/awesome_reverse_engineer_anything/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/maluramichael/awesome-reverse-engineer-anything>
 
@@ -1234,9 +1360,11 @@ Link: <https://github.com/maluramichael/awesome-reverse-engineer-anything>
 >
 > Full disclosure: this is my own list and I used Claude to help me build it. PRs are very welcome, or just fill out the issue form and a bot prepares the PR for you. If I missed something cool or got something wrong, tell me.
 
+<a id="post-64"></a>
+
 ### 64. I built a 1.22 MB disassembler that runs entirely offline in a single HTML file
 
-2026-10-15 · u/marketkernel · score 143 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x6azzo/i_built_a_122_mb_disassembler_that_runs_entirely/)
+2026-10-15 · u/marketkernel · score 143 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x6azzo/i_built_a_122_mb_disassembler_that_runs_entirely/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x6azzo>
 
@@ -1274,9 +1402,11 @@ Link: <https://www.reddit.com/gallery/1x6azzo>
 >
 > Feedback, bug reports, and contributions are welcome. If you find the project useful, consider giving it a star on GitHub!
 
+<a id="post-65"></a>
+
 ### 65. After half a year of non-stop building, I just shipped v1.0 stable of my open-source local AI engine!
 
-2026-10-28 · u/Equivalent-Flan-1590 · score 141 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xhjupz/after_half_a_year_of_nonstop_building_i_just/)
+2026-10-28 · u/Equivalent-Flan-1590 · score 141 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xhjupz/after_half_a_year_of_nonstop_building_i_just/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/roandejager/Hillock>
 
@@ -1294,9 +1424,11 @@ Link: <https://github.com/roandejager/Hillock>
 >
 > Hillock is dual-licensed with the open-source version under AGPL-3.0 because I strongly believe personal AI should be private, local, and owned by the user. If you believe in local software and want to support an independent young builder, please check out the repo and consider leaving a star to help put it on the map: [https://github.com/roandejager/Hillock](https://github.com/roandejager/Hillock)
 
+<a id="post-66"></a>
+
 ### 66. Syntaxia - A quick cheatsheet for the things you always look up.
 
-2026-10-31 · u/Nearby-Percentage-33 · score 131 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xk84nm/syntaxia_a_quick_cheatsheet_for_the_things_you/)
+2026-10-31 · u/Nearby-Percentage-33 · score 131 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xk84nm/syntaxia_a_quick_cheatsheet_for_the_things_you/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xk84nm>
 
@@ -1309,9 +1441,11 @@ Link: <https://www.reddit.com/gallery/1xk84nm>
 >
 > /
 
+<a id="post-67"></a>
+
 ### 67. I got tired of re-entering my resume, so I built an open-source job search agent
 
-2026-10-21 · u/rtk1114 · score 124 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xc06h8/i_got_tired_of_reentering_my_resume_so_i_built_an/)
+2026-10-21 · u/rtk1114 · score 124 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xc06h8/i_got_tired_of_reentering_my_resume_so_i_built_an/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/h0cq17ai2wwh1.jpeg>
 
@@ -1337,9 +1471,11 @@ Link: <https://i.redd.it/h0cq17ai2wwh1.jpeg>
 >
 > GitHub: [https://github.com/ethany14/Eregion-Job-Finding-Agent](https://github.com/ethany14/Eregion-Job-Finding-Agent)
 
+<a id="post-68"></a>
+
 ### 68. Aleph: give your LLM satellite imagery, 3D buildings, terrain, and Street View (no API keys!)
 
-2026-11-01 · u/EntropyMagnets · score 119 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xl6ocw/aleph_give_your_llm_satellite_imagery_3d/)
+2026-11-01 · u/EntropyMagnets · score 119 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xl6ocw/aleph_give_your_llm_satellite_imagery_3d/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lt9njmacx0zh1.png>
 
@@ -1356,9 +1492,11 @@ Link: <https://i.redd.it/lt9njmacx0zh1.png>
 > * **GUI (humans):** A local browser dashboard (`alephgeo dashboard`) to draw regions, preview captures, toggle layers.
 > * **CLI (agents / scripts):** Simple single-command lookups like `alephgeo streetview --place "Colosseum, Rome" --best-match` built for agent workflows.
 
+<a id="post-69"></a>
+
 ### 69. Someone is rebuilding Diablo II to run in a browser using C++ and WebAssembly
 
-2026-11-03 · u/CupCool1802 · score 116 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xmx3qt/someone_is_rebuilding_diablo_ii_to_run_in_a/)
+2026-11-03 · u/CupCool1802 · score 116 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1xmx3qt/someone_is_rebuilding_diablo_ii_to_run_in_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9rfuref69fzh1.png>
 
@@ -1378,9 +1516,11 @@ Link: <https://i.redd.it/9rfuref69fzh1.png>
 >
 > What do you think is more impressive here: getting an old game running in a browser, or recreating the underlying engine accurately enough to match the original?
 
+<a id="post-70"></a>
+
 ### 70. Tabchat – WhatsApp, Discord, Teams, Outlook, Brightspace and any website in one lightweight Linux window
 
-2026-10-12 · u/randomquestions113 · score 101 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x40v87/tabchat_whatsapp_discord_teams_outlook/)
+2026-10-12 · u/randomquestions113 · score 101 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/coolgithubprojects/comments/1x40v87/tabchat_whatsapp_discord_teams_outlook/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ppfwr2v381vh1.gif>
 

@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-10-27 | [Delta Lake performance tuning never really ends](https://www.reddit.com/r/DeltaLake/comments/1xgqzta/delta_lake_performance_tuning_never_really_ends/) | u/Ablerol_Magician8626 | — | text | 1 | 0 | live | — |
-| 2 | 2026-10-20 | [Setting up a Local Learning env in Docker](https://www.reddit.com/r/DeltaLake/comments/1xb0fcv/setting_up_a_local_learning_env_in_docker/) | u/Poissonza | — | text | 3 | 0 | live | — |
-| 3 | 2026-10-05 | [Data Lakehouse with Agentic AIs: A Guide](https://www.reddit.com/r/DeltaLake/comments/1wy4aar/data_lakehouse_with_agentic_ais_a_guide/) | u/codingdecently | — | itnext.io | 2 | 0 | live | — |
-| 4 | 2026-10-04 | [Cross-Catalog Sync: Iceberg on Polaris, Glue, and Unity](https://www.reddit.com/r/DeltaLake/comments/1wxcvjj/crosscatalog_sync_iceberg_on_polaris_glue_and/) | u/codingdecently | — | lakeops.dev | 2 | 0 | live | — |
-| 5 | 2026-09-23 | [Nanosecond Timestamp Precision, Iceberg-Datafusion,Spark Connect Rust Client, and Parquet Types](https://www.reddit.com/r/DeltaLake/comments/1wol7x0/nanosecond_timestamp_precision/) | u/PrideDense2206 | — | open.spotify.com | 2 | 0 | live | — |
-| 6 | 2026-09-10 | [Delta docs need to be clearer about when a table version is resolved](https://www.reddit.com/r/DeltaLake/comments/1wcllmx/delta_docs_need_to_be_clearer_about_when_a_table/) | u/frithjof_v | — | — | 1 | 0 | live | — |
-| 7 | 2026-08-30 | [Data Lakehouse with Apache Iceberg: A Guide](https://www.reddit.com/r/DeltaLake/comments/1w2k4lc/data_lakehouse_with_apache_iceberg_a_guide/) | u/codingdecently | — | lakeops.dev | 1 | 0 | removed by mod | — |
-| 8 | 2026-08-18 | [Delta Lake](https://www.reddit.com/r/DeltaLake/comments/1vrg8m6/delta_lake/) | u/PrideDense2206 | — | youtube.com | 1 | 0 | live | — |
-| 9 | 2026-08-14 | [Delta Lake 4.4.0 rc1 Testing](https://www.reddit.com/r/DeltaLake/comments/1von9df/delta_lake_440_rc1_testing/) | u/PrideDense2206 | — | text | 4 | 1 | live | — |
-| 10 | 2026-08-12 | [Delta Lake](https://www.reddit.com/r/DeltaLake/comments/1vmkp2c/delta_lake/) | u/PrideDense2206 | — | youtube.com | 1 | 0 | live | — |
-| 11 | 2026-08-11 | [Delta Lake Community Meetup: UC Managed Tables & Kernel Rust · Luma](https://www.reddit.com/r/DeltaLake/comments/1vl8nwy/delta_lake_community_meetup_uc_managed_tables/) | u/PrideDense2206 | — | luma.com | 5 | 0 | live | — |
-| 12 | 2026-07-28 | [Introducing the UC Delta API](https://www.reddit.com/r/DeltaLake/comments/1v8tz5j/introducing_the_uc_delta_api/) | u/robstar_db | — | unitycatalog.io | 5 | 1 | live | — |
-| 13 | 2026-07-23 | [Python-v1.6.2 Released](https://www.reddit.com/r/DeltaLake/comments/1v463wg/pythonv162_released/) | u/PrideDense2206 | — | text | 3 | 0 | live | — |
-| 14 | 2026-07-17 | [Advanced security alerting with DuckDB and Delta Lake \| Clickdetect](https://www.reddit.com/r/DeltaLake/comments/1uzcogc/advanced_security_alerting_with_duckdb_and_delta/) | u/_souzo | — | medium.com | 3 | 0 | live | — |
-| 15 | 2026-07-10 | [Follow-up: delta-explain is now more stable. Looking for Delta Lake users willing to test it](https://www.reddit.com/r/DeltaLake/comments/1usf4xg/followup_deltaexplain_is_now_more_stable_looking/) | u/PrideDense2206 | — | — | 3 | 0 | live | — |
-| 16 | 2026-06-10 | [DuckDB Supports Delta Sharing](https://www.reddit.com/r/DeltaLake/comments/1u28dv2/duckdb_supports_delta_sharing/) | u/Existing_Wealth6142 | — | duckdb.org | 5 | 2 | live | — |
-| 17 | 2026-06-08 | [Snowflake Supports Delta Sharing](https://www.reddit.com/r/DeltaLake/comments/1u0dzmu/snowflake_supports_delta_sharing/) | u/Existing_Wealth6142 | — | reddit.com | 3 | 3 | live | — |
-| 18 | 2026-05-22 | [Integrating the Rust Delta Kernel into ClickHouse](https://www.reddit.com/r/DeltaLake/comments/1tkns3w/integrating_the_rust_delta_kernel_into_clickhouse/) | u/PrideDense2206 | — | delta.io | 3 | 0 | live | — |
-| 19 | 2026-05-21 | [Delta Lake Community Sync: IcebergCompatV3 in delta-kernel-rs](https://www.reddit.com/r/DeltaLake/comments/1tjzwtx/delta_lake_community_sync_icebergcompatv3_in/) | u/PrideDense2206 | — | youtu.be | 3 | 1 | live | — |
-| 20 | 2026-05-19 | [Recording is live for the Delta Lake Community Meetup - 5/19](https://www.reddit.com/r/DeltaLake/comments/1thtr20/recording_is_live_for_the_delta_lake_community/) | u/PrideDense2206 | — | youtube.com | 5 | 1 | live | — |
-| 21 | 2026-05-18 | [What are the best books/content to learn about Delta Lake ?](https://www.reddit.com/r/DeltaLake/comments/1tgyqk3/what_are_the_best_bookscontent_to_learn_about/) | u/dataengineer95 | — | text | 3 | 4 | live | — |
-| 22 | 2026-05-15 | [Delta Lake Community Meetup](https://www.reddit.com/r/DeltaLake/comments/1tdn26n/delta_lake_community_meetup/) | u/PrideDense2206 | — | luma.com | 1 | 0 | live | — |
-| 23 | 2026-05-14 | [Delta Grows Up: Writes, Unity Catalog and Time Travel](https://www.reddit.com/r/DeltaLake/comments/1tclv67/delta_grows_up_writes_unity_catalog_and_time/) | u/PrideDense2206 | — | duckdb.org | 4 | 0 | live | — |
-| 24 | 2026-05-08 | [What are Delta Lake Catalog-Managed Tables?](https://www.reddit.com/r/DeltaLake/comments/1t7h9qw/what_are_delta_lake_catalogmanaged_tables/) | u/PrideDense2206 | — | /r/DeltaLake/comments/1t7h9qw/what_are_delta_lake_catalogmanaged_tables/ | 1 | 0 | live | — |
-| 25 | 2026-04-29 | [We've Released Delta 4.2.](https://www.reddit.com/r/DeltaLake/comments/1szcjxq/weve_released_delta_42/) | u/PrideDense2206 | — | text | 3 | 0 | live | — |
-| 26 | 2026-04-21 | [Delta Lake Community Meeting](https://www.reddit.com/r/DeltaLake/comments/1sre3eq/delta_lake_community_meeting/) | u/PrideDense2206 | — | text | 2 | 1 | approved | — |
-| 27 | 2025-12-07 | [Polars in Python \| Kernel err : Generic LocalFileSystem err: Unable to Convert URL "file://Delta](https://www.reddit.com/r/DeltaLake/comments/1pgenht/polars_in_python_kernel_err_generic/) | u/brainlagged_engineer | — | — | 1 | 0 | live | — |
-| 28 | 2025-12-06 | [Can I store timestamps with nanosecond precision in delta lake tables?](https://www.reddit.com/r/DeltaLake/comments/1pfn3fm/can_i_store_timestamps_with_nanosecond_precision/) | u/frithjof_v | — | text | 1 | 0 | live | — |
-| 29 | 2025-08-21 | [Consuming the Delta Lake Change Data Feed for CDC](https://www.reddit.com/r/DeltaLake/comments/1mw6zd3/consuming_the_delta_lake_change_data_feed_for_cdc/) | u/sdairs_ch | — | clickhouse.com | 1 | 0 | live | — |
-| 30 | 2025-03-16 | [SCD-2 Without Merge](https://www.reddit.com/r/DeltaLake/comments/1jcnznq/scd2_without_merge/) | u/dead_pool1036 | — | text | 1 | 2 | live | — |
-| 31 | 2025-02-22 | [Any tips on how to update a Delta Lake table that contains NULL values in the source table?](https://www.reddit.com/r/DeltaLake/comments/1iv7rlg/any_tips_on_how_to_update_a_delta_lake_table_that/) | u/stijlkoch | — | text | 2 | 1 | live | — |
-| 32 | 2024-11-23 | [Inconsistency between manual Vacuuming and automatic Delta Log deletion in Delta Lake?](https://www.reddit.com/r/DeltaLake/comments/1gxx2ok/inconsistency_between_manual_vacuuming_and/) | u/frithjof_v | — | text | 2 | 0 | live | — |
-| 33 | 2024-11-21 | [Use dynamodb locking with external S3 compatible storage](https://www.reddit.com/r/DeltaLake/comments/1gwbelp/use_dynamodb_locking_with_external_s3_compatible/) | u/Disastrous-Camp979 | — | text | 1 | 1 | live | — |
-| 34 | 2024-11-01 | [pg_mooncake: columnstore table in Postgres with iceberg/delta support](https://www.reddit.com/r/DeltaLake/comments/1ghdgmj/pg_mooncake_columnstore_table_in_postgres_with/) | u/InternetFit7518 | — | text | 1 | 0 | spam-filtered | — |
-| 35 | 2024-09-20 | [Transaction Logs](https://www.reddit.com/r/DeltaLake/comments/1fl96in/transaction_logs/) | u/MysteriousBee1110 | — | text | 1 | 1 | live | — |
-| 36 | 2024-09-04 | [HOWTO: Write to Delta Lake from Flink SQL](https://www.reddit.com/r/DeltaLake/comments/1f8p88z/howto_write_to_delta_lake_from_flink_sql/) | u/rmoff | — | — | 2 | 0 | live | — |
-| 37 | 2024-08-31 | [Can Delta Lake tables point to only parts of a Parquet file?](https://www.reddit.com/r/DeltaLake/comments/1f5veea/can_delta_lake_tables_point_to_only_parts_of_a/) | u/frithjof_v | — | text | 1 | 2 | live | — |
-| 38 | 2024-08-13 | [Concurrent writes to delta lake with Python and Rust](https://www.reddit.com/r/DeltaLake/comments/1ergu9d/concurrent_writes_to_delta_lake_with_python_and/) | u/Beneficial_Ad1809 | — | text | 1 | 0 | live | — |
-| 39 | 2024-06-06 | [New Delta Sharing Clojure Client](https://www.reddit.com/r/DeltaLake/comments/1d9s688/new_delta_sharing_clojure_client/) | u/caleb-amperity | — | text | 2 | 1 | live | — |
-| 40 | 2024-04-27 | [Backup Strategy for Delta Tables in ADLS](https://www.reddit.com/r/DeltaLake/comments/1cegoq5/backup_strategy_for_delta_tables_in_adls/) | u/dead_pool1036 | — | text | 1 | 0 | live | — |
-| 41 | 2024-03-15 | [OLTP connector for deltalake? like trino(presto)](https://www.reddit.com/r/DeltaLake/comments/1bf8sq1/oltp_connector_for_deltalake_like_trinopresto/) | u/dkvkxm | — | text | 1 | 0 | live | — |
-| 42 | 2024-01-23 | [Looking for Delta Lake users!](https://www.reddit.com/r/DeltaLake/comments/19duft7/looking_for_delta_lake_users/) | u/Dizzy_Fruit5948 | — | text | 1 | 0 | spam-filtered | — |
-| 43 | 2023-12-12 | [User ID Stitching With Spark Graphframes and Delta](https://www.reddit.com/r/DeltaLake/comments/18gpuei/user_id_stitching_with_spark_graphframes_and_delta/) | u/MitzuIstvan | — | text | 1 | 0 | spam-filtered | — |
-| 44 | 2023-11-23 | [ACID transactions in delta lake](https://www.reddit.com/r/DeltaLake/comments/1821sk8/acid_transactions_in_delta_lake/) | u/shamansk | — | text | 1 | 1 | live | — |
-| 45 | 2023-10-08 | [Best way to handle NULL columns when writing out Delta Lake using delta-rs](https://www.reddit.com/r/DeltaLake/comments/173dpsz/best_way_to_handle_null_columns_when_writing_out/) | u/kentmaxwell | — | text | 3 | 2 | live | — |
-| 46 | 2023-10-06 | [Dimension tables in delta lake](https://www.reddit.com/r/DeltaLake/comments/171rmo0/dimension_tables_in_delta_lake/) | u/purpleMash1 | — | text | 1 | 1 | live | — |
-| 47 | 2023-09-20 | [Delete specific Delta Lake table versions?](https://www.reddit.com/r/DeltaLake/comments/16nx54h/delete_specific_delta_lake_table_versions/) | u/bsg75 | — | text | 3 | 0 | live | — |
-| 48 | 2023-08-04 | [Change data feed](https://www.reddit.com/r/DeltaLake/comments/15i0vci/change_data_feed/) | u/alienus333 | — | text | 1 | 0 | live | — |
-| 49 | 2023-08-04 | [SCD2 in delta with version management](https://www.reddit.com/r/DeltaLake/comments/15hmrdo/scd2_in_delta_with_version_management/) | u/ElectricalCold4537 | — | text | 1 | 0 | live | — |
-| 50 | 2023-07-14 | [Databricks Uniform (Universal Format) Delta Lake 3.0](https://www.reddit.com/r/DeltaLake/comments/14zhpyv/databricks_uniform_universal_format_delta_lake_30/) | u/BitAccomplished3461 | — | youtube.com | 1 | 0 | spam-filtered | — |
+| 1 | 2026-10-27 | [Delta Lake performance tuning never really ends](#post-1) | u/Ablerol_Magician8626 | — | text | 1 | 0 | live | — |
+| 2 | 2026-10-20 | [Setting up a Local Learning env in Docker](#post-2) | u/Poissonza | — | text | 3 | 0 | live | — |
+| 3 | 2026-10-05 | [Data Lakehouse with Agentic AIs: A Guide](#post-3) | u/codingdecently | — | itnext.io | 2 | 0 | live | — |
+| 4 | 2026-10-04 | [Cross-Catalog Sync: Iceberg on Polaris, Glue, and Unity](#post-4) | u/codingdecently | — | lakeops.dev | 2 | 0 | live | — |
+| 5 | 2026-09-23 | [Nanosecond Timestamp Precision, Iceberg-Datafusion,Spark Connect Rust Client, and Parquet Types](#post-5) | u/PrideDense2206 | — | open.spotify.com | 2 | 0 | live | — |
+| 6 | 2026-09-10 | [Delta docs need to be clearer about when a table version is resolved](#post-6) | u/frithjof_v | — | — | 1 | 0 | live | — |
+| 7 | 2026-08-30 | [Data Lakehouse with Apache Iceberg: A Guide](#post-7) | u/codingdecently | — | lakeops.dev | 1 | 0 | removed by mod | — |
+| 8 | 2026-08-18 | [Delta Lake](#post-8) | u/PrideDense2206 | — | youtube.com | 1 | 0 | live | — |
+| 9 | 2026-08-14 | [Delta Lake 4.4.0 rc1 Testing](#post-9) | u/PrideDense2206 | — | text | 4 | 1 | live | — |
+| 10 | 2026-08-12 | [Delta Lake](#post-10) | u/PrideDense2206 | — | youtube.com | 1 | 0 | live | — |
+| 11 | 2026-08-11 | [Delta Lake Community Meetup: UC Managed Tables & Kernel Rust · Luma](#post-11) | u/PrideDense2206 | — | luma.com | 5 | 0 | live | — |
+| 12 | 2026-07-28 | [Introducing the UC Delta API](#post-12) | u/robstar_db | — | unitycatalog.io | 5 | 1 | live | — |
+| 13 | 2026-07-23 | [Python-v1.6.2 Released](#post-13) | u/PrideDense2206 | — | text | 3 | 0 | live | — |
+| 14 | 2026-07-17 | [Advanced security alerting with DuckDB and Delta Lake \| Clickdetect](#post-14) | u/_souzo | — | medium.com | 3 | 0 | live | — |
+| 15 | 2026-07-10 | [Follow-up: delta-explain is now more stable. Looking for Delta Lake users willing to test it](#post-15) | u/PrideDense2206 | — | — | 3 | 0 | live | — |
+| 16 | 2026-06-10 | [DuckDB Supports Delta Sharing](#post-16) | u/Existing_Wealth6142 | — | duckdb.org | 5 | 2 | live | — |
+| 17 | 2026-06-08 | [Snowflake Supports Delta Sharing](#post-17) | u/Existing_Wealth6142 | — | reddit.com | 3 | 3 | live | — |
+| 18 | 2026-05-22 | [Integrating the Rust Delta Kernel into ClickHouse](#post-18) | u/PrideDense2206 | — | delta.io | 3 | 0 | live | — |
+| 19 | 2026-05-21 | [Delta Lake Community Sync: IcebergCompatV3 in delta-kernel-rs](#post-19) | u/PrideDense2206 | — | youtu.be | 3 | 1 | live | — |
+| 20 | 2026-05-19 | [Recording is live for the Delta Lake Community Meetup - 5/19](#post-20) | u/PrideDense2206 | — | youtube.com | 5 | 1 | live | — |
+| 21 | 2026-05-18 | [What are the best books/content to learn about Delta Lake ?](#post-21) | u/dataengineer95 | — | text | 3 | 4 | live | — |
+| 22 | 2026-05-15 | [Delta Lake Community Meetup](#post-22) | u/PrideDense2206 | — | luma.com | 1 | 0 | live | — |
+| 23 | 2026-05-14 | [Delta Grows Up: Writes, Unity Catalog and Time Travel](#post-23) | u/PrideDense2206 | — | duckdb.org | 4 | 0 | live | — |
+| 24 | 2026-05-08 | [What are Delta Lake Catalog-Managed Tables?](#post-24) | u/PrideDense2206 | — | /r/DeltaLake/comments/1t7h9qw/what_are_delta_lake_catalogmanaged_tables/ | 1 | 0 | live | — |
+| 25 | 2026-04-29 | [We've Released Delta 4.2.](#post-25) | u/PrideDense2206 | — | text | 3 | 0 | live | — |
+| 26 | 2026-04-21 | [Delta Lake Community Meeting](#post-26) | u/PrideDense2206 | — | text | 2 | 1 | approved | — |
+| 27 | 2025-12-07 | [Polars in Python \| Kernel err : Generic LocalFileSystem err: Unable to Convert URL "file://Delta](#post-27) | u/brainlagged_engineer | — | — | 1 | 0 | live | — |
+| 28 | 2025-12-06 | [Can I store timestamps with nanosecond precision in delta lake tables?](#post-28) | u/frithjof_v | — | text | 1 | 0 | live | — |
+| 29 | 2025-08-21 | [Consuming the Delta Lake Change Data Feed for CDC](#post-29) | u/sdairs_ch | — | clickhouse.com | 1 | 0 | live | — |
+| 30 | 2025-03-16 | [SCD-2 Without Merge](#post-30) | u/dead_pool1036 | — | text | 1 | 2 | live | — |
+| 31 | 2025-02-22 | [Any tips on how to update a Delta Lake table that contains NULL values in the source table?](#post-31) | u/stijlkoch | — | text | 2 | 1 | live | — |
+| 32 | 2024-11-23 | [Inconsistency between manual Vacuuming and automatic Delta Log deletion in Delta Lake?](#post-32) | u/frithjof_v | — | text | 2 | 0 | live | — |
+| 33 | 2024-11-21 | [Use dynamodb locking with external S3 compatible storage](#post-33) | u/Disastrous-Camp979 | — | text | 1 | 1 | live | — |
+| 34 | 2024-11-01 | [pg_mooncake: columnstore table in Postgres with iceberg/delta support](#post-34) | u/InternetFit7518 | — | text | 1 | 0 | spam-filtered | — |
+| 35 | 2024-09-20 | [Transaction Logs](#post-35) | u/MysteriousBee1110 | — | text | 1 | 1 | live | — |
+| 36 | 2024-09-04 | [HOWTO: Write to Delta Lake from Flink SQL](#post-36) | u/rmoff | — | — | 2 | 0 | live | — |
+| 37 | 2024-08-31 | [Can Delta Lake tables point to only parts of a Parquet file?](#post-37) | u/frithjof_v | — | text | 1 | 2 | live | — |
+| 38 | 2024-08-13 | [Concurrent writes to delta lake with Python and Rust](#post-38) | u/Beneficial_Ad1809 | — | text | 1 | 0 | live | — |
+| 39 | 2024-06-06 | [New Delta Sharing Clojure Client](#post-39) | u/caleb-amperity | — | text | 2 | 1 | live | — |
+| 40 | 2024-04-27 | [Backup Strategy for Delta Tables in ADLS](#post-40) | u/dead_pool1036 | — | text | 1 | 0 | live | — |
+| 41 | 2024-03-15 | [OLTP connector for deltalake? like trino(presto)](#post-41) | u/dkvkxm | — | text | 1 | 0 | live | — |
+| 42 | 2024-01-23 | [Looking for Delta Lake users!](#post-42) | u/Dizzy_Fruit5948 | — | text | 1 | 0 | spam-filtered | — |
+| 43 | 2023-12-12 | [User ID Stitching With Spark Graphframes and Delta](#post-43) | u/MitzuIstvan | — | text | 1 | 0 | spam-filtered | — |
+| 44 | 2023-11-23 | [ACID transactions in delta lake](#post-44) | u/shamansk | — | text | 1 | 1 | live | — |
+| 45 | 2023-10-08 | [Best way to handle NULL columns when writing out Delta Lake using delta-rs](#post-45) | u/kentmaxwell | — | text | 3 | 2 | live | — |
+| 46 | 2023-10-06 | [Dimension tables in delta lake](#post-46) | u/purpleMash1 | — | text | 1 | 1 | live | — |
+| 47 | 2023-09-20 | [Delete specific Delta Lake table versions?](#post-47) | u/bsg75 | — | text | 3 | 0 | live | — |
+| 48 | 2023-08-04 | [Change data feed](#post-48) | u/alienus333 | — | text | 1 | 0 | live | — |
+| 49 | 2023-08-04 | [SCD2 in delta with version management](#post-49) | u/ElectricalCold4537 | — | text | 1 | 0 | live | — |
+| 50 | 2023-07-14 | [Databricks Uniform (Universal Format) Delta Lake 3.0](#post-50) | u/BitAccomplished3461 | — | youtube.com | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,22 +86,26 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 2026-10-20 | [Setting up a Local Learning env in Docker](https://www.reddit.com/r/DeltaLake/comments/1xb0fcv/setting_up_a_local_learning_env_in_docker/) | u/Poissonza | — | text | 3 | 0 | live |
-| 1 | 2026-10-27 | [Delta Lake performance tuning never really ends](https://www.reddit.com/r/DeltaLake/comments/1xgqzta/delta_lake_performance_tuning_never_really_ends/) | u/Ablerol_Magician8626 | — | text | 1 | 0 | live |
+| 2 | 2026-10-20 | [Setting up a Local Learning env in Docker](#post-2) | u/Poissonza | — | text | 3 | 0 | live |
+| 1 | 2026-10-27 | [Delta Lake performance tuning never really ends](#post-1) | u/Ablerol_Magician8626 | — | text | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Delta Lake performance tuning never really ends
 
-2026-10-27 · u/Ablerol_Magician8626 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1xgqzta/delta_lake_performance_tuning_never_really_ends/)
+2026-10-27 · u/Ablerol_Magician8626 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1xgqzta/delta_lake_performance_tuning_never_really_ends/) · [↑ back to the list](#last-50-posts)
 
 > between 'OPTIMIZE' , liquid clustering and fixing small files, feels like there's always something to tune.. been looking into Spark acceleration approaches like databricks photon and dualbird too. anyone actually measured whether optimizing the tables or speeding up Spark execution makes a bigger difference in runtime and costs?
 
+<a id="post-2"></a>
+
 ### 2. Setting up a Local Learning env in Docker
 
-2026-10-20 · u/Poissonza · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1xb0fcv/setting_up_a_local_learning_env_in_docker/)
+2026-10-20 · u/Poissonza · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1xb0fcv/setting_up_a_local_learning_env_in_docker/) · [↑ back to the list](#last-50-posts)
 
 > Hi All,
 >
@@ -127,45 +131,57 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks for the help
 
+<a id="post-3"></a>
+
 ### 3. Data Lakehouse with Agentic AIs: A Guide
 
-2026-10-05 · u/codingdecently · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wy4aar/data_lakehouse_with_agentic_ais_a_guide/)
+2026-10-05 · u/codingdecently · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wy4aar/data_lakehouse_with_agentic_ais_a_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://itnext.io/data-lakehouse-with-agentic-ais-a-guide-9f5f174159ef>
 
 
+<a id="post-4"></a>
+
 ### 4. Cross-Catalog Sync: Iceberg on Polaris, Glue, and Unity
 
-2026-10-04 · u/codingdecently · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wxcvjj/crosscatalog_sync_iceberg_on_polaris_glue_and/)
+2026-10-04 · u/codingdecently · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wxcvjj/crosscatalog_sync_iceberg_on_polaris_glue_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/cross-catalog-sync-polaris-glue-unity>
 
 
+<a id="post-5"></a>
+
 ### 5. Nanosecond Timestamp Precision, Iceberg-Datafusion,Spark Connect Rust Client, and Parquet Types
 
-2026-09-23 · u/PrideDense2206 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wol7x0/nanosecond_timestamp_precision/)
+2026-09-23 · u/PrideDense2206 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wol7x0/nanosecond_timestamp_precision/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://open.spotify.com/episode/7BS58Jzku4Gfku2dwQ2r1x?si%3DQZEW5AmIQxi5Zxn-csTowQ%26utm_source%3Dnative-share-menu>
 
 > Learn a little more about Delta Lake on our weekly recap.
 
+<a id="post-6"></a>
+
 ### 6. Delta docs need to be clearer about when a table version is resolved
 
-2026-09-10 · u/frithjof_v · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wcllmx/delta_docs_need_to_be_clearer_about_when_a_table/)
+2026-09-10 · u/frithjof_v · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1wcllmx/delta_docs_need_to_be_clearer_about_when_a_table/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_when_a_table/>
 
 
+<a id="post-7"></a>
+
 ### 7. Data Lakehouse with Apache Iceberg: A Guide
 
-2026-08-30 · u/codingdecently · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1w2k4lc/data_lakehouse_with_apache_iceberg_a_guide/)
+2026-08-30 · u/codingdecently · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1w2k4lc/data_lakehouse_with_apache_iceberg_a_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/data-lakehouse-with-apache-iceberg>
 
 
+<a id="post-8"></a>
+
 ### 8. Delta Lake
 
-2026-08-18 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vrg8m6/delta_lake/)
+2026-08-18 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vrg8m6/delta_lake/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/live/O8_82Cu6NBw?is=TRHrFX0PVMGZONJO>
 
@@ -175,9 +191,11 @@ Link: <https://www.youtube.com/live/O8_82Cu6NBw?is=TRHrFX0PVMGZONJO>
 >
 > Cheers and happy learnings.
 
+<a id="post-9"></a>
+
 ### 9. Delta Lake 4.4.0 rc1 Testing
 
-2026-08-14 · u/PrideDense2206 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1von9df/delta_lake_440_rc1_testing/)
+2026-08-14 · u/PrideDense2206 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1von9df/delta_lake_440_rc1_testing/) · [↑ back to the list](#last-50-posts)
 
 > We announced on the delta-users slack that we are in the general final testing stage for the 4.4.0 release. If you have time this weekend and feel like hacking please try to find any bugs in the release candidate.
 >
@@ -203,9 +221,11 @@ Link: <https://www.youtube.com/live/O8_82Cu6NBw?is=TRHrFX0PVMGZONJO>
 >
 > Please give it a try and report any issues. Your feedback helps make GA solid! 🙏
 
+<a id="post-10"></a>
+
 ### 10. Delta Lake
 
-2026-08-12 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vmkp2c/delta_lake/)
+2026-08-12 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vmkp2c/delta_lake/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/live/2SDx14zzU7o?is=EQndklSUZjg8lAwL>
 
@@ -229,24 +249,30 @@ Link: <https://www.youtube.com/live/2SDx14zzU7o?is=EQndklSUZjg8lAwL>
 >
 > The episode concludes with a showcase of how these plans can be translated into native representations for engines like Datafusion and DuckDB and then goes into QA time.
 
+<a id="post-11"></a>
+
 ### 11. Delta Lake Community Meetup: UC Managed Tables & Kernel Rust · Luma
 
-2026-08-11 · u/PrideDense2206 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vl8nwy/delta_lake_community_meetup_uc_managed_tables/)
+2026-08-11 · u/PrideDense2206 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1vl8nwy/delta_lake_community_meetup_uc_managed_tables/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://luma.com/delta-v992>
 
 > Join us tomorrow morning to see what’s new in the Delta Lake ecosystem. We’ll be covering changes coming to the Delta Kernel for logical planning, and dive deeper into catalog-managed tables and the UC Delta APIs. Lastly, we’re releasing Delta Lake 4.4.0 this week, so look for another announcement later in the week (April 14th).
 
+<a id="post-12"></a>
+
 ### 12. Introducing the UC Delta API
 
-2026-07-28 · u/robstar_db · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1v8tz5j/introducing_the_uc_delta_api/)
+2026-07-28 · u/robstar_db · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1v8tz5j/introducing_the_uc_delta_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://unitycatalog.io/blogs/unity-catalog-delta-api/>
 
 
+<a id="post-13"></a>
+
 ### 13. Python-v1.6.2 Released
 
-2026-07-23 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1v463wg/pythonv162_released/)
+2026-07-23 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1v463wg/pythonv162_released/) · [↑ back to the list](#last-50-posts)
 
 > **What's Changed**  
 > chore: bump version for release by [**@ion-elgreco**](https://github.com/ion-elgreco) in [**#4562**](https://github.com/delta-io/delta-rs/pull/4562)  
@@ -263,45 +289,57 @@ Link: <https://unitycatalog.io/blogs/unity-catalog-delta-api/>
 >
 > **Full Changelog**: [python-v1.6.1...python-v1.6.2](https://github.com/delta-io/delta-rs/compare/python-v1.6.1...python-v1.6.2)
 
+<a id="post-14"></a>
+
 ### 14. Advanced security alerting with DuckDB and Delta Lake \| Clickdetect
 
-2026-07-17 · u/_souzo · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1uzcogc/advanced_security_alerting_with_duckdb_and_delta/)
+2026-07-17 · u/_souzo · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1uzcogc/advanced_security_alerting_with_duckdb_and_delta/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@souzo/advanced-security-alerting-with-duckdb-and-delta-lake-clickdetect-8041ac0bbc61>
 
 
+<a id="post-15"></a>
+
 ### 15. Follow-up: delta-explain is now more stable. Looking for Delta Lake users willing to test it
 
-2026-07-10 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1usf4xg/followup_deltaexplain_is_now_more_stable_looking/)
+2026-07-10 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1usf4xg/followup_deltaexplain_is_now_more_stable_looking/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/apachespark/comments/1urwmlf/followup_deltaexplain_is_now_more_stable_looking/>
 
 
+<a id="post-16"></a>
+
 ### 16. DuckDB Supports Delta Sharing
 
-2026-06-10 · u/Existing_Wealth6142 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1u28dv2/duckdb_supports_delta_sharing/)
+2026-06-10 · u/Existing_Wealth6142 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1u28dv2/duckdb_supports_delta_sharing/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://duckdb.org/community_extensions/extensions/duckdb_delta_sharing>
 
 > Wow just noticed another one. Actually 2 since there seems to be two of these extensions actually [https://duckdb.org/community\_extensions/extensions/duck\_delta\_share](https://duckdb.org/community_extensions/extensions/duck_delta_share) . Great time for Delta Lake!
 
+<a id="post-17"></a>
+
 ### 17. Snowflake Supports Delta Sharing
 
-2026-06-08 · u/Existing_Wealth6142 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1u0dzmu/snowflake_supports_delta_sharing/)
+2026-06-08 · u/Existing_Wealth6142 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1u0dzmu/snowflake_supports_delta_sharing/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/snowflake/comments/1u0dyh1/public_preview_snowflake_supports_delta_sharing/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button>
 
 
+<a id="post-18"></a>
+
 ### 18. Integrating the Rust Delta Kernel into ClickHouse
 
-2026-05-22 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tkns3w/integrating_the_rust_delta_kernel_into_clickhouse/)
+2026-05-22 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tkns3w/integrating_the_rust_delta_kernel_into_clickhouse/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://delta.io/blog/2026-05-18-integrating-the-rust-delta-kernel-into-clickhouse/>
 
 
+<a id="post-19"></a>
+
 ### 19. Delta Lake Community Sync: IcebergCompatV3 in delta-kernel-rs
 
-2026-05-21 · u/PrideDense2206 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tjzwtx/delta_lake_community_sync_icebergcompatv3_in/)
+2026-05-21 · u/PrideDense2206 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tjzwtx/delta_lake_community_sync_icebergcompatv3_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/CMlFnzWSPY8?si=J6qihxdF9O5LSxMb>
 
@@ -309,9 +347,11 @@ Link: <https://youtu.be/CMlFnzWSPY8?si=J6qihxdF9O5LSxMb>
 >
 > Want to get involved in the project? Reach out on the Delta Users slack (https://go.delta.io/slack) through the #delta-kernel channel.
 
+<a id="post-20"></a>
+
 ### 20. Recording is live for the Delta Lake Community Meetup - 5/19
 
-2026-05-19 · u/PrideDense2206 · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1thtr20/recording_is_live_for_the_delta_lake_community/)
+2026-05-19 · u/PrideDense2206 · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1thtr20/recording_is_live_for_the_delta_lake_community/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/live/dmg2uwEd6Ow?si=7xDAxK6osnKLMIuq>
 
@@ -338,15 +378,19 @@ Link: <https://www.youtube.com/live/dmg2uwEd6Ow?si=7xDAxK6osnKLMIuq>
 >
 > If you want to test out catalog managed tables with Apache Spark, please take a look at our [unitycatalog-playground](https://github.com/open-lakehouse/unitycatalog-playground) project.
 
+<a id="post-21"></a>
+
 ### 21. What are the best books/content to learn about Delta Lake ?
 
-2026-05-18 · u/dataengineer95 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tgyqk3/what_are_the_best_bookscontent_to_learn_about/)
+2026-05-18 · u/dataengineer95 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tgyqk3/what_are_the_best_bookscontent_to_learn_about/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-22"></a>
+
 ### 22. Delta Lake Community Meetup
 
-2026-05-15 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tdn26n/delta_lake_community_meetup/)
+2026-05-15 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tdn26n/delta_lake_community_meetup/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://luma.com/deltalake-0519>
 
@@ -356,17 +400,21 @@ Link: <https://luma.com/deltalake-0519>
 >
 > https://github.com/delta-io/delta/discussions/6705
 
+<a id="post-23"></a>
+
 ### 23. Delta Grows Up: Writes, Unity Catalog and Time Travel
 
-2026-05-14 · u/PrideDense2206 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tclv67/delta_grows_up_writes_unity_catalog_and_time/)
+2026-05-14 · u/PrideDense2206 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1tclv67/delta_grows_up_writes_unity_catalog_and_time/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://duckdb.org/2026/05/07/delta-uc-updates.html>
 
 > **TL;DR: DuckDB's Delta and Unity Catalog extensions shed their experimental tags — now with writes, Unity Catalog and time travel support.**
 
+<a id="post-24"></a>
+
 ### 24. What are Delta Lake Catalog-Managed Tables?
 
-2026-05-08 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1t7h9qw/what_are_delta_lake_catalogmanaged_tables/)
+2026-05-08 · u/PrideDense2206 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1t7h9qw/what_are_delta_lake_catalogmanaged_tables/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/qb9hi3xhnyzg1>
 
@@ -444,9 +492,11 @@ Link: <https://v.redd.it/qb9hi3xhnyzg1>
 >
 > To learn more about [Catalog Managed Tables / Catalog Commits, check out our video on youtube](https://youtu.be/ZuVSLeOkSI0?si=HjzrR5AhH1WB0j_n).
 
+<a id="post-25"></a>
+
 ### 25. We've Released Delta 4.2.
 
-2026-04-29 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1szcjxq/weve_released_delta_42/)
+2026-04-29 · u/PrideDense2206 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1szcjxq/weve_released_delta_42/) · [↑ back to the list](#last-50-posts)
 
 > The Delta Lake 4 journey has marked a shift from the file system to the catalog. Each release has deepened support for [catalog-managed tables](https://delta.io/blog/2026-02-02-delta-catalog-managed-tables/) and extended that design philosophy across the Delta ecosystem. Delta Lake 4.2 advances on two fronts: Kernel expands outward with a new Apache [Flink](https://flink.apache.org/) connector, streaming improvements, and broader data type support. Catalog-managed tables also mature with atomic operations, schema evolution from SQL, and synchronous UniForm.
 >
@@ -505,9 +555,11 @@ Link: <https://v.redd.it/qb9hi3xhnyzg1>
 >
 > This is just a few highlights from the release, for the full blog post take a look at https://delta.io/blog/2026-04-17-delta-4-2-released/.
 
+<a id="post-26"></a>
+
 ### 26. Delta Lake Community Meeting
 
-2026-04-21 · u/PrideDense2206 · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1sre3eq/delta_lake_community_meeting/)
+2026-04-21 · u/PrideDense2206 · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1sre3eq/delta_lake_community_meeting/) · [↑ back to the list](#last-50-posts)
 
 > Join us for this first 𝗗𝗲𝗹𝘁𝗮 𝗟𝗮𝗸𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝗲𝗲𝘁𝘂𝗽 of 2026 on Tuesday, April 21 at 9AM PT! 🚀
 >
@@ -527,16 +579,20 @@ Link: <https://v.redd.it/qb9hi3xhnyzg1>
 >
 > https://luma.com/deltalake-0426
 
+<a id="post-27"></a>
+
 ### 27. Polars in Python \| Kernel err : Generic LocalFileSystem err: Unable to Convert URL "file://Delta
 
-2025-12-07 · u/brainlagged_engineer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1pgenht/polars_in_python_kernel_err_generic/)
+2025-12-07 · u/brainlagged_engineer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1pgenht/polars_in_python_kernel_err_generic/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Python/comments/1pgelz3/polars_in_python_kernel_error_generic/>
 
 
+<a id="post-28"></a>
+
 ### 28. Can I store timestamps with nanosecond precision in delta lake tables?
 
-2025-12-06 · u/frithjof_v · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1pfn3fm/can_i_store_timestamps_with_nanosecond_precision/)
+2025-12-06 · u/frithjof_v · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1pfn3fm/can_i_store_timestamps_with_nanosecond_precision/) · [↑ back to the list](#last-50-posts)
 
 > I got an error when trying to write a pandas dataframe containing a datetime column with nanosecond precision to a delta lake table using write_deltalake (https://delta-io.github.io/delta-rs/usage/writing/)
 >
@@ -544,16 +600,20 @@ Link: </r/Python/comments/1pgelz3/polars_in_python_kernel_error_generic/>
 >
 > Thanks!
 
+<a id="post-29"></a>
+
 ### 29. Consuming the Delta Lake Change Data Feed for CDC
 
-2025-08-21 · u/sdairs_ch · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1mw6zd3/consuming_the_delta_lake_change_data_feed_for_cdc/)
+2025-08-21 · u/sdairs_ch · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1mw6zd3/consuming_the_delta_lake_change_data_feed_for_cdc/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 
 
+<a id="post-30"></a>
+
 ### 30. SCD-2 Without Merge
 
-2025-03-16 · u/dead_pool1036 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1jcnznq/scd2_without_merge/)
+2025-03-16 · u/dead_pool1036 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1jcnznq/scd2_without_merge/) · [↑ back to the list](#last-50-posts)
 
 > I want to perform a SCD Type 2 on a delta table where primary key cannot be defined.
 >
@@ -567,9 +627,11 @@ Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 >
 > I am looking for a better way as current approach will not give accurate data when someone reads the data while update and Insert operations are happening
 
+<a id="post-31"></a>
+
 ### 31. Any tips on how to update a Delta Lake table that contains NULL values in the source table?
 
-2025-02-22 · u/stijlkoch · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1iv7rlg/any_tips_on_how_to_update_a_delta_lake_table_that/)
+2025-02-22 · u/stijlkoch · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1iv7rlg/any_tips_on_how_to_update_a_delta_lake_table_that/) · [↑ back to the list](#last-50-posts)
 
 > I am using `.whenMatchedUpdateAll()` and `.whenNotMatchedInsertAll()` from Spark. It was working well for updating the rows, but now that I have NULL values in the source table, it is not updating.
 >
@@ -591,9 +653,11 @@ Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 > |2|B|
 > |3 (Old Value, before NULL)|C (Old Value, before NULL)|
 
+<a id="post-32"></a>
+
 ### 32. Inconsistency between manual Vacuuming and automatic Delta Log deletion in Delta Lake?
 
-2024-11-23 · u/frithjof_v · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1gxx2ok/inconsistency_between_manual_vacuuming_and/)
+2024-11-23 · u/frithjof_v · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1gxx2ok/inconsistency_between_manual_vacuuming_and/) · [↑ back to the list](#last-50-posts)
 
 > Vacuuming's default retention period is 7 days. We can choose to adjust the retention period. Vacuuming is something we need to do actively. 
 >
@@ -607,9 +671,11 @@ Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 >
 > Thanks!
 
+<a id="post-33"></a>
+
 ### 33. Use dynamodb locking with external S3 compatible storage
 
-2024-11-21 · u/Disastrous-Camp979 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1gwbelp/use_dynamodb_locking_with_external_s3_compatible/)
+2024-11-21 · u/Disastrous-Camp979 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1gwbelp/use_dynamodb_locking_with_external_s3_compatible/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -626,15 +692,19 @@ Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 >
 > Thanks in advance !
 
+<a id="post-34"></a>
+
 ### 34. pg_mooncake: columnstore table in Postgres with iceberg/delta support
 
-2024-11-01 · u/InternetFit7518 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1ghdgmj/pg_mooncake_columnstore_table_in_postgres_with/)
+2024-11-01 · u/InternetFit7518 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1ghdgmj/pg_mooncake_columnstore_table_in_postgres_with/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-35"></a>
+
 ### 35. Transaction Logs
 
-2024-09-20 · u/MysteriousBee1110 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1fl96in/transaction_logs/)
+2024-09-20 · u/MysteriousBee1110 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1fl96in/transaction_logs/) · [↑ back to the list](#last-50-posts)
 
 > Very Simple,
 >
@@ -719,16 +789,20 @@ Link: <https://clickhouse.com/blog/consuming-delta-lake-change-data-feed-cdc>
 >
 > The bold part confuses me.
 
+<a id="post-36"></a>
+
 ### 36. HOWTO: Write to Delta Lake from Flink SQL
 
-2024-09-04 · u/rmoff · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1f8p88z/howto_write_to_delta_lake_from_flink_sql/)
+2024-09-04 · u/rmoff · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1f8p88z/howto_write_to_delta_lake_from_flink_sql/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_sql/>
 
 
+<a id="post-37"></a>
+
 ### 37. Can Delta Lake tables point to only parts of a Parquet file?
 
-2024-08-31 · u/frithjof_v · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1f5veea/can_delta_lake_tables_point_to_only_parts_of_a/)
+2024-08-31 · u/frithjof_v · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1f5veea/can_delta_lake_tables_point_to_only_parts_of_a/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I have a question about Delta Lake tables. 
 >
@@ -738,9 +812,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > I'm trying to get a clearer understanding about Delta Lake tables.
 
+<a id="post-38"></a>
+
 ### 38. Concurrent writes to delta lake with Python and Rust
 
-2024-08-13 · u/Beneficial_Ad1809 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1ergu9d/concurrent_writes_to_delta_lake_with_python_and/)
+2024-08-13 · u/Beneficial_Ad1809 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1ergu9d/concurrent_writes_to_delta_lake_with_python_and/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to write to a single delta lake table on my filesystem with two programs silmultaneously.  When I launch the second process, the initial process is terminated with no error message.  This happens with both Python and RUST.  The table is partitioned by process name and flagged as an "append".  
 >
@@ -770,9 +846,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > tks!!
 
+<a id="post-39"></a>
+
 ### 39. New Delta Sharing Clojure Client
 
-2024-06-06 · u/caleb-amperity · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1d9s688/new_delta_sharing_clojure_client/)
+2024-06-06 · u/caleb-amperity · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1d9s688/new_delta_sharing_clojure_client/) · [↑ back to the list](#last-50-posts)
 
 > Amperity just contributed an implementation of Delta Sharing for Clojure, if you're into that sort of thing.
 >
@@ -780,9 +858,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > [https://github.com/delta-io/delta-sharing?tab=readme-ov-file#the-community](https://github.com/delta-io/delta-sharing?tab=readme-ov-file#the-community)
 
+<a id="post-40"></a>
+
 ### 40. Backup Strategy for Delta Tables in ADLS
 
-2024-04-27 · u/dead_pool1036 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1cegoq5/backup_strategy_for_delta_tables_in_adls/)
+2024-04-27 · u/dead_pool1036 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1cegoq5/backup_strategy_for_delta_tables_in_adls/) · [↑ back to the list](#last-50-posts)
 
 > I have a nearly 200 delta tables to be backed up into a seperate storage account of cool tier in Azure Storage.. This needs to be automated to run once every month.
 >
@@ -795,29 +875,37 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > Please let me know if there are any alternate ways...
 
+<a id="post-41"></a>
+
 ### 41. OLTP connector for deltalake? like trino(presto)
 
-2024-03-15 · u/dkvkxm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1bf8sq1/oltp_connector_for_deltalake_like_trinopresto/)
+2024-03-15 · u/dkvkxm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1bf8sq1/oltp_connector_for_deltalake_like_trinopresto/) · [↑ back to the list](#last-50-posts)
 
 > Is there an option to utilize DeltaLake as an OLTP solution with a SQL connector? Many of our current applications are written in Node.js and are seeking a seamless (drop-in) replacement for MySQL-dependent code. While Trino seems promising, it's primarily intended for OLAP tasks.
 >
 > Hence, I'm curious to learn if Trino is suitable for serving as an OLTP platform backed by DeltaLake, or if there are alternative solutions similar to Trino designed specifically for OLTP operations.
 
+<a id="post-42"></a>
+
 ### 42. Looking for Delta Lake users!
 
-2024-01-23 · u/Dizzy_Fruit5948 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/19duft7/looking_for_delta_lake_users/)
+2024-01-23 · u/Dizzy_Fruit5948 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/19duft7/looking_for_delta_lake_users/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. User ID Stitching With Spark Graphframes and Delta
 
-2023-12-12 · u/MitzuIstvan · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/18gpuei/user_id_stitching_with_spark_graphframes_and_delta/)
+2023-12-12 · u/MitzuIstvan · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/18gpuei/user_id_stitching_with_spark_graphframes_and_delta/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. ACID transactions in delta lake
 
-2023-11-23 · u/shamansk · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1821sk8/acid_transactions_in_delta_lake/)
+2023-11-23 · u/shamansk · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/1821sk8/acid_transactions_in_delta_lake/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I am using Azure Databricks with Python Notebooks to transform data and store them in one delta lake table. There are multiple such notebooks run through Azure DataFactory run in parallel, therefore it might happen that even 15 different pyspark processes will try to write data to one delta lake table.
 >
@@ -825,25 +913,31 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > What can I do to make sure that data of all processes writing in same time will be stored in the ACID way?
 
+<a id="post-45"></a>
+
 ### 45. Best way to handle NULL columns when writing out Delta Lake using delta-rs
 
-2023-10-08 · u/kentmaxwell · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/173dpsz/best_way_to_handle_null_columns_when_writing_out/)
+2023-10-08 · u/kentmaxwell · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/173dpsz/best_way_to_handle_null_columns_when_writing_out/) · [↑ back to the list](#last-50-posts)
 
 > I constructed a Python process that queries run various queries against a SQL Server database and writes the outcome to the Delta Lake format.  I am using the delta-rs library to achieve this.  The process runs the SQL query using the pandas library and then writes the dataframe to Delta Lake using the `write_deltalake` method.  Sometimes all data being returned from the query in a particular column is NULL.  When this happens, the `write_deltalake` method throws an error about writing a NULL column.
 >
 > Is there a way I can manage this, without changing the SQL query?  For example, can I make an adjustment to the data in the data frame before calling `write_deltalake` function?  I know I can find all the columns using `df.columns[df.isnull().all()]`.  Or is there a better method?
 
+<a id="post-46"></a>
+
 ### 46. Dimension tables in delta lake
 
-2023-10-06 · u/purpleMash1 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/171rmo0/dimension_tables_in_delta_lake/)
+2023-10-06 · u/purpleMash1 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/171rmo0/dimension_tables_in_delta_lake/) · [↑ back to the list](#last-50-posts)
 
 > I'm building out a Medallion architecture style Data Lakehouse in Fabric and working on design of the Silver and Gold layers. We want to create standard dimension tables such as those you would make in on prem sql ie have an auto increment I'd field as a primary key which is a foreign key in related fact tables.
 >
 > I don't think delta tables can support ID columns like a SQL table. Has anyone got experience of this?
 
+<a id="post-47"></a>
+
 ### 47. Delete specific Delta Lake table versions?
 
-2023-09-20 · u/bsg75 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/16nx54h/delete_specific_delta_lake_table_versions/)
+2023-09-20 · u/bsg75 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/16nx54h/delete_specific_delta_lake_table_versions/) · [↑ back to the list](#last-50-posts)
 
 > Noting that time travel in Delta is not meant to be a permanent history, is there a method to delete specific versions of a table to keep fewer long term history versions for time travel?
 >
@@ -851,9 +945,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > This could be implemented by a process that saves off history in non-Delta Parquet tables, but keeping everything in one place would be preferable.
 
+<a id="post-48"></a>
+
 ### 48. Change data feed
 
-2023-08-04 · u/alienus333 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/15i0vci/change_data_feed/)
+2023-08-04 · u/alienus333 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/15i0vci/change_data_feed/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks,
 >
@@ -883,9 +979,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > Without dropping the columns BUT with enabling ChangeDataFeed I got an error, that the columns are ambiguous or something. I coulnd't read from the Lake because of that.
 
+<a id="post-49"></a>
+
 ### 49. SCD2 in delta with version management
 
-2023-08-04 · u/ElectricalCold4537 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/15hmrdo/scd2_in_delta_with_version_management/)
+2023-08-04 · u/ElectricalCold4537 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/15hmrdo/scd2_in_delta_with_version_management/) · [↑ back to the list](#last-50-posts)
 
 > I have financial use case where i have to get 15 years of data to invest from legacy cold storage and implement scd2. 
 >
@@ -897,9 +995,11 @@ Link: </r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_
 >
 > What is the best framework to maintain and track version history in delta lake
 
+<a id="post-50"></a>
+
 ### 50. Databricks Uniform (Universal Format) Delta Lake 3.0
 
-2023-07-14 · u/BitAccomplished3461 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/14zhpyv/databricks_uniform_universal_format_delta_lake_30/)
+2023-07-14 · u/BitAccomplished3461 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DeltaLake/comments/14zhpyv/databricks_uniform_universal_format_delta_lake_30/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=iyGgH8UN0K8&feature=share>
 

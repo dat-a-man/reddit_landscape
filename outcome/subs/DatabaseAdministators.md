@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [How to connect Oracle Database 19c from host machine to VirtualBox guest machine ?](https://www.reddit.com/r/DatabaseAdministators/comments/1xozb4m/how_to_connect_oracle_database_19c_from_host/) | u/Last-Bonus6548 | — | reddit.com | 1 | 3 | live | — |
-| 2 | 2026-11-05 | [Introducing a database intelligence system, that reads only schema no data leakage.](https://www.reddit.com/r/DatabaseAdministators/comments/1xovmgs/introducing_a_database_intelligence_system_that/) | u/Brilliant-Asak619 | — | reddit.com | 0 | 0 | content_takedown | — |
-| 3 | 2026-11-03 | [Get-SqlSafe: Free SQL Server security assessment tool for on-premises, AWS RDS, and Azure SQL Database](https://www.reddit.com/r/DatabaseAdministators/comments/1xn4snw/getsqlsafe_free_sql_server_security_assessment/) | u/SQL_US | — | i.redd.it | 2 | 0 | live | — |
-| 4 | 2026-11-03 | [Remote Healthcare IT/Database Management](https://www.reddit.com/r/DatabaseAdministators/comments/1xmxw5v/remote_healthcare_itdatabase_management/) | u/steve_the_woodsman | — | reddit.com | 1 | 0 | live | — |
-| 5 | 2026-11-02 | [How often do job postings name the keywords ChatGPT suggests?](https://www.reddit.com/r/DatabaseAdministators/comments/1xlzjw8/how_often_do_job_postings_name_the_keywords/) | u/Enough_Charge2845 | — | text | 1 | 0 | live | — |
-| 6 | 2026-11-02 | [Which database and which azure db instance need for 4000 rps writes?](https://www.reddit.com/r/DatabaseAdministators/comments/1xlxdyv/which_database_and_which_azure_db_instance_need/) | u/iNdramal | — | text | 2 | 3 | live | — |
-| 7 | 2026-11-02 | [Oracle DBA 5 years of experience referral request](https://www.reddit.com/r/DatabaseAdministators/comments/1xlq46g/oracle_dba_5_years_of_experience_referral_request/) | u/Tasty-Barnacle1558 | — | text | 0 | 3 | live | — |
-| 8 | 2026-10-31 | [Which database is ideal??](https://www.reddit.com/r/DatabaseAdministators/comments/1xkfpv8/which_database_is_ideal/) | u/rakshith_r | — | text | 4 | 22 | live | — |
-| 9 | 2026-10-31 | [DBA recruiter](https://www.reddit.com/r/DatabaseAdministators/comments/1xjwnmy/dba_recruiter/) | u/Better-Credit6701 | — | text | 9 | 9 | live | — |
-| 10 | 2026-10-30 | [I've spent over 10 months independently building a database intelligence platform. I'm now exploring a comple…](https://www.reddit.com/r/DatabaseAdministators/comments/1xjean5/ive_spent_over_10_months_independently_building_a/) | u/The_DIA_202012 | — | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-10-27 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](https://www.reddit.com/r/DatabaseAdministators/comments/1xgmtzp/im_building_an_opensource_postgresql_backup_and/) | u/josiahben_ | — | reddit.com | 4 | 2 | live | — |
-| 12 | 2026-10-26 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](https://www.reddit.com/r/DatabaseAdministators/comments/1xgbba6/im_building_an_opensource_postgresql_backup_and/) | u/josiahben_ | — | text | 2 | 0 | approved | — |
-| 13 | 2026-10-26 | [dbForge AI Assistant Overview for SQL Developers](https://www.reddit.com/r/DatabaseAdministators/comments/1xfsdfe/dbforge_ai_assistant_overview_for_sql_developers/) | u/dbForge | — | youtube.com | 1 | 0 | live | — |
-| 14 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](https://www.reddit.com/r/DatabaseAdministators/comments/1xee3oe/preserving_data_meaning_and_relationships_during/) | u/darzahra | — | reddit.com | 1 | 0 | live | — |
-| 15 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](https://www.reddit.com/r/DatabaseAdministators/comments/1xee1ps/preserving_data_meaning_and_relationships_during/) | u/darzahra | — | reddit.com | 1 | 0 | live | — |
-| 16 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preserving_data_meaning_and_relationships_during/) | u/darzahra | — | text | 1 | 0 | live | — |
-| 17 | 2026-10-24 | [GitHub - srdzank/WinSQLite-Editor: Official home of the SQLite-Editor](https://www.reddit.com/r/DatabaseAdministators/comments/1xe0s2d/github_srdzankwinsqliteeditor_official_home_of/) | u/SrdzanK3 | — | github.com | 3 | 0 | live | — |
-| 18 | 2026-10-23 | [Survey regarding cyber security awareness among database professionals](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc7yo/survey_regarding_cyber_security_awareness_among/) | u/Think-Frame9760 | — | reddit.com | 1 | 0 | live | — |
-| 19 | 2026-10-23 | [Survey regarding cyber security awareness among database professionals](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc56s/survey_regarding_cyber_security_awareness_among/) | u/Think-Frame9760 | — | text | 1 | 0 | live | — |
-| 20 | 2026-10-23 | [pg_whoisactive — from PostgreSQL symptoms to a possible cause, faster](https://www.reddit.com/r/DatabaseAdministators/comments/1xd6wrd/pg_whoisactive_from_postgresql_symptoms_to_a/) | u/RomanKosenko | — | i.redd.it | 1 | 0 | approved | — |
-| 21 | 2026-10-22 | [I missed Robo 3T (Mongorobo), so here is Rustyrobo](https://www.reddit.com/r/DatabaseAdministators/comments/1xctndz/i_missed_robo_3t_mongorobo_so_here_is_rustyrobo/) | u/LocalAd6428 | — | i.redd.it | 1 | 0 | live | — |
-| 22 | 2026-10-22 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](https://www.reddit.com/r/DatabaseAdministators/comments/1xcjhqp/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/) | u/lory030507 | — | text | 2 | 0 | live | — |
-| 23 | 2026-10-22 | [Can I get a database administrator job without relevant experience?](https://www.reddit.com/r/DatabaseAdministators/comments/1xcja0z/can_i_get_a_database_administrator_job_without/) | u/Substantial-Award906 | — | text | 7 | 15 | live | — |
-| 24 | 2026-10-22 | [Founding Systems / Database Engineer](https://www.reddit.com/r/DatabaseAdministators/comments/1xcaevv/founding_systems_database_engineer/) | u/IITBase | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 25 | 2026-10-21 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](https://www.reddit.com/r/DatabaseAdministators/comments/1xbyv4e/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/) | u/lorypelli | — | reddit.com | 1 | 0 | live | — |
-| 26 | 2026-10-21 | [Why did the database administrator leave his wife?](https://www.reddit.com/r/DatabaseAdministators/comments/1xbqkky/why_did_the_database_administrator_leave_his_wife/) | u/Unhappy-Procedure746 | — | reddit.com | 1 | 1 | live | — |
-| 27 | 2026-10-20 | [Introducing Daxon v2 — Data Intelligence Inside VS Code](https://www.reddit.com/r/DatabaseAdministators/comments/1xaooxx/introducing_daxon_v2_data_intelligence_inside_vs/) | u/loftytechlabs | — | text | 1 | 0 | spam-filtered | — |
-| 28 | 2026-10-20 | [Is it still worth investing in Oracle skills in the AI era?](https://www.reddit.com/r/DatabaseAdministators/comments/1xakcw7/is_it_still_worth_investing_in_oracle_skills_in/) | u/jeerkutta | — | reddit.com | 1 | 0 | live | — |
-| 29 | 2026-10-17 | [Switched my undergrad CRUD project to Neon - so much better than my old Postgres setup](https://www.reddit.com/r/DatabaseAdministators/comments/1x8f3j2/switched_my_undergrad_crud_project_to_neon_so/) | u/ashandhanushka | — | text | 1 | 0 | spam-filtered | — |
-| 30 | 2026-10-17 | [Donnée, Base de données, SGBD, Serveur de base de données, Système de base de données, Serveur de données.](https://www.reddit.com/r/DatabaseAdministators/comments/1x7w78o/donnée_base_de_données_sgbd_serveur_de_base_de/) | u/NOTICSTRIVER | — | i.redd.it | 0 | 1 | live | — |
-| 31 | 2026-10-16 | [Learn Python and SQL at an Affordable Price 🐍💻](https://www.reddit.com/r/DatabaseAdministators/comments/1x79n0o/learn_python_and_sql_at_an_affordable_price/) | u/SalmanKhanbjnr | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 32 | 2026-10-16 | [Help me choose domain dba or sde](https://www.reddit.com/r/DatabaseAdministators/comments/1x776jy/help_me_choose_domain_dba_or_sde/) | u/anish0094 | — | text | 5 | 15 | live | — |
-| 33 | 2026-10-15 | [MariaDB Foundation: Reproducing and Validating MDEV‑37992 with TAF](https://www.reddit.com/r/DatabaseAdministators/comments/1x6hhse/mariadb_foundation_reproducing_and_validating/) | u/Mindless-Piece-47 | — | i.redd.it | 1 | 1 | live | — |
-| 34 | 2026-10-15 | [Measuring the "Bullwhip Effect" in multi-tier databases: Why immediate retries spike PostgreSQL variance by 4…](https://www.reddit.com/r/DatabaseAdministators/comments/1x686q2/measuring_the_bullwhip_effect_in_multitier/) | u/Key-Impress5490 | — | text | 6 | 1 | live | — |
-| 35 | 2026-10-14 | [Looking for Oracle DBA Opportunities \| 2 Years of Experience \| Referral Request](https://www.reddit.com/r/DatabaseAdministators/comments/1x5jl85/looking_for_oracle_dba_opportunities_2_years_of/) | u/PressureCooked_ | — | — | 0 | 0 | live | — |
-| 36 | 2026-10-14 | [OAS 7.6 installation RCU.bat Issue (with fmw 19c db)](https://www.reddit.com/r/DatabaseAdministators/comments/1x5gje8/oas_76_installation_rcubat_issue_with_fmw_19c_db/) | u/NiteshDragneel | — | i.redd.it | 2 | 0 | live | — |
-| 37 | 2026-10-13 | [SQL Server 2022: infinite recompile (error 2814, reason 20) of a PSP variant after restoring a database under…](https://www.reddit.com/r/DatabaseAdministators/comments/1x4v3nk/sql_server_2022_infinite_recompile_error_2814/) | u/ozzie1527 | — | — | 2 | 0 | live | — |
-| 38 | 2026-10-12 | [How are you streaming data from on-prem databases to the cloud without downtime?](https://www.reddit.com/r/DatabaseAdministators/comments/1x40xfc/how_are_you_streaming_data_from_onprem_databases/) | u/Front-Cheetah-4980 | — | text | 5 | 11 | live | — |
-| 39 | 2026-10-11 | [Anyone successfully transitioned to software engineer roles after spending 10 years into database administrat…](https://www.reddit.com/r/DatabaseAdministators/comments/1x3aaod/anyone_successfully_transitioned_to_software/) | u/Key-Addition2906 | — | text | 6 | 8 | live | — |
-| 40 | 2026-10-11 | [GUI vs CLI for DBMS](https://www.reddit.com/r/DatabaseAdministators/comments/1x35o1d/gui_vs_cli_for_dbms/) | u/vnm27 | — | text | 12 | 16 | spam-filtered | — |
-| 41 | 2026-10-11 | [I built an Android app to manage Supabase on the go](https://www.reddit.com/r/DatabaseAdministators/comments/1x32irh/i_built_an_android_app_to_manage_supabase_on_the/) | u/pixelfinst | — | — | 1 | 0 | live | — |
-| 42 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q267/i_didnt_want_to_pay_for_a_license_just_to_query/) | u/gq1988 | — | v.redd.it | 1 | 1 | live | — |
-| 43 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q02x/i_didnt_want_to_pay_for_a_license_just_to_query/) | u/gq1988 | — | text | 1 | 0 | deleted by author | — |
-| 44 | 2026-10-10 | [MySQL Workbench 26.7](https://www.reddit.com/r/DatabaseAdministators/comments/1x2jfw1/mysql_workbench_267/) | u/justintxdave | — | — | 1 | 0 | live | — |
-| 45 | 2026-10-10 | [Azure SQL Help - Urgent](https://www.reddit.com/r/DatabaseAdministators/comments/1x2hk8l/azure_sql_help_urgent/) | u/n8e-polymath-007 | — | text | 0 | 3 | live | — |
-| 46 | 2026-10-10 | [Major DBA task looking for advice](https://www.reddit.com/r/DatabaseAdministators/comments/1x22uxi/major_dba_task_looking_for_advice/) | u/Animator-Asleep | — | — | 3 | 0 | live | — |
-| 47 | 2026-10-09 | [A database client that is fast and easy on your memory](https://www.reddit.com/r/DatabaseAdministators/comments/1x1lx5t/a_database_client_that_is_fast_and_easy_on_your/) | u/Alcolopa_ | — | text | 3 | 12 | live | — |
-| 48 | 2026-10-09 | [Building shakazulu](https://www.reddit.com/r/DatabaseAdministators/comments/1x1jtz2/building_shakazulu/) | u/TurbulentFlatworm537 | — | — | 1 | 0 | removed by mod | — |
-| 49 | 2026-10-09 | [Database Backup](https://www.reddit.com/r/DatabaseAdministators/comments/1x1b6bb/database_backup/) | u/CLI0019 | — | — | 1 | 0 | live | — |
-| 50 | 2026-10-08 | [Is it worth learning Oracle SQL DBA in 2026? Or something else is better?](https://www.reddit.com/r/DatabaseAdministators/comments/1x0r9b4/is_it_worth_learning_oracle_sql_dba_in_2026_or/) | u/SecureLikeTroy | — | text | 2 | 4 | deleted by author | — |
+| 1 | 2026-11-06 | [How to connect Oracle Database 19c from host machine to VirtualBox guest machine ?](#post-1) | u/Last-Bonus6548 | — | reddit.com | 1 | 3 | live | — |
+| 2 | 2026-11-05 | [Introducing a database intelligence system, that reads only schema no data leakage.](#post-2) | u/Brilliant-Asak619 | — | reddit.com | 0 | 0 | content_takedown | — |
+| 3 | 2026-11-03 | [Get-SqlSafe: Free SQL Server security assessment tool for on-premises, AWS RDS, and Azure SQL Database](#post-3) | u/SQL_US | — | i.redd.it | 2 | 0 | live | — |
+| 4 | 2026-11-03 | [Remote Healthcare IT/Database Management](#post-4) | u/steve_the_woodsman | — | reddit.com | 1 | 0 | live | — |
+| 5 | 2026-11-02 | [How often do job postings name the keywords ChatGPT suggests?](#post-5) | u/Enough_Charge2845 | — | text | 1 | 0 | live | — |
+| 6 | 2026-11-02 | [Which database and which azure db instance need for 4000 rps writes?](#post-6) | u/iNdramal | — | text | 2 | 3 | live | — |
+| 7 | 2026-11-02 | [Oracle DBA 5 years of experience referral request](#post-7) | u/Tasty-Barnacle1558 | — | text | 0 | 3 | live | — |
+| 8 | 2026-10-31 | [Which database is ideal??](#post-8) | u/rakshith_r | — | text | 4 | 22 | live | — |
+| 9 | 2026-10-31 | [DBA recruiter](#post-9) | u/Better-Credit6701 | — | text | 9 | 9 | live | — |
+| 10 | 2026-10-30 | [I've spent over 10 months independently building a database intelligence platform. I'm now exploring a comple…](#post-10) | u/The_DIA_202012 | — | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-10-27 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](#post-11) | u/josiahben_ | — | reddit.com | 4 | 2 | live | — |
+| 12 | 2026-10-26 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](#post-12) | u/josiahben_ | — | text | 2 | 0 | approved | — |
+| 13 | 2026-10-26 | [dbForge AI Assistant Overview for SQL Developers](#post-13) | u/dbForge | — | youtube.com | 1 | 0 | live | — |
+| 14 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](#post-14) | u/darzahra | — | reddit.com | 1 | 0 | live | — |
+| 15 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](#post-15) | u/darzahra | — | reddit.com | 1 | 0 | live | — |
+| 16 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](#post-16) | u/darzahra | — | text | 1 | 0 | live | — |
+| 17 | 2026-10-24 | [GitHub - srdzank/WinSQLite-Editor: Official home of the SQLite-Editor](#post-17) | u/SrdzanK3 | — | github.com | 3 | 0 | live | — |
+| 18 | 2026-10-23 | [Survey regarding cyber security awareness among database professionals](#post-18) | u/Think-Frame9760 | — | reddit.com | 1 | 0 | live | — |
+| 19 | 2026-10-23 | [Survey regarding cyber security awareness among database professionals](#post-19) | u/Think-Frame9760 | — | text | 1 | 0 | live | — |
+| 20 | 2026-10-23 | [pg_whoisactive — from PostgreSQL symptoms to a possible cause, faster](#post-20) | u/RomanKosenko | — | i.redd.it | 1 | 0 | approved | — |
+| 21 | 2026-10-22 | [I missed Robo 3T (Mongorobo), so here is Rustyrobo](#post-21) | u/LocalAd6428 | — | i.redd.it | 1 | 0 | live | — |
+| 22 | 2026-10-22 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](#post-22) | u/lory030507 | — | text | 2 | 0 | live | — |
+| 23 | 2026-10-22 | [Can I get a database administrator job without relevant experience?](#post-23) | u/Substantial-Award906 | — | text | 7 | 15 | live | — |
+| 24 | 2026-10-22 | [Founding Systems / Database Engineer](#post-24) | u/IITBase | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 25 | 2026-10-21 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](#post-25) | u/lorypelli | — | reddit.com | 1 | 0 | live | — |
+| 26 | 2026-10-21 | [Why did the database administrator leave his wife?](#post-26) | u/Unhappy-Procedure746 | — | reddit.com | 1 | 1 | live | — |
+| 27 | 2026-10-20 | [Introducing Daxon v2 — Data Intelligence Inside VS Code](#post-27) | u/loftytechlabs | — | text | 1 | 0 | spam-filtered | — |
+| 28 | 2026-10-20 | [Is it still worth investing in Oracle skills in the AI era?](#post-28) | u/jeerkutta | — | reddit.com | 1 | 0 | live | — |
+| 29 | 2026-10-17 | [Switched my undergrad CRUD project to Neon - so much better than my old Postgres setup](#post-29) | u/ashandhanushka | — | text | 1 | 0 | spam-filtered | — |
+| 30 | 2026-10-17 | [Donnée, Base de données, SGBD, Serveur de base de données, Système de base de données, Serveur de données.](#post-30) | u/NOTICSTRIVER | — | i.redd.it | 0 | 1 | live | — |
+| 31 | 2026-10-16 | [Learn Python and SQL at an Affordable Price 🐍💻](#post-31) | u/SalmanKhanbjnr | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 32 | 2026-10-16 | [Help me choose domain dba or sde](#post-32) | u/anish0094 | — | text | 5 | 15 | live | — |
+| 33 | 2026-10-15 | [MariaDB Foundation: Reproducing and Validating MDEV‑37992 with TAF](#post-33) | u/Mindless-Piece-47 | — | i.redd.it | 1 | 1 | live | — |
+| 34 | 2026-10-15 | [Measuring the "Bullwhip Effect" in multi-tier databases: Why immediate retries spike PostgreSQL variance by 4…](#post-34) | u/Key-Impress5490 | — | text | 6 | 1 | live | — |
+| 35 | 2026-10-14 | [Looking for Oracle DBA Opportunities \| 2 Years of Experience \| Referral Request](#post-35) | u/PressureCooked_ | — | — | 0 | 0 | live | — |
+| 36 | 2026-10-14 | [OAS 7.6 installation RCU.bat Issue (with fmw 19c db)](#post-36) | u/NiteshDragneel | — | i.redd.it | 2 | 0 | live | — |
+| 37 | 2026-10-13 | [SQL Server 2022: infinite recompile (error 2814, reason 20) of a PSP variant after restoring a database under…](#post-37) | u/ozzie1527 | — | — | 2 | 0 | live | — |
+| 38 | 2026-10-12 | [How are you streaming data from on-prem databases to the cloud without downtime?](#post-38) | u/Front-Cheetah-4980 | — | text | 5 | 11 | live | — |
+| 39 | 2026-10-11 | [Anyone successfully transitioned to software engineer roles after spending 10 years into database administrat…](#post-39) | u/Key-Addition2906 | — | text | 6 | 8 | live | — |
+| 40 | 2026-10-11 | [GUI vs CLI for DBMS](#post-40) | u/vnm27 | — | text | 12 | 16 | spam-filtered | — |
+| 41 | 2026-10-11 | [I built an Android app to manage Supabase on the go](#post-41) | u/pixelfinst | — | — | 1 | 0 | live | — |
+| 42 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](#post-42) | u/gq1988 | — | v.redd.it | 1 | 1 | live | — |
+| 43 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](#post-43) | u/gq1988 | — | text | 1 | 0 | deleted by author | — |
+| 44 | 2026-10-10 | [MySQL Workbench 26.7](#post-44) | u/justintxdave | — | — | 1 | 0 | live | — |
+| 45 | 2026-10-10 | [Azure SQL Help - Urgent](#post-45) | u/n8e-polymath-007 | — | text | 0 | 3 | live | — |
+| 46 | 2026-10-10 | [Major DBA task looking for advice](#post-46) | u/Animator-Asleep | — | — | 3 | 0 | live | — |
+| 47 | 2026-10-09 | [A database client that is fast and easy on your memory](#post-47) | u/Alcolopa_ | — | text | 3 | 12 | live | — |
+| 48 | 2026-10-09 | [Building shakazulu](#post-48) | u/TurbulentFlatworm537 | — | — | 1 | 0 | removed by mod | — |
+| 49 | 2026-10-09 | [Database Backup](#post-49) | u/CLI0019 | — | — | 1 | 0 | live | — |
+| 50 | 2026-10-08 | [Is it worth learning Oracle SQL DBA in 2026? Or something else is better?](#post-50) | u/SecureLikeTroy | — | text | 2 | 4 | deleted by author | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,41 +86,45 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9 | 2026-10-31 | [DBA recruiter](https://www.reddit.com/r/DatabaseAdministators/comments/1xjwnmy/dba_recruiter/) | u/Better-Credit6701 | — | text | 9 | 9 | live |
-| 23 | 2026-10-22 | [Can I get a database administrator job without relevant experience?](https://www.reddit.com/r/DatabaseAdministators/comments/1xcja0z/can_i_get_a_database_administrator_job_without/) | u/Substantial-Award906 | — | text | 7 | 15 | live |
-| 39 | 2026-10-11 | [Anyone successfully transitioned to software engineer roles after spending 10 years into database administrat…](https://www.reddit.com/r/DatabaseAdministators/comments/1x3aaod/anyone_successfully_transitioned_to_software/) | u/Key-Addition2906 | — | text | 6 | 8 | live |
-| 34 | 2026-10-15 | [Measuring the "Bullwhip Effect" in multi-tier databases: Why immediate retries spike PostgreSQL variance by 4…](https://www.reddit.com/r/DatabaseAdministators/comments/1x686q2/measuring_the_bullwhip_effect_in_multitier/) | u/Key-Impress5490 | — | text | 6 | 1 | live |
-| 32 | 2026-10-16 | [Help me choose domain dba or sde](https://www.reddit.com/r/DatabaseAdministators/comments/1x776jy/help_me_choose_domain_dba_or_sde/) | u/anish0094 | — | text | 5 | 15 | live |
-| 38 | 2026-10-12 | [How are you streaming data from on-prem databases to the cloud without downtime?](https://www.reddit.com/r/DatabaseAdministators/comments/1x40xfc/how_are_you_streaming_data_from_onprem_databases/) | u/Front-Cheetah-4980 | — | text | 5 | 11 | live |
-| 8 | 2026-10-31 | [Which database is ideal??](https://www.reddit.com/r/DatabaseAdministators/comments/1xkfpv8/which_database_is_ideal/) | u/rakshith_r | — | text | 4 | 22 | live |
-| 11 | 2026-10-27 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](https://www.reddit.com/r/DatabaseAdministators/comments/1xgmtzp/im_building_an_opensource_postgresql_backup_and/) | u/josiahben_ | — | reddit.com | 4 | 2 | live |
-| 17 | 2026-10-24 | [GitHub - srdzank/WinSQLite-Editor: Official home of the SQLite-Editor](https://www.reddit.com/r/DatabaseAdministators/comments/1xe0s2d/github_srdzankwinsqliteeditor_official_home_of/) | u/SrdzanK3 | — | github.com | 3 | 0 | live |
-| 6 | 2026-11-02 | [Which database and which azure db instance need for 4000 rps writes?](https://www.reddit.com/r/DatabaseAdministators/comments/1xlxdyv/which_database_and_which_azure_db_instance_need/) | u/iNdramal | — | text | 2 | 3 | live |
-| 3 | 2026-11-03 | [Get-SqlSafe: Free SQL Server security assessment tool for on-premises, AWS RDS, and Azure SQL Database](https://www.reddit.com/r/DatabaseAdministators/comments/1xn4snw/getsqlsafe_free_sql_server_security_assessment/) | u/SQL_US | — | i.redd.it | 2 | 0 | live |
-| 12 | 2026-10-26 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](https://www.reddit.com/r/DatabaseAdministators/comments/1xgbba6/im_building_an_opensource_postgresql_backup_and/) | u/josiahben_ | — | text | 2 | 0 | approved |
-| 22 | 2026-10-22 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](https://www.reddit.com/r/DatabaseAdministators/comments/1xcjhqp/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/) | u/lory030507 | — | text | 2 | 0 | live |
-| 36 | 2026-10-14 | [OAS 7.6 installation RCU.bat Issue (with fmw 19c db)](https://www.reddit.com/r/DatabaseAdministators/comments/1x5gje8/oas_76_installation_rcubat_issue_with_fmw_19c_db/) | u/NiteshDragneel | — | i.redd.it | 2 | 0 | live |
-| 37 | 2026-10-13 | [SQL Server 2022: infinite recompile (error 2814, reason 20) of a PSP variant after restoring a database under…](https://www.reddit.com/r/DatabaseAdministators/comments/1x4v3nk/sql_server_2022_infinite_recompile_error_2814/) | u/ozzie1527 | — | — | 2 | 0 | live |
-| 1 | 2026-11-06 | [How to connect Oracle Database 19c from host machine to VirtualBox guest machine ?](https://www.reddit.com/r/DatabaseAdministators/comments/1xozb4m/how_to_connect_oracle_database_19c_from_host/) | u/Last-Bonus6548 | — | reddit.com | 1 | 3 | live |
-| 26 | 2026-10-21 | [Why did the database administrator leave his wife?](https://www.reddit.com/r/DatabaseAdministators/comments/1xbqkky/why_did_the_database_administrator_leave_his_wife/) | u/Unhappy-Procedure746 | — | reddit.com | 1 | 1 | live |
-| 33 | 2026-10-15 | [MariaDB Foundation: Reproducing and Validating MDEV‑37992 with TAF](https://www.reddit.com/r/DatabaseAdministators/comments/1x6hhse/mariadb_foundation_reproducing_and_validating/) | u/Mindless-Piece-47 | — | i.redd.it | 1 | 1 | live |
-| 42 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q267/i_didnt_want_to_pay_for_a_license_just_to_query/) | u/gq1988 | — | v.redd.it | 1 | 1 | live |
-| 4 | 2026-11-03 | [Remote Healthcare IT/Database Management](https://www.reddit.com/r/DatabaseAdministators/comments/1xmxw5v/remote_healthcare_itdatabase_management/) | u/steve_the_woodsman | — | reddit.com | 1 | 0 | live |
+| 9 | 2026-10-31 | [DBA recruiter](#post-9) | u/Better-Credit6701 | — | text | 9 | 9 | live |
+| 23 | 2026-10-22 | [Can I get a database administrator job without relevant experience?](#post-23) | u/Substantial-Award906 | — | text | 7 | 15 | live |
+| 39 | 2026-10-11 | [Anyone successfully transitioned to software engineer roles after spending 10 years into database administrat…](#post-39) | u/Key-Addition2906 | — | text | 6 | 8 | live |
+| 34 | 2026-10-15 | [Measuring the "Bullwhip Effect" in multi-tier databases: Why immediate retries spike PostgreSQL variance by 4…](#post-34) | u/Key-Impress5490 | — | text | 6 | 1 | live |
+| 32 | 2026-10-16 | [Help me choose domain dba or sde](#post-32) | u/anish0094 | — | text | 5 | 15 | live |
+| 38 | 2026-10-12 | [How are you streaming data from on-prem databases to the cloud without downtime?](#post-38) | u/Front-Cheetah-4980 | — | text | 5 | 11 | live |
+| 8 | 2026-10-31 | [Which database is ideal??](#post-8) | u/rakshith_r | — | text | 4 | 22 | live |
+| 11 | 2026-10-27 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](#post-11) | u/josiahben_ | — | reddit.com | 4 | 2 | live |
+| 17 | 2026-10-24 | [GitHub - srdzank/WinSQLite-Editor: Official home of the SQLite-Editor](#post-17) | u/SrdzanK3 | — | github.com | 3 | 0 | live |
+| 6 | 2026-11-02 | [Which database and which azure db instance need for 4000 rps writes?](#post-6) | u/iNdramal | — | text | 2 | 3 | live |
+| 3 | 2026-11-03 | [Get-SqlSafe: Free SQL Server security assessment tool for on-premises, AWS RDS, and Azure SQL Database](#post-3) | u/SQL_US | — | i.redd.it | 2 | 0 | live |
+| 12 | 2026-10-26 | [I'm building an open-source PostgreSQL backup and recovery tool and looking for testers](#post-12) | u/josiahben_ | — | text | 2 | 0 | approved |
+| 22 | 2026-10-22 | [JDER — un editor gratuito per i tuoi diagrammi di informatica](#post-22) | u/lory030507 | — | text | 2 | 0 | live |
+| 36 | 2026-10-14 | [OAS 7.6 installation RCU.bat Issue (with fmw 19c db)](#post-36) | u/NiteshDragneel | — | i.redd.it | 2 | 0 | live |
+| 37 | 2026-10-13 | [SQL Server 2022: infinite recompile (error 2814, reason 20) of a PSP variant after restoring a database under…](#post-37) | u/ozzie1527 | — | — | 2 | 0 | live |
+| 1 | 2026-11-06 | [How to connect Oracle Database 19c from host machine to VirtualBox guest machine ?](#post-1) | u/Last-Bonus6548 | — | reddit.com | 1 | 3 | live |
+| 26 | 2026-10-21 | [Why did the database administrator leave his wife?](#post-26) | u/Unhappy-Procedure746 | — | reddit.com | 1 | 1 | live |
+| 33 | 2026-10-15 | [MariaDB Foundation: Reproducing and Validating MDEV‑37992 with TAF](#post-33) | u/Mindless-Piece-47 | — | i.redd.it | 1 | 1 | live |
+| 42 | 2026-10-10 | [I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It i…](#post-42) | u/gq1988 | — | v.redd.it | 1 | 1 | live |
+| 4 | 2026-11-03 | [Remote Healthcare IT/Database Management](#post-4) | u/steve_the_woodsman | — | reddit.com | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. How to connect Oracle Database 19c from host machine to VirtualBox guest machine ?
 
-2026-11-06 · u/Last-Bonus6548 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xozb4m/how_to_connect_oracle_database_19c_from_host/)
+2026-11-06 · u/Last-Bonus6548 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xozb4m/how_to_connect_oracle_database_19c_from_host/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SQL/comments/1xozaq4/how_to_connect_oracle_database_19c_from_host/>
 
 
+<a id="post-2"></a>
+
 ### 2. Introducing a database intelligence system, that reads only schema no data leakage.
 
-2026-11-05 · u/Brilliant-Asak619 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xovmgs/introducing_a_database_intelligence_system_that/)
+2026-11-05 · u/Brilliant-Asak619 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xovmgs/introducing_a_database_intelligence_system_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xovmgs>
 
@@ -139,9 +143,11 @@ Link: <https://www.reddit.com/gallery/1xovmgs>
 > 2. **The Daily Moat: Live Drift Watcher & CI/CD Migration Guardian (**`ssdo watch` **&** `ssdo guardian`**)** For active engineering teams, drift between local, staging, and production is a constant source of outages. The CLI watcher catches uncommitted DDL changes in real time, and the CI gatekeeper flags breaking changes (e.g. adding `NOT NULL` without default, dropping referenced keys) directly inside GitHub pull requests.
 > 3. **The Immediate Hook: Interactive Schema Mapping & Heuristic Link Inference** When onboarding developers or consulting on legacy monoliths, schemas rarely have all foreign keys declared in DDL. SSDO’s inference engine analyzes naming habits, types, and uniqueness to draw inferred relationship maps with confidence scores, saving teams dozens of hours of manual reverse engineering.
 
+<a id="post-3"></a>
+
 ### 3. Get-SqlSafe: Free SQL Server security assessment tool for on-premises, AWS RDS, and Azure SQL Database
 
-2026-11-03 · u/SQL_US · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xn4snw/getsqlsafe_free_sql_server_security_assessment/)
+2026-11-03 · u/SQL_US · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xn4snw/getsqlsafe_free_sql_server_security_assessment/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tmjflca0ngzh1.png>
 
@@ -165,16 +171,20 @@ Link: <https://i.redd.it/tmjflca0ngzh1.png>
 >
 > [https://github.com/Sarpedon-Quality-Lab/sql-security-community-scripts](https://github.com/Sarpedon-Quality-Lab/sql-security-community-scripts)
 
+<a id="post-4"></a>
+
 ### 4. Remote Healthcare IT/Database Management
 
-2026-11-03 · u/steve_the_woodsman · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xmxw5v/remote_healthcare_itdatabase_management/)
+2026-11-03 · u/steve_the_woodsman · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xmxw5v/remote_healthcare_itdatabase_management/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SLEDcontracting/comments/1xmxsik/remote_healthcare_itdatabase_management/>
 
 
+<a id="post-5"></a>
+
 ### 5. How often do job postings name the keywords ChatGPT suggests?
 
-2026-11-02 · u/Enough_Charge2845 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlzjw8/how_often_do_job_postings_name_the_keywords/)
+2026-11-02 · u/Enough_Charge2845 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlzjw8/how_often_do_job_postings_name_the_keywords/) · [↑ back to the list](#last-50-posts)
 
 > A keyword list from ChatGPT comes from general knowledge and says nothing about how many postings it rests on. A plausible suggestion is not the same as a common one.
 >
@@ -182,9 +192,11 @@ Link: <https://www.reddit.com/r/SLEDcontracting/comments/1xmxsik/remote_healthca
 >
 > ChatGPT is the better tool for rewriting a bullet. The counts for seven roles (3,518 postings) and the method are on [https://resumefitting.com](https://resumefitting.com) matching is by term, so a missed synonym counts as absent.
 
+<a id="post-6"></a>
+
 ### 6. Which database and which azure db instance need for 4000 rps writes?
 
-2026-11-02 · u/iNdramal · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlxdyv/which_database_and_which_azure_db_instance_need/)
+2026-11-02 · u/iNdramal · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlxdyv/which_database_and_which_azure_db_instance_need/) · [↑ back to the list](#last-50-posts)
 
 > I have IoT project and it have 40 locations, each have 10 devices and each have 10 parameters so it is 40 x 10 x 10 = 4,000 data. So it recodes every 5mins, so it each 5mins it writes 4000 recodes to database. 
 >
@@ -192,43 +204,55 @@ Link: <https://www.reddit.com/r/SLEDcontracting/comments/1xmxsik/remote_healthca
 >
 > Assumes reads are 500 rps.
 
+<a id="post-7"></a>
+
 ### 7. Oracle DBA 5 years of experience referral request
 
-2026-11-02 · u/Tasty-Barnacle1558 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlq46g/oracle_dba_5_years_of_experience_referral_request/)
+2026-11-02 · u/Tasty-Barnacle1558 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xlq46g/oracle_dba_5_years_of_experience_referral_request/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-8"></a>
+
 ### 8. Which database is ideal??
 
-2026-10-31 · u/rakshith_r · score 4 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xkfpv8/which_database_is_ideal/)
+2026-10-31 · u/rakshith_r · score 4 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xkfpv8/which_database_is_ideal/) · [↑ back to the list](#last-50-posts)
 
 > I am working on a idea where i will click pics of agri land and store and my requirement is to store 10000 photos  
 > Which database will be feasible and i am looking for free onces for now
 
+<a id="post-9"></a>
+
 ### 9. DBA recruiter
 
-2026-10-31 · u/Better-Credit6701 · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xjwnmy/dba_recruiter/)
+2026-10-31 · u/Better-Credit6701 · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xjwnmy/dba_recruiter/) · [↑ back to the list](#last-50-posts)
 
 > I live in Arkansas but work remotely for a company in Florida. Whenever there is a DBA opening at the state government offices, I get slammed with phone calls from recruiters. I got 25 calls, texts and emails by 10 am. So did my coworkers that live in Florida for the job in Arkansas.
 >
 > So, how many here get bugged by recruiters?
 
+<a id="post-10"></a>
+
 ### 10. I've spent over 10 months independently building a database intelligence platform. I'm now exploring a complete technology acquisition
 
-2026-10-30 · u/The_DIA_202012 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xjean5/ive_spent_over_10_months_independently_building_a/)
+2026-10-30 · u/The_DIA_202012 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xjean5/ive_spent_over_10_months_independently_building_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. I'm building an open-source PostgreSQL backup and recovery tool and looking for testers
 
-2026-10-27 · u/josiahben_ · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xgmtzp/im_building_an_opensource_postgresql_backup_and/)
+2026-10-27 · u/josiahben_ · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xgmtzp/im_building_an_opensource_postgresql_backup_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/postgres/comments/1xgmtrx/im_building_an_opensource_postgresql_backup_and/>
 
 
+<a id="post-12"></a>
+
 ### 12. I'm building an open-source PostgreSQL backup and recovery tool and looking for testers
 
-2026-10-26 · u/josiahben_ · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xgbba6/im_building_an_opensource_postgresql_backup_and/)
+2026-10-26 · u/josiahben_ · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xgbba6/im_building_an_opensource_postgresql_backup_and/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -262,16 +286,20 @@ Link: <https://www.reddit.com/r/postgres/comments/1xgmtrx/im_building_an_opensou
 >
 > I'm interested in both feedback on Acrynite and the problems people actually face with PostgreSQL backup and recovery.
 
+<a id="post-13"></a>
+
 ### 13. dbForge AI Assistant Overview for SQL Developers
 
-2026-10-26 · u/dbForge · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xfsdfe/dbforge_ai_assistant_overview_for_sql_developers/)
+2026-10-26 · u/dbForge · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xfsdfe/dbforge_ai_assistant_overview_for_sql_developers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=ItjSsLQxTFs>
 
 
+<a id="post-14"></a>
+
 ### 14. Preserving data meaning and relationships during system migrations: how to test it?
 
-2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xee3oe/preserving_data_meaning_and_relationships_during/)
+2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xee3oe/preserving_data_meaning_and_relationships_during/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_and_relationships_during/>
 
@@ -287,9 +315,11 @@ Link: <https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_an
 >
 > I'm not asking for a free study, just for advice on how to verify the idea seriously first. Thanks!
 
+<a id="post-15"></a>
+
 ### 15. Preserving data meaning and relationships during system migrations: how to test it?
 
-2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xee1ps/preserving_data_meaning_and_relationships_during/)
+2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xee1ps/preserving_data_meaning_and_relationships_during/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preserving_data_meaning_and_relationships_during/>
 
@@ -305,9 +335,11 @@ Link: <https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preservin
 >
 > I'm not asking for a free study, just for advice on how to verify the idea seriously first. Thanks!
 
+<a id="post-16"></a>
+
 ### 16. Preserving data meaning and relationships during system migrations: how to test it?
 
-2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preserving_data_meaning_and_relationships_during/)
+2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preserving_data_meaning_and_relationships_during/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I'm studying a business tool to preserve data continuity (not only the data, but also relationships, context and meaning) when companies change systems or formats.
 >
@@ -319,23 +351,29 @@ Link: <https://www.reddit.com/r/DatabaseAdministators/comments/1xedzrn/preservin
 >
 > I'm not asking for a free study, just for advice on how to verify the idea seriously first. Thanks!
 
+<a id="post-17"></a>
+
 ### 17. GitHub - srdzank/WinSQLite-Editor: Official home of the SQLite-Editor
 
-2026-10-24 · u/SrdzanK3 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xe0s2d/github_srdzankwinsqliteeditor_official_home_of/)
+2026-10-24 · u/SrdzanK3 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xe0s2d/github_srdzankwinsqliteeditor_official_home_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/srdzank/WinSQLite-Editor>
 
 
+<a id="post-18"></a>
+
 ### 18. Survey regarding cyber security awareness among database professionals
 
-2026-10-23 · u/Think-Frame9760 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc7yo/survey_regarding_cyber_security_awareness_among/)
+2026-10-23 · u/Think-Frame9760 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc7yo/survey_regarding_cyber_security_awareness_among/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/databasedevelopment/comments/1xdc7sq/survey_regarding_cyber_security_awareness_among/>
 
 
+<a id="post-19"></a>
+
 ### 19. Survey regarding cyber security awareness among database professionals
 
-2026-10-23 · u/Think-Frame9760 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc56s/survey_regarding_cyber_security_awareness_among/)
+2026-10-23 · u/Think-Frame9760 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xdc56s/survey_regarding_cyber_security_awareness_among/) · [↑ back to the list](#last-50-posts)
 
 > Hi Everyone! 
 >
@@ -357,9 +395,11 @@ Link: <https://www.reddit.com/r/databasedevelopment/comments/1xdc7sq/survey_rega
 >
 > Nandhini R
 
+<a id="post-20"></a>
+
 ### 20. pg_whoisactive — from PostgreSQL symptoms to a possible cause, faster
 
-2026-10-23 · u/RomanKosenko · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xd6wrd/pg_whoisactive_from_postgresql_symptoms_to_a/)
+2026-10-23 · u/RomanKosenko · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xd6wrd/pg_whoisactive_from_postgresql_symptoms_to_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/w9d84j4gv5xh1.gif>
 
@@ -408,16 +448,20 @@ Link: <https://i.redd.it/w9d84j4gv5xh1.gif>
 >
 > Any feedback or suggestions are welcome.
 
+<a id="post-21"></a>
+
 ### 21. I missed Robo 3T (Mongorobo), so here is Rustyrobo
 
-2026-10-22 · u/LocalAd6428 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xctndz/i_missed_robo_3t_mongorobo_so_here_is_rustyrobo/)
+2026-10-22 · u/LocalAd6428 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xctndz/i_missed_robo_3t_mongorobo_so_here_is_rustyrobo/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/i1vcs2qju2xh1.png>
 
 
+<a id="post-22"></a>
+
 ### 22. JDER — un editor gratuito per i tuoi diagrammi di informatica
 
-2026-10-22 · u/lory030507 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcjhqp/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/)
+2026-10-22 · u/lory030507 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcjhqp/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/) · [↑ back to the list](#last-50-posts)
 
 > Stai studiando basi di dati, UML o logica digitale? Ho sviluppato JDER, un editor desktop multipiattaforma per creare diagrammi Entità-Relazione, schemi logici, diagrammi delle classi, casi d'uso e di sequenza, oltre a circuiti logici simulabili.
 >
@@ -429,9 +473,11 @@ Link: <https://i.redd.it/i1vcs2qju2xh1.png>
 >
 > Feedback e suggerimenti sono benvenuti!
 
+<a id="post-23"></a>
+
 ### 23. Can I get a database administrator job without relevant experience?
 
-2026-10-22 · u/Substantial-Award906 · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcja0z/can_i_get_a_database_administrator_job_without/)
+2026-10-22 · u/Substantial-Award906 · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcja0z/can_i_get_a_database_administrator_job_without/) · [↑ back to the list](#last-50-posts)
 
 > So, I (21F) studies computer science at university, and would like to dive into database administration. I will be taking loads of courses and certificates to prepare myself beforehand. Is it possible to get a database administrator job in the UK with that?
 >
@@ -439,50 +485,64 @@ Link: <https://i.redd.it/i1vcs2qju2xh1.png>
 >
 > Thankss.
 
+<a id="post-24"></a>
+
 ### 24. Founding Systems / Database Engineer
 
-2026-10-22 · u/IITBase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcaevv/founding_systems_database_engineer/)
+2026-10-22 · u/IITBase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xcaevv/founding_systems_database_engineer/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/uyuop8xfjywh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. JDER — un editor gratuito per i tuoi diagrammi di informatica
 
-2026-10-21 · u/lorypelli · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xbyv4e/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/)
+2026-10-21 · u/lorypelli · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xbyv4e/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SQL/comments/1xbyuvo/jder_un_editor_gratuito_per_i_tuoi_diagrammi_di/>
 
 
+<a id="post-26"></a>
+
 ### 26. Why did the database administrator leave his wife?
 
-2026-10-21 · u/Unhappy-Procedure746 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xbqkky/why_did_the_database_administrator_leave_his_wife/)
+2026-10-21 · u/Unhappy-Procedure746 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xbqkky/why_did_the_database_administrator_leave_his_wife/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Jokes/comments/1wzrqgb/why_did_the_database_administrator_leave_his_wife/>
 
 
+<a id="post-27"></a>
+
 ### 27. Introducing Daxon v2 — Data Intelligence Inside VS Code
 
-2026-10-20 · u/loftytechlabs · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xaooxx/introducing_daxon_v2_data_intelligence_inside_vs/)
+2026-10-20 · u/loftytechlabs · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xaooxx/introducing_daxon_v2_data_intelligence_inside_vs/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. Is it still worth investing in Oracle skills in the AI era?
 
-2026-10-20 · u/jeerkutta · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xakcw7/is_it_still_worth_investing_in_oracle_skills_in/)
+2026-10-20 · u/jeerkutta · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1xakcw7/is_it_still_worth_investing_in_oracle_skills_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xakcna/is_it_still_worth_investing_in_oracle_skills_in/>
 
 
+<a id="post-29"></a>
+
 ### 29. Switched my undergrad CRUD project to Neon - so much better than my old Postgres setup
 
-2026-10-17 · u/ashandhanushka · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x8f3j2/switched_my_undergrad_crud_project_to_neon_so/)
+2026-10-17 · u/ashandhanushka · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x8f3j2/switched_my_undergrad_crud_project_to_neon_so/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Donnée, Base de données, SGBD, Serveur de base de données, Système de base de données, Serveur de données.
 
-2026-10-17 · u/NOTICSTRIVER · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x7w78o/donnée_base_de_données_sgbd_serveur_de_base_de/)
+2026-10-17 · u/NOTICSTRIVER · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x7w78o/donnée_base_de_données_sgbd_serveur_de_base_de/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/qhx3kq0j6xvh1.jpeg>
 
@@ -528,16 +588,20 @@ Link: <https://i.redd.it/qhx3kq0j6xvh1.jpeg>
 >
 > \#Data #Database #PostgreSQL #DBA #DataEngineering #VeilleTechnologique #Apprentissage
 
+<a id="post-31"></a>
+
 ### 31. Learn Python and SQL at an Affordable Price 🐍💻
 
-2026-10-16 · u/SalmanKhanbjnr · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x79n0o/learn_python_and_sql_at_an_affordable_price/)
+2026-10-16 · u/SalmanKhanbjnr · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x79n0o/learn_python_and_sql_at_an_affordable_price/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SQL/comments/1x79mvs/learn_python_and_sql_at_an_affordable_price/>
 
 
+<a id="post-32"></a>
+
 ### 32. Help me choose domain dba or sde
 
-2026-10-16 · u/anish0094 · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x776jy/help_me_choose_domain_dba_or_sde/)
+2026-10-16 · u/anish0094 · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x776jy/help_me_choose_domain_dba_or_sde/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -565,16 +629,20 @@ Link: <https://www.reddit.com/r/SQL/comments/1x79mvs/learn_python_and_sql_at_an_
 >
 > **What would you recommend considering long-term career growth, salary potential, job opportunities, and work-life balance?**
 
+<a id="post-33"></a>
+
 ### 33. MariaDB Foundation: Reproducing and Validating MDEV‑37992 with TAF
 
-2026-10-15 · u/Mindless-Piece-47 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x6hhse/mariadb_foundation_reproducing_and_validating/)
+2026-10-15 · u/Mindless-Piece-47 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x6hhse/mariadb_foundation_reproducing_and_validating/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tm6t4ozzrlvh1.png>
 
 
+<a id="post-34"></a>
+
 ### 34. Measuring the "Bullwhip Effect" in multi-tier databases: Why immediate retries spike PostgreSQL variance by 48% (and how token-bucket budgets fix it)
 
-2026-10-15 · u/Key-Impress5490 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x686q2/measuring_the_bullwhip_effect_in_multitier/)
+2026-10-15 · u/Key-Impress5490 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x686q2/measuring_the_bullwhip_effect_in_multitier/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -622,9 +690,11 @@ Link: <https://i.redd.it/tm6t4ozzrlvh1.png>
 >
 > Any technical critique or suggestions on how to improve the paper's rigor would be hugely appreciated!
 
+<a id="post-35"></a>
+
 ### 35. Looking for Oracle DBA Opportunities \| 2 Years of Experience \| Referral Request
 
-2026-10-14 · u/PressureCooked_ · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x5jl85/looking_for_oracle_dba_opportunities_2_years_of/)
+2026-10-14 · u/PressureCooked_ · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x5jl85/looking_for_oracle_dba_opportunities_2_years_of/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/u_PressureCooked_/comments/1x5jkk4/looking_for_oracle_dba_opportunities_2_years_of/>
 
@@ -640,24 +710,30 @@ Link: </r/u_PressureCooked_/comments/1x5jkk4/looking_for_oracle_dba_opportunitie
 > Notice period: Can be shared upon request  
 > If anyone has relevant openings, referral opportunities, or suggestions, please feel free to comment or DM me.
 
+<a id="post-36"></a>
+
 ### 36. OAS 7.6 installation RCU.bat Issue (with fmw 19c db)
 
-2026-10-14 · u/NiteshDragneel · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x5gje8/oas_76_installation_rcubat_issue_with_fmw_19c_db/)
+2026-10-14 · u/NiteshDragneel · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x5gje8/oas_76_installation_rcubat_issue_with_fmw_19c_db/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0rx6is66ncvh1.jpeg>
 
 > any oracle DBA can check please
 
+<a id="post-37"></a>
+
 ### 37. SQL Server 2022: infinite recompile (error 2814, reason 20) of a PSP variant after restoring a database under a different database_id
 
-2026-10-13 · u/ozzie1527 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x4v3nk/sql_server_2022_infinite_recompile_error_2814/)
+2026-10-13 · u/ozzie1527 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x4v3nk/sql_server_2022_infinite_recompile_error_2814/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/SQLServer/comments/1x4v2zn/sql_server_2022_infinite_recompile_error_2814/>
 
 
+<a id="post-38"></a>
+
 ### 38. How are you streaming data from on-prem databases to the cloud without downtime?
 
-2026-10-12 · u/Front-Cheetah-4980 · score 5 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x40xfc/how_are_you_streaming_data_from_onprem_databases/)
+2026-10-12 · u/Front-Cheetah-4980 · score 5 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x40xfc/how_are_you_streaming_data_from_onprem_databases/) · [↑ back to the list](#last-50-posts)
 
 > I'm helping plan a cloud migration and the one requirement nobody will compromise on is zero downtime.
 >
@@ -665,30 +741,38 @@ Link: </r/SQLServer/comments/1x4v2zn/sql_server_2022_infinite_recompile_error_28
 >
 > How have you handled this ''streaming data?''
 
+<a id="post-39"></a>
+
 ### 39. Anyone successfully transitioned to software engineer roles after spending 10 years into database administration especially SQL SERVER ? Would love to learn from experiences and what was the preparation look like!
 
-2026-10-11 · u/Key-Addition2906 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x3aaod/anyone_successfully_transitioned_to_software/)
+2026-10-11 · u/Key-Addition2906 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x3aaod/anyone_successfully_transitioned_to_software/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-40"></a>
+
 ### 40. GUI vs CLI for DBMS
 
-2026-10-11 · u/vnm27 · score 12 · 16 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x35o1d/gui_vs_cli_for_dbms/)
+2026-10-11 · u/vnm27 · score 12 · 16 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x35o1d/gui_vs_cli_for_dbms/) · [↑ back to the list](#last-50-posts)
 
 > In my computer class, we are currently studying MySQL. My question—or rather, my take—is: isn’t a GUI better for working with a DBMS? For instance, if you are dealing with hundreds of tables and thousands or lakhs of entries, wouldn't a GUI be easier and more efficient to manage?    
 > I asked my teacher, but I don't think he quite understood my question. He said that regular users don't need to care about the command line because they have the front-end GUI to view tables, while database administrators work via the command line. When I asked again whether a GUI wouldn't still be the easier and more efficient option, he simply said, "No, CLI is better."    
 > Now, I’m someone who uses the command line myself, but I believe it isn’t strictly about GUI vs. CLI; it's about whatever makes the workflow easier and more efficient. For example, if I want to update my system, install software, or check running processes, I use the command line because it's fast and simple. However, if I want to manage dotfiles across multiple nested directories, bulk rename files, or browse through photos, I prefer a graphical file manager.
 
+<a id="post-41"></a>
+
 ### 41. I built an Android app to manage Supabase on the go
 
-2026-10-11 · u/pixelfinst · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x32irh/i_built_an_android_app_to_manage_supabase_on_the/)
+2026-10-11 · u/pixelfinst · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x32irh/i_built_an_android_app_to_manage_supabase_on_the/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Supabase/comments/1x327bu/i_built_an_android_app_to_manage_supabase_on_the/>
 
 
+<a id="post-42"></a>
+
 ### 42. I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It idles at 69 MB of RAM.
 
-2026-10-10 · u/gq1988 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q267/i_didnt_want_to_pay_for_a_license_just_to_query/)
+2026-10-10 · u/gq1988 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q267/i_didnt_want_to_pay_for_a_license_just_to_query/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/pwi49nvkfpuh1>
 
@@ -718,9 +802,11 @@ Link: <https://v.redd.it/pwi49nvkfpuh1>
 >
 > I'd love feedback, especially on what would make you switch from your current client.
 
+<a id="post-43"></a>
+
 ### 43. I didn't want to pay for a license just to query my databases, so I built a free, native client in Rust. It idles at 69 MB of RAM.
 
-2026-10-10 · u/gq1988 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q02x/i_didnt_want_to_pay_for_a_license_just_to_query/)
+2026-10-10 · u/gq1988 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2q02x/i_didnt_want_to_pay_for_a_license_just_to_query/) · [↑ back to the list](#last-50-posts)
 
 > I wanted two things from a database client: no license to pay, and a simple tool to look at my data without a heavy IDE eating my RAM. I couldn't find both, so I built my own: **Savoia Studio**.
 >
@@ -748,16 +834,20 @@ Link: <https://v.redd.it/pwi49nvkfpuh1>
 >
 > I'd love feedback, especially on what would make you switch from your current client.
 
+<a id="post-44"></a>
+
 ### 44. MySQL Workbench 26.7
 
-2026-10-10 · u/justintxdave · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2jfw1/mysql_workbench_267/)
+2026-10-10 · u/justintxdave · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2jfw1/mysql_workbench_267/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/mysql/comments/1x2jfrn/mysql_workbench_267/>
 
 
+<a id="post-45"></a>
+
 ### 45. Azure SQL Help - Urgent
 
-2026-10-10 · u/n8e-polymath-007 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2hk8l/azure_sql_help_urgent/)
+2026-10-10 · u/n8e-polymath-007 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x2hk8l/azure_sql_help_urgent/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -779,17 +869,21 @@ Link: </r/mysql/comments/1x2jfrn/mysql_workbench_267/>
 >
 > PS: Application is thick client (yes I know) so no metrics can be pulled from endpoint devices. Don't ask why.
 
+<a id="post-46"></a>
+
 ### 46. Major DBA task looking for advice
 
-2026-10-10 · u/Animator-Asleep · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x22uxi/major_dba_task_looking_for_advice/)
+2026-10-10 · u/Animator-Asleep · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x22uxi/major_dba_task_looking_for_advice/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/SQL/comments/1x22tw0/major_dba_task_looking_for_advice/>
 
 > I just found this community as a suggestion and am open to any advice. Please forgive me in advance.
 
+<a id="post-47"></a>
+
 ### 47. A database client that is fast and easy on your memory
 
-2026-10-09 · u/Alcolopa_ · score 3 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1lx5t/a_database_client_that_is_fast_and_easy_on_your/)
+2026-10-09 · u/Alcolopa_ · score 3 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1lx5t/a_database_client_that_is_fast_and_easy_on_your/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone,
 >
@@ -801,9 +895,11 @@ Link: </r/SQL/comments/1x22tw0/major_dba_task_looking_for_advice/>
 >
 > [Dboard Website](https://alcolopa.github.io/dboard)
 
+<a id="post-48"></a>
+
 ### 48. Building shakazulu
 
-2026-10-09 · u/TurbulentFlatworm537 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1jtz2/building_shakazulu/)
+2026-10-09 · u/TurbulentFlatworm537 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1jtz2/building_shakazulu/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Shakazululang/comments/1x0w163/building_shakazulu/>
 
@@ -813,16 +909,20 @@ Link: </r/Shakazululang/comments/1x0w163/building_shakazulu/>
 >
 > Shakazulu is a project in research/design stage, thats why am asking the experts.
 
+<a id="post-49"></a>
+
 ### 49. Database Backup
 
-2026-10-09 · u/CLI0019 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1b6bb/database_backup/)
+2026-10-09 · u/CLI0019 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x1b6bb/database_backup/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/SystemAdministration/comments/1x1b65w/database_backup/>
 
 
+<a id="post-50"></a>
+
 ### 50. Is it worth learning Oracle SQL DBA in 2026? Or something else is better?
 
-2026-10-08 · u/SecureLikeTroy · score 2 · 4 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x0r9b4/is_it_worth_learning_oracle_sql_dba_in_2026_or/)
+2026-10-08 · u/SecureLikeTroy · score 2 · 4 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DatabaseAdministators/comments/1x0r9b4/is_it_worth_learning_oracle_sql_dba_in_2026_or/) · [↑ back to the list](#last-50-posts)
 
 > I have an Udemy course in Oracle SQL  DBA by Ahmed Baraka. But I do not think learning it is worthwhile time commitment. I will need 2-3 months to learn it from the core. I personally believe, it will be a better idea to learn AI engineering from Chip Huyen's book.
 >

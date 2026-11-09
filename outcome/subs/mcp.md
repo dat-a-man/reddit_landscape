@@ -38,56 +38,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [520 technical leaders: only 8% use a single model provider, but 53% say integrations or MCP servers are among…](https://www.reddit.com/r/mcp/comments/1xq0hdo/520_technical_leaders_only_8_use_a_single_model/) | u/ombre-ai | discussion | text | 4 | 3 | live | — |
-| 2 | 2026-11-07 | [an MCP server for asking another agent for a second opinion, great for people who work with agents](https://www.reddit.com/r/mcp/comments/1xpzxvm/an_mcp_server_for_asking_another_agent_for_a/) | u/Revolutionary-Bet-58 | showcase | text | 1 | 4 | live | — |
-| 3 | 2026-11-07 | [Your agent can call every tool on an MCP server, including the destructive ones. I built a gateway that gates…](https://www.reddit.com/r/mcp/comments/1xpzp50/your_agent_can_call_every_tool_on_an_mcp_server/) | u/Aoutix | question | text | 0 | 6 | spam-filtered | — |
-| 4 | 2026-11-07 | [built an open-source MCP server so Cursor/Claude can search Reddit & pull comment trees live (no Reddit API k…](https://www.reddit.com/r/mcp/comments/1xpzbhd/built_an_opensource_mcp_server_so_cursorclaude/) | u/WonderfulWave7060 | — | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-11-07 | [SSH MCP Server – Enables AI assistants to execute commands an](https://www.reddit.com/r/mcp/comments/1xpy021/ssh_mcp_server_enables_ai_assistants_to_execute/) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
-| 6 | 2026-11-07 | [Fred – FRED MCP — Federal Reserve Economic Data (St. Louis Fed)](https://www.reddit.com/r/mcp/comments/1xpy012/fred_fred_mcp_federal_reserve_economic_data_st/) | u/modelcontextprotocol | connector | glama.ai | 0 | 1 | live | — |
-| 7 | 2026-11-07 | [Built a company research agent in Langflow using a Wikipedia and SEC EDGAR MCP server](https://www.reddit.com/r/mcp/comments/1xpxjlt/built_a_company_research_agent_in_langflow_using/) | u/Aerosherm | showcase | reddit.com | 1 | 3 | live | — |
-| 8 | 2026-11-07 | [are there any actually good free AI coding agents right now?](https://www.reddit.com/r/mcp/comments/1xpx0ri/are_there_any_actually_good_free_ai_coding_agents/) | u/Negative-Name-9020 | showcase | text | 0 | 1 | spam-filtered | — |
-| 9 | 2026-11-07 | [If you run several agents, how do you keep track of which one holds which credential?](https://www.reddit.com/r/mcp/comments/1xpwnrx/if_you_run_several_agents_how_do_you_keep_track/) | u/zach-benson | — | text | 2 | 14 | live | — |
-| 10 | 2026-11-07 | [What does scriptmasterlabs.com Solve](https://www.reddit.com/r/mcp/comments/1xpvn31/what_does_scriptmasterlabscom_solve/) | u/Timwal123 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-07 | [Skills over MCP industry use case](https://www.reddit.com/r/mcp/comments/1xpum7k/skills_over_mcp_industry_use_case/) | u/alter_2605 | — | text | 1 | 0 | live | — |
-| 12 | 2026-11-07 | [MCP + Dynamic Client Registration: do you restrict redirect URIs, or allow any?](https://www.reddit.com/r/mcp/comments/1xpuliz/mcp_dynamic_client_registration_do_you_restrict/) | u/After_Pumpkin3803 | question | text | 2 | 4 | live | — |
-| 13 | 2026-11-07 | [What public MCP server operators told me about identifying anonymous agents (and what I got wrong)](https://www.reddit.com/r/mcp/comments/1xpthoi/what_public_mcp_server_operators_told_me_about/) | u/zach-benson | — | text | 8 | 12 | live | — |
-| 14 | 2026-11-07 | [What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)](https://www.reddit.com/r/mcp/comments/1xpt11t/what_i_learned_about_how_mcp_servers_tell_agents/) | u/zach-benson | — | text | 0 | 0 | live | — |
-| 15 | 2026-11-07 | [Saturday market run in SF: geocode, weather, air, drive, 4 paid APIs, one balance](https://www.reddit.com/r/mcp/comments/1xpsq45/saturday_market_run_in_sf_geocode_weather_air/) | u/Wezabis | showcase | text | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-07 | [What Claude's connector directory feed shows about rank, Trending and Verified (6 Nov 2026)](https://www.reddit.com/r/mcp/comments/1xpsnfx/what_claudes_connector_directory_feed_shows_about/) | u/hyxxx13 | showcase | text | 4 | 0 | live | — |
-| 17 | 2026-11-07 | [GTEx MCP Server – Enables AI assistants to query and analyze genomics data from the GTEx Portal through 25 sp…](https://www.reddit.com/r/mcp/comments/1xps4e4/gtex_mcp_server_enables_ai_assistants_to_query/) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
-| 18 | 2026-11-07 | [mcp – Interact with your Google Cloud Composer resources using natural language commands.](https://www.reddit.com/r/mcp/comments/1xps4a8/mcp_interact_with_your_google_cloud_composer/) | u/modelcontextprotocol | connector | glama.ai | 1 | 1 | live | — |
-| 19 | 2026-11-06 | [Discover & Install MCP Servers for AI Agents](https://www.reddit.com/r/mcp/comments/1xps349/discover_install_mcp_servers_for_ai_agents/) | u/Aliceable | — | allmcps.com | 1 | 0 | live | — |
-| 20 | 2026-11-06 | [Nemus — a shared project for you and your AI agents](https://www.reddit.com/r/mcp/comments/1xprxnx/nemus_a_shared_project_for_you_and_your_ai_agents/) | u/nemus-fyi | showcase | text | 1 | 0 | spam-filtered | — |
-| 21 | 2026-11-06 | [Video editor MCP for your agents](https://www.reddit.com/r/mcp/comments/1xprwb5/video_editor_mcp_for_your_agents/) | u/_--_GOD_--_ | — | text | 2 | 0 | live | — |
-| 22 | 2026-11-06 | [MCP server that rewrites your agent's outgoing text and returns it unmodified if fact changed](https://www.reddit.com/r/mcp/comments/1xpqxmr/mcp_server_that_rewrites_your_agents_outgoing/) | u/paulofilip3 | showcase | text | 1 | 5 | live | — |
-| 23 | 2026-11-06 | [Filarise passed review and is now available in the ChatGPT app directory](https://www.reddit.com/r/mcp/comments/1xpqfuz/filarise_passed_review_and_is_now_available_in/) | u/ChampionSpecialist60 | connector | reddit.com | 2 | 0 | live | — |
-| 24 | 2026-11-06 | [mcp testing](https://www.reddit.com/r/mcp/comments/1xppnt3/mcp_testing/) | u/MegHildreth | — | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-06 | [if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to…](https://www.reddit.com/r/mcp/comments/1xpp8y4/if_youre_curious_how_high_quality_your_mcp_is/) | u/MegHildreth | — | text | 1 | 0 | spam-filtered | — |
-| 26 | 2026-11-06 | [Testing MCP Servers](https://www.reddit.com/r/mcp/comments/1xpp8h2/testing_mcp_servers/) | u/roastedrants | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 27 | 2026-11-06 | [I built an MCP server for my TV tracker. It has no database of its own](https://www.reddit.com/r/mcp/comments/1xpp5vv/i_built_an_mcp_server_for_my_tv_tracker_it_has_no/) | u/itsnoddydev | showcase | v.redd.it | 4 | 2 | live | — |
-| 28 | 2026-11-06 | [Tool Definition Drift: What Changes After Approval, and How You Find Out](https://www.reddit.com/r/mcp/comments/1xpp19g/tool_definition_drift_what_changes_after_approval/) | u/BlitzBallBruiser | resource | text | 8 | 3 | live | — |
-| 29 | 2026-11-06 | [if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to…](https://www.reddit.com/r/mcp/comments/1xpoyeg/if_youre_curious_how_high_quality_your_mcp_is/) | u/MegHildreth | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 30 | 2026-11-06 | [MyFitnessPal's MCP stopped working, so I built my own platform](https://www.reddit.com/r/mcp/comments/1xpocx1/myfitnesspals_mcp_stopped_working_so_i_built_my/) | u/Odd_Apricot_3402 | showcase | caloriecub.com | 0 | 0 | spam-filtered | — |
-| 31 | 2026-11-06 | [I wrote a harness for exploring your raw DNA data with Claude, Codex or a local model](https://www.reddit.com/r/mcp/comments/1xpntng/i_wrote_a_harness_for_exploring_your_raw_dna_data/) | u/Ok_Mirror_832 | showcase | text | 4 | 0 | live | — |
-| 32 | 2026-11-06 | [Showcase: MCP that checks if a job URL is still open](https://www.reddit.com/r/mcp/comments/1xpmqoi/showcase_mcp_that_checks_if_a_job_url_is_still/) | u/Livecheck24 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-11-06 | [x402watch – Wash-filtered intelligence layer for x402 — read-only access to category stats, service details,…](https://www.reddit.com/r/mcp/comments/1xpmk4k/x402watch_washfiltered_intelligence_layer_for/) | u/modelcontextprotocol | connector | glama.ai | 1 | 1 | live | — |
-| 34 | 2026-11-06 | [Searchspring Integration Assistant – Provides implementation guidance, code validation, and troubleshooting t…](https://www.reddit.com/r/mcp/comments/1xpmk4x/searchspring_integration_assistant_provides/) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
-| 35 | 2026-11-06 | [MCP Agent Usability](https://www.reddit.com/r/mcp/comments/1xplphj/mcp_agent_usability/) | u/alejxb | resource | m3.sineframe.com | 5 | 0 | live | — |
-| 36 | 2026-11-06 | [Designing an MCP server for 60+ financial datasets: symbology, permissioning, and context management](https://www.reddit.com/r/mcp/comments/1xpjv1o/designing_an_mcp_server_for_60_financial_datasets/) | u/vianexus_official | — | text | 2 | 3 | live | — |
-| 37 | 2026-11-06 | [7 MCP servers this week, and one of them rings your phone when it gets stuck](https://www.reddit.com/r/mcp/comments/1xpjfdf/7_mcp_servers_this_week_and_one_of_them_rings/) | u/Prior_Engineering486 | showcase | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-11-06 | [Courtship - an mcp made for LÖVE](https://www.reddit.com/r/mcp/comments/1xpix62/courtship_an_mcp_made_for_löve/) | u/RelativeSudden1814 | showcase | github.com | 1 | 0 | spam-filtered | — |
-| 39 | 2026-11-06 | [Some coding agents set up archived MCP servers from memory. 5 commands to check yours](https://www.reddit.com/r/mcp/comments/1xpi39x/some_coding_agents_set_up_archived_mcp_servers/) | u/MrDogeAlright | — | v.redd.it | 3 | 0 | live | — |
-| 40 | 2026-11-06 | [MCP for Thunderbird](https://www.reddit.com/r/mcp/comments/1xphke1/mcp_for_thunderbird/) | u/itanpiuco2020 | question | text | 6 | 5 | live | — |
-| 41 | 2026-11-06 | [Bayze update: 5 multi-AI collaboration patterns now (incl. adversarial debate with an arbiter) — and the 7 bu…](https://www.reddit.com/r/mcp/comments/1xpfxp3/bayze_update_5_multiai_collaboration_patterns_now/) | u/bayze-mcp | showcase | text | 0 | 0 | spam-filtered | — |
-| 42 | 2026-11-06 | [Showcase: Grok Token Saver — Windows tray + hosted MCP so Grok Bot reads slim file extracts](https://www.reddit.com/r/mcp/comments/1xpfud0/showcase_grok_token_saver_windows_tray_hosted_mcp/) | u/GenoskwaHQ | showcase | text | 1 | 0 | spam-filtered | — |
-| 43 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](https://www.reddit.com/r/mcp/comments/1xpfd08/android_remote_control_mcp_v1130_is_out_free/) | u/daniele_dll | showcase | text | 1 | 1 | live | — |
-| 44 | 2026-11-06 | [Ground Truth - Fresh Evidence for AI Agents – Keep AI answers fresh with free source previews, scheduled moni…](https://www.reddit.com/r/mcp/comments/1xpew61/ground_truth_fresh_evidence_for_ai_agents_keep_ai/) | u/modelcontextprotocol | connector | glama.ai | 2 | 1 | live | — |
-| 45 | 2026-11-06 | [Reddit MCP Server – Enables interaction with Reddit through a comprehensive API interface supporting both rea…](https://www.reddit.com/r/mcp/comments/1xpew68/reddit_mcp_server_enables_interaction_with_reddit/) | u/modelcontextprotocol | server | glama.ai | 1 | 2 | live | — |
-| 46 | 2026-11-06 | [playmcp is a tool for building and sharing music games](https://www.reddit.com/r/mcp/comments/1xpeua4/playmcp_is_a_tool_for_building_and_sharing_music/) | u/WhaleSong2077 | server | text | 2 | 0 | live | — |
-| 47 | 2026-11-06 | [My agent now reads my WhatsApp/Telegram and suggests replies in my tone (local MCP)](https://www.reddit.com/r/mcp/comments/1xpe6v7/my_agent_now_reads_my_whatsapptelegram_and/) | u/SuccessfulCress7441 | — | i.redd.it | 2 | 0 | live | — |
-| 48 | 2026-11-06 | [I built an MCP server into my self-hosted Excalidraw app so Claude can draw diagrams and read them back](https://www.reddit.com/r/mcp/comments/1xpdwfz/i_built_an_mcp_server_into_my_selfhosted/) | u/KindlyLeadership7978 | showcase | v.redd.it | 3 | 1 | live | — |
-| 49 | 2026-11-06 | [Managing a local NVR through MCP: cameras, events, recordings and diagnostics](https://www.reddit.com/r/mcp/comments/1xpdbx3/managing_a_local_nvr_through_mcp_cameras_events/) | u/timofeyprimus | showcase | i.redd.it | 1 | 0 | spam-filtered | — |
-| 50 | 2026-11-06 | [I built Look MCP: show your AI one window, and it points where to click. A Mac menu bar app, free on the Mac…](https://www.reddit.com/r/mcp/comments/1xpcao7/i_built_look_mcp_show_your_ai_one_window_and_it/) | u/Beneficial-Mind-5932 | showcase | reddit.com | 2 | 0 | live | — |
+| 1 | 2026-11-07 | [520 technical leaders: only 8% use a single model provider, but 53% say integrations or MCP servers are among…](#post-1) | u/ombre-ai | discussion | text | 4 | 3 | live | — |
+| 2 | 2026-11-07 | [an MCP server for asking another agent for a second opinion, great for people who work with agents](#post-2) | u/Revolutionary-Bet-58 | showcase | text | 1 | 4 | live | — |
+| 3 | 2026-11-07 | [Your agent can call every tool on an MCP server, including the destructive ones. I built a gateway that gates…](#post-3) | u/Aoutix | question | text | 0 | 6 | spam-filtered | — |
+| 4 | 2026-11-07 | [built an open-source MCP server so Cursor/Claude can search Reddit & pull comment trees live (no Reddit API k…](#post-4) | u/WonderfulWave7060 | — | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-11-07 | [SSH MCP Server – Enables AI assistants to execute commands an](#post-5) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
+| 6 | 2026-11-07 | [Fred – FRED MCP — Federal Reserve Economic Data (St. Louis Fed)](#post-6) | u/modelcontextprotocol | connector | glama.ai | 0 | 1 | live | — |
+| 7 | 2026-11-07 | [Built a company research agent in Langflow using a Wikipedia and SEC EDGAR MCP server](#post-7) | u/Aerosherm | showcase | reddit.com | 1 | 3 | live | — |
+| 8 | 2026-11-07 | [are there any actually good free AI coding agents right now?](#post-8) | u/Negative-Name-9020 | showcase | text | 0 | 1 | spam-filtered | — |
+| 9 | 2026-11-07 | [If you run several agents, how do you keep track of which one holds which credential?](#post-9) | u/zach-benson | — | text | 2 | 14 | live | — |
+| 10 | 2026-11-07 | [What does scriptmasterlabs.com Solve](#post-10) | u/Timwal123 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-07 | [Skills over MCP industry use case](#post-11) | u/alter_2605 | — | text | 1 | 0 | live | — |
+| 12 | 2026-11-07 | [MCP + Dynamic Client Registration: do you restrict redirect URIs, or allow any?](#post-12) | u/After_Pumpkin3803 | question | text | 2 | 4 | live | — |
+| 13 | 2026-11-07 | [What public MCP server operators told me about identifying anonymous agents (and what I got wrong)](#post-13) | u/zach-benson | — | text | 8 | 12 | live | — |
+| 14 | 2026-11-07 | [What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)](#post-14) | u/zach-benson | — | text | 0 | 0 | live | — |
+| 15 | 2026-11-07 | [Saturday market run in SF: geocode, weather, air, drive, 4 paid APIs, one balance](#post-15) | u/Wezabis | showcase | text | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-07 | [What Claude's connector directory feed shows about rank, Trending and Verified (6 Nov 2026)](#post-16) | u/hyxxx13 | showcase | text | 4 | 0 | live | — |
+| 17 | 2026-11-07 | [GTEx MCP Server – Enables AI assistants to query and analyze genomics data from the GTEx Portal through 25 sp…](#post-17) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
+| 18 | 2026-11-07 | [mcp – Interact with your Google Cloud Composer resources using natural language commands.](#post-18) | u/modelcontextprotocol | connector | glama.ai | 1 | 1 | live | — |
+| 19 | 2026-11-06 | [Discover & Install MCP Servers for AI Agents](#post-19) | u/Aliceable | — | allmcps.com | 1 | 0 | live | — |
+| 20 | 2026-11-06 | [Nemus — a shared project for you and your AI agents](#post-20) | u/nemus-fyi | showcase | text | 1 | 0 | spam-filtered | — |
+| 21 | 2026-11-06 | [Video editor MCP for your agents](#post-21) | u/_--_GOD_--_ | — | text | 2 | 0 | live | — |
+| 22 | 2026-11-06 | [MCP server that rewrites your agent's outgoing text and returns it unmodified if fact changed](#post-22) | u/paulofilip3 | showcase | text | 1 | 5 | live | — |
+| 23 | 2026-11-06 | [Filarise passed review and is now available in the ChatGPT app directory](#post-23) | u/ChampionSpecialist60 | connector | reddit.com | 2 | 0 | live | — |
+| 24 | 2026-11-06 | [mcp testing](#post-24) | u/MegHildreth | — | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-06 | [if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to…](#post-25) | u/MegHildreth | — | text | 1 | 0 | spam-filtered | — |
+| 26 | 2026-11-06 | [Testing MCP Servers](#post-26) | u/roastedrants | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 27 | 2026-11-06 | [I built an MCP server for my TV tracker. It has no database of its own](#post-27) | u/itsnoddydev | showcase | v.redd.it | 4 | 2 | live | — |
+| 28 | 2026-11-06 | [Tool Definition Drift: What Changes After Approval, and How You Find Out](#post-28) | u/BlitzBallBruiser | resource | text | 8 | 3 | live | — |
+| 29 | 2026-11-06 | [if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to…](#post-29) | u/MegHildreth | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 30 | 2026-11-06 | [MyFitnessPal's MCP stopped working, so I built my own platform](#post-30) | u/Odd_Apricot_3402 | showcase | caloriecub.com | 0 | 0 | spam-filtered | — |
+| 31 | 2026-11-06 | [I wrote a harness for exploring your raw DNA data with Claude, Codex or a local model](#post-31) | u/Ok_Mirror_832 | showcase | text | 4 | 0 | live | — |
+| 32 | 2026-11-06 | [Showcase: MCP that checks if a job URL is still open](#post-32) | u/Livecheck24 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-11-06 | [x402watch – Wash-filtered intelligence layer for x402 — read-only access to category stats, service details,…](#post-33) | u/modelcontextprotocol | connector | glama.ai | 1 | 1 | live | — |
+| 34 | 2026-11-06 | [Searchspring Integration Assistant – Provides implementation guidance, code validation, and troubleshooting t…](#post-34) | u/modelcontextprotocol | server | glama.ai | 1 | 1 | live | — |
+| 35 | 2026-11-06 | [MCP Agent Usability](#post-35) | u/alejxb | resource | m3.sineframe.com | 5 | 0 | live | — |
+| 36 | 2026-11-06 | [Designing an MCP server for 60+ financial datasets: symbology, permissioning, and context management](#post-36) | u/vianexus_official | — | text | 2 | 3 | live | — |
+| 37 | 2026-11-06 | [7 MCP servers this week, and one of them rings your phone when it gets stuck](#post-37) | u/Prior_Engineering486 | showcase | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-11-06 | [Courtship - an mcp made for LÖVE](#post-38) | u/RelativeSudden1814 | showcase | github.com | 1 | 0 | spam-filtered | — |
+| 39 | 2026-11-06 | [Some coding agents set up archived MCP servers from memory. 5 commands to check yours](#post-39) | u/MrDogeAlright | — | v.redd.it | 3 | 0 | live | — |
+| 40 | 2026-11-06 | [MCP for Thunderbird](#post-40) | u/itanpiuco2020 | question | text | 6 | 5 | live | — |
+| 41 | 2026-11-06 | [Bayze update: 5 multi-AI collaboration patterns now (incl. adversarial debate with an arbiter) — and the 7 bu…](#post-41) | u/bayze-mcp | showcase | text | 0 | 0 | spam-filtered | — |
+| 42 | 2026-11-06 | [Showcase: Grok Token Saver — Windows tray + hosted MCP so Grok Bot reads slim file extracts](#post-42) | u/GenoskwaHQ | showcase | text | 1 | 0 | spam-filtered | — |
+| 43 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](#post-43) | u/daniele_dll | showcase | text | 1 | 1 | live | — |
+| 44 | 2026-11-06 | [Ground Truth - Fresh Evidence for AI Agents – Keep AI answers fresh with free source previews, scheduled moni…](#post-44) | u/modelcontextprotocol | connector | glama.ai | 2 | 1 | live | — |
+| 45 | 2026-11-06 | [Reddit MCP Server – Enables interaction with Reddit through a comprehensive API interface supporting both rea…](#post-45) | u/modelcontextprotocol | server | glama.ai | 1 | 2 | live | — |
+| 46 | 2026-11-06 | [playmcp is a tool for building and sharing music games](#post-46) | u/WhaleSong2077 | server | text | 2 | 0 | live | — |
+| 47 | 2026-11-06 | [My agent now reads my WhatsApp/Telegram and suggests replies in my tone (local MCP)](#post-47) | u/SuccessfulCress7441 | — | i.redd.it | 2 | 0 | live | — |
+| 48 | 2026-11-06 | [I built an MCP server into my self-hosted Excalidraw app so Claude can draw diagrams and read them back](#post-48) | u/KindlyLeadership7978 | showcase | v.redd.it | 3 | 1 | live | — |
+| 49 | 2026-11-06 | [Managing a local NVR through MCP: cameras, events, recordings and diagnostics](#post-49) | u/timofeyprimus | showcase | i.redd.it | 1 | 0 | spam-filtered | — |
+| 50 | 2026-11-06 | [I built Look MCP: show your AI one window, and it points where to click. A Mac menu bar app, free on the Mac…](#post-50) | u/Beneficial-Mind-5932 | showcase | reddit.com | 2 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -97,34 +97,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-30 | [I gave Claude access to my iPhone Home Screen through MCP and asked it to organize my apps by color](https://www.reddit.com/r/mcp/comments/1xjs7bk/i_gave_claude_access_to_my_iphone_home_screen/) | u/BTCLSD | — | i.redd.it | 581 | 181 | live |
-| 52 | 2026-10-29 | [I’m open-sourcing OpenLolo—let AI operate your iPhone through MCP](https://www.reddit.com/r/mcp/comments/1xikbmj/im_opensourcing_openlololet_ai_operate_your/) | u/Eonminion | showcase | i.redd.it | 91 | 26 | live |
-| 53 | 2026-11-04 | [Claude brought us 24,000+ users in 5 weeks](https://www.reddit.com/r/mcp/comments/1xo0ftz/claude_brought_us_24000_users_in_5_weeks/) | u/ElevatorFriendly648 | showcase | text | 73 | 49 | live |
-| 54 | 2026-10-19 | [I built an MCP server that lets AI agents control your iPhone](https://www.reddit.com/r/mcp/comments/1xa9etq/i_built_an_mcp_server_that_lets_ai_agents_control/) | u/Eonminion | — | v.redd.it | 61 | 25 | live |
-| 55 | 2026-10-31 | [I built an MCP server that lets agents research real objects and reconstruct them as structured 3D scenes](https://www.reddit.com/r/mcp/comments/1xk5efs/i_built_an_mcp_server_that_lets_agents_research/) | u/SignificanceLanky988 | showcase | v.redd.it | 59 | 7 | live |
-| 56 | 2026-10-24 | [I made a free, local alternative to ElevenLabs sound effects and Suno for game audio](https://www.reddit.com/r/mcp/comments/1xecwlw/i_made_a_free_local_alternative_to_elevenlabs/) | u/WeakTrifle3475 | showcase | v.redd.it | 49 | 0 | live |
-| 57 | 2026-10-25 | [i built an mcp server that searches google flights, google hotels and booking from your own machine, no api k…](https://www.reddit.com/r/mcp/comments/1xf3f0y/i_built_an_mcp_server_that_searches_google/) | u/Fast_Entrance7839 | showcase | text | 37 | 16 | live |
-| 58 | 2026-10-17 | [My Copilot built 4 MCP servers for me in minutes — Jenkins, Bitbucket, Teams, and a DB connector. Here's what…](https://www.reddit.com/r/mcp/comments/1x83yh3/my_copilot_built_4_mcp_servers_for_me_in_minutes/) | u/Any-Blacksmith-2054 | — | text | 35 | 24 | live |
-| 59 | 2026-10-26 | [Kanzo, a tiny self-hosted kanban board you and your coding agents can share (~5k lines, one 4 MB binary)](https://www.reddit.com/r/mcp/comments/1xg7mjc/kanzo_a_tiny_selfhosted_kanban_board_you_and_your/) | u/allmudi | showcase | i.redd.it | 31 | 23 | live |
-| 60 | 2026-10-25 | [I built Thumbly, an open-source MCP server for controlling a real iPhone from a Mac](https://www.reddit.com/r/mcp/comments/1xfgv56/i_built_thumbly_an_opensource_mcp_server_for/) | u/timurcat99 | showcase | v.redd.it | 31 | 6 | live |
-| 61 | 2026-11-02 | [I built an MCP server for sharing my Firefox/Zen browser with a coding agent](https://www.reddit.com/r/mcp/comments/1xlubef/i_built_an_mcp_server_for_sharing_my_firefoxzen/) | u/Sad-Interview9085 | showcase | v.redd.it | 29 | 5 | live |
-| 62 | 2026-10-27 | [We made the first Jev-Router for models and agentic tools in MCP!](https://www.reddit.com/r/mcp/comments/1xh8i8c/we_made_the_first_jevrouter_for_models_and/) | u/Fun-Meaning-6474 | connector | v.redd.it | 26 | 8 | live |
-| 63 | 2026-11-03 | [Compacting at 400K instead of ~967K cut my Claude Code cost per request by 43%](https://www.reddit.com/r/mcp/comments/1xme6zw/compacting_at_400k_instead_of_967k_cut_my_claude/) | u/Awkward-Let-4628 | showcase | text | 23 | 9 | live |
-| 64 | 2026-11-04 | [if an AI agent uses my valid credentials to do something bad, what control is supposed to know it wasn't me?](https://www.reddit.com/r/mcp/comments/1xnhtcj/if_an_ai_agent_uses_my_valid_credentials_to_do/) | u/Cytersmyz | question | text | 22 | 18 | live |
-| 65 | 2026-10-25 | [I ran a decoy MCP server. 7 AI tools connected within 7 minutes, and 4 asked for the full tool list](https://www.reddit.com/r/mcp/comments/1xfev3v/i_ran_a_decoy_mcp_server_7_ai_tools_connected/) | u/KnowledgeOk7634 | — | i.redd.it | 22 | 15 | live |
-| 66 | 2026-11-04 | [How are you handling tool overload when an MCP server exposes hundreds of endpoints?](https://www.reddit.com/r/mcp/comments/1xniwdn/how_are_you_handling_tool_overload_when_an_mcp/) | u/sandeepK1125 | question | text | 20 | 38 | live |
-| 67 | 2026-10-31 | [Garmin training data dashboard and MCP from the official Personal API (free, open source)](https://www.reddit.com/r/mcp/comments/1xki17a/garmin_training_data_dashboard_and_mcp_from_the/) | u/indaco_dev | server | i.redd.it | 16 | 2 | live |
-| 68 | 2026-11-05 | [We built an MCP for your agent to check the ML literature before it builds ML experiments. Here's what other…](https://www.reddit.com/r/mcp/comments/1xonown/we_built_an_mcp_for_your_agent_to_check_the_ml/) | u/martincsweiss | — | v.redd.it | 13 | 3 | live |
-| 69 | 2026-10-18 | [Group new here, have an honest question.](https://www.reddit.com/r/mcp/comments/1x92ohv/group_new_here_have_an_honest_question/) | u/marinetejas | — | text | 12 | 9 | live |
-| 70 | 2026-11-02 | [I made an iOS/MacOS shortcut that discovers MCP tools at runtime and prompts you to run them](https://www.reddit.com/r/mcp/comments/1xlx9qo/i_made_an_iosmacos_shortcut_that_discovers_mcp/) | u/mhg3 | showcase | imgur.com | 12 | 5 | live |
+| 51 | 2026-10-30 | [I gave Claude access to my iPhone Home Screen through MCP and asked it to organize my apps by color](#post-51) | u/BTCLSD | — | i.redd.it | 581 | 181 | live |
+| 52 | 2026-10-29 | [I’m open-sourcing OpenLolo—let AI operate your iPhone through MCP](#post-52) | u/Eonminion | showcase | i.redd.it | 91 | 26 | live |
+| 53 | 2026-11-04 | [Claude brought us 24,000+ users in 5 weeks](#post-53) | u/ElevatorFriendly648 | showcase | text | 73 | 49 | live |
+| 54 | 2026-10-19 | [I built an MCP server that lets AI agents control your iPhone](#post-54) | u/Eonminion | — | v.redd.it | 61 | 25 | live |
+| 55 | 2026-10-31 | [I built an MCP server that lets agents research real objects and reconstruct them as structured 3D scenes](#post-55) | u/SignificanceLanky988 | showcase | v.redd.it | 59 | 7 | live |
+| 56 | 2026-10-24 | [I made a free, local alternative to ElevenLabs sound effects and Suno for game audio](#post-56) | u/WeakTrifle3475 | showcase | v.redd.it | 49 | 0 | live |
+| 57 | 2026-10-25 | [i built an mcp server that searches google flights, google hotels and booking from your own machine, no api k…](#post-57) | u/Fast_Entrance7839 | showcase | text | 37 | 16 | live |
+| 58 | 2026-10-17 | [My Copilot built 4 MCP servers for me in minutes — Jenkins, Bitbucket, Teams, and a DB connector. Here's what…](#post-58) | u/Any-Blacksmith-2054 | — | text | 35 | 24 | live |
+| 59 | 2026-10-26 | [Kanzo, a tiny self-hosted kanban board you and your coding agents can share (~5k lines, one 4 MB binary)](#post-59) | u/allmudi | showcase | i.redd.it | 31 | 23 | live |
+| 60 | 2026-10-25 | [I built Thumbly, an open-source MCP server for controlling a real iPhone from a Mac](#post-60) | u/timurcat99 | showcase | v.redd.it | 31 | 6 | live |
+| 61 | 2026-11-02 | [I built an MCP server for sharing my Firefox/Zen browser with a coding agent](#post-61) | u/Sad-Interview9085 | showcase | v.redd.it | 29 | 5 | live |
+| 62 | 2026-10-27 | [We made the first Jev-Router for models and agentic tools in MCP!](#post-62) | u/Fun-Meaning-6474 | connector | v.redd.it | 26 | 8 | live |
+| 63 | 2026-11-03 | [Compacting at 400K instead of ~967K cut my Claude Code cost per request by 43%](#post-63) | u/Awkward-Let-4628 | showcase | text | 23 | 9 | live |
+| 64 | 2026-11-04 | [if an AI agent uses my valid credentials to do something bad, what control is supposed to know it wasn't me?](#post-64) | u/Cytersmyz | question | text | 22 | 18 | live |
+| 65 | 2026-10-25 | [I ran a decoy MCP server. 7 AI tools connected within 7 minutes, and 4 asked for the full tool list](#post-65) | u/KnowledgeOk7634 | — | i.redd.it | 22 | 15 | live |
+| 66 | 2026-11-04 | [How are you handling tool overload when an MCP server exposes hundreds of endpoints?](#post-66) | u/sandeepK1125 | question | text | 20 | 38 | live |
+| 67 | 2026-10-31 | [Garmin training data dashboard and MCP from the official Personal API (free, open source)](#post-67) | u/indaco_dev | server | i.redd.it | 16 | 2 | live |
+| 68 | 2026-11-05 | [We built an MCP for your agent to check the ML literature before it builds ML experiments. Here's what other…](#post-68) | u/martincsweiss | — | v.redd.it | 13 | 3 | live |
+| 69 | 2026-10-18 | [Group new here, have an honest question.](#post-69) | u/marinetejas | — | text | 12 | 9 | live |
+| 70 | 2026-11-02 | [I made an iOS/MacOS shortcut that discovers MCP tools at runtime and prompts you to run them](#post-70) | u/mhg3 | showcase | imgur.com | 12 | 5 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. 520 technical leaders: only 8% use a single model provider, but 53% say integrations or MCP servers are among the hardest things to migrate. What actually breaks when you change provider?
 
-2026-11-07 · u/ombre-ai · discussion · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xq0hdo/520_technical_leaders_only_8_use_a_single_model/)
+2026-11-07 · u/ombre-ai · discussion · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xq0hdo/520_technical_leaders_only_8_use_a_single_model/) · [↑ back to the list](#last-50-posts)
 
 > Stacklok surveyed 520 technical leaders (North American companies, 500+ employees). Stack Overflow published the write-up on Oct 21.
 >
@@ -148,9 +150,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > One survey, enterprise respondents, run by a vendor in this space, so treat it as a prompt for discussion, not a verdict.
 
+<a id="post-2"></a>
+
 ### 2. an MCP server for asking another agent for a second opinion, great for people who work with agents
 
-2026-11-07 · u/Revolutionary-Bet-58 · showcase · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzxvm/an_mcp_server_for_asking_another_agent_for_a/)
+2026-11-07 · u/Revolutionary-Bet-58 · showcase · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzxvm/an_mcp_server_for_asking_another_agent_for_a/) · [↑ back to the list](#last-50-posts)
 
 > hey everyone, I've built pact0. 
 > It lets your agent post a request for another agent, retrieve the answer later, and approve it or ask for changes through MCP. I would love for people to share feedback and try it, maybe directly in your Claude/Codex  session or just let your Hermes agent go crazy to post jobs, claim jobs to do work, earn money etc.
@@ -171,9 +175,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you try it, I'd particularly like to know where the handoff or return step breaks down.
 
+<a id="post-3"></a>
+
 ### 3. Your agent can call every tool on an MCP server, including the destructive ones. I built a gateway that gates them. I want to know if the design holds up.
 
-2026-11-07 · u/Aoutix · question · score 0 · 6 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzp50/your_agent_can_call_every_tool_on_an_mcp_server/)
+2026-11-07 · u/Aoutix · question · score 0 · 6 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzp50/your_agent_can_call_every_tool_on_an_mcp_server/) · [↑ back to the list](#last-50-posts)
 
 > Connecting an agent to an MCP server takes one line of config, and from that moment the agent can call every tool the server offers, including the ones that delete. Three things about that bother me:
 >
@@ -213,29 +219,37 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > 2. What's the attack you're actually worried about? I might be defending the wrong thing.
 
+<a id="post-4"></a>
+
 ### 4. built an open-source MCP server so Cursor/Claude can search Reddit & pull comment trees live (no Reddit API keys/OAuth needed)
 
-2026-11-07 · u/WonderfulWave7060 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzbhd/built_an_opensource_mcp_server_so_cursorclaude/)
+2026-11-07 · u/WonderfulWave7060 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpzbhd/built_an_opensource_mcp_server_so_cursorclaude/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. SSH MCP Server – Enables AI assistants to execute commands an
 
-2026-11-07 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpy021/ssh_mcp_server_enables_ai_assistants_to_execute/)
+2026-11-07 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpy021/ssh_mcp_server_enables_ai_assistants_to_execute/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/servers/InfraMCP/ssh-mcp-server>
 
 
+<a id="post-6"></a>
+
 ### 6. Fred – FRED MCP — Federal Reserve Economic Data (St. Louis Fed)
 
-2026-11-07 · u/modelcontextprotocol · connector · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpy012/fred_fred_mcp_federal_reserve_economic_data_st/)
+2026-11-07 · u/modelcontextprotocol · connector · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpy012/fred_fred_mcp_federal_reserve_economic_data_st/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/connectors/io.github.pipeworx-io/fred>
 
 
+<a id="post-7"></a>
+
 ### 7. Built a company research agent in Langflow using a Wikipedia and SEC EDGAR MCP server
 
-2026-11-07 · u/Aerosherm · showcase · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpxjlt/built_a_company_research_agent_in_langflow_using/)
+2026-11-07 · u/Aerosherm · showcase · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpxjlt/built_a_company_research_agent_in_langflow_using/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpxjlt>
 
@@ -247,9 +261,11 @@ Link: <https://www.reddit.com/gallery/1xpxjlt>
 >
 > I'm working with Dataville, so I'm biased, but happy to answer questions.
 
+<a id="post-8"></a>
+
 ### 8. are there any actually good free AI coding agents right now?
 
-2026-11-07 · u/Negative-Name-9020 · showcase · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpx0ri/are_there_any_actually_good_free_ai_coding_agents/)
+2026-11-07 · u/Negative-Name-9020 · showcase · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpx0ri/are_there_any_actually_good_free_ai_coding_agents/) · [↑ back to the list](#last-50-posts)
 
 > most of the discussion around AI agents is about writing code, fixing bugs, building apps etc.
 >
@@ -267,9 +283,11 @@ Link: <https://www.reddit.com/gallery/1xpxjlt>
 >
 > Free access link here: [https://lemoncode.ai/home?ref=6ffdb0f7-ed3a-4c94-bbbe-b2c1c39de7b4](https://lemoncode.ai/home?ref=6ffdb0f7-ed3a-4c94-bbbe-b2c1c39de7b4)
 
+<a id="post-9"></a>
+
 ### 9. If you run several agents, how do you keep track of which one holds which credential?
 
-2026-11-07 · u/zach-benson · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpwnrx/if_you_run_several_agents_how_do_you_keep_track/)
+2026-11-07 · u/zach-benson · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpwnrx/if_you_run_several_agents_how_do_you_keep_track/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to learn how people manage credentials once they're running more than one or two agents. No link, nothing for sale.
 >
@@ -288,17 +306,21 @@ Link: <https://www.reddit.com/gallery/1xpxjlt>
 >
 > Disclosure: I'm building an open-source auth library in this area, so I'm biased. Drafted with help from Claude, edited by me.
 
+<a id="post-10"></a>
+
 ### 10. What does scriptmasterlabs.com Solve
 
-2026-11-07 · u/Timwal123 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpvn31/what_does_scriptmasterlabscom_solve/)
+2026-11-07 · u/Timwal123 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpvn31/what_does_scriptmasterlabscom_solve/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Skills over MCP industry use case
 
-2026-11-07 · u/alter_2605 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpum7k/skills_over_mcp_industry_use_case/)
+2026-11-07 · u/alter_2605 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpum7k/skills_over_mcp_industry_use_case/) · [↑ back to the list](#last-50-posts)
 
 > At our firm today we face a challenge of people using skills of their own in an isolated way. I came across the skills over MCP charter and was curious if anyone applied this at their firm
 >
@@ -306,9 +328,11 @@ Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 >
 > What are some of the things to keep in mind?
 
+<a id="post-12"></a>
+
 ### 12. MCP + Dynamic Client Registration: do you restrict redirect URIs, or allow any?
 
-2026-11-07 · u/After_Pumpkin3803 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpuliz/mcp_dynamic_client_registration_do_you_restrict/)
+2026-11-07 · u/After_Pumpkin3803 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpuliz/mcp_dynamic_client_registration_do_you_restrict/) · [↑ back to the list](#last-50-posts)
 
 > I’m running a remote MCP server with OAuth and Dynamic Client Registration (DCR), so clients like Claude and ChatGPT can register themselves. I’m trying to decide whether to restrict which `redirect_uri` values a client can register.
 >
@@ -317,9 +341,11 @@ Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 >
 > How are others handling this in production? Do you allowlist, warn, or leave it open? Are there any pitfalls with localhost or custom-scheme redirects for desktop clients?
 
+<a id="post-13"></a>
+
 ### 13. What public MCP server operators told me about identifying anonymous agents (and what I got wrong)
 
-2026-11-07 · u/zach-benson · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpthoi/what_public_mcp_server_operators_told_me_about/)
+2026-11-07 · u/zach-benson · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpthoi/what_public_mcp_server_operators_told_me_about/) · [↑ back to the list](#last-50-posts)
 
 > A few days ago I asked how people tell agents apart on public MCP servers. Thanks to everyone who answered with real numbers. Here's what I took from it.
 >
@@ -335,9 +361,11 @@ Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 >
 > If you run a public server where third-party agents call in, and you've needed to tell one of a user's agents from another (or wished you could), I'd like to hear what happened. Specific stories help most. "We don't need this" is a useful answer too.
 
+<a id="post-14"></a>
+
 ### 14. What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)
 
-2026-11-07 · u/zach-benson · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpt11t/what_i_learned_about_how_mcp_servers_tell_agents/)
+2026-11-07 · u/zach-benson · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpt11t/what_i_learned_about_how_mcp_servers_tell_agents/) · [↑ back to the list](#last-50-posts)
 
 > A week ago I asked how people running MCP servers and agents handle identity and limits. Thanks to everyone who answered. Short version of what I heard:
 >
@@ -358,15 +386,19 @@ Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 >
 > Disclosure: I'm building an open-source library in this area, so I'm biased. No link. I'll post a fuller writeup later.
 
+<a id="post-15"></a>
+
 ### 15. Saturday market run in SF: geocode, weather, air, drive, 4 paid APIs, one balance
 
-2026-11-07 · u/Wezabis · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpsq45/saturday_market_run_in_sf_geocode_weather_air/)
+2026-11-07 · u/Wezabis · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpsq45/saturday_market_run_in_sf_geocode_weather_air/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. What Claude's connector directory feed shows about rank, Trending and Verified (6 Nov 2026)
 
-2026-11-07 · u/hyxxx13 · showcase · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpsnfx/what_claudes_connector_directory_feed_shows_about/)
+2026-11-07 · u/hyxxx13 · showcase · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpsnfx/what_claudes_connector_directory_feed_shows_about/) · [↑ back to the list](#last-50-posts)
 
 > I'm one of the people behind Tofu, an MCP connector that's in Claude's connector directory as a Community listing (not Verified).
 >
@@ -384,23 +416,29 @@ Link: <https://i.redd.it/ax42whvdu30i1.jpeg>
 >
 > If you have a listing, what `popularity_score`, `rank` and `trending_score` do you see, and do the formulas fit?
 
+<a id="post-17"></a>
+
 ### 17. GTEx MCP Server – Enables AI assistants to query and analyze genomics data from the GTEx Portal through 25 specialized tools for gene expression analysis, eQTL/sQTL associations, and genetic variant lookups across 54 human tissue types.
 
-2026-11-07 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps4e4/gtex_mcp_server_enables_ai_assistants_to_query/)
+2026-11-07 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps4e4/gtex_mcp_server_enables_ai_assistants_to_query/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/servers/Augmented-Nature/GTEx-MCP-Server>
 
 
+<a id="post-18"></a>
+
 ### 18. mcp – Interact with your Google Cloud Composer resources using natural language commands.
 
-2026-11-07 · u/modelcontextprotocol · connector · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps4a8/mcp_interact_with_your_google_cloud_composer/)
+2026-11-07 · u/modelcontextprotocol · connector · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps4a8/mcp_interact_with_your_google_cloud_composer/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/connectors/com.googleapis.composer/mcp>
 
 
+<a id="post-19"></a>
+
 ### 19. Discover & Install MCP Servers for AI Agents
 
-2026-11-06 · u/Aliceable · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps349/discover_install_mcp_servers_for_ai_agents/)
+2026-11-06 · u/Aliceable · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xps349/discover_install_mcp_servers_for_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://allmcps.com>
 
@@ -422,23 +460,29 @@ Link: <https://allmcps.com>
 >
 > Would love any feedback. And hopefully seeing some cool new MCP use cases / servers submitted!
 
+<a id="post-20"></a>
+
 ### 20. Nemus — a shared project for you and your AI agents
 
-2026-11-06 · u/nemus-fyi · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xprxnx/nemus_a_shared_project_for_you_and_your_ai_agents/)
+2026-11-06 · u/nemus-fyi · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xprxnx/nemus_a_shared_project_for_you_and_your_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-21"></a>
+
 ### 21. Video editor MCP for your agents
 
-2026-11-06 · u/_--_GOD_--_ · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xprwb5/video_editor_mcp_for_your_agents/)
+2026-11-06 · u/_--_GOD_--_ · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xprwb5/video_editor_mcp_for_your_agents/) · [↑ back to the list](#last-50-posts)
 
 > I made an MCP tool for your agents to edit videos and add cool effects to them.
 >
 > you can check it out on github : [Theolin-Nadasen/cwm-editor: Agent-drivable video editor: timeline as data, ffmpeg as the renderer](https://github.com/Theolin-Nadasen/cwm-editor)
 
+<a id="post-22"></a>
+
 ### 22. MCP server that rewrites your agent's outgoing text and returns it unmodified if fact changed
 
-2026-11-06 · u/paulofilip3 · showcase · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpqxmr/mcp_server_that_rewrites_your_agents_outgoing/)
+2026-11-06 · u/paulofilip3 · showcase · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpqxmr/mcp_server_that_rewrites_your_agents_outgoing/) · [↑ back to the list](#last-50-posts)
 
 > I built an MCP server for one purpose: The agent sends the text it wrote for a person (an email, a message, a commit, a PR) and gets back a version that sounds like you wrote it.
 >
@@ -462,9 +506,11 @@ Link: <https://allmcps.com>
 >
 > It's free up to 3,000 words a month. Feedback on the tool design is very welcome, especially from anyone who's created approval flows into MCP tools. Link in comments.
 
+<a id="post-23"></a>
+
 ### 23. Filarise passed review and is now available in the ChatGPT app directory
 
-2026-11-06 · u/ChampionSpecialist60 · connector · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpqfuz/filarise_passed_review_and_is_now_available_in/)
+2026-11-06 · u/ChampionSpecialist60 · connector · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpqfuz/filarise_passed_review_and_is_now_available_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpqfuz>
 
@@ -480,29 +526,37 @@ Link: <https://www.reddit.com/gallery/1xpqfuz>
 >
 > Would you use AI to explore your bank transactions?
 
+<a id="post-24"></a>
+
 ### 24. mcp testing
 
-2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xppnt3/mcp_testing/)
+2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xppnt3/mcp_testing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-25"></a>
 
 ### 25. if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to fix: https://manufact.com/leaderboard
 
-2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp8y4/if_youre_curious_how_high_quality_your_mcp_is/)
+2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp8y4/if_youre_curious_how_high_quality_your_mcp_is/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. Testing MCP Servers
 
-2026-11-06 · u/roastedrants · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp8h2/testing_mcp_servers/)
+2026-11-06 · u/roastedrants · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp8h2/testing_mcp_servers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/y3i7ahrhc20i1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-27"></a>
+
 ### 27. I built an MCP server for my TV tracker. It has no database of its own
 
-2026-11-06 · u/itsnoddydev · showcase · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp5vv/i_built_an_mcp_server_for_my_tv_tracker_it_has_no/)
+2026-11-06 · u/itsnoddydev · showcase · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp5vv/i_built_an_mcp_server_for_my_tv_tracker_it_has_no/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/f5ff7z6yb20i1>
 
@@ -556,9 +610,11 @@ Link: <https://v.redd.it/f5ff7z6yb20i1>
 >
 > — Noddy
 
+<a id="post-28"></a>
+
 ### 28. Tool Definition Drift: What Changes After Approval, and How You Find Out
 
-2026-11-06 · u/BlitzBallBruiser · resource · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp19g/tool_definition_drift_what_changes_after_approval/)
+2026-11-06 · u/BlitzBallBruiser · resource · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpp19g/tool_definition_drift_what_changes_after_approval/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I'm posting on behalf of MCP Manager by Usercentrics.
 >
@@ -604,17 +660,21 @@ Link: <https://v.redd.it/f5ff7z6yb20i1>
 >
 > Curious how people handle the remote side? Diffing metadata is a solved problem. Behavior drift on a hosted server you do not control is the part I haven't seen a clean answer to.
 
+<a id="post-29"></a>
+
 ### 29. if you're curious how high quality your mcp is, manufact made this leaderboard that tells you exactly what to fix: https://manufact.com/leaderboard
 
-2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpoyeg/if_youre_curious_how_high_quality_your_mcp_is/)
+2026-11-06 · u/MegHildreth · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpoyeg/if_youre_curious_how_high_quality_your_mcp_is/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/stdip2y6a20i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. MyFitnessPal's MCP stopped working, so I built my own platform
 
-2026-11-06 · u/Odd_Apricot_3402 · showcase · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpocx1/myfitnesspals_mcp_stopped_working_so_i_built_my/)
+2026-11-06 · u/Odd_Apricot_3402 · showcase · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpocx1/myfitnesspals_mcp_stopped_working_so_i_built_my/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://caloriecub.com/>
 
@@ -623,9 +683,11 @@ Link: <https://caloriecub.com/>
 >
 > 3 Day Free Trial 👍
 
+<a id="post-31"></a>
+
 ### 31. I wrote a harness for exploring your raw DNA data with Claude, Codex or a local model
 
-2026-11-06 · u/Ok_Mirror_832 · showcase · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpntng/i_wrote_a_harness_for_exploring_your_raw_dna_data/)
+2026-11-06 · u/Ok_Mirror_832 · showcase · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpntng/i_wrote_a_harness_for_exploring_your_raw_dna_data/) · [↑ back to the list](#last-50-posts)
 
 > Gnomancer is a CLI and MCP server. It takes a raw export from 23andMe, Ancestry, MyHeritage, FTDNA or LivingDNA, or a VCF, and writes an HTML report on your computer with haplogroups, a marker panel, ClinVar and PharmCAT.
 >
@@ -641,38 +703,48 @@ Link: <https://caloriecub.com/>
 >
 > Feedback welcome, especially from anyone who knows the genetics side better than I do.
 
+<a id="post-32"></a>
+
 ### 32. Showcase: MCP that checks if a job URL is still open
 
-2026-11-06 · u/Livecheck24 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmqoi/showcase_mcp_that_checks_if_a_job_url_is_still/)
+2026-11-06 · u/Livecheck24 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmqoi/showcase_mcp_that_checks_if_a_job_url_is_still/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. x402watch – Wash-filtered intelligence layer for x402 — read-only access to category stats, service details, wash analysis aggregate, service search, and 24h trends.
 
-2026-11-06 · u/modelcontextprotocol · connector · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmk4k/x402watch_washfiltered_intelligence_layer_for/)
+2026-11-06 · u/modelcontextprotocol · connector · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmk4k/x402watch_washfiltered_intelligence_layer_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/connectors/com.printmoneylab.x402.api/x402watch>
 
 
+<a id="post-34"></a>
+
 ### 34. Searchspring Integration Assistant – Provides implementation guidance, code validation, and troubleshooting tools for Searchspring's e-commerce APIs including search, autocomplete, recommendations, and tracking. Helps developers properly integrate Searchspring functionality with platform-specific co
 
-2026-11-06 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmk4x/searchspring_integration_assistant_provides/)
+2026-11-06 · u/modelcontextprotocol · server · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpmk4x/searchspring_integration_assistant_provides/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/servers/yangjeep/playground-searchspring-api-assist-mcp>
 
 
+<a id="post-35"></a>
+
 ### 35. MCP Agent Usability
 
-2026-11-06 · u/alejxb · resource · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xplphj/mcp_agent_usability/)
+2026-11-06 · u/alejxb · resource · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xplphj/mcp_agent_usability/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://m3.sineframe.com/leaderboard/>
 
 > Hi, we built this to compare how do well do different agents use popular MCP servers. Results are interesting.   
 > If you're building an MCP server, how do you test if it works across different harnesses (and their different versions)?
 
+<a id="post-36"></a>
+
 ### 36. Designing an MCP server for 60+ financial datasets: symbology, permissioning, and context management
 
-2026-11-06 · u/vianexus_official · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpjv1o/designing_an_mcp_server_for_60_financial_datasets/)
+2026-11-06 · u/vianexus_official · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpjv1o/designing_an_mcp_server_for_60_financial_datasets/) · [↑ back to the list](#last-50-posts)
 
 > We built an MCP server that serves 60+ financial datasets to agents through the Claude and Cursor directories. Real traffic + real users. Here's how we designed it for viaNexus.
 >
@@ -688,9 +760,11 @@ Link: <https://m3.sineframe.com/leaderboard/>
 >
 > (I work on the platform team at viaNexus, which runs this server.)
 
+<a id="post-37"></a>
+
 ### 37. 7 MCP servers this week, and one of them rings your phone when it gets stuck
 
-2026-11-06 · u/Prior_Engineering486 · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpjfdf/7_mcp_servers_this_week_and_one_of_them_rings/)
+2026-11-06 · u/Prior_Engineering486 · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpjfdf/7_mcp_servers_this_week_and_one_of_them_rings/) · [↑ back to the list](#last-50-posts)
 
 > Your agent hits a question it should not guess at. This week, one server solves that by calling you. Literally. The rest of this week's picks solve quieter problems, and each one is clear about where it stops.
 >
@@ -719,17 +793,21 @@ Link: <https://m3.sineframe.com/leaderboard/>
 >
 > *Footnote: I found these while running clauderules.net, which I run. The first five are listed there. Positron and athenaPatient are not listed there.*
 
+<a id="post-38"></a>
+
 ### 38. Courtship - an mcp made for LÖVE
 
-2026-11-06 · u/RelativeSudden1814 · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpix62/courtship_an_mcp_made_for_löve/)
+2026-11-06 · u/RelativeSudden1814 · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpix62/courtship_an_mcp_made_for_löve/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/grimmdev/Courtship>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Some coding agents set up archived MCP servers from memory. 5 commands to check yours
 
-2026-11-06 · u/MrDogeAlright · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpi39x/some_coding_agents_set_up_archived_mcp_servers/)
+2026-11-06 · u/MrDogeAlright · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpi39x/some_coding_agents_set_up_archived_mcp_servers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/9ee4dhfix00i1>
 
@@ -753,27 +831,35 @@ Link: <https://v.redd.it/9ee4dhfix00i1>
 >
 > Sources: https://www.helpnetsecurity.com/2026/11/03/mcphantom-deprecated-mcp-servers/ and https://github.com/modelcontextprotocol/servers-archived
 
+<a id="post-40"></a>
+
 ### 40. MCP for Thunderbird
 
-2026-11-06 · u/itanpiuco2020 · question · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xphke1/mcp_for_thunderbird/)
+2026-11-06 · u/itanpiuco2020 · question · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xphke1/mcp_for_thunderbird/) · [↑ back to the list](#last-50-posts)
 
 > I recently started using Thunderbird again and I just want to connect it with Claude. Do you have any recommendation on what MCP to use?
 
+<a id="post-41"></a>
+
 ### 41. Bayze update: 5 multi-AI collaboration patterns now (incl. adversarial debate with an arbiter) — and the 7 bugs that 6 rounds of real testing shook out
 
-2026-11-06 · u/bayze-mcp · showcase · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfxp3/bayze_update_5_multiai_collaboration_patterns_now/)
+2026-11-06 · u/bayze-mcp · showcase · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfxp3/bayze_update_5_multiai_collaboration_patterns_now/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-42"></a>
 
 ### 42. Showcase: Grok Token Saver — Windows tray + hosted MCP so Grok Bot reads slim file extracts
 
-2026-11-06 · u/GenoskwaHQ · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfud0/showcase_grok_token_saver_windows_tray_hosted_mcp/)
+2026-11-06 · u/GenoskwaHQ · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfud0/showcase_grok_token_saver_windows_tray_hosted_mcp/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-43"></a>
+
 ### 43. Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed
 
-2026-11-06 · u/daniele_dll · showcase · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfd08/android_remote_control_mcp_v1130_is_out_free/)
+2026-11-06 · u/daniele_dll · showcase · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpfd08/android_remote_control_mcp_v1130_is_out_free/) · [↑ back to the list](#last-50-posts)
 
 > 🚀 It has been a while since the last release, but Android Remote Control MCP is back and v1.13.0 is now out! It's the MCP server that runs on your phone and lets your AI agent use any app you want.
 >
@@ -813,32 +899,40 @@ Link: <https://v.redd.it/9ee4dhfix00i1>
 >
 > No adb, no cables, no root! If there's an app for it, your agent can drive it ... you just have to ask!
 
+<a id="post-44"></a>
+
 ### 44. Ground Truth - Fresh Evidence for AI Agents – Keep AI answers fresh with free source previews, scheduled monitoring, evidence history, and alerts.
 
-2026-11-06 · u/modelcontextprotocol · connector · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpew61/ground_truth_fresh_evidence_for_ai_agents_keep_ai/)
+2026-11-06 · u/modelcontextprotocol · connector · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpew61/ground_truth_fresh_evidence_for_ai_agents_keep_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/connectors/io.github.anish632/ground-truth>
 
 
+<a id="post-45"></a>
+
 ### 45. Reddit MCP Server – Enables interaction with Reddit through a comprehensive API interface supporting both read-only operations (browsing posts, comments, user profiles) and authenticated actions (posting, commenting, voting) via OAuth2 authentication.
 
-2026-11-06 · u/modelcontextprotocol · server · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpew68/reddit_mcp_server_enables_interaction_with_reddit/)
+2026-11-06 · u/modelcontextprotocol · server · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpew68/reddit_mcp_server_enables_interaction_with_reddit/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://glama.ai/mcp/servers/tandat8503/mcp-reddit>
 
 
+<a id="post-46"></a>
+
 ### 46. playmcp is a tool for building and sharing music games
 
-2026-11-06 · u/WhaleSong2077 · server · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpeua4/playmcp_is_a_tool_for_building_and_sharing_music/)
+2026-11-06 · u/WhaleSong2077 · server · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpeua4/playmcp_is_a_tool_for_building_and_sharing_music/) · [↑ back to the list](#last-50-posts)
 
 > playmcp wants to be the MTV of music games, and has built an mcp that guides your ai agent to turn any track into a playable game. it analyzes the music, creates visuals, develops storylines, and quality checks the gameplay. everything you need to build a music game end to end, one-shot friendly.   
 >
 > Here's a sample from the community: [https://playmcp.io/night-rider](https://playmcp.io/night-rider)  
 > If you try it out, let us know what you think?
 
+<a id="post-47"></a>
+
 ### 47. My agent now reads my WhatsApp/Telegram and suggests replies in my tone (local MCP)
 
-2026-11-06 · u/SuccessfulCress7441 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpe6v7/my_agent_now_reads_my_whatsapptelegram_and/)
+2026-11-06 · u/SuccessfulCress7441 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpe6v7/my_agent_now_reads_my_whatsapptelegram_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1z1ubujn500i1.gif>
 
@@ -852,9 +946,11 @@ Link: <https://i.redd.it/1z1ubujn500i1.gif>
 >
 > Feedback welcome!
 
+<a id="post-48"></a>
+
 ### 48. I built an MCP server into my self-hosted Excalidraw app so Claude can draw diagrams and read them back
 
-2026-11-06 · u/KindlyLeadership7978 · showcase · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpdwfz/i_built_an_mcp_server_into_my_selfhosted/)
+2026-11-06 · u/KindlyLeadership7978 · showcase · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpdwfz/i_built_an_mcp_server_into_my_selfhosted/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/gocetpmk300i1>
 
@@ -883,17 +979,21 @@ Link: <https://v.redd.it/gocetpmk300i1>
 >
 > Next I'm working on letting Claude edit an existing drawing, but only after you approve the change in the canvas. What other tools would you actually use?
 
+<a id="post-49"></a>
+
 ### 49. Managing a local NVR through MCP: cameras, events, recordings and diagnostics
 
-2026-11-06 · u/timofeyprimus · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpdbx3/managing_a_local_nvr_through_mcp_cameras_events/)
+2026-11-06 · u/timofeyprimus · showcase · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpdbx3/managing_a_local_nvr_through_mcp_cameras_events/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/k6jie111yzzh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. I built Look MCP: show your AI one window, and it points where to click. A Mac menu bar app, free on the Mac App Store.
 
-2026-11-06 · u/Beneficial-Mind-5932 · showcase · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpcao7/i_built_look_mcp_show_your_ai_one_window_and_it/)
+2026-11-06 · u/Beneficial-Mind-5932 · showcase · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xpcao7/i_built_look_mcp_show_your_ai_one_window_and_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpcao7>
 
@@ -927,9 +1027,11 @@ Link: <https://www.reddit.com/gallery/1xpcao7>
 >
 > (I'm the developer.)
 
+<a id="post-51"></a>
+
 ### 51. I gave Claude access to my iPhone Home Screen through MCP and asked it to organize my apps by color
 
-2026-10-30 · u/BTCLSD · score 581 · 181 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xjs7bk/i_gave_claude_access_to_my_iphone_home_screen/)
+2026-10-30 · u/BTCLSD · score 581 · 181 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xjs7bk/i_gave_claude_access_to_my_iphone_home_screen/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3leomn8pboyh1.png>
 
@@ -954,9 +1056,11 @@ Link: <https://i.redd.it/3leomn8pboyh1.png>
 >
 > Would love to hear any thoughts or feedback.
 
+<a id="post-52"></a>
+
 ### 52. I’m open-sourcing OpenLolo—let AI operate your iPhone through MCP
 
-2026-10-29 · u/Eonminion · showcase · score 91 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xikbmj/im_opensourcing_openlololet_ai_operate_your/)
+2026-10-29 · u/Eonminion · showcase · score 91 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xikbmj/im_opensourcing_openlololet_ai_operate_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2rpc4kd1ueyh1.png>
 
@@ -969,9 +1073,11 @@ Link: <https://i.redd.it/2rpc4kd1ueyh1.png>
 >
 > I’d love your feedback! Would you be interested in giving it a try? Is anything in the guide unclear or missing?
 
+<a id="post-53"></a>
+
 ### 53. Claude brought us 24,000+ users in 5 weeks
 
-2026-11-04 · u/ElevatorFriendly648 · showcase · score 73 · 49 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xo0ftz/claude_brought_us_24000_users_in_5_weeks/)
+2026-11-04 · u/ElevatorFriendly648 · showcase · score 73 · 49 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xo0ftz/claude_brought_us_24000_users_in_5_weeks/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I'm the founder of SlickTrip, a flight and hotel price tracker.
 >
@@ -989,9 +1095,11 @@ Link: <https://i.redd.it/2rpc4kd1ueyh1.png>
 >
 > [slicktrip.com/mcp](https://slicktrip.com/mcp)
 
+<a id="post-54"></a>
+
 ### 54. I built an MCP server that lets AI agents control your iPhone
 
-2026-10-19 · u/Eonminion · score 61 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xa9etq/i_built_an_mcp_server_that_lets_ai_agents_control/)
+2026-10-19 · u/Eonminion · score 61 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xa9etq/i_built_an_mcp_server_that_lets_ai_agents_control/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/io9ywot8qhwh1>
 
@@ -1009,9 +1117,11 @@ Link: <https://v.redd.it/io9ywot8qhwh1>
 >
 > What would you want your agent to do on your phone? If people are interested, I’ll put together a detailed DIY setup guide and video.
 
+<a id="post-55"></a>
+
 ### 55. I built an MCP server that lets agents research real objects and reconstruct them as structured 3D scenes
 
-2026-10-31 · u/SignificanceLanky988 · showcase · score 59 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xk5efs/i_built_an_mcp_server_that_lets_agents_research/)
+2026-10-31 · u/SignificanceLanky988 · showcase · score 59 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xk5efs/i_built_an_mcp_server_that_lets_agents_research/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ilbvwceaqryh1>
 
@@ -1037,9 +1147,11 @@ Link: <https://v.redd.it/ilbvwceaqryh1>
 >
 > If anyone here tries the MCP side specifically, I'd be interested in what client you use it from and where the tool interface feels awkward.
 
+<a id="post-56"></a>
+
 ### 56. I made a free, local alternative to ElevenLabs sound effects and Suno for game audio
 
-2026-10-24 · u/WeakTrifle3475 · showcase · score 49 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xecwlw/i_made_a_free_local_alternative_to_elevenlabs/)
+2026-10-24 · u/WeakTrifle3475 · showcase · score 49 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xecwlw/i_made_a_free_local_alternative_to_elevenlabs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/f7onwdbzxfxh1>
 
@@ -1061,9 +1173,11 @@ Link: <https://v.redd.it/f7onwdbzxfxh1>
 >
 > [https://github.com/HamSanders/soundbox](https://github.com/HamSanders/soundbox)
 
+<a id="post-57"></a>
+
 ### 57. i built an mcp server that searches google flights, google hotels and booking from your own machine, no api keys
 
-2026-10-25 · u/Fast_Entrance7839 · showcase · score 37 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xf3f0y/i_built_an_mcp_server_that_searches_google/)
+2026-10-25 · u/Fast_Entrance7839 · showcase · score 37 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xf3f0y/i_built_an_mcp_server_that_searches_google/) · [↑ back to the list](#last-50-posts)
 
 > disclosure: i made this. it's free and MIT licensed
 >
@@ -1081,9 +1195,11 @@ Link: <https://v.redd.it/f7onwdbzxfxh1>
 >
 > it reads third party sites, so it breaks when they change their pages. if it breaks for you let me know and i'll fix it
 
+<a id="post-58"></a>
+
 ### 58. My Copilot built 4 MCP servers for me in minutes — Jenkins, Bitbucket, Teams, and a DB connector. Here's what I learned.
 
-2026-10-17 · u/Any-Blacksmith-2054 · score 35 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1x83yh3/my_copilot_built_4_mcp_servers_for_me_in_minutes/)
+2026-10-17 · u/Any-Blacksmith-2054 · score 35 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1x83yh3/my_copilot_built_4_mcp_servers_for_me_in_minutes/) · [↑ back to the list](#last-50-posts)
 
 > So I've been running a stack of MCP servers at work for a while now, and I wanted to share because I feel like the barrier to entry has *completely* collapsed.
 >
@@ -1112,9 +1228,11 @@ Link: <https://v.redd.it/f7onwdbzxfxh1>
 >
 > Happy to share a "super-prompt" example for a cross-tool scenario if there's interest — just tell me which process hurts most (PR review? incident triage? release prep?) and I'll draft one for your stack.
 
+<a id="post-59"></a>
+
 ### 59. Kanzo, a tiny self-hosted kanban board you and your coding agents can share (~5k lines, one 4 MB binary)
 
-2026-10-26 · u/allmudi · showcase · score 31 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xg7mjc/kanzo_a_tiny_selfhosted_kanban_board_you_and_your/)
+2026-10-26 · u/allmudi · showcase · score 31 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xg7mjc/kanzo_a_tiny_selfhosted_kanban_board_you_and_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tqyh55smbvxh1.gif>
 
@@ -1133,9 +1251,11 @@ Link: <https://i.redd.it/tqyh55smbvxh1.gif>
 >
 > Still early. If you've got ideas on how to make it even smaller, PRs very welcome, deleting code counts as a feature here.
 
+<a id="post-60"></a>
+
 ### 60. I built Thumbly, an open-source MCP server for controlling a real iPhone from a Mac
 
-2026-10-25 · u/timurcat99 · showcase · score 31 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xfgv56/i_built_thumbly_an_opensource_mcp_server_for/)
+2026-10-25 · u/timurcat99 · showcase · score 31 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xfgv56/i_built_thumbly_an_opensource_mcp_server_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/cc6un0jz4pxh1>
 
@@ -1163,9 +1283,11 @@ Link: <https://v.redd.it/cc6un0jz4pxh1>
 >
 > I'd appreciate feedback from people trying it with different iPhones and MCP clients, especially setup problems and workflows that fail.
 
+<a id="post-61"></a>
+
 ### 61. I built an MCP server for sharing my Firefox/Zen browser with a coding agent
 
-2026-11-02 · u/Sad-Interview9085 · showcase · score 29 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xlubef/i_built_an_mcp_server_for_sharing_my_firefoxzen/)
+2026-11-02 · u/Sad-Interview9085 · showcase · score 29 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xlubef/i_built_an_mcp_server_for_sharing_my_firefoxzen/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/qb49hf5pl6zh1>
 
@@ -1183,9 +1305,11 @@ Link: <https://v.redd.it/qb49hf5pl6zh1>
 >
 > Setup and source: [https://github.com/junyeong-nero/kitsune](https://github.com/junyeong-nero/kitsune)
 
+<a id="post-62"></a>
+
 ### 62. We made the first Jev-Router for models and agentic tools in MCP!
 
-2026-10-27 · u/Fun-Meaning-6474 · connector · score 26 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xh8i8c/we_made_the_first_jevrouter_for_models_and/)
+2026-10-27 · u/Fun-Meaning-6474 · connector · score 26 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xh8i8c/we_made_the_first_jevrouter_for_models_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/a6rndfbgc3yh1>
 
@@ -1209,9 +1333,11 @@ Link: <https://v.redd.it/a6rndfbgc3yh1>
 >
 > also help us name this thing lol. jev mcp router? jev tool router? we're still figuring that part out
 
+<a id="post-63"></a>
+
 ### 63. Compacting at 400K instead of ~967K cut my Claude Code cost per request by 43%
 
-2026-11-03 · u/Awkward-Let-4628 · showcase · score 23 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xme6zw/compacting_at_400k_instead_of_967k_cut_my_claude/)
+2026-11-03 · u/Awkward-Let-4628 · showcase · score 23 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xme6zw/compacting_at_400k_instead_of_967k_cut_my_claude/) · [↑ back to the list](#last-50-posts)
 
 > This isn't a universal recipe. It's how I tuned Claude Code for my own work, and different settings may suit you better.
 >
@@ -1263,9 +1389,11 @@ Link: <https://v.redd.it/a6rndfbgc3yh1>
 >
 > [https://github.com/rsaryev/tokendoctor](https://github.com/rsaryev/tokendoctor)
 
+<a id="post-64"></a>
+
 ### 64. if an AI agent uses my valid credentials to do something bad, what control is supposed to know it wasn't me?
 
-2026-11-04 · u/Cytersmyz · question · score 22 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xnhtcj/if_an_ai_agent_uses_my_valid_credentials_to_do/)
+2026-11-04 · u/Cytersmyz · question · score 22 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xnhtcj/if_an_ai_agent_uses_my_valid_credentials_to_do/) · [↑ back to the list](#last-50-posts)
 
 > maybe dumb architecture question
 >
@@ -1319,9 +1447,11 @@ Link: <https://v.redd.it/a6rndfbgc3yh1>
 >
 > where are people actually putting the trust boundary?
 
+<a id="post-65"></a>
+
 ### 65. I ran a decoy MCP server. 7 AI tools connected within 7 minutes, and 4 asked for the full tool list
 
-2026-10-25 · u/KnowledgeOk7634 · score 22 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xfev3v/i_ran_a_decoy_mcp_server_7_ai_tools_connected/)
+2026-10-25 · u/KnowledgeOk7634 · score 22 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xfev3v/i_ran_a_decoy_mcp_server_7_ai_tools_connected/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/x0i0jfofpoxh1.png>
 
@@ -1331,9 +1461,11 @@ Link: <https://i.redd.it/x0i0jfofpoxh1.png>
 >
 > What are people doing for auth on remote MCP servers? OAuth per the spec, or something simpler?
 
+<a id="post-66"></a>
+
 ### 66. How are you handling tool overload when an MCP server exposes hundreds of endpoints?
 
-2026-11-04 · u/sandeepK1125 · question · score 20 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xniwdn/how_are_you_handling_tool_overload_when_an_mcp/)
+2026-11-04 · u/sandeepK1125 · question · score 20 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xniwdn/how_are_you_handling_tool_overload_when_an_mcp/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I work on ApyHub's MCP server, so I'm biased. Mostly interested in what's working for you.
 >
@@ -1359,9 +1491,11 @@ Link: <https://i.redd.it/x0i0jfofpoxh1.png>
 >
 > \- At what tool count did you start seeing selection accuracy drop?
 
+<a id="post-67"></a>
+
 ### 67. Garmin training data dashboard and MCP from the official Personal API (free, open source)
 
-2026-10-31 · u/indaco_dev · server · score 16 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xki17a/garmin_training_data_dashboard_and_mcp_from_the/)
+2026-10-31 · u/indaco_dev · server · score 16 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xki17a/garmin_training_data_dashboard_and_mcp_from_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4u56p23xluyh1.gif>
 
@@ -1397,9 +1531,11 @@ Link: <https://i.redd.it/4u56p23xluyh1.gif>
 >
 > Free and MIT-licensed. Full disclosure: I wrote it with Claude Code. I designed it, reviewed every change, and I use it with my own data.
 
+<a id="post-68"></a>
+
 ### 68. We built an MCP for your agent to check the ML literature before it builds ML experiments. Here's what other people's agents searched for.
 
-2026-11-05 · u/martincsweiss · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xonown/we_built_an_mcp_for_your_agent_to_check_the_ml/)
+2026-11-05 · u/martincsweiss · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xonown/we_built_an_mcp_for_your_agent_to_check_the_ml/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/v6gpytt5qtzh1>
 
@@ -1421,9 +1557,11 @@ Link: <https://v.redd.it/v6gpytt5qtzh1>
 >
 > [](https://www.reddit.com/submit/?source_id=t3_1xonnjs&composer_entry=crosspost_prompt)
 
+<a id="post-69"></a>
+
 ### 69. Group new here, have an honest question.
 
-2026-10-18 · u/marinetejas · score 12 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1x92ohv/group_new_here_have_an_honest_question/)
+2026-10-18 · u/marinetejas · score 12 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1x92ohv/group_new_here_have_an_honest_question/) · [↑ back to the list](#last-50-posts)
 
 > I love engineering, I’m plus 27-28 heads 
 >
@@ -1437,9 +1575,11 @@ Link: <https://v.redd.it/v6gpytt5qtzh1>
 >
 > Sometimes I feel I can’t stop building. The next project. I
 
+<a id="post-70"></a>
+
 ### 70. I made an iOS/MacOS shortcut that discovers MCP tools at runtime and prompts you to run them
 
-2026-11-02 · u/mhg3 · showcase · score 12 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xlx9qo/i_made_an_iosmacos_shortcut_that_discovers_mcp/)
+2026-11-02 · u/mhg3 · showcase · score 12 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/mcp/comments/1xlx9qo/i_made_an_iosmacos_shortcut_that_discovers_mcp/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://imgur.com/a/Qa0uaMf>
 

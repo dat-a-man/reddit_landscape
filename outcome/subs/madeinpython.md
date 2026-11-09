@@ -38,56 +38,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Made in Python: VulnPath-AI — offline scanner for AI/agent code risks](https://www.reddit.com/r/madeinpython/comments/1xpweo2/made_in_python_vulnpathai_offline_scanner_for/) | u/Ok-Suggestion-4676 | — | text | 1 | 5 | live | — |
-| 2 | 2026-11-06 | [I wrote yet another project initializer](https://www.reddit.com/r/madeinpython/comments/1xpfq0t/i_wrote_yet_another_project_initializer/) | u/Win_ipedia | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-06 | [stu.py: a free Python learning environment that runs in your browser](https://www.reddit.com/r/madeinpython/comments/1xpflcb/stupy_a_free_python_learning_environment_that/) | u/stu_py | — | v.redd.it | 0 | 6 | live | — |
-| 4 | 2026-11-06 | [I built quite-admin: one admin UI for FastAPI and Litestar](https://www.reddit.com/r/madeinpython/comments/1xpbx7l/i_built_quiteadmin_one_admin_ui_for_fastapi_and/) | u/lyova24 | — | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](https://www.reddit.com/r/madeinpython/comments/1xpbgax/built_an_ai_extension_that_generates_complete/) | u/prettywhale_ai | — | reddit.com | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-06 | [apple-llm: a Python library for macOS speech recognition, system voices, and the on-device LLM](https://www.reddit.com/r/madeinpython/comments/1xp6y9y/applellm_a_python_library_for_macos_speech/) | u/light_2earth | — | text | 1 | 0 | live | — |
-| 7 | 2026-11-06 | [PyOffice Devolpment has started!](https://www.reddit.com/r/madeinpython/comments/1xp6s7j/pyoffice_devolpment_has_started/) | u/Onyxl_build | — | i.redd.it | 2 | 1 | live | — |
-| 8 | 2026-11-06 | [Somebody built an actual deep learning framework all in numpy!](https://www.reddit.com/r/madeinpython/comments/1xp68uq/somebody_built_an_actual_deep_learning_framework/) | u/InternalYoghurt9489 | — | text | 1 | 0 | live | — |
-| 9 | 2026-11-05 | [I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)](https://www.reddit.com/r/madeinpython/comments/1xouspj/i_made_a_package_to_pausestop_a_running_training/) | u/Organic-Trip2148 | — | i.redd.it | 1 | 0 | live | — |
-| 10 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](https://www.reddit.com/r/madeinpython/comments/1xoij5e/web_i_built_a_browser_game_where_you_script/) | u/Delicious-Editor-168 | — | reddit.com | 1 | 1 | live | — |
-| 11 | 2026-11-05 | [\[Blog Post\] The State of Python Profiling in 2026](https://www.reddit.com/r/madeinpython/comments/1xogiua/blog_post_the_state_of_python_profiling_in_2026/) | u/P403n1x87 | — | reddit.com | 0 | 0 | live | — |
-| 12 | 2026-11-05 | [I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)](https://www.reddit.com/r/madeinpython/comments/1xogae5/i_built_a_lightweight_pyside6_gui_for_ytdlp/) | u/No-Praline-9052 | — | text | 0 | 2 | live | — |
-| 13 | 2026-11-05 | [How much useful you found the lazy import in Python (v3.15)](https://www.reddit.com/r/madeinpython/comments/1xo78a1/how_much_useful_you_found_the_lazy_import_in/) | u/hariomlohardev | — | reddit.com | 1 | 0 | live | — |
-| 14 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](https://www.reddit.com/r/madeinpython/comments/1xnzxqk/systemupdater_a_zerodependency_system_and_package/) | u/Piotrunius0 | — | i.redd.it | 3 | 0 | live | — |
-| 15 | 2026-11-04 | [autotok – open-source TikTok uploader with Python/TS/Go SDKs and an MCP server](https://www.reddit.com/r/madeinpython/comments/1xnxieo/autotok_opensource_tiktok_uploader_with/) | u/Right-Advance1925 | — | i.redd.it | 1 | 0 | live | — |
-| 16 | 2026-11-04 | [checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()](https://www.reddit.com/r/madeinpython/comments/1xnqgj6/checkmodel_onecall_diagnostics_for_statistical/) | u/KevinBeicon | — | text | 1 | 0 | live | — |
-| 17 | 2026-11-04 | [I wrote a Windows cleaner in Python. The cleaning was the easy part.](https://www.reddit.com/r/madeinpython/comments/1xnnkuk/i_wrote_a_windows_cleaner_in_python_the_cleaning/) | u/vlad_swept | — | text | 1 | 4 | live | — |
-| 18 | 2026-11-04 | [Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners](https://www.reddit.com/r/madeinpython/comments/1xnlgm5/matplotlib_real_time_plot_animation_tutorial/) | u/xanthium_in | — | instructables.com | 1 | 0 | live | — |
-| 19 | 2026-11-04 | [I built a Python 2D BEM solver and Streamlit dashboard to design a physical wind turbine (I'm 16)](https://www.reddit.com/r/madeinpython/comments/1xniexd/i_built_a_python_2d_bem_solver_and_streamlit/) | u/OrneryProfit659 | — | github.com | 1 | 0 | live | — |
-| 20 | 2026-11-04 | [Introducing AstroConvert: An intelligent, cross-platform astronomical coordinate converter built using Python…](https://www.reddit.com/r/madeinpython/comments/1xnem8l/introducing_astroconvert_an_intelligent/) | u/unwantedastronomer | — | reddit.com | 2 | 4 | live | — |
-| 21 | 2026-11-03 | [100M de primos peneirados no POCO F5 (Android) - TOP 6 no r/mathematics e 10K views hoje! Feito em Venda Nova…](https://www.reddit.com/r/madeinpython/comments/1xn6386/100m_de_primos_peneirados_no_poco_f5_android_top/) | u/Dry-Neighborhood-412 | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 22 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](https://www.reddit.com/r/madeinpython/comments/1xn5oke/100m_primes_sieved_on_android_poco_f5_i/) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 23 | 2026-11-03 | [I just released my open-source Python project, RowCanary, and I'd love some feedback](https://www.reddit.com/r/madeinpython/comments/1xn2s3i/i_just_released_my_opensource_python_project/) | u/spockplayer2 | — | text | 2 | 0 | live | — |
-| 24 | 2026-11-03 | [WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog](https://www.reddit.com/r/madeinpython/comments/1xmuavp/wifi_tool_v02_purepython_wifi_auditing_toolkit/) | u/lynanaln | — | text | 0 | 1 | live | — |
-| 25 | 2026-11-03 | [Comparing two Python game development libraries: Pygame vs Arcade](https://www.reddit.com/r/madeinpython/comments/1xmu0vq/comparing_two_python_game_development_libraries/) | u/Python_Data_Science | — | reddit.com | 0 | 0 | live | — |
-| 26 | 2026-11-03 | [YOUR GAMES AND YOUR ADS](https://www.reddit.com/r/madeinpython/comments/1xmtjre/your_games_and_your_ads/) | u/MOhamed_3874 | — | text | 1 | 0 | live | — |
-| 27 | 2026-11-03 | [I built a desktop client for Antora docs in Python and PySide6 (closed source)](https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_client_for_antora_docs_in/) | u/Timon_OfAthens | — | text | 1 | 0 | live | — |
-| 28 | 2026-11-03 | [Python Quiz of the Day.](https://www.reddit.com/r/madeinpython/comments/1xmsorf/python_quiz_of_the_day/) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
-| 29 | 2026-11-03 | [EduManage: 100% Offline School & Fee Management Desktop Software](https://www.reddit.com/r/madeinpython/comments/1xmp80c/edumanage_100_offline_school_fee_management/) | u/bittu_jain | — | reddit.com | 1 | 4 | live | — |
-| 30 | 2026-11-03 | [🏔️ Garhwali Language Library v1.3.0 is now live on PyPI!](https://www.reddit.com/r/madeinpython/comments/1xmg1m2/garhwali_language_library_v130_is_now_live_on_pypi/) | u/National_Ad5713 | — | reddit.com | 1 | 0 | live | — |
-| 31 | 2026-11-02 | [I built CyberNest, a Python dependency security tool, while learning cybersecurity](https://www.reddit.com/r/madeinpython/comments/1xma6ba/i_built_cybernest_a_python_dependency_security/) | u/MrBucurN | — | reddit.com | 1 | 0 | live | — |
-| 32 | 2026-11-02 | [I rewrote edify, my Python library for building regex without writing regex by hand](https://www.reddit.com/r/madeinpython/comments/1xlvhvp/i_rewrote_edify_my_python_library_for_building/) | u/luciferreeves | — | text | 2 | 0 | live | — |
-| 33 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](https://www.reddit.com/r/madeinpython/comments/1xlurpj/i_made_a_python_library_for_scheduling_recurring/) | u/Ill-Acanthaceae5630 | — | reddit.com | 0 | 0 | live | — |
-| 34 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](https://www.reddit.com/r/madeinpython/comments/1xlr4jk/i_made_a_python_library_for_scheduling_recurring/) | u/Ill-Acanthaceae5630 | — | text | 5 | 0 | live | — |
-| 35 | 2026-11-02 | [plan-auditor: I wrote a stdlib-only gate that proves a coding agent is done, using sealed command output inst…](https://www.reddit.com/r/madeinpython/comments/1xlm8rl/planauditor_i_wrote_a_stdlibonly_gate_that_proves/) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 0 | live | — |
-| 36 | 2026-11-01 | [Flask Face Login: Passwordless Authentication with FACEIO](https://www.reddit.com/r/madeinpython/comments/1xlhqbw/flask_face_login_passwordless_authentication_with/) | u/histoire_guy | — | javascript.plainenglish.io | 1 | 0 | live | — |
-| 37 | 2026-11-01 | [repocraft: deterministic scaffolding where one request writes one .py file plus a unittest you can read in a…](https://www.reddit.com/r/madeinpython/comments/1xlgqrl/repocraft_deterministic_scaffolding_where_one/) | u/Emergency-Tutor-7 | — | i.redd.it | 4 | 0 | live | — |
-| 38 | 2026-11-01 | [Git-Jet](https://www.reddit.com/r/madeinpython/comments/1xlg8re/gitjet/) | u/Flimsy_Fly_2017 | — | v.redd.it | 27 | 1 | live | — |
-| 39 | 2026-11-01 | [I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!](https://www.reddit.com/r/madeinpython/comments/1xlb4gb/i_built_a_crossplatform_desktop_videoaudio/) | u/Mohamed_477 | — | text | 0 | 0 | spam-filtered | — |
-| 40 | 2026-11-01 | [PyArchRules 1.0.0 — Architecture linter for Python](https://www.reddit.com/r/madeinpython/comments/1xl7sx3/pyarchrules_100_architecture_linter_for_python/) | u/EmuFeeling7341 | — | text | 0 | 2 | spam-filtered | — |
-| 41 | 2026-11-01 | [polyglot-python: a deterministic keyword transpiler so you can write Python with Turkish, Hindi or Chinese ke…](https://www.reddit.com/r/madeinpython/comments/1xkzpp3/polyglotpython_a_deterministic_keyword_transpiler/) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 2 | live | — |
-| 42 | 2026-11-01 | [I built a menu-driven Wi-Fi auditing toolkit in pure Python — with an adapter watchdog that airgeddon doesn't…](https://www.reddit.com/r/madeinpython/comments/1xkx8mw/i_built_a_menudriven_wifi_auditing_toolkit_in/) | u/lynanaln | — | i.redd.it | 2 | 6 | live | — |
-| 43 | 2026-11-01 | [Git-Ship!](https://www.reddit.com/r/madeinpython/comments/1xkq8np/gitship/) | u/Flimsy_Fly_2017 | — | reddit.com | 1 | 0 | live | — |
-| 44 | 2026-11-01 | [eq-layer: I stopped prompting models to be more empathetic and made the affect/intent decision explicit inste…](https://www.reddit.com/r/madeinpython/comments/1xkp68a/eqlayer_i_stopped_prompting_models_to_be_more/) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 0 | live | — |
-| 45 | 2026-10-31 | [🐍 ¿Qué son las palabras reservadas en Python?](https://www.reddit.com/r/madeinpython/comments/1xkfnkr/qué_son_las_palabras_reservadas_en_python/) | u/elgordodev | — | youtube.com | 0 | 0 | live | — |
-| 46 | 2026-10-31 | [pyorder: A Python source code ordering linter](https://www.reddit.com/r/madeinpython/comments/1xk6qf4/pyorder_a_python_source_code_ordering_linter/) | u/Win_ipedia | — | text | 1 | 0 | spam-filtered | — |
-| 47 | 2026-10-31 | [I made a Python reasoning skill that keeps several hypotheses alive and only collapses when evidence agrees](https://www.reddit.com/r/madeinpython/comments/1xk1jq4/i_made_a_python_reasoning_skill_that_keeps/) | u/Emergency-Tutor-7 | — | i.redd.it | 1 | 3 | live | — |
-| 48 | 2026-10-31 | [I built a real-life JARVIS in Python – a Claude-powered assistant that controls your Windows PC](https://www.reddit.com/r/madeinpython/comments/1xjy25x/i_built_a_reallife_jarvis_in_python_a/) | u/HunterGHall7 | — | v.redd.it | 6 | 6 | live | — |
-| 49 | 2026-10-31 | [I made a scientific modeling engine that refuses to simulate a model whose units don't check out (Python, MIT)](https://www.reddit.com/r/madeinpython/comments/1xjwphr/i_made_a_scientific_modeling_engine_that_refuses/) | u/Emergency-Tutor-7 | — | text | 1 | 0 | live | — |
-| 50 | 2026-10-30 | [Ho creato psp, uno strumento basato su Rust per la generazione automatica di strutture di progetto Python: og…](https://www.reddit.com/r/madeinpython/comments/1xjrntp/ho_creato_psp_uno_strumento_basato_su_rust_per_la/) | u/MatteoGuadrini | — | reddit.com | 1 | 0 | live | — |
+| 1 | 2026-11-07 | [Made in Python: VulnPath-AI — offline scanner for AI/agent code risks](#post-1) | u/Ok-Suggestion-4676 | — | text | 1 | 5 | live | — |
+| 2 | 2026-11-06 | [I wrote yet another project initializer](#post-2) | u/Win_ipedia | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-06 | [stu.py: a free Python learning environment that runs in your browser](#post-3) | u/stu_py | — | v.redd.it | 0 | 6 | live | — |
+| 4 | 2026-11-06 | [I built quite-admin: one admin UI for FastAPI and Litestar](#post-4) | u/lyova24 | — | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](#post-5) | u/prettywhale_ai | — | reddit.com | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-06 | [apple-llm: a Python library for macOS speech recognition, system voices, and the on-device LLM](#post-6) | u/light_2earth | — | text | 1 | 0 | live | — |
+| 7 | 2026-11-06 | [PyOffice Devolpment has started!](#post-7) | u/Onyxl_build | — | i.redd.it | 2 | 1 | live | — |
+| 8 | 2026-11-06 | [Somebody built an actual deep learning framework all in numpy!](#post-8) | u/InternalYoghurt9489 | — | text | 1 | 0 | live | — |
+| 9 | 2026-11-05 | [I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)](#post-9) | u/Organic-Trip2148 | — | i.redd.it | 1 | 0 | live | — |
+| 10 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](#post-10) | u/Delicious-Editor-168 | — | reddit.com | 1 | 1 | live | — |
+| 11 | 2026-11-05 | [\[Blog Post\] The State of Python Profiling in 2026](#post-11) | u/P403n1x87 | — | reddit.com | 0 | 0 | live | — |
+| 12 | 2026-11-05 | [I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)](#post-12) | u/No-Praline-9052 | — | text | 0 | 2 | live | — |
+| 13 | 2026-11-05 | [How much useful you found the lazy import in Python (v3.15)](#post-13) | u/hariomlohardev | — | reddit.com | 1 | 0 | live | — |
+| 14 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](#post-14) | u/Piotrunius0 | — | i.redd.it | 3 | 0 | live | — |
+| 15 | 2026-11-04 | [autotok – open-source TikTok uploader with Python/TS/Go SDKs and an MCP server](#post-15) | u/Right-Advance1925 | — | i.redd.it | 1 | 0 | live | — |
+| 16 | 2026-11-04 | [checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()](#post-16) | u/KevinBeicon | — | text | 1 | 0 | live | — |
+| 17 | 2026-11-04 | [I wrote a Windows cleaner in Python. The cleaning was the easy part.](#post-17) | u/vlad_swept | — | text | 1 | 4 | live | — |
+| 18 | 2026-11-04 | [Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners](#post-18) | u/xanthium_in | — | instructables.com | 1 | 0 | live | — |
+| 19 | 2026-11-04 | [I built a Python 2D BEM solver and Streamlit dashboard to design a physical wind turbine (I'm 16)](#post-19) | u/OrneryProfit659 | — | github.com | 1 | 0 | live | — |
+| 20 | 2026-11-04 | [Introducing AstroConvert: An intelligent, cross-platform astronomical coordinate converter built using Python…](#post-20) | u/unwantedastronomer | — | reddit.com | 2 | 4 | live | — |
+| 21 | 2026-11-03 | [100M de primos peneirados no POCO F5 (Android) - TOP 6 no r/mathematics e 10K views hoje! Feito em Venda Nova…](#post-21) | u/Dry-Neighborhood-412 | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 22 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](#post-22) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 23 | 2026-11-03 | [I just released my open-source Python project, RowCanary, and I'd love some feedback](#post-23) | u/spockplayer2 | — | text | 2 | 0 | live | — |
+| 24 | 2026-11-03 | [WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog](#post-24) | u/lynanaln | — | text | 0 | 1 | live | — |
+| 25 | 2026-11-03 | [Comparing two Python game development libraries: Pygame vs Arcade](#post-25) | u/Python_Data_Science | — | reddit.com | 0 | 0 | live | — |
+| 26 | 2026-11-03 | [YOUR GAMES AND YOUR ADS](#post-26) | u/MOhamed_3874 | — | text | 1 | 0 | live | — |
+| 27 | 2026-11-03 | [I built a desktop client for Antora docs in Python and PySide6 (closed source)](#post-27) | u/Timon_OfAthens | — | text | 1 | 0 | live | — |
+| 28 | 2026-11-03 | [Python Quiz of the Day.](#post-28) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
+| 29 | 2026-11-03 | [EduManage: 100% Offline School & Fee Management Desktop Software](#post-29) | u/bittu_jain | — | reddit.com | 1 | 4 | live | — |
+| 30 | 2026-11-03 | [🏔️ Garhwali Language Library v1.3.0 is now live on PyPI!](#post-30) | u/National_Ad5713 | — | reddit.com | 1 | 0 | live | — |
+| 31 | 2026-11-02 | [I built CyberNest, a Python dependency security tool, while learning cybersecurity](#post-31) | u/MrBucurN | — | reddit.com | 1 | 0 | live | — |
+| 32 | 2026-11-02 | [I rewrote edify, my Python library for building regex without writing regex by hand](#post-32) | u/luciferreeves | — | text | 2 | 0 | live | — |
+| 33 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](#post-33) | u/Ill-Acanthaceae5630 | — | reddit.com | 0 | 0 | live | — |
+| 34 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](#post-34) | u/Ill-Acanthaceae5630 | — | text | 5 | 0 | live | — |
+| 35 | 2026-11-02 | [plan-auditor: I wrote a stdlib-only gate that proves a coding agent is done, using sealed command output inst…](#post-35) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 0 | live | — |
+| 36 | 2026-11-01 | [Flask Face Login: Passwordless Authentication with FACEIO](#post-36) | u/histoire_guy | — | javascript.plainenglish.io | 1 | 0 | live | — |
+| 37 | 2026-11-01 | [repocraft: deterministic scaffolding where one request writes one .py file plus a unittest you can read in a…](#post-37) | u/Emergency-Tutor-7 | — | i.redd.it | 4 | 0 | live | — |
+| 38 | 2026-11-01 | [Git-Jet](#post-38) | u/Flimsy_Fly_2017 | — | v.redd.it | 27 | 1 | live | — |
+| 39 | 2026-11-01 | [I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!](#post-39) | u/Mohamed_477 | — | text | 0 | 0 | spam-filtered | — |
+| 40 | 2026-11-01 | [PyArchRules 1.0.0 — Architecture linter for Python](#post-40) | u/EmuFeeling7341 | — | text | 0 | 2 | spam-filtered | — |
+| 41 | 2026-11-01 | [polyglot-python: a deterministic keyword transpiler so you can write Python with Turkish, Hindi or Chinese ke…](#post-41) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 2 | live | — |
+| 42 | 2026-11-01 | [I built a menu-driven Wi-Fi auditing toolkit in pure Python — with an adapter watchdog that airgeddon doesn't…](#post-42) | u/lynanaln | — | i.redd.it | 2 | 6 | live | — |
+| 43 | 2026-11-01 | [Git-Ship!](#post-43) | u/Flimsy_Fly_2017 | — | reddit.com | 1 | 0 | live | — |
+| 44 | 2026-11-01 | [eq-layer: I stopped prompting models to be more empathetic and made the affect/intent decision explicit inste…](#post-44) | u/Emergency-Tutor-7 | — | i.redd.it | 0 | 0 | live | — |
+| 45 | 2026-10-31 | [🐍 ¿Qué son las palabras reservadas en Python?](#post-45) | u/elgordodev | — | youtube.com | 0 | 0 | live | — |
+| 46 | 2026-10-31 | [pyorder: A Python source code ordering linter](#post-46) | u/Win_ipedia | — | text | 1 | 0 | spam-filtered | — |
+| 47 | 2026-10-31 | [I made a Python reasoning skill that keeps several hypotheses alive and only collapses when evidence agrees](#post-47) | u/Emergency-Tutor-7 | — | i.redd.it | 1 | 3 | live | — |
+| 48 | 2026-10-31 | [I built a real-life JARVIS in Python – a Claude-powered assistant that controls your Windows PC](#post-48) | u/HunterGHall7 | — | v.redd.it | 6 | 6 | live | — |
+| 49 | 2026-10-31 | [I made a scientific modeling engine that refuses to simulate a model whose units don't check out (Python, MIT)](#post-49) | u/Emergency-Tutor-7 | — | text | 1 | 0 | live | — |
+| 50 | 2026-10-30 | [Ho creato psp, uno strumento basato su Rust per la generazione automatica di strutture di progetto Python: og…](#post-50) | u/MatteoGuadrini | — | reddit.com | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -95,34 +95,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 38 | 2026-11-01 | [Git-Jet](https://www.reddit.com/r/madeinpython/comments/1xlg8re/gitjet/) | u/Flimsy_Fly_2017 | — | v.redd.it | 27 | 1 | live |
-| 51 | 2026-10-23 | [🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗰𝗮𝗻 𝗻𝗼𝘄 𝗶𝗺𝗽𝗼𝗿𝘁 𝗮 𝗺𝗼𝗱𝘂𝗹𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗶𝘁 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆.](https://www.reddit.com/r/madeinpython/comments/1xdmosx/𝗣𝘆𝘁𝗵𝗼𝗻_𝗰𝗮𝗻_𝗻𝗼𝘄_𝗶𝗺𝗽𝗼𝗿𝘁_𝗮_𝗺𝗼𝗱𝘂𝗹𝗲_𝘄𝗶𝘁𝗵𝗼𝘂𝘁_𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆/) | u/Both-Basil1635 | — | i.redd.it | 24 | 0 | live |
-| 52 | 2026-10-30 | [I made a zero-dependency scientific computing library in pure Python](https://www.reddit.com/r/madeinpython/comments/1xj4dbq/i_made_a_zerodependency_scientific_computing/) | u/Emergency-Tutor-7 | — | text | 23 | 9 | live |
-| 53 | 2026-10-19 | [Built my first neural network from scratch using NumPy - documented the mathematics too](https://www.reddit.com/r/madeinpython/comments/1x9v208/built_my_first_neural_network_from_scratch_using/) | u/PanelReader | — | i.redd.it | 13 | 0 | live |
-| 54 | 2026-10-20 | [I made a reliable file-transfer tool on top of raw UDP in pure Python (standard library only)](https://www.reddit.com/r/madeinpython/comments/1xar0zl/i_made_a_reliable_filetransfer_tool_on_top_of_raw/) | u/SignificantGlass7040 | — | text | 9 | 2 | live |
-| 48 | 2026-10-31 | [I built a real-life JARVIS in Python – a Claude-powered assistant that controls your Windows PC](https://www.reddit.com/r/madeinpython/comments/1xjy25x/i_built_a_reallife_jarvis_in_python_a/) | u/HunterGHall7 | — | v.redd.it | 6 | 6 | live |
-| 55 | 2026-10-29 | [My kid and I open-sourced a Python typing game for children, inspired by battle royales and 90s adventure gam…](https://www.reddit.com/r/madeinpython/comments/1xi99h6/my_kid_and_i_opensourced_a_python_typing_game_for/) | u/Jbenoitds | — | text | 6 | 4 | live |
-| 56 | 2026-10-30 | [Flak tower in the First World War](https://www.reddit.com/r/madeinpython/comments/1xjbhef/flak_tower_in_the_first_world_war/) | u/scapaflow96 | — | v.redd.it | 6 | 2 | live |
-| 57 | 2026-10-13 | [Minesweeper helper](https://www.reddit.com/r/madeinpython/comments/1x4xw3v/minesweeper_helper/) | u/TheSweeperOfTheMines | — | v.redd.it | 6 | 0 | live |
-| 58 | 2026-10-10 | [Dripfetch - A customizable terminal dashboard with animated rain](https://www.reddit.com/r/madeinpython/comments/1x2oer9/dripfetch_a_customizable_terminal_dashboard_with/) | u/ashygun | — | v.redd.it | 6 | 0 | live |
-| 59 | 2026-10-17 | [My first real Python project: an offline tool that masks emails, API keys and card numbers in log files (and…](https://www.reddit.com/r/madeinpython/comments/1x8cw6a/my_first_real_python_project_an_offline_tool_that/) | u/Material-Switch5380 | — | text | 5 | 4 | live |
-| 60 | 2026-10-14 | [Built a standalone Python desktop tool (CustomTkinter + yt-dlp + bundled FFmpeg). Lessons learned.](https://www.reddit.com/r/madeinpython/comments/1x62c5e/built_a_standalone_python_desktop_tool/) | u/One_Sun5074 | — | text | 5 | 4 | live |
-| 34 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](https://www.reddit.com/r/madeinpython/comments/1xlr4jk/i_made_a_python_library_for_scheduling_recurring/) | u/Ill-Acanthaceae5630 | — | text | 5 | 0 | live |
-| 61 | 2026-10-18 | [Inbox Assistant: Sorting Gmail with Python](https://www.reddit.com/r/madeinpython/comments/1x92xxw/inbox_assistant_sorting_gmail_with_python/) | u/ScallionNo2755 | — | substack.com | 5 | 0 | live |
-| 62 | 2026-10-14 | [Cintra language](https://www.reddit.com/r/madeinpython/comments/1x5i8l5/cintra_language/) | u/_debuser_alt | — | text | 4 | 4 | live |
-| 37 | 2026-11-01 | [repocraft: deterministic scaffolding where one request writes one .py file plus a unittest you can read in a…](https://www.reddit.com/r/madeinpython/comments/1xlgqrl/repocraft_deterministic_scaffolding_where_one/) | u/Emergency-Tutor-7 | — | i.redd.it | 4 | 0 | live |
-| 63 | 2026-10-10 | [Taking my Python-based Kubernetes game in a Pokémon-inspired direction - early prototype](https://www.reddit.com/r/madeinpython/comments/1x2kquk/taking_my_pythonbased_kubernetes_game_in_a/) | u/Content_Ad_4153 | — | v.redd.it | 4 | 0 | live |
-| 64 | 2026-10-27 | [I built DoveORM, a lightweight Python ORM with built-in migrations — looking for feedback](https://www.reddit.com/r/madeinpython/comments/1xglvnh/i_built_doveorm_a_lightweight_python_orm_with/) | u/Away_Drag6898 | — | text | 3 | 1 | live |
-| 14 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](https://www.reddit.com/r/madeinpython/comments/1xnzxqk/systemupdater_a_zerodependency_system_and_package/) | u/Piotrunius0 | — | i.redd.it | 3 | 0 | live |
-| 65 | 2026-10-28 | [Feel like your keyboard is double tapping keys? I made a simple check software](https://www.reddit.com/r/madeinpython/comments/1xhleab/feel_like_your_keyboard_is_double_tapping_keys_i/) | u/Druzina_M | — | i.redd.it | 3 | 0 | live |
+| 38 | 2026-11-01 | [Git-Jet](#post-38) | u/Flimsy_Fly_2017 | — | v.redd.it | 27 | 1 | live |
+| 51 | 2026-10-23 | [🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗰𝗮𝗻 𝗻𝗼𝘄 𝗶𝗺𝗽𝗼𝗿𝘁 𝗮 𝗺𝗼𝗱𝘂𝗹𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗶𝘁 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆.](#post-51) | u/Both-Basil1635 | — | i.redd.it | 24 | 0 | live |
+| 52 | 2026-10-30 | [I made a zero-dependency scientific computing library in pure Python](#post-52) | u/Emergency-Tutor-7 | — | text | 23 | 9 | live |
+| 53 | 2026-10-19 | [Built my first neural network from scratch using NumPy - documented the mathematics too](#post-53) | u/PanelReader | — | i.redd.it | 13 | 0 | live |
+| 54 | 2026-10-20 | [I made a reliable file-transfer tool on top of raw UDP in pure Python (standard library only)](#post-54) | u/SignificantGlass7040 | — | text | 9 | 2 | live |
+| 48 | 2026-10-31 | [I built a real-life JARVIS in Python – a Claude-powered assistant that controls your Windows PC](#post-48) | u/HunterGHall7 | — | v.redd.it | 6 | 6 | live |
+| 55 | 2026-10-29 | [My kid and I open-sourced a Python typing game for children, inspired by battle royales and 90s adventure gam…](#post-55) | u/Jbenoitds | — | text | 6 | 4 | live |
+| 56 | 2026-10-30 | [Flak tower in the First World War](#post-56) | u/scapaflow96 | — | v.redd.it | 6 | 2 | live |
+| 57 | 2026-10-13 | [Minesweeper helper](#post-57) | u/TheSweeperOfTheMines | — | v.redd.it | 6 | 0 | live |
+| 58 | 2026-10-10 | [Dripfetch - A customizable terminal dashboard with animated rain](#post-58) | u/ashygun | — | v.redd.it | 6 | 0 | live |
+| 59 | 2026-10-17 | [My first real Python project: an offline tool that masks emails, API keys and card numbers in log files (and…](#post-59) | u/Material-Switch5380 | — | text | 5 | 4 | live |
+| 60 | 2026-10-14 | [Built a standalone Python desktop tool (CustomTkinter + yt-dlp + bundled FFmpeg). Lessons learned.](#post-60) | u/One_Sun5074 | — | text | 5 | 4 | live |
+| 34 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](#post-34) | u/Ill-Acanthaceae5630 | — | text | 5 | 0 | live |
+| 61 | 2026-10-18 | [Inbox Assistant: Sorting Gmail with Python](#post-61) | u/ScallionNo2755 | — | substack.com | 5 | 0 | live |
+| 62 | 2026-10-14 | [Cintra language](#post-62) | u/_debuser_alt | — | text | 4 | 4 | live |
+| 37 | 2026-11-01 | [repocraft: deterministic scaffolding where one request writes one .py file plus a unittest you can read in a…](#post-37) | u/Emergency-Tutor-7 | — | i.redd.it | 4 | 0 | live |
+| 63 | 2026-10-10 | [Taking my Python-based Kubernetes game in a Pokémon-inspired direction - early prototype](#post-63) | u/Content_Ad_4153 | — | v.redd.it | 4 | 0 | live |
+| 64 | 2026-10-27 | [I built DoveORM, a lightweight Python ORM with built-in migrations — looking for feedback](#post-64) | u/Away_Drag6898 | — | text | 3 | 1 | live |
+| 14 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](#post-14) | u/Piotrunius0 | — | i.redd.it | 3 | 0 | live |
+| 65 | 2026-10-28 | [Feel like your keyboard is double tapping keys? I made a simple check software](#post-65) | u/Druzina_M | — | i.redd.it | 3 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Made in Python: VulnPath-AI — offline scanner for AI/agent code risks
 
-2026-11-07 · u/Ok-Suggestion-4676 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpweo2/made_in_python_vulnpathai_offline_scanner_for/)
+2026-11-07 · u/Ok-Suggestion-4676 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpweo2/made_in_python_vulnpathai_offline_scanner_for/) · [↑ back to the list](#last-50-posts)
 
 > AI agents fail in boring ways: secrets in source, shell=True, eval, pickle, unchecked URL fetches, messy path/SQL string building.
 >
@@ -176,15 +178,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you test it, I'd love feedback on noise, misses, and docs.
 
+<a id="post-2"></a>
+
 ### 2. I wrote yet another project initializer
 
-2026-11-06 · u/Win_ipedia · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpfq0t/i_wrote_yet_another_project_initializer/)
+2026-11-06 · u/Win_ipedia · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpfq0t/i_wrote_yet_another_project_initializer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. stu.py: a free Python learning environment that runs in your browser
 
-2026-11-06 · u/stu_py · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpflcb/stupy_a_free_python_learning_environment_that/)
+2026-11-06 · u/stu_py · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpflcb/stupy_a_free_python_learning_environment_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/3jth4v17g00i1>
 
@@ -212,23 +218,29 @@ Link: <https://v.redd.it/3jth4v17g00i1>
 >
 > Right now the Basics chapter is open; the rest follows step by step. I'd be really glad for honest feedback: what's confusing, what's broken, what's missing? Cheers!
 
+<a id="post-4"></a>
+
 ### 4. I built quite-admin: one admin UI for FastAPI and Litestar
 
-2026-11-06 · u/lyova24 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpbx7l/i_built_quiteadmin_one_admin_ui_for_fastapi_and/)
+2026-11-06 · u/lyova24 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpbx7l/i_built_quiteadmin_one_admin_ui_for_fastapi_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. Built an AI extension that generates complete Python data pipelines from data samples
 
-2026-11-06 · u/prettywhale_ai · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpbgax/built_an_ai_extension_that_generates_complete/)
+2026-11-06 · u/prettywhale_ai · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xpbgax/built_an_ai_extension_that_generates_complete/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpbgax>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. apple-llm: a Python library for macOS speech recognition, system voices, and the on-device LLM
 
-2026-11-06 · u/light_2earth · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp6y9y/applellm_a_python_library_for_macos_speech/)
+2026-11-06 · u/light_2earth · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp6y9y/applellm_a_python_library_for_macos_speech/) · [↑ back to the list](#last-50-posts)
 
 > I am the author of apple-llm, a Python and Node library for accessing Apple’s on-device language model. I recently added speech synthesis and transcription to the Python package, using the voices and speech recognition already in macOS.
 >
@@ -262,26 +274,32 @@ Link: <https://www.reddit.com/gallery/1xpbgax>
 >
 > I would especially appreciate compatibility reports from macOS 26 and results on real recordings.
 
+<a id="post-7"></a>
+
 ### 7. PyOffice Devolpment has started!
 
-2026-11-06 · u/Onyxl_build · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp6s7j/pyoffice_devolpment_has_started/)
+2026-11-06 · u/Onyxl_build · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp6s7j/pyoffice_devolpment_has_started/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9q13gwd82yzh1.png>
 
 > PyOffice is basically Microsoft Office but aimming to show How Python can turn into such connected and centrilzied that makes it great for real use : quick tweak of PyX (aka Excel)
 
+<a id="post-8"></a>
+
 ### 8. Somebody built an actual deep learning framework all in numpy!
 
-2026-11-06 · u/InternalYoghurt9489 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp68uq/somebody_built_an_actual_deep_learning_framework/)
+2026-11-06 · u/InternalYoghurt9489 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xp68uq/somebody_built_an_actual_deep_learning_framework/) · [↑ back to the list](#last-50-posts)
 
 > GH: [https://github.com/Yehor-Mishchyriak/PureML](https://github.com/Yehor-Mishchyriak/PureML)  
 > Paper at JOSS: [https://joss.theoj.org/papers/10.21105/joss.09631](https://joss.theoj.org/papers/10.21105/joss.09631)
 >
 > Stars, contribution, and/or **feedback** are very welcome
 
+<a id="post-9"></a>
+
 ### 9. I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)
 
-2026-11-05 · u/Organic-Trip2148 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xouspj/i_made_a_package_to_pausestop_a_running_training/)
+2026-11-05 · u/Organic-Trip2148 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xouspj/i_made_a_package_to_pausestop_a_running_training/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/olleyt5a3vzh1.jpeg>
 
@@ -305,23 +323,29 @@ Link: <https://i.redd.it/olleyt5a3vzh1.jpeg>
 >
 > It's early (0.1.0), happy to hear what's missing.
 
+<a id="post-10"></a>
+
 ### 10. \[Web\] I built a browser game where you script stickman combat in Python!
 
-2026-11-05 · u/Delicious-Editor-168 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xoij5e/web_i_built_a_browser_game_where_you_script/)
+2026-11-05 · u/Delicious-Editor-168 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xoij5e/web_i_built_a_browser_game_where_you_script/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonProjects2/comments/1xoifp0/web_i_built_a_browser_game_where_you_script/>
 
 
+<a id="post-11"></a>
+
 ### 11. \[Blog Post\] The State of Python Profiling in 2026
 
-2026-11-05 · u/P403n1x87 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xogiua/blog_post_the_state_of_python_profiling_in_2026/)
+2026-11-05 · u/P403n1x87 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xogiua/blog_post_the_state_of_python_profiling_in_2026/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Python/comments/1xlcdgb/blog_post_the_state_of_python_profiling_in_2026/>
 
 
+<a id="post-12"></a>
+
 ### 12. I built a lightweight PySide6 GUI for yt-dlp (Clipboard monitor & auto-downloader)
 
-2026-11-05 · u/No-Praline-9052 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xogae5/i_built_a_lightweight_pyside6_gui_for_ytdlp/)
+2026-11-05 · u/No-Praline-9052 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xogae5/i_built_a_lightweight_pyside6_gui_for_ytdlp/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/madeinpython,
 >
@@ -363,16 +387,20 @@ Link: <https://www.reddit.com/r/Python/comments/1xlcdgb/blog_post_the_state_of_p
 >
 > This is the initial release (v1.0.0). I'd love for you guys to check out the code, roast my architecture, or submit a PR. Let me know what you think!
 
+<a id="post-13"></a>
+
 ### 13. How much useful you found the lazy import in Python (v3.15)
 
-2026-11-05 · u/hariomlohardev · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xo78a1/how_much_useful_you_found_the_lazy_import_in/)
+2026-11-05 · u/hariomlohardev · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xo78a1/how_much_useful_you_found_the_lazy_import_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xo77zq/how_much_useful_you_found_the_lazy_import_in/>
 
 
+<a id="post-14"></a>
+
 ### 14. SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python
 
-2026-11-04 · u/Piotrunius0 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnzxqk/systemupdater_a_zerodependency_system_and_package/)
+2026-11-04 · u/Piotrunius0 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnzxqk/systemupdater_a_zerodependency_system_and_package/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lwj7917vunzh1.gif>
 
@@ -390,16 +418,20 @@ Link: <https://i.redd.it/lwj7917vunzh1.gif>
 >
 > If you hit any bugs or want support for another package manager, let me know.
 
+<a id="post-15"></a>
+
 ### 15. autotok – open-source TikTok uploader with Python/TS/Go SDKs and an MCP server
 
-2026-11-04 · u/Right-Advance1925 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnxieo/autotok_opensource_tiktok_uploader_with/)
+2026-11-04 · u/Right-Advance1925 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnxieo/autotok_opensource_tiktok_uploader_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/p4w7zaj0enzh1.png>
 
 
+<a id="post-16"></a>
+
 ### 16. checkmodel: one-call diagnostics for statistical models, a port of R's performance::check_model()
 
-2026-11-04 · u/KevinBeicon · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnqgj6/checkmodel_onecall_diagnostics_for_statistical/)
+2026-11-04 · u/KevinBeicon · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnqgj6/checkmodel_onecall_diagnostics_for_statistical/) · [↑ back to the list](#last-50-posts)
 
 > **What My Project Does**
 >
@@ -443,9 +475,11 @@ Link: <https://i.redd.it/p4w7zaj0enzh1.png>
 >
 > Feedback welcome, especially on models or checks you'd want next.
 
+<a id="post-17"></a>
+
 ### 17. I wrote a Windows cleaner in Python. The cleaning was the easy part.
 
-2026-11-04 · u/vlad_swept · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnnkuk/i_wrote_a_windows_cleaner_in_python_the_cleaning/)
+2026-11-04 · u/vlad_swept · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnnkuk/i_wrote_a_windows_cleaner_in_python_the_cleaning/) · [↑ back to the list](#last-50-posts)
 
 > I didn't want to write a cleaner. I wanted one that didn't ask me for anything.
 >
@@ -469,17 +503,21 @@ Link: <https://i.redd.it/p4w7zaj0enzh1.png>
 >
 > [github.com/vladcodex/swept](http://github.com/vladcodex/swept)
 
+<a id="post-18"></a>
+
 ### 18. Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners
 
-2026-11-04 · u/xanthium_in · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnlgm5/matplotlib_real_time_plot_animation_tutorial/)
+2026-11-04 · u/xanthium_in · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnlgm5/matplotlib_real_time_plot_animation_tutorial/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.instructables.com/Real-Time-Live-Data-Plotting-in-Matplotlib-Using-F>
 
 > In this tutorial ,You will learn to create animated Matplotlib plots using the FuncAnimation() class and Python Language. You will learn about the basics of animating a plot (graph) using the FuncAnimation class, How the Animation loop works and How to create a Time series Real time Matplotlib plot similar to a ECG, EEG, Data logging graph from scratch.
 
+<a id="post-19"></a>
+
 ### 19. I built a Python 2D BEM solver and Streamlit dashboard to design a physical wind turbine (I'm 16)
 
-2026-11-04 · u/OrneryProfit659 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xniexd/i_built_a_python_2d_bem_solver_and_streamlit/)
+2026-11-04 · u/OrneryProfit659 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xniexd/i_built_a_python_2d_bem_solver_and_streamlit/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/juroc58/sharp-vawt-lab>
 
@@ -494,9 +532,11 @@ Link: <https://github.com/juroc58/sharp-vawt-lab>
 >
 > The next step is making the optimized blades and attaching them to a repurposed hoverboard motor. I’d love to hear what you think of the Python architecture!
 
+<a id="post-20"></a>
+
 ### 20. Introducing AstroConvert: An intelligent, cross-platform astronomical coordinate converter built using Python and Flet
 
-2026-11-04 · u/unwantedastronomer · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnem8l/introducing_astroconvert_an_intelligent/)
+2026-11-04 · u/unwantedastronomer · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xnem8l/introducing_astroconvert_an_intelligent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xnem8l>
 
@@ -526,23 +566,29 @@ Link: <https://www.reddit.com/gallery/1xnem8l>
 >
 > AI disclosure: No AI was used in building this app. It was my attempt to build this app while learning to use Flet. Some AI (Gemini 3.8 Flash) was used to run tests, generate documentation, and fix bugs.
 
+<a id="post-21"></a>
+
 ### 21. 100M de primos peneirados no POCO F5 (Android) - TOP 6 no r/mathematics e 10K views hoje! Feito em Venda Nova do Imigrante
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn6386/100m_de_primos_peneirados_no_poco_f5_android_top/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn6386/100m_de_primos_peneirados_no_poco_f5_android_top/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/n2izl5dnvgzh1.jpeg>
 
 
+<a id="post-22"></a>
+
 ### 22. 100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. Is density drop near composite Mersennes known?
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn5oke/100m_primes_sieved_on_android_poco_f5_i/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn5oke/100m_primes_sieved_on_android_poco_f5_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmmfqg>
 
 
+<a id="post-23"></a>
+
 ### 23. I just released my open-source Python project, RowCanary, and I'd love some feedback
 
-2026-11-03 · u/spockplayer2 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn2s3i/i_just_released_my_opensource_python_project/)
+2026-11-03 · u/spockplayer2 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xn2s3i/i_just_released_my_opensource_python_project/) · [↑ back to the list](#last-50-posts)
 
 > I've been working on a small Python project called RowCanary, and I finally got it to a point where I felt comfortable releasing version 1.0.0.
 >
@@ -566,9 +612,11 @@ Link: <https://www.reddit.com/gallery/1xmmfqg>
 >
 > I'm still learning a lot about maintaining public open-source projects, so I'd genuinely appreciate feedback from more experienced developers. Whether it's something about the code, documentation, usability, or the idea itself, I'd be happy to hear it.
 
+<a id="post-24"></a>
+
 ### 24. WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog
 
-2026-11-03 · u/lynanaln · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmuavp/wifi_tool_v02_purepython_wifi_auditing_toolkit/)
+2026-11-03 · u/lynanaln · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmuavp/wifi_tool_v02_purepython_wifi_auditing_toolkit/) · [↑ back to the list](#last-50-posts)
 
 > A couple of days ago I shared my pure-Python Wi-Fi auditing toolkit here and the feedback was great, so here’s a v0.2 with fixes that came out of it.
 >
@@ -582,16 +630,20 @@ Link: <https://www.reddit.com/gallery/1xmmfqg>
 >
 > Repo: [https://github.com/lynalan2/wifi\_scripts](https://github.com/lynalan2/wifi_scripts) — feedback welcome, that’s what fixed v0.1.
 
+<a id="post-25"></a>
+
 ### 25. Comparing two Python game development libraries: Pygame vs Arcade
 
-2026-11-03 · u/Python_Data_Science · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmu0vq/comparing_two_python_game_development_libraries/)
+2026-11-03 · u/Python_Data_Science · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmu0vq/comparing_two_python_game_development_libraries/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xmu04d/comparing_two_python_game_development_libraries/>
 
 
+<a id="post-26"></a>
+
 ### 26. YOUR GAMES AND YOUR ADS
 
-2026-11-03 · u/MOhamed_3874 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmtjre/your_games_and_your_ads/)
+2026-11-03 · u/MOhamed_3874 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmtjre/your_games_and_your_ads/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I create project in github for add ads for your games and apps its url:
 >
@@ -599,9 +651,11 @@ Link: <https://www.reddit.com/r/PythonLearning/comments/1xmu04d/comparing_two_py
 >
 > its write by python 100%
 
+<a id="post-27"></a>
+
 ### 27. I built a desktop client for Antora docs in Python and PySide6 (closed source)
 
-2026-11-03 · u/Timon_OfAthens · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_client_for_antora_docs_in/)
+2026-11-03 · u/Timon_OfAthens · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_client_for_antora_docs_in/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I'm the developer. AsciiLore is closed source and paid, with a free trial. I'm posting the technical side because that's where the interesting problems were.
 >
@@ -633,16 +687,20 @@ Link: <https://www.reddit.com/r/PythonLearning/comments/1xmu04d/comparing_two_py
 >     1. How do you structure a PySide6 app so long-running processes never block the UI?
 >     2. Would you take a different approach to the quick preview?
 
+<a id="post-28"></a>
+
 ### 28. Python Quiz of the Day.
 
-2026-11-03 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmsorf/python_quiz_of_the_day/)
+2026-11-03 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmsorf/python_quiz_of_the_day/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xmsomi/python_quiz_of_the_day/>
 
 
+<a id="post-29"></a>
+
 ### 29. EduManage: 100% Offline School & Fee Management Desktop Software
 
-2026-11-03 · u/bittu_jain · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmp80c/edumanage_100_offline_school_fee_management/)
+2026-11-03 · u/bittu_jain · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmp80c/edumanage_100_offline_school_fee_management/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmp80c>
 
@@ -668,23 +726,29 @@ Link: <https://www.reddit.com/gallery/1xmp80c>
 >
 > Would love to get your thoughts, critique, and feature suggestions!
 
+<a id="post-30"></a>
+
 ### 30. 🏔️ Garhwali Language Library v1.3.0 is now live on PyPI!
 
-2026-11-03 · u/National_Ad5713 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmg1m2/garhwali_language_library_v130_is_now_live_on_pypi/)
+2026-11-03 · u/National_Ad5713 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xmg1m2/garhwali_language_library_v130_is_now_live_on_pypi/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Python/comments/1xmg1bw/garhwali_language_library_v130_is_now_live_on_pypi/>
 
 
+<a id="post-31"></a>
+
 ### 31. I built CyberNest, a Python dependency security tool, while learning cybersecurity
 
-2026-11-02 · u/MrBucurN · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xma6ba/i_built_cybernest_a_python_dependency_security/)
+2026-11-02 · u/MrBucurN · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xma6ba/i_built_cybernest_a_python_dependency_security/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonProjects2/comments/1xma634/i_built_cybernest_a_python_dependency_security/>
 
 
+<a id="post-32"></a>
+
 ### 32. I rewrote edify, my Python library for building regex without writing regex by hand
 
-2026-11-02 · u/luciferreeves · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlvhvp/i_rewrote_edify_my_python_library_for_building/)
+2026-11-02 · u/luciferreeves · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlvhvp/i_rewrote_edify_my_python_library_for_building/) · [↑ back to the list](#last-50-posts)
 
 > Four years ago I shared edify here because I hated writing regex by hand. I've since rewritten it around reusable patterns, a function-based API alongside RegexBuilder, and much more useful diagnostics.
 >
@@ -739,16 +803,20 @@ Link: <https://www.reddit.com/r/PythonProjects2/comments/1xma634/i_built_cyberne
 > PyPI: https://pypi.org/project/edify/
 > Docs + playground: https://edify.readthedocs.io/
 
+<a id="post-33"></a>
+
 ### 33. I made a Python Library for scheduling recurring webscraping
 
-2026-11-02 · u/Ill-Acanthaceae5630 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlurpj/i_made_a_python_library_for_scheduling_recurring/)
+2026-11-02 · u/Ill-Acanthaceae5630 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlurpj/i_made_a_python_library_for_scheduling_recurring/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/webscraping/comments/1xlr424/i_made_a_python_library_for_scheduling_recurring/>
 
 
+<a id="post-34"></a>
+
 ### 34. I made a Python Library for scheduling recurring webscraping
 
-2026-11-02 · u/Ill-Acanthaceae5630 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlr4jk/i_made_a_python_library_for_scheduling_recurring/)
+2026-11-02 · u/Ill-Acanthaceae5630 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlr4jk/i_made_a_python_library_for_scheduling_recurring/) · [↑ back to the list](#last-50-posts)
 
 > I made LaptopScheduler, a Python scheduling library for Windows laptops.
 >
@@ -764,9 +832,11 @@ Link: <https://www.reddit.com/r/webscraping/comments/1xlr424/i_made_a_python_lib
 >
 > [https://github.com/seaweed8888/laptop-schedueler](https://github.com/seaweed8888/laptop-schedueler)
 
+<a id="post-35"></a>
+
 ### 35. plan-auditor: I wrote a stdlib-only gate that proves a coding agent is done, using sealed command output instead of prose
 
-2026-11-02 · u/Emergency-Tutor-7 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlm8rl/planauditor_i_wrote_a_stdlibonly_gate_that_proves/)
+2026-11-02 · u/Emergency-Tutor-7 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlm8rl/planauditor_i_wrote_a_stdlibonly_gate_that_proves/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/olqp5hsu74zh1.png>
 
@@ -814,16 +884,20 @@ Link: <https://i.redd.it/olqp5hsu74zh1.png>
 >
 > PyPI: [https://pypi.org/project/plan-auditor/](https://pypi.org/project/plan-auditor/)
 
+<a id="post-36"></a>
+
 ### 36. Flask Face Login: Passwordless Authentication with FACEIO
 
-2026-11-01 · u/histoire_guy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlhqbw/flask_face_login_passwordless_authentication_with/)
+2026-11-01 · u/histoire_guy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlhqbw/flask_face_login_passwordless_authentication_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://javascript.plainenglish.io/flask-face-login-passwordless-authentication-with-faceio-2ff88b8e2aae>
 
 
+<a id="post-37"></a>
+
 ### 37. repocraft: deterministic scaffolding where one request writes one .py file plus a unittest you can read in a sitting
 
-2026-11-01 · u/Emergency-Tutor-7 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlgqrl/repocraft_deterministic_scaffolding_where_one/)
+2026-11-01 · u/Emergency-Tutor-7 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlgqrl/repocraft_deterministic_scaffolding_where_one/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8l6lu9d6x2zh1.png>
 
@@ -889,9 +963,11 @@ Link: <https://i.redd.it/8l6lu9d6x2zh1.png>
 >
 > PyPI: [https://pypi.org/project/repocraft/](https://pypi.org/project/repocraft/)
 
+<a id="post-38"></a>
+
 ### 38. Git-Jet
 
-2026-11-01 · u/Flimsy_Fly_2017 · score 27 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlg8re/gitjet/)
+2026-11-01 · u/Flimsy_Fly_2017 · score 27 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlg8re/gitjet/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/jdi1i3p0t2zh1>
 
@@ -899,15 +975,19 @@ Link: <https://v.redd.it/jdi1i3p0t2zh1>
 >
 > [https://github.com/PingPongPlus/git-jet](https://github.com/PingPongPlus/git-jet)
 
+<a id="post-39"></a>
+
 ### 39. I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!
 
-2026-11-01 · u/Mohamed_477 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlb4gb/i_built_a_crossplatform_desktop_videoaudio/)
+2026-11-01 · u/Mohamed_477 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xlb4gb/i_built_a_crossplatform_desktop_videoaudio/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. PyArchRules 1.0.0 — Architecture linter for Python
 
-2026-11-01 · u/EmuFeeling7341 · score 0 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xl7sx3/pyarchrules_100_architecture_linter_for_python/)
+2026-11-01 · u/EmuFeeling7341 · score 0 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xl7sx3/pyarchrules_100_architecture_linter_for_python/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/Python!
 >
@@ -1015,9 +1095,11 @@ Link: <https://v.redd.it/jdi1i3p0t2zh1>
 >
 > \#
 
+<a id="post-41"></a>
+
 ### 41. polyglot-python: a deterministic keyword transpiler so you can write Python with Turkish, Hindi or Chinese keywords - and why 3.12 is the floor
 
-2026-11-01 · u/Emergency-Tutor-7 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkzpp3/polyglotpython_a_deterministic_keyword_transpiler/)
+2026-11-01 · u/Emergency-Tutor-7 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkzpp3/polyglotpython_a_deterministic_keyword_transpiler/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/crnfgs5m9zyh1.png>
 
@@ -1061,23 +1143,29 @@ Link: <https://i.redd.it/crnfgs5m9zyh1.png>
 >
 > PyPI: [https://pypi.org/project/polyglot-python/](https://pypi.org/project/polyglot-python/)
 
+<a id="post-42"></a>
+
 ### 42. I built a menu-driven Wi-Fi auditing toolkit in pure Python — with an adapter watchdog that airgeddon doesn't have
 
-2026-11-01 · u/lynanaln · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkx8mw/i_built_a_menudriven_wifi_auditing_toolkit_in/)
+2026-11-01 · u/lynanaln · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkx8mw/i_built_a_menudriven_wifi_auditing_toolkit_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/qgroekpihyyh1.png>
 
 
+<a id="post-43"></a>
+
 ### 43. Git-Ship!
 
-2026-11-01 · u/Flimsy_Fly_2017 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkq8np/gitship/)
+2026-11-01 · u/Flimsy_Fly_2017 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkq8np/gitship/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xkpzsr>
 
 
+<a id="post-44"></a>
+
 ### 44. eq-layer: I stopped prompting models to be more empathetic and made the affect/intent decision explicit instead (Python, zero core deps)
 
-2026-11-01 · u/Emergency-Tutor-7 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkp68a/eqlayer_i_stopped_prompting_models_to_be_more/)
+2026-11-01 · u/Emergency-Tutor-7 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkp68a/eqlayer_i_stopped_prompting_models_to_be_more/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/id9k1ry96wyh1.png>
 
@@ -1135,22 +1223,28 @@ Link: <https://i.redd.it/id9k1ry96wyh1.png>
 >
 > Happy to answer questions about the routing, the factored action, or why certain signals were rejected.
 
+<a id="post-45"></a>
+
 ### 45. 🐍 ¿Qué son las palabras reservadas en Python?
 
-2026-10-31 · u/elgordodev · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkfnkr/qué_son_las_palabras_reservadas_en_python/)
+2026-10-31 · u/elgordodev · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xkfnkr/qué_son_las_palabras_reservadas_en_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=fHMZEa3N7FY&si=RLQPIkT68duB36Fj>
 
 
+<a id="post-46"></a>
+
 ### 46. pyorder: A Python source code ordering linter
 
-2026-10-31 · u/Win_ipedia · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xk6qf4/pyorder_a_python_source_code_ordering_linter/)
+2026-10-31 · u/Win_ipedia · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xk6qf4/pyorder_a_python_source_code_ordering_linter/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. I made a Python reasoning skill that keeps several hypotheses alive and only collapses when evidence agrees
 
-2026-10-31 · u/Emergency-Tutor-7 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xk1jq4/i_made_a_python_reasoning_skill_that_keeps/)
+2026-10-31 · u/Emergency-Tutor-7 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xk1jq4/i_made_a_python_reasoning_skill_that_keeps/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zczb30roiqyh1.png>
 
@@ -1176,9 +1270,11 @@ Link: <https://i.redd.it/zczb30roiqyh1.png>
 >
 > Happy to answer questions about the controller or the scoring model.
 
+<a id="post-48"></a>
+
 ### 48. I built a real-life JARVIS in Python – a Claude-powered assistant that controls your Windows PC
 
-2026-10-31 · u/HunterGHall7 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjy25x/i_built_a_reallife_jarvis_in_python_a/)
+2026-10-31 · u/HunterGHall7 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjy25x/i_built_a_reallife_jarvis_in_python_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/5y4vmoummpyh1>
 
@@ -1209,9 +1305,11 @@ Link: <https://v.redd.it/5y4vmoummpyh1>
 >
 > Feedback, issues, and PRs are very welcome. I’d especially like ideas for what tools to add next.
 
+<a id="post-49"></a>
+
 ### 49. I made a scientific modeling engine that refuses to simulate a model whose units don't check out (Python, MIT)
 
-2026-10-31 · u/Emergency-Tutor-7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjwphr/i_made_a_scientific_modeling_engine_that_refuses/)
+2026-10-31 · u/Emergency-Tutor-7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjwphr/i_made_a_scientific_modeling_engine_that_refuses/) · [↑ back to the list](#last-50-posts)
 
 > I build axiomize-quantum-skills-2.0, an MIT-licensed Python package that pairs a unit-checked scientific modeling engine with a reasoning protocol that refuses to commit to the first plausible answer.  
 >
@@ -1244,23 +1342,29 @@ Link: <https://v.redd.it/5y4vmoummpyh1>
 >
 > https://i.redd.it/5ni7u4pyapyh1.png
 
+<a id="post-50"></a>
+
 ### 50. Ho creato psp, uno strumento basato su Rust per la generazione automatica di strutture di progetto Python: ogni feedback è ben accetto.
 
-2026-10-30 · u/MatteoGuadrini · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjrntp/ho_creato_psp_uno_strumento_basato_su_rust_per_la/)
+2026-10-30 · u/MatteoGuadrini · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjrntp/ho_creato_psp_uno_strumento_basato_su_rust_per_la/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/pythontips/comments/1xjrm9g/i_built_psp_a_rustpowered_tool_for_scaffolding/>
 
 
+<a id="post-51"></a>
+
 ### 51. 🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗰𝗮𝗻 𝗻𝗼𝘄 𝗶𝗺𝗽𝗼𝗿𝘁 𝗮 𝗺𝗼𝗱𝘂𝗹𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗶𝘁 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆.
 
-2026-10-23 · u/Both-Basil1635 · score 24 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xdmosx/𝗣𝘆𝘁𝗵𝗼𝗻_𝗰𝗮𝗻_𝗻𝗼𝘄_𝗶𝗺𝗽𝗼𝗿𝘁_𝗮_𝗺𝗼𝗱𝘂𝗹𝗲_𝘄𝗶𝘁𝗵𝗼𝘂𝘁_𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆/)
+2026-10-23 · u/Both-Basil1635 · score 24 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xdmosx/𝗣𝘆𝘁𝗵𝗼𝗻_𝗰𝗮𝗻_𝗻𝗼𝘄_𝗶𝗺𝗽𝗼𝗿𝘁_𝗮_𝗺𝗼𝗱𝘂𝗹𝗲_𝘄𝗶𝘁𝗵𝗼𝘂𝘁_𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/y5df1aaqj9xh1.png>
 
 
+<a id="post-52"></a>
+
 ### 52. I made a zero-dependency scientific computing library in pure Python
 
-2026-10-30 · u/Emergency-Tutor-7 · score 23 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xj4dbq/i_made_a_zerodependency_scientific_computing/)
+2026-10-30 · u/Emergency-Tutor-7 · score 23 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xj4dbq/i_made_a_zerodependency_scientific_computing/) · [↑ back to the list](#last-50-posts)
 
 > I made scientific-computing-system, a scientific library written entirely in pure Python. The core installs with no runtime dependencies, so the algorithms are plain readable code instead of calls into compiled extensions.
 >
@@ -1292,9 +1396,11 @@ Link: <https://i.redd.it/y5df1aaqj9xh1.png>
 >
 > https://i.redd.it/moa37h7ksiyh1.png
 
+<a id="post-53"></a>
+
 ### 53. Built my first neural network from scratch using NumPy - documented the mathematics too
 
-2026-10-19 · u/PanelReader · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x9v208/built_my_first_neural_network_from_scratch_using/)
+2026-10-19 · u/PanelReader · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x9v208/built_my_first_neural_network_from_scratch_using/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0w0y56aizewh1.png>
 
@@ -1312,9 +1418,11 @@ Link: <https://i.redd.it/0w0y56aizewh1.png>
 >
 > would appreciate feedback, and if you find the repo useful, consider starring it 🍀
 
+<a id="post-54"></a>
+
 ### 54. I made a reliable file-transfer tool on top of raw UDP in pure Python (standard library only)
 
-2026-10-20 · u/SignificantGlass7040 · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xar0zl/i_made_a_reliable_filetransfer_tool_on_top_of_raw/)
+2026-10-20 · u/SignificantGlass7040 · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xar0zl/i_made_a_reliable_filetransfer_tool_on_top_of_raw/) · [↑ back to the list](#last-50-posts)
 
 > Most Python file-transfer examples use TCP, so I built the other side: reliability implemented by hand on top of UDP sockets.
 >
@@ -1332,9 +1440,11 @@ Link: <https://i.redd.it/0w0y56aizewh1.png>
 >
 > Source: https://github.com/askmeanythin/Reliable_UDP_File_Transfer - feedback welcome!
 
+<a id="post-55"></a>
+
 ### 55. My kid and I open-sourced a Python typing game for children, inspired by battle royales and 90s adventure games
 
-2026-10-29 · u/Jbenoitds · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xi99h6/my_kid_and_i_opensourced_a_python_typing_game_for/)
+2026-10-29 · u/Jbenoitds · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xi99h6/my_kid_and_i_opensourced_a_python_typing_game_for/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -1344,17 +1454,21 @@ Link: <https://i.redd.it/0w0y56aizewh1.png>
 >
 > [https://github.com/jbenoitds/battle-royale-of-english](https://github.com/jbenoitds/battle-royale-of-english)
 
+<a id="post-56"></a>
+
 ### 56. Flak tower in the First World War
 
-2026-10-30 · u/scapaflow96 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjbhef/flak_tower_in_the_first_world_war/)
+2026-10-30 · u/scapaflow96 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xjbhef/flak_tower_in_the_first_world_war/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/g3s4gyg1xkyh1>
 
 > Defending the Channel Island against enemy aircraft and zeppelins. Intense action fun in pygame.
 
+<a id="post-57"></a>
+
 ### 57. Minesweeper helper
 
-2026-10-13 · u/TheSweeperOfTheMines · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x4xw3v/minesweeper_helper/)
+2026-10-13 · u/TheSweeperOfTheMines · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x4xw3v/minesweeper_helper/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ididwodyt8vh1>
 
@@ -1370,17 +1484,21 @@ Link: <https://v.redd.it/ididwodyt8vh1>
 >
 > The repo is here, if anyone wants to have a go: [https://github.com/SweeperOfTheMines/sweeperhelper](https://github.com/SweeperOfTheMines/sweeperhelper)
 
+<a id="post-58"></a>
+
 ### 58. Dripfetch - A customizable terminal dashboard with animated rain
 
-2026-10-10 · u/ashygun · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x2oer9/dripfetch_a_customizable_terminal_dashboard_with/)
+2026-10-10 · u/ashygun · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x2oer9/dripfetch_a_customizable_terminal_dashboard_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/r9prph6v2puh1>
 
 > **[Dripfetch](https://github.com/a-shygun/dripfetch)** is a customizable terminal dashboard with animated rain, system info, clocks, and YAML themes. I’d love to hear what you think or what you’d improve!
 
+<a id="post-59"></a>
+
 ### 59. My first real Python project: an offline tool that masks emails, API keys and card numbers in log files (and now Excel)
 
-2026-10-17 · u/Material-Switch5380 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x8cw6a/my_first_real_python_project_an_offline_tool_that/)
+2026-10-17 · u/Material-Switch5380 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x8cw6a/my_first_real_python_project_an_offline_tool_that/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1442,9 +1560,11 @@ Link: <https://v.redd.it/r9prph6v2puh1>
 >
 > Thanks for reading!
 
+<a id="post-60"></a>
+
 ### 60. Built a standalone Python desktop tool (CustomTkinter + yt-dlp + bundled FFmpeg). Lessons learned.
 
-2026-10-14 · u/One_Sun5074 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x62c5e/built_a_standalone_python_desktop_tool/)
+2026-10-14 · u/One_Sun5074 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x62c5e/built_a_standalone_python_desktop_tool/) · [↑ back to the list](#last-50-posts)
 
 > Like most developers who try to build desktop tools in Python, I thought building a clean GUI wrapper around yt-dlp would take a weekend. It ended up taking 40+ hours of debugging threading freezes, memory leaks, and Windows packaging hell.
 >
@@ -1488,16 +1608,20 @@ Link: <https://v.redd.it/r9prph6v2puh1>
 >
 > Would love feedback from other Python desktop developers — especially anyone who's dealt with CustomTkinter threading or PyInstaller bundling on Windows!
 
+<a id="post-61"></a>
+
 ### 61. Inbox Assistant: Sorting Gmail with Python
 
-2026-10-18 · u/ScallionNo2755 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x92xxw/inbox_assistant_sorting_gmail_with_python/)
+2026-10-18 · u/ScallionNo2755 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x92xxw/inbox_assistant_sorting_gmail_with_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://substack.com/@notesfromthetechstack/note/p-220978297?r=1otc0y>
 
 
+<a id="post-62"></a>
+
 ### 62. Cintra language
 
-2026-10-14 · u/_debuser_alt · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x5i8l5/cintra_language/)
+2026-10-14 · u/_debuser_alt · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x5i8l5/cintra_language/) · [↑ back to the list](#last-50-posts)
 
 > Hi, i made my own programming language.
 >
@@ -1527,9 +1651,11 @@ Link: <https://substack.com/@notesfromthetechstack/note/p-220978297?r=1otc0y>
 >
 > please, write your opinion in the comments
 
+<a id="post-63"></a>
+
 ### 63. Taking my Python-based Kubernetes game in a Pokémon-inspired direction - early prototype
 
-2026-10-10 · u/Content_Ad_4153 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x2kquk/taking_my_pythonbased_kubernetes_game_in_a/)
+2026-10-10 · u/Content_Ad_4153 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1x2kquk/taking_my_pythonbased_kubernetes_game_in_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/2yd5jz9kbouh1>
 
@@ -1549,9 +1675,11 @@ Link: <https://v.redd.it/2yd5jz9kbouh1>
 >
 > GitHub: [https://github.com/Anubhav9/Yellow-Olive](https://github.com/Anubhav9/Yellow-Olive)
 
+<a id="post-64"></a>
+
 ### 64. I built DoveORM, a lightweight Python ORM with built-in migrations — looking for feedback
 
-2026-10-27 · u/Away_Drag6898 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xglvnh/i_built_doveorm_a_lightweight_python_orm_with/)
+2026-10-27 · u/Away_Drag6898 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xglvnh/i_built_doveorm_a_lightweight_python_orm_with/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! 👋
 >
@@ -1640,9 +1768,11 @@ Link: <https://v.redd.it/2yd5jz9kbouh1>
 >
 > GitHub: [https://github.com/imaradesk/doveorm](https://github.com/imaradesk/doveorm)
 
+<a id="post-65"></a>
+
 ### 65. Feel like your keyboard is double tapping keys? I made a simple check software
 
-2026-10-28 · u/Druzina_M · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xhleab/feel_like_your_keyboard_is_double_tapping_keys_i/)
+2026-10-28 · u/Druzina_M · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/madeinpython/comments/1xhleab/feel_like_your_keyboard_is_double_tapping_keys_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/13f50hkpz6yh1.png>
 

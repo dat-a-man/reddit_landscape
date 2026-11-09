@@ -41,56 +41,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Building a Claude Desktop app for outbound email, with your own sending provider and keys that stay on your m…](https://www.reddit.com/r/gtmengineering/comments/1xpqeg7/building_a_claude_desktop_app_for_outbound_email/) | u/davidedmonai | — | text | 1 | 3 | live | — |
-| 2 | 2026-11-06 | [Sold my Agentic Content System through random inbound but no clue about marketing campaign for proper GTM.](https://www.reddit.com/r/gtmengineering/comments/1xpnnl4/sold_my_agentic_content_system_through_random/) | u/hassan-mujtaba | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-06 | [A lot of "GTM engineering" is just workflow glue. Is that a problem?](https://www.reddit.com/r/gtmengineering/comments/1xpjzks/a_lot_of_gtm_engineering_is_just_workflow_glue_is/) | u/Responsible_Egg_3391 | — | text | 6 | 12 | live | — |
-| 4 | 2026-11-06 | [Building in the GTM space, would appreciate some honest feedback](https://www.reddit.com/r/gtmengineering/comments/1xphu1a/building_in_the_gtm_space_would_appreciate_some/) | u/Able_Green9662 | — | text | 4 | 13 | live | — |
-| 5 | 2026-11-06 | [I need help, with GTM](https://www.reddit.com/r/gtmengineering/comments/1xph7iu/i_need_help_with_gtm/) | u/khalilsautchuk | — | i.redd.it | 2 | 4 | live | — |
-| 6 | 2026-11-06 | [I get way too excited every time I open one of these](https://www.reddit.com/r/gtmengineering/comments/1xpg4qn/i_get_way_too_excited_every_time_i_open_one_of/) | u/Aware-Site6079 | — | text | 1 | 6 | live | — |
-| 7 | 2026-11-06 | [Complete guide to GTM engineering (2026)](https://www.reddit.com/r/gtmengineering/comments/1xpe6hm/complete_guide_to_gtm_engineering_2026/) | u/Jampolhz | — | reddit.com | 5 | 3 | live | — |
-| 8 | 2026-11-06 | [38 GTM Engineer Jobs this week, with roles at Perplexity, G2 & Konica Minolta and more…](https://www.reddit.com/r/gtmengineering/comments/1xpd2s5/38_gtm_engineer_jobs_this_week_with_roles_at/) | u/xAvi_r | — | text | 8 | 7 | live | — |
-| 9 | 2026-11-06 | [I NEED HELP WITH GTM](https://www.reddit.com/r/gtmengineering/comments/1xpas7j/i_need_help_with_gtm/) | u/khalilsautchuk | — | reddit.com | 1 | 0 | live | — |
-| 10 | 2026-11-06 | [WTF is wrong with onboarding in GTM data tools](https://www.reddit.com/r/gtmengineering/comments/1xp9y57/wtf_is_wrong_with_onboarding_in_gtm_data_tools/) | u/kopunk | — | text | 0 | 4 | live | — |
-| 11 | 2026-11-06 | [Field service software / SaaS : What works for you in outbound ?](https://www.reddit.com/r/gtmengineering/comments/1xp9rxd/field_service_software_saas_what_works_for_you_in/) | u/Medical-Vehicle-1747 | — | text | 2 | 10 | live | — |
-| 12 | 2026-11-06 | [The best automation in a sales pipeline might be the one that stops and waits for a human](https://www.reddit.com/r/gtmengineering/comments/1xp6iuy/the_best_automation_in_a_sales_pipeline_might_be/) | u/Tamerbadereldin | — | text | 6 | 7 | live | — |
-| 13 | 2026-11-06 | [Looking for beta testers](https://www.reddit.com/r/gtmengineering/comments/1xp0m9k/looking_for_beta_testers/) | u/Thick-Lock-3542 | — | text | 1 | 0 | spam-filtered | — |
-| 14 | 2026-11-05 | [Running GTM through Grok is unreal. Here's how I ran a full client campaign through an agent](https://www.reddit.com/r/gtmengineering/comments/1xonazz/running_gtm_through_grok_is_unreal_heres_how_i/) | u/Shawntenam | — | reddit.com | 2 | 3 | live | — |
-| 15 | 2026-11-05 | [GTM Workflow - For myself and One for startup](https://www.reddit.com/r/gtmengineering/comments/1xojhaw/gtm_workflow_for_myself_and_one_for_startup/) | u/dhaivat01 | — | text | 9 | 12 | live | — |
-| 16 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](https://www.reddit.com/r/gtmengineering/comments/1xohxc2/going_agentic_inside_the_shift_in_gtm/) | u/Punchie101 | — | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](https://www.reddit.com/r/gtmengineering/comments/1xohqk9/going_agentic_inside_the_shift_in_gtm/) | u/Punchie101 | — | youtube.com | 1 | 0 | spam-filtered | — |
-| 18 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](https://www.reddit.com/r/gtmengineering/comments/1xohlsf/going_agentic_inside_the_shift_in_gtm/) | u/Punchie101 | — | youtube.com | 1 | 0 | spam-filtered | — |
-| 19 | 2026-11-05 | [Any one looking for GTM expert for Australia or remote](https://www.reddit.com/r/gtmengineering/comments/1xofw8g/any_one_looking_for_gtm_expert_for_australia_or/) | u/Firm-Boat-482 | — | reddit.com | 1 | 0 | live | — |
-| 20 | 2026-11-05 | [The most expensive sentence in B2B sales: "I will reply to that tonight"](https://www.reddit.com/r/gtmengineering/comments/1xocjlo/the_most_expensive_sentence_in_b2b_sales_i_will/) | u/Tamerbadereldin | — | text | 4 | 5 | live | — |
-| 21 | 2026-11-05 | [What does a GTM engineer actually own at your company?](https://www.reddit.com/r/gtmengineering/comments/1xocg63/what_does_a_gtm_engineer_actually_own_at_your/) | u/Responsible_Egg_3391 | — | text | 8 | 11 | live | — |
-| 22 | 2026-11-05 | [Anyone using Stape or Tagelo for server-side tracking?](https://www.reddit.com/r/gtmengineering/comments/1xo9rm2/anyone_using_stape_or_tagelo_for_serverside/) | u/gabrielmsp1 | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 23 | 2026-11-05 | [Open-sourced the deliverability monitor I built for my cold email work](https://www.reddit.com/r/gtmengineering/comments/1xo7056/opensourced_the_deliverability_monitor_i_built/) | u/Kotromanich | — | text | 2 | 4 | live | — |
-| 24 | 2026-11-04 | [Anyone know a good low-cost, model-agnostic browser/desktop automation stack?](https://www.reddit.com/r/gtmengineering/comments/1xo3yu1/anyone_know_a_good_lowcost_modelagnostic/) | u/zameelimaduddin | — | text | 5 | 6 | live | — |
-| 25 | 2026-11-04 | [I built my own GTM engine with n8n + Clay + Neon + HubSpot. Here’s the architecture and what I’d do different…](https://www.reddit.com/r/gtmengineering/comments/1xo0sf6/i_built_my_own_gtm_engine_with_n8n_clay_neon/) | u/Alarmed-Sector-6427 | — | text | 8 | 12 | live | — |
-| 26 | 2026-11-04 | [Which LinkedIn outbound tool enables custom video attachments to each lead?](https://www.reddit.com/r/gtmengineering/comments/1xnnv70/which_linkedin_outbound_tool_enables_custom_video/) | u/xotwoduiux | — | text | 2 | 5 | live | — |
-| 27 | 2026-11-04 | [I killed the feature that took us from $500 to $1,500 MRR in 72 hours. Was I dumb?](https://www.reddit.com/r/gtmengineering/comments/1xnj43w/i_killed_the_feature_that_took_us_from_500_to/) | u/Doing_whatmatters | — | text | 1 | 0 | spam-filtered | — |
-| 28 | 2026-11-04 | [The prospecting cost that is easy to miss: your best hour spent on a poor-fit lead](https://www.reddit.com/r/gtmengineering/comments/1xnhu3q/the_prospecting_cost_that_is_easy_to_miss_your/) | u/Tamerbadereldin | — | text | 7 | 7 | live | — |
-| 29 | 2026-11-04 | [Discord for GTM engineers](https://www.reddit.com/r/gtmengineering/comments/1xnhph4/discord_for_gtm_engineers/) | u/okqueenbee | — | text | 8 | 4 | live | — |
-| 30 | 2026-11-04 | [GTM System for Lead Gen + Outbound](https://www.reddit.com/r/gtmengineering/comments/1xnge20/gtm_system_for_lead_gen_outbound/) | u/dhaivat01 | — | i.redd.it | 2 | 0 | live | — |
-| 31 | 2026-11-04 | [How are you stopping agents from treating 8 month old data like it’s fresh?](https://www.reddit.com/r/gtmengineering/comments/1xnfmyi/how_are_you_stopping_agents_from_treating_8_month/) | u/hossam_elkhateeb11 | — | text | 2 | 7 | live | — |
-| 32 | 2026-11-04 | [Codex Windows sandbox blocking Deepline API, anyone know a fix?](https://www.reddit.com/r/gtmengineering/comments/1xnfjbz/codex_windows_sandbox_blocking_deepline_api/) | u/gaabbieeeee | — | text | 4 | 5 | live | — |
-| 33 | 2026-11-03 | [GTM Engineer Job Board: week of November 2, 2026](https://www.reddit.com/r/gtmengineering/comments/1xn7hdq/gtm_engineer_job_board_week_of_november_2_2026/) | u/Shawntenam | — | reddit.com | 1 | 0 | live | — |
-| 34 | 2026-11-03 | [0 to first cold email campaign in a weekend. step by step](https://www.reddit.com/r/gtmengineering/comments/1xn6wpk/0_to_first_cold_email_campaign_in_a_weekend_step/) | u/truecakesnake | — | text | 14 | 10 | live | — |
-| 35 | 2026-11-03 | [GTM / Growth operator who builds \| B2B outbound, D2C acquisition, CRM automation \| US/EU hours](https://www.reddit.com/r/gtmengineering/comments/1xn50mb/gtm_growth_operator_who_builds_b2b_outbound_d2c/) | u/ktwillcode | — | text | 3 | 0 | live | — |
-| 36 | 2026-11-03 | [Where to start in GTM, need advice.](https://www.reddit.com/r/gtmengineering/comments/1xn0n0n/where_to_start_in_gtm_need_advice/) | u/just-a-job-seeker | — | reddit.com | 1 | 5 | live | — |
-| 37 | 2026-11-03 | [Gtm engineer vs revenue system architect](https://www.reddit.com/r/gtmengineering/comments/1xn0bpx/gtm_engineer_vs_revenue_system_architect/) | u/ColonelTamdi | — | text | 11 | 11 | live | — |
-| 38 | 2026-11-03 | [how do you approach TAL building & hypothesis creation & testing?](https://www.reddit.com/r/gtmengineering/comments/1xmyv05/how_do_you_approach_tal_building_hypothesis/) | u/varsklavi4 | — | text | 4 | 9 | live | — |
-| 39 | 2026-11-03 | [posted here last week saying I’m looking for GTM engineering work. a few of you asked me to share how it goes…](https://www.reddit.com/r/gtmengineering/comments/1xmviww/posted_here_last_week_saying_im_looking_for_gtm/) | u/Great_Discussion9670 | — | text | 28 | 16 | live | — |
-| 40 | 2026-11-03 | [How are you guys scaling LinkedIn outreach without hitting connection limits?](https://www.reddit.com/r/gtmengineering/comments/1xmu3or/how_are_you_guys_scaling_linkedin_outreach/) | u/NathanSupertramp | — | text | 12 | 13 | live | — |
-| 41 | 2026-11-03 | [Which industry needs Outbound the most and have a smaller sales cycle](https://www.reddit.com/r/gtmengineering/comments/1xmsowu/which_industry_needs_outbound_the_most_and_have_a/) | u/Dapper-Woodpecker-25 | — | text | 9 | 3 | live | — |
-| 42 | 2026-11-03 | [I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)](https://www.reddit.com/r/gtmengineering/comments/1xmrior/i_added_a_dialer_to_my_opensource_linkedinemail/) | u/ShakaLaka_Around | — | text | 18 | 9 | live | — |
-| 43 | 2026-11-03 | [The hours that kill B2B prospecting are not the selling - they are the chasing](https://www.reddit.com/r/gtmengineering/comments/1xmpycb/the_hours_that_kill_b2b_prospecting_are_not_the/) | u/Tamerbadereldin | — | text | 13 | 15 | live | — |
-| 44 | 2026-11-03 | [Vibe coding your own CRM. What's everyone's thoughts?](https://www.reddit.com/r/gtmengineering/comments/1xmopbl/vibe_coding_your_own_crm_whats_everyones_thoughts/) | u/EmployeeOk6588 | — | text | 16 | 23 | live | — |
-| 45 | 2026-11-03 | [How i can use claude as Qualify/filter layer?](https://www.reddit.com/r/gtmengineering/comments/1xmolnd/how_i_can_use_claude_as_qualifyfilter_layer/) | u/Responsible_Egg_3391 | — | text | 3 | 7 | live | — |
-| 46 | 2026-11-03 | [Building independent project for an hypothetical company](https://www.reddit.com/r/gtmengineering/comments/1xmksbh/building_independent_project_for_an_hypothetical/) | u/InformationSlow8543 | — | text | 12 | 34 | live | — |
-| 47 | 2026-11-03 | [Early-stage AI security startup looking for a GTM co-founder with real enterprise network, not a sales hire](https://www.reddit.com/r/gtmengineering/comments/1xmjkp9/earlystage_ai_security_startup_looking_for_a_gtm/) | u/Old_Needleworker1747 | — | text | 4 | 16 | live | — |
-| 48 | 2026-11-03 | [Not every company signal is a buying signal.](https://www.reddit.com/r/gtmengineering/comments/1xmigz0/not_every_company_signal_is_a_buying_signal/) | u/just_keith_ | — | text | 5 | 9 | live | — |
-| 49 | 2026-11-03 | [Weekly open GTM pitch](https://www.reddit.com/r/gtmengineering/comments/1xmf63b/weekly_open_gtm_pitch/) | u/AutoModerator | — | text | 5 | 7 | live | — |
-| 50 | 2026-11-02 | [Built my first open-source GTM tool (Reputation Engine) using vibecoding & GitHub for the first time!](https://www.reddit.com/r/gtmengineering/comments/1xmcrx7/built_my_first_opensource_gtm_tool_reputation/) | u/xotwoduiux | — | text | 13 | 9 | live | — |
+| 1 | 2026-11-06 | [Building a Claude Desktop app for outbound email, with your own sending provider and keys that stay on your m…](#post-1) | u/davidedmonai | — | text | 1 | 3 | live | — |
+| 2 | 2026-11-06 | [Sold my Agentic Content System through random inbound but no clue about marketing campaign for proper GTM.](#post-2) | u/hassan-mujtaba | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-06 | [A lot of "GTM engineering" is just workflow glue. Is that a problem?](#post-3) | u/Responsible_Egg_3391 | — | text | 6 | 12 | live | — |
+| 4 | 2026-11-06 | [Building in the GTM space, would appreciate some honest feedback](#post-4) | u/Able_Green9662 | — | text | 4 | 13 | live | — |
+| 5 | 2026-11-06 | [I need help, with GTM](#post-5) | u/khalilsautchuk | — | i.redd.it | 2 | 4 | live | — |
+| 6 | 2026-11-06 | [I get way too excited every time I open one of these](#post-6) | u/Aware-Site6079 | — | text | 1 | 6 | live | — |
+| 7 | 2026-11-06 | [Complete guide to GTM engineering (2026)](#post-7) | u/Jampolhz | — | reddit.com | 5 | 3 | live | — |
+| 8 | 2026-11-06 | [38 GTM Engineer Jobs this week, with roles at Perplexity, G2 & Konica Minolta and more…](#post-8) | u/xAvi_r | — | text | 8 | 7 | live | — |
+| 9 | 2026-11-06 | [I NEED HELP WITH GTM](#post-9) | u/khalilsautchuk | — | reddit.com | 1 | 0 | live | — |
+| 10 | 2026-11-06 | [WTF is wrong with onboarding in GTM data tools](#post-10) | u/kopunk | — | text | 0 | 4 | live | — |
+| 11 | 2026-11-06 | [Field service software / SaaS : What works for you in outbound ?](#post-11) | u/Medical-Vehicle-1747 | — | text | 2 | 10 | live | — |
+| 12 | 2026-11-06 | [The best automation in a sales pipeline might be the one that stops and waits for a human](#post-12) | u/Tamerbadereldin | — | text | 6 | 7 | live | — |
+| 13 | 2026-11-06 | [Looking for beta testers](#post-13) | u/Thick-Lock-3542 | — | text | 1 | 0 | spam-filtered | — |
+| 14 | 2026-11-05 | [Running GTM through Grok is unreal. Here's how I ran a full client campaign through an agent](#post-14) | u/Shawntenam | — | reddit.com | 2 | 3 | live | — |
+| 15 | 2026-11-05 | [GTM Workflow - For myself and One for startup](#post-15) | u/dhaivat01 | — | text | 9 | 12 | live | — |
+| 16 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](#post-16) | u/Punchie101 | — | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](#post-17) | u/Punchie101 | — | youtube.com | 1 | 0 | spam-filtered | — |
+| 18 | 2026-11-05 | [Going Agentic: Inside the Shift in GTM](#post-18) | u/Punchie101 | — | youtube.com | 1 | 0 | spam-filtered | — |
+| 19 | 2026-11-05 | [Any one looking for GTM expert for Australia or remote](#post-19) | u/Firm-Boat-482 | — | reddit.com | 1 | 0 | live | — |
+| 20 | 2026-11-05 | [The most expensive sentence in B2B sales: "I will reply to that tonight"](#post-20) | u/Tamerbadereldin | — | text | 4 | 5 | live | — |
+| 21 | 2026-11-05 | [What does a GTM engineer actually own at your company?](#post-21) | u/Responsible_Egg_3391 | — | text | 8 | 11 | live | — |
+| 22 | 2026-11-05 | [Anyone using Stape or Tagelo for server-side tracking?](#post-22) | u/gabrielmsp1 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 23 | 2026-11-05 | [Open-sourced the deliverability monitor I built for my cold email work](#post-23) | u/Kotromanich | — | text | 2 | 4 | live | — |
+| 24 | 2026-11-04 | [Anyone know a good low-cost, model-agnostic browser/desktop automation stack?](#post-24) | u/zameelimaduddin | — | text | 5 | 6 | live | — |
+| 25 | 2026-11-04 | [I built my own GTM engine with n8n + Clay + Neon + HubSpot. Here’s the architecture and what I’d do different…](#post-25) | u/Alarmed-Sector-6427 | — | text | 8 | 12 | live | — |
+| 26 | 2026-11-04 | [Which LinkedIn outbound tool enables custom video attachments to each lead?](#post-26) | u/xotwoduiux | — | text | 2 | 5 | live | — |
+| 27 | 2026-11-04 | [I killed the feature that took us from $500 to $1,500 MRR in 72 hours. Was I dumb?](#post-27) | u/Doing_whatmatters | — | text | 1 | 0 | spam-filtered | — |
+| 28 | 2026-11-04 | [The prospecting cost that is easy to miss: your best hour spent on a poor-fit lead](#post-28) | u/Tamerbadereldin | — | text | 7 | 7 | live | — |
+| 29 | 2026-11-04 | [Discord for GTM engineers](#post-29) | u/okqueenbee | — | text | 8 | 4 | live | — |
+| 30 | 2026-11-04 | [GTM System for Lead Gen + Outbound](#post-30) | u/dhaivat01 | — | i.redd.it | 2 | 0 | live | — |
+| 31 | 2026-11-04 | [How are you stopping agents from treating 8 month old data like it’s fresh?](#post-31) | u/hossam_elkhateeb11 | — | text | 2 | 7 | live | — |
+| 32 | 2026-11-04 | [Codex Windows sandbox blocking Deepline API, anyone know a fix?](#post-32) | u/gaabbieeeee | — | text | 4 | 5 | live | — |
+| 33 | 2026-11-03 | [GTM Engineer Job Board: week of November 2, 2026](#post-33) | u/Shawntenam | — | reddit.com | 1 | 0 | live | — |
+| 34 | 2026-11-03 | [0 to first cold email campaign in a weekend. step by step](#post-34) | u/truecakesnake | — | text | 14 | 10 | live | — |
+| 35 | 2026-11-03 | [GTM / Growth operator who builds \| B2B outbound, D2C acquisition, CRM automation \| US/EU hours](#post-35) | u/ktwillcode | — | text | 3 | 0 | live | — |
+| 36 | 2026-11-03 | [Where to start in GTM, need advice.](#post-36) | u/just-a-job-seeker | — | reddit.com | 1 | 5 | live | — |
+| 37 | 2026-11-03 | [Gtm engineer vs revenue system architect](#post-37) | u/ColonelTamdi | — | text | 11 | 11 | live | — |
+| 38 | 2026-11-03 | [how do you approach TAL building & hypothesis creation & testing?](#post-38) | u/varsklavi4 | — | text | 4 | 9 | live | — |
+| 39 | 2026-11-03 | [posted here last week saying I’m looking for GTM engineering work. a few of you asked me to share how it goes…](#post-39) | u/Great_Discussion9670 | — | text | 28 | 16 | live | — |
+| 40 | 2026-11-03 | [How are you guys scaling LinkedIn outreach without hitting connection limits?](#post-40) | u/NathanSupertramp | — | text | 12 | 13 | live | — |
+| 41 | 2026-11-03 | [Which industry needs Outbound the most and have a smaller sales cycle](#post-41) | u/Dapper-Woodpecker-25 | — | text | 9 | 3 | live | — |
+| 42 | 2026-11-03 | [I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)](#post-42) | u/ShakaLaka_Around | — | text | 18 | 9 | live | — |
+| 43 | 2026-11-03 | [The hours that kill B2B prospecting are not the selling - they are the chasing](#post-43) | u/Tamerbadereldin | — | text | 13 | 15 | live | — |
+| 44 | 2026-11-03 | [Vibe coding your own CRM. What's everyone's thoughts?](#post-44) | u/EmployeeOk6588 | — | text | 16 | 23 | live | — |
+| 45 | 2026-11-03 | [How i can use claude as Qualify/filter layer?](#post-45) | u/Responsible_Egg_3391 | — | text | 3 | 7 | live | — |
+| 46 | 2026-11-03 | [Building independent project for an hypothetical company](#post-46) | u/InformationSlow8543 | — | text | 12 | 34 | live | — |
+| 47 | 2026-11-03 | [Early-stage AI security startup looking for a GTM co-founder with real enterprise network, not a sales hire](#post-47) | u/Old_Needleworker1747 | — | text | 4 | 16 | live | — |
+| 48 | 2026-11-03 | [Not every company signal is a buying signal.](#post-48) | u/just_keith_ | — | text | 5 | 9 | live | — |
+| 49 | 2026-11-03 | [Weekly open GTM pitch](#post-49) | u/AutoModerator | — | text | 5 | 7 | live | — |
+| 50 | 2026-11-02 | [Built my first open-source GTM tool (Reputation Engine) using vibecoding & GitHub for the first time!](#post-50) | u/xotwoduiux | — | text | 13 | 9 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -98,34 +98,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-27 | [I’m doin it, launched agency and it’s working](https://www.reddit.com/r/gtmengineering/comments/1xghqiv/im_doin_it_launched_agency_and_its_working/) | u/MessiahPie | — | text | 93 | 77 | live |
-| 52 | 2026-10-18 | [I quit my job to vibe code a GTM automation tool from scratch, and made ~$10K 🚀 Here’s what I learned👇](https://www.reddit.com/r/gtmengineering/comments/1x9fxtv/i_quit_my_job_to_vibe_code_a_gtm_automation_tool/) | u/Downtown_Pudding9728 | — | i.redd.it | 56 | 25 | live |
-| 53 | 2026-10-27 | [GTM engineer update: what I shipped in the last 90 days (5+ yrs, ex Founding GTM Engineer at a YC company)](https://www.reddit.com/r/gtmengineering/comments/1xgjpja/gtm_engineer_update_what_i_shipped_in_the_last_90/) | u/Great_Discussion9670 | — | text | 48 | 21 | live |
-| 54 | 2026-10-15 | [AMA: OpenAI's Head of GTM Systems](https://www.reddit.com/r/gtmengineering/comments/1x6phep/ama_openais_head_of_gtm_systems/) | u/alexjl1226 | — | i.redd.it | 41 | 46 | live |
-| 55 | 2026-11-01 | [Tech founders are horrible at building GTM team](https://www.reddit.com/r/gtmengineering/comments/1xkydjr/tech_founders_are_horrible_at_building_gtm_team/) | u/Forsaken-Violinist27 | — | text | 39 | 28 | live |
-| 56 | 2026-10-12 | [AMA on Thurs: OpenAI's Head of GTM Systems - Keith Jones](https://www.reddit.com/r/gtmengineering/comments/1x44lw1/ama_on_thurs_openais_head_of_gtm_systems_keith/) | u/alexjl1226 | Crowdsourcing | text | 37 | 15 | live |
-| 57 | 2026-10-16 | [After 6 years in tech sales and GTM across Southeast Asia, I've learned that sending 500 cold emails isn't a…](https://www.reddit.com/r/gtmengineering/comments/1x7idx8/after_6_years_in_tech_sales_and_gtm_across/) | u/kelvin1987 | — | text | 33 | 12 | live |
-| 58 | 2026-10-23 | [How much of your outbound workflow is still manual?](https://www.reddit.com/r/gtmengineering/comments/1xdcmnv/how_much_of_your_outbound_workflow_is_still_manual/) | u/Fancy_Pea_7214 | — | text | 31 | 31 | live |
-| 39 | 2026-11-03 | [posted here last week saying I’m looking for GTM engineering work. a few of you asked me to share how it goes…](https://www.reddit.com/r/gtmengineering/comments/1xmviww/posted_here_last_week_saying_im_looking_for_gtm/) | u/Great_Discussion9670 | — | text | 28 | 16 | live |
-| 59 | 2026-10-28 | [GTM Engineer, doubling down on agentic pipelines. B2B & PLG strategy, $660K+ pipeline shipped solo. Available…](https://www.reddit.com/r/gtmengineering/comments/1xhjikh/gtm_engineer_doubling_down_on_agentic_pipelines/) | u/ktwillcode | — | text | 26 | 19 | live |
-| 60 | 2026-10-10 | [Change my mind. GTM Engineering is a transition period premium being charged by pretentious overnight experts…](https://www.reddit.com/r/gtmengineering/comments/1x2btm1/change_my_mind_gtm_engineering_is_a_transition/) | u/404purposelifeerror | — | text | 25 | 29 | live |
-| 61 | 2026-10-23 | [Favorite GTM Engineers on GitHub?](https://www.reddit.com/r/gtmengineering/comments/1xdr1da/favorite_gtm_engineers_on_github/) | u/xotwoduiux | — | text | 20 | 13 | live |
-| 62 | 2026-10-13 | [Give me one good reason to use Clay instead of just using Claude + APIs](https://www.reddit.com/r/gtmengineering/comments/1x4vngh/give_me_one_good_reason_to_use_clay_instead_of/) | u/remilagorce | — | text | 19 | 40 | live |
-| 63 | 2026-10-26 | [What do you think of Clay’s pivot to a self learning revenue engine?](https://www.reddit.com/r/gtmengineering/comments/1xfpqah/what_do_you_think_of_clays_pivot_to_a_self/) | u/me_and_my_indomie | — | text | 18 | 29 | live |
-| 42 | 2026-11-03 | [I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)](https://www.reddit.com/r/gtmengineering/comments/1xmrior/i_added_a_dialer_to_my_opensource_linkedinemail/) | u/ShakaLaka_Around | — | text | 18 | 9 | live |
-| 64 | 2026-10-26 | [Building a system from scratch](https://www.reddit.com/r/gtmengineering/comments/1xfr15g/building_a_system_from_scratch/) | u/Aliteralgoat | — | text | 17 | 26 | live |
-| 65 | 2026-10-29 | [Anyone else noticing B2B companies putting more effort into in-person events?](https://www.reddit.com/r/gtmengineering/comments/1xij4s5/anyone_else_noticing_b2b_companies_putting_more/) | u/Head_Shock_8216 | — | text | 17 | 19 | live |
-| 44 | 2026-11-03 | [Vibe coding your own CRM. What's everyone's thoughts?](https://www.reddit.com/r/gtmengineering/comments/1xmopbl/vibe_coding_your_own_crm_whats_everyones_thoughts/) | u/EmployeeOk6588 | — | text | 16 | 23 | live |
-| 66 | 2026-10-24 | [Want to learn GTM Engineering from scratch. Where should I start in 2026-27?](https://www.reddit.com/r/gtmengineering/comments/1xe19b8/want_to_learn_gtm_engineering_from_scratch_where/) | u/Mission-Dentist-5971 | — | text | 16 | 9 | live |
-| 67 | 2026-10-30 | [When will I get results in B2B?](https://www.reddit.com/r/gtmengineering/comments/1xjhuva/when_will_i_get_results_in_b2b/) | u/edge-case42 | — | text | 15 | 19 | live |
+| 51 | 2026-10-27 | [I’m doin it, launched agency and it’s working](#post-51) | u/MessiahPie | — | text | 93 | 77 | live |
+| 52 | 2026-10-18 | [I quit my job to vibe code a GTM automation tool from scratch, and made ~$10K 🚀 Here’s what I learned👇](#post-52) | u/Downtown_Pudding9728 | — | i.redd.it | 56 | 25 | live |
+| 53 | 2026-10-27 | [GTM engineer update: what I shipped in the last 90 days (5+ yrs, ex Founding GTM Engineer at a YC company)](#post-53) | u/Great_Discussion9670 | — | text | 48 | 21 | live |
+| 54 | 2026-10-15 | [AMA: OpenAI's Head of GTM Systems](#post-54) | u/alexjl1226 | — | i.redd.it | 41 | 46 | live |
+| 55 | 2026-11-01 | [Tech founders are horrible at building GTM team](#post-55) | u/Forsaken-Violinist27 | — | text | 39 | 28 | live |
+| 56 | 2026-10-12 | [AMA on Thurs: OpenAI's Head of GTM Systems - Keith Jones](#post-56) | u/alexjl1226 | Crowdsourcing | text | 37 | 15 | live |
+| 57 | 2026-10-16 | [After 6 years in tech sales and GTM across Southeast Asia, I've learned that sending 500 cold emails isn't a…](#post-57) | u/kelvin1987 | — | text | 33 | 12 | live |
+| 58 | 2026-10-23 | [How much of your outbound workflow is still manual?](#post-58) | u/Fancy_Pea_7214 | — | text | 31 | 31 | live |
+| 39 | 2026-11-03 | [posted here last week saying I’m looking for GTM engineering work. a few of you asked me to share how it goes…](#post-39) | u/Great_Discussion9670 | — | text | 28 | 16 | live |
+| 59 | 2026-10-28 | [GTM Engineer, doubling down on agentic pipelines. B2B & PLG strategy, $660K+ pipeline shipped solo. Available…](#post-59) | u/ktwillcode | — | text | 26 | 19 | live |
+| 60 | 2026-10-10 | [Change my mind. GTM Engineering is a transition period premium being charged by pretentious overnight experts…](#post-60) | u/404purposelifeerror | — | text | 25 | 29 | live |
+| 61 | 2026-10-23 | [Favorite GTM Engineers on GitHub?](#post-61) | u/xotwoduiux | — | text | 20 | 13 | live |
+| 62 | 2026-10-13 | [Give me one good reason to use Clay instead of just using Claude + APIs](#post-62) | u/remilagorce | — | text | 19 | 40 | live |
+| 63 | 2026-10-26 | [What do you think of Clay’s pivot to a self learning revenue engine?](#post-63) | u/me_and_my_indomie | — | text | 18 | 29 | live |
+| 42 | 2026-11-03 | [I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)](#post-42) | u/ShakaLaka_Around | — | text | 18 | 9 | live |
+| 64 | 2026-10-26 | [Building a system from scratch](#post-64) | u/Aliteralgoat | — | text | 17 | 26 | live |
+| 65 | 2026-10-29 | [Anyone else noticing B2B companies putting more effort into in-person events?](#post-65) | u/Head_Shock_8216 | — | text | 17 | 19 | live |
+| 44 | 2026-11-03 | [Vibe coding your own CRM. What's everyone's thoughts?](#post-44) | u/EmployeeOk6588 | — | text | 16 | 23 | live |
+| 66 | 2026-10-24 | [Want to learn GTM Engineering from scratch. Where should I start in 2026-27?](#post-66) | u/Mission-Dentist-5971 | — | text | 16 | 9 | live |
+| 67 | 2026-10-30 | [When will I get results in B2B?](#post-67) | u/edge-case42 | — | text | 15 | 19 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Building a Claude Desktop app for outbound email, with your own sending provider and keys that stay on your machine. What would make you trust it?
 
-2026-11-06 · u/davidedmonai · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpqeg7/building_a_claude_desktop_app_for_outbound_email/)
+2026-11-06 · u/davidedmonai · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpqeg7/building_a_claude_desktop_app_for_outbound_email/) · [↑ back to the list](#last-50-posts)
 
 > Because I needed it myself, I'm building Mail Campaign: an MCP server for Claude Desktop plus a small Mac companion app. You run outbound and opt-in email by talking to Claude, but nothing goes out and no money is spent without a yes in a separate approval window.
 >
@@ -177,15 +179,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Not launched yet; I'm looking for honest takes before it is.
 
+<a id="post-2"></a>
+
 ### 2. Sold my Agentic Content System through random inbound but no clue about marketing campaign for proper GTM.
 
-2026-11-06 · u/hassan-mujtaba · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpnnl4/sold_my_agentic_content_system_through_random/)
+2026-11-06 · u/hassan-mujtaba · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpnnl4/sold_my_agentic_content_system_through_random/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. A lot of "GTM engineering" is just workflow glue. Is that a problem?
 
-2026-11-06 · u/Responsible_Egg_3391 · score 6 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpjzks/a_lot_of_gtm_engineering_is_just_workflow_glue_is/)
+2026-11-06 · u/Responsible_Egg_3391 · score 6 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpjzks/a_lot_of_gtm_engineering_is_just_workflow_glue_is/) · [↑ back to the list](#last-50-posts)
 
 > A lot of what gets called GTM engineering is connecting tools: a CRM, an enrichment vendor, a sequencer, and an automation tool in the middle. That work matters, but it isn't the same as designing how a sales team decides who to call.
 >
@@ -193,9 +199,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For people in RevOps or sales ops: is "GTM engineer" a real scope of its own, or a rebrand of RevOps? And if you run a stack like this, which part should stay manual?
 
+<a id="post-4"></a>
+
 ### 4. Building in the GTM space, would appreciate some honest feedback
 
-2026-11-06 · u/Able_Green9662 · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xphu1a/building_in_the_gtm_space_would_appreciate_some/)
+2026-11-06 · u/Able_Green9662 · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xphu1a/building_in_the_gtm_space_would_appreciate_some/) · [↑ back to the list](#last-50-posts)
 
 > I'm building in the GTM space, working towards a vision of a fully autonomous GTM team.
 >
@@ -211,9 +219,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > No validation needed. Just looking for honest opinions, hard questions and criticism.
 
+<a id="post-5"></a>
+
 ### 5. I need help, with GTM
 
-2026-11-06 · u/khalilsautchuk · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xph7iu/i_need_help_with_gtm/)
+2026-11-06 · u/khalilsautchuk · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xph7iu/i_need_help_with_gtm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/x8xakbfyq00i1.png>
 
@@ -222,9 +232,11 @@ Link: <https://i.redd.it/x8xakbfyq00i1.png>
 >
 > I need help with this (:
 
+<a id="post-6"></a>
+
 ### 6. I get way too excited every time I open one of these
 
-2026-11-06 · u/Aware-Site6079 · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpg4qn/i_get_way_too_excited_every_time_i_open_one_of/)
+2026-11-06 · u/Aware-Site6079 · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpg4qn/i_get_way_too_excited_every_time_i_open_one_of/) · [↑ back to the list](#last-50-posts)
 
 > I look at a lot of company timelines for work (I build in this space, so no pitch, nothing to buy here) and this one stopped me
 >
@@ -245,9 +257,11 @@ Link: <https://i.redd.it/x8xakbfyq00i1.png>
 >
 > https://i.redd.it/c55jfnuuj00i1.png
 
+<a id="post-7"></a>
+
 ### 7. Complete guide to GTM engineering (2026)
 
-2026-11-06 · u/Jampolhz · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpe6hm/complete_guide_to_gtm_engineering_2026/)
+2026-11-06 · u/Jampolhz · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpe6hm/complete_guide_to_gtm_engineering_2026/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpe6hm>
 
@@ -440,9 +454,11 @@ Link: <https://www.reddit.com/gallery/1xpe6hm>
 >
 > I post about GTM engineering and AI agents every week. Follow me if you want more of this.
 
+<a id="post-8"></a>
+
 ### 8. 38 GTM Engineer Jobs this week, with roles at Perplexity, G2 & Konica Minolta and more…
 
-2026-11-06 · u/xAvi_r · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpd2s5/38_gtm_engineer_jobs_this_week_with_roles_at/)
+2026-11-06 · u/xAvi_r · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpd2s5/38_gtm_engineer_jobs_this_week_with_roles_at/) · [↑ back to the list](#last-50-posts)
 
 > # 🤖 AI, Automation & Agents
 >
@@ -500,16 +516,20 @@ Link: <https://www.reddit.com/gallery/1xpe6hm>
 > * [**GTM Engineer**](https://gtmjobs.xyz/jobs/gtm-engineer-justpark-recoye5k4kcfdqrzb), JustPark · 🇺🇸 United States
 > * [**GTM Engineer**](https://gtmjobs.xyz/jobs/gtm-engineer-private-equity-insights-rectjanadnrf1kvl4), Private Equity Insights · 🇬🇧 United Kingdom
 
+<a id="post-9"></a>
+
 ### 9. I NEED HELP WITH GTM
 
-2026-11-06 · u/khalilsautchuk · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpas7j/i_need_help_with_gtm/)
+2026-11-06 · u/khalilsautchuk · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xpas7j/i_need_help_with_gtm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ycombinator/comments/1xpas1s/i_need_help_with_gtm/>
 
 
+<a id="post-10"></a>
+
 ### 10. WTF is wrong with onboarding in GTM data tools
 
-2026-11-06 · u/kopunk · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp9y57/wtf_is_wrong_with_onboarding_in_gtm_data_tools/)
+2026-11-06 · u/kopunk · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp9y57/wtf_is_wrong_with_onboarding_in_gtm_data_tools/) · [↑ back to the list](#last-50-posts)
 
 > few years in sales and revops before this, and at my last two jobs i was the one stuck evaluating data tools. i work at bitscale now so weigh this however you want, but most of it is from before i joined
 >
@@ -527,9 +547,11 @@ Link: <https://www.reddit.com/r/ycombinator/comments/1xpas1s/i_need_help_with_gt
 >
 > what i'd tell anyone buying right now, prepare a list of ICP/ get the price per enriched contact, ask a lot of questions // i made a docx around this what exactly to ask, dm me ill share for free // not promoting anything
 
+<a id="post-11"></a>
+
 ### 11. Field service software / SaaS : What works for you in outbound ?
 
-2026-11-06 · u/Medical-Vehicle-1747 · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp9rxd/field_service_software_saas_what_works_for_you_in/)
+2026-11-06 · u/Medical-Vehicle-1747 · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp9rxd/field_service_software_saas_what_works_for_you_in/) · [↑ back to the list](#last-50-posts)
 
 > I sell a field service management tool (scheduling, maintenance contracts, quotes, invoicing...) to installers and maintenance contractors, mostly HVAC, electrical and solar companies with 5 to 50 employees, in France and Spain.
 >
@@ -539,9 +561,11 @@ Link: <https://www.reddit.com/r/ycombinator/comments/1xpas1s/i_need_help_with_gt
 >
 > If you sell software to contractors or similar field service businesses: what tools or strategies brought you the most qualified conversations? Especially keen to hear from people outside the US, but all feedback is welcome. Thanks!
 
+<a id="post-12"></a>
+
 ### 12. The best automation in a sales pipeline might be the one that stops and waits for a human
 
-2026-11-06 · u/Tamerbadereldin · score 6 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp6iuy/the_best_automation_in_a_sales_pipeline_might_be/)
+2026-11-06 · u/Tamerbadereldin · score 6 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp6iuy/the_best_automation_in_a_sales_pipeline_might_be/) · [↑ back to the list](#last-50-posts)
 
 > There is a race right now to automate the entire outbound motion - find them, write to them, follow up, book the meeting- all untouched. I understand the appeal. But the more I design my own system, the more I believe the last 10% should stay human.
 >
@@ -553,22 +577,28 @@ Link: <https://www.reddit.com/r/ycombinator/comments/1xpas1s/i_need_help_with_gt
 >
 > If you automate outbound, where is your checkpoint? What do you insist on seeing before anything goes out?
 
+<a id="post-13"></a>
+
 ### 13. Looking for beta testers
 
-2026-11-06 · u/Thick-Lock-3542 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp0m9k/looking_for_beta_testers/)
+2026-11-06 · u/Thick-Lock-3542 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xp0m9k/looking_for_beta_testers/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. Running GTM through Grok is unreal. Here's how I ran a full client campaign through an agent
 
-2026-11-05 · u/Shawntenam · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xonazz/running_gtm_through_grok_is_unreal_heres_how_i/)
+2026-11-05 · u/Shawntenam · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xonazz/running_gtm_through_grok_is_unreal_heres_how_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/GTMbuilders/comments/1xonaux/running_gtm_through_grok_is_unreal_heres_how_i/>
 
 
+<a id="post-15"></a>
+
 ### 15. GTM Workflow - For myself and One for startup
 
-2026-11-05 · u/dhaivat01 · score 9 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xojhaw/gtm_workflow_for_myself_and_one_for_startup/)
+2026-11-05 · u/dhaivat01 · score 9 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xojhaw/gtm_workflow_for_myself_and_one_for_startup/) · [↑ back to the list](#last-50-posts)
 
 > It is been a month I'm building and shipping GTM workflows  
 >
@@ -592,38 +622,48 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xonaux/running_gtm_through
 >
 > workflow is ready I'm testing it and waiting for the results how does it performed
 
+<a id="post-16"></a>
+
 ### 16. Going Agentic: Inside the Shift in GTM
 
-2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohxc2/going_agentic_inside_the_shift_in_gtm/)
+2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohxc2/going_agentic_inside_the_shift_in_gtm/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-17"></a>
 
 ### 17. Going Agentic: Inside the Shift in GTM
 
-2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohqk9/going_agentic_inside_the_shift_in_gtm/)
+2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohqk9/going_agentic_inside_the_shift_in_gtm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/live/2T293B9brcg?si=jQq0fBjCSSLWd2My>
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-18"></a>
 
 ### 18. Going Agentic: Inside the Shift in GTM
 
-2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohlsf/going_agentic_inside_the_shift_in_gtm/)
+2026-11-05 · u/Punchie101 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xohlsf/going_agentic_inside_the_shift_in_gtm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/live/2T293B9brcg?si=jQq0fBjCSSLWd2My>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. Any one looking for GTM expert for Australia or remote
 
-2026-11-05 · u/Firm-Boat-482 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xofw8g/any_one_looking_for_gtm_expert_for_australia_or/)
+2026-11-05 · u/Firm-Boat-482 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xofw8g/any_one_looking_for_gtm_expert_for_australia_or/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SaaS/comments/1xl0egt/any_one_looking_for_gtm_expert_for_australia_or/>
 
 
+<a id="post-20"></a>
+
 ### 20. The most expensive sentence in B2B sales: "I will reply to that tonight"
 
-2026-11-05 · u/Tamerbadereldin · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xocjlo/the_most_expensive_sentence_in_b2b_sales_i_will/)
+2026-11-05 · u/Tamerbadereldin · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xocjlo/the_most_expensive_sentence_in_b2b_sales_i_will/) · [↑ back to the list](#last-50-posts)
 
 > A prospect writes back with genuine interest. You catch the message between meetings and think: I will give this a proper answer tonight. Tonight turns into tomorrow, tomorrow into next week. When the reply finally goes out, the conversation may have lost momentum. Not because anyone stopped caring - because the follow-up lived in someone's head, and heads are full.
 >
@@ -633,9 +673,11 @@ Link: <https://www.reddit.com/r/SaaS/comments/1xl0egt/any_one_looking_for_gtm_ex
 >
 > What does your follow-up discipline look like - a tool, a ritual, or pure willpower?
 
+<a id="post-21"></a>
+
 ### 21. What does a GTM engineer actually own at your company?
 
-2026-11-05 · u/Responsible_Egg_3391 · score 8 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xocg63/what_does_a_gtm_engineer_actually_own_at_your/)
+2026-11-05 · u/Responsible_Egg_3391 · score 8 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xocg63/what_does_a_gtm_engineer_actually_own_at_your/) · [↑ back to the list](#last-50-posts)
 
 > Genuine question, because the title means something different everywhere I look.  
 > For me it's the system before the send: which signals count, enrichment, who gets drafted, the human check, and the rule that a reply stops everything. I don't touch CRM admin or forecasting.  
@@ -646,17 +688,21 @@ Link: <https://www.reddit.com/r/SaaS/comments/1xl0egt/any_one_looking_for_gtm_ex
 > Did your company know what it wanted when it hired you, or did you define the role yourself?  
 > Curious whether this is converging into one job or splitting into two.
 
+<a id="post-22"></a>
+
 ### 22. Anyone using Stape or Tagelo for server-side tracking?
 
-2026-11-05 · u/gabrielmsp1 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo9rm2/anyone_using_stape_or_tagelo_for_serverside/)
+2026-11-05 · u/gabrielmsp1 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo9rm2/anyone_using_stape_or_tagelo_for_serverside/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_stape_or_tagelo_for_serverside/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. Open-sourced the deliverability monitor I built for my cold email work
 
-2026-11-05 · u/Kotromanich · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo7056/opensourced_the_deliverability_monitor_i_built/)
+2026-11-05 · u/Kotromanich · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo7056/opensourced_the_deliverability_monitor_i_built/) · [↑ back to the list](#last-50-posts)
 
 > Been building this for a while for my own cold email work and finally cleaned it up so other people can use it.
 >
@@ -680,9 +726,11 @@ Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_s
 >
 > Would love feedback on the rules, that's the part I argued with myself about the most.
 
+<a id="post-24"></a>
+
 ### 24. Anyone know a good low-cost, model-agnostic browser/desktop automation stack?
 
-2026-11-04 · u/zameelimaduddin · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo3yu1/anyone_know_a_good_lowcost_modelagnostic/)
+2026-11-04 · u/zameelimaduddin · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo3yu1/anyone_know_a_good_lowcost_modelagnostic/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been trying to find a solid browser/desktop automation setup for Windows, and I’m surprised at how difficult it is to find something that’s both capable and not a whole other subscription. 
 >
@@ -702,9 +750,11 @@ Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_s
 >
 > Would your thoughts & recommendations on this!
 
+<a id="post-25"></a>
+
 ### 25. I built my own GTM engine with n8n + Clay + Neon + HubSpot. Here’s the architecture and what I’d do differently
 
-2026-11-04 · u/Alarmed-Sector-6427 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo0sf6/i_built_my_own_gtm_engine_with_n8n_clay_neon/)
+2026-11-04 · u/Alarmed-Sector-6427 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xo0sf6/i_built_my_own_gtm_engine_with_n8n_clay_neon/) · [↑ back to the list](#last-50-posts)
 
 > I wanted a system that finds B2B startups likely to need GTM automation, researches them, finds the founder, drafts a grounded first message, and then waits for my approval. Nothing sends on its own. I set a hard rule of $0 budget, so every design choice had to keep costs predictable.
 >
@@ -762,21 +812,27 @@ Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_s
 >
 > Happy to answer questions about any part, especially the Clay credit metering or the outbox sync. I also take on small Clay and n8n builds if anyone needs a hand.
 
+<a id="post-26"></a>
+
 ### 26. Which LinkedIn outbound tool enables custom video attachments to each lead?
 
-2026-11-04 · u/xotwoduiux · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnnv70/which_linkedin_outbound_tool_enables_custom_video/)
+2026-11-04 · u/xotwoduiux · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnnv70/which_linkedin_outbound_tool_enables_custom_video/) · [↑ back to the list](#last-50-posts)
 
 > Basically the headline
 
+<a id="post-27"></a>
+
 ### 27. I killed the feature that took us from $500 to $1,500 MRR in 72 hours. Was I dumb?
 
-2026-11-04 · u/Doing_whatmatters · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnj43w/i_killed_the_feature_that_took_us_from_500_to/)
+2026-11-04 · u/Doing_whatmatters · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnj43w/i_killed_the_feature_that_took_us_from_500_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. The prospecting cost that is easy to miss: your best hour spent on a poor-fit lead
 
-2026-11-04 · u/Tamerbadereldin · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnhu3q/the_prospecting_cost_that_is_easy_to_miss_your/)
+2026-11-04 · u/Tamerbadereldin · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnhu3q/the_prospecting_cost_that_is_easy_to_miss_your/) · [↑ back to the list](#last-50-posts)
 
 > A prospecting cost that is easy to miss: attention given to people who were a poor fit from the start.
 >
@@ -788,9 +844,11 @@ Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_s
 >
 > When you look at last week's outreach, how much of it went to people you would have skipped if you had asked "why this person" before "what do I say"?
 
+<a id="post-29"></a>
+
 ### 29. Discord for GTM engineers
 
-2026-11-04 · u/okqueenbee · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnhph4/discord_for_gtm_engineers/)
+2026-11-04 · u/okqueenbee · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnhph4/discord_for_gtm_engineers/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, 
 >
@@ -802,16 +860,20 @@ Link: <https://www.reddit.com/r/GoogleTagManager/comments/1xo9rda/anyone_using_s
 >
 > would love to see you there!
 
+<a id="post-30"></a>
+
 ### 30. GTM System for Lead Gen + Outbound
 
-2026-11-04 · u/dhaivat01 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnge20/gtm_system_for_lead_gen_outbound/)
+2026-11-04 · u/dhaivat01 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnge20/gtm_system_for_lead_gen_outbound/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/t7a1pubwajzh1.gif>
 
 
+<a id="post-31"></a>
+
 ### 31. How are you stopping agents from treating 8 month old data like it’s fresh?
 
-2026-11-04 · u/hossam_elkhateeb11 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnfmyi/how_are_you_stopping_agents_from_treating_8_month/)
+2026-11-04 · u/hossam_elkhateeb11 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnfmyi/how_are_you_stopping_agents_from_treating_8_month/) · [↑ back to the list](#last-50-posts)
 
 > i keep thinking about this with clay tables and crm data feeding agents. the agent gets a job title, a tech stack or a last activity, and it writes as if all of it was true this morning.
 >
@@ -830,9 +892,11 @@ Link: <https://i.redd.it/t7a1pubwajzh1.gif>
 >
 > how are you handling this? do you use cutoffs per field, re-enrich right before the agent acts, or something else?
 
+<a id="post-32"></a>
+
 ### 32. Codex Windows sandbox blocking Deepline API, anyone know a fix?
 
-2026-11-04 · u/gaabbieeeee · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnfjbz/codex_windows_sandbox_blocking_deepline_api/)
+2026-11-04 · u/gaabbieeeee · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xnfjbz/codex_windows_sandbox_blocking_deepline_api/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! I'm new to coding and trying to build a GTM automation system using Codex, Deepline, and HubSpot for automated lead sourcing and enrichment.
 >
@@ -861,16 +925,20 @@ Link: <https://i.redd.it/t7a1pubwajzh1.gif>
 >
 > Spent hours troubleshooting this. Would really appreciate any help!
 
+<a id="post-33"></a>
+
 ### 33. GTM Engineer Job Board: week of November 2, 2026
 
-2026-11-03 · u/Shawntenam · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn7hdq/gtm_engineer_job_board_week_of_november_2_2026/)
+2026-11-03 · u/Shawntenam · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn7hdq/gtm_engineer_job_board_week_of_november_2_2026/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn46ow/gtm_engineer_job_board_week_of_november_2_2026/>
 
 
+<a id="post-34"></a>
+
 ### 34. 0 to first cold email campaign in a weekend. step by step
 
-2026-11-03 · u/truecakesnake · score 14 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn6wpk/0_to_first_cold_email_campaign_in_a_weekend_step/)
+2026-11-03 · u/truecakesnake · score 14 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn6wpk/0_to_first_cold_email_campaign_in_a_weekend_step/) · [↑ back to the list](#last-50-posts)
 
 > the amount of vague "just send cold emails bro" advice floating around this sub and others drives me up a wall. im not an SDR, i dont write copy, i dont care about subject line A/B tests. im the ops person who builds the infrastructure so our SDR team can actually press send without torching our domain or landing in spam. ive been doing this for about 2 years at a series A company and before that i was a backend engineer, so i think about this stuff as systems and data pipelines not "outreach strategy."
 >
@@ -933,9 +1001,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn46ow/gtm_engineer_job_bo
 >
 > anyway thats basically the weekend build. the 14 day warmup is the bottleneck, everything else can be done in a saturday if youre focused
 
+<a id="post-35"></a>
+
 ### 35. GTM / Growth operator who builds \| B2B outbound, D2C acquisition, CRM automation \| US/EU hours
 
-2026-11-03 · u/ktwillcode · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn50mb/gtm_growth_operator_who_builds_b2b_outbound_d2c/)
+2026-11-03 · u/ktwillcode · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn50mb/gtm_growth_operator_who_builds_b2b_outbound_d2c/) · [↑ back to the list](#last-50-posts)
 
 > I’m looking for GTM and growth roles where I can own the strategy, run the experiments and build the systems behind them.
 >
@@ -971,22 +1041,28 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn46ow/gtm_engineer_job_bo
 >
 > Happy to share my background and relevant walkthroughs over DM. Tell me what you sell and where the customer journey gets stuck.
 
+<a id="post-36"></a>
+
 ### 36. Where to start in GTM, need advice.
 
-2026-11-03 · u/just-a-job-seeker · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn0n0n/where_to_start_in_gtm_need_advice/)
+2026-11-03 · u/just-a-job-seeker · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn0n0n/where_to_start_in_gtm_need_advice/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_gtm_need_advice/>
 
 
+<a id="post-37"></a>
+
 ### 37. Gtm engineer vs revenue system architect
 
-2026-11-03 · u/ColonelTamdi · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn0bpx/gtm_engineer_vs_revenue_system_architect/)
+2026-11-03 · u/ColonelTamdi · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xn0bpx/gtm_engineer_vs_revenue_system_architect/) · [↑ back to the list](#last-50-posts)
 
 > What r ur thoughts
 
+<a id="post-38"></a>
+
 ### 38. how do you approach TAL building & hypothesis creation & testing?
 
-2026-11-03 · u/varsklavi4 · score 4 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmyv05/how_do_you_approach_tal_building_hypothesis/)
+2026-11-03 · u/varsklavi4 · score 4 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmyv05/how_do_you_approach_tal_building_hypothesis/) · [↑ back to the list](#last-50-posts)
 
 > So the title says it all. I really want to hear about your current approach to GTM.
 >
@@ -1007,9 +1083,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > How do you make sure your TAL, ICP, and messaging are as good as possible?
 
+<a id="post-39"></a>
+
 ### 39. posted here last week saying I’m looking for GTM engineering work. a few of you asked me to share how it goes, so here’s the honest week 1 recap
 
-2026-11-03 · u/Great_Discussion9670 · score 28 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmviww/posted_here_last_week_saying_im_looking_for_gtm/)
+2026-11-03 · u/Great_Discussion9670 · score 28 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmviww/posted_here_last_week_saying_im_looking_for_gtm/) · [↑ back to the list](#last-50-posts)
 
 > **the numbers**
 >
@@ -1050,9 +1128,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > and thanks for showing so much love on my last post, i'll keep you guys posted on how it goes
 
+<a id="post-40"></a>
+
 ### 40. How are you guys scaling LinkedIn outreach without hitting connection limits?
 
-2026-11-03 · u/NathanSupertramp · score 12 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmu3or/how_are_you_guys_scaling_linkedin_outreach/)
+2026-11-03 · u/NathanSupertramp · score 12 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmu3or/how_are_you_guys_scaling_linkedin_outreach/) · [↑ back to the list](#last-50-posts)
 
 > I'm a GTM Engineer at an early-stage startup, currently running cold outreach campaigns mainly through LinkedIn.
 >
@@ -1068,15 +1148,19 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > Would love to hear how other GTM Engineers are approaching this!
 
+<a id="post-41"></a>
+
 ### 41. Which industry needs Outbound the most and have a smaller sales cycle
 
-2026-11-03 · u/Dapper-Woodpecker-25 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmsowu/which_industry_needs_outbound_the_most_and_have_a/)
+2026-11-03 · u/Dapper-Woodpecker-25 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmsowu/which_industry_needs_outbound_the_most_and_have_a/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-42"></a>
+
 ### 42. I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)
 
-2026-11-03 · u/ShakaLaka_Around · score 18 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmrior/i_added_a_dialer_to_my_opensource_linkedinemail/)
+2026-11-03 · u/ShakaLaka_Around · score 18 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmrior/i_added_a_dialer_to_my_opensource_linkedinemail/) · [↑ back to the list](#last-50-posts)
 
 > I’m the author of Linki, an open-source outreach tool I built because I wanted one place to run my own outbound. You import a lead list from Sales Navigator, clean it, and run multichannel campaigns (LinkedIn + email) where an AI agent personalizes each message per lead. It also has a unified inbox and Apollo enrichment.
 >
@@ -1098,9 +1182,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > I’d like to hear what breaks, especially on Mac and with other call setups.
 
+<a id="post-43"></a>
+
 ### 43. The hours that kill B2B prospecting are not the selling - they are the chasing
 
-2026-11-03 · u/Tamerbadereldin · score 13 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmpycb/the_hours_that_kill_b2b_prospecting_are_not_the/)
+2026-11-03 · u/Tamerbadereldin · score 13 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmpycb/the_hours_that_kill_b2b_prospecting_are_not_the/) · [↑ back to the list](#last-50-posts)
 
 > In B2B prospecting, a lot of the work happens between the conversations.
 >
@@ -1116,24 +1202,30 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > For those of you selling B2B: what eats more of your week - finding the people, or keeping up with everything after they reply?
 
+<a id="post-44"></a>
+
 ### 44. Vibe coding your own CRM. What's everyone's thoughts?
 
-2026-11-03 · u/EmployeeOk6588 · score 16 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmopbl/vibe_coding_your_own_crm_whats_everyones_thoughts/)
+2026-11-03 · u/EmployeeOk6588 · score 16 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmopbl/vibe_coding_your_own_crm_whats_everyones_thoughts/) · [↑ back to the list](#last-50-posts)
 
 > I've been thinking about doing this for my agency. We need something a little more bespoke than what is already out there.
 >
 > I am seeing mixed reviews online from people vibe coding their own CRM. What is everyone's thoughts? Has anyone done it successfully? I want to hear it all.
 
+<a id="post-45"></a>
+
 ### 45. How i can use claude as Qualify/filter layer?
 
-2026-11-03 · u/Responsible_Egg_3391 · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmolnd/how_i_can_use_claude_as_qualifyfilter_layer/)
+2026-11-03 · u/Responsible_Egg_3391 · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmolnd/how_i_can_use_claude_as_qualifyfilter_layer/) · [↑ back to the list](#last-50-posts)
 
 > Hello all  
 > As part of an ongoing project, I’m having a struggle with Claude in addition to set him or to define him as a filter qualifier or a layer that actually reduce noise and brings more good qualify prospects. I have I have very simple instructions for him, but unfortunately he do not understand how to receive this input from my side. The instructions are simple: 1st layer must be filtered by the ICP, and 2nd layer by a definition of an superqualified contact. If someone knows how to work with Claude, much more efficient and much more accurate. Please contact me on DM. Highly appreciate, thanks
 
+<a id="post-46"></a>
+
 ### 46. Building independent project for an hypothetical company
 
-2026-11-03 · u/InformationSlow8543 · score 12 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmksbh/building_independent_project_for_an_hypothetical/)
+2026-11-03 · u/InformationSlow8543 · score 12 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmksbh/building_independent_project_for_an_hypothetical/) · [↑ back to the list](#last-50-posts)
 
 > **7 days to land an gtm engineering** or any role under the revenue space ,   yes, i took an challenge in getting hired in this role .
 >
@@ -1148,9 +1240,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > can you tell me what do i do more to get into this role ?
 
+<a id="post-47"></a>
+
 ### 47. Early-stage AI security startup looking for a GTM co-founder with real enterprise network, not a sales hire
 
-2026-11-03 · u/Old_Needleworker1747 · score 4 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmjkp9/earlystage_ai_security_startup_looking_for_a_gtm/)
+2026-11-03 · u/Old_Needleworker1747 · score 4 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmjkp9/earlystage_ai_security_startup_looking_for_a_gtm/) · [↑ back to the list](#last-50-posts)
 
 > We're a small founding team building in the AI security space. Early stage, pre-launch, three of us so far covering product and engineering.
 >
@@ -1176,9 +1270,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > Happy to share more about what we're building in a conversation.
 
+<a id="post-48"></a>
+
 ### 48. Not every company signal is a buying signal.
 
-2026-11-03 · u/just_keith_ · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmigz0/not_every_company_signal_is_a_buying_signal/)
+2026-11-03 · u/just_keith_ · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmigz0/not_every_company_signal_is_a_buying_signal/) · [↑ back to the list](#last-50-posts)
 
 > One mistake I think people make in outbound prospecting is treating every company update as an opportunity.
 >
@@ -1224,9 +1320,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > Alternatively, book a call: [https://keithkatale.com](https://keithkatale.com/?ref=gtm)
 
+<a id="post-49"></a>
+
 ### 49. Weekly open GTM pitch
 
-2026-11-03 · u/AutoModerator · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmf63b/weekly_open_gtm_pitch/)
+2026-11-03 · u/AutoModerator · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmf63b/weekly_open_gtm_pitch/) · [↑ back to the list](#last-50-posts)
 
 > **What this is:** a weekly automated post where you can pitch your product in the thread
 >
@@ -1247,9 +1345,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >    * How you solve it
 >    * What's unique about your solution
 
+<a id="post-50"></a>
+
 ### 50. Built my first open-source GTM tool (Reputation Engine) using vibecoding & GitHub for the first time!
 
-2026-11-02 · u/xotwoduiux · score 13 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmcrx7/built_my_first_opensource_gtm_tool_reputation/)
+2026-11-02 · u/xotwoduiux · score 13 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xmcrx7/built_my_first_opensource_gtm_tool_reputation/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/gtmengineering,
 >
@@ -1265,9 +1365,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > P.S. I'm also actively looking for GTM Engineering / Revenue Operations roles, let me know if your team is hiring!
 
+<a id="post-51"></a>
+
 ### 51. I’m doin it, launched agency and it’s working
 
-2026-10-27 · u/MessiahPie · score 93 · 77 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xghqiv/im_doin_it_launched_agency_and_its_working/)
+2026-10-27 · u/MessiahPie · score 93 · 77 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xghqiv/im_doin_it_launched_agency_and_its_working/) · [↑ back to the list](#last-50-posts)
 
 > 8 weeks in- 3 clients. It’s me the founder doing a lot and a killer gtm engineer.   
 > Here’s everything we’ve learned. Shit that’s worked, hasn’t, stuff I would have done sooner, and things I would avoid all together. 
@@ -1303,9 +1405,11 @@ Link: <https://www.reddit.com/r/GTMbuilders/comments/1xn0muh/where_to_start_in_g
 >
 > I say all this, but humbly tell you fellow anon, I don’t know shit. Some awesome early success but so much to learn. Here’s to $1mm ARR. :)
 
+<a id="post-52"></a>
+
 ### 52. I quit my job to vibe code a GTM automation tool from scratch, and made ~$10K 🚀 Here’s what I learned👇
 
-2026-10-18 · u/Downtown_Pudding9728 · score 56 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x9fxtv/i_quit_my_job_to_vibe_code_a_gtm_automation_tool/)
+2026-10-18 · u/Downtown_Pudding9728 · score 56 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x9fxtv/i_quit_my_job_to_vibe_code_a_gtm_automation_tool/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/z7z9wykxuawh1.jpeg>
 
@@ -1377,9 +1481,11 @@ Link: <https://i.redd.it/z7z9wykxuawh1.jpeg>
 >
 > So far following the above steps have been really useful for building my tool, hope you find it useful too! 🙌
 
+<a id="post-53"></a>
+
 ### 53. GTM engineer update: what I shipped in the last 90 days (5+ yrs, ex Founding GTM Engineer at a YC company)
 
-2026-10-27 · u/Great_Discussion9670 · score 48 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xgjpja/gtm_engineer_update_what_i_shipped_in_the_last_90/)
+2026-10-27 · u/Great_Discussion9670 · score 48 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xgjpja/gtm_engineer_update_what_i_shipped_in_the_last_90/) · [↑ back to the list](#last-50-posts)
 
 > Posted here 3 months ago looking for work. Here’s the update, with less “what I do” and more “what I actually shipped.”
 >
@@ -1405,9 +1511,11 @@ Link: <https://i.redd.it/z7z9wykxuawh1.jpeg>
 >
 > Staying anonymous here, but happy to share LinkedIn, a portfolio and live systems over DM.
 
+<a id="post-54"></a>
+
 ### 54. AMA: OpenAI's Head of GTM Systems
 
-2026-10-15 · u/alexjl1226 · score 41 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x6phep/ama_openais_head_of_gtm_systems/)
+2026-10-15 · u/alexjl1226 · score 41 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x6phep/ama_openais_head_of_gtm_systems/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 
@@ -1429,9 +1537,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > Drop your questions in
 
+<a id="post-55"></a>
+
 ### 55. Tech founders are horrible at building GTM team
 
-2026-11-01 · u/Forsaken-Violinist27 · score 39 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xkydjr/tech_founders_are_horrible_at_building_gtm_team/)
+2026-11-01 · u/Forsaken-Violinist27 · score 39 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xkydjr/tech_founders_are_horrible_at_building_gtm_team/) · [↑ back to the list](#last-50-posts)
 
 > my co-founder said he'd hire an SDR over a GTM engineer / we've argued about this more than once so here's my side
 >
@@ -1455,9 +1565,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > curious where this people land > SDR first, GTM engineer first, or founder first
 
+<a id="post-56"></a>
+
 ### 56. AMA on Thurs: OpenAI's Head of GTM Systems - Keith Jones
 
-2026-10-12 · u/alexjl1226 · Crowdsourcing · score 37 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x44lw1/ama_on_thurs_openais_head_of_gtm_systems_keith/)
+2026-10-12 · u/alexjl1226 · Crowdsourcing · score 37 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x44lw1/ama_on_thurs_openais_head_of_gtm_systems_keith/) · [↑ back to the list](#last-50-posts)
 
 > I'm very excited for this one. Few have built GTM systems that have supported such massive scale as OpenAI.
 >
@@ -1478,9 +1590,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > We'll cover them on Thursday.
 
+<a id="post-57"></a>
+
 ### 57. After 6 years in tech sales and GTM across Southeast Asia, I've learned that sending 500 cold emails isn't a GTM strategy.
 
-2026-10-16 · u/kelvin1987 · score 33 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x7idx8/after_6_years_in_tech_sales_and_gtm_across/)
+2026-10-16 · u/kelvin1987 · score 33 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x7idx8/after_6_years_in_tech_sales_and_gtm_across/) · [↑ back to the list](#last-50-posts)
 
 > I've spent the past six years working in tech sales and go-to-market (GTM), helping SaaS companies prospect, penetrate new markets, build pipelines, and generate revenue across Southeast Asia.
 >
@@ -1588,9 +1702,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > I'm curious how others here approach this.
 
+<a id="post-58"></a>
+
 ### 58. How much of your outbound workflow is still manual?
 
-2026-10-23 · u/Fancy_Pea_7214 · score 31 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xdcmnv/how_much_of_your_outbound_workflow_is_still_manual/)
+2026-10-23 · u/Fancy_Pea_7214 · score 31 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xdcmnv/how_much_of_your_outbound_workflow_is_still_manual/) · [↑ back to the list](#last-50-posts)
 
 > We've been trying to automate more of our outbound process but there's still a surprising amount of manual work involved between account research, contact enrichment, lead qualification and building outbound sequences, our AEs are spending a lot of time preparing to sell instead of talking to prospects and we can automate parts of it, but data quality and personalization are still things we're trying to figure out.
 >
@@ -1598,9 +1714,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > I'm curious how other B2B teams are setting this up and are you automating the whole process from prospecting to outreach, or keeping people involved at certain steps? We're trying to find a setup that saves time without filling our pipeline with bad contacts or generic emails.
 
+<a id="post-59"></a>
+
 ### 59. GTM Engineer, doubling down on agentic pipelines. B2B & PLG strategy, $660K+ pipeline shipped solo. Available immediately.
 
-2026-10-28 · u/ktwillcode · score 26 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xhjikh/gtm_engineer_doubling_down_on_agentic_pipelines/)
+2026-10-28 · u/ktwillcode · score 26 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xhjikh/gtm_engineer_doubling_down_on_agentic_pipelines/) · [↑ back to the list](#last-50-posts)
 
 > Every GTM team I've worked with loses hours to manual CRM updates and leads that were never going to convert. I build systems that fix that, simple enough for the team to run without me.
 >
@@ -1619,9 +1737,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > Available immediately. Open to full time or contract, remote.
 
+<a id="post-60"></a>
+
 ### 60. Change my mind. GTM Engineering is a transition period premium being charged by pretentious overnight experts just because they were early to Clay.
 
-2026-10-10 · u/404purposelifeerror · score 25 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x2btm1/change_my_mind_gtm_engineering_is_a_transition/)
+2026-10-10 · u/404purposelifeerror · score 25 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x2btm1/change_my_mind_gtm_engineering_is_a_transition/) · [↑ back to the list](#last-50-posts)
 
 > Title basically. I don't see a need for GTM engineering as a separate role in an organisation. Just because someone can wire in a few tools, prompt LLMs, source/clean data, and build tools doesn't mean there's a requirement for a new role like this.
 >
@@ -1633,25 +1753,31 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > So it's better to focus on being a really good SDR, a really good marketer, a really good demand gen guy, or a really good closer than to shift to GTMe, where, in a couple of years, this job will be a disguised form of employment.
 
+<a id="post-61"></a>
+
 ### 61. Favorite GTM Engineers on GitHub?
 
-2026-10-23 · u/xotwoduiux · score 20 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xdr1da/favorite_gtm_engineers_on_github/)
+2026-10-23 · u/xotwoduiux · score 20 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xdr1da/favorite_gtm_engineers_on_github/) · [↑ back to the list](#last-50-posts)
 
 > Any GTM Engineers you follow on GitHub to follow/be insured from their level of builds? I'm trying to come to git and see what's up in this space.
 >
 > Please comment Your fav git GTM Engineers to follow.
 
+<a id="post-62"></a>
+
 ### 62. Give me one good reason to use Clay instead of just using Claude + APIs
 
-2026-10-13 · u/remilagorce · score 19 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x4vngh/give_me_one_good_reason_to_use_clay_instead_of/)
+2026-10-13 · u/remilagorce · score 19 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1x4vngh/give_me_one_good_reason_to_use_clay_instead_of/) · [↑ back to the list](#last-50-posts)
 
 > I've been using Clay for 2 years now. But honestly, since the price change and the improvements in LLMs, I don't really see a good reason to keep using it.
 >
 > Please give me one good reason to keep it instead of just using Claude together with a few different enrichment APIs.
 
+<a id="post-63"></a>
+
 ### 63. What do you think of Clay’s pivot to a self learning revenue engine?
 
-2026-10-26 · u/me_and_my_indomie · score 18 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xfpqah/what_do_you_think_of_clays_pivot_to_a_self/)
+2026-10-26 · u/me_and_my_indomie · score 18 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xfpqah/what_do_you_think_of_clays_pivot_to_a_self/) · [↑ back to the list](#last-50-posts)
 
 > As someone new to the GTM space, Clay has been a fascinating company to follow. From coining “GTM Engineer” to having built an incredible community around their platform. 
 >
@@ -1663,9 +1789,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > Just such a testament to how much the world changes so quickly in the era of AI. Clay is/was a rocket ship and now it almost feels uncertain!
 
+<a id="post-64"></a>
+
 ### 64. Building a system from scratch
 
-2026-10-26 · u/Aliteralgoat · score 17 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xfr15g/building_a_system_from_scratch/)
+2026-10-26 · u/Aliteralgoat · score 17 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xfr15g/building_a_system_from_scratch/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys, yes terrible decision I guess but I've got a few things I want to touch up on which can be roasted upon or you can help me out with.
 >
@@ -1684,9 +1812,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > if you're gonna ask why i'm doing this, dont bother commenting bro thanks and sorry.
 
+<a id="post-65"></a>
+
 ### 65. Anyone else noticing B2B companies putting more effort into in-person events?
 
-2026-10-29 · u/Head_Shock_8216 · score 17 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xij4s5/anyone_else_noticing_b2b_companies_putting_more/)
+2026-10-29 · u/Head_Shock_8216 · score 17 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xij4s5/anyone_else_noticing_b2b_companies_putting_more/) · [↑ back to the list](#last-50-posts)
 
 > I've been involved in GTM engineering and outbound for a while, and I've been noticing an interesting shift lately.
 >
@@ -1722,9 +1852,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > Are companies actually moving more budget towards events, or am I just seeing a very specific slice of the market?
 
+<a id="post-66"></a>
+
 ### 66. Want to learn GTM Engineering from scratch. Where should I start in 2026-27?
 
-2026-10-24 · u/Mission-Dentist-5971 · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xe19b8/want_to_learn_gtm_engineering_from_scratch_where/)
+2026-10-24 · u/Mission-Dentist-5971 · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xe19b8/want_to_learn_gtm_engineering_from_scratch_where/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -1768,9 +1900,11 @@ Link: <https://i.redd.it/e2nwc2ha8nvh1.png>
 >
 > Would love to hear from people who have gone through this learning process themselves. Thanks!
 
+<a id="post-67"></a>
+
 ### 67. When will I get results in B2B?
 
-2026-10-30 · u/edge-case42 · score 15 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xjhuva/when_will_i_get_results_in_b2b/)
+2026-10-30 · u/edge-case42 · score 15 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/gtmengineering/comments/1xjhuva/when_will_i_get_results_in_b2b/) · [↑ back to the list](#last-50-posts)
 
 > Having issues getting results in B2B after trying out different stuff. Feeling kind of stuck.
 >

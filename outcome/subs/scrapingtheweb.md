@@ -42,56 +42,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Do companies still pay for ready-made datasets in the AI era?](https://www.reddit.com/r/scrapingtheweb/comments/1xph89y/do_companies_still_pay_for_readymade_datasets_in/) | u/Imaginary-Formal7581 | Discussion | text | 3 | 1 | live | — |
-| 2 | 2026-11-06 | [Benchmarking Zero-DOM HTTP/2 vs Headless Chrome for Contact & Tech Stack Scraping (1,500 domains/min in 128 M…](https://www.reddit.com/r/scrapingtheweb/comments/1xpcows/benchmarking_zerodom_http2_vs_headless_chrome_for/) | u/Feisty-Opening8850 | — | text | 2 | 0 | live | — |
-| 3 | 2026-11-06 | [Open-source guide to identifying and handling 38 CAPTCHA types](https://www.reddit.com/r/scrapingtheweb/comments/1xpccub/opensource_guide_to_identifying_and_handling_38/) | u/Mammoth-Aide-5064 | — | v.redd.it | 1 | 0 | live | — |
-| 4 | 2026-11-06 | [Benchmarking 3 scraping APIs across 4 protected sites](https://www.reddit.com/r/scrapingtheweb/comments/1xpbr5w/benchmarking_3_scraping_apis_across_4_protected/) | u/Content_Secret6493 | — | reddit.com | 1 | 0 | held by automod | — |
-| 5 | 2026-11-06 | [The Bottle Store Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](https://www.reddit.com/r/scrapingtheweb/comments/1xp5ea4/the_bottle_store_data_scraping_api_realtime/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-05 | [need help](https://www.reddit.com/r/scrapingtheweb/comments/1xolgc5/need_help/) | u/SeaCommission1487 | — | reddit.com | 1 | 0 | live | — |
-| 7 | 2026-11-05 | [African & Eastern Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](https://www.reddit.com/r/scrapingtheweb/comments/1xogm6d/african_eastern_data_scraping_api_realtime/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 8 | 2026-11-05 | [help with google link scraping](https://www.reddit.com/r/scrapingtheweb/comments/1xoga1r/help_with_google_link_scraping/) | u/Repulsive_Dinner899 | — | text | 4 | 4 | live | — |
-| 9 | 2026-11-05 | [I built a tool that turns "I need this data from that website" into a dataset with a receipt for every value](https://www.reddit.com/r/scrapingtheweb/comments/1xodzde/i_built_a_tool_that_turns_i_need_this_data_from/) | u/Ok_Shopping_6997 | — | reddit.com | 1 | 7 | live | — |
-| 10 | 2026-11-05 | [Drinkies Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](https://www.reddit.com/r/scrapingtheweb/comments/1xoci8k/drinkies_data_scraping_api_realtime_delivery/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-04 | [Got tired of heavy headless browsers eating up RAM for anti-bot bypasses, so I put together lightweight SDKs…](https://www.reddit.com/r/scrapingtheweb/comments/1xnwmhd/got_tired_of_heavy_headless_browsers_eating_up/) | u/Professional-Pear173 | Tools / Library | text | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-04 | [Help your mate](https://www.reddit.com/r/scrapingtheweb/comments/1xnrv85/help_your_mate/) | u/beijibee | Help | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-04 | [How do you organize Naukri job-posting data for hiring research?](https://www.reddit.com/r/scrapingtheweb/comments/1xnouxk/how_do_you_organize_naukri_jobposting_data_for/) | u/Status-Grab8872 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 14 | 2026-11-04 | [MMI Home Delivery Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](https://www.reddit.com/r/scrapingtheweb/comments/1xnlol3/mmi_home_delivery_data_scraping_api_realtime/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 15 | 2026-11-04 | [Master of Malt Data Scraping API — Real-Time Whisky, Spirits & Drinks Inventory Data](https://www.reddit.com/r/scrapingtheweb/comments/1xnirvw/master_of_malt_data_scraping_api_realtime_whisky/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-04 | [LinkedIn job posting scrapper which also gets job poster's name](https://www.reddit.com/r/scrapingtheweb/comments/1xnhf1i/linkedin_job_posting_scrapper_which_also_gets_job/) | u/TheTopG___ | — | reddit.com | 2 | 0 | live | — |
-| 17 | 2026-11-04 | [How to bulk-check DMARC, SPF and DKIM across a domain list (approach + gotchas)](https://www.reddit.com/r/scrapingtheweb/comments/1xngwgs/how_to_bulkcheck_dmarc_spf_and_dkim_across_a/) | u/AusBizStack | — | text | 1 | 0 | approved | — |
-| 18 | 2026-11-03 | [Comic book info scrapping](https://www.reddit.com/r/scrapingtheweb/comments/1xn3p9d/comic_book_info_scrapping/) | u/GracedVirus121 | Help | reddit.com | 2 | 2 | live | — |
-| 19 | 2026-11-03 | [What’s One Scraper Bug You Haven’t Been Able to Fix Yet?](https://www.reddit.com/r/scrapingtheweb/comments/1xmvjg6/whats_one_scraper_bug_you_havent_been_able_to_fix/) | u/Hairy_Guidance5569 | — | reddit.com | 1 | 0 | live | — |
-| 20 | 2026-11-03 | [get ALL posts and comments matching a keyword?](https://www.reddit.com/r/scrapingtheweb/comments/1xmsji5/get_all_posts_and_comments_matching_a_keyword/) | u/Feeling-Plane3434 | Help | text | 5 | 6 | live | — |
-| 21 | 2026-11-03 | [Medicine data collected from website through crawler](https://www.reddit.com/r/scrapingtheweb/comments/1xmru0t/medicine_data_collected_from_website_through/) | u/Mahi61142 | — | text | 4 | 1 | live | — |
-| 22 | 2026-11-03 | [Drinksupermarket Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](https://www.reddit.com/r/scrapingtheweb/comments/1xmqz94/drinksupermarket_data_scraping_api_realtime_wine/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 23 | 2026-11-03 | [Insights via Amazon Delivery Dataset Scraping and Analysis](https://www.reddit.com/r/scrapingtheweb/comments/1xmnxg6/insights_via_amazon_delivery_dataset_scraping_and/) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
-| 24 | 2026-11-03 | [Tesco Wine Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](https://www.reddit.com/r/scrapingtheweb/comments/1xmmzu9/tesco_wine_data_scraping_api_realtime_wine_beer/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-03 | [Retail Promotion Data Scraping for Competitor Price Analysis](https://www.reddit.com/r/scrapingtheweb/comments/1xmlcd5/retail_promotion_data_scraping_for_competitor/) | u/Moist_Accountant7912 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 26 | 2026-11-03 | [Can Real Hardware Beat Anti-Bot Systems? Inside Browser Infrastructure for Web Scraping \| AMA with Alexander…](https://www.reddit.com/r/scrapingtheweb/comments/1xmksee/can_real_hardware_beat_antibot_systems_inside/) | u/ian_k93 | Discussion | reddit.com | 1 | 0 | live | — |
-| 27 | 2026-11-03 | [Data collection advice needed - scrapping from internet and social media](https://www.reddit.com/r/scrapingtheweb/comments/1xmirhr/data_collection_advice_needed_scrapping_from/) | u/Any_Swordfish2247 | — | reddit.com | 4 | 4 | live | — |
-| 28 | 2026-11-02 | [Why does one proxy work on a website but fail on another?](https://www.reddit.com/r/scrapingtheweb/comments/1xmc5vi/why_does_one_proxy_work_on_a_website_but_fail_on/) | u/ShadowProxyFR | Help | text | 2 | 0 | approved | — |
-| 29 | 2026-11-02 | [I built a Threads scraper that tells you exactly what it couldn't get, instead of failing silently](https://www.reddit.com/r/scrapingtheweb/comments/1xm61e1/i_built_a_threads_scraper_that_tells_you_exactly/) | u/Inchardware | — | reddit.com | 4 | 2 | live | — |
-| 30 | 2026-11-02 | [How to scrape data from Google and Meta APIs ?](https://www.reddit.com/r/scrapingtheweb/comments/1xlz0hx/how_to_scrape_data_from_google_and_meta_apis/) | u/barmatbiz | — | reddit.com | 4 | 5 | live | — |
-| 31 | 2026-11-02 | [If you have or want to mine datasets and maybe sell](https://www.reddit.com/r/scrapingtheweb/comments/1xly4g8/if_you_have_or_want_to_mine_datasets_and_maybe/) | u/Familiar_Package8281 | — | reddit.com | 1 | 0 | live | — |
-| 32 | 2026-11-02 | [Waitrose Drinks Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](https://www.reddit.com/r/scrapingtheweb/comments/1xlvyz5/waitrose_drinks_data_scraping_api_realtime_wine/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-11-02 | [Complete European Postal Codes Database (XLSX / CSV) - Clean & Verified (RO, GR, LV, RS, BA, ME, BE)](https://www.reddit.com/r/scrapingtheweb/comments/1xluxbm/complete_european_postal_codes_database_xlsx_csv/) | u/Mikal4666 | — | text | 0 | 0 | held by automod | — |
-| 34 | 2026-11-02 | [Unlock Market Insights With Restaurant Data Scraping China](https://www.reddit.com/r/scrapingtheweb/comments/1xlthbc/unlock_market_insights_with_restaurant_data/) | u/ProgressPositive442 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 35 | 2026-11-02 | [finding a practical way to collect Instagram data for OSINT research](https://www.reddit.com/r/scrapingtheweb/comments/1xlt30y/finding_a_practical_way_to_collect_instagram_data/) | u/ExpensiveHyena8278 | — | text | 0 | 0 | content_takedown | — |
-| 36 | 2026-11-02 | [Majestic Wine Data Scraping API — Real-Time Inventory, Vintage & Mixed Case Data](https://www.reddit.com/r/scrapingtheweb/comments/1xlsy40/majestic_wine_data_scraping_api_realtime/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 37 | 2026-11-02 | [What I learned comparing DIY scraping, instagrapi, and hosted APIs for public Instagram OSINT research](https://www.reddit.com/r/scrapingtheweb/comments/1xlsxiu/what_i_learned_comparing_diy_scraping_instagrapi/) | u/ExpensiveHyena8278 | — | text | 1 | 0 | live | — |
-| 38 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](https://www.reddit.com/r/scrapingtheweb/comments/1xlr4fn/i_made_a_python_library_for_scheduling_recurring/) | u/Ill-Acanthaceae5630 | — | text | 16 | 9 | live | — |
-| 39 | 2026-11-02 | [Managing memory usage in JS-heavy scraping pipelines](https://www.reddit.com/r/scrapingtheweb/comments/1xlr1yk/managing_memory_usage_in_jsheavy_scraping/) | u/Zestyclose-Act-3750 | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 40 | 2026-10-31 | [A Dev to Dev chat!](https://www.reddit.com/r/scrapingtheweb/comments/1xkot9w/a_dev_to_dev_chat/) | u/Unhappy-Health-4562 | — | reddit.com | 1 | 0 | live | — |
-| 41 | 2026-10-31 | [MCP tool cost: 20 job Actors on Apify](https://www.reddit.com/r/scrapingtheweb/comments/1xkenz3/mcp_tool_cost_20_job_actors_on_apify/) | u/ilyaviache | — | text | 1 | 0 | spam-filtered | — |
-| 42 | 2026-10-31 | [How do you monitor new IndiaMART Buy Leads without constantly refreshing the dashboard?](https://www.reddit.com/r/scrapingtheweb/comments/1xk7ogw/how_do_you_monitor_new_indiamart_buy_leads/) | u/Status-Grab8872 | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 43 | 2026-10-31 | [How do you find out your scraper is silently returning bad data?](https://www.reddit.com/r/scrapingtheweb/comments/1xk5ksc/how_do_you_find_out_your_scraper_is_silently/) | u/Imaginary_Pie7613 | — | text | 18 | 12 | live | — |
-| 44 | 2026-10-31 | [If a wholesaler doesnt offer a table to import products, how would you go about it?](https://www.reddit.com/r/scrapingtheweb/comments/1xk4n25/if_a_wholesaler_doesnt_offer_a_table_to_import/) | u/k0alicija | — | reddit.com | 1 | 2 | live | — |
-| 45 | 2026-10-31 | [If a wholesaler doesnt offer a table to import products, how would you go about it?](https://www.reddit.com/r/scrapingtheweb/comments/1xk4mfq/if_a_wholesaler_doesnt_offer_a_table_to_import/) | u/k0alicija | — | reddit.com | 1 | 0 | live | — |
-| 46 | 2026-10-30 | [Real-Time Grocery Dataset API for Retail Market Research](https://www.reddit.com/r/scrapingtheweb/comments/1xjd116/realtime_grocery_dataset_api_for_retail_market/) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
-| 47 | 2026-10-30 | [Web Scraping for Travel Agencies in Spain and Italy Data](https://www.reddit.com/r/scrapingtheweb/comments/1xj9tdn/web_scraping_for_travel_agencies_in_spain_and/) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
-| 48 | 2026-10-30 | [How Instacart API Helps Businesses Track Grocery Prices, Products, and Retail Market Trends](https://www.reddit.com/r/scrapingtheweb/comments/1xj9lk8/how_instacart_api_helps_businesses_track_grocery/) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
-| 49 | 2026-10-30 | [Web Scraping Insider #11 \| poisoned Google SERPs that look like successful responses, the same page at 1 cred…](https://www.reddit.com/r/scrapingtheweb/comments/1xj6u50/web_scraping_insider_11_poisoned_google_serps/) | u/ian_k93 | Discussion | thewebscrapinginsider.beehiiv.com | 1 | 1 | live | — |
-| 50 | 2026-10-30 | [What web chore do you still do by hand because there's no API?](https://www.reddit.com/r/scrapingtheweb/comments/1xj63ru/what_web_chore_do_you_still_do_by_hand_because/) | u/Individual-Jump4668 | — | reddit.com | 1 | 10 | live | — |
+| 1 | 2026-11-06 | [Do companies still pay for ready-made datasets in the AI era?](#post-1) | u/Imaginary-Formal7581 | Discussion | text | 3 | 1 | live | — |
+| 2 | 2026-11-06 | [Benchmarking Zero-DOM HTTP/2 vs Headless Chrome for Contact & Tech Stack Scraping (1,500 domains/min in 128 M…](#post-2) | u/Feisty-Opening8850 | — | text | 2 | 0 | live | — |
+| 3 | 2026-11-06 | [Open-source guide to identifying and handling 38 CAPTCHA types](#post-3) | u/Mammoth-Aide-5064 | — | v.redd.it | 1 | 0 | live | — |
+| 4 | 2026-11-06 | [Benchmarking 3 scraping APIs across 4 protected sites](#post-4) | u/Content_Secret6493 | — | reddit.com | 1 | 0 | held by automod | — |
+| 5 | 2026-11-06 | [The Bottle Store Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](#post-5) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-05 | [need help](#post-6) | u/SeaCommission1487 | — | reddit.com | 1 | 0 | live | — |
+| 7 | 2026-11-05 | [African & Eastern Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](#post-7) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 8 | 2026-11-05 | [help with google link scraping](#post-8) | u/Repulsive_Dinner899 | — | text | 4 | 4 | live | — |
+| 9 | 2026-11-05 | [I built a tool that turns "I need this data from that website" into a dataset with a receipt for every value](#post-9) | u/Ok_Shopping_6997 | — | reddit.com | 1 | 7 | live | — |
+| 10 | 2026-11-05 | [Drinkies Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](#post-10) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-04 | [Got tired of heavy headless browsers eating up RAM for anti-bot bypasses, so I put together lightweight SDKs…](#post-11) | u/Professional-Pear173 | Tools / Library | text | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-04 | [Help your mate](#post-12) | u/beijibee | Help | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-04 | [How do you organize Naukri job-posting data for hiring research?](#post-13) | u/Status-Grab8872 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 14 | 2026-11-04 | [MMI Home Delivery Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data](#post-14) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 15 | 2026-11-04 | [Master of Malt Data Scraping API — Real-Time Whisky, Spirits & Drinks Inventory Data](#post-15) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-04 | [LinkedIn job posting scrapper which also gets job poster's name](#post-16) | u/TheTopG___ | — | reddit.com | 2 | 0 | live | — |
+| 17 | 2026-11-04 | [How to bulk-check DMARC, SPF and DKIM across a domain list (approach + gotchas)](#post-17) | u/AusBizStack | — | text | 1 | 0 | approved | — |
+| 18 | 2026-11-03 | [Comic book info scrapping](#post-18) | u/GracedVirus121 | Help | reddit.com | 2 | 2 | live | — |
+| 19 | 2026-11-03 | [What’s One Scraper Bug You Haven’t Been Able to Fix Yet?](#post-19) | u/Hairy_Guidance5569 | — | reddit.com | 1 | 0 | live | — |
+| 20 | 2026-11-03 | [get ALL posts and comments matching a keyword?](#post-20) | u/Feeling-Plane3434 | Help | text | 5 | 6 | live | — |
+| 21 | 2026-11-03 | [Medicine data collected from website through crawler](#post-21) | u/Mahi61142 | — | text | 4 | 1 | live | — |
+| 22 | 2026-11-03 | [Drinksupermarket Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](#post-22) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 23 | 2026-11-03 | [Insights via Amazon Delivery Dataset Scraping and Analysis](#post-23) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
+| 24 | 2026-11-03 | [Tesco Wine Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](#post-24) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-03 | [Retail Promotion Data Scraping for Competitor Price Analysis](#post-25) | u/Moist_Accountant7912 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 26 | 2026-11-03 | [Can Real Hardware Beat Anti-Bot Systems? Inside Browser Infrastructure for Web Scraping \| AMA with Alexander…](#post-26) | u/ian_k93 | Discussion | reddit.com | 1 | 0 | live | — |
+| 27 | 2026-11-03 | [Data collection advice needed - scrapping from internet and social media](#post-27) | u/Any_Swordfish2247 | — | reddit.com | 4 | 4 | live | — |
+| 28 | 2026-11-02 | [Why does one proxy work on a website but fail on another?](#post-28) | u/ShadowProxyFR | Help | text | 2 | 0 | approved | — |
+| 29 | 2026-11-02 | [I built a Threads scraper that tells you exactly what it couldn't get, instead of failing silently](#post-29) | u/Inchardware | — | reddit.com | 4 | 2 | live | — |
+| 30 | 2026-11-02 | [How to scrape data from Google and Meta APIs ?](#post-30) | u/barmatbiz | — | reddit.com | 4 | 5 | live | — |
+| 31 | 2026-11-02 | [If you have or want to mine datasets and maybe sell](#post-31) | u/Familiar_Package8281 | — | reddit.com | 1 | 0 | live | — |
+| 32 | 2026-11-02 | [Waitrose Drinks Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data](#post-32) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-11-02 | [Complete European Postal Codes Database (XLSX / CSV) - Clean & Verified (RO, GR, LV, RS, BA, ME, BE)](#post-33) | u/Mikal4666 | — | text | 0 | 0 | held by automod | — |
+| 34 | 2026-11-02 | [Unlock Market Insights With Restaurant Data Scraping China](#post-34) | u/ProgressPositive442 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 35 | 2026-11-02 | [finding a practical way to collect Instagram data for OSINT research](#post-35) | u/ExpensiveHyena8278 | — | text | 0 | 0 | content_takedown | — |
+| 36 | 2026-11-02 | [Majestic Wine Data Scraping API — Real-Time Inventory, Vintage & Mixed Case Data](#post-36) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 37 | 2026-11-02 | [What I learned comparing DIY scraping, instagrapi, and hosted APIs for public Instagram OSINT research](#post-37) | u/ExpensiveHyena8278 | — | text | 1 | 0 | live | — |
+| 38 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](#post-38) | u/Ill-Acanthaceae5630 | — | text | 16 | 9 | live | — |
+| 39 | 2026-11-02 | [Managing memory usage in JS-heavy scraping pipelines](#post-39) | u/Zestyclose-Act-3750 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 40 | 2026-10-31 | [A Dev to Dev chat!](#post-40) | u/Unhappy-Health-4562 | — | reddit.com | 1 | 0 | live | — |
+| 41 | 2026-10-31 | [MCP tool cost: 20 job Actors on Apify](#post-41) | u/ilyaviache | — | text | 1 | 0 | spam-filtered | — |
+| 42 | 2026-10-31 | [How do you monitor new IndiaMART Buy Leads without constantly refreshing the dashboard?](#post-42) | u/Status-Grab8872 | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 43 | 2026-10-31 | [How do you find out your scraper is silently returning bad data?](#post-43) | u/Imaginary_Pie7613 | — | text | 18 | 12 | live | — |
+| 44 | 2026-10-31 | [If a wholesaler doesnt offer a table to import products, how would you go about it?](#post-44) | u/k0alicija | — | reddit.com | 1 | 2 | live | — |
+| 45 | 2026-10-31 | [If a wholesaler doesnt offer a table to import products, how would you go about it?](#post-45) | u/k0alicija | — | reddit.com | 1 | 0 | live | — |
+| 46 | 2026-10-30 | [Real-Time Grocery Dataset API for Retail Market Research](#post-46) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
+| 47 | 2026-10-30 | [Web Scraping for Travel Agencies in Spain and Italy Data](#post-47) | u/Moist_Accountant7912 | — | text | 1 | 0 | spam-filtered | — |
+| 48 | 2026-10-30 | [How Instacart API Helps Businesses Track Grocery Prices, Products, and Retail Market Trends](#post-48) | u/Legitimate-Heat-1537 | — | text | 1 | 0 | spam-filtered | — |
+| 49 | 2026-10-30 | [Web Scraping Insider #11 \| poisoned Google SERPs that look like successful responses, the same page at 1 cred…](#post-49) | u/ian_k93 | Discussion | thewebscrapinginsider.beehiiv.com | 1 | 1 | live | — |
+| 50 | 2026-10-30 | [What web chore do you still do by hand because there's no API?](#post-50) | u/Individual-Jump4668 | — | reddit.com | 1 | 10 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -99,34 +99,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 43 | 2026-10-31 | [How do you find out your scraper is silently returning bad data?](https://www.reddit.com/r/scrapingtheweb/comments/1xk5ksc/how_do_you_find_out_your_scraper_is_silently/) | u/Imaginary_Pie7613 | — | text | 18 | 12 | live |
-| 38 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](https://www.reddit.com/r/scrapingtheweb/comments/1xlr4fn/i_made_a_python_library_for_scheduling_recurring/) | u/Ill-Acanthaceae5630 | — | text | 16 | 9 | live |
-| 51 | 2026-10-29 | [I created an open-source tool that gives LLMs and agents clean real-world data instead of raw HTML/DOM scrapi…](https://www.reddit.com/r/scrapingtheweb/comments/1xi6ciw/i_created_an_opensource_tool_that_gives_llms_and/) | u/ZeroSubic | — | text | 8 | 5 | live |
-| 52 | 2026-10-25 | [A Self Healing Agentic Web Scraper.](https://www.reddit.com/r/scrapingtheweb/comments/1xey32e/a_self_healing_agentic_web_scraper/) | u/Extreme_Leg_6162 | — | github.com | 7 | 7 | live |
-| 53 | 2026-10-19 | [Scraper suddenly getting blocked in sites that worked for months](https://www.reddit.com/r/scrapingtheweb/comments/1x9vu5o/scraper_suddenly_getting_blocked_in_sites_that/) | u/Important_Dance5750 | — | text | 6 | 13 | live |
-| 20 | 2026-11-03 | [get ALL posts and comments matching a keyword?](https://www.reddit.com/r/scrapingtheweb/comments/1xmsji5/get_all_posts_and_comments_matching_a_keyword/) | u/Feeling-Plane3434 | Help | text | 5 | 6 | live |
-| 54 | 2026-10-17 | [Someone posted a great guide to learn web scraping but post is unavailable and acc deleted or banned why !? T…](https://www.reddit.com/r/scrapingtheweb/comments/1x8cpux/someone_posted_a_great_guide_to_learn_web/) | u/Early_Ad6921 | — | i.redd.it | 5 | 3 | live |
-| 55 | 2026-10-25 | [A 200 doesn't mean you're in: what Hyper Solutions' founder says about DataDome, Akamai, Incapsula and Kasada…](https://www.reddit.com/r/scrapingtheweb/comments/1xf1vmr/a_200_doesnt_mean_youre_in_what_hyper_solutions/) | u/ian_k93 | Discussion | reddit.com | 5 | 0 | live |
-| 30 | 2026-11-02 | [How to scrape data from Google and Meta APIs ?](https://www.reddit.com/r/scrapingtheweb/comments/1xlz0hx/how_to_scrape_data_from_google_and_meta_apis/) | u/barmatbiz | — | reddit.com | 4 | 5 | live |
-| 8 | 2026-11-05 | [help with google link scraping](https://www.reddit.com/r/scrapingtheweb/comments/1xoga1r/help_with_google_link_scraping/) | u/Repulsive_Dinner899 | — | text | 4 | 4 | live |
-| 27 | 2026-11-03 | [Data collection advice needed - scrapping from internet and social media](https://www.reddit.com/r/scrapingtheweb/comments/1xmirhr/data_collection_advice_needed_scrapping_from/) | u/Any_Swordfish2247 | — | reddit.com | 4 | 4 | live |
-| 56 | 2026-10-16 | [Anyone else had a “huge” proxy pool that keeps giving the same IPs?](https://www.reddit.com/r/scrapingtheweb/comments/1x7gku2/anyone_else_had_a_huge_proxy_pool_that_keeps/) | u/Scary-Commission-509 | — | text | 4 | 4 | live |
-| 57 | 2026-10-14 | [Scraping Facebook pages info from the embedded payload, not the DOM](https://www.reddit.com/r/scrapingtheweb/comments/1x5stuj/scraping_facebook_pages_info_from_the_embedded/) | u/Terrible_Zone_8889 | Tools / Library | text | 4 | 3 | live |
-| 29 | 2026-11-02 | [I built a Threads scraper that tells you exactly what it couldn't get, instead of failing silently](https://www.reddit.com/r/scrapingtheweb/comments/1xm61e1/i_built_a_threads_scraper_that_tells_you_exactly/) | u/Inchardware | — | reddit.com | 4 | 2 | live |
-| 21 | 2026-11-03 | [Medicine data collected from website through crawler](https://www.reddit.com/r/scrapingtheweb/comments/1xmru0t/medicine_data_collected_from_website_through/) | u/Mahi61142 | — | text | 4 | 1 | live |
-| 58 | 2026-10-16 | [When do you consider a scraper’s output suspicious?](https://www.reddit.com/r/scrapingtheweb/comments/1x7g9hh/when_do_you_consider_a_scrapers_output_suspicious/) | u/Kenyatta_Sauve | — | text | 3 | 8 | live |
-| 59 | 2026-10-13 | [Instagram Scraping](https://www.reddit.com/r/scrapingtheweb/comments/1x4r99j/instagram_scraping/) | u/nrycox | — | text | 3 | 8 | live |
-| 60 | 2026-10-22 | [I built a free Facebook comments scraper on Apify. Not a new idea, but it doesn't cap you at 100 comments](https://www.reddit.com/r/scrapingtheweb/comments/1xcfcts/i_built_a_free_facebook_comments_scraper_on_apify/) | u/bsho5_ | — | reddit.com | 3 | 4 | live |
-| 61 | 2026-10-21 | [Any working method to scrape WhatsApp Channels (messages + metadata)?](https://www.reddit.com/r/scrapingtheweb/comments/1xbp6q1/any_working_method_to_scrape_whatsapp_channels/) | u/dan_namise | — | text | 3 | 4 | live |
-| 1 | 2026-11-06 | [Do companies still pay for ready-made datasets in the AI era?](https://www.reddit.com/r/scrapingtheweb/comments/1xph89y/do_companies_still_pay_for_readymade_datasets_in/) | u/Imaginary-Formal7581 | Discussion | text | 3 | 1 | live |
+| 43 | 2026-10-31 | [How do you find out your scraper is silently returning bad data?](#post-43) | u/Imaginary_Pie7613 | — | text | 18 | 12 | live |
+| 38 | 2026-11-02 | [I made a Python Library for scheduling recurring webscraping](#post-38) | u/Ill-Acanthaceae5630 | — | text | 16 | 9 | live |
+| 51 | 2026-10-29 | [I created an open-source tool that gives LLMs and agents clean real-world data instead of raw HTML/DOM scrapi…](#post-51) | u/ZeroSubic | — | text | 8 | 5 | live |
+| 52 | 2026-10-25 | [A Self Healing Agentic Web Scraper.](#post-52) | u/Extreme_Leg_6162 | — | github.com | 7 | 7 | live |
+| 53 | 2026-10-19 | [Scraper suddenly getting blocked in sites that worked for months](#post-53) | u/Important_Dance5750 | — | text | 6 | 13 | live |
+| 20 | 2026-11-03 | [get ALL posts and comments matching a keyword?](#post-20) | u/Feeling-Plane3434 | Help | text | 5 | 6 | live |
+| 54 | 2026-10-17 | [Someone posted a great guide to learn web scraping but post is unavailable and acc deleted or banned why !? T…](#post-54) | u/Early_Ad6921 | — | i.redd.it | 5 | 3 | live |
+| 55 | 2026-10-25 | [A 200 doesn't mean you're in: what Hyper Solutions' founder says about DataDome, Akamai, Incapsula and Kasada…](#post-55) | u/ian_k93 | Discussion | reddit.com | 5 | 0 | live |
+| 30 | 2026-11-02 | [How to scrape data from Google and Meta APIs ?](#post-30) | u/barmatbiz | — | reddit.com | 4 | 5 | live |
+| 8 | 2026-11-05 | [help with google link scraping](#post-8) | u/Repulsive_Dinner899 | — | text | 4 | 4 | live |
+| 27 | 2026-11-03 | [Data collection advice needed - scrapping from internet and social media](#post-27) | u/Any_Swordfish2247 | — | reddit.com | 4 | 4 | live |
+| 56 | 2026-10-16 | [Anyone else had a “huge” proxy pool that keeps giving the same IPs?](#post-56) | u/Scary-Commission-509 | — | text | 4 | 4 | live |
+| 57 | 2026-10-14 | [Scraping Facebook pages info from the embedded payload, not the DOM](#post-57) | u/Terrible_Zone_8889 | Tools / Library | text | 4 | 3 | live |
+| 29 | 2026-11-02 | [I built a Threads scraper that tells you exactly what it couldn't get, instead of failing silently](#post-29) | u/Inchardware | — | reddit.com | 4 | 2 | live |
+| 21 | 2026-11-03 | [Medicine data collected from website through crawler](#post-21) | u/Mahi61142 | — | text | 4 | 1 | live |
+| 58 | 2026-10-16 | [When do you consider a scraper’s output suspicious?](#post-58) | u/Kenyatta_Sauve | — | text | 3 | 8 | live |
+| 59 | 2026-10-13 | [Instagram Scraping](#post-59) | u/nrycox | — | text | 3 | 8 | live |
+| 60 | 2026-10-22 | [I built a free Facebook comments scraper on Apify. Not a new idea, but it doesn't cap you at 100 comments](#post-60) | u/bsho5_ | — | reddit.com | 3 | 4 | live |
+| 61 | 2026-10-21 | [Any working method to scrape WhatsApp Channels (messages + metadata)?](#post-61) | u/dan_namise | — | text | 3 | 4 | live |
+| 1 | 2026-11-06 | [Do companies still pay for ready-made datasets in the AI era?](#post-1) | u/Imaginary-Formal7581 | Discussion | text | 3 | 1 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Do companies still pay for ready-made datasets in the AI era?
 
-2026-11-06 · u/Imaginary-Formal7581 · Discussion · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xph89y/do_companies_still_pay_for_readymade_datasets_in/)
+2026-11-06 · u/Imaginary-Formal7581 · Discussion · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xph89y/do_companies_still_pay_for_readymade_datasets_in/) · [↑ back to the list](#last-50-posts)
 
 > I was looking at sites like:
 >
@@ -141,9 +143,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Would you still pay $50-$100 for a good one-time dataset, or is the real value now in continuously updated data?
 
+<a id="post-2"></a>
+
 ### 2. Benchmarking Zero-DOM HTTP/2 vs Headless Chrome for Contact & Tech Stack Scraping (1,500 domains/min in 128 MB RAM)
 
-2026-11-06 · u/Feisty-Opening8850 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpcows/benchmarking_zerodom_http2_vs_headless_chrome_for/)
+2026-11-06 · u/Feisty-Opening8850 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpcows/benchmarking_zerodom_http2_vs_headless_chrome_for/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -181,43 +185,55 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Curious if others here have moved away from headless browsers for contact enrichment, or if you're still relying on Puppeteer clusters? Happy to discuss edge cases and throughput optimizations!
 
+<a id="post-3"></a>
+
 ### 3. Open-source guide to identifying and handling 38 CAPTCHA types
 
-2026-11-06 · u/Mammoth-Aide-5064 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpccub/opensource_guide_to_identifying_and_handling_38/)
+2026-11-06 · u/Mammoth-Aide-5064 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpccub/opensource_guide_to_identifying_and_handling_38/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/jopg5ayl9kyh1>
 
 
+<a id="post-4"></a>
+
 ### 4. Benchmarking 3 scraping APIs across 4 protected sites
 
-2026-11-06 · u/Content_Secret6493 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpbr5w/benchmarking_3_scraping_apis_across_4_protected/)
+2026-11-06 · u/Content_Secret6493 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xpbr5w/benchmarking_3_scraping_apis_across_4_protected/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/LLMDevs/comments/1xog8dj/benchmarking_3_scraping_apis_across_4_protected/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. The Bottle Store Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data
 
-2026-11-06 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xp5ea4/the_bottle_store_data_scraping_api_realtime/)
+2026-11-06 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xp5ea4/the_bottle_store_data_scraping_api_realtime/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. need help
 
-2026-11-05 · u/SeaCommission1487 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xolgc5/need_help/)
+2026-11-05 · u/SeaCommission1487 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xolgc5/need_help/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/chrome_extensions/comments/1xolfdp/need_help/>
 
 
+<a id="post-7"></a>
+
 ### 7. African & Eastern Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data
 
-2026-11-05 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xogm6d/african_eastern_data_scraping_api_realtime/)
+2026-11-05 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xogm6d/african_eastern_data_scraping_api_realtime/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-8"></a>
+
 ### 8. help with google link scraping
 
-2026-11-05 · u/Repulsive_Dinner899 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xoga1r/help_with_google_link_scraping/)
+2026-11-05 · u/Repulsive_Dinner899 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xoga1r/help_with_google_link_scraping/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to build a Python scraper in Jupyter Notebook to collect Hyderabad IT company leads and export them to Excel.
 >
@@ -258,34 +274,44 @@ Link: <https://www.reddit.com/r/chrome_extensions/comments/1xolfdp/need_help/>
 >
 > Filtering doesn't solve the problem because the actual company pages I need aren't appearing in the API results.
 
+<a id="post-9"></a>
+
 ### 9. I built a tool that turns "I need this data from that website" into a dataset with a receipt for every value
 
-2026-11-05 · u/Ok_Shopping_6997 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xodzde/i_built_a_tool_that_turns_i_need_this_data_from/)
+2026-11-05 · u/Ok_Shopping_6997 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xodzde/i_built_a_tool_that_turns_i_need_this_data_from/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SideProject/comments/1xodz7t/i_built_a_tool_that_turns_i_need_this_data_from/>
 
 
+<a id="post-10"></a>
+
 ### 10. Drinkies Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data
 
-2026-11-05 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xoci8k/drinkies_data_scraping_api_realtime_delivery/)
+2026-11-05 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xoci8k/drinkies_data_scraping_api_realtime_delivery/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-11"></a>
 
 ### 11. Got tired of heavy headless browsers eating up RAM for anti-bot bypasses, so I put together lightweight SDKs (Python, Node.js, PHP)
 
-2026-11-04 · u/Professional-Pear173 · Tools / Library · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnwmhd/got_tired_of_heavy_headless_browsers_eating_up/)
+2026-11-04 · u/Professional-Pear173 · Tools / Library · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnwmhd/got_tired_of_heavy_headless_browsers_eating_up/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-12"></a>
 
 ### 12. Help your mate
 
-2026-11-04 · u/beijibee · Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnrv85/help_your_mate/)
+2026-11-04 · u/beijibee · Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnrv85/help_your_mate/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. How do you organize Naukri job-posting data for hiring research?
 
-2026-11-04 · u/Status-Grab8872 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnouxk/how_do_you_organize_naukri_jobposting_data_for/)
+2026-11-04 · u/Status-Grab8872 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnouxk/how_do_you_organize_naukri_jobposting_data_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3azq61udqlzh1.jpeg>
 
@@ -303,28 +329,36 @@ Link: <https://i.redd.it/3azq61udqlzh1.jpeg>
 >
 > [https://www.scrappertool.com/blog/how-to-export-naukri-job-listings-to-excel/](https://www.scrappertool.com/blog/how-to-export-naukri-job-listings-to-excel/)
 
+<a id="post-14"></a>
+
 ### 14. MMI Home Delivery Data Scraping API — Real-Time Delivery, Local Inventory & ETA Data
 
-2026-11-04 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnlol3/mmi_home_delivery_data_scraping_api_realtime/)
+2026-11-04 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnlol3/mmi_home_delivery_data_scraping_api_realtime/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-15"></a>
 
 ### 15. Master of Malt Data Scraping API — Real-Time Whisky, Spirits & Drinks Inventory Data
 
-2026-11-04 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnirvw/master_of_malt_data_scraping_api_realtime_whisky/)
+2026-11-04 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnirvw/master_of_malt_data_scraping_api_realtime_whisky/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. LinkedIn job posting scrapper which also gets job poster's name
 
-2026-11-04 · u/TheTopG___ · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnhf1i/linkedin_job_posting_scrapper_which_also_gets_job/)
+2026-11-04 · u/TheTopG___ · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xnhf1i/linkedin_job_posting_scrapper_which_also_gets_job/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/automation/comments/1xngnn8/linkedin_job_posting_scrapper_which_also_gets_job/>
 
 
+<a id="post-17"></a>
+
 ### 17. How to bulk-check DMARC, SPF and DKIM across a domain list (approach + gotchas)
 
-2026-11-04 · u/AusBizStack · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xngwgs/how_to_bulkcheck_dmarc_spf_and_dkim_across_a/)
+2026-11-04 · u/AusBizStack · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xngwgs/how_to_bulkcheck_dmarc_spf_and_dkim_across_a/) · [↑ back to the list](#last-50-posts)
 
 > If you're scraping lead lists or doing B2B outreach, email security records are a useful signal per domain. Here's the approach I use to check them at scale:
 >
@@ -340,23 +374,29 @@ Link: <https://www.reddit.com/r/automation/comments/1xngnn8/linkedin_job_posting
 >
 > Happy to answer questions on edge cases.
 
+<a id="post-18"></a>
+
 ### 18. Comic book info scrapping
 
-2026-11-03 · u/GracedVirus121 · Help · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xn3p9d/comic_book_info_scrapping/)
+2026-11-03 · u/GracedVirus121 · Help · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xn3p9d/comic_book_info_scrapping/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/webscraping/comments/1xn3oz4/comic_book_info_scrapping/>
 
 
+<a id="post-19"></a>
+
 ### 19. What’s One Scraper Bug You Haven’t Been Able to Fix Yet?
 
-2026-11-03 · u/Hairy_Guidance5569 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmvjg6/whats_one_scraper_bug_you_havent_been_able_to_fix/)
+2026-11-03 · u/Hairy_Guidance5569 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmvjg6/whats_one_scraper_bug_you_havent_been_able_to_fix/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ScrapeHero/comments/1xmvili/whats_one_scraper_bug_you_havent_been_able_to_fix/>
 
 
+<a id="post-20"></a>
+
 ### 20. get ALL posts and comments matching a keyword?
 
-2026-11-03 · u/Feeling-Plane3434 · Help · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmsji5/get_all_posts_and_comments_matching_a_keyword/)
+2026-11-03 · u/Feeling-Plane3434 · Help · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmsji5/get_all_posts_and_comments_matching_a_keyword/) · [↑ back to the list](#last-50-posts)
 
 > As far as I know, there are two main ways to search on Reddit.
 >
@@ -374,105 +414,135 @@ Link: <https://www.reddit.com/r/ScrapeHero/comments/1xmvili/whats_one_scraper_bu
 >
 > Do I really have to download the full dumps (tens of GB of posts and comments) and search them locally?
 
+<a id="post-21"></a>
+
 ### 21. Medicine data collected from website through crawler
 
-2026-11-03 · u/Mahi61142 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmru0t/medicine_data_collected_from_website_through/)
+2026-11-03 · u/Mahi61142 · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmru0t/medicine_data_collected_from_website_through/) · [↑ back to the list](#last-50-posts)
 
 > Is there anyone need medicine related database I have informations of 50k medicines....thinking of what to do with them.. basically I scraped them from websites with own created crawller..........
 
+<a id="post-22"></a>
+
 ### 22. Drinksupermarket Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data
 
-2026-11-03 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmqz94/drinksupermarket_data_scraping_api_realtime_wine/)
+2026-11-03 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmqz94/drinksupermarket_data_scraping_api_realtime_wine/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-23"></a>
 
 ### 23. Insights via Amazon Delivery Dataset Scraping and Analysis
 
-2026-11-03 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmnxg6/insights_via_amazon_delivery_dataset_scraping_and/)
+2026-11-03 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmnxg6/insights_via_amazon_delivery_dataset_scraping_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-24"></a>
 
 ### 24. Tesco Wine Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data
 
-2026-11-03 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmmzu9/tesco_wine_data_scraping_api_realtime_wine_beer/)
+2026-11-03 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmmzu9/tesco_wine_data_scraping_api_realtime_wine_beer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. Retail Promotion Data Scraping for Competitor Price Analysis
 
-2026-11-03 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmlcd5/retail_promotion_data_scraping_for_competitor/)
+2026-11-03 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmlcd5/retail_promotion_data_scraping_for_competitor/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/m9ur8vn88czh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. Can Real Hardware Beat Anti-Bot Systems? Inside Browser Infrastructure for Web Scraping \| AMA with Alexander Spring, Founder of Driver
 
-2026-11-03 · u/ian_k93 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmksee/can_real_hardware_beat_antibot_systems_inside/)
+2026-11-03 · u/ian_k93 · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmksee/can_real_hardware_beat_antibot_systems_inside/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/WebScrapingInsider/comments/1xlqcp4/can_real_hardware_beat_antibot_systems_inside/>
 
 
+<a id="post-27"></a>
+
 ### 27. Data collection advice needed - scrapping from internet and social media
 
-2026-11-03 · u/Any_Swordfish2247 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmirhr/data_collection_advice_needed_scrapping_from/)
+2026-11-03 · u/Any_Swordfish2247 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmirhr/data_collection_advice_needed_scrapping_from/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PhD/comments/1xmirap/data_collection_advice_needed_scrapping_from/>
 
 
+<a id="post-28"></a>
+
 ### 28. Why does one proxy work on a website but fail on another?
 
-2026-11-02 · u/ShadowProxyFR · Help · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmc5vi/why_does_one_proxy_work_on_a_website_but_fail_on/)
+2026-11-02 · u/ShadowProxyFR · Help · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xmc5vi/why_does_one_proxy_work_on_a_website_but_fail_on/) · [↑ back to the list](#last-50-posts)
 
 > An IP address isn’t evaluated in isolation. Websites can use different access rules, rate limits, reputation signals, authentication requirements and bot-detection systems.  
 > That means a proxy that works perfectly for one service might not work for another.
 >
 > What do you usually investigate first when a connection fails: the IP, the HTTP response, authentication or the target website’s restrictions?
 
+<a id="post-29"></a>
+
 ### 29. I built a Threads scraper that tells you exactly what it couldn't get, instead of failing silently
 
-2026-11-02 · u/Inchardware · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xm61e1/i_built_a_threads_scraper_that_tells_you_exactly/)
+2026-11-02 · u/Inchardware · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xm61e1/i_built_a_threads_scraper_that_tells_you_exactly/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SideProject/comments/1xm613h/i_built_a_threads_scraper_that_tells_you_exactly/>
 
 
+<a id="post-30"></a>
+
 ### 30. How to scrape data from Google and Meta APIs ?
 
-2026-11-02 · u/barmatbiz · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlz0hx/how_to_scrape_data_from_google_and_meta_apis/)
+2026-11-02 · u/barmatbiz · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlz0hx/how_to_scrape_data_from_google_and_meta_apis/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/b2b_sales/comments/1xlz0ag/how_to_scrape_data_from_google_and_meta_apis/>
 
 
+<a id="post-31"></a>
+
 ### 31. If you have or want to mine datasets and maybe sell
 
-2026-11-02 · u/Familiar_Package8281 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xly4g8/if_you_have_or_want_to_mine_datasets_and_maybe/)
+2026-11-02 · u/Familiar_Package8281 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xly4g8/if_you_have_or_want_to_mine_datasets_and_maybe/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/datasets/comments/1xly48t/if_you_have_or_want_to_mine_datasets_and_maybe/>
 
 
+<a id="post-32"></a>
+
 ### 32. Waitrose Drinks Data Scraping API — Real-Time Wine, Beer & Spirits Inventory Data
 
-2026-11-02 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlvyz5/waitrose_drinks_data_scraping_api_realtime_wine/)
+2026-11-02 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlvyz5/waitrose_drinks_data_scraping_api_realtime_wine/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. Complete European Postal Codes Database (XLSX / CSV) - Clean & Verified (RO, GR, LV, RS, BA, ME, BE)
 
-2026-11-02 · u/Mikal4666 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xluxbm/complete_european_postal_codes_database_xlsx_csv/)
+2026-11-02 · u/Mikal4666 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xluxbm/complete_european_postal_codes_database_xlsx_csv/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Unlock Market Insights With Restaurant Data Scraping China
 
-2026-11-02 · u/ProgressPositive442 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlthbc/unlock_market_insights_with_restaurant_data/)
+2026-11-02 · u/ProgressPositive442 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlthbc/unlock_market_insights_with_restaurant_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6p5peev6b6zh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-35"></a>
+
 ### 35. finding a practical way to collect Instagram data for OSINT research
 
-2026-11-02 · u/ExpensiveHyena8278 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlt30y/finding_a_practical_way_to_collect_instagram_data/)
+2026-11-02 · u/ExpensiveHyena8278 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlt30y/finding_a_practical_way_to_collect_instagram_data/) · [↑ back to the list](#last-50-posts)
 
 > For anyone doing OSINT research, checking public Instagram profiles, or collecting profile data for investigations, here's something I've been experimenting with.
 >
@@ -521,15 +591,19 @@ Link: <https://i.redd.it/6p5peev6b6zh1.jpeg>
 >
 > **For those working with Instagram data at scale, what's your preferred approach? DIY scraping, instagrapi, or hosted APIs? And how reliable has it been in the long run?**
 
+<a id="post-36"></a>
+
 ### 36. Majestic Wine Data Scraping API — Real-Time Inventory, Vintage & Mixed Case Data
 
-2026-11-02 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlsy40/majestic_wine_data_scraping_api_realtime/)
+2026-11-02 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlsy40/majestic_wine_data_scraping_api_realtime/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. What I learned comparing DIY scraping, instagrapi, and hosted APIs for public Instagram OSINT research
 
-2026-11-02 · u/ExpensiveHyena8278 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlsxiu/what_i_learned_comparing_diy_scraping_instagrapi/)
+2026-11-02 · u/ExpensiveHyena8278 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlsxiu/what_i_learned_comparing_diy_scraping_instagrapi/) · [↑ back to the list](#last-50-posts)
 
 > If you're doing OSINT research, monitoring public Instagram profiles, or collecting profile-level data for investigative work, this might be useful.
 >
@@ -620,9 +694,11 @@ Link: <https://i.redd.it/6p5peev6b6zh1.jpeg>
 >
 > Are you sticking with DIY scraping, using instagrapi, relying on hosted APIs, or building something hybrid? I'd particularly like to hear about long-term reliability, maintenance overhead, and actual cost when request volumes increase.
 
+<a id="post-38"></a>
+
 ### 38. I made a Python Library for scheduling recurring webscraping
 
-2026-11-02 · u/Ill-Acanthaceae5630 · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlr4fn/i_made_a_python_library_for_scheduling_recurring/)
+2026-11-02 · u/Ill-Acanthaceae5630 · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlr4fn/i_made_a_python_library_for_scheduling_recurring/) · [↑ back to the list](#last-50-posts)
 
 > I made LaptopScheduler, a Python scheduling library for Windows laptops.
 >
@@ -638,23 +714,29 @@ Link: <https://i.redd.it/6p5peev6b6zh1.jpeg>
 >
 > [https://github.com/seaweed8888/laptop-schedueler](https://github.com/seaweed8888/laptop-schedueler)
 
+<a id="post-39"></a>
+
 ### 39. Managing memory usage in JS-heavy scraping pipelines
 
-2026-11-02 · u/Zestyclose-Act-3750 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlr1yk/managing_memory_usage_in_jsheavy_scraping/)
+2026-11-02 · u/Zestyclose-Act-3750 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xlr1yk/managing_memory_usage_in_jsheavy_scraping/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/webscraping/comments/1xlr1r3/managing_memory_usage_in_jsheavy_scraping/>
 
 
+<a id="post-40"></a>
+
 ### 40. A Dev to Dev chat!
 
-2026-10-31 · u/Unhappy-Health-4562 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xkot9w/a_dev_to_dev_chat/)
+2026-10-31 · u/Unhappy-Health-4562 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xkot9w/a_dev_to_dev_chat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AppDevelopers/comments/1xkosr9/a_dev_to_dev_chat/>
 
 
+<a id="post-41"></a>
+
 ### 41. MCP tool cost: 20 job Actors on Apify
 
-2026-10-31 · u/ilyaviache · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xkenz3/mcp_tool_cost_20_job_actors_on_apify/)
+2026-10-31 · u/ilyaviache · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xkenz3/mcp_tool_cost_20_job_actors_on_apify/) · [↑ back to the list](#last-50-posts)
 
 > Here is what an agent pays before it asks a job-search tool anything. I pinned 20 job-search Actors from the Store, one at a time, on the hosted Apify MCP server and read what tools/list sends back. The smallest tool definition was 2,139 tokens. The median was 3,829. One was 32,737 — and 32,136 of those were an output schema the server had inferred from the Actor's results, while the author's own input schema was 406 tokens
 >
@@ -748,9 +830,11 @@ Link: <https://www.reddit.com/r/AppDevelopers/comments/1xkosr9/a_dev_to_dev_chat
 >
 > #
 
+<a id="post-42"></a>
+
 ### 42. How do you monitor new IndiaMART Buy Leads without constantly refreshing the dashboard?
 
-2026-10-31 · u/Status-Grab8872 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk7ogw/how_do_you_monitor_new_indiamart_buy_leads/)
+2026-10-31 · u/Status-Grab8872 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk7ogw/how_do_you_monitor_new_indiamart_buy_leads/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wcoh375oesyh1.png>
 
@@ -769,9 +853,11 @@ Link: <https://i.redd.it/wcoh375oesyh1.png>
 >
 > Curious how other IndiaMART sellers manage new Buy Lead notifications. Do you use manual checking, CRM workflows, or another alerting method?
 
+<a id="post-43"></a>
+
 ### 43. How do you find out your scraper is silently returning bad data?
 
-2026-10-31 · u/Imaginary_Pie7613 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk5ksc/how_do_you_find_out_your_scraper_is_silently/)
+2026-10-31 · u/Imaginary_Pie7613 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk5ksc/how_do_you_find_out_your_scraper_is_silently/) · [↑ back to the list](#last-50-posts)
 
 > Not talking about crashes — those are easy. I mean the runs that finish "successfully" but the site changed a class name and now \`price\` is empty in 90% of rows, or the item count quietly drops from 500 to 40.
 >
@@ -788,55 +874,71 @@ Link: <https://i.redd.it/wcoh375oesyh1.png>
 >
 > Would love to hear setups — homegrown scripts, Great Expectations, Grafana alerts, whatever works.
 
+<a id="post-44"></a>
+
 ### 44. If a wholesaler doesnt offer a table to import products, how would you go about it?
 
-2026-10-31 · u/k0alicija · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk4n25/if_a_wholesaler_doesnt_offer_a_table_to_import/)
+2026-10-31 · u/k0alicija · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk4n25/if_a_wholesaler_doesnt_offer_a_table_to_import/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Wordpress/comments/1xk4mc8/if_a_wholesaler_doesnt_offer_a_table_to_import/>
 
+
+<a id="post-45"></a>
 
 ### 45. If a wholesaler doesnt offer a table to import products, how would you go about it?
 
-2026-10-31 · u/k0alicija · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk4mfq/if_a_wholesaler_doesnt_offer_a_table_to_import/)
+2026-10-31 · u/k0alicija · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xk4mfq/if_a_wholesaler_doesnt_offer_a_table_to_import/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Wordpress/comments/1xk4mc8/if_a_wholesaler_doesnt_offer_a_table_to_import/>
 
 
+<a id="post-46"></a>
+
 ### 46. Real-Time Grocery Dataset API for Retail Market Research
 
-2026-10-30 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xjd116/realtime_grocery_dataset_api_for_retail_market/)
+2026-10-30 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xjd116/realtime_grocery_dataset_api_for_retail_market/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-47"></a>
 
 ### 47. Web Scraping for Travel Agencies in Spain and Italy Data
 
-2026-10-30 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj9tdn/web_scraping_for_travel_agencies_in_spain_and/)
+2026-10-30 · u/Moist_Accountant7912 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj9tdn/web_scraping_for_travel_agencies_in_spain_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-48"></a>
 
 ### 48. How Instacart API Helps Businesses Track Grocery Prices, Products, and Retail Market Trends
 
-2026-10-30 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj9lk8/how_instacart_api_helps_businesses_track_grocery/)
+2026-10-30 · u/Legitimate-Heat-1537 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj9lk8/how_instacart_api_helps_businesses_track_grocery/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-49"></a>
+
 ### 49. Web Scraping Insider #11 \| poisoned Google SERPs that look like successful responses, the same page at 1 credit vs 10-20, what a login does to your legal position, 5,000 members
 
-2026-10-30 · u/ian_k93 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj6u50/web_scraping_insider_11_poisoned_google_serps/)
+2026-10-30 · u/ian_k93 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj6u50/web_scraping_insider_11_poisoned_google_serps/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://thewebscrapinginsider.beehiiv.com/p/the-web-scraping-insider-11>
 
 
+<a id="post-50"></a>
+
 ### 50. What web chore do you still do by hand because there's no API?
 
-2026-10-30 · u/Individual-Jump4668 · score 1 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj63ru/what_web_chore_do_you_still_do_by_hand_because/)
+2026-10-30 · u/Individual-Jump4668 · score 1 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xj63ru/what_web_chore_do_you_still_do_by_hand_because/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/nocode/comments/1xj63lt/what_web_chore_do_you_still_do_by_hand_because/>
 
 
+<a id="post-51"></a>
+
 ### 51. I created an open-source tool that gives LLMs and agents clean real-world data instead of raw HTML/DOM scraping
 
-2026-10-29 · u/ZeroSubic · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xi6ciw/i_created_an_opensource_tool_that_gives_llms_and/)
+2026-10-29 · u/ZeroSubic · score 8 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xi6ciw/i_created_an_opensource_tool_that_gives_llms_and/) · [↑ back to the list](#last-50-posts)
 
 > I created [**AgentWeb.live**](http://agentweb.live/) ([https://agentweb.live/](https://agentweb.live/)) half a year ago, its an MCP-native platform/API (free) that gives AI agents fast, structured access to real-world data. It has grown to include 134 million businesses with around 1M new/updated every 24 hours. We have been nonstop scraping the web for about 7-8 months now.
 >
@@ -846,9 +948,11 @@ Link: <https://www.reddit.com/r/nocode/comments/1xj63lt/what_web_chore_do_you_st
 >
 > Would be interested to hear what people think or what features would make it more useful for your setups!
 
+<a id="post-52"></a>
+
 ### 52. A Self Healing Agentic Web Scraper.
 
-2026-10-25 · u/Extreme_Leg_6162 · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xey32e/a_self_healing_agentic_web_scraper/)
+2026-10-25 · u/Extreme_Leg_6162 · score 7 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xey32e/a_self_healing_agentic_web_scraper/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/him300/Scrape_01>
 
@@ -862,9 +966,11 @@ Link: <https://github.com/him300/Scrape_01>
 >
 > So the AI is allowed to be wrong, it just isn't allowed to be wrong silently. Curious how others handle agent output in pipelines that need to run unattended.
 
+<a id="post-53"></a>
+
 ### 53. Scraper suddenly getting blocked in sites that worked for months
 
-2026-10-19 · u/Important_Dance5750 · score 6 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x9vu5o/scraper_suddenly_getting_blocked_in_sites_that/)
+2026-10-19 · u/Important_Dance5750 · score 6 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x9vu5o/scraper_suddenly_getting_blocked_in_sites_that/) · [↑ back to the list](#last-50-posts)
 
 > Weird one and hoping someone has seen this. I do scraping for few years as a side hustle, nothing crazy, maybe 500 requests a day across a handful of e-commerce sites tracking price history. Was clean all summer on residential, suddenly in September everything started being challenged by Cloudflare and I can’t figure out what changed on my end. Already tried the obvious things. Rotated to fresh IPs in the same residential pool, no improvement. Added more realistic headers and jitter, no improvement. Even dropped volume to 100 requests a day as a test, still getting flagged.
 >
@@ -872,31 +978,39 @@ Link: <https://github.com/him300/Scrape_01>
 >
 > So my question is: should I go for mobile proxies? Looking at all the major providers (oxy, decodo, voidmob and so on) or is it worth it to dig deeper and find other work around? Would appreciate your help.
 
+<a id="post-54"></a>
+
 ### 54. Someone posted a great guide to learn web scraping but post is unavailable and acc deleted or banned why !? That seemed promising wanted to learn but now it's not there why ?
 
-2026-10-17 · u/Early_Ad6921 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x8cpux/someone_posted_a_great_guide_to_learn_web/)
+2026-10-17 · u/Early_Ad6921 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x8cpux/someone_posted_a_great_guide_to_learn_web/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/5hcfc5kqn1wh1.jpeg>
 
 
+<a id="post-55"></a>
+
 ### 55. A 200 doesn't mean you're in: what Hyper Solutions' founder says about DataDome, Akamai, Incapsula and Kasada (AMA #13 recap + thanks to u/justhyped_dev)
 
-2026-10-25 · u/ian_k93 · Discussion · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xf1vmr/a_200_doesnt_mean_youre_in_what_hyper_solutions/)
+2026-10-25 · u/ian_k93 · Discussion · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xf1vmr/a_200_doesnt_mean_youre_in_what_hyper_solutions/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xf1uz9>
 
 
+<a id="post-56"></a>
+
 ### 56. Anyone else had a “huge” proxy pool that keeps giving the same IPs?
 
-2026-10-16 · u/Scary-Commission-509 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x7gku2/anyone_else_had_a_huge_proxy_pool_that_keeps/)
+2026-10-16 · u/Scary-Commission-509 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x7gku2/anyone_else_had_a_huge_proxy_pool_that_keeps/) · [↑ back to the list](#last-50-posts)
 
 > I was running a scraper with rotating proxies and everything looked fine at first. After a few thousand requests, I started seeing the same IPs coming back and the captcha rate slowly went up
 >
 > It was especially noticeable when targeting a specific country/city, the overall pool might be huge, but the pool I could actually use felt tiny. Anyone found a good way to catch this before running a large job?
 
+<a id="post-57"></a>
+
 ### 57. Scraping Facebook pages info from the embedded payload, not the DOM
 
-2026-10-14 · u/Terrible_Zone_8889 · Tools / Library · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x5stuj/scraping_facebook_pages_info_from_the_embedded/)
+2026-10-14 · u/Terrible_Zone_8889 · Tools / Library · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x5stuj/scraping_facebook_pages_info_from_the_embedded/) · [↑ back to the list](#last-50-posts)
 
 > Been maintaining a little facebook page scraper. v1 was selenium + css selectors and it worked but it was slow, like 15-20s a page, mostly just spinning up and loading a browser, plus about 60mb of memory each so running a bunch in parallel wasn’t really an option for any user so do i
 >
@@ -908,9 +1022,11 @@ Link: <https://www.reddit.com/gallery/1xf1uz9>
 >
 > anyone found other fb graphql queries worth hitting directly for page data?
 
+<a id="post-58"></a>
+
 ### 58. When do you consider a scraper’s output suspicious?
 
-2026-10-16 · u/Kenyatta_Sauve · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x7g9hh/when_do_you_consider_a_scrapers_output_suspicious/)
+2026-10-16 · u/Kenyatta_Sauve · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x7g9hh/when_do_you_consider_a_scrapers_output_suspicious/) · [↑ back to the list](#last-50-posts)
 
 > Say a page normally gives you around 20–30 items and then one day it suddenly returns 5
 >
@@ -920,9 +1036,11 @@ Link: <https://www.reddit.com/gallery/1xf1uz9>
 >
 > feels like complete failures are pretty easy to catch. It’s the scraper that keeps running while quietly missing half the data that’s harder to notice
 
+<a id="post-59"></a>
+
 ### 59. Instagram Scraping
 
-2026-10-13 · u/nrycox · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x4r99j/instagram_scraping/)
+2026-10-13 · u/nrycox · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1x4r99j/instagram_scraping/) · [↑ back to the list](#last-50-posts)
 
 > Hi I'm looking for a tool to scrape Instagram Reels / Carroussel:
 >
@@ -937,16 +1055,20 @@ Link: <https://www.reddit.com/gallery/1xf1uz9>
 >
 > I copy the link of the post then send it to the AI by discord it summarizes the content
 
+<a id="post-60"></a>
+
 ### 60. I built a free Facebook comments scraper on Apify. Not a new idea, but it doesn't cap you at 100 comments
 
-2026-10-22 · u/bsho5_ · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xcfcts/i_built_a_free_facebook_comments_scraper_on_apify/)
+2026-10-22 · u/bsho5_ · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xcfcts/i_built_a_free_facebook_comments_scraper_on_apify/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/apify/comments/1xcfck5/i_built_a_free_facebook_comments_scraper_on_apify/>
 
 
+<a id="post-61"></a>
+
 ### 61. Any working method to scrape WhatsApp Channels (messages + metadata)?
 
-2026-10-21 · u/dan_namise · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xbp6q1/any_working_method_to_scrape_whatsapp_channels/)
+2026-10-21 · u/dan_namise · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/scrapingtheweb/comments/1xbp6q1/any_working_method_to_scrape_whatsapp_channels/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >

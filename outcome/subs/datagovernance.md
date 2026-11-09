@@ -42,56 +42,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/datagovernance/comments/1xosnzk/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion | text | 0 | 0 | removed by mod | — |
-| 2 | 2026-11-04 | [Practitioner here, I started a short video series on governance basics. Would value honest feedback](https://www.reddit.com/r/datagovernance/comments/1xnr86q/practitioner_here_i_started_a_short_video_series/) | u/thepracticalsteward | — | text | 12 | 2 | approved | — |
-| 3 | 2026-11-02 | [Enterprise Content Management](https://www.reddit.com/r/datagovernance/comments/1xlon91/enterprise_content_management/) | u/BirthdayIll2036 | Question | text | 1 | 0 | spam-filtered | — |
-| 4 | 2026-11-02 | [Content Governance](https://www.reddit.com/r/datagovernance/comments/1xloei8/content_governance/) | u/BirthdayIll2036 | Question | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-10-27 | [The use of AI in organizational health](https://www.reddit.com/r/datagovernance/comments/1xgqf1b/the_use_of_ai_in_organizational_health/) | u/Rough_Fox4106 | — | text | 0 | 0 | spam-filtered | — |
-| 6 | 2026-10-08 | [BigQuery Cost Optimization: The Complete FinOps Framework](https://www.reddit.com/r/datagovernance/comments/1x0tpne/bigquery_cost_optimization_the_complete_finops/) | u/arimbr | Blog/Article | alvin.ai | 1 | 1 | removed by mod | r/datagovernance follows platform-wide Reddit Rules - nothing to with data governance ? |
-| 7 | 2026-10-08 | [A common language for Data Products, Data Assets, Information Assets and Datasets – Microsoft Purview](https://www.reddit.com/r/datagovernance/comments/1x0l0o9/a_common_language_for_data_products_data_assets/) | u/Amddiffynnydd | Blog/Article | text | 3 | 4 | live | — |
-| 8 | 2026-10-03 | [Back from a data & AI leaders summit: most mid-market "AI governance" wouldn't survive a regulator's request](https://www.reddit.com/r/datagovernance/comments/1wx14b6/back_from_a_data_ai_leaders_summit_most_midmarket/) | u/datasleek | — | — | 1 | 0 | live | — |
-| 9 | 2026-10-02 | [I Built Control Models for Crystals. Then I Recognized Them on My Phone.](https://www.reddit.com/r/datagovernance/comments/1wvu08l/i_built_control_models_for_crystals_then_i/) | u/\[deleted\] | Blog/Article | — | 1 | 0 | deleted by author | — |
-| 10 | 2026-09-16 | [People with “Data Governance Analyst/Specialist/Manager, etc” titles , what’s your day to day like?](https://www.reddit.com/r/datagovernance/comments/1wi9fpa/people_with_data_governance/) | u/Correct_Dog1611 | Question | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-09-16 | [Auto-curating Business Terms for 120k columns using LLMs — Opus worked for CDE/PII, but stuck at 20% yield fo…](https://www.reddit.com/r/datagovernance/comments/1whv8vz/autocurating_business_terms_for_120k_columns/) | u/Kal-EL007 | — | — | 1 | 0 | deleted by author | — |
-| 12 | 2026-09-16 | [Is the data catalog finally dead?](https://www.reddit.com/r/datagovernance/comments/1whplij/is_the_data_catalog_finally_dead/) | u/Berserk_l_ | Blog/Article | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-09-15 | [Is the data catalog finally dead?](https://www.reddit.com/r/datagovernance/comments/1wh5kz5/is_the_data_catalog_finally_dead/) | u/growth_man | Blog/Article | text | 2 | 1 | deleted by author | — |
-| 14 | 2026-09-10 | [Metadata and Metamodel - How to stop people reacting to these words?](https://www.reddit.com/r/datagovernance/comments/1wclozk/metadata_and_metamodel_how_to_stop_people/) | u/Amddiffynnydd | Discussion | text | 4 | 1 | live | — |
-| 15 | 2026-09-05 | [How I model Microsoft Purview Unified Catalog and Data Map within an Enterprise Data Catalogue](https://www.reddit.com/r/datagovernance/comments/1w7vk4s/how_i_model_microsoft_purview_unified_catalog_and/) | u/Amddiffynnydd | — | i.redd.it | 3 | 2 | live | — |
-| 16 | 2026-08-17 | [Microsoft Purview Unified Catalog: Governance Domains and Glossary Terms – Does This Model Work?](https://www.reddit.com/r/datagovernance/comments/1vqvv91/microsoft_purview_unified_catalog_governance/) | u/DataSkyLabStudio | — | — | 2 | 0 | spam-filtered | — |
-| 17 | 2026-08-17 | [New to r/datagovernance? Start here: What is Data Governance?](https://www.reddit.com/r/datagovernance/comments/1vqpbdy/new_to_rdatagovernance_start_here_what_is_data/) | u/Amddiffynnydd | — | text | 8 | 0 | live | — |
-| 18 | 2022-12-01 | [Happy Cakeday, r/datagovernance! Today you're 9](https://www.reddit.com/r/datagovernance/comments/z9lmnl/happy_cakeday_rdatagovernance_today_youre_9/) | u/AutoModerator | — | text | 5 | 1 | live | — |
-| 19 | 2021-12-01 | [Happy Cakeday, r/datagovernance! Today you're 8](https://www.reddit.com/r/datagovernance/comments/r6cssq/happy_cakeday_rdatagovernance_today_youre_8/) | u/AutoModerator | — | text | 3 | 2 | live | — |
-| 20 | 2020-12-01 | [Happy Cakeday, r/datagovernance! Today you're 7](https://www.reddit.com/r/datagovernance/comments/k4it34/happy_cakeday_rdatagovernance_today_youre_7/) | u/AutoModerator | — | text | 7 | 3 | live | — |
-| 21 | 2020-04-20 | [Looking for first client in need of data catalog and data glossary](https://www.reddit.com/r/datagovernance/comments/g53vw7/looking_for_first_client_in_need_of_data_catalog/) | u/martinknap | — | text | 3 | 0 | live | — |
-| 22 | 2020-04-20 | [\[Webinar\] How are top data teams making the move to remote?](https://www.reddit.com/r/datagovernance/comments/g4uo52/webinar_how_are_top_data_teams_making_the_move_to/) | u/ReasonablyHank | — | text | 1 | 0 | spam-filtered | — |
-| 23 | 2020-04-04 | [Data governance: retention policies](https://www.reddit.com/r/datagovernance/comments/fuljdk/data_governance_retention_policies/) | u/trt234 | — | text | 1 | 1 | live | — |
-| 24 | 2020-04-02 | [History](https://www.reddit.com/r/datagovernance/comments/ftpcs3/history/) | u/davidrodcarv | — | text | 2 | 3 | live | — |
-| 25 | 2020-04-02 | [4 Tips for Remote Data Teams to Improve Productivity](https://www.reddit.com/r/datagovernance/comments/ftofun/4_tips_for_remote_data_teams_to_improve/) | u/Nowayzilch | — | humansofdata.atlan.com | 2 | 0 | live | — |
-| 26 | 2020-03-30 | [Use Data Governance Tools by EnterWorks](https://www.reddit.com/r/datagovernance/comments/frpl5f/use_data_governance_tools_by_enterworks/) | u/epromotionz | — | adpost.com | 1 | 0 | spam-filtered | — |
-| 27 | 2020-03-26 | [Diagnosing Data Quality Issues](https://www.reddit.com/r/datagovernance/comments/fp7rhp/diagnosing_data_quality_issues/) | u/livingdeadgrrl | — | text | 5 | 2 | live | — |
-| 28 | 2020-03-25 | [Data Teams Going "Remote" - Challenges, Learnings & Observations](https://www.reddit.com/r/datagovernance/comments/fopss9/data_teams_going_remote_challenges_learnings/) | u/2121varuag | — | text | 4 | 1 | live | — |
-| 29 | 2020-02-18 | [Looking for websites/software to help organize Alumni information -> must be free](https://www.reddit.com/r/datagovernance/comments/f5w65p/looking_for_websitessoftware_to_help_organize/) | u/Kaydotkay1211 | — | text | 2 | 1 | live | — |
-| 30 | 2020-02-05 | [Data Governance Software Solutions](https://www.reddit.com/r/datagovernance/comments/ez5lwu/data_governance_software_solutions/) | u/Andersonjoy | — | graymatter.co.in | 1 | 0 | spam-filtered | — |
-| 31 | 2020-01-28 | [Use EnterWorks Enable Data Governance Tools](https://www.reddit.com/r/datagovernance/comments/ev48ru/use_enterworks_enable_data_governance_tools/) | u/epromotionz | — | adpost.com | 1 | 0 | spam-filtered | — |
-| 32 | 2019-12-03 | [Big Data Security: Tapping into the power of Big Data](https://www.reddit.com/r/datagovernance/comments/e5hava/big_data_security_tapping_into_the_power_of_big/) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
-| 33 | 2019-11-13 | [Data Governance Problems?](https://www.reddit.com/r/datagovernance/comments/dvz99r/data_governance_problems/) | u/\[deleted\] | — | text | 6 | 0 | deleted by author | — |
-| 34 | 2019-11-11 | [Use EnterWorks Enable Data Governance MDM Tools](https://www.reddit.com/r/datagovernance/comments/dure6x/use_enterworks_enable_data_governance_mdm_tools/) | u/epromotionz | — | adpost.com | 1 | 0 | live | — |
-| 35 | 2019-11-08 | [Leveraging The Power Of Information To Create Competitive Advantages](https://www.reddit.com/r/datagovernance/comments/dtbbd1/leveraging_the_power_of_information_to_create/) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
-| 36 | 2019-11-06 | [5 Data Preparation Tools vs Automated Data Management Platform - Overview](https://www.reddit.com/r/datagovernance/comments/dsb3az/5_data_preparation_tools_vs_automated_data/) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
-| 37 | 2019-11-04 | [Why New-Age Business Enterprises Cannot Ignore Data Governance MDM?](https://www.reddit.com/r/datagovernance/comments/drgsid/why_newage_business_enterprises_cannot_ignore/) | u/epromotionz | — | insightsondatagovernancetools.blogspot.com | 1 | 0 | live | — |
-| 38 | 2019-10-31 | [Danny Gilligan on Building a Good Data Republic](https://www.reddit.com/r/datagovernance/comments/dpo4z7/danny_gilligan_on_building_a_good_data_republic/) | u/indvstrvs | — | indvstrvs.com | 2 | 0 | live | — |
-| 39 | 2019-10-31 | [Data Mart and Data Warehouse Comparison](https://www.reddit.com/r/datagovernance/comments/dphwsq/data_mart_and_data_warehouse_comparison/) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
-| 40 | 2019-10-30 | [5 Opportunities To Scale Your Business With Data](https://www.reddit.com/r/datagovernance/comments/dp2ztp/5_opportunities_to_scale_your_business_with_data/) | u/cmstrump | — | text | 2 | 0 | live | — |
-| 41 | 2019-10-21 | [Connecting To Data Warehouses In Tableau - Tutorial](https://www.reddit.com/r/datagovernance/comments/dkubd0/connecting_to_data_warehouses_in_tableau_tutorial/) | u/thumbsdrivesmecrazy | — | text | 4 | 0 | live | — |
-| 42 | 2019-10-18 | [Data Governance Market Set to witness upstick from 2019 to 2023 at 22% CAGR](https://www.reddit.com/r/datagovernance/comments/djktvz/data_governance_market_set_to_witness_upstick/) | u/siddharthmnm | — | text | 1 | 0 | live | — |
-| 43 | 2019-10-16 | [Data Governance Market by Application, Solution & Services - 2023](https://www.reddit.com/r/datagovernance/comments/dimm98/data_governance_market_by_application_solution/) | u/siddharthmnm | — | text | 1 | 0 | live | — |
-| 44 | 2019-10-16 | [Data Warehouse Applications For Business Analysis And Reporting](https://www.reddit.com/r/datagovernance/comments/diji5x/data_warehouse_applications_for_business_analysis/) | u/cmstrump | — | text | 1 | 0 | live | — |
-| 45 | 2019-10-15 | [Dealing With Data: Key Data Warehouse Trends For 2019](https://www.reddit.com/r/datagovernance/comments/di1tio/dealing_with_data_key_data_warehouse_trends_for/) | u/thumbsdrivesmecrazy | — | text | 3 | 0 | live | — |
-| 46 | 2019-10-14 | [MySQL data warehousing and analytics: specific drawbacks and disadvantages](https://www.reddit.com/r/datagovernance/comments/dhk4vw/mysql_data_warehousing_and_analytics_specific/) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
-| 47 | 2019-10-08 | [ETL Software And Data Warehousing As Foundation For Modern Analytics](https://www.reddit.com/r/datagovernance/comments/deuewf/etl_software_and_data_warehousing_as_foundation/) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
-| 48 | 2019-10-07 | [Data Architecture: People, Process And Technology (Overview)](https://www.reddit.com/r/datagovernance/comments/dedx58/data_architecture_people_process_and_technology/) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
-| 49 | 2019-10-04 | [How A Data Warehouse Can Make Data Mining Easier And More Efficient](https://www.reddit.com/r/datagovernance/comments/dd0ayt/how_a_data_warehouse_can_make_data_mining_easier/) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
-| 50 | 2019-09-27 | [What is a good data catalog software for a medium size business?](https://www.reddit.com/r/datagovernance/comments/da5680/what_is_a_good_data_catalog_software_for_a_medium/) | u/acceptedcitizen | — | text | 3 | 6 | live | — |
+| 1 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-1) | u/fristprinciplesde | Discussion | text | 0 | 0 | removed by mod | — |
+| 2 | 2026-11-04 | [Practitioner here, I started a short video series on governance basics. Would value honest feedback](#post-2) | u/thepracticalsteward | — | text | 12 | 2 | approved | — |
+| 3 | 2026-11-02 | [Enterprise Content Management](#post-3) | u/BirthdayIll2036 | Question | text | 1 | 0 | spam-filtered | — |
+| 4 | 2026-11-02 | [Content Governance](#post-4) | u/BirthdayIll2036 | Question | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-10-27 | [The use of AI in organizational health](#post-5) | u/Rough_Fox4106 | — | text | 0 | 0 | spam-filtered | — |
+| 6 | 2026-10-08 | [BigQuery Cost Optimization: The Complete FinOps Framework](#post-6) | u/arimbr | Blog/Article | alvin.ai | 1 | 1 | removed by mod | r/datagovernance follows platform-wide Reddit Rules - nothing to with data governance ? |
+| 7 | 2026-10-08 | [A common language for Data Products, Data Assets, Information Assets and Datasets – Microsoft Purview](#post-7) | u/Amddiffynnydd | Blog/Article | text | 3 | 4 | live | — |
+| 8 | 2026-10-03 | [Back from a data & AI leaders summit: most mid-market "AI governance" wouldn't survive a regulator's request](#post-8) | u/datasleek | — | — | 1 | 0 | live | — |
+| 9 | 2026-10-02 | [I Built Control Models for Crystals. Then I Recognized Them on My Phone.](#post-9) | u/\[deleted\] | Blog/Article | — | 1 | 0 | deleted by author | — |
+| 10 | 2026-09-16 | [People with “Data Governance Analyst/Specialist/Manager, etc” titles , what’s your day to day like?](#post-10) | u/Correct_Dog1611 | Question | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-09-16 | [Auto-curating Business Terms for 120k columns using LLMs — Opus worked for CDE/PII, but stuck at 20% yield fo…](#post-11) | u/Kal-EL007 | — | — | 1 | 0 | deleted by author | — |
+| 12 | 2026-09-16 | [Is the data catalog finally dead?](#post-12) | u/Berserk_l_ | Blog/Article | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-09-15 | [Is the data catalog finally dead?](#post-13) | u/growth_man | Blog/Article | text | 2 | 1 | deleted by author | — |
+| 14 | 2026-09-10 | [Metadata and Metamodel - How to stop people reacting to these words?](#post-14) | u/Amddiffynnydd | Discussion | text | 4 | 1 | live | — |
+| 15 | 2026-09-05 | [How I model Microsoft Purview Unified Catalog and Data Map within an Enterprise Data Catalogue](#post-15) | u/Amddiffynnydd | — | i.redd.it | 3 | 2 | live | — |
+| 16 | 2026-08-17 | [Microsoft Purview Unified Catalog: Governance Domains and Glossary Terms – Does This Model Work?](#post-16) | u/DataSkyLabStudio | — | — | 2 | 0 | spam-filtered | — |
+| 17 | 2026-08-17 | [New to r/datagovernance? Start here: What is Data Governance?](#post-17) | u/Amddiffynnydd | — | text | 8 | 0 | live | — |
+| 18 | 2022-12-01 | [Happy Cakeday, r/datagovernance! Today you're 9](#post-18) | u/AutoModerator | — | text | 5 | 1 | live | — |
+| 19 | 2021-12-01 | [Happy Cakeday, r/datagovernance! Today you're 8](#post-19) | u/AutoModerator | — | text | 3 | 2 | live | — |
+| 20 | 2020-12-01 | [Happy Cakeday, r/datagovernance! Today you're 7](#post-20) | u/AutoModerator | — | text | 7 | 3 | live | — |
+| 21 | 2020-04-20 | [Looking for first client in need of data catalog and data glossary](#post-21) | u/martinknap | — | text | 3 | 0 | live | — |
+| 22 | 2020-04-20 | [\[Webinar\] How are top data teams making the move to remote?](#post-22) | u/ReasonablyHank | — | text | 1 | 0 | spam-filtered | — |
+| 23 | 2020-04-04 | [Data governance: retention policies](#post-23) | u/trt234 | — | text | 1 | 1 | live | — |
+| 24 | 2020-04-02 | [History](#post-24) | u/davidrodcarv | — | text | 2 | 3 | live | — |
+| 25 | 2020-04-02 | [4 Tips for Remote Data Teams to Improve Productivity](#post-25) | u/Nowayzilch | — | humansofdata.atlan.com | 2 | 0 | live | — |
+| 26 | 2020-03-30 | [Use Data Governance Tools by EnterWorks](#post-26) | u/epromotionz | — | adpost.com | 1 | 0 | spam-filtered | — |
+| 27 | 2020-03-26 | [Diagnosing Data Quality Issues](#post-27) | u/livingdeadgrrl | — | text | 5 | 2 | live | — |
+| 28 | 2020-03-25 | [Data Teams Going "Remote" - Challenges, Learnings & Observations](#post-28) | u/2121varuag | — | text | 4 | 1 | live | — |
+| 29 | 2020-02-18 | [Looking for websites/software to help organize Alumni information -> must be free](#post-29) | u/Kaydotkay1211 | — | text | 2 | 1 | live | — |
+| 30 | 2020-02-05 | [Data Governance Software Solutions](#post-30) | u/Andersonjoy | — | graymatter.co.in | 1 | 0 | spam-filtered | — |
+| 31 | 2020-01-28 | [Use EnterWorks Enable Data Governance Tools](#post-31) | u/epromotionz | — | adpost.com | 1 | 0 | spam-filtered | — |
+| 32 | 2019-12-03 | [Big Data Security: Tapping into the power of Big Data](#post-32) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
+| 33 | 2019-11-13 | [Data Governance Problems?](#post-33) | u/\[deleted\] | — | text | 6 | 0 | deleted by author | — |
+| 34 | 2019-11-11 | [Use EnterWorks Enable Data Governance MDM Tools](#post-34) | u/epromotionz | — | adpost.com | 1 | 0 | live | — |
+| 35 | 2019-11-08 | [Leveraging The Power Of Information To Create Competitive Advantages](#post-35) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
+| 36 | 2019-11-06 | [5 Data Preparation Tools vs Automated Data Management Platform - Overview](#post-36) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
+| 37 | 2019-11-04 | [Why New-Age Business Enterprises Cannot Ignore Data Governance MDM?](#post-37) | u/epromotionz | — | insightsondatagovernancetools.blogspot.com | 1 | 0 | live | — |
+| 38 | 2019-10-31 | [Danny Gilligan on Building a Good Data Republic](#post-38) | u/indvstrvs | — | indvstrvs.com | 2 | 0 | live | — |
+| 39 | 2019-10-31 | [Data Mart and Data Warehouse Comparison](#post-39) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
+| 40 | 2019-10-30 | [5 Opportunities To Scale Your Business With Data](#post-40) | u/cmstrump | — | text | 2 | 0 | live | — |
+| 41 | 2019-10-21 | [Connecting To Data Warehouses In Tableau - Tutorial](#post-41) | u/thumbsdrivesmecrazy | — | text | 4 | 0 | live | — |
+| 42 | 2019-10-18 | [Data Governance Market Set to witness upstick from 2019 to 2023 at 22% CAGR](#post-42) | u/siddharthmnm | — | text | 1 | 0 | live | — |
+| 43 | 2019-10-16 | [Data Governance Market by Application, Solution & Services - 2023](#post-43) | u/siddharthmnm | — | text | 1 | 0 | live | — |
+| 44 | 2019-10-16 | [Data Warehouse Applications For Business Analysis And Reporting](#post-44) | u/cmstrump | — | text | 1 | 0 | live | — |
+| 45 | 2019-10-15 | [Dealing With Data: Key Data Warehouse Trends For 2019](#post-45) | u/thumbsdrivesmecrazy | — | text | 3 | 0 | live | — |
+| 46 | 2019-10-14 | [MySQL data warehousing and analytics: specific drawbacks and disadvantages](#post-46) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
+| 47 | 2019-10-08 | [ETL Software And Data Warehousing As Foundation For Modern Analytics](#post-47) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
+| 48 | 2019-10-07 | [Data Architecture: People, Process And Technology (Overview)](#post-48) | u/thumbsdrivesmecrazy | — | text | 1 | 0 | live | — |
+| 49 | 2019-10-04 | [How A Data Warehouse Can Make Data Mining Easier And More Efficient](#post-49) | u/thumbsdrivesmecrazy | — | text | 2 | 0 | live | — |
+| 50 | 2019-09-27 | [What is a good data catalog software for a medium size business?](#post-50) | u/acceptedcitizen | — | text | 3 | 6 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -99,15 +99,17 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 2026-11-04 | [Practitioner here, I started a short video series on governance basics. Would value honest feedback](https://www.reddit.com/r/datagovernance/comments/1xnr86q/practitioner_here_i_started_a_short_video_series/) | u/thepracticalsteward | — | text | 12 | 2 | approved |
+| 2 | 2026-11-04 | [Practitioner here, I started a short video series on governance basics. Would value honest feedback](#post-2) | u/thepracticalsteward | — | text | 12 | 2 | approved |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xosnzk/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xosnzk/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changes what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -127,9 +129,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-2"></a>
+
 ### 2. Practitioner here, I started a short video series on governance basics. Would value honest feedback
 
-2026-11-04 · u/thepracticalsteward · score 12 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xnr86q/practitioner_here_i_started_a_short_video_series/)
+2026-11-04 · u/thepracticalsteward · score 12 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xnr86q/practitioner_here_i_started_a_short_video_series/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -149,21 +153,27 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks for reading.
 
+<a id="post-3"></a>
+
 ### 3. Enterprise Content Management
 
-2026-11-02 · u/BirthdayIll2036 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xlon91/enterprise_content_management/)
+2026-11-02 · u/BirthdayIll2036 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xlon91/enterprise_content_management/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-4"></a>
 
 ### 4. Content Governance
 
-2026-11-02 · u/BirthdayIll2036 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xloei8/content_governance/)
+2026-11-02 · u/BirthdayIll2036 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xloei8/content_governance/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. The use of AI in organizational health
 
-2026-10-27 · u/Rough_Fox4106 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xgqf1b/the_use_of_ai_in_organizational_health/)
+2026-10-27 · u/Rough_Fox4106 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1xgqf1b/the_use_of_ai_in_organizational_health/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -177,18 +187,22 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-6"></a>
+
 ### 6. BigQuery Cost Optimization: The Complete FinOps Framework
 
-2026-10-08 · u/arimbr · Blog/Article · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1x0tpne/bigquery_cost_optimization_the_complete_finops/)
+2026-10-08 · u/arimbr · Blog/Article · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1x0tpne/bigquery_cost_optimization_the_complete_finops/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-framework>
 
 
 **Mod comment** (u/datagovernance-ModTeam): r/datagovernance follows platform-wide Reddit Rules - nothing to with data governance ?
 
+<a id="post-7"></a>
+
 ### 7. A common language for Data Products, Data Assets, Information Assets and Datasets – Microsoft Purview
 
-2026-10-08 · u/Amddiffynnydd · Blog/Article · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1x0l0o9/a_common_language_for_data_products_data_assets/)
+2026-10-08 · u/Amddiffynnydd · Blog/Article · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1x0l0o9/a_common_language_for_data_products_data_assets/) · [↑ back to the list](#last-50-posts)
 
 > One of the recurring problems I encounter when implementing data governance isn't necessarily the technology. It's the terminology.
 >
@@ -243,41 +257,53 @@ Link: <https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-
 >
 > I'm particularly interested in hearing where these definitions align with, or differ from, other governance frameworks and real-world implementations.
 
+<a id="post-8"></a>
+
 ### 8. Back from a data & AI leaders summit: most mid-market "AI governance" wouldn't survive a regulator's request
 
-2026-10-03 · u/datasleek · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wx14b6/back_from_a_data_ai_leaders_summit_most_midmarket/)
+2026-10-03 · u/datasleek · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wx14b6/back_from_a_data_ai_leaders_summit_most_midmarket/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/AIgovernance/comments/1wx141f/back_from_a_data_ai_leaders_summit_most_midmarket/>
 
 
+<a id="post-9"></a>
+
 ### 9. I Built Control Models for Crystals. Then I Recognized Them on My Phone.
 
-2026-10-02 · u/\[deleted\] · Blog/Article · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wvu08l/i_built_control_models_for_crystals_then_i/)
+2026-10-02 · u/\[deleted\] · Blog/Article · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wvu08l/i_built_control_models_for_crystals_then_i/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-10"></a>
 
 ### 10. People with “Data Governance Analyst/Specialist/Manager, etc” titles , what’s your day to day like?
 
-2026-09-16 · u/Correct_Dog1611 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wi9fpa/people_with_data_governance/)
+2026-09-16 · u/Correct_Dog1611 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wi9fpa/people_with_data_governance/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Auto-curating Business Terms for 120k columns using LLMs — Opus worked for CDE/PII, but stuck at 20% yield for Business Terms. What am I missing?
 
-2026-09-16 · u/Kal-EL007 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1whv8vz/autocurating_business_terms_for_120k_columns/)
+2026-09-16 · u/Kal-EL007 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1whv8vz/autocurating_business_terms_for_120k_columns/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/AI_Governance/comments/1whv5ku/autocurating_business_terms_for_120k_columns/>
 
 
+<a id="post-12"></a>
+
 ### 12. Is the data catalog finally dead?
 
-2026-09-16 · u/Berserk_l_ · Blog/Article · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1whplij/is_the_data_catalog_finally_dead/)
+2026-09-16 · u/Berserk_l_ · Blog/Article · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1whplij/is_the_data_catalog_finally_dead/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Is the data catalog finally dead?
 
-2026-09-15 · u/growth_man · Blog/Article · score 2 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wh5kz5/is_the_data_catalog_finally_dead/)
+2026-09-15 · u/growth_man · Blog/Article · score 2 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wh5kz5/is_the_data_catalog_finally_dead/) · [↑ back to the list](#last-50-posts)
 
 > RIP data catalogs!   
 >
@@ -295,9 +321,11 @@ Link: </r/AI_Governance/comments/1whv5ku/autocurating_business_terms_for_120k_co
 >
 > That's a completely different thing to measure. And honestly, most teams can't yet.
 
+<a id="post-14"></a>
+
 ### 14. Metadata and Metamodel - How to stop people reacting to these words?
 
-2026-09-10 · u/Amddiffynnydd · Discussion · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wclozk/metadata_and_metamodel_how_to_stop_people/)
+2026-09-10 · u/Amddiffynnydd · Discussion · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1wclozk/metadata_and_metamodel_how_to_stop_people/) · [↑ back to the list](#last-50-posts)
 
 > Don’t worry about the word “metadata” — it simply means information about the data. For example, who owns it, where it is stored, and what the data is about are all metadata.  
 >
@@ -316,9 +344,11 @@ Link: </r/AI_Governance/comments/1whv5ku/autocurating_business_terms_for_120k_co
 >
 > How can we stop stakeholders from overreacting to these "words"?
 
+<a id="post-15"></a>
+
 ### 15. How I model Microsoft Purview Unified Catalog and Data Map within an Enterprise Data Catalogue
 
-2026-09-05 · u/Amddiffynnydd · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1w7vk4s/how_i_model_microsoft_purview_unified_catalog_and/)
+2026-09-05 · u/Amddiffynnydd · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1w7vk4s/how_i_model_microsoft_purview_unified_catalog_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/u34v28ow2onh1.png>
 
@@ -407,16 +437,20 @@ Link: <https://i.redd.it/u34v28ow2onh1.png>
 >
 > Are you treating Purview itself as your Enterprise Data Catalogue, or as one component within a broader EDC architecture?
 
+<a id="post-16"></a>
+
 ### 16. Microsoft Purview Unified Catalog: Governance Domains and Glossary Terms – Does This Model Work?
 
-2026-08-17 · u/DataSkyLabStudio · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1vqvv91/microsoft_purview_unified_catalog_governance/)
+2026-08-17 · u/DataSkyLabStudio · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1vqvv91/microsoft_purview_unified_catalog_governance/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_governance/>
 
 
+<a id="post-17"></a>
+
 ### 17. New to r/datagovernance? Start here: What is Data Governance?
 
-2026-08-17 · u/Amddiffynnydd · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1vqpbdy/new_to_rdatagovernance_start_here_what_is_data/)
+2026-08-17 · u/Amddiffynnydd · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/1vqpbdy/new_to_rdatagovernance_start_here_what_is_data/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to r/datagovernance.
 >
@@ -499,9 +533,11 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > What does **Data Governance** mean in your organisation?
 
+<a id="post-18"></a>
+
 ### 18. Happy Cakeday, r/datagovernance! Today you're 9
 
-2022-12-01 · u/AutoModerator · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/z9lmnl/happy_cakeday_rdatagovernance_today_youre_9/)
+2022-12-01 · u/AutoModerator · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/z9lmnl/happy_cakeday_rdatagovernance_today_youre_9/) · [↑ back to the list](#last-50-posts)
 
 > Let's look back at some memorable moments and interesting insights from last year.
 >
@@ -509,9 +545,11 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > * "[Happy Cakeday, r/datagovernance! Today you're 8](https://www.reddit.com/r/datagovernance/comments/r6cssq)" by [u/AutoModerator](https://www.reddit.com/user/AutoModerator)
 
+<a id="post-19"></a>
+
 ### 19. Happy Cakeday, r/datagovernance! Today you're 8
 
-2021-12-01 · u/AutoModerator · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/r6cssq/happy_cakeday_rdatagovernance_today_youre_8/)
+2021-12-01 · u/AutoModerator · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/r6cssq/happy_cakeday_rdatagovernance_today_youre_8/) · [↑ back to the list](#last-50-posts)
 
 > Let's look back at some memorable moments and interesting insights from last year.
 >
@@ -519,9 +557,11 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > * "[Happy Cakeday, r/datagovernance! Today you're 7](https://www.reddit.com/r/datagovernance/comments/k4it34)" by [u/AutoModerator](https://www.reddit.com/user/AutoModerator)
 
+<a id="post-20"></a>
+
 ### 20. Happy Cakeday, r/datagovernance! Today you're 7
 
-2020-12-01 · u/AutoModerator · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/k4it34/happy_cakeday_rdatagovernance_today_youre_7/)
+2020-12-01 · u/AutoModerator · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/k4it34/happy_cakeday_rdatagovernance_today_youre_7/) · [↑ back to the list](#last-50-posts)
 
 > Let's look back at some memorable moments and interesting insights from last year.
 >
@@ -536,9 +576,11 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 > * "[Looking for websites/software to help organize Alumni information -> must be free](https://www.reddit.com/r/datagovernance/comments/f5w65p)" by [u/Kaydotkay1211](https://www.reddit.com/user/Kaydotkay1211)
 > * "[Big Data Security: Tapping into the power of Big Data](https://www.reddit.com/r/datagovernance/comments/e5hava)" by [u/thumbsdrivesmecrazy](https://www.reddit.com/user/thumbsdrivesmecrazy)
 
+<a id="post-21"></a>
+
 ### 21. Looking for first client in need of data catalog and data glossary
 
-2020-04-20 · u/martinknap · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/g53vw7/looking_for_first_client_in_need_of_data_catalog/)
+2020-04-20 · u/martinknap · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/g53vw7/looking_for_first_client_in_need_of_data_catalog/) · [↑ back to the list](#last-50-posts)
 
 > I am looking for a client that would need data catalog solution and data glossary being tailor made for specified requirements with consultation included.
 >
@@ -550,15 +592,19 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > Cheers!
 
+<a id="post-22"></a>
+
 ### 22. \[Webinar\] How are top data teams making the move to remote?
 
-2020-04-20 · u/ReasonablyHank · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/g4uo52/webinar_how_are_top_data_teams_making_the_move_to/)
+2020-04-20 · u/ReasonablyHank · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/g4uo52/webinar_how_are_top_data_teams_making_the_move_to/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. Data governance: retention policies
 
-2020-04-04 · u/trt234 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fuljdk/data_governance_retention_policies/)
+2020-04-04 · u/trt234 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fuljdk/data_governance_retention_policies/) · [↑ back to the list](#last-50-posts)
 
 > Hello Reddit !
 >
@@ -574,9 +620,11 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > Thanks !
 
+<a id="post-24"></a>
+
 ### 24. History
 
-2020-04-02 · u/davidrodcarv · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ftpcs3/history/)
+2020-04-02 · u/davidrodcarv · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ftpcs3/history/) · [↑ back to the list](#last-50-posts)
 
 > Hey, 
 >
@@ -584,80 +632,104 @@ Link: </r/MicrosoftPurview/comments/1vqpkmw/microsoft_purview_unified_catalog_go
 >
 > Thanks.
 
+<a id="post-25"></a>
+
 ### 25. 4 Tips for Remote Data Teams to Improve Productivity
 
-2020-04-02 · u/Nowayzilch · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ftofun/4_tips_for_remote_data_teams_to_improve/)
+2020-04-02 · u/Nowayzilch · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ftofun/4_tips_for_remote_data_teams_to_improve/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://humansofdata.atlan.com/2020/03/remote-data-teams/>
 
 
+<a id="post-26"></a>
+
 ### 26. Use Data Governance Tools by EnterWorks
 
-2020-03-30 · u/epromotionz · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/frpl5f/use_data_governance_tools_by_enterworks/)
+2020-03-30 · u/epromotionz · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/frpl5f/use_data_governance_tools_by_enterworks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.adpost.com/us/business_products_services/746392/?session_key=f4c31bc5d8d7879367eab8bc56e847e0>
 
 
+<a id="post-27"></a>
+
 ### 27. Diagnosing Data Quality Issues
 
-2020-03-26 · u/livingdeadgrrl · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fp7rhp/diagnosing_data_quality_issues/)
+2020-03-26 · u/livingdeadgrrl · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fp7rhp/diagnosing_data_quality_issues/) · [↑ back to the list](#last-50-posts)
 
 > Here's an article I wrote on Medium regarding the approach and sorts of questions I used to diagnose  and documenting Data Quality Issues during my 20-year career in healthcare: [Easy, Not Simple: Diagnosing Data Quality Issues](https://medium.com/data-lorax/diagnosing-data-quality-issues-bc5440592247)
 
+<a id="post-28"></a>
+
 ### 28. Data Teams Going "Remote" - Challenges, Learnings & Observations
 
-2020-03-25 · u/2121varuag · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fopss9/data_teams_going_remote_challenges_learnings/)
+2020-03-25 · u/2121varuag · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/fopss9/data_teams_going_remote_challenges_learnings/) · [↑ back to the list](#last-50-posts)
 
 > Folks, how are you and your data teams impacted in the current situation? Has the "remote" transition been easy? While my team is working hard with IT/admin to resolve their access issues to make remote work bearable, I was wondering if you had any useful tips, challenges you faced or learnings you'd like to share?
 
+<a id="post-29"></a>
+
 ### 29. Looking for websites/software to help organize Alumni information -> must be free
 
-2020-02-18 · u/Kaydotkay1211 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/f5w65p/looking_for_websitessoftware_to_help_organize/)
+2020-02-18 · u/Kaydotkay1211 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/f5w65p/looking_for_websitessoftware_to_help_organize/) · [↑ back to the list](#last-50-posts)
 
 > Basically looking for what the title says, I only have one so far, which is Initium (it verifies addresses). Some other websites that I've found but aren't free (they only give you a free trial) are: Experian, Almabase, Imodules, Donordirect. I'm not sure this is the best subreddit to look in but they all have to do with data governance and the management of data. It could also just be a website/software/program that organizes dates, money, names etc. Also, this is kinda specific but if there's also a software that can determine outliers that'd be cool too. Thank you.
 
+<a id="post-30"></a>
+
 ### 30. Data Governance Software Solutions
 
-2020-02-05 · u/Andersonjoy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ez5lwu/data_governance_software_solutions/)
+2020-02-05 · u/Andersonjoy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ez5lwu/data_governance_software_solutions/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.graymatter.co.in/data-governance-mdm/>
 
 
+<a id="post-31"></a>
+
 ### 31. Use EnterWorks Enable Data Governance Tools
 
-2020-01-28 · u/epromotionz · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ev48ru/use_enterworks_enable_data_governance_tools/)
+2020-01-28 · u/epromotionz · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/ev48ru/use_enterworks_enable_data_governance_tools/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.adpost.com/us/business_products_services/735309/?session_key=0624116346bba0c142561ced80eb240d>
 
 
+<a id="post-32"></a>
+
 ### 32. Big Data Security: Tapping into the power of Big Data
 
-2019-12-03 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/e5hava/big_data_security_tapping_into_the_power_of_big/)
+2019-12-03 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/e5hava/big_data_security_tapping_into_the_power_of_big/) · [↑ back to the list](#last-50-posts)
 
 > The global big data security market has been characterized by the presence of many global, regional, and local vendors. The market is highly competitive with the players competing to gain market share. Intense competition, rapid advances in technology, and frequent changes in government policies are key factors that determine the market growth. It is crucial for the vendors to provide advanced technology and value-added services in big data security industry, to survive and succeed in an intensely competitive market environment: [Big Data Security Tapping Into the Power of Big Data](https://www.reportlinker.com/insight/big-data-security-tapping-power-big-data.html)
 
+<a id="post-33"></a>
+
 ### 33. Data Governance Problems?
 
-2019-11-13 · u/\[deleted\] · score 6 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dvz99r/data_governance_problems/)
+2019-11-13 · u/\[deleted\] · score 6 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dvz99r/data_governance_problems/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-34"></a>
+
 ### 34. Use EnterWorks Enable Data Governance MDM Tools
 
-2019-11-11 · u/epromotionz · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dure6x/use_enterworks_enable_data_governance_mdm_tools/)
+2019-11-11 · u/epromotionz · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dure6x/use_enterworks_enable_data_governance_mdm_tools/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.adpost.com/us/business_products_services/720243/?session_key=09b32e776881c8ce7e35e505d9f5d15c>
 
 
+<a id="post-35"></a>
+
 ### 35. Leveraging The Power Of Information To Create Competitive Advantages
 
-2019-11-08 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dtbbd1/leveraging_the_power_of_information_to_create/)
+2019-11-08 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dtbbd1/leveraging_the_power_of_information_to_create/) · [↑ back to the list](#last-50-posts)
 
 > Productivity data comes from a set of traditional computing platforms such as PCs, servers, phones, and tablets. Embedded data, on the other hand, comes from a broad variety of device types. the average rate per capita of data-driven interactions per day is expected to increase 20-fold in the next 10 years as our homes, workplaces, appliances, vehicles, wearables, and implants become data enabled: [Don’t Let Data Collect Digital Dust: Leverage The Power Of Information To Create Competitive Advantages](https://blog.panoply.io/dont-let-data-collect-digital-dust) (full article)
 
+<a id="post-36"></a>
+
 ### 36. 5 Data Preparation Tools vs Automated Data Management Platform - Overview
 
-2019-11-06 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dsb3az/5_data_preparation_tools_vs_automated_data/)
+2019-11-06 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dsb3az/5_data_preparation_tools_vs_automated_data/) · [↑ back to the list](#last-50-posts)
 
 > Data preparation, part of the data management process, involves collecting raw data from multiple sources and consolidating it into a file or database for analysis. Data preparation is an initial step in data warehousing, data mining, and machine learning projects.
 >
@@ -670,23 +742,29 @@ Link: <https://www.adpost.com/us/business_products_services/720243/?session_key=
 >
 > Full article: [5 Data Preparation Tools & 1 Automated Data Platform](https://blog.panoply.io/5-data-preparation-tools-1-automated-data-platform)
 
+<a id="post-37"></a>
+
 ### 37. Why New-Age Business Enterprises Cannot Ignore Data Governance MDM?
 
-2019-11-04 · u/epromotionz · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/drgsid/why_newage_business_enterprises_cannot_ignore/)
+2019-11-04 · u/epromotionz · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/drgsid/why_newage_business_enterprises_cannot_ignore/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://insightsondatagovernancetools.blogspot.com/2019/11/why-new-age-business-enterprises-cannot.html>
 
 
+<a id="post-38"></a>
+
 ### 38. Danny Gilligan on Building a Good Data Republic
 
-2019-10-31 · u/indvstrvs · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dpo4z7/danny_gilligan_on_building_a_good_data_republic/)
+2019-10-31 · u/indvstrvs · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dpo4z7/danny_gilligan_on_building_a_good_data_republic/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://indvstrvs.com/danny-gilligan-on-building-a-good-data-republic/>
 
 
+<a id="post-39"></a>
+
 ### 39. Data Mart and Data Warehouse Comparison
 
-2019-10-31 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dphwsq/data_mart_and_data_warehouse_comparison/)
+2019-10-31 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dphwsq/data_mart_and_data_warehouse_comparison/) · [↑ back to the list](#last-50-posts)
 
 > Data marts can guide tactical decisions at a departmental level while data warehouses guide high-level strategic business decisions by providing a consolidated view of all organizational data.
 >
@@ -694,9 +772,11 @@ Link: <https://indvstrvs.com/danny-gilligan-on-building-a-good-data-republic/>
 >
 > However, cloud-based data warehouse services have made data warehouses much easier and quicker to set up and run: [Data Mart and Data Warehouse Comparison](https://panoply.io/data-warehouse-guide/data-mart-vs-data-warehouse/)
 
+<a id="post-40"></a>
+
 ### 40. 5 Opportunities To Scale Your Business With Data
 
-2019-10-30 · u/cmstrump · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dp2ztp/5_opportunities_to_scale_your_business_with_data/)
+2019-10-30 · u/cmstrump · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dp2ztp/5_opportunities_to_scale_your_business_with_data/) · [↑ back to the list](#last-50-posts)
 
 > Using your company’s data is imperative to understanding how to scale, and at what pace. The following overview looks at ways that data can be leveraged for business scaling and explains 5 ways on how to tap your data to do it successfully: [5 Opportunities To Scale Your Business With Data](https://blog.panoply.io/5-tips-on-leveraging-your-data-to-scale-your-business)
 >
@@ -706,9 +786,11 @@ Link: <https://indvstrvs.com/danny-gilligan-on-building-a-good-data-republic/>
 > * Streamline
 > * Achieve Personalization at Scale
 
+<a id="post-41"></a>
+
 ### 41. Connecting To Data Warehouses In Tableau - Tutorial
 
-2019-10-21 · u/thumbsdrivesmecrazy · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dkubd0/connecting_to_data_warehouses_in_tableau_tutorial/)
+2019-10-21 · u/thumbsdrivesmecrazy · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dkubd0/connecting_to_data_warehouses_in_tableau_tutorial/) · [↑ back to the list](#last-50-posts)
 
 > Tableau uses the direct access functionality in data warehouses. The user can create a data extract of the visualization, or they can create a live connection. The tool has the functionality to connect to multiple data warehouses so that the developer can stack data throughout their visualization. Six of the most utilized Tableau data warehouse connections are:
 >
@@ -721,21 +803,27 @@ Link: <https://indvstrvs.com/danny-gilligan-on-building-a-good-data-republic/>
 >
 > See the following tutorial for tips on implementing each of these connections: [Connecting To Data Warehouses In Tableau](https://blog.panoply.io/connect-to-data-warehouses-in-tableau)
 
+<a id="post-42"></a>
+
 ### 42. Data Governance Market Set to witness upstick from 2019 to 2023 at 22% CAGR
 
-2019-10-18 · u/siddharthmnm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/djktvz/data_governance_market_set_to_witness_upstick/)
+2019-10-18 · u/siddharthmnm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/djktvz/data_governance_market_set_to_witness_upstick/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. Data Governance Market by Application, Solution & Services - 2023
 
-2019-10-16 · u/siddharthmnm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dimm98/data_governance_market_by_application_solution/)
+2019-10-16 · u/siddharthmnm · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dimm98/data_governance_market_by_application_solution/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. Data Warehouse Applications For Business Analysis And Reporting
 
-2019-10-16 · u/cmstrump · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/diji5x/data_warehouse_applications_for_business_analysis/)
+2019-10-16 · u/cmstrump · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/diji5x/data_warehouse_applications_for_business_analysis/) · [↑ back to the list](#last-50-posts)
 
 > Coupled with solutions around data analytics and big data processing, data warehousing allow businesses gather, quantify, and actually analyze its information and take its information to an entirely new level by helping you create data visualization to make better decisions around your business and the market.
 >
@@ -743,45 +831,57 @@ Link: <https://indvstrvs.com/danny-gilligan-on-building-a-good-data-republic/>
 >
 > Unlike databases and other systems which simply ‘store’ data, data warehousing takes an entirely different approach, it normally use a denormalized data structure, which uses fewer tables because it groups data and doesn’t exclude data redundancies. Denormalization offers better performance when reading data for analytical purposes. On that note, data warehouses are used for business analysis, data and market analytics, and business reporting. Data warehouses typically store historical data by integrating copies of transaction data from disparate sources and can also use real-time data feeds for reports that use the most current, integrated information.
 
+<a id="post-45"></a>
+
 ### 45. Dealing With Data: Key Data Warehouse Trends For 2019
 
-2019-10-15 · u/thumbsdrivesmecrazy · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/di1tio/dealing_with_data_key_data_warehouse_trends_for/)
+2019-10-15 · u/thumbsdrivesmecrazy · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/di1tio/dealing_with_data_key_data_warehouse_trends_for/) · [↑ back to the list](#last-50-posts)
 
 > The future is a much more automated, cloud-based data warehouse. Automation accelerates routine tasks and reduces the repetitive, manual efforts associated with each step of a data warehouse lifecycle. Increasingly, data will need to be instantly available whenever and wherever anyone needs it. Industries around the world are undergoing “digital transformation” motivated by these requirements. Working with a good data warehousing system is a means to develop and deploy around these BI tools: [Dealing With Data: Key Data Warehouse Trends For 2019](https://blog.panoply.io/dealing-with-data-key-data-warehouse-trends-for-2019)
 
+<a id="post-46"></a>
+
 ### 46. MySQL data warehousing and analytics: specific drawbacks and disadvantages
 
-2019-10-14 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dhk4vw/mysql_data_warehousing_and_analytics_specific/)
+2019-10-14 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dhk4vw/mysql_data_warehousing_and_analytics_specific/) · [↑ back to the list](#last-50-posts)
 
 > The following overview looks at how MySQL performs on analytics tasks, and whether it’s the best choice for a data warehousing project, and shows why dedicated data warehouses are better than MySQL databases when it comes to analysis: [MySQL As A Data Warehouse: Is It Really Your Best Option?](https://blog.panoply.io/mysql-as-a-data-warehouse-is-it-really-your-best-option)
 >
 > MySQL still lacks some specific functionalities that make analysis easier in other versions of SQL (e.g. Postgres). One such limitation is that MySQL does not allow the user to create table views that incorporate subqueries.
 
+<a id="post-47"></a>
+
 ### 47. ETL Software And Data Warehousing As Foundation For Modern Analytics
 
-2019-10-08 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/deuewf/etl_software_and_data_warehousing_as_foundation/)
+2019-10-08 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/deuewf/etl_software_and_data_warehousing_as_foundation/) · [↑ back to the list](#last-50-posts)
 
 > Modern analytics takes a data-oriented approach to business decision making, and uses BI tools to help make sense of the data. ETL software and data warehouses form the bedrock of an effective, data-driven decision making policy: [Why ETL Software And Data Warehousing Are Foundational To Modern Analytics](https://blog.panoply.io/why-etl-software-and-data-warehousing-are-foundational-to-modern-analytics)
 
+<a id="post-48"></a>
+
 ### 48. Data Architecture: People, Process And Technology (Overview)
 
-2019-10-07 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dedx58/data_architecture_people_process_and_technology/)
+2019-10-07 · u/thumbsdrivesmecrazy · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dedx58/data_architecture_people_process_and_technology/) · [↑ back to the list](#last-50-posts)
 
 > In recent years data pipelines have become increasingly agile, flexible and automatic. Organizations used to spend months building rigid processes to extract data from sources, transform it into specific formats and load it into repositories. Today the same types of processes can be achieved in hours using automated cloud-based tools.
 >
 > Automation is having a huge impact on data architectures, because they allow data architects extreme flexibility in determining what is right for the organization right now: [Data Architecture:  People, Process And Technology](https://blog.panoply.io/data-architecture-people-process-and-technology)
 
+<a id="post-49"></a>
+
 ### 49. How A Data Warehouse Can Make Data Mining Easier And More Efficient
 
-2019-10-04 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dd0ayt/how_a_data_warehouse_can_make_data_mining_easier/)
+2019-10-04 · u/thumbsdrivesmecrazy · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/dd0ayt/how_a_data_warehouse_can_make_data_mining_easier/) · [↑ back to the list](#last-50-posts)
 
 > Data mining is the process of deriving business insights from large or complex data sets, while data warehouses are typically the storage and processing infrastructure used for data mining.
 >
 > This blog post explains how the data mining process works and the benefits of how an automated data warehouse make data mining easier: [How Your Data Warehouse Can Make Data Mining Easier And More Efficient](https://blog.panoply.io/how-your-data-warehouse-can-make-data-mining-easier-and-more-efficient)
 
+<a id="post-50"></a>
+
 ### 50. What is a good data catalog software for a medium size business?
 
-2019-09-27 · u/acceptedcitizen · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/da5680/what_is_a_good_data_catalog_software_for_a_medium/)
+2019-09-27 · u/acceptedcitizen · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datagovernance/comments/da5680/what_is_a_good_data_catalog_software_for_a_medium/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 

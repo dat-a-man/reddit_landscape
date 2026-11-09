@@ -125,4 +125,4 @@ Step 4 has an LLM judge each subreddit on eight fields. What this run collected 
 
 ## Data
 
-78 subreddits, 36,785 posts, 65.1 MB of raw JSON in `data/raw/2026-11-09/`. Rebuild with `python scripts/landscape/build_landscape.py`; after filling weekly visitors, add `--render-only`.
+78 subreddits, 36,785 posts, 63.9 MB of raw JSON in `data/raw/2026-11-09/`. Rebuild with `python scripts/landscape/build_landscape.py`; after filling weekly visitors, add `--render-only`.

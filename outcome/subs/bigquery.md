@@ -33,56 +33,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [This LEFT JOIN returns Ann twice. Where did Bob and Cat go?](https://www.reddit.com/r/bigquery/comments/1xpmxqo/this_left_join_returns_ann_twice_where_did_bob/) | u/Awkward-Meeting790 | — | text | 0 | 9 | live | — |
-| 2 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/bigquery/comments/1xow4u9/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
-| 3 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/bigquery/comments/1xou5vt/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
-| 4 | 2026-11-03 | [BQ tables region migration.](https://www.reddit.com/r/bigquery/comments/1xmtrco/bq_tables_region_migration/) | u/PlaneShoe2872 | — | text | 3 | 7 | live | — |
-| 5 | 2026-11-02 | [BigQuery Release Roundup: October 2026](https://www.reddit.com/r/bigquery/comments/1xm5fri/bigquery_release_roundup_october_2026/) | u/JeffNe | — | text | 13 | 5 | live | — |
-| 6 | 2026-11-02 | [What SQL operations are still stupidly expensive even with modern query optimizers?](https://www.reddit.com/r/bigquery/comments/1xm1age/what_sql_operations_are_still_stupidly_expensive/) | u/Dizzy-Ingenuity-6815 | — | reddit.com | 1 | 0 | spam-filtered | — |
-| 7 | 2026-11-02 | [Reprocessing BigQuery at Scale: The Hidden Failure Modes of Incremental dbt Pipelines](https://www.reddit.com/r/bigquery/comments/1xluo7w/reprocessing_bigquery_at_scale_the_hidden_failure/) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live | — |
-| 8 | 2026-11-02 | [A report ran about 10 times a month and caused deadlocks. Lessons from the fix.](https://www.reddit.com/r/bigquery/comments/1xlq3pi/a_report_ran_about_10_times_a_month_and_caused/) | u/markinatlanta | — | reddit.com | 1 | 0 | removed by mod | — |
-| 9 | 2026-10-31 | [A short book on the BigQuery patterns that cuts bill significantly](https://www.reddit.com/r/bigquery/comments/1xk3ey4/a_short_book_on_the_bigquery_patterns_that_cuts/) | u/IndividualWin9436 | — | text | 11 | 1 | live | — |
-| 10 | 2026-10-30 | [GCP updates from this week that cut your bill](https://www.reddit.com/r/bigquery/comments/1xjbjaa/gcp_updates_from_this_week_that_cut_your_bill/) | u/MrCashMahon | — | reddit.com | 4 | 0 | live | — |
-| 11 | 2026-10-28 | [Hiring - L1 Production Support Engineer](https://www.reddit.com/r/bigquery/comments/1xhia7i/hiring_l1_production_support_engineer/) | u/Rude_Ad_4320 | — | text | 0 | 0 | live | — |
-| 12 | 2026-10-24 | [BQ Optimisation](https://www.reddit.com/r/bigquery/comments/1xe3pts/bq_optimisation/) | u/sdhaniwar | — | youtube.com | 0 | 1 | live | — |
-| 13 | 2026-10-22 | [Google BigQuery MCP](https://www.reddit.com/r/bigquery/comments/1xcqpmr/google_bigquery_mcp/) | u/querylabio | — | text | 0 | 10 | live | — |
-| 14 | 2026-10-21 | [🔍 Not So BigQuery #300 is out - my free weekly newsletter about BigQuery and other data-related GCP news!](https://www.reddit.com/r/bigquery/comments/1xbqpwi/not_so_bigquery_300_is_out_my_free_weekly/) | u/TGEL0 | — | app.mailbrew.com | 7 | 0 | live | — |
-| 15 | 2026-10-20 | [I got tired of paying for warehouse compute just to debug a model, so I started building a local BigQuery emu…](https://www.reddit.com/r/bigquery/comments/1xb4abp/i_got_tired_of_paying_for_warehouse_compute_just/) | u/Willing_Exchange6299 | — | text | 12 | 11 | live | — |
-| 16 | 2026-10-20 | [new fields in the source letting my views fail](https://www.reddit.com/r/bigquery/comments/1xambfu/new_fields_in_the_source_letting_my_views_fail/) | u/NHN_BI | — | text | 2 | 4 | live | — |
-| 17 | 2026-10-15 | [I analyzed 27k BigQuery jobs to find what actually drives the bill. 68% of it was one query pattern.](https://www.reddit.com/r/bigquery/comments/1x703ml/i_analyzed_27k_bigquery_jobs_to_find_what/) | u/vinteralex24 | — | text | 1 | 21 | live | — |
-| 18 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](https://www.reddit.com/r/bigquery/comments/1x50ja4/we_tried_bigquerys_new_property_graph/) | u/Thinker_Assignment | — | i.redd.it | 1 | 3 | live | — |
-| 19 | 2026-10-09 | [Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)](https://www.reddit.com/r/bigquery/comments/1x1giuz/making_sense_of_bigquery_pricing_models_ondemand/) | u/graup | — | alvin.ai | 9 | 2 | live | — |
-| 20 | 2026-10-09 | [What's the most annoying thing you've dealt with in an ETL pipeline ?](https://www.reddit.com/r/bigquery/comments/1x1fufn/whats_the_most_annoying_thing_youve_dealt_with_in/) | u/Square-Designer7807 | — | — | 2 | 0 | removed by mod | — |
-| 21 | 2026-10-05 | [September 2026 - BigQuery Feature Summary](https://www.reddit.com/r/bigquery/comments/1wyb22b/september_2026_bigquery_feature_summary/) | u/Why_Engineer_In_Data | — | text | 8 | 0 | live | — |
-| 22 | 2026-10-05 | [MySQL to Bigquery - Cheapest alternate](https://www.reddit.com/r/bigquery/comments/1wy4poh/mysql_to_bigquery_cheapest_alternate/) | u/aaina_quayen | — | text | 0 | 0 | spam-filtered | — |
-| 23 | 2026-10-01 | [Open source conversational analytics tool for BigQuery?](https://www.reddit.com/r/bigquery/comments/1wve2n7/open_source_conversational_analytics_tool_for/) | u/1glasspaani | — | text | 9 | 15 | live | — |
-| 24 | 2026-09-30 | [Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first produc…](https://www.reddit.com/r/bigquery/comments/1wtwh33/replaced_a_weekly_full_reload_mysql_bigquery_with/) | u/Mundane_Let_8090 | — | text | 1 | 0 | deleted by author | — |
-| 25 | 2026-09-29 | [Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first produc…](https://www.reddit.com/r/bigquery/comments/1wthxmi/replaced_a_weekly_full_reload_mysql_bigquery_with/) | u/Mundane_Let_8090 | — | — | 1 | 0 | live | — |
-| 26 | 2026-09-28 | [Data Agent A2A](https://www.reddit.com/r/bigquery/comments/1wsnvxs/data_agent_a2a/) | u/ims3raph | — | text | 5 | 1 | live | — |
-| 27 | 2026-09-27 | [Data Lakehouse Architecture Guide](https://www.reddit.com/r/bigquery/comments/1wrfq8k/data_lakehouse_architecture_guide/) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
-| 28 | 2026-09-25 | [BigQuery Graph as a semantic layer](https://www.reddit.com/r/bigquery/comments/1wpv67c/bigquery_graph_as_a_semantic_layer/) | u/Electronic_Web7321 | — | youtube.com | 1 | 0 | spam-filtered | — |
-| 29 | 2026-09-24 | [BigQuery Cost Optimization Framework](https://www.reddit.com/r/bigquery/comments/1wp3lcb/bigquery_cost_optimization_framework/) | u/arimbr | — | i.redd.it | 3 | 3 | live | — |
-| 30 | 2026-09-24 | [Apache Iceberg Query Optimization: Production Guide](https://www.reddit.com/r/bigquery/comments/1wp03qv/apache_iceberg_query_optimization_production_guide/) | u/codingdecently | — | dev.to | 1 | 0 | spam-filtered | — |
-| 31 | 2026-09-21 | [The BigQuery Join Problem Nobody Notices Until the Data Gets Big](https://www.reddit.com/r/bigquery/comments/1wmbs1m/the_bigquery_join_problem_nobody_notices_until/) | u/Expensive-Insect-317 | — | medium.com | 7 | 5 | live | — |
-| 32 | 2026-09-17 | [Apache Iceberg Maintenance Tools: From Spark Procedures to Autonomous Control Planes](https://www.reddit.com/r/bigquery/comments/1wirjfi/apache_iceberg_maintenance_tools_from_spark/) | u/codingdecently | — | dev.to | 1 | 0 | spam-filtered | — |
-| 33 | 2026-09-16 | [Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to y…](https://www.reddit.com/r/bigquery/comments/1wi5pig/help_shape_the_2026_data_connectivity_report_5/) | u/Ok-Data-Guy | — | text | 2 | 1 | spam-filtered | — |
-| 34 | 2026-09-14 | [how do you handle joining a source that shares no key with anything you already have?](https://www.reddit.com/r/bigquery/comments/1wgefkl/how_do_you_handle_joining_a_source_that_shares_no/) | u/donewitheverything26 | — | text | 6 | 6 | live | — |
-| 35 | 2026-09-10 | [Source schema changes are making our MySQL to BigQuery pipeline messy](https://www.reddit.com/r/bigquery/comments/1wcipem/source_schema_changes_are_making_our_mysql_to/) | u/syndy- | — | text | 8 | 9 | live | — |
-| 36 | 2026-09-10 | [Has anyone tried the Databricks AI/BI feature?](https://www.reddit.com/r/bigquery/comments/1wccrvg/has_anyone_tried_the_databricks_aibi_feature/) | u/Bhanuprakash_1947 | — | text | 3 | 3 | live | — |
-| 37 | 2026-09-09 | [Two visuals in the same Power BI report show different totals for the same dataset. What could be the possibl…](https://www.reddit.com/r/bigquery/comments/1wbfveq/two_visuals_in_the_same_power_bi_report_show/) | u/Apprehensive-Sand696 | — | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-09-08 | [Direct Lake Performance vs High Cardinality](https://www.reddit.com/r/bigquery/comments/1waqo7k/direct_lake_performance_vs_high_cardinality/) | u/bartoszmm | — | text | 0 | 1 | deleted by author | — |
-| 39 | 2026-09-07 | [How did you actually learn BigQuery/cloud SQL before landing a job?](https://www.reddit.com/r/bigquery/comments/1w9ycry/how_did_you_actually_learn_bigquerycloud_sql/) | u/Round_Opening_9943 | — | text | 6 | 4 | live | — |
-| 40 | 2026-09-07 | [What to expect in a BigQuery SQL interview?](https://www.reddit.com/r/bigquery/comments/1w9ya8v/what_to_expect_in_a_bigquery_sql_interview/) | u/Round_Opening_9943 | — | text | 3 | 3 | live | — |
-| 41 | 2026-09-07 | [BigQuery slot contention is often not a SQL problem.](https://www.reddit.com/r/bigquery/comments/1w9ovws/bigquery_slot_contention_is_often_not_a_sql/) | u/Expensive-Insect-317 | — | medium.com | 1 | 1 | live | — |
-| 42 | 2026-09-07 | [Why BigQuery does not support natively small integer and float dtypes?](https://www.reddit.com/r/bigquery/comments/1w9otkd/why_bigquery_does_not_support_natively_small/) | u/agamenagoras | — | text | 2 | 23 | live | — |
-| 43 | 2026-09-07 | [Is Manage Permission in Bigquery Broken](https://www.reddit.com/r/bigquery/comments/1w9fgqc/is_manage_permission_in_bigquery_broken/) | u/datapopcorn | — | text | 5 | 2 | live | — |
-| 44 | 2026-09-06 | [RFK Jr: "Google is a VACCINE COMPANY?!" (only 1 minute long)](https://www.reddit.com/r/bigquery/comments/1w979ya/rfk_jr_google_is_a_vaccine_company_only_1_minute/) | u/SidneyCanadas | — | text | 0 | 0 | spam-filtered | — |
-| 45 | 2026-09-04 | [People who have used Snowplow for event pipelines 👇](https://www.reddit.com/r/bigquery/comments/1w7kki7/people_who_have_used_snowplow_for_event_pipelines/) | u/PlentyManner1774 | — | — | 1 | 0 | spam-filtered | — |
-| 46 | 2026-09-03 | [Meta/Facebook Ads no BigQuery via DataTransfer](https://www.reddit.com/r/bigquery/comments/1w6insv/metafacebook_ads_no_bigquery_via_datatransfer/) | u/astrivyy | — | text | 3 | 0 | live | — |
-| 47 | 2026-09-02 | [August 2026 - BigQuery Feature Summary](https://www.reddit.com/r/bigquery/comments/1w5iao4/august_2026_bigquery_feature_summary/) | u/Why_Engineer_In_Data | — | text | 7 | 1 | live | — |
-| 48 | 2026-09-02 | [I made a small Chrome extension for viewing BigQuery query results](https://www.reddit.com/r/bigquery/comments/1w56ket/i_made_a_small_chrome_extension_for_viewing/) | u/Plastic_Structure_19 | — | text | 2 | 0 | live | — |
-| 49 | 2026-09-01 | [BigQuery's Iceberg REST Catalog (BigLake): how table discovery actually changed](https://www.reddit.com/r/bigquery/comments/1w43bms/bigquerys_iceberg_rest_catalog_biglake_how_table/) | u/urban-pro | — | text | 4 | 1 | live | — |
-| 50 | 2026-08-31 | [Apache Iceberg Performance Optimization: Queries to Tables](https://www.reddit.com/r/bigquery/comments/1w3gcds/apache_iceberg_performance_optimization_queries/) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
+| 1 | 2026-11-06 | [This LEFT JOIN returns Ann twice. Where did Bob and Cat go?](#post-1) | u/Awkward-Meeting790 | — | text | 0 | 9 | live | — |
+| 2 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-2) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
+| 3 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-3) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
+| 4 | 2026-11-03 | [BQ tables region migration.](#post-4) | u/PlaneShoe2872 | — | text | 3 | 7 | live | — |
+| 5 | 2026-11-02 | [BigQuery Release Roundup: October 2026](#post-5) | u/JeffNe | — | text | 13 | 5 | live | — |
+| 6 | 2026-11-02 | [What SQL operations are still stupidly expensive even with modern query optimizers?](#post-6) | u/Dizzy-Ingenuity-6815 | — | reddit.com | 1 | 0 | spam-filtered | — |
+| 7 | 2026-11-02 | [Reprocessing BigQuery at Scale: The Hidden Failure Modes of Incremental dbt Pipelines](#post-7) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live | — |
+| 8 | 2026-11-02 | [A report ran about 10 times a month and caused deadlocks. Lessons from the fix.](#post-8) | u/markinatlanta | — | reddit.com | 1 | 0 | removed by mod | — |
+| 9 | 2026-10-31 | [A short book on the BigQuery patterns that cuts bill significantly](#post-9) | u/IndividualWin9436 | — | text | 11 | 1 | live | — |
+| 10 | 2026-10-30 | [GCP updates from this week that cut your bill](#post-10) | u/MrCashMahon | — | reddit.com | 4 | 0 | live | — |
+| 11 | 2026-10-28 | [Hiring - L1 Production Support Engineer](#post-11) | u/Rude_Ad_4320 | — | text | 0 | 0 | live | — |
+| 12 | 2026-10-24 | [BQ Optimisation](#post-12) | u/sdhaniwar | — | youtube.com | 0 | 1 | live | — |
+| 13 | 2026-10-22 | [Google BigQuery MCP](#post-13) | u/querylabio | — | text | 0 | 10 | live | — |
+| 14 | 2026-10-21 | [🔍 Not So BigQuery #300 is out - my free weekly newsletter about BigQuery and other data-related GCP news!](#post-14) | u/TGEL0 | — | app.mailbrew.com | 7 | 0 | live | — |
+| 15 | 2026-10-20 | [I got tired of paying for warehouse compute just to debug a model, so I started building a local BigQuery emu…](#post-15) | u/Willing_Exchange6299 | — | text | 12 | 11 | live | — |
+| 16 | 2026-10-20 | [new fields in the source letting my views fail](#post-16) | u/NHN_BI | — | text | 2 | 4 | live | — |
+| 17 | 2026-10-15 | [I analyzed 27k BigQuery jobs to find what actually drives the bill. 68% of it was one query pattern.](#post-17) | u/vinteralex24 | — | text | 1 | 21 | live | — |
+| 18 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](#post-18) | u/Thinker_Assignment | — | i.redd.it | 1 | 3 | live | — |
+| 19 | 2026-10-09 | [Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)](#post-19) | u/graup | — | alvin.ai | 9 | 2 | live | — |
+| 20 | 2026-10-09 | [What's the most annoying thing you've dealt with in an ETL pipeline ?](#post-20) | u/Square-Designer7807 | — | — | 2 | 0 | removed by mod | — |
+| 21 | 2026-10-05 | [September 2026 - BigQuery Feature Summary](#post-21) | u/Why_Engineer_In_Data | — | text | 8 | 0 | live | — |
+| 22 | 2026-10-05 | [MySQL to Bigquery - Cheapest alternate](#post-22) | u/aaina_quayen | — | text | 0 | 0 | spam-filtered | — |
+| 23 | 2026-10-01 | [Open source conversational analytics tool for BigQuery?](#post-23) | u/1glasspaani | — | text | 9 | 15 | live | — |
+| 24 | 2026-09-30 | [Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first produc…](#post-24) | u/Mundane_Let_8090 | — | text | 1 | 0 | deleted by author | — |
+| 25 | 2026-09-29 | [Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first produc…](#post-25) | u/Mundane_Let_8090 | — | — | 1 | 0 | live | — |
+| 26 | 2026-09-28 | [Data Agent A2A](#post-26) | u/ims3raph | — | text | 5 | 1 | live | — |
+| 27 | 2026-09-27 | [Data Lakehouse Architecture Guide](#post-27) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
+| 28 | 2026-09-25 | [BigQuery Graph as a semantic layer](#post-28) | u/Electronic_Web7321 | — | youtube.com | 1 | 0 | spam-filtered | — |
+| 29 | 2026-09-24 | [BigQuery Cost Optimization Framework](#post-29) | u/arimbr | — | i.redd.it | 3 | 3 | live | — |
+| 30 | 2026-09-24 | [Apache Iceberg Query Optimization: Production Guide](#post-30) | u/codingdecently | — | dev.to | 1 | 0 | spam-filtered | — |
+| 31 | 2026-09-21 | [The BigQuery Join Problem Nobody Notices Until the Data Gets Big](#post-31) | u/Expensive-Insect-317 | — | medium.com | 7 | 5 | live | — |
+| 32 | 2026-09-17 | [Apache Iceberg Maintenance Tools: From Spark Procedures to Autonomous Control Planes](#post-32) | u/codingdecently | — | dev.to | 1 | 0 | spam-filtered | — |
+| 33 | 2026-09-16 | [Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to y…](#post-33) | u/Ok-Data-Guy | — | text | 2 | 1 | spam-filtered | — |
+| 34 | 2026-09-14 | [how do you handle joining a source that shares no key with anything you already have?](#post-34) | u/donewitheverything26 | — | text | 6 | 6 | live | — |
+| 35 | 2026-09-10 | [Source schema changes are making our MySQL to BigQuery pipeline messy](#post-35) | u/syndy- | — | text | 8 | 9 | live | — |
+| 36 | 2026-09-10 | [Has anyone tried the Databricks AI/BI feature?](#post-36) | u/Bhanuprakash_1947 | — | text | 3 | 3 | live | — |
+| 37 | 2026-09-09 | [Two visuals in the same Power BI report show different totals for the same dataset. What could be the possibl…](#post-37) | u/Apprehensive-Sand696 | — | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-09-08 | [Direct Lake Performance vs High Cardinality](#post-38) | u/bartoszmm | — | text | 0 | 1 | deleted by author | — |
+| 39 | 2026-09-07 | [How did you actually learn BigQuery/cloud SQL before landing a job?](#post-39) | u/Round_Opening_9943 | — | text | 6 | 4 | live | — |
+| 40 | 2026-09-07 | [What to expect in a BigQuery SQL interview?](#post-40) | u/Round_Opening_9943 | — | text | 3 | 3 | live | — |
+| 41 | 2026-09-07 | [BigQuery slot contention is often not a SQL problem.](#post-41) | u/Expensive-Insect-317 | — | medium.com | 1 | 1 | live | — |
+| 42 | 2026-09-07 | [Why BigQuery does not support natively small integer and float dtypes?](#post-42) | u/agamenagoras | — | text | 2 | 23 | live | — |
+| 43 | 2026-09-07 | [Is Manage Permission in Bigquery Broken](#post-43) | u/datapopcorn | — | text | 5 | 2 | live | — |
+| 44 | 2026-09-06 | [RFK Jr: "Google is a VACCINE COMPANY?!" (only 1 minute long)](#post-44) | u/SidneyCanadas | — | text | 0 | 0 | spam-filtered | — |
+| 45 | 2026-09-04 | [People who have used Snowplow for event pipelines 👇](#post-45) | u/PlentyManner1774 | — | — | 1 | 0 | spam-filtered | — |
+| 46 | 2026-09-03 | [Meta/Facebook Ads no BigQuery via DataTransfer](#post-46) | u/astrivyy | — | text | 3 | 0 | live | — |
+| 47 | 2026-09-02 | [August 2026 - BigQuery Feature Summary](#post-47) | u/Why_Engineer_In_Data | — | text | 7 | 1 | live | — |
+| 48 | 2026-09-02 | [I made a small Chrome extension for viewing BigQuery query results](#post-48) | u/Plastic_Structure_19 | — | text | 2 | 0 | live | — |
+| 49 | 2026-09-01 | [BigQuery's Iceberg REST Catalog (BigLake): how table discovery actually changed](#post-49) | u/urban-pro | — | text | 4 | 1 | live | — |
+| 50 | 2026-08-31 | [Apache Iceberg Performance Optimization: Queries to Tables](#post-50) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -90,28 +90,30 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 | 2026-11-02 | [BigQuery Release Roundup: October 2026](https://www.reddit.com/r/bigquery/comments/1xm5fri/bigquery_release_roundup_october_2026/) | u/JeffNe | — | text | 13 | 5 | live |
-| 15 | 2026-10-20 | [I got tired of paying for warehouse compute just to debug a model, so I started building a local BigQuery emu…](https://www.reddit.com/r/bigquery/comments/1xb4abp/i_got_tired_of_paying_for_warehouse_compute_just/) | u/Willing_Exchange6299 | — | text | 12 | 11 | live |
-| 9 | 2026-10-31 | [A short book on the BigQuery patterns that cuts bill significantly](https://www.reddit.com/r/bigquery/comments/1xk3ey4/a_short_book_on_the_bigquery_patterns_that_cuts/) | u/IndividualWin9436 | — | text | 11 | 1 | live |
-| 7 | 2026-11-02 | [Reprocessing BigQuery at Scale: The Hidden Failure Modes of Incremental dbt Pipelines](https://www.reddit.com/r/bigquery/comments/1xluo7w/reprocessing_bigquery_at_scale_the_hidden_failure/) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live |
-| 14 | 2026-10-21 | [🔍 Not So BigQuery #300 is out - my free weekly newsletter about BigQuery and other data-related GCP news!](https://www.reddit.com/r/bigquery/comments/1xbqpwi/not_so_bigquery_300_is_out_my_free_weekly/) | u/TGEL0 | — | app.mailbrew.com | 7 | 0 | live |
-| 10 | 2026-10-30 | [GCP updates from this week that cut your bill](https://www.reddit.com/r/bigquery/comments/1xjbjaa/gcp_updates_from_this_week_that_cut_your_bill/) | u/MrCashMahon | — | reddit.com | 4 | 0 | live |
-| 4 | 2026-11-03 | [BQ tables region migration.](https://www.reddit.com/r/bigquery/comments/1xmtrco/bq_tables_region_migration/) | u/PlaneShoe2872 | — | text | 3 | 7 | live |
-| 16 | 2026-10-20 | [new fields in the source letting my views fail](https://www.reddit.com/r/bigquery/comments/1xambfu/new_fields_in_the_source_letting_my_views_fail/) | u/NHN_BI | — | text | 2 | 4 | live |
-| 17 | 2026-10-15 | [I analyzed 27k BigQuery jobs to find what actually drives the bill. 68% of it was one query pattern.](https://www.reddit.com/r/bigquery/comments/1x703ml/i_analyzed_27k_bigquery_jobs_to_find_what/) | u/vinteralex24 | — | text | 1 | 21 | live |
-| 18 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](https://www.reddit.com/r/bigquery/comments/1x50ja4/we_tried_bigquerys_new_property_graph/) | u/Thinker_Assignment | — | i.redd.it | 1 | 3 | live |
-| 13 | 2026-10-22 | [Google BigQuery MCP](https://www.reddit.com/r/bigquery/comments/1xcqpmr/google_bigquery_mcp/) | u/querylabio | — | text | 0 | 10 | live |
-| 1 | 2026-11-06 | [This LEFT JOIN returns Ann twice. Where did Bob and Cat go?](https://www.reddit.com/r/bigquery/comments/1xpmxqo/this_left_join_returns_ann_twice_where_did_bob/) | u/Awkward-Meeting790 | — | text | 0 | 9 | live |
-| 12 | 2026-10-24 | [BQ Optimisation](https://www.reddit.com/r/bigquery/comments/1xe3pts/bq_optimisation/) | u/sdhaniwar | — | youtube.com | 0 | 1 | live |
-| 11 | 2026-10-28 | [Hiring - L1 Production Support Engineer](https://www.reddit.com/r/bigquery/comments/1xhia7i/hiring_l1_production_support_engineer/) | u/Rude_Ad_4320 | — | text | 0 | 0 | live |
+| 5 | 2026-11-02 | [BigQuery Release Roundup: October 2026](#post-5) | u/JeffNe | — | text | 13 | 5 | live |
+| 15 | 2026-10-20 | [I got tired of paying for warehouse compute just to debug a model, so I started building a local BigQuery emu…](#post-15) | u/Willing_Exchange6299 | — | text | 12 | 11 | live |
+| 9 | 2026-10-31 | [A short book on the BigQuery patterns that cuts bill significantly](#post-9) | u/IndividualWin9436 | — | text | 11 | 1 | live |
+| 7 | 2026-11-02 | [Reprocessing BigQuery at Scale: The Hidden Failure Modes of Incremental dbt Pipelines](#post-7) | u/Expensive-Insect-317 | — | medium.com | 7 | 0 | live |
+| 14 | 2026-10-21 | [🔍 Not So BigQuery #300 is out - my free weekly newsletter about BigQuery and other data-related GCP news!](#post-14) | u/TGEL0 | — | app.mailbrew.com | 7 | 0 | live |
+| 10 | 2026-10-30 | [GCP updates from this week that cut your bill](#post-10) | u/MrCashMahon | — | reddit.com | 4 | 0 | live |
+| 4 | 2026-11-03 | [BQ tables region migration.](#post-4) | u/PlaneShoe2872 | — | text | 3 | 7 | live |
+| 16 | 2026-10-20 | [new fields in the source letting my views fail](#post-16) | u/NHN_BI | — | text | 2 | 4 | live |
+| 17 | 2026-10-15 | [I analyzed 27k BigQuery jobs to find what actually drives the bill. 68% of it was one query pattern.](#post-17) | u/vinteralex24 | — | text | 1 | 21 | live |
+| 18 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](#post-18) | u/Thinker_Assignment | — | i.redd.it | 1 | 3 | live |
+| 13 | 2026-10-22 | [Google BigQuery MCP](#post-13) | u/querylabio | — | text | 0 | 10 | live |
+| 1 | 2026-11-06 | [This LEFT JOIN returns Ann twice. Where did Bob and Cat go?](#post-1) | u/Awkward-Meeting790 | — | text | 0 | 9 | live |
+| 12 | 2026-10-24 | [BQ Optimisation](#post-12) | u/sdhaniwar | — | youtube.com | 0 | 1 | live |
+| 11 | 2026-10-28 | [Hiring - L1 Production Support Engineer](#post-11) | u/Rude_Ad_4320 | — | text | 0 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. This LEFT JOIN returns Ann twice. Where did Bob and Cat go?
 
-2026-11-06 · u/Awkward-Meeting790 · score 0 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xpmxqo/this_left_join_returns_ann_twice_where_did_bob/)
+2026-11-06 · u/Awkward-Meeting790 · score 0 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xpmxqo/this_left_join_returns_ann_twice_where_did_bob/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks! Say you're putting together a report with every customer and their paid orders. Ann has two paid orders, Bob has one refunded order, and Cat hasn't ordered yet. All three should show up.
 >
@@ -165,29 +167,37 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I built [WrongQuery](https://wrongquery.com/) to flag stuff like this. If you try it on your own BigQuery joins, I'd love to hear what it gets right and what it gets wrong.
 
+<a id="post-2"></a>
+
 ### 2. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xow4u9/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xow4u9/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-3"></a>
 
 ### 3. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xou5vt/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xou5vt/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. BQ tables region migration.
 
-2026-11-03 · u/PlaneShoe2872 · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xmtrco/bq_tables_region_migration/)
+2026-11-03 · u/PlaneShoe2872 · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xmtrco/bq_tables_region_migration/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone. I have a question. Lets say we have a bigquery tables in the us-east-4 region and we want those tables in us multi region. 
 >
 > All the tables are live in bigquery prod. What is the feasible way migrate/replicate this?
 
+<a id="post-5"></a>
+
 ### 5. BigQuery Release Roundup: October 2026
 
-2026-11-02 · u/JeffNe · score 13 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xm5fri/bigquery_release_roundup_october_2026/)
+2026-11-02 · u/JeffNe · score 13 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xm5fri/bigquery_release_roundup_october_2026/) · [↑ back to the list](#last-50-posts)
 
 > Hey all! Here's a consolidated list of all the October 2026 BigQuery releases, grouped by area with direct doc links in case you missed anything. If you're excited about anything or have any feedback, let us know in the comments!
 >
@@ -244,32 +254,40 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > * [Conversational Analytics Conversation Logging](https://docs.cloud.google.com/bigquery/docs/conversation-logging-overview): Logs conversational analytics agent interactions to a BigQuery table in the agent's project (GA).
 
+<a id="post-6"></a>
+
 ### 6. What SQL operations are still stupidly expensive even with modern query optimizers?
 
-2026-11-02 · u/Dizzy-Ingenuity-6815 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xm1age/what_sql_operations_are_still_stupidly_expensive/)
+2026-11-02 · u/Dizzy-Ingenuity-6815 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xm1age/what_sql_operations_are_still_stupidly_expensive/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SQL/comments/1xlw0h5/what_sql_operations_are_still_stupidly_expensive/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Reprocessing BigQuery at Scale: The Hidden Failure Modes of Incremental dbt Pipelines
 
-2026-11-02 · u/Expensive-Insect-317 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xluo7w/reprocessing_bigquery_at_scale_the_hidden_failure/)
+2026-11-02 · u/Expensive-Insect-317 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xluo7w/reprocessing_bigquery_at_scale_the_hidden_failure/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/dbt-for-analytics/reprocessing-bigquery-at-scale-the-hidden-failure-modes-of-incremental-dbt-pipelines-b913cf3fd847>
 
 > *Designing deterministic backfills, safe partition replacement, and dependency-aware recovery in production data platforms.*
 
+<a id="post-8"></a>
+
 ### 8. A report ran about 10 times a month and caused deadlocks. Lessons from the fix.
 
-2026-11-02 · u/markinatlanta · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xlq3pi/a_report_ran_about_10_times_a_month_and_caused/)
+2026-11-02 · u/markinatlanta · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xlq3pi/a_report_ran_about_10_times_a_month_and_caused/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/learnSQL/comments/1xlq3f3/a_report_ran_about_10_times_a_month_and_caused/>
 
 
+<a id="post-9"></a>
+
 ### 9. A short book on the BigQuery patterns that cuts bill significantly
 
-2026-10-31 · u/IndividualWin9436 · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xk3ey4/a_short_book_on_the_bigquery_patterns_that_cuts/)
+2026-10-31 · u/IndividualWin9436 · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xk3ey4/a_short_book_on_the_bigquery_patterns_that_cuts/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -283,16 +301,20 @@ Link: <https://www.reddit.com/r/learnSQL/comments/1xlq3f3/a_report_ran_about_10_
 >
 > Kindle: [https://www.amazon.com/dp/B0HD6W2FN8](https://www.amazon.com/dp/B0HD6W2FN8)
 
+<a id="post-10"></a>
+
 ### 10. GCP updates from this week that cut your bill
 
-2026-10-30 · u/MrCashMahon · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xjbjaa/gcp_updates_from_this_week_that_cut_your_bill/)
+2026-10-30 · u/MrCashMahon · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xjbjaa/gcp_updates_from_this_week_that_cut_your_bill/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/googlecloud/comments/1xjbj7c/gcp_updates_from_this_week_that_cut_your_bill/>
 
 
+<a id="post-11"></a>
+
 ### 11. Hiring - L1 Production Support Engineer
 
-2026-10-28 · u/Rude_Ad_4320 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xhia7i/hiring_l1_production_support_engineer/)
+2026-10-28 · u/Rude_Ad_4320 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xhia7i/hiring_l1_production_support_engineer/) · [↑ back to the list](#last-50-posts)
 
 > Job Code: TRX-26131  
 > Company/Client: LTM  
@@ -328,16 +350,20 @@ Link: <https://www.reddit.com/r/googlecloud/comments/1xjbj7c/gcp_updates_from_th
 > Experience with ServiceNow or similar IT Service Management (ITSM) tools.  
 > Experience supporting production data applications in a cloud environment.
 
+<a id="post-12"></a>
+
 ### 12. BQ Optimisation
 
-2026-10-24 · u/sdhaniwar · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xe3pts/bq_optimisation/)
+2026-10-24 · u/sdhaniwar · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xe3pts/bq_optimisation/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/shorts/iQZ2aHQFBiY?feature=share>
 
 
+<a id="post-13"></a>
+
 ### 13. Google BigQuery MCP
 
-2026-10-22 · u/querylabio · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xcqpmr/google_bigquery_mcp/)
+2026-10-22 · u/querylabio · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xcqpmr/google_bigquery_mcp/) · [↑ back to the list](#last-50-posts)
 
 > BigQuery is known for being potentially expensive, so you learn to be careful with it.
 >
@@ -369,16 +395,20 @@ Link: <https://youtube.com/shorts/iQZ2aHQFBiY?feature=share>
 >
 > How do you connect BigQuery to your Claude Code, or Codex, or whatever you use?
 
+<a id="post-14"></a>
+
 ### 14. 🔍 Not So BigQuery #300 is out - my free weekly newsletter about BigQuery and other data-related GCP news!
 
-2026-10-21 · u/TGEL0 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xbqpwi/not_so_bigquery_300_is_out_my_free_weekly/)
+2026-10-21 · u/TGEL0 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xbqpwi/not_so_bigquery_300_is_out_my_free_weekly/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://app.mailbrew.com/tgel0/not-so-bigquery-9HLtpmj0Pl8B>
 
 
+<a id="post-15"></a>
+
 ### 15. I got tired of paying for warehouse compute just to debug a model, so I started building a local BigQuery emulator
 
-2026-10-20 · u/Willing_Exchange6299 · score 12 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xb4abp/i_got_tired_of_paying_for_warehouse_compute_just/)
+2026-10-20 · u/Willing_Exchange6299 · score 12 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xb4abp/i_got_tired_of_paying_for_warehouse_compute_just/) · [↑ back to the list](#last-50-posts)
 
 > I've worked with BigQuery and Snowflake for years, and one thing has always bugged me: you can't really run anything locally.
 >
@@ -409,9 +439,11 @@ Link: <https://app.mailbrew.com/tgel0/not-so-bigquery-9HLtpmj0Pl8B>
 >
 >     docker run --rm -p 127.0.0.1:9050:9050 ghcr.io/callumwalterwhite/crucible-emulator:latest serve --dialect bigquery
 
+<a id="post-16"></a>
+
 ### 16. new fields in the source letting my views fail
 
-2026-10-20 · u/NHN_BI · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xambfu/new_fields_in_the_source_letting_my_views_fail/)
+2026-10-20 · u/NHN_BI · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1xambfu/new_fields_in_the_source_letting_my_views_fail/) · [↑ back to the list](#last-50-posts)
 
 > table in company's data source >>> bigquery table >>> view >>> error after added field
 >
@@ -453,9 +485,11 @@ Link: <https://app.mailbrew.com/tgel0/not-so-bigquery-9HLtpmj0Pl8B>
 >      FRIENDLY_NAME = 'My friendly name for the view',
 >     ...
 
+<a id="post-17"></a>
+
 ### 17. I analyzed 27k BigQuery jobs to find what actually drives the bill. 68% of it was one query pattern.
 
-2026-10-15 · u/vinteralex24 · score 1 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x703ml/i_analyzed_27k_bigquery_jobs_to_find_what/)
+2026-10-15 · u/vinteralex24 · score 1 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x703ml/i_analyzed_27k_bigquery_jobs_to_find_what/) · [↑ back to the list](#last-50-posts)
 
 > Ran a cost analysis over a 30-day window on a production project — 27,076 jobs, 45.1 TB billed, \~$282 in query cost. Anonymized.
 >
@@ -484,9 +518,11 @@ Link: <https://app.mailbrew.com/tgel0/not-so-bigquery-9HLtpmj0Pl8B>
 >
 > That project's report is confidential, so I can't share it. What I can share is a sample the tool generates from built-in synthetic data — nothing in it is real, but the format and the findings are exactly what you get: \[[sample\_report](https://costline-blue.vercel.app/#sample)\]
 
+<a id="post-18"></a>
+
 ### 18. We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model
 
-2026-10-13 · u/Thinker_Assignment · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x50ja4/we_tried_bigquerys_new_property_graph/)
+2026-10-13 · u/Thinker_Assignment · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x50ja4/we_tried_bigquerys_new_property_graph/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 
@@ -506,24 +542,30 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 >
 > https://preview.redd.it/5w0zcwcmb9vh1.png?width=1298&format=png&auto=webp&s=05fc9b478eec94672cf1b4829d7030b7f38b846b
 
+<a id="post-19"></a>
+
 ### 19. Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)
 
-2026-10-09 · u/graup · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x1giuz/making_sense_of_bigquery_pricing_models_ondemand/)
+2026-10-09 · u/graup · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x1giuz/making_sense_of_bigquery_pricing_models_ondemand/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.alvin.ai/blog/bigquery-pricing-models>
 
 > A few years ago I got thrown into BigQuery. I never did any data engineering before, coming from frontend/fullstack application engineering. It took me a while to understand all the concepts. I felt like nobody is really explaining them well. BigQuery docs do a good job of explaining the What, but not the Why or the How To Decide. In this article, I try to give you both of that. By the way, the advice has changed considerably this year with Fluidscaling, so a lot of the old guides are also out of date now. Let me know what you think! Does BigQuery's pricing model (with the improved autoscaler billing) make sense?
 
+<a id="post-20"></a>
+
 ### 20. What's the most annoying thing you've dealt with in an ETL pipeline ?
 
-2026-10-09 · u/Square-Designer7807 · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x1fufn/whats_the_most_annoying_thing_youve_dealt_with_in/)
+2026-10-09 · u/Square-Designer7807 · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1x1fufn/whats_the_most_annoying_thing_youve_dealt_with_in/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ETL/comments/1x1fu8u/whats_the_most_annoying_thing_youve_dealt_with_in/>
 
 
+<a id="post-21"></a>
+
 ### 21. September 2026 - BigQuery Feature Summary
 
-2026-10-05 · u/Why_Engineer_In_Data · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wyb22b/september_2026_bigquery_feature_summary/)
+2026-10-05 · u/Why_Engineer_In_Data · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wyb22b/september_2026_bigquery_feature_summary/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, here's the 09/2026 edition! (Apologies for the late post!) 
 >
@@ -577,15 +619,19 @@ Link: </r/ETL/comments/1x1fu8u/whats_the_most_annoying_thing_youve_dealt_with_in
 >
 > As usual, let us know if there's anything: comments, questions, concerns!
 
+<a id="post-22"></a>
+
 ### 22. MySQL to Bigquery - Cheapest alternate
 
-2026-10-05 · u/aaina_quayen · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wy4poh/mysql_to_bigquery_cheapest_alternate/)
+2026-10-05 · u/aaina_quayen · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wy4poh/mysql_to_bigquery_cheapest_alternate/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. Open source conversational analytics tool for BigQuery?
 
-2026-10-01 · u/1glasspaani · score 9 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wve2n7/open_source_conversational_analytics_tool_for/)
+2026-10-01 · u/1glasspaani · score 9 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wve2n7/open_source_conversational_analytics_tool_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -597,9 +643,11 @@ Link: </r/ETL/comments/1x1fu8u/whats_the_most_annoying_thing_youve_dealt_with_in
 >
 > The other thing is cost. I have no feel for how many queries a single question turns into once the model starts looking around the schema.
 
+<a id="post-24"></a>
+
 ### 24. Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first production pilot, numbers inside
 
-2026-09-30 · u/Mundane_Let_8090 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wtwh33/replaced_a_weekly_full_reload_mysql_bigquery_with/)
+2026-09-30 · u/Mundane_Let_8090 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wtwh33/replaced_a_weekly_full_reload_mysql_bigquery_with/) · [↑ back to the list](#last-50-posts)
 
 > I just finished the first full pilot of [rivet](https://github.com/panchenkoai/rivet), an open-source Rust CLI that moves data from OLTP databases into a warehouse.
 >
@@ -629,68 +677,86 @@ Link: </r/ETL/comments/1x1fu8u/whats_the_most_annoying_thing_youve_dealt_with_in
 >
 > Questions, criticism and "why not just Debezium?" are all welcome in the comments..
 
+<a id="post-25"></a>
+
 ### 25. Replaced a weekly full reload (MySQL → BigQuery) with direct binlog reads, no Kafka or Debezium: first production pilot, numbers inside
 
-2026-09-29 · u/Mundane_Let_8090 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wthxmi/replaced_a_weekly_full_reload_mysql_bigquery_with/)
+2026-09-29 · u/Mundane_Let_8090 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wthxmi/replaced_a_weekly_full_reload_mysql_bigquery_with/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ETL/comments/1wthx73/replaced_a_weekly_full_reload_mysql_bigquery_with/>
 
 
+<a id="post-26"></a>
+
 ### 26. Data Agent A2A
 
-2026-09-28 · u/ims3raph · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wsnvxs/data_agent_a2a/)
+2026-09-28 · u/ims3raph · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wsnvxs/data_agent_a2a/) · [↑ back to the list](#last-50-posts)
 
 > Has anyone here managed to use Bigquery Data Agents on external applications through the A2A protocol?
 >
 > Once published, the agent lets you register the agent into the Agent Registry or copy the A2A json file into your clipboard. I’ve successfully published the agent on Gemini Enterprise, for example, but I am unable to use this JSON in any other part. My main goal would be to connect it to a Copilot Studio agent so I can easily use it through Teams, without having to do any code.
 
+<a id="post-27"></a>
+
 ### 27. Data Lakehouse Architecture Guide
 
-2026-09-27 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wrfq8k/data_lakehouse_architecture_guide/)
+2026-09-27 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wrfq8k/data_lakehouse_architecture_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/data-lakehouse-architecture-guide>
 
 
+<a id="post-28"></a>
+
 ### 28. BigQuery Graph as a semantic layer
 
-2026-09-25 · u/Electronic_Web7321 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wpv67c/bigquery_graph_as_a_semantic_layer/)
+2026-09-25 · u/Electronic_Web7321 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wpv67c/bigquery_graph_as_a_semantic_layer/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=MJCyGft_TzY>
 
 
+<a id="post-29"></a>
+
 ### 29. BigQuery Cost Optimization Framework
 
-2026-09-24 · u/arimbr · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wp3lcb/bigquery_cost_optimization_framework/)
+2026-09-24 · u/arimbr · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wp3lcb/bigquery_cost_optimization_framework/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/gqbmotradhrh1.jpeg>
 
 > Interesting framework on how to optimize BigQuery costs across four layers: query optimization, pricing models, commitments, and discounts. [https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-framework](https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-framework)
 
+<a id="post-30"></a>
+
 ### 30. Apache Iceberg Query Optimization: Production Guide
 
-2026-09-24 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wp03qv/apache_iceberg_query_optimization_production_guide/)
+2026-09-24 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wp03qv/apache_iceberg_query_optimization_production_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/jonisar/apache-iceberg-query-optimization-production-guide-2l0k>
 
 
+<a id="post-31"></a>
+
 ### 31. The BigQuery Join Problem Nobody Notices Until the Data Gets Big
 
-2026-09-21 · u/Expensive-Insect-317 · score 7 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wmbs1m/the_bigquery_join_problem_nobody_notices_until/)
+2026-09-21 · u/Expensive-Insect-317 · score 7 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wmbs1m/the_bigquery_join_problem_nobody_notices_until/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@sendoamoronta/the-bigquery-join-problem-nobody-notices-until-the-data-gets-big-580b82e2e777>
 
 > A short deep dive into a BigQuery join problem that often goes unnoticed until data gets big shuffle, skew, cardinality and query performance.
 
+<a id="post-32"></a>
+
 ### 32. Apache Iceberg Maintenance Tools: From Spark Procedures to Autonomous Control Planes
 
-2026-09-17 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wirjfi/apache_iceberg_maintenance_tools_from_spark/)
+2026-09-17 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wirjfi/apache_iceberg_maintenance_tools_from_spark/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-procedures-to-autonomous-control-planes-lbi>
 
 
+<a id="post-33"></a>
+
 ### 33. Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to you
 
-2026-09-16 · u/Ok-Data-Guy · score 2 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wi5pig/help_shape_the_2026_data_connectivity_report_5/)
+2026-09-16 · u/Ok-Data-Guy · score 2 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wi5pig/help_shape_the_2026_data_connectivity_report_5/) · [↑ back to the list](#last-50-posts)
 
 > I'm writing a new data engineering report and need firsthand data on the state of data connectivity in 2026. Therefore, I am reaching out to the experts who know. This survey is short and open, with no email gate, no sales follow-up, and no sharing of personal information. It should only take 5 minutes to complete.
 >
@@ -706,9 +772,11 @@ Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-proced
 >
 > Survey link: [https://forms.gle/DgXeYqT7HFwhP5xV7](https://forms.gle/DgXeYqT7HFwhP5xV7)
 
+<a id="post-34"></a>
+
 ### 34. how do you handle joining a source that shares no key with anything you already have?
 
-2026-09-14 · u/donewitheverything26 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wgefkl/how_do_you_handle_joining_a_source_that_shares_no/)
+2026-09-14 · u/donewitheverything26 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wgefkl/how_do_you_handle_joining_a_source_that_shares_no/) · [↑ back to the list](#last-50-posts)
 
 > Partner sends us a monthly export. Different customer ID scheme to ours, no mapping table, no docs, and whoever built it on their side left last year.
 >
@@ -718,9 +786,11 @@ Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-proced
 >
 > So what do people actually do here. Do you block on something cheap first to cut the comparison space, compute a score and hold back anything under a threshold, or just accept a fuzzy match and monitor downstream? And if you threshold, where did the number come from?
 
+<a id="post-35"></a>
+
 ### 35. Source schema changes are making our MySQL to BigQuery pipeline messy
 
-2026-09-10 · u/syndy- · score 8 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wcipem/source_schema_changes_are_making_our_mysql_to/)
+2026-09-10 · u/syndy- · score 8 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wcipem/source_schema_changes_are_making_our_mysql_to/) · [↑ back to the list](#last-50-posts)
 
 > Our  product database is MySQL and BigQuery is basically the analytics copy. Roughly 40 tables get refreshed through the day, then dbt takes over once the data lands.
 >
@@ -734,9 +804,11 @@ Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-proced
 >
 > Do you treat new columns and type changes differently, or review every schema change the same way?
 
+<a id="post-36"></a>
+
 ### 36. Has anyone tried the Databricks AI/BI feature?
 
-2026-09-10 · u/Bhanuprakash_1947 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wccrvg/has_anyone_tried_the_databricks_aibi_feature/)
+2026-09-10 · u/Bhanuprakash_1947 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wccrvg/has_anyone_tried_the_databricks_aibi_feature/) · [↑ back to the list](#last-50-posts)
 
 > I recently came across Databricks AI/BI and was curious to know how people are finding it.
 >
@@ -748,15 +820,19 @@ Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-proced
 >
 > Would like to know your experience, especially if you have used both.
 
+<a id="post-37"></a>
+
 ### 37. Two visuals in the same Power BI report show different totals for the same dataset. What could be the possible reasons, and how would you troubleshoot it?
 
-2026-09-09 · u/Apprehensive-Sand696 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wbfveq/two_visuals_in_the_same_power_bi_report_show/)
+2026-09-09 · u/Apprehensive-Sand696 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1wbfveq/two_visuals_in_the_same_power_bi_report_show/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-38"></a>
+
 ### 38. Direct Lake Performance vs High Cardinality
 
-2026-09-08 · u/bartoszmm · score 0 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1waqo7k/direct_lake_performance_vs_high_cardinality/)
+2026-09-08 · u/bartoszmm · score 0 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1waqo7k/direct_lake_performance_vs_high_cardinality/) · [↑ back to the list](#last-50-posts)
 
 > Hi!
 >
@@ -773,24 +849,30 @@ Link: <https://dev.to/jonisar/apache-iceberg-maintenance-tools-from-spark-proced
 >
 > What am I missing? Or is this the wake-up call that I need to start implementing aggregations?
 
+<a id="post-39"></a>
+
 ### 39. How did you actually learn BigQuery/cloud SQL before landing a job?
 
-2026-09-07 · u/Round_Opening_9943 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ycry/how_did_you_actually_learn_bigquerycloud_sql/)
+2026-09-07 · u/Round_Opening_9943 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ycry/how_did_you_actually_learn_bigquerycloud_sql/) · [↑ back to the list](#last-50-posts)
 
 > Curious how most people picked up tools like BigQuery. Did you learn and practice entirely on your own through side projects and certifications before applying, or did you just happen to be at a company when they migrated over and learned on the job?  
 > Would love to hear what your path looked like!
 
+<a id="post-40"></a>
+
 ### 40. What to expect in a BigQuery SQL interview?
 
-2026-09-07 · u/Round_Opening_9943 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ya8v/what_to_expect_in_a_bigquery_sql_interview/)
+2026-09-07 · u/Round_Opening_9943 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ya8v/what_to_expect_in_a_bigquery_sql_interview/) · [↑ back to the list](#last-50-posts)
 
 > What kind of conceptual or theoretical questions get thrown at you?
 >
 > What kind of SQL queries am I actually expected to write or explain on the spot? (Window functions, multiple CTEs, optimization, etc.?)
 
+<a id="post-41"></a>
+
 ### 41. BigQuery slot contention is often not a SQL problem.
 
-2026-09-07 · u/Expensive-Insect-317 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ovws/bigquery_slot_contention_is_often_not_a_sql/)
+2026-09-07 · u/Expensive-Insect-317 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9ovws/bigquery_slot_contention_is_often_not_a_sql/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@sendoamoronta/bigquery-slot-contention-is-an-architecture-problem-not-a-query-problem-237685a22366?sharedUserId=sendoamoronta>
 
@@ -798,27 +880,33 @@ Link: <https://medium.com/@sendoamoronta/bigquery-slot-contention-is-an-architec
 >
 > A practical guide on how to diagnose it using `JOBS`, `JOBS_TIMELINE`, `total_slot_ms` and `period_estimated_runnable_units`.
 
+<a id="post-42"></a>
+
 ### 42. Why BigQuery does not support natively small integer and float dtypes?
 
-2026-09-07 · u/agamenagoras · score 2 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9otkd/why_bigquery_does_not_support_natively_small/)
+2026-09-07 · u/agamenagoras · score 2 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9otkd/why_bigquery_does_not_support_natively_small/) · [↑ back to the list](#last-50-posts)
 
 > It looks like every integer dtype stored is using 64 bits, there's no real tinyint and smallint and this is just a syntatic sugar. And I didn't found the reason for that when I searched about it. Is it to make storage artificially more expensive?
 >
 >
 > Almost every open tabular engine and storage format that I knew so far allows you to really set a column as smaller types of int, independently if it is columnar or row-stored, and if it's a database or just an engine. For example, any modern apache arrow based engine (like Datafusion, DuckDB and polars), apache parquet files, almost every columnar database (like Clickhouse), almost any row-oriented database (like PostgreSQL, Oracle, MySQL and et cetera). Why BigQuery wants to be different?
 
+<a id="post-43"></a>
+
 ### 43. Is Manage Permission in Bigquery Broken
 
-2026-09-07 · u/datapopcorn · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9fgqc/is_manage_permission_in_bigquery_broken/)
+2026-09-07 · u/datapopcorn · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w9fgqc/is_manage_permission_in_bigquery_broken/) · [↑ back to the list](#last-50-posts)
 
 > Get "Error loading permissions for selected resources." error when I click selected table -> share -> Manage permissions.  
 > Anyone know what has updated ?
 >
 > https://preview.redd.it/1n3i1qpwd0oh1.png?width=1154&format=png&auto=webp&s=1592eb720b3843c451e90305a3b09b8716a37b69
 
+<a id="post-44"></a>
+
 ### 44. RFK Jr: "Google is a VACCINE COMPANY?!" (only 1 minute long)
 
-2026-09-06 · u/SidneyCanadas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w979ya/rfk_jr_google_is_a_vaccine_company_only_1_minute/)
+2026-09-06 · u/SidneyCanadas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w979ya/rfk_jr_google_is_a_vaccine_company_only_1_minute/) · [↑ back to the list](#last-50-posts)
 
 > RFK Jr: "Google is a VACCINE COMPANY?!" (only 1 minute long):
 >
@@ -842,24 +930,30 @@ Link: <https://medium.com/@sendoamoronta/bigquery-slot-contention-is-an-architec
 >
 > [https://stolenhistory.net/threads/alternative-search-engines-video-sites-to-google-youtube.3771](https://stolenhistory.net/threads/alternative-search-engines-video-sites-to-google-youtube.3771) (over 245 000 views)
 
+<a id="post-45"></a>
+
 ### 45. People who have used Snowplow for event pipelines 👇
 
-2026-09-04 · u/PlentyManner1774 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w7kki7/people_who_have_used_snowplow_for_event_pipelines/)
+2026-09-04 · u/PlentyManner1774 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w7kki7/people_who_have_used_snowplow_for_event_pipelines/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/CustomerDataStack/comments/1w7kh1e/wait_is_snowplows_opensource_collector_actually/>
 
 
+<a id="post-46"></a>
+
 ### 46. Meta/Facebook Ads no BigQuery via DataTransfer
 
-2026-09-03 · u/astrivyy · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w6insv/metafacebook_ads_no_bigquery_via_datatransfer/)
+2026-09-03 · u/astrivyy · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w6insv/metafacebook_ads_no_bigquery_via_datatransfer/) · [↑ back to the list](#last-50-posts)
 
 > Olá, pessoal!!!
 >
 > Alguém que já realizou a integração do Meta Ads ao BigQuery via DataTransfer saberia me responder que campo e tabela consideramos a visão de custo por anúncio? Eu estou olhando para a coluna **spend** da tabela **AdInsights** e em um mês aparece mais de 77k de custo, é um número totalmente absurdo. Estou olhando para o lugar errado e/ou da maneira incorreta?
 
+<a id="post-47"></a>
+
 ### 47. August 2026 - BigQuery Feature Summary
 
-2026-09-02 · u/Why_Engineer_In_Data · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w5iao4/august_2026_bigquery_feature_summary/)
+2026-09-02 · u/Why_Engineer_In_Data · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w5iao4/august_2026_bigquery_feature_summary/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! Back for the monthly summary. 
 >
@@ -906,9 +1000,11 @@ Link: </r/CustomerDataStack/comments/1w7kh1e/wait_is_snowplows_opensource_collec
 >
 > As usual, let us know what you think!
 
+<a id="post-48"></a>
+
 ### 48. I made a small Chrome extension for viewing BigQuery query results
 
-2026-09-02 · u/Plastic_Structure_19 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w56ket/i_made_a_small_chrome_extension_for_viewing/)
+2026-09-02 · u/Plastic_Structure_19 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w56ket/i_made_a_small_chrome_extension_for_viewing/) · [↑ back to the list](#last-50-posts)
 
 > I use BigQuery a lot and wanted a slightly easier way to inspect query results, so I made a small Chrome extension.
 >
@@ -918,9 +1014,11 @@ Link: </r/CustomerDataStack/comments/1w7kh1e/wait_is_snowplows_opensource_collec
 >
 > [https://chromewebstore.google.com/detail/query-result-viewer-for-b/fdndhccllolpcfiohahlpbncogehmdhh](https://chromewebstore.google.com/detail/query-result-viewer-for-b/fdndhccllolpcfiohahlpbncogehmdhh)
 
+<a id="post-49"></a>
+
 ### 49. BigQuery's Iceberg REST Catalog (BigLake): how table discovery actually changed
 
-2026-09-01 · u/urban-pro · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w43bms/bigquerys_iceberg_rest_catalog_biglake_how_table/)
+2026-09-01 · u/urban-pro · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w43bms/bigquerys_iceberg_rest_catalog_biglake_how_table/) · [↑ back to the list](#last-50-posts)
 
 > Been digging into this lately and figured I'd share, since it cleared up something I was fuzzy on: how BigQuery actually discovers Iceberg tables, and what's genuinely new here vs. what's just been repackaged.
 >
@@ -939,9 +1037,11 @@ Link: </r/CustomerDataStack/comments/1w7kh1e/wait_is_snowplows_opensource_collec
 >
 > Curious if anyone here has already moved existing Iceberg on BigQuery setups over to the REST catalog, or if you're all still doing the manual metadata file dance like I was.
 
+<a id="post-50"></a>
+
 ### 50. Apache Iceberg Performance Optimization: Queries to Tables
 
-2026-08-31 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w3gcds/apache_iceberg_performance_optimization_queries/)
+2026-08-31 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/bigquery/comments/1w3gcds/apache_iceberg_performance_optimization_queries/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/iceberg-performance-optimization>
 

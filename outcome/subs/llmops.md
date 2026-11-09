@@ -27,56 +27,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2025-10-11 | [LLM calls burning way more tokens than expected](https://www.reddit.com/r/llmops/comments/1o4472j/llm_calls_burning_way_more_tokens_than_expected/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 2 | 2025-10-11 | [LLM calls burning way more tokens than expected](https://www.reddit.com/r/llmops/comments/1o443hu/llm_calls_burning_way_more_tokens_than_expected/) | u/Scary_Bar3035 | — | — | 3 | 0 | live | — |
-| 3 | 2025-10-10 | [We just made it possible for teams to add tracing to AI Agents without any code changes.](https://www.reddit.com/r/llmops/comments/1o2ufur/we_just_made_it_possible_for_teams_to_add_tracing/) | u/patcher99 | vendors 💸 | text | 1 | 0 | live | — |
-| 4 | 2025-09-19 | [LLM TOOLS](https://www.reddit.com/r/llmops/comments/1nkyogg/llm_tools/) | u/MSK2005 | — | text | 2 | 0 | live | — |
-| 5 | 2025-09-18 | [Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications](https://www.reddit.com/r/llmops/comments/1nkk9m2/running_nvidia_cuda_pytorchvllm_projects_and/) | u/Chachachaudhary123 | vendors 💸 | text | 11 | 1 | live | — |
-| 6 | 2025-09-18 | [Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications](https://www.reddit.com/r/llmops/comments/1nkk9kn/running_nvidia_cuda_pytorchvllm_projects_and/) | u/Chachachaudhary123 | vendors 💸 | text | 1 | 0 | live | — |
-| 7 | 2025-09-15 | [Data preparation](https://www.reddit.com/r/llmops/comments/1nhjc7g/data_preparation/) | u/Major-Pickle-8006 | — | — | 2 | 0 | live | — |
-| 8 | 2025-09-08 | [Run Pytorch, vLLM, and CUDA on CPU-only environments with remote GPU kernel execution](https://www.reddit.com/r/llmops/comments/1nc2r0e/run_pytorch_vllm_and_cuda_on_cpuonly_environments/) | u/Chachachaudhary123 | vendors 💸 | text | 3 | 0 | live | — |
-| 9 | 2025-09-06 | [Michaël Trazzi of InsideView started a hunger strike outside Google DeepMind offices](https://www.reddit.com/r/llmops/comments/1n9tli9/michaël_trazzi_of_insideview_started_a_hunger/) | u/michael-lethal_ai | — | i.redd.it | 0 | 1 | live | — |
-| 10 | 2025-09-04 | [Google gemini](https://www.reddit.com/r/llmops/comments/1n8phl4/google_gemini/) | u/srj07_2005 | — | text | 1 | 0 | live | — |
-| 11 | 2025-09-01 | [OpenAI is Scamming Customers - Everyone is Saying it Now!](https://www.reddit.com/r/llmops/comments/1n5t89e/openai_is_scamming_customers_everyone_is_saying/) | u/Glum_Buy9985 | — | — | 1 | 0 | spam-filtered | — |
-| 12 | 2025-09-01 | [OpenAI's Radio Silence, Massive Downgrades, and Repeatedly Dishonest Behavior: Enough is enough. Scam-Altman…](https://www.reddit.com/r/llmops/comments/1n5dcvz/openais_radio_silence_massive_downgrades_and/) | u/Glum_Buy9985 | — | — | 2 | 0 | spam-filtered | — |
-| 13 | 2025-08-27 | [GPU VRAM deduplication/memory sharing to share a common base model and increase GPU capacity](https://www.reddit.com/r/llmops/comments/1n1quh2/gpu_vram_deduplicationmemory_sharing_to_share_a/) | u/Chachachaudhary123 | vendors 💸 | text | 1 | 0 | live | — |
-| 14 | 2025-08-23 | [4,4x plus de conversions grâce au trafic provenant des IA (étude) ! Comment vous adaptez-vous ?](https://www.reddit.com/r/llmops/comments/1my1xg0/44x_plus_de_conversions_grâce_au_trafic_provenant/) | u/Ambre_UnCoupdAvance | — | text | 1 | 0 | live | — |
-| 15 | 2025-08-22 | [Found a silent bug costing us $0.75 per API call. Are you checking your prompt payloads?](https://www.reddit.com/r/llmops/comments/1mxljza/found_a_silent_bug_costing_us_075_per_api_call/) | u/Scary_Bar3035 | — | — | 2 | 2 | live | — |
-| 16 | 2025-08-07 | [Monetizing AI chat apps without subscriptions or popups looking for early partners](https://www.reddit.com/r/llmops/comments/1mjyw6n/monetizing_ai_chat_apps_without_subscriptions_or/) | u/Akii777 | — | text | 0 | 1 | live | — |
-| 17 | 2025-08-04 | [🏆 250 LLM benchmarks and datasets (Airtable database)](https://www.reddit.com/r/llmops/comments/1mhcp6x/250_llm_benchmarks_and_datasets_airtable_database/) | u/dmalyugina | — | text | 2 | 0 | live | — |
-| 18 | 2025-08-03 | [LLM pre-processing layer](https://www.reddit.com/r/llmops/comments/1mgidbu/llm_preprocessing_layer/) | u/Strange_Pen_7913 | — | text | 2 | 1 | live | — |
-| 19 | 2025-07-28 | [OpenAI CEO Sam Altman: "It feels very fast." - "While testing GPT5 I got scared" - "Looking at it thinking: W…](https://www.reddit.com/r/llmops/comments/1mbmiki/openai_ceo_sam_altman_it_feels_very_fast_while/) | u/michael-lethal_ai | — | v.redd.it | 0 | 0 | live | — |
-| 20 | 2025-07-28 | [There are no AI experts, there are only AI pioneers, as clueless as everyone. See example of "expert" Meta's…](https://www.reddit.com/r/llmops/comments/1mb6tvc/there_are_no_ai_experts_there_are_only_ai/) | u/michael-lethal_ai | — | v.redd.it | 0 | 0 | live | — |
-| 21 | 2025-07-27 | [CEO of Microsoft Satya Nadella: "We are going to go pretty aggressively and try and collapse it all. Hey, why…](https://www.reddit.com/r/llmops/comments/1maa72m/ceo_of_microsoft_satya_nadella_we_are_going_to_go/) | u/michael-lethal_ai | — | v.redd.it | 1 | 1 | live | — |
-| 22 | 2025-07-24 | [Sam Altman in 2015 (before becoming OpenAI CEO): "Why You Should Fear Machine Intelligence" (read below)](https://www.reddit.com/r/llmops/comments/1m84xjw/sam_altman_in_2015_before_becoming_openai_ceo_why/) | u/michael-lethal_ai | — | i.redd.it | 1 | 1 | live | — |
-| 23 | 2025-07-23 | [Would you buy one?](https://www.reddit.com/r/llmops/comments/1m7n96s/would_you_buy_one/) | u/michael-lethal_ai | — | v.redd.it | 2 | 0 | live | — |
-| 24 | 2025-07-22 | [Any-llm : a lightweight & open-source router to access any LLM provider](https://www.reddit.com/r/llmops/comments/1m6pk8z/anyllm_a_lightweight_opensource_router_to_access/) | u/Due-Contribution7306 | — | github.com | 1 | 0 | live | — |
-| 25 | 2025-07-21 | [tmp/rpm limit](https://www.reddit.com/r/llmops/comments/1m5odtv/tmprpm_limit/) | u/Life-Ad5520 | — | — | 1 | 0 | live | — |
-| 26 | 2025-07-20 | [7 signs your daughter may be an LLM](https://www.reddit.com/r/llmops/comments/1m4u3lz/7_signs_your_daughter_may_be_an_llm/) | u/michael-lethal_ai | — | — | 2 | 0 | live | — |
-| 27 | 2025-07-18 | [Introducing PromptLab: end-to-end LLMOps in a pip package](https://www.reddit.com/r/llmops/comments/1m32y5z/introducing_promptlab_endtoend_llmops_in_a_pip/) | u/ra1h4n | — | text | 5 | 4 | live | — |
-| 28 | 2025-07-17 | [The Evolution of AI Job Orchestration. Part 2: The AI-Native Control Plane & Orchestration that Finally Works…](https://www.reddit.com/r/llmops/comments/1m2f8kr/the_evolution_of_ai_job_orchestration_part_2_the/) | u/rombrr | — | blog.skypilot.co | 2 | 0 | live | — |
-| 29 | 2025-07-17 | [Simulating MCP for LLMs: Big Leap in Tool Integration — and a Bigger Security Headache?](https://www.reddit.com/r/llmops/comments/1m259e9/simulating_mcp_for_llms_big_leap_in_tool/) | u/repoog | — | insbug.medium.com | 2 | 0 | live | — |
-| 30 | 2025-07-15 | [I stopped copy-pasting prompts between GPT, Claude, Gemini,LLaMA. This open-source multimindSDK just fixed my…](https://www.reddit.com/r/llmops/comments/1m0mgsq/i_stopped_copypasting_prompts_between_gpt_claude/) | u/darshan_aqua | — | — | 3 | 0 | live | — |
-| 31 | 2025-07-14 | [OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashbo…](https://www.reddit.com/r/llmops/comments/1lzvt0q/openlit_selfhosted_observability_dashboards_built/) | u/aman041 | — | text | 1 | 0 | spam-filtered | — |
-| 32 | 2025-07-14 | [OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashbo…](https://www.reddit.com/r/llmops/comments/1lzvq4b/openlit_selfhosted_observability_dashboards_built/) | u/aman041 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2025-07-11 | [We built a platform to monitor ML + LLM models in production — would love your feedback](https://www.reddit.com/r/llmops/comments/1lxf9l9/we_built_a_platform_to_monitor_ml_llm_models_in/) | u/elm3131 | — | text | 2 | 2 | live | — |
-| 34 | 2025-07-11 | [Just found this](https://www.reddit.com/r/llmops/comments/1lxay24/just_found_this/) | u/New_Thing1350 | vendors 💸 | aisearchsyndicator.com | 1 | 0 | spam-filtered | — |
-| 35 | 2025-07-11 | [\[image processing failed\]](https://www.reddit.com/r/llmops/comments/1lxavz2/image_processing_failed/) | u/\[deleted\] | vendors 💸 | — | 1 | 0 | spam-filtered | — |
-| 36 | 2025-07-11 | [\[image processing failed\]](https://www.reddit.com/r/llmops/comments/1lxatoi/image_processing_failed/) | u/\[deleted\] | vendors 💸 | — | 1 | 0 | spam-filtered | — |
-| 37 | 2025-07-03 | [Building with LLM agents? These are the patterns teams are doubling down on in Q3/Q4.](https://www.reddit.com/r/llmops/comments/1lr0k53/building_with_llm_agents_these_are_the_patterns/) | u/Ankur_Packt | — | — | 1 | 1 | live | — |
-| 38 | 2025-06-28 | [LLM Prompt Semantic Diff – Detect meaning-level changes between prompt versions](https://www.reddit.com/r/llmops/comments/1lmzz71/llm_prompt_semantic_diff_detect_meaninglevel/) | u/WoodenKoala3364 | — | text | 4 | 0 | live | — |
-| 39 | 2025-06-26 | [How do you reliably detect model drift in production LLMs?](https://www.reddit.com/r/llmops/comments/1ll9ynl/how_do_you_reliably_detect_model_drift_in/) | u/elm3131 | — | text | 3 | 0 | live | — |
-| 40 | 2025-06-25 | [🚀 I built an open-source AI agent that improves your LLM app — it tests, fixes, and submits PRs automatically.](https://www.reddit.com/r/llmops/comments/1lkiryc/i_built_an_opensource_ai_agent_that_improves_your/) | u/CryptographerNo8800 | — | text | 2 | 2 | live | — |
-| 41 | 2025-06-20 | [\[2506.08837\] Design Patterns for Securing LLM Agents against Prompt Injections](https://www.reddit.com/r/llmops/comments/1lg7lvn/250608837_design_patterns_for_securing_llm_agents/) | u/juliannorton | — | arxiv.org | 1 | 0 | live | — |
-| 42 | 2025-06-20 | [Banyan AI - An introduction](https://www.reddit.com/r/llmops/comments/1lg0k66/banyan_ai_an_introduction/) | u/LiteratureInformal16 | — | text | 1 | 0 | live | — |
-| 43 | 2025-06-18 | [LLM Log Tool](https://www.reddit.com/r/llmops/comments/1lel3dt/llm_log_tool/) | u/Lumiere-Celeste | — | text | 2 | 4 | live | — |
-| 44 | 2025-06-18 | [🧠 I built Paainet — an AI prompt engine that understands you like a Redditor, not like a keyword.](https://www.reddit.com/r/llmops/comments/1le9dlw/i_built_paainet_an_ai_prompt_engine_that/) | u/the_botverse | — | text | 1 | 0 | live | — |
-| 45 | 2025-05-28 | [Study buddies for LLMOps](https://www.reddit.com/r/llmops/comments/1kx7ggy/study_buddies_for_llmops/) | u/SnooDogs6511 | — | text | 4 | 0 | live | — |
-| 46 | 2025-05-26 | [How is web search so accurate and fast in LLM platforms like ChatGPT, Gemini?](https://www.reddit.com/r/llmops/comments/1kw7w3s/how_is_web_search_so_accurate_and_fast_in_llm/) | u/Similar-Tomorrow-710 | — | text | 6 | 6 | live | — |
-| 47 | 2025-05-24 | [I saw God molesting babies in heaven and sucking the penis of Satan](https://www.reddit.com/r/llmops/comments/1ku4bb9/i_saw_god_molesting_babies_in_heaven_and_sucking/) | u/WarmCriticism409 | — | blogger.com | 1 | 0 | spam-filtered | — |
-| 48 | 2025-05-20 | [Looking to Serve Multiple LoRA Adapters for Classification via Triton – Feasible?](https://www.reddit.com/r/llmops/comments/1kredpq/looking_to_serve_multiple_lora_adapters_for/) | u/mrvipul_17 | — | text | 1 | 0 | live | — |
-| 49 | 2025-03-15 | [Announcing MCPR 0.2.2: The a Template Generator for Anthropic's Model Context Protocol in Rust](https://www.reddit.com/r/llmops/comments/1jc6vcj/announcing_mcpr_022_the_a_template_generator_for/) | u/conikeec | — | — | 1 | 0 | live | — |
-| 50 | 2025-03-15 | [How do I use file upload API in qwen2-5 max?](https://www.reddit.com/r/llmops/comments/1jbl9a3/how_do_i_use_file_upload_api_in_qwen25_max/) | u/lazylurker999 | — | text | 1 | 0 | live | — |
+| 1 | 2025-10-11 | [LLM calls burning way more tokens than expected](#post-1) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 2 | 2025-10-11 | [LLM calls burning way more tokens than expected](#post-2) | u/Scary_Bar3035 | — | — | 3 | 0 | live | — |
+| 3 | 2025-10-10 | [We just made it possible for teams to add tracing to AI Agents without any code changes.](#post-3) | u/patcher99 | vendors 💸 | text | 1 | 0 | live | — |
+| 4 | 2025-09-19 | [LLM TOOLS](#post-4) | u/MSK2005 | — | text | 2 | 0 | live | — |
+| 5 | 2025-09-18 | [Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications](#post-5) | u/Chachachaudhary123 | vendors 💸 | text | 11 | 1 | live | — |
+| 6 | 2025-09-18 | [Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications](#post-6) | u/Chachachaudhary123 | vendors 💸 | text | 1 | 0 | live | — |
+| 7 | 2025-09-15 | [Data preparation](#post-7) | u/Major-Pickle-8006 | — | — | 2 | 0 | live | — |
+| 8 | 2025-09-08 | [Run Pytorch, vLLM, and CUDA on CPU-only environments with remote GPU kernel execution](#post-8) | u/Chachachaudhary123 | vendors 💸 | text | 3 | 0 | live | — |
+| 9 | 2025-09-06 | [Michaël Trazzi of InsideView started a hunger strike outside Google DeepMind offices](#post-9) | u/michael-lethal_ai | — | i.redd.it | 0 | 1 | live | — |
+| 10 | 2025-09-04 | [Google gemini](#post-10) | u/srj07_2005 | — | text | 1 | 0 | live | — |
+| 11 | 2025-09-01 | [OpenAI is Scamming Customers - Everyone is Saying it Now!](#post-11) | u/Glum_Buy9985 | — | — | 1 | 0 | spam-filtered | — |
+| 12 | 2025-09-01 | [OpenAI's Radio Silence, Massive Downgrades, and Repeatedly Dishonest Behavior: Enough is enough. Scam-Altman…](#post-12) | u/Glum_Buy9985 | — | — | 2 | 0 | spam-filtered | — |
+| 13 | 2025-08-27 | [GPU VRAM deduplication/memory sharing to share a common base model and increase GPU capacity](#post-13) | u/Chachachaudhary123 | vendors 💸 | text | 1 | 0 | live | — |
+| 14 | 2025-08-23 | [4,4x plus de conversions grâce au trafic provenant des IA (étude) ! Comment vous adaptez-vous ?](#post-14) | u/Ambre_UnCoupdAvance | — | text | 1 | 0 | live | — |
+| 15 | 2025-08-22 | [Found a silent bug costing us $0.75 per API call. Are you checking your prompt payloads?](#post-15) | u/Scary_Bar3035 | — | — | 2 | 2 | live | — |
+| 16 | 2025-08-07 | [Monetizing AI chat apps without subscriptions or popups looking for early partners](#post-16) | u/Akii777 | — | text | 0 | 1 | live | — |
+| 17 | 2025-08-04 | [🏆 250 LLM benchmarks and datasets (Airtable database)](#post-17) | u/dmalyugina | — | text | 2 | 0 | live | — |
+| 18 | 2025-08-03 | [LLM pre-processing layer](#post-18) | u/Strange_Pen_7913 | — | text | 2 | 1 | live | — |
+| 19 | 2025-07-28 | [OpenAI CEO Sam Altman: "It feels very fast." - "While testing GPT5 I got scared" - "Looking at it thinking: W…](#post-19) | u/michael-lethal_ai | — | v.redd.it | 0 | 0 | live | — |
+| 20 | 2025-07-28 | [There are no AI experts, there are only AI pioneers, as clueless as everyone. See example of "expert" Meta's…](#post-20) | u/michael-lethal_ai | — | v.redd.it | 0 | 0 | live | — |
+| 21 | 2025-07-27 | [CEO of Microsoft Satya Nadella: "We are going to go pretty aggressively and try and collapse it all. Hey, why…](#post-21) | u/michael-lethal_ai | — | v.redd.it | 1 | 1 | live | — |
+| 22 | 2025-07-24 | [Sam Altman in 2015 (before becoming OpenAI CEO): "Why You Should Fear Machine Intelligence" (read below)](#post-22) | u/michael-lethal_ai | — | i.redd.it | 1 | 1 | live | — |
+| 23 | 2025-07-23 | [Would you buy one?](#post-23) | u/michael-lethal_ai | — | v.redd.it | 2 | 0 | live | — |
+| 24 | 2025-07-22 | [Any-llm : a lightweight & open-source router to access any LLM provider](#post-24) | u/Due-Contribution7306 | — | github.com | 1 | 0 | live | — |
+| 25 | 2025-07-21 | [tmp/rpm limit](#post-25) | u/Life-Ad5520 | — | — | 1 | 0 | live | — |
+| 26 | 2025-07-20 | [7 signs your daughter may be an LLM](#post-26) | u/michael-lethal_ai | — | — | 2 | 0 | live | — |
+| 27 | 2025-07-18 | [Introducing PromptLab: end-to-end LLMOps in a pip package](#post-27) | u/ra1h4n | — | text | 5 | 4 | live | — |
+| 28 | 2025-07-17 | [The Evolution of AI Job Orchestration. Part 2: The AI-Native Control Plane & Orchestration that Finally Works…](#post-28) | u/rombrr | — | blog.skypilot.co | 2 | 0 | live | — |
+| 29 | 2025-07-17 | [Simulating MCP for LLMs: Big Leap in Tool Integration — and a Bigger Security Headache?](#post-29) | u/repoog | — | insbug.medium.com | 2 | 0 | live | — |
+| 30 | 2025-07-15 | [I stopped copy-pasting prompts between GPT, Claude, Gemini,LLaMA. This open-source multimindSDK just fixed my…](#post-30) | u/darshan_aqua | — | — | 3 | 0 | live | — |
+| 31 | 2025-07-14 | [OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashbo…](#post-31) | u/aman041 | — | text | 1 | 0 | spam-filtered | — |
+| 32 | 2025-07-14 | [OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashbo…](#post-32) | u/aman041 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2025-07-11 | [We built a platform to monitor ML + LLM models in production — would love your feedback](#post-33) | u/elm3131 | — | text | 2 | 2 | live | — |
+| 34 | 2025-07-11 | [Just found this](#post-34) | u/New_Thing1350 | vendors 💸 | aisearchsyndicator.com | 1 | 0 | spam-filtered | — |
+| 35 | 2025-07-11 | [\[image processing failed\]](#post-35) | u/\[deleted\] | vendors 💸 | — | 1 | 0 | spam-filtered | — |
+| 36 | 2025-07-11 | [\[image processing failed\]](#post-36) | u/\[deleted\] | vendors 💸 | — | 1 | 0 | spam-filtered | — |
+| 37 | 2025-07-03 | [Building with LLM agents? These are the patterns teams are doubling down on in Q3/Q4.](#post-37) | u/Ankur_Packt | — | — | 1 | 1 | live | — |
+| 38 | 2025-06-28 | [LLM Prompt Semantic Diff – Detect meaning-level changes between prompt versions](#post-38) | u/WoodenKoala3364 | — | text | 4 | 0 | live | — |
+| 39 | 2025-06-26 | [How do you reliably detect model drift in production LLMs?](#post-39) | u/elm3131 | — | text | 3 | 0 | live | — |
+| 40 | 2025-06-25 | [🚀 I built an open-source AI agent that improves your LLM app — it tests, fixes, and submits PRs automatically.](#post-40) | u/CryptographerNo8800 | — | text | 2 | 2 | live | — |
+| 41 | 2025-06-20 | [\[2506.08837\] Design Patterns for Securing LLM Agents against Prompt Injections](#post-41) | u/juliannorton | — | arxiv.org | 1 | 0 | live | — |
+| 42 | 2025-06-20 | [Banyan AI - An introduction](#post-42) | u/LiteratureInformal16 | — | text | 1 | 0 | live | — |
+| 43 | 2025-06-18 | [LLM Log Tool](#post-43) | u/Lumiere-Celeste | — | text | 2 | 4 | live | — |
+| 44 | 2025-06-18 | [🧠 I built Paainet — an AI prompt engine that understands you like a Redditor, not like a keyword.](#post-44) | u/the_botverse | — | text | 1 | 0 | live | — |
+| 45 | 2025-05-28 | [Study buddies for LLMOps](#post-45) | u/SnooDogs6511 | — | text | 4 | 0 | live | — |
+| 46 | 2025-05-26 | [How is web search so accurate and fast in LLM platforms like ChatGPT, Gemini?](#post-46) | u/Similar-Tomorrow-710 | — | text | 6 | 6 | live | — |
+| 47 | 2025-05-24 | [I saw God molesting babies in heaven and sucking the penis of Satan](#post-47) | u/WarmCriticism409 | — | blogger.com | 1 | 0 | spam-filtered | — |
+| 48 | 2025-05-20 | [Looking to Serve Multiple LoRA Adapters for Classification via Triton – Feasible?](#post-48) | u/mrvipul_17 | — | text | 1 | 0 | live | — |
+| 49 | 2025-03-15 | [Announcing MCPR 0.2.2: The a Template Generator for Anthropic's Model Context Protocol in Rust](#post-49) | u/conikeec | — | — | 1 | 0 | live | — |
+| 50 | 2025-03-15 | [How do I use file upload API in qwen2-5 max?](#post-50) | u/lazylurker999 | — | text | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -88,22 +88,28 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. LLM calls burning way more tokens than expected
 
-2025-10-11 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o4472j/llm_calls_burning_way_more_tokens_than_expected/)
+2025-10-11 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o4472j/llm_calls_burning_way_more_tokens_than_expected/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-2"></a>
+
 ### 2. LLM calls burning way more tokens than expected
 
-2025-10-11 · u/Scary_Bar3035 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o443hu/llm_calls_burning_way_more_tokens_than_expected/)
+2025-10-11 · u/Scary_Bar3035 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o443hu/llm_calls_burning_way_more_tokens_than_expected/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/artificial/comments/1o2bwl8/llm_calls_burning_way_more_tokens_than_expected/>
 
 
+<a id="post-3"></a>
+
 ### 3. We just made it possible for teams to add tracing to AI Agents without any code changes.
 
-2025-10-10 · u/patcher99 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o2ufur/we_just_made_it_possible_for_teams_to_add_tracing/)
+2025-10-10 · u/patcher99 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1o2ufur/we_just_made_it_possible_for_teams_to_add_tracing/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks 👋  
 >
@@ -131,39 +137,49 @@ Link: </r/artificial/comments/1o2bwl8/llm_calls_burning_way_more_tokens_than_exp
 > Would love your thoughts, feedback, or GitHub stars if you find it useful 🙌  
 > We are an open source first project and every suggestion helps shape what comes next.
 
+<a id="post-4"></a>
+
 ### 4. LLM TOOLS
 
-2025-09-19 · u/MSK2005 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkyogg/llm_tools/)
+2025-09-19 · u/MSK2005 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkyogg/llm_tools/) · [↑ back to the list](#last-50-posts)
 
 > 1. Tools for cleaning fine-tuning Data 
 > 2. Tools for structuring fine-tuning Data
 
+<a id="post-5"></a>
+
 ### 5. Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications
 
-2025-09-18 · u/Chachachaudhary123 · vendors 💸 · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkk9m2/running_nvidia_cuda_pytorchvllm_projects_and/)
+2025-09-18 · u/Chachachaudhary123 · vendors 💸 · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkk9m2/running_nvidia_cuda_pytorchvllm_projects_and/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I wanted to share some information on this cool feature we built in WoolyAI GPU hypervisor, which enables users to run their existing Nvidia CUDA pytorch/vLLM projects and pipelines without any modifications on AMD GPUs. ML researchers can transparently consume GPUs from a heterogeneous cluster of Nvidia and AMD GPUs. MLOps don't need to maintain separate pipelines or runtime dependencies. The ML team can scale capacity easily.
 > Please share feedback and we are also signing up Beta users.
 > https://youtu.be/MTM61CB2IZc?feature=shared
+
+<a id="post-6"></a>
 
 ### 6. Running Nvidia CUDA Pytorch/vLLM projects and pipelines on AMD with no modifications
 
-2025-09-18 · u/Chachachaudhary123 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkk9kn/running_nvidia_cuda_pytorchvllm_projects_and/)
+2025-09-18 · u/Chachachaudhary123 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nkk9kn/running_nvidia_cuda_pytorchvllm_projects_and/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I wanted to share some information on this cool feature we built in WoolyAI GPU hypervisor, which enables users to run their existing Nvidia CUDA pytorch/vLLM projects and pipelines without any modifications on AMD GPUs. ML researchers can transparently consume GPUs from a heterogeneous cluster of Nvidia and AMD GPUs. MLOps don't need to maintain separate pipelines or runtime dependencies. The ML team can scale capacity easily.
 > Please share feedback and we are also signing up Beta users.
 > https://youtu.be/MTM61CB2IZc?feature=shared
 
+<a id="post-7"></a>
+
 ### 7. Data preparation
 
-2025-09-15 · u/Major-Pickle-8006 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nhjc7g/data_preparation/)
+2025-09-15 · u/Major-Pickle-8006 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nhjc7g/data_preparation/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/LLM/comments/1nhjbdf/data_preparation/>
 
 
+<a id="post-8"></a>
+
 ### 8. Run Pytorch, vLLM, and CUDA on CPU-only environments with remote GPU kernel execution
 
-2025-09-08 · u/Chachachaudhary123 · vendors 💸 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nc2r0e/run_pytorch_vllm_and_cuda_on_cpuonly_environments/)
+2025-09-08 · u/Chachachaudhary123 · vendors 💸 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1nc2r0e/run_pytorch_vllm_and_cuda_on_cpuonly_environments/) · [↑ back to the list](#last-50-posts)
 
 > Hi - Sharing some information on this cool feature of WoolyAI GPU hypervisor, which separates user-space Machine Learning workload execution from the GPU runtime. What that means is: Machine Learning engineers can develop and test their PyTorch, vLLM, or CUDA workloads on a simple CPU-only infrastructure, while the actual CUDA kernels are executed on shared Nvidia or AMD GPU nodes.
 >
@@ -171,38 +187,48 @@ Link: </r/LLM/comments/1nhjbdf/data_preparation/>
 >
 > Would love to get feedback on how this will impact your ML Platforms.
 
+<a id="post-9"></a>
+
 ### 9. Michaël Trazzi of InsideView started a hunger strike outside Google DeepMind offices
 
-2025-09-06 · u/michael-lethal_ai · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n9tli9/michaël_trazzi_of_insideview_started_a_hunger/)
+2025-09-06 · u/michael-lethal_ai · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n9tli9/michaël_trazzi_of_insideview_started_a_hunger/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/b1we3e55ohnf1.jpeg>
 
 
+<a id="post-10"></a>
+
 ### 10. Google gemini
 
-2025-09-04 · u/srj07_2005 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n8phl4/google_gemini/)
+2025-09-04 · u/srj07_2005 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n8phl4/google_gemini/) · [↑ back to the list](#last-50-posts)
 
 > So i am your Google Gemini's Student Ambassador, please click below link and Give a prompt to learn more about gemini:
 > https://aiskillshouse.com/student/qr-mediator.html?uid=5608&promptId=6
 > Irs
 
+<a id="post-11"></a>
+
 ### 11. OpenAI is Scamming Customers - Everyone is Saying it Now!
 
-2025-09-01 · u/Glum_Buy9985 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n5t89e/openai_is_scamming_customers_everyone_is_saying/)
+2025-09-01 · u/Glum_Buy9985 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n5t89e/openai_is_scamming_customers_everyone_is_saying/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ChatGPT/comments/1n5k4uk/openai_scam_please_do_not_delete_moderators/>
 
 
+<a id="post-12"></a>
+
 ### 12. OpenAI's Radio Silence, Massive Downgrades, and Repeatedly Dishonest Behavior: Enough is enough. Scam-Altman Needs to Go.
 
-2025-09-01 · u/Glum_Buy9985 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n5dcvz/openais_radio_silence_massive_downgrades_and/)
+2025-09-01 · u/Glum_Buy9985 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n5dcvz/openais_radio_silence_massive_downgrades_and/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ChatGPT/comments/1n462cd/openai_what_did_you_do_to_our_ai_a_massive/>
 
 
+<a id="post-13"></a>
+
 ### 13. GPU VRAM deduplication/memory sharing to share a common base model and increase GPU capacity
 
-2025-08-27 · u/Chachachaudhary123 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n1quh2/gpu_vram_deduplicationmemory_sharing_to_share_a/)
+2025-08-27 · u/Chachachaudhary123 · vendors 💸 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1n1quh2/gpu_vram_deduplicationmemory_sharing_to_share_a/) · [↑ back to the list](#last-50-posts)
 
 > Hi - I've created a video to demonstrate the memory sharing/deduplication setup of WoolyAI GPU hypervisor, which enables a common base model while running independent /isolated LoRa stacks. I am performing inference using PyTorch, but this approach can also be applied to vLLM. Now, vLLm has a setting to enable running multiple LoRA adapters. Still, my understanding is that it's not used in production since there is no way to manage SLA/performance across multiple adapters, etc.
 >
@@ -212,9 +238,11 @@ Link: </r/ChatGPT/comments/1n462cd/openai_what_did_you_do_to_our_ai_a_massive/>
 >
 > [https://www.youtube.com/watch?v=OC1yyJo9zpg](https://www.youtube.com/watch?v=OC1yyJo9zpg)
 
+<a id="post-14"></a>
+
 ### 14. 4,4x plus de conversions grâce au trafic provenant des IA (étude) ! Comment vous adaptez-vous ?
 
-2025-08-23 · u/Ambre_UnCoupdAvance · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1my1xg0/44x_plus_de_conversions_grâce_au_trafic_provenant/)
+2025-08-23 · u/Ambre_UnCoupdAvance · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1my1xg0/44x_plus_de_conversions_grâce_au_trafic_provenant/) · [↑ back to the list](#last-50-posts)
 
 > Je suis récemment tombée sur une étude Semrush que j'ai trouvée super intéressante, et qui accentue encore plus l'importance du référencement IA.
 >
@@ -275,16 +303,20 @@ Link: </r/ChatGPT/comments/1n462cd/openai_what_did_you_do_to_our_ai_a_massive/>
 >
 > ***Vos retours m'intéressent !*** 😊
 
+<a id="post-15"></a>
+
 ### 15. Found a silent bug costing us $0.75 per API call. Are you checking your prompt payloads?
 
-2025-08-22 · u/Scary_Bar3035 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mxljza/found_a_silent_bug_costing_us_075_per_api_call/)
+2025-08-22 · u/Scary_Bar3035 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mxljza/found_a_silent_bug_costing_us_075_per_api_call/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/LangChain/comments/1mxlipz/found_a_silent_bug_costing_us_075_per_api_call/>
 
 
+<a id="post-16"></a>
+
 ### 16. Monetizing AI chat apps without subscriptions or popups looking for early partners
 
-2025-08-07 · u/Akii777 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mjyw6n/monetizing_ai_chat_apps_without_subscriptions_or/)
+2025-08-07 · u/Akii777 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mjyw6n/monetizing_ai_chat_apps_without_subscriptions_or/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks,
 > We’ve built Amphora Ads an ad network designed specifically for AI chat apps. Instead of traditional banner ads or paywalls, we serve native, context aware suggestions right inside LLM responses. Think:
@@ -301,9 +333,11 @@ Link: </r/LangChain/comments/1mxlipz/found_a_silent_bug_costing_us_075_per_api_c
 >
 > https://www.amphora.ad/
 
+<a id="post-17"></a>
+
 ### 17. 🏆 250 LLM benchmarks and datasets (Airtable database)
 
-2025-08-04 · u/dmalyugina · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mhcp6x/250_llm_benchmarks_and_datasets_airtable_database/)
+2025-08-04 · u/dmalyugina · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mhcp6x/250_llm_benchmarks_and_datasets_airtable_database/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! We updated our database of LLM benchmarks and datasets you can use to evaluate and compare different LLM capabilities, like reasoning, math problem-solving, or coding. Now available are 250 benchmarks, including 20+ RAG benchmarks, 30+ AI agent benchmarks, and 50+ safety benchmarks.
 >
@@ -315,52 +349,66 @@ Link: </r/LangChain/comments/1mxlipz/found_a_silent_bug_costing_us_075_per_api_c
 >
 > Disclaimer: I'm on the team behind [Evidently](https://github.com/evidentlyai/evidently), an open-source ML and LLM observability framework. We put together this database.
 
+<a id="post-18"></a>
+
 ### 18. LLM pre-processing layer
 
-2025-08-03 · u/Strange_Pen_7913 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mgidbu/llm_preprocessing_layer/)
+2025-08-03 · u/Strange_Pen_7913 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mgidbu/llm_preprocessing_layer/) · [↑ back to the list](#last-50-posts)
 
 > Hi all - I've been working on an LLM pre-processing toolbox that helps reduce token usage (mainly for context-heavy setups like scraping, agents' context, tools return values, etc).
 >
 > I'm considering an open-source approach to simplify integration of models and tools into code and existing data pipelines, along with a suitable UI for managing them, viewing diffs, etc. Just launched the first version and would appreciate feedback around UX/product.
 
+<a id="post-19"></a>
+
 ### 19. OpenAI CEO Sam Altman: "It feels very fast." - "While testing GPT5 I got scared" - "Looking at it thinking: What have we done... like in the Manhattan Project"- "There are NO ADULTS IN THE ROOM"
 
-2025-07-28 · u/michael-lethal_ai · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mbmiki/openai_ceo_sam_altman_it_feels_very_fast_while/)
+2025-07-28 · u/michael-lethal_ai · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mbmiki/openai_ceo_sam_altman_it_feels_very_fast_while/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/p7jy6p0znkff1>
 
 
+<a id="post-20"></a>
+
 ### 20. There are no AI experts, there are only AI pioneers, as clueless as everyone. See example of "expert" Meta's Chief AI scientist Yann LeCun 🤡
 
-2025-07-28 · u/michael-lethal_ai · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mb6tvc/there_are_no_ai_experts_there_are_only_ai/)
+2025-07-28 · u/michael-lethal_ai · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1mb6tvc/there_are_no_ai_experts_there_are_only_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/o7bzircoy9ff1>
 
 
+<a id="post-21"></a>
+
 ### 21. CEO of Microsoft Satya Nadella: "We are going to go pretty aggressively and try and collapse it all. Hey, why do I need Excel? I think the very notion that applications even exist, that's probably where they'll all collapse, right? In the Agent era." RIP to all software related jobs.
 
-2025-07-27 · u/michael-lethal_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1maa72m/ceo_of_microsoft_satya_nadella_we_are_going_to_go/)
+2025-07-27 · u/michael-lethal_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1maa72m/ceo_of_microsoft_satya_nadella_we_are_going_to_go/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ui9kbqsia8ff1>
 
 
+<a id="post-22"></a>
+
 ### 22. Sam Altman in 2015 (before becoming OpenAI CEO): "Why You Should Fear Machine Intelligence" (read below)
 
-2025-07-24 · u/michael-lethal_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m84xjw/sam_altman_in_2015_before_becoming_openai_ceo_why/)
+2025-07-24 · u/michael-lethal_ai · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m84xjw/sam_altman_in_2015_before_becoming_openai_ceo_why/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9iu5xezznsef1.jpeg>
 
 
+<a id="post-23"></a>
+
 ### 23. Would you buy one?
 
-2025-07-23 · u/michael-lethal_ai · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m7n96s/would_you_buy_one/)
+2025-07-23 · u/michael-lethal_ai · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m7n96s/would_you_buy_one/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/wrdqv36q3pef1>
 
 
+<a id="post-24"></a>
+
 ### 24. Any-llm : a lightweight & open-source router to access any LLM provider
 
-2025-07-22 · u/Due-Contribution7306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m6pk8z/anyllm_a_lightweight_opensource_router_to_access/)
+2025-07-22 · u/Due-Contribution7306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m6pk8z/anyllm_a_lightweight_opensource_router_to_access/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/mozilla-ai/any-llm>
 
@@ -370,23 +418,29 @@ Link: <https://github.com/mozilla-ai/any-llm>
 >
 > Currently supports 20+ providers including OpenAI, Anthropic, Google, Mistral, and AWS Bedrock. Would love to hear what you think!
 
+<a id="post-25"></a>
+
 ### 25. tmp/rpm limit
 
-2025-07-21 · u/Life-Ad5520 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m5odtv/tmprpm_limit/)
+2025-07-21 · u/Life-Ad5520 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m5odtv/tmprpm_limit/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/LLMDevs/comments/1m5o11i/tmprpm_limit/>
 
 
+<a id="post-26"></a>
+
 ### 26. 7 signs your daughter may be an LLM
 
-2025-07-20 · u/michael-lethal_ai · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m4u3lz/7_signs_your_daughter_may_be_an_llm/)
+2025-07-20 · u/michael-lethal_ai · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m4u3lz/7_signs_your_daughter_may_be_an_llm/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/AIDangers/comments/1kqz1yw/7_signs_your_daughter_may_be_an_llm/>
 
 
+<a id="post-27"></a>
+
 ### 27. Introducing PromptLab: end-to-end LLMOps in a pip package
 
-2025-07-18 · u/ra1h4n · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m32y5z/introducing_promptlab_endtoend_llmops_in_a_pip/)
+2025-07-18 · u/ra1h4n · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m32y5z/introducing_promptlab_endtoend_llmops_in_a_pip/) · [↑ back to the list](#last-50-posts)
 
 > **PromptLab** is an open source, free lightweight toolkit for end-to-end **LLMOps**, built for developers building GenAI apps.
 >
@@ -401,16 +455,20 @@ Link: </r/AIDangers/comments/1kqz1yw/7_signs_your_daughter_may_be_an_llm/>
 > Github: [https://github.com/imum-ai/promptlab](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fimum-ai%2Fpromptlab%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExckpZd0xKblFXMlk1RzBRUQEeCS4WpMlhfvaq6JK22J2odBDMB5nn-yMST-QjFGuH9q8KwG_gyuCVNw4q0d4_aem_JRni2_LDV0utJffXOoIDHw&h=AT0YupjfYDvJuTj8eB5t9JBrG4Pma2rY_Ik-BylgHqkJnmqiBWMPv65IY-2krioMSlwFWe5ICvdxZrHHh17ZwqotE5LDzpF3uMTXwE5FzyA3kiHPAnCd0Km0RGduVJMSWRHxdZbXSjU0SVmdFQ&__tn__=-UK-R&c[0]=AT3yHgcTVfZJ7hDTzFd7LtWYMOPDbdu9kgWiUuQlXVSzT3cR6BLB01_oAndZ-Ah9d_7oU3YrW7uubMWYEV5VBnif-CO6M8DiQnd7UGdebjviXpRpt6T9FLEMY98HMSLvzYYohsvL4lTeDmFhgNaHb1PkrdaSyrdSGq8FeGQuAPqazyC8xfjj-Tau41ieE3PMKTz1h2xV3AQYW4bzB210c5s31r0G)  
 > pypi: [https://pypi.org/project/promptlab/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpypi.org%2Fproject%2Fpromptlab%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExckpZd0xKblFXMlk1RzBRUQEerpQSRsBWx7-yLg8ka0I01aut1TDjvg8gA4zQ80eHjBCUcpBS44FcpQMSXdU_aem_y_PneQIivvgW1t3wv7GVnw&h=AT3EKyeai-9_afIeVeOwH8Rs4xJjEz2bhSzAeeQIKIgxwXJuYFVcTSJqGOxZkGEAsXA3FgH74YdY21OY9Pqmb2rtJF4g_ABNgtAi04Gc229YIuLoWcVhMdgiFo7NeLkDb1bJPdd2cHcfhdTvrw&__tn__=-UK-R&c[0]=AT3yHgcTVfZJ7hDTzFd7LtWYMOPDbdu9kgWiUuQlXVSzT3cR6BLB01_oAndZ-Ah9d_7oU3YrW7uubMWYEV5VBnif-CO6M8DiQnd7UGdebjviXpRpt6T9FLEMY98HMSLvzYYohsvL4lTeDmFhgNaHb1PkrdaSyrdSGq8FeGQuAPqazyC8xfjj-Tau41ieE3PMKTz1h2xV3AQYW4bzB210c5s31r0G)[](https://www.facebook.com/groups/149635565077732/search/?__cft__[0]=AZWTfHROPPIjS2Q1GmCW2iwRv1h1vsC2tu112P2J0YJVi50bKUPdXZoE1vMmmpNqVCTpKviO_--xt0CXLuyUhsexTDfWQMQiDol2Btno4Gtn-APniLkqJwyj7zmv8UtThD1ucCs5pJsqLC6PmJZ979Wxt2-BlGRbPrCIt_oIbFncmYdfRRu0tz7tnj5P6mzUHcpl5EcbajUl8wowREpjh7WK&__tn__=H-R#?dhc)
 
+<a id="post-28"></a>
+
 ### 28. The Evolution of AI Job Orchestration. Part 2: The AI-Native Control Plane & Orchestration that Finally Works for ML
 
-2025-07-17 · u/rombrr · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m2f8kr/the_evolution_of_ai_job_orchestration_part_2_the/)
+2025-07-17 · u/rombrr · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m2f8kr/the_evolution_of_ai_job_orchestration_part_2_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://blog.skypilot.co/ai-job-orchestration-pt2-ai-control-plane/>
 
 
+<a id="post-29"></a>
+
 ### 29. Simulating MCP for LLMs: Big Leap in Tool Integration — and a Bigger Security Headache?
 
-2025-07-17 · u/repoog · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m259e9/simulating_mcp_for_llms_big_leap_in_tool/)
+2025-07-17 · u/repoog · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m259e9/simulating_mcp_for_llms_big_leap_in_tool/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://insbug.medium.com/the-model-context-protocol-mcp-principles-and-security-challenges-8fe6e1c4f6a6>
 
@@ -427,28 +485,36 @@ Link: <https://insbug.medium.com/the-model-context-protocol-mcp-principles-and-s
 >
 > Let’s discuss. How are you approaching this problem space?
 
+<a id="post-30"></a>
+
 ### 30. I stopped copy-pasting prompts between GPT, Claude, Gemini,LLaMA. This open-source multimindSDK just fixed my workflow
 
-2025-07-15 · u/darshan_aqua · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m0mgsq/i_stopped_copypasting_prompts_between_gpt_claude/)
+2025-07-15 · u/darshan_aqua · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1m0mgsq/i_stopped_copypasting_prompts_between_gpt_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/opesourceai/comments/1m0m1tv/i_stopped_copypasting_prompts_between_gpt_claude/>
 
 
+<a id="post-31"></a>
+
 ### 31. OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashboard creation
 
-2025-07-14 · u/aman041 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lzvt0q/openlit_selfhosted_observability_dashboards_built/)
+2025-07-14 · u/aman041 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lzvt0q/openlit_selfhosted_observability_dashboards_built/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-32"></a>
 
 ### 32. OpenLIT: Self-hosted observability dashboards built on ClickHouse — now with full drag-and-drop custom dashboard creation
 
-2025-07-14 · u/aman041 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lzvq4b/openlit_selfhosted_observability_dashboards_built/)
+2025-07-14 · u/aman041 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lzvq4b/openlit_selfhosted_observability_dashboards_built/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. We built a platform to monitor ML + LLM models in production — would love your feedback
 
-2025-07-11 · u/elm3131 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxf9l9/we_built_a_platform_to_monitor_ml_llm_models_in/)
+2025-07-11 · u/elm3131 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxf9l9/we_built_a_platform_to_monitor_ml_llm_models_in/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone —  
 > I’m part of the team at InsightFinder, where we’re building a platform to help monitor and diagnose machine learning and LLM models in production environments.
@@ -474,36 +540,46 @@ Link: </r/opesourceai/comments/1m0m1tv/i_stopped_copypasting_prompts_between_gpt
 >
 > #
 
+<a id="post-34"></a>
+
 ### 34. Just found this
 
-2025-07-11 · u/New_Thing1350 · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxay24/just_found_this/)
+2025-07-11 · u/New_Thing1350 · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxay24/just_found_this/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://aisearchsyndicator.com/>
 
 > I've been searching and searching for a program that will make it easy for me to post on all sorts of sites so that I'm seen by ChatGPT, Gemini, Grok, Perplexity, Deepseek, etc. and I found this. It appears to have just been released. I've found that it's very easy to use.
 
+<a id="post-35"></a>
+
 ### 35. \[image processing failed\]
 
-2025-07-11 · u/\[deleted\] · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxavz2/image_processing_failed/)
+2025-07-11 · u/\[deleted\] · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxavz2/image_processing_failed/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
+
+<a id="post-36"></a>
 
 ### 36. \[image processing failed\]
 
-2025-07-11 · u/\[deleted\] · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxatoi/image_processing_failed/)
+2025-07-11 · u/\[deleted\] · vendors 💸 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lxatoi/image_processing_failed/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-37"></a>
+
 ### 37. Building with LLM agents? These are the patterns teams are doubling down on in Q3/Q4.
 
-2025-07-03 · u/Ankur_Packt · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lr0k53/building_with_llm_agents_these_are_the_patterns/)
+2025-07-03 · u/Ankur_Packt · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lr0k53/building_with_llm_agents_these_are_the_patterns/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PacktDataScience/comments/1lqs6pq/building_with_llm_agents_these_are_the_patterns/>
 
 
+<a id="post-38"></a>
+
 ### 38. LLM Prompt Semantic Diff – Detect meaning-level changes between prompt versions
 
-2025-06-28 · u/WoodenKoala3364 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lmzz71/llm_prompt_semantic_diff_detect_meaninglevel/)
+2025-06-28 · u/WoodenKoala3364 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lmzz71/llm_prompt_semantic_diff_detect_meaninglevel/) · [↑ back to the list](#last-50-posts)
 
 > I have released an open-source CLI that compares Large Language Model prompts in embedding space instead of character space.  
 > • GitHub repository: https://github.com/aatakansalar/llm-prompt-semantic-diff  
@@ -511,9 +587,11 @@ Link: </r/PacktDataScience/comments/1lqs6pq/building_with_llm_agents_these_are_t
 >
 > The tool outputs a similarity score and CI-friendly exit code, allowing teams to catch semantic drift before prompts reach production. Feedback and contributions are welcome.
 
+<a id="post-39"></a>
+
 ### 39. How do you reliably detect model drift in production LLMs?
 
-2025-06-26 · u/elm3131 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1ll9ynl/how_do_you_reliably_detect_model_drift_in/)
+2025-06-26 · u/elm3131 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1ll9ynl/how_do_you_reliably_detect_model_drift_in/) · [↑ back to the list](#last-50-posts)
 
 > We recently launched an LLM in production and saw unexpected behavior—hallucinations and output drift—sneaking in under the radar.
 >
@@ -531,9 +609,11 @@ Link: </r/PacktDataScience/comments/1lqs6pq/building_with_llm_agents_these_are_t
 >
 > Full post here 👉[https://insightfinder.com/blog/model-drift-ai-observability/](https://insightfinder.com/blog/model-drift-ai-observability/)
 
+<a id="post-40"></a>
+
 ### 40. 🚀 I built an open-source AI agent that improves your LLM app — it tests, fixes, and submits PRs automatically.
 
-2025-06-25 · u/CryptographerNo8800 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lkiryc/i_built_an_opensource_ai_agent_that_improves_your/)
+2025-06-25 · u/CryptographerNo8800 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lkiryc/i_built_an_opensource_ai_agent_that_improves_your/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working on an open-source CLI tool called **Kaizen Agent** — it’s like having an AI QA engineer that improves your AI agent or LLM app *without you lifting a finger*.
 >
@@ -552,17 +632,21 @@ Link: </r/PacktDataScience/comments/1lqs6pq/building_with_llm_agents_these_are_t
 >
 > Would love your feedback — especially if you’re building agents, LLM apps, or trying to make AI more reliable!
 
+<a id="post-41"></a>
+
 ### 41. \[2506.08837\] Design Patterns for Securing LLM Agents against Prompt Injections
 
-2025-06-20 · u/juliannorton · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lg7lvn/250608837_design_patterns_for_securing_llm_agents/)
+2025-06-20 · u/juliannorton · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lg7lvn/250608837_design_patterns_for_securing_llm_agents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://arxiv.org/abs/2506.08837>
 
 > > As AI agents powered by Large Language Models (LLMs) become increasingly versatile and capable of addressing a broad spectrum of tasks, ensuring their security has become a critical challenge. Among the most pressing threats are prompt injection attacks, which exploit the agent's resilience on natural language inputs -- an especially dangerous threat when agents are granted tool access or handle sensitive information. In this work, we propose a set of principled design patterns for building AI agents with provable resistance to prompt injection. We systematically analyze these patterns, discuss their trade-offs in terms of utility and security, and illustrate their real-world applicability through a series of case studies.
 
+<a id="post-42"></a>
+
 ### 42. Banyan AI - An introduction
 
-2025-06-20 · u/LiteratureInformal16 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lg0k66/banyan_ai_an_introduction/)
+2025-06-20 · u/LiteratureInformal16 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lg0k66/banyan_ai_an_introduction/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! 👋
 >
@@ -590,18 +674,22 @@ Link: <https://arxiv.org/abs/2506.08837>
 >
 > Follow for more updates: [https://x.com/banyan\_ai](https://x.com/banyan_ai)
 
+<a id="post-43"></a>
+
 ### 43. LLM Log Tool
 
-2025-06-18 · u/Lumiere-Celeste · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lel3dt/llm_log_tool/)
+2025-06-18 · u/Lumiere-Celeste · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1lel3dt/llm_log_tool/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys,
 >
 >
 > We are integrating various LLM models within our AI product, and at the moment we are really struggling with finding an evaluation tool that can help us gain visibility to the responses of these LLM. Because for example a response may be broken i.e because the response\_format is json\_object and certain data is not returned, now we log these but it's hard going back and fourth between logs to see what went wrong. I know OpenAI has a decent Logs overview where you can view responses and then run evaluations etc but this only work for OpenAI models. Can anyone suggest a tool open or closed source that does something similar but is model agnostic ?
 
+<a id="post-44"></a>
+
 ### 44. 🧠 I built Paainet — an AI prompt engine that understands you like a Redditor, not like a keyword.
 
-2025-06-18 · u/the_botverse · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1le9dlw/i_built_paainet_an_ai_prompt_engine_that/)
+2025-06-18 · u/the_botverse · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1le9dlw/i_built_paainet_an_ai_prompt_engine_that/) · [↑ back to the list](#last-50-posts)
 
 > Hey Reddit 👋
 > I’m Aayush (18, solo indie builder, figuring things out one day at a time). For the last couple of months, I’ve been working on something I wish existed when I was struggling with ChatGPT — or honestly, even Google.
@@ -688,9 +776,11 @@ Link: <https://arxiv.org/abs/2506.08837>
 >
 > Share what you’d want your perfect prompt tool to feel like
 
+<a id="post-45"></a>
+
 ### 45. Study buddies for LLMOps
 
-2025-05-28 · u/SnooDogs6511 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kx7ggy/study_buddies_for_llmops/)
+2025-05-28 · u/SnooDogs6511 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kx7ggy/study_buddies_for_llmops/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys. I recently started delving more into LLMs and LLMOPS. I am being interviewed for similar roles so I thought might as well know about it.
 >
@@ -700,9 +790,11 @@ Link: <https://arxiv.org/abs/2506.08837>
 >
 > I wanna go on a journey to learn it and eventually showcase it on certain opportunities. If there’s anyone who would like to join me on this journey do let me know!
 
+<a id="post-46"></a>
+
 ### 46. How is web search so accurate and fast in LLM platforms like ChatGPT, Gemini?
 
-2025-05-26 · u/Similar-Tomorrow-710 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kw7w3s/how_is_web_search_so_accurate_and_fast_in_llm/)
+2025-05-26 · u/Similar-Tomorrow-710 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kw7w3s/how_is_web_search_so_accurate_and_fast_in_llm/) · [↑ back to the list](#last-50-posts)
 
 > I am working on an agentic application which required web search for retrieving relevant infomation for the context. For that reason, I was tasked to implement this "web search" as a tool.
 >
@@ -714,16 +806,20 @@ Link: <https://arxiv.org/abs/2506.08837>
 >
 > It would be helfpul if anyone of you can point me to a relevant doc/blog page or help me understand and implement a robust web search tool for my app.
 
+<a id="post-47"></a>
+
 ### 47. I saw God molesting babies in heaven and sucking the penis of Satan
 
-2025-05-24 · u/WarmCriticism409 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1ku4bb9/i_saw_god_molesting_babies_in_heaven_and_sucking/)
+2025-05-24 · u/WarmCriticism409 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/llmops/comments/1ku4bb9/i_saw_god_molesting_babies_in_heaven_and_sucking/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.blogger.com/profile/17341363441235422222>
 
 
+<a id="post-48"></a>
+
 ### 48. Looking to Serve Multiple LoRA Adapters for Classification via Triton – Feasible?
 
-2025-05-20 · u/mrvipul_17 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kredpq/looking_to_serve_multiple_lora_adapters_for/)
+2025-05-20 · u/mrvipul_17 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1kredpq/looking_to_serve_multiple_lora_adapters_for/) · [↑ back to the list](#last-50-posts)
 
 > Newbie Question:
 > I've fine-tuned a LLaMA 3.2 1B model for a classification task using a LoRA adapter. I'm now looking to deploy it in a way where the base model is loaded into GPU memory once, and I can dynamically switch between multiple LoRA adapters—each corresponding to a different number of classes.
@@ -732,16 +828,20 @@ Link: <https://www.blogger.com/profile/17341363441235422222>
 >
 > Any guidance or recommendations would be appreciated!
 
+<a id="post-49"></a>
+
 ### 49. Announcing MCPR 0.2.2: The a Template Generator for Anthropic's Model Context Protocol in Rust
 
-2025-03-15 · u/conikeec · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1jc6vcj/announcing_mcpr_022_the_a_template_generator_for/)
+2025-03-15 · u/conikeec · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1jc6vcj/announcing_mcpr_022_the_a_template_generator_for/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/rust/comments/1jbz6qx/announcing_mcpr_022_the_a_template_generator_for/>
 
 
+<a id="post-50"></a>
+
 ### 50. How do I use file upload API in qwen2-5 max?
 
-2025-03-15 · u/lazylurker999 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1jbl9a3/how_do_i_use_file_upload_api_in_qwen25_max/)
+2025-03-15 · u/lazylurker999 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmops/comments/1jbl9a3/how_do_i_use_file_upload_api_in_qwen25_max/) · [↑ back to the list](#last-50-posts)
 
 > Hi. How does one  use a file upload with qwen-2.5 max? When I use their chat interface my application is perfect and I just want to replicate this via the API and it involves uploading a file with a prompt that's all. But I can't find documentation for this on Alibaba console or anything -- can someone PLEASE help me? Idk if I'm just stupid breaking my head over this or they actually don't allow file upload via API?? Please help 🙏
 >

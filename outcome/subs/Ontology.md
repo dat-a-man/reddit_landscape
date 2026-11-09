@@ -27,56 +27,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2022-05-24 | [Is Science Alone Enough? - The Metaphysics behind Physics](https://www.reddit.com/r/Ontology/comments/uwmoqa/is_science_alone_enough_the_metaphysics_behind/) | u/willb1898 | — | text | 2 | 0 | live | — |
-| 2 | 2022-05-03 | [Scientific reality is textual](https://www.reddit.com/r/Ontology/comments/uhe5nj/scientific_reality_is_textual/) | u/qiling | — | text | 0 | 1 | live | — |
-| 3 | 2022-04-26 | [Time and the Reality of "Now" - May 1, 2022, an online discussion, free and open to everyone](https://www.reddit.com/r/Ontology/comments/ucp296/time_and_the_reality_of_now_may_1_2022_an_online/) | u/PhilosophyTO | — | text | 3 | 0 | live | — |
-| 4 | 2022-04-17 | [the absurdity of reality](https://www.reddit.com/r/Ontology/comments/u5cq3o/the_absurdity_of_reality/) | u/qiling | — | text | 1 | 0 | live | — |
-| 5 | 2022-04-16 | [Prolegomenon-to-a-Grand-Unified-Theory](https://www.reddit.com/r/Ontology/comments/u52kj1/prolegomenontoagrandunifiedtheory/) | u/qiling | — | text | 1 | 0 | live | — |
-| 6 | 2022-04-12 | [Any one noticed the kinship between Spinoza’s theology and Nieche’s eternal return?](https://www.reddit.com/r/Ontology/comments/u1xa0v/any_one_noticed_the_kinship_between_spinozas/) | u/Jack5rrR | — | text | 2 | 1 | live | — |
-| 7 | 2022-03-14 | [Qutoe: R.A. Schwaller de Lubicz. (formatted for me to read conveniently). From 'the temple in man.'](https://www.reddit.com/r/Ontology/comments/tdydjr/qutoe_ra_schwaller_de_lubicz_formatted_for_me_to/) | u/Ablative12-7 | — | text | 0 | 3 | live | — |
-| 8 | 2022-03-06 | [Quick question…](https://www.reddit.com/r/Ontology/comments/t840mw/quick_question/) | u/Fireproof_comics | — | text | 0 | 0 | removed by mod | — |
-| 9 | 2022-02-25 | [uTrade V2 Is Coming on Ontology to Improve DeFi Capabilities](https://www.reddit.com/r/Ontology/comments/t117qf/utrade_v2_is_coming_on_ontology_to_improve_defi/) | u/CoinjoyAssistant | — | coinjoy.io | 0 | 0 | live | — |
-| 10 | 2022-02-22 | [It's because it was a horrible assumption to make](https://www.reddit.com/r/Ontology/comments/sz1tik/its_because_it_was_a_horrible_assumption_to_make/) | u/blobfishey | — | youtube.com | 0 | 1 | live | — |
-| 11 | 2022-02-22 | [Martin Heidegger's The Origin of the Work of Art: Part I — An online reading and discussion group, meeting on…](https://www.reddit.com/r/Ontology/comments/syuell/martin_heideggers_the_origin_of_the_work_of_art/) | u/PhilosophyTO | — | text | 1 | 1 | live | — |
-| 12 | 2022-02-17 | [The Ontology of Quantum Physics](https://www.reddit.com/r/Ontology/comments/suo0z0/the_ontology_of_quantum_physics/) | u/willb1898 | — | text | 5 | 2 | live | — |
-| 13 | 2022-02-15 | [Plato's Cave & Appearance vs Reality](https://www.reddit.com/r/Ontology/comments/st0k3t/platos_cave_appearance_vs_reality/) | u/willb1898 | — | text | 3 | 2 | live | — |
-| 14 | 2022-02-11 | [Ground-Breaking Ontological, Archetypal and Mathematical Exegesis of the Anatomy and Morphology (Inc. Dimensi…](https://www.reddit.com/r/Ontology/comments/sq5jcy/groundbreaking_ontological_archetypal_and/) | u/GlitteringRabbit833 | — | text | 0 | 6 | approved | — |
-| 15 | 2022-02-08 | [\[deleted by user\]](https://www.reddit.com/r/Ontology/comments/snqq2u/deleted_by_user/) | u/\[deleted\] | — | text | 3 | 10 | live | — |
-| 16 | 2022-02-08 | [Sketch from September 2021, originally titled “Conclusions”](https://www.reddit.com/r/Ontology/comments/snaw1x/sketch_from_september_2021_originally_titled/) | u/aiiaiaaiiaa | — | text | 1 | 1 | live | — |
-| 17 | 2022-02-05 | [Philosophy Discussion Discord Server for Academics, students, autodidacts, and general learners](https://www.reddit.com/r/Ontology/comments/skw9kf/philosophy_discussion_discord_server_for/) | u/_eudaim0nia | — | text | 3 | 1 | live | — |
-| 18 | 2022-01-26 | [Are the concepts 'entity' and 'existence in a world' definable?](https://www.reddit.com/r/Ontology/comments/sd2jw4/are_the_concepts_entity_and_existence_in_a_world/) | u/C-O-N-A-T-U-S | — | text | 2 | 14 | live | — |
-| 19 | 2022-01-24 | [Brute fact.](https://www.reddit.com/r/Ontology/comments/sbnmpx/brute_fact/) | u/Ablative12-7 | — | text | 0 | 17 | live | — |
-| 20 | 2022-01-24 | [With Ontology cryptocurrency, you can purchase anything from over 2200 well-known brands at Coinsbee(dot)com.](https://www.reddit.com/r/Ontology/comments/sbgyx0/with_ontology_cryptocurrency_you_can_purchase/) | u/coinsbee_com | — | i.redd.it | 0 | 1 | live | — |
-| 21 | 2022-01-19 | [newCRYPTOlisting: Ontology (ONT) now listed on Bitthumb](https://www.reddit.com/r/Ontology/comments/s7t1wx/newcryptolisting_ontology_ont_now_listed_on/) | u/newCRYPTOlistings | — | text | 0 | 2 | live | — |
-| 22 | 2022-01-18 | [Rene Guenon.](https://www.reddit.com/r/Ontology/comments/s6x35c/rene_guenon/) | u/Ablative12-7 | — | text | 5 | 1 | live | — |
-| 23 | 2022-01-18 | [What Actually IS a Number? - Plato & The Mathematical Realm](https://www.reddit.com/r/Ontology/comments/s6viri/what_actually_is_a_number_plato_the_mathematical/) | u/willb1898 | — | youtu.be | 2 | 3 | live | — |
-| 24 | 2022-01-15 | [Is Time an Illusion? - Entropy & Time’s Arrow](https://www.reddit.com/r/Ontology/comments/s4oh85/is_time_an_illusion_entropy_times_arrow/) | u/willb1898 | — | youtu.be | 3 | 3 | live | — |
-| 25 | 2022-01-15 | [Swap ONG for ONT…. how?](https://www.reddit.com/r/Ontology/comments/s4cb1c/swap_ong_for_ont_how/) | u/Source_Uno | — | text | 0 | 1 | live | — |
-| 26 | 2022-01-13 | [I've been slowly binging this guy's videos. He has a lot of good stuff to say about consciousness and ontolog…](https://www.reddit.com/r/Ontology/comments/s2wkyp/ive_been_slowly_binging_this_guys_videos_he_has_a/) | u/Minimum-Count-5102 | — | youtu.be | 2 | 3 | live | — |
-| 27 | 2022-01-09 | [1 Five Steps to Interoperability (in the domain of scientific ontology) Barry Smith. - ppt download](https://www.reddit.com/r/Ontology/comments/rzoouw/1_five_steps_to_interoperability_in_the_domain_of/) | u/DrCoochieburger | — | slideplayer.com | 4 | 2 | live | — |
-| 28 | 2022-01-07 | [Any of you read Thomasson's ”Ontology made easy”? What are your thoughts on it?](https://www.reddit.com/r/Ontology/comments/ry7l75/any_of_you_read_thomassons_ontology_made_easy/) | u/\[deleted\] | — | text | 1 | 0 | deleted by author | — |
-| 29 | 2021-12-30 | [I need help moving ONT with ONG in Exodus wallet. I bought some ONT (Ontology) in order to stake in the Exodu…](https://www.reddit.com/r/Ontology/comments/rrpcdz/i_need_help_moving_ont_with_ong_in_exodus_wallet/) | u/\[deleted\] | — | reddit.com | 0 | 3 | deleted by author | — |
-| 30 | 2021-12-20 | [Does nothing exist?](https://www.reddit.com/r/Ontology/comments/rkaam4/does_nothing_exist/) | u/LazertheRedditer | — | text | 8 | 8 | live | — |
-| 31 | 2021-12-17 | [I think therefore I am.](https://www.reddit.com/r/Ontology/comments/ridxox/i_think_therefore_i_am/) | u/Tmill233 | — | text | 5 | 7 | live | — |
-| 32 | 2021-12-05 | [Rene Guenon quote.](https://www.reddit.com/r/Ontology/comments/r9hkou/rene_guenon_quote/) | u/Ablative12-7 | — | text | 3 | 3 | live | — |
-| 33 | 2021-11-30 | [Why does the dual coin model have to be so non user friendly?](https://www.reddit.com/r/Ontology/comments/r5eq3b/why_does_the_dual_coin_model_have_to_be_so_non/) | u/pumapumapumas | — | text | 0 | 4 | live | — |
-| 34 | 2021-11-23 | [Ontology and bloXmove to bring decentralized identity to urban transport apps](https://www.reddit.com/r/Ontology/comments/r0e97j/ontology_and_bloxmove_to_bring_decentralized/) | u/CoinjoyAssistant | — | coinjoy.io | 0 | 3 | live | — |
-| 35 | 2021-11-21 | [Ontology coin](https://www.reddit.com/r/Ontology/comments/qyrnrj/ontology_coin/) | u/seorim2020 | — | youtu.be | 1 | 2 | live | — |
-| 36 | 2021-11-12 | [A Prolegomenon to a Grand Unified Theory](https://www.reddit.com/r/Ontology/comments/qsn1g5/a_prolegomenon_to_a_grand_unified_theory/) | u/qiling | — | text | 1 | 2 | live | — |
-| 37 | 2021-10-24 | [Object-Oriented Ontology: A New Theory of Everything (2018) by Graham Harman — an online reading + discussion…](https://www.reddit.com/r/Ontology/comments/qehohl/objectoriented_ontology_a_new_theory_of/) | u/darrenjyc | — | text | 5 | 2 | live | — |
-| 38 | 2021-10-20 | [Need ONG to start staking ONT](https://www.reddit.com/r/Ontology/comments/qc6rqd/need_ong_to_start_staking_ont/) | u/Chuck9785 | — | text | 1 | 8 | live | — |
-| 39 | 2021-10-11 | [If a 4th/extra dimensional entity/being/intelligence was capable of traversing the temporal dimension of time…](https://www.reddit.com/r/Ontology/comments/q69adi/if_a_4thextra_dimensional_entitybeingintelligence/) | u/Homestar_Runnar | — | text | 1 | 39 | live | — |
-| 40 | 2021-10-06 | [Novelty emergence mechanics as a core idea of any viable ontology of the universe](https://www.reddit.com/r/Ontology/comments/q2qf0c/novelty_emergence_mechanics_as_a_core_idea_of_any/) | u/kiwi0fruit | — | text | 2 | 6 | live | — |
-| 41 | 2021-10-06 | [Philosophical Ecstasy, Ontology of Unicity vs. Multiplicity, Types of Mysticism](https://www.reddit.com/r/Ontology/comments/q2or1e/philosophical_ecstasy_ontology_of_unicity_vs/) | u/Lodddddddddddd | — | ethericbell.com | 1 | 2 | live | — |
-| 42 | 2021-10-06 | [\[deleted by user\]](https://www.reddit.com/r/Ontology/comments/q2oqio/deleted_by_user/) | u/\[deleted\] | — | text | 1 | 0 | live | — |
-| 43 | 2021-10-06 | [Ontology provided tamper prevention program to Japanese company ZAICO](https://www.reddit.com/r/Ontology/comments/q2kxit/ontology_provided_tamper_prevention_program_to/) | u/CoinjoyAssistant | — | coinjoy.io | 1 | 0 | removed by mod | — |
-| 44 | 2021-10-02 | [Quantum Physics Debunks Materialism](https://www.reddit.com/r/Ontology/comments/pzqrm0/quantum_physics_debunks_materialism/) | u/curiouswes66 | — | youtube.com | 8 | 3 | live | — |
-| 45 | 2021-10-02 | [\[deleted by user\]](https://www.reddit.com/r/Ontology/comments/pzqqwf/deleted_by_user/) | u/\[deleted\] | — | text | 1 | 0 | live | — |
-| 46 | 2021-09-28 | [Hello Ontologists! Need your guidance towards what course to take?](https://www.reddit.com/r/Ontology/comments/pxcvub/hello_ontologists_need_your_guidance_towards_what/) | u/higz | — | text | 9 | 9 | live | — |
-| 47 | 2021-09-27 | [Maturity is the capacity to endure uncertainty?](https://www.reddit.com/r/Ontology/comments/pwnq35/maturity_is_the_capacity_to_endure_uncertainty/) | u/Lazy-Interaction-189 | — | text | 1 | 0 | spam-filtered | — |
-| 48 | 2021-09-26 | [Is there an actual term for "something that is beyond or precedes being and non-being"?](https://www.reddit.com/r/Ontology/comments/pvnfdk/is_there_an_actual_term_for_something_that_is/) | u/EmptySky93 | — | text | 3 | 5 | live | — |
-| 49 | 2021-09-21 | [Blog on medium.com](https://www.reddit.com/r/Ontology/comments/ps87n5/blog_on_mediumcom/) | u/edmaster111 | — | text | 1 | 0 | spam-filtered | — |
-| 50 | 2021-09-20 | [Ad ignorantiam illustrated from a time perspective](https://www.reddit.com/r/Ontology/comments/prrcrw/ad_ignorantiam_illustrated_from_a_time_perspective/) | u/Lazy-Interaction-189 | — | text | 3 | 11 | approved | — |
+| 1 | 2022-05-24 | [Is Science Alone Enough? - The Metaphysics behind Physics](#post-1) | u/willb1898 | — | text | 2 | 0 | live | — |
+| 2 | 2022-05-03 | [Scientific reality is textual](#post-2) | u/qiling | — | text | 0 | 1 | live | — |
+| 3 | 2022-04-26 | [Time and the Reality of "Now" - May 1, 2022, an online discussion, free and open to everyone](#post-3) | u/PhilosophyTO | — | text | 3 | 0 | live | — |
+| 4 | 2022-04-17 | [the absurdity of reality](#post-4) | u/qiling | — | text | 1 | 0 | live | — |
+| 5 | 2022-04-16 | [Prolegomenon-to-a-Grand-Unified-Theory](#post-5) | u/qiling | — | text | 1 | 0 | live | — |
+| 6 | 2022-04-12 | [Any one noticed the kinship between Spinoza’s theology and Nieche’s eternal return?](#post-6) | u/Jack5rrR | — | text | 2 | 1 | live | — |
+| 7 | 2022-03-14 | [Qutoe: R.A. Schwaller de Lubicz. (formatted for me to read conveniently). From 'the temple in man.'](#post-7) | u/Ablative12-7 | — | text | 0 | 3 | live | — |
+| 8 | 2022-03-06 | [Quick question…](#post-8) | u/Fireproof_comics | — | text | 0 | 0 | removed by mod | — |
+| 9 | 2022-02-25 | [uTrade V2 Is Coming on Ontology to Improve DeFi Capabilities](#post-9) | u/CoinjoyAssistant | — | coinjoy.io | 0 | 0 | live | — |
+| 10 | 2022-02-22 | [It's because it was a horrible assumption to make](#post-10) | u/blobfishey | — | youtube.com | 0 | 1 | live | — |
+| 11 | 2022-02-22 | [Martin Heidegger's The Origin of the Work of Art: Part I — An online reading and discussion group, meeting on…](#post-11) | u/PhilosophyTO | — | text | 1 | 1 | live | — |
+| 12 | 2022-02-17 | [The Ontology of Quantum Physics](#post-12) | u/willb1898 | — | text | 5 | 2 | live | — |
+| 13 | 2022-02-15 | [Plato's Cave & Appearance vs Reality](#post-13) | u/willb1898 | — | text | 3 | 2 | live | — |
+| 14 | 2022-02-11 | [Ground-Breaking Ontological, Archetypal and Mathematical Exegesis of the Anatomy and Morphology (Inc. Dimensi…](#post-14) | u/GlitteringRabbit833 | — | text | 0 | 6 | approved | — |
+| 15 | 2022-02-08 | [\[deleted by user\]](#post-15) | u/\[deleted\] | — | text | 3 | 10 | live | — |
+| 16 | 2022-02-08 | [Sketch from September 2021, originally titled “Conclusions”](#post-16) | u/aiiaiaaiiaa | — | text | 1 | 1 | live | — |
+| 17 | 2022-02-05 | [Philosophy Discussion Discord Server for Academics, students, autodidacts, and general learners](#post-17) | u/_eudaim0nia | — | text | 3 | 1 | live | — |
+| 18 | 2022-01-26 | [Are the concepts 'entity' and 'existence in a world' definable?](#post-18) | u/C-O-N-A-T-U-S | — | text | 2 | 14 | live | — |
+| 19 | 2022-01-24 | [Brute fact.](#post-19) | u/Ablative12-7 | — | text | 0 | 17 | live | — |
+| 20 | 2022-01-24 | [With Ontology cryptocurrency, you can purchase anything from over 2200 well-known brands at Coinsbee(dot)com.](#post-20) | u/coinsbee_com | — | i.redd.it | 0 | 1 | live | — |
+| 21 | 2022-01-19 | [newCRYPTOlisting: Ontology (ONT) now listed on Bitthumb](#post-21) | u/newCRYPTOlistings | — | text | 0 | 2 | live | — |
+| 22 | 2022-01-18 | [Rene Guenon.](#post-22) | u/Ablative12-7 | — | text | 5 | 1 | live | — |
+| 23 | 2022-01-18 | [What Actually IS a Number? - Plato & The Mathematical Realm](#post-23) | u/willb1898 | — | youtu.be | 2 | 3 | live | — |
+| 24 | 2022-01-15 | [Is Time an Illusion? - Entropy & Time’s Arrow](#post-24) | u/willb1898 | — | youtu.be | 3 | 3 | live | — |
+| 25 | 2022-01-15 | [Swap ONG for ONT…. how?](#post-25) | u/Source_Uno | — | text | 0 | 1 | live | — |
+| 26 | 2022-01-13 | [I've been slowly binging this guy's videos. He has a lot of good stuff to say about consciousness and ontolog…](#post-26) | u/Minimum-Count-5102 | — | youtu.be | 2 | 3 | live | — |
+| 27 | 2022-01-09 | [1 Five Steps to Interoperability (in the domain of scientific ontology) Barry Smith. - ppt download](#post-27) | u/DrCoochieburger | — | slideplayer.com | 4 | 2 | live | — |
+| 28 | 2022-01-07 | [Any of you read Thomasson's ”Ontology made easy”? What are your thoughts on it?](#post-28) | u/\[deleted\] | — | text | 1 | 0 | deleted by author | — |
+| 29 | 2021-12-30 | [I need help moving ONT with ONG in Exodus wallet. I bought some ONT (Ontology) in order to stake in the Exodu…](#post-29) | u/\[deleted\] | — | reddit.com | 0 | 3 | deleted by author | — |
+| 30 | 2021-12-20 | [Does nothing exist?](#post-30) | u/LazertheRedditer | — | text | 8 | 8 | live | — |
+| 31 | 2021-12-17 | [I think therefore I am.](#post-31) | u/Tmill233 | — | text | 5 | 7 | live | — |
+| 32 | 2021-12-05 | [Rene Guenon quote.](#post-32) | u/Ablative12-7 | — | text | 3 | 3 | live | — |
+| 33 | 2021-11-30 | [Why does the dual coin model have to be so non user friendly?](#post-33) | u/pumapumapumas | — | text | 0 | 4 | live | — |
+| 34 | 2021-11-23 | [Ontology and bloXmove to bring decentralized identity to urban transport apps](#post-34) | u/CoinjoyAssistant | — | coinjoy.io | 0 | 3 | live | — |
+| 35 | 2021-11-21 | [Ontology coin](#post-35) | u/seorim2020 | — | youtu.be | 1 | 2 | live | — |
+| 36 | 2021-11-12 | [A Prolegomenon to a Grand Unified Theory](#post-36) | u/qiling | — | text | 1 | 2 | live | — |
+| 37 | 2021-10-24 | [Object-Oriented Ontology: A New Theory of Everything (2018) by Graham Harman — an online reading + discussion…](#post-37) | u/darrenjyc | — | text | 5 | 2 | live | — |
+| 38 | 2021-10-20 | [Need ONG to start staking ONT](#post-38) | u/Chuck9785 | — | text | 1 | 8 | live | — |
+| 39 | 2021-10-11 | [If a 4th/extra dimensional entity/being/intelligence was capable of traversing the temporal dimension of time…](#post-39) | u/Homestar_Runnar | — | text | 1 | 39 | live | — |
+| 40 | 2021-10-06 | [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#post-40) | u/kiwi0fruit | — | text | 2 | 6 | live | — |
+| 41 | 2021-10-06 | [Philosophical Ecstasy, Ontology of Unicity vs. Multiplicity, Types of Mysticism](#post-41) | u/Lodddddddddddd | — | ethericbell.com | 1 | 2 | live | — |
+| 42 | 2021-10-06 | [\[deleted by user\]](#post-42) | u/\[deleted\] | — | text | 1 | 0 | live | — |
+| 43 | 2021-10-06 | [Ontology provided tamper prevention program to Japanese company ZAICO](#post-43) | u/CoinjoyAssistant | — | coinjoy.io | 1 | 0 | removed by mod | — |
+| 44 | 2021-10-02 | [Quantum Physics Debunks Materialism](#post-44) | u/curiouswes66 | — | youtube.com | 8 | 3 | live | — |
+| 45 | 2021-10-02 | [\[deleted by user\]](#post-45) | u/\[deleted\] | — | text | 1 | 0 | live | — |
+| 46 | 2021-09-28 | [Hello Ontologists! Need your guidance towards what course to take?](#post-46) | u/higz | — | text | 9 | 9 | live | — |
+| 47 | 2021-09-27 | [Maturity is the capacity to endure uncertainty?](#post-47) | u/Lazy-Interaction-189 | — | text | 1 | 0 | spam-filtered | — |
+| 48 | 2021-09-26 | [Is there an actual term for "something that is beyond or precedes being and non-being"?](#post-48) | u/EmptySky93 | — | text | 3 | 5 | live | — |
+| 49 | 2021-09-21 | [Blog on medium.com](#post-49) | u/edmaster111 | — | text | 1 | 0 | spam-filtered | — |
+| 50 | 2021-09-20 | [Ad ignorantiam illustrated from a time perspective](#post-50) | u/Lazy-Interaction-189 | — | text | 3 | 11 | approved | — |
 
 ## Top 20 posts, last 30 days
 
@@ -88,17 +88,21 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Is Science Alone Enough? - The Metaphysics behind Physics
 
-2022-05-24 · u/willb1898 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/uwmoqa/is_science_alone_enough_the_metaphysics_behind/)
+2022-05-24 · u/willb1898 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/uwmoqa/is_science_alone_enough_the_metaphysics_behind/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,  I talked with Ard Louis, Professor of Theoretical Physics at Oxford, around the metaphysical assumptions underlying Physics and Science in general, and the room for faith and beauty in the fields of abstract thought. Apparently there are more people who identify as in the Sciences than in the Arts at academic institutions and that sparked this conversation which I really enjoyed, hope you do too!
 >
 > [https://youtu.be/JyAoxYnQK-o](https://youtu.be/JyAoxYnQK-o)
 
+<a id="post-2"></a>
+
 ### 2. Scientific reality is textual
 
-2022-05-03 · u/qiling · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/uhe5nj/scientific_reality_is_textual/)
+2022-05-03 · u/qiling · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/uhe5nj/scientific_reality_is_textual/) · [↑ back to the list](#last-50-posts)
 
 > Scientific reality is textual
 >
@@ -108,16 +112,20 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > https://www.scribd.com/document/572639157/Scientific-Reality-is-Textual
 
+<a id="post-3"></a>
+
 ### 3. Time and the Reality of "Now" - May 1, 2022, an online discussion, free and open to everyone
 
-2022-04-26 · u/PhilosophyTO · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ucp296/time_and_the_reality_of_now_may_1_2022_an_online/)
+2022-04-26 · u/PhilosophyTO · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ucp296/time_and_the_reality_of_now_may_1_2022_an_online/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PhilosophyEvents/comments/uc7ebg/time_and_the_reality_of_now_may_1_2022/>
 
 
+<a id="post-4"></a>
+
 ### 4. the absurdity of reality
 
-2022-04-17 · u/qiling · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u5cq3o/the_absurdity_of_reality/)
+2022-04-17 · u/qiling · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u5cq3o/the_absurdity_of_reality/) · [↑ back to the list](#last-50-posts)
 
 > the absurdity of reality
 >
@@ -127,9 +135,11 @@ Link: </r/PhilosophyEvents/comments/uc7ebg/time_and_the_reality_of_now_may_1_202
 >
 > https://www.scribd.com/document/304318409/reality-ends-in-absurdity
 
+<a id="post-5"></a>
+
 ### 5. Prolegomenon-to-a-Grand-Unified-Theory
 
-2022-04-16 · u/qiling · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u52kj1/prolegomenontoagrandunifiedtheory/)
+2022-04-16 · u/qiling · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u52kj1/prolegomenontoagrandunifiedtheory/) · [↑ back to the list](#last-50-posts)
 
 > Prolegomenon-to-a-Grand-Unified-Theory
 >
@@ -139,15 +149,19 @@ Link: </r/PhilosophyEvents/comments/uc7ebg/time_and_the_reality_of_now_may_1_202
 >
 > https://www.scribd.com/document/508721702/Prolegomenon-to-a-Grand-Unified-Theory
 
+<a id="post-6"></a>
+
 ### 6. Any one noticed the kinship between Spinoza’s theology and Nieche’s eternal return?
 
-2022-04-12 · u/Jack5rrR · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u1xa0v/any_one_noticed_the_kinship_between_spinozas/)
+2022-04-12 · u/Jack5rrR · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/u1xa0v/any_one_noticed_the_kinship_between_spinozas/) · [↑ back to the list](#last-50-posts)
 
 > Someone must notice it.Both monothetic constructer.
 
+<a id="post-7"></a>
+
 ### 7. Qutoe: R.A. Schwaller de Lubicz. (formatted for me to read conveniently). From 'the temple in man.'
 
-2022-03-14 · u/Ablative12-7 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/tdydjr/qutoe_ra_schwaller_de_lubicz_formatted_for_me_to/)
+2022-03-14 · u/Ablative12-7 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/tdydjr/qutoe_ra_schwaller_de_lubicz_formatted_for_me_to/) · [↑ back to the list](#last-50-posts)
 
 > Life is the faculty of reacting
 >
@@ -205,36 +219,46 @@ Link: </r/PhilosophyEvents/comments/uc7ebg/time_and_the_reality_of_now_may_1_202
 >
 > is the vital phenomenon.
 
+<a id="post-8"></a>
+
 ### 8. Quick question…
 
-2022-03-06 · u/Fireproof_comics · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Ontology/comments/t840mw/quick_question/)
+2022-03-06 · u/Fireproof_comics · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Ontology/comments/t840mw/quick_question/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. uTrade V2 Is Coming on Ontology to Improve DeFi Capabilities
 
-2022-02-25 · u/CoinjoyAssistant · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/t117qf/utrade_v2_is_coming_on_ontology_to_improve_defi/)
+2022-02-25 · u/CoinjoyAssistant · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/t117qf/utrade_v2_is_coming_on_ontology_to_improve_defi/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://coinjoy.io/news/264485137/utrade-v2-is-coming-on-ontology-to-improve-defi-capabilities?utm_medium=social&utm_source=reddit&utm_campaign=News>
 
 
+<a id="post-10"></a>
+
 ### 10. It's because it was a horrible assumption to make
 
-2022-02-22 · u/blobfishey · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sz1tik/its_because_it_was_a_horrible_assumption_to_make/)
+2022-02-22 · u/blobfishey · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sz1tik/its_because_it_was_a_horrible_assumption_to_make/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/shorts/a9sJ8pRunUc>
 
 
+<a id="post-11"></a>
+
 ### 11. Martin Heidegger's The Origin of the Work of Art: Part I — An online reading and discussion group, meeting on Thursday March 17, free and open to all
 
-2022-02-22 · u/PhilosophyTO · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/syuell/martin_heideggers_the_origin_of_the_work_of_art/)
+2022-02-22 · u/PhilosophyTO · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/syuell/martin_heideggers_the_origin_of_the_work_of_art/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_work_of_art/>
 
 
+<a id="post-12"></a>
+
 ### 12. The Ontology of Quantum Physics
 
-2022-02-17 · u/willb1898 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/suo0z0/the_ontology_of_quantum_physics/)
+2022-02-17 · u/willb1898 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/suo0z0/the_ontology_of_quantum_physics/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, I've started a new YouTube series on the ontology and physical basis of Quantum Mechanics with Episode 1 on Wave-Particle Duality and the Single Slit experiment, would love your feedback!
 >
@@ -242,9 +266,11 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >
 > Episode 2 covers the Double Slit experiment with observation (my favourite experiment of all time!) Hope it's of interest.
 
+<a id="post-13"></a>
+
 ### 13. Plato's Cave & Appearance vs Reality
 
-2022-02-15 · u/willb1898 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/st0k3t/platos_cave_appearance_vs_reality/)
+2022-02-15 · u/willb1898 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/st0k3t/platos_cave_appearance_vs_reality/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -252,21 +278,27 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >
 > [https://youtu.be/QpC4-6JqaBY](https://youtu.be/QpC4-6JqaBY)
 
+<a id="post-14"></a>
+
 ### 14. Ground-Breaking Ontological, Archetypal and Mathematical Exegesis of the Anatomy and Morphology (Inc. Dimensions, Modal Qualities, and Gustatory Sensations) of an English Crumpet, Coated with Butter/Hartley’s Raspberry-Flavour Jam, and Tea with Milk, Rounded to the Nearest Two Breakfasts
 
-2022-02-11 · u/GlitteringRabbit833 · score 0 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sq5jcy/groundbreaking_ontological_archetypal_and/)
+2022-02-11 · u/GlitteringRabbit833 · score 0 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sq5jcy/groundbreaking_ontological_archetypal_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-15"></a>
 
 ### 15. \[deleted by user\]
 
-2022-02-08 · u/\[deleted\] · score 3 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/snqq2u/deleted_by_user/)
+2022-02-08 · u/\[deleted\] · score 3 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/snqq2u/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. Sketch from September 2021, originally titled “Conclusions”
 
-2022-02-08 · u/aiiaiaaiiaa · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/snaw1x/sketch_from_september_2021_originally_titled/)
+2022-02-08 · u/aiiaiaaiiaa · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/snaw1x/sketch_from_september_2021_originally_titled/) · [↑ back to the list](#last-50-posts)
 
 > Conclusions
 >
@@ -307,9 +339,11 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >             a. Knowledge implies “knowledge of something”—but if the something and the knowledge of it are completely independent from one another and have no relation to each other, then this knowledge is simply another “something”; and, consequently, this “knowledge” is also not known, for the “knowledge of this ‘knowledge’”, is just another completely unrelated “something”. Therefore,  
 > 	9.	Nothing is known.
 
+<a id="post-17"></a>
+
 ### 17. Philosophy Discussion Discord Server for Academics, students, autodidacts, and general learners
 
-2022-02-05 · u/_eudaim0nia · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/skw9kf/philosophy_discussion_discord_server_for/)
+2022-02-05 · u/_eudaim0nia · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/skw9kf/philosophy_discussion_discord_server_for/) · [↑ back to the list](#last-50-posts)
 
 > I would like to invite you to a philosophy discord server. For teachers, students, and autodidacts.
 >
@@ -319,9 +353,11 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >
 > See you all there!
 
+<a id="post-18"></a>
+
 ### 18. Are the concepts 'entity' and 'existence in a world' definable?
 
-2022-01-26 · u/C-O-N-A-T-U-S · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sd2jw4/are_the_concepts_entity_and_existence_in_a_world/)
+2022-01-26 · u/C-O-N-A-T-U-S · score 2 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sd2jw4/are_the_concepts_entity_and_existence_in_a_world/) · [↑ back to the list](#last-50-posts)
 
 > Recently, due to boredom and the strong feeling that everything I think is about concepts that I could not really define or about concepts derived from others that I could not really define, I began to develop (as I could) the axiomatics underlying my thinking to feel more confident about my conclusions by having my thoughts more systematized. The purpose of this exercise is not so much the logical system itself but rather the process –since it clarifies and structures my ideas–.
 >
@@ -334,9 +370,11 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >
 > Hence, the question arises: are the concepts 'entity' and 'existence in a world' definable? That is, are there some concepts more fundamental than these that allow their definability? Thanks for reading.
 
+<a id="post-19"></a>
+
 ### 19. Brute fact.
 
-2022-01-24 · u/Ablative12-7 · score 0 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sbnmpx/brute_fact/)
+2022-01-24 · u/Ablative12-7 · score 0 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sbnmpx/brute_fact/) · [↑ back to the list](#last-50-posts)
 
 > All existence is life 
 >
@@ -374,23 +412,29 @@ Link: </r/PhilosophyEvents/comments/syda23/martin_heideggers_the_origin_of_the_w
 >
 > in the totality of its entirety.
 
+<a id="post-20"></a>
+
 ### 20. With Ontology cryptocurrency, you can purchase anything from over 2200 well-known brands at Coinsbee(dot)com.
 
-2022-01-24 · u/coinsbee_com · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sbgyx0/with_ontology_cryptocurrency_you_can_purchase/)
+2022-01-24 · u/coinsbee_com · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/sbgyx0/with_ontology_cryptocurrency_you_can_purchase/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9qd0y5speld81.png>
 
 
+<a id="post-21"></a>
+
 ### 21. newCRYPTOlisting: Ontology (ONT) now listed on Bitthumb
 
-2022-01-19 · u/newCRYPTOlistings · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s7t1wx/newcryptolisting_ontology_ont_now_listed_on/)
+2022-01-19 · u/newCRYPTOlistings · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s7t1wx/newcryptolisting_ontology_ont_now_listed_on/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/newCRYPTOlistings/comments/s7litn/newcryptolisting_ontology_ont_now_listed_on/>
 
 
+<a id="post-22"></a>
+
 ### 22. Rene Guenon.
 
-2022-01-18 · u/Ablative12-7 · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s6x35c/rene_guenon/)
+2022-01-18 · u/Ablative12-7 · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s6x35c/rene_guenon/) · [↑ back to the list](#last-50-posts)
 
 > All that exists,
 >
@@ -436,57 +480,73 @@ Link: </r/newCRYPTOlistings/comments/s7litn/newcryptolisting_ontology_ont_now_li
 >
 > that is the veritable basis of symbolism.
 
+<a id="post-23"></a>
+
 ### 23. What Actually IS a Number? - Plato & The Mathematical Realm
 
-2022-01-18 · u/willb1898 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s6viri/what_actually_is_a_number_plato_the_mathematical/)
+2022-01-18 · u/willb1898 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s6viri/what_actually_is_a_number_plato_the_mathematical/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/DPSf1sHaXlU>
 
 
+<a id="post-24"></a>
+
 ### 24. Is Time an Illusion? - Entropy & Time’s Arrow
 
-2022-01-15 · u/willb1898 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s4oh85/is_time_an_illusion_entropy_times_arrow/)
+2022-01-15 · u/willb1898 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s4oh85/is_time_an_illusion_entropy_times_arrow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/w5D-AiUhHCI>
 
 
+<a id="post-25"></a>
+
 ### 25. Swap ONG for ONT…. how?
 
-2022-01-15 · u/Source_Uno · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s4cb1c/swap_ong_for_ont_how/)
+2022-01-15 · u/Source_Uno · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s4cb1c/swap_ong_for_ont_how/) · [↑ back to the list](#last-50-posts)
 
 > Have some ONG I need to swap to ONT or any other coin to send back to Binance.US. Don’t see any options to do that? Any help would be great! Thanks!
 
+<a id="post-26"></a>
+
 ### 26. I've been slowly binging this guy's videos. He has a lot of good stuff to say about consciousness and ontology, and he's very entertaining!
 
-2022-01-13 · u/Minimum-Count-5102 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s2wkyp/ive_been_slowly_binging_this_guys_videos_he_has_a/)
+2022-01-13 · u/Minimum-Count-5102 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/s2wkyp/ive_been_slowly_binging_this_guys_videos_he_has_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/KdDNfTREQJU>
 
 
+<a id="post-27"></a>
+
 ### 27. 1 Five Steps to Interoperability (in the domain of scientific ontology) Barry Smith. - ppt download
 
-2022-01-09 · u/DrCoochieburger · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rzoouw/1_five_steps_to_interoperability_in_the_domain_of/)
+2022-01-09 · u/DrCoochieburger · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rzoouw/1_five_steps_to_interoperability_in_the_domain_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://slideplayer.com/slide/697759/#.Ydq2HMZEsHk.reddit>
 
 
+<a id="post-28"></a>
+
 ### 28. Any of you read Thomasson's ”Ontology made easy”? What are your thoughts on it?
 
-2022-01-07 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ry7l75/any_of_you_read_thomassons_ontology_made_easy/)
+2022-01-07 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ry7l75/any_of_you_read_thomassons_ontology_made_easy/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-29"></a>
+
 ### 29. I need help moving ONT with ONG in Exodus wallet. I bought some ONT (Ontology) in order to stake in the Exodus Wallet. It says I need a small amount of ONG (Ontology Gas) in order to move the ONG. **Continued on next post**
 
-2021-12-30 · u/\[deleted\] · score 0 · 3 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rrpcdz/i_need_help_moving_ont_with_ong_in_exodus_wallet/)
+2021-12-30 · u/\[deleted\] · score 0 · 3 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rrpcdz/i_need_help_moving_ont_with_ong_in_exodus_wallet/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/rrpcdz>
 
 *No text: deleted by its author.*
 
+<a id="post-30"></a>
+
 ### 30. Does nothing exist?
 
-2021-12-20 · u/LazertheRedditer · score 8 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rkaam4/does_nothing_exist/)
+2021-12-20 · u/LazertheRedditer · score 8 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/rkaam4/does_nothing_exist/) · [↑ back to the list](#last-50-posts)
 
 > Im not 100% sure if this is an ontological argument, but this is a problem that has bugged me for some time now. The word "nothing" according to dictionary definition means "absence of things". Things are objects that exist, so if those composites are absent, how can it exist?
 >
@@ -498,15 +558,19 @@ Link: <https://www.reddit.com/gallery/rrpcdz>
 >
 > A friend of mine mentioned that dark matter and dark energy themselves are the existing condensations of nothing. I thought "well, how can this be? Dark matter and dark energy are things, if it takes up space and there is more than 0 of it, it's obviously a thing. This contradicts the meaning of 'nothing', and this creates another paradox". Ultimately, our language and perception of reality, and the laws we assigned it don't allow for nothing exist, so personally, I don't believe the concept of nothing can exist.
 
+<a id="post-31"></a>
+
 ### 31. I think therefore I am.
 
-2021-12-17 · u/Tmill233 · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ridxox/i_think_therefore_i_am/)
+2021-12-17 · u/Tmill233 · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ridxox/i_think_therefore_i_am/) · [↑ back to the list](#last-50-posts)
 
 > The idea of “I think, therefore I am” is interesting. What is thought? If you cease to think, are you no longer? Are memories required for thought? If you can no longer think, and have no memories of thinking, did you ever really have exist? If nothingness is where I came from, and it’s where I’m going, am I always nothing?
 
+<a id="post-32"></a>
+
 ### 32. Rene Guenon quote.
 
-2021-12-05 · u/Ablative12-7 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r9hkou/rene_guenon_quote/)
+2021-12-05 · u/Ablative12-7 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r9hkou/rene_guenon_quote/) · [↑ back to the list](#last-50-posts)
 
 > When I read this I am transported as by a poem. I am affected and enhanced. I claim here that this is a very great poem.
 >
@@ -514,9 +578,11 @@ Link: <https://www.reddit.com/gallery/rrpcdz>
 >
 > ''If we define Being in the universal sense as the principle of manifestation, and at the same time as comprising in itself the totality of possibilities of all manifestation, we must say that Being is not infinite because it does not coincide with total Possibility; and all the more so because Being, as the principle of manifestation, although it does indeed comprise all the possibilities of manifestation, does so only insofar as they are actually manifested. Outside of Being, therefore, are all the rest, that is all the possibilities of non-manifestation, as well as the possibilities of manifestation themselves insofar as they are in the unmanifested state; and included among these is Being itself, which cannot belong to manifestation since it is the principle thereof, and in consequence is itself unmanifested. For want of any other term, we are obliged to designate all that is thus outside and beyond Being as "Non-Being", but for us this negative term is in no way synonym for 'nothingness'.'' - Rene Guenon.
 
+<a id="post-33"></a>
+
 ### 33. Why does the dual coin model have to be so non user friendly?
 
-2021-11-30 · u/pumapumapumas · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r5eq3b/why_does_the_dual_coin_model_have_to_be_so_non/)
+2021-11-30 · u/pumapumapumas · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r5eq3b/why_does_the_dual_coin_model_have_to_be_so_non/) · [↑ back to the list](#last-50-posts)
 
 > Once everyone gets past the whole “my ONT is stuck in Exodus wallet because I don’t have any ONG to stake it or transfer it”, there are still hurdles to jump through. 
 >
@@ -528,23 +594,29 @@ Link: <https://www.reddit.com/gallery/rrpcdz>
 >
 > I wish I had never heard of this project.
 
+<a id="post-34"></a>
+
 ### 34. Ontology and bloXmove to bring decentralized identity to urban transport apps
 
-2021-11-23 · u/CoinjoyAssistant · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r0e97j/ontology_and_bloxmove_to_bring_decentralized/)
+2021-11-23 · u/CoinjoyAssistant · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/r0e97j/ontology_and_bloxmove_to_bring_decentralized/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://coinjoy.io/news/249225982/ontology-and-bloxmove-to-bring-decentralized-identity-to-urban-transport-apps?utm_medium=social&utm_source=reddit&utm_campaign=News>
 
 
+<a id="post-35"></a>
+
 ### 35. Ontology coin
 
-2021-11-21 · u/seorim2020 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qyrnrj/ontology_coin/)
+2021-11-21 · u/seorim2020 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qyrnrj/ontology_coin/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/TZziKlg0GmM>
 
 
+<a id="post-36"></a>
+
 ### 36. A Prolegomenon to a Grand Unified Theory
 
-2021-11-12 · u/qiling · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qsn1g5/a_prolegomenon_to_a_grand_unified_theory/)
+2021-11-12 · u/qiling · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qsn1g5/a_prolegomenon_to_a_grand_unified_theory/) · [↑ back to the list](#last-50-posts)
 
 > A Prolegomenon to a Grand Unified Theory
 >
@@ -561,16 +633,20 @@ Link: <https://youtu.be/TZziKlg0GmM>
 >
 > https://www.scribd.com/document/508721702/Prolegomenon-to-a-Grand-Unified-Theory
 
+<a id="post-37"></a>
+
 ### 37. Object-Oriented Ontology: A New Theory of Everything (2018) by Graham Harman — an online reading + discussion group starting Sunday, October 31, free and open to all
 
-2021-10-24 · u/darrenjyc · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qehohl/objectoriented_ontology_a_new_theory_of/)
+2021-10-24 · u/darrenjyc · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qehohl/objectoriented_ontology_a_new_theory_of/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PhilosophyEvents/comments/qeh540/objectoriented_ontology_a_new_theory_of/>
 
 
+<a id="post-38"></a>
+
 ### 38. Need ONG to start staking ONT
 
-2021-10-20 · u/Chuck9785 · score 1 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qc6rqd/need_ong_to_start_staking_ont/)
+2021-10-20 · u/Chuck9785 · score 1 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/qc6rqd/need_ong_to_start_staking_ont/) · [↑ back to the list](#last-50-posts)
 
 > Need ONG to start staking on exodus
 >
@@ -578,17 +654,21 @@ Link: </r/PhilosophyEvents/comments/qeh540/objectoriented_ontology_a_new_theory_
 >
 > ONG Address: AdEtR1hUpMg4kaQzzBzRUNsB2M7exEUsKa
 
+<a id="post-39"></a>
+
 ### 39. If a 4th/extra dimensional entity/being/intelligence was capable of traversing the temporal dimension of time...
 
-2021-10-11 · u/Homestar_Runnar · score 1 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q69adi/if_a_4thextra_dimensional_entitybeingintelligence/)
+2021-10-11 · u/Homestar_Runnar · score 1 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q69adi/if_a_4thextra_dimensional_entitybeingintelligence/) · [↑ back to the list](#last-50-posts)
 
 > it would ultimately be detected through various forms of preserved information/media even if it was only capable of influence and not necessarily a specific form of matter or an actual object.
 >
 > Does that concept make sense?
 
+<a id="post-40"></a>
+
 ### 40. Novelty emergence mechanics as a core idea of any viable ontology of the universe
 
-2021-10-06 · u/kiwi0fruit · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2qf0c/novelty_emergence_mechanics_as_a_core_idea_of_any/)
+2021-10-06 · u/kiwi0fruit · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2qf0c/novelty_emergence_mechanics_as_a_core_idea_of_any/) · [↑ back to the list](#last-50-posts)
 
 > I'm sure that any ontology that desires to be applicable to the universe as a whole should contain novelty emergence mechanics.
 >
@@ -603,42 +683,54 @@ Link: </r/PhilosophyEvents/comments/qeh540/objectoriented_ontology_a_new_theory_
 >
 > Hence it would be a good try to embrace [Universal Darwinism](https://m.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
 
+<a id="post-41"></a>
+
 ### 41. Philosophical Ecstasy, Ontology of Unicity vs. Multiplicity, Types of Mysticism
 
-2021-10-06 · u/Lodddddddddddd · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2or1e/philosophical_ecstasy_ontology_of_unicity_vs/)
+2021-10-06 · u/Lodddddddddddd · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2or1e/philosophical_ecstasy_ontology_of_unicity_vs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.ethericbell.com/blog/ecstasy>
 
 
+<a id="post-42"></a>
+
 ### 42. \[deleted by user\]
 
-2021-10-06 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2oqio/deleted_by_user/)
+2021-10-06 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2oqio/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-43"></a>
+
 ### 43. Ontology provided tamper prevention program to Japanese company ZAICO
 
-2021-10-06 · u/CoinjoyAssistant · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2kxit/ontology_provided_tamper_prevention_program_to/)
+2021-10-06 · u/CoinjoyAssistant · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Ontology/comments/q2kxit/ontology_provided_tamper_prevention_program_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://coinjoy.io/news/245772792/ontology-provided-tamper-prevention-program-to-japanese-company-zaico?utm_medium=social&utm_source=reddit&utm_campaign=News>
 
 
+<a id="post-44"></a>
+
 ### 44. Quantum Physics Debunks Materialism
 
-2021-10-02 · u/curiouswes66 · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pzqrm0/quantum_physics_debunks_materialism/)
+2021-10-02 · u/curiouswes66 · score 8 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pzqrm0/quantum_physics_debunks_materialism/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=4C5pq7W5yRM>
 
 
+<a id="post-45"></a>
+
 ### 45. \[deleted by user\]
 
-2021-10-02 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pzqqwf/deleted_by_user/)
+2021-10-02 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pzqqwf/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. Hello Ontologists! Need your guidance towards what course to take?
 
-2021-09-28 · u/higz · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pxcvub/hello_ontologists_need_your_guidance_towards_what/)
+2021-09-28 · u/higz · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pxcvub/hello_ontologists_need_your_guidance_towards_what/) · [↑ back to the list](#last-50-posts)
 
 > Hello there, 
 >
@@ -652,15 +744,19 @@ Link: <https://www.youtube.com/watch?v=4C5pq7W5yRM>
 > Thank you.
 > x
 
+<a id="post-47"></a>
+
 ### 47. Maturity is the capacity to endure uncertainty?
 
-2021-09-27 · u/Lazy-Interaction-189 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pwnq35/maturity_is_the_capacity_to_endure_uncertainty/)
+2021-09-27 · u/Lazy-Interaction-189 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pwnq35/maturity_is_the_capacity_to_endure_uncertainty/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. Is there an actual term for "something that is beyond or precedes being and non-being"?
 
-2021-09-26 · u/EmptySky93 · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pvnfdk/is_there_an_actual_term_for_something_that_is/)
+2021-09-26 · u/EmptySky93 · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Ontology/comments/pvnfdk/is_there_an_actual_term_for_something_that_is/) · [↑ back to the list](#last-50-posts)
 
 > I have been studying the Buddhist concept of Shunyata, as well as the Qabalistic Ein Sof (the Tao is an analogous concept), and have run into this ontological notiom of a thing that precedes or transcends the categories of existence and non-existence.
 >
@@ -668,15 +764,19 @@ Link: <https://www.youtube.com/watch?v=4C5pq7W5yRM>
 >
 > Is there a term for this in philosophy, religious studies, or any other field? If not, should one be created?
 
+<a id="post-49"></a>
+
 ### 49. Blog on medium.com
 
-2021-09-21 · u/edmaster111 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ps87n5/blog_on_mediumcom/)
+2021-09-21 · u/edmaster111 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Ontology/comments/ps87n5/blog_on_mediumcom/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. Ad ignorantiam illustrated from a time perspective
 
-2021-09-20 · u/Lazy-Interaction-189 · score 3 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/Ontology/comments/prrcrw/ad_ignorantiam_illustrated_from_a_time_perspective/)
+2021-09-20 · u/Lazy-Interaction-189 · score 3 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/Ontology/comments/prrcrw/ad_ignorantiam_illustrated_from_a_time_perspective/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 

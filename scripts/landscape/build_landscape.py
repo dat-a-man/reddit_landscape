@@ -419,7 +419,9 @@ def posts_table(posts, numbers=None, notes=None):
     rows = []
     for p in posts:
         domain = "text" if (p.get("domain") or "").startswith("self.") else esc(p.get("domain"))
-        row = [day(p["created_utc"]), f"[{esc(p.get('title'), 110)}]({url(p)})", "u/" + esc(p.get("author")),
+        # With numbers, the title jumps to the post's full text further down the page; otherwise to Reddit.
+        target = f"#post-{numbers[p['id']]}" if numbers is not None else url(p)
+        row = [day(p["created_utc"]), f"[{esc(p.get('title'), 110)}]({target})", "u/" + esc(p.get("author")),
                esc(p.get("link_flair_text"), 30), domain, p.get("score"), p.get("num_comments"), arc.post_status(p)]
         if numbers is not None:
             row.insert(0, numbers[p["id"]])
@@ -605,8 +607,10 @@ def write_sub_page(sub, s, ours, data_date, rules_rec=None, page=None):
               "about 20 seconds after posting. Removed posts usually have no text left.", ""]
     for p in numbered:
         info = [day(p["created_utc"]), "u/" + esc(p.get("author")), esc(p.get("link_flair_text")),
-                f"score {p.get('score')}", f"{p.get('num_comments')} comments", arc.post_status(p), f"[open on Reddit]({url(p)})"]
-        lines += [f"### {numbers[p['id']]}. {esc(p.get('title'))}", "", " · ".join(x for x in info if x), ""]
+                f"score {p.get('score')}", f"{p.get('num_comments')} comments", arc.post_status(p),
+                f"[open on Reddit]({url(p)})", f"[↑ back to the list](#last-{LAST_N}-posts)"]
+        n = numbers[p["id"]]
+        lines += [f'<a id="post-{n}"></a>', "", f"### {n}. {esc(p.get('title'))}", "", " · ".join(x for x in info if x), ""]
         lines += post_text(p) + [""]
         for author, text in s["notes"].get(p["id"], []):
             lines += [f"**Mod comment** (u/{esc(author)}): {esc_note(text)}", ""]

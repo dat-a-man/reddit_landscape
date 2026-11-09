@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-09-09 | [Best IPTV Services - Finally I Found the Best IPTV Service Providers That Actually Works in 2026 (Best IPTV S…](https://www.reddit.com/r/PySpark/comments/1wbv1m8/best_iptv_services_finally_i_found_the_best_iptv/) | u/AutoModerator | — | text | 0 | 1 | community_ops | — |
-| 2 | 2026-08-12 | [r/PySpark is available for adoption 💚](https://www.reddit.com/r/PySpark/comments/1vmnhy7/rpyspark_is_available_for_adoption/) | u/ModSupportBot | — | text | 3 | 0 | live | — |
-| 3 | 2022-10-04 | [Happy Cakeday, r/PySpark! Today you're 8](https://www.reddit.com/r/PySpark/comments/xv3yqw/happy_cakeday_rpyspark_today_youre_8/) | u/AutoModerator | — | text | 3 | 0 | live | — |
-| 4 | 2022-02-02 | [How to fill null values in row by taking the most common value of that complete row?](https://www.reddit.com/r/PySpark/comments/sig6jc/how_to_fill_null_values_in_row_by_taking_the_most/) | u/Different-Ad-2901 | — | text | 2 | 1 | live | — |
-| 5 | 2022-02-01 | [Apache Spark Experts in India \| Apache Spark Experts \| Ksolves](https://www.reddit.com/r/PySpark/comments/shlicf/apache_spark_experts_in_india_apache_spark/) | u/manishksolves | — | ksolves.com | 0 | 0 | live | — |
-| 6 | 2022-02-01 | [PySpark Vs Python: A Cognitive Analysis](https://www.reddit.com/r/PySpark/comments/shlf5e/pyspark_vs_python_a_cognitive_analysis/) | u/manishksolves | — | ksolves.com | 2 | 0 | live | — |
-| 7 | 2022-01-27 | [Reading a xlsx file with PySpark](https://www.reddit.com/r/PySpark/comments/se3q22/reading_a_xlsx_file_with_pyspark/) | u/AnonymouseRedd | — | text | 4 | 4 | live | — |
-| 8 | 2022-01-21 | [\[HIRING\] 3 python developers Jobs and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/s99on2/hiring_3_python_developers_jobs_and_more_hiring/) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
-| 9 | 2022-01-19 | [Pass list of dates to SQL WHERE statement](https://www.reddit.com/r/PySpark/comments/s83eyf/pass_list_of_dates_to_sql_where_statement/) | u/DrData82 | — | text | 5 | 6 | live | — |
-| 10 | 2022-01-17 | [Parsing a file with multiple json schema](https://www.reddit.com/r/PySpark/comments/s6i0rf/parsing_a_file_with_multiple_json_schema/) | u/getafterit123 | — | text | 3 | 2 | live | — |
-| 11 | 2022-01-17 | [Parsing nested json with pyspark question](https://www.reddit.com/r/PySpark/comments/s6hzjn/parsing_nested_json_with_pyspark_question/) | u/\[deleted\] | — | text | 1 | 0 | deleted by author | — |
-| 12 | 2022-01-16 | [Pyspark Developer Discord Server](https://www.reddit.com/r/PySpark/comments/s5h3wx/pyspark_developer_discord_server/) | u/SpiritMaleficent21 | — | text | 3 | 1 | live | — |
-| 13 | 2022-01-16 | [Using scala udfs in pyspark](https://www.reddit.com/r/PySpark/comments/s54gbm/using_scala_udfs_in_pyspark/) | u/West_Arugula9520 | — | text | 1 | 1 | live | — |
-| 14 | 2022-01-16 | [any Pyspark discord group available](https://www.reddit.com/r/PySpark/comments/s523yk/any_pyspark_discord_group_available/) | u/SpiritMaleficent21 | — | text | 1 | 9 | live | — |
-| 15 | 2022-01-14 | [pyspark python coding](https://www.reddit.com/r/PySpark/comments/s43r9a/pyspark_python_coding/) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
-| 16 | 2022-01-14 | [\[HIRING\] 20 python developers Jobs and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/s3r72p/hiring_20_python_developers_jobs_and_more_hiring/) | u/saffeergunx | — | text | 2 | 0 | spam-filtered | — |
-| 17 | 2022-01-12 | [Sorting in pyspark](https://www.reddit.com/r/PySpark/comments/s1sy96/sorting_in_pyspark/) | u/Different-Ad-2901 | — | text | 2 | 8 | live | — |
-| 18 | 2022-01-11 | [Totally stuck on how to pre-process, visualise and cluster data](https://www.reddit.com/r/PySpark/comments/s1dlm0/totally_stuck_on_how_to_preprocess_visualise_and/) | u/Modest_Gaslight | — | text | 5 | 5 | live | — |
-| 19 | 2022-01-08 | [\[HIRING\] 1 python developers Job and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/ryyi59/hiring_1_python_developers_job_and_more_hiring_now/) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
-| 20 | 2022-01-05 | [Single node task scheduling for DL model](https://www.reddit.com/r/PySpark/comments/rweskm/single_node_task_scheduling_for_dl_model/) | u/SpiritMaleficent21 | — | text | 1 | 0 | live | — |
-| 21 | 2022-01-04 | [When function not supported in window function in pyspark?](https://www.reddit.com/r/PySpark/comments/rw1ig1/when_function_not_supported_in_window_function_in/) | u/quirkelle | — | text | 1 | 0 | live | — |
-| 22 | 2022-01-04 | [K-means clustering error](https://www.reddit.com/r/PySpark/comments/rw0vq9/kmeans_clustering_error/) | u/Pellys98 | — | text | 1 | 0 | live | — |
-| 23 | 2022-01-01 | [\[HIRING\] 14 python developers Jobs and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/rtkgls/hiring_14_python_developers_jobs_and_more_hiring/) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
-| 24 | 2021-12-31 | [How do we load deep learning Trained model.pt file into Spark](https://www.reddit.com/r/PySpark/comments/rsq144/how_do_we_load_deep_learning_trained_modelpt_file/) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
-| 25 | 2021-12-31 | [Deep learning Trained Model Integration with Pyspark Spark](https://www.reddit.com/r/PySpark/comments/rsi2vs/deep_learning_trained_model_integration_with/) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
-| 26 | 2021-12-29 | [Are there any PySpark puzzles to help people learn how to use PySpark?](https://www.reddit.com/r/PySpark/comments/rr8x4n/are_there_any_pyspark_puzzles_to_help_people/) | u/pelicano87 | — | text | 3 | 4 | live | — |
-| 27 | 2021-12-24 | [\[HIRING\] 9 python developers Jobs and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/rnm3r6/hiring_9_python_developers_jobs_and_more_hiring/) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
-| 28 | 2021-12-24 | [Help using pyspark in Jupyter. Strange error](https://www.reddit.com/r/PySpark/comments/rnijyw/help_using_pyspark_in_jupyter_strange_error/) | u/professorDissociate | — | text | 0 | 2 | live | — |
-| 29 | 2021-12-22 | [Create new column within a join?](https://www.reddit.com/r/PySpark/comments/rmh2eg/create_new_column_within_a_join/) | u/DrData82 | — | text | 2 | 2 | live | — |
-| 30 | 2021-12-19 | [Ways to speed up `pyspark.sql.GroupedData.applyInPandas` processing on a large dataset](https://www.reddit.com/r/PySpark/comments/rjxts8/ways_to_speed_up/) | u/Noname-2910 | — | text | 1 | 7 | live | — |
-| 31 | 2021-12-13 | [Create new column with existing....not working](https://www.reddit.com/r/PySpark/comments/rfo6b1/create_new_column_with_existingnot_working/) | u/DrData82 | — | text | 2 | 2 | live | — |
-| 32 | 2021-12-13 | [\[deleted by user\]](https://www.reddit.com/r/PySpark/comments/rfbuyn/deleted_by_user/) | u/\[deleted\] | — | text | 1 | 0 | live | — |
-| 33 | 2021-12-09 | [\[HIRING\] 15 python developers Jobs and more, Hiring Now!](https://www.reddit.com/r/PySpark/comments/rch7l3/hiring_15_python_developers_jobs_and_more_hiring/) | u/thataswunws | — | text | 1 | 0 | spam-filtered | — |
-| 34 | 2021-11-24 | [Dropping duplicate row with condition](https://www.reddit.com/r/PySpark/comments/r1drna/dropping_duplicate_row_with_condition/) | u/NandJ02 | — | text | 1 | 0 | live | — |
-| 35 | 2021-11-23 | [\[deleted by user\]](https://www.reddit.com/r/PySpark/comments/r0ksb9/deleted_by_user/) | u/\[deleted\] | — | text | 1 | 0 | live | — |
-| 36 | 2021-11-23 | [merge two rdds](https://www.reddit.com/r/PySpark/comments/r0f12s/merge_two_rdds/) | u/Telephone_Pretty | — | text | 0 | 2 | live | — |
-| 37 | 2021-11-22 | [How Do I automate pyspark-submit adding steps to a running EMR cluster?](https://www.reddit.com/r/PySpark/comments/qzsp8t/how_do_i_automate_pysparksubmit_adding_steps_to_a/) | u/real_red_neck | — | text | 1 | 1 | live | — |
-| 38 | 2021-11-20 | [\[deleted by user\]](https://www.reddit.com/r/PySpark/comments/qy6pap/deleted_by_user/) | u/\[deleted\] | — | text | 0 | 3 | live | — |
-| 39 | 2021-11-19 | [How to do Hot Deck imputation on a PySpark Dataframe?](https://www.reddit.com/r/PySpark/comments/qxlb56/how_to_do_hot_deck_imputation_on_a_pyspark/) | u/Togepitsch | — | text | 1 | 5 | live | — |
-| 40 | 2021-11-17 | [Installing seaborn on pyspark on AWS EMR](https://www.reddit.com/r/PySpark/comments/qwbk2o/installing_seaborn_on_pyspark_on_aws_emr/) | u/xaznweix | — | text | 1 | 1 | live | — |
-| 41 | 2021-11-15 | [Can anybody help me with my homework](https://www.reddit.com/r/PySpark/comments/qusnq0/can_anybody_help_me_with_my_homework/) | u/\[deleted\] | — | text | 2 | 1 | deleted by author | — |
-| 42 | 2021-11-08 | [Pyspark count() slow](https://www.reddit.com/r/PySpark/comments/qplrtg/pyspark_count_slow/) | u/rawlingsjj | — | text | 5 | 6 | live | — |
-| 43 | 2021-10-11 | [\[deleted by user\]](https://www.reddit.com/r/PySpark/comments/q5t4t9/deleted_by_user/) | u/\[deleted\] | — | text | 2 | 0 | live | — |
-| 44 | 2021-10-08 | [What is the easiest way to connect to a spark cluster from visual studio code?](https://www.reddit.com/r/PySpark/comments/q3sj80/what_is_the_easiest_way_to_connect_to_a_spark/) | u/niklas_ema0 | — | text | 2 | 3 | live | — |
-| 45 | 2021-10-07 | [Dynamic dictionary in pyspark](https://www.reddit.com/r/PySpark/comments/q3c741/dynamic_dictionary_in_pyspark/) | u/kash80 | — | text | 2 | 5 | live | — |
-| 46 | 2021-10-04 | [Happy Cakeday, r/PySpark! Today you're 7](https://www.reddit.com/r/PySpark/comments/q0x9eh/happy_cakeday_rpyspark_today_youre_7/) | u/AutoModerator | — | text | 1 | 0 | live | — |
-| 47 | 2021-10-03 | [Best way to convert parquet to csv files?](https://www.reddit.com/r/PySpark/comments/q06tau/best_way_to_convert_parquet_to_csv_files/) | u/bomjesuscrucified | — | text | 2 | 2 | live | — |
-| 48 | 2021-09-28 | [Is it normal to use python 2-PySpark for new projects still?](https://www.reddit.com/r/PySpark/comments/px11hd/is_it_normal_to_use_python_2pyspark_for_new/) | u/niklas_ema0 | — | text | 1 | 2 | live | — |
-| 49 | 2021-09-23 | [What is a spark node/cluster when it's install on a single laptop/box?](https://www.reddit.com/r/PySpark/comments/pu3krl/what_is_a_spark_nodecluster_when_its_install_on_a/) | u/Heavy-_-Breathing | — | text | 2 | 1 | live | — |
-| 50 | 2021-09-22 | [Since we should terminate EMR cluster every time after our work is done, let’s say I’m in the middle of a pro…](https://www.reddit.com/r/PySpark/comments/pt7a8r/since_we_should_terminate_emr_cluster_every_time/) | u/goelprateek | — | text | 0 | 3 | live | — |
+| 1 | 2026-09-09 | [Best IPTV Services - Finally I Found the Best IPTV Service Providers That Actually Works in 2026 (Best IPTV S…](#post-1) | u/AutoModerator | — | text | 0 | 1 | community_ops | — |
+| 2 | 2026-08-12 | [r/PySpark is available for adoption 💚](#post-2) | u/ModSupportBot | — | text | 3 | 0 | live | — |
+| 3 | 2022-10-04 | [Happy Cakeday, r/PySpark! Today you're 8](#post-3) | u/AutoModerator | — | text | 3 | 0 | live | — |
+| 4 | 2022-02-02 | [How to fill null values in row by taking the most common value of that complete row?](#post-4) | u/Different-Ad-2901 | — | text | 2 | 1 | live | — |
+| 5 | 2022-02-01 | [Apache Spark Experts in India \| Apache Spark Experts \| Ksolves](#post-5) | u/manishksolves | — | ksolves.com | 0 | 0 | live | — |
+| 6 | 2022-02-01 | [PySpark Vs Python: A Cognitive Analysis](#post-6) | u/manishksolves | — | ksolves.com | 2 | 0 | live | — |
+| 7 | 2022-01-27 | [Reading a xlsx file with PySpark](#post-7) | u/AnonymouseRedd | — | text | 4 | 4 | live | — |
+| 8 | 2022-01-21 | [\[HIRING\] 3 python developers Jobs and more, Hiring Now!](#post-8) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
+| 9 | 2022-01-19 | [Pass list of dates to SQL WHERE statement](#post-9) | u/DrData82 | — | text | 5 | 6 | live | — |
+| 10 | 2022-01-17 | [Parsing a file with multiple json schema](#post-10) | u/getafterit123 | — | text | 3 | 2 | live | — |
+| 11 | 2022-01-17 | [Parsing nested json with pyspark question](#post-11) | u/\[deleted\] | — | text | 1 | 0 | deleted by author | — |
+| 12 | 2022-01-16 | [Pyspark Developer Discord Server](#post-12) | u/SpiritMaleficent21 | — | text | 3 | 1 | live | — |
+| 13 | 2022-01-16 | [Using scala udfs in pyspark](#post-13) | u/West_Arugula9520 | — | text | 1 | 1 | live | — |
+| 14 | 2022-01-16 | [any Pyspark discord group available](#post-14) | u/SpiritMaleficent21 | — | text | 1 | 9 | live | — |
+| 15 | 2022-01-14 | [pyspark python coding](#post-15) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
+| 16 | 2022-01-14 | [\[HIRING\] 20 python developers Jobs and more, Hiring Now!](#post-16) | u/saffeergunx | — | text | 2 | 0 | spam-filtered | — |
+| 17 | 2022-01-12 | [Sorting in pyspark](#post-17) | u/Different-Ad-2901 | — | text | 2 | 8 | live | — |
+| 18 | 2022-01-11 | [Totally stuck on how to pre-process, visualise and cluster data](#post-18) | u/Modest_Gaslight | — | text | 5 | 5 | live | — |
+| 19 | 2022-01-08 | [\[HIRING\] 1 python developers Job and more, Hiring Now!](#post-19) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
+| 20 | 2022-01-05 | [Single node task scheduling for DL model](#post-20) | u/SpiritMaleficent21 | — | text | 1 | 0 | live | — |
+| 21 | 2022-01-04 | [When function not supported in window function in pyspark?](#post-21) | u/quirkelle | — | text | 1 | 0 | live | — |
+| 22 | 2022-01-04 | [K-means clustering error](#post-22) | u/Pellys98 | — | text | 1 | 0 | live | — |
+| 23 | 2022-01-01 | [\[HIRING\] 14 python developers Jobs and more, Hiring Now!](#post-23) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
+| 24 | 2021-12-31 | [How do we load deep learning Trained model.pt file into Spark](#post-24) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
+| 25 | 2021-12-31 | [Deep learning Trained Model Integration with Pyspark Spark](#post-25) | u/SpiritMaleficent21 | — | text | 2 | 0 | live | — |
+| 26 | 2021-12-29 | [Are there any PySpark puzzles to help people learn how to use PySpark?](#post-26) | u/pelicano87 | — | text | 3 | 4 | live | — |
+| 27 | 2021-12-24 | [\[HIRING\] 9 python developers Jobs and more, Hiring Now!](#post-27) | u/saffeergunx | — | text | 1 | 0 | spam-filtered | — |
+| 28 | 2021-12-24 | [Help using pyspark in Jupyter. Strange error](#post-28) | u/professorDissociate | — | text | 0 | 2 | live | — |
+| 29 | 2021-12-22 | [Create new column within a join?](#post-29) | u/DrData82 | — | text | 2 | 2 | live | — |
+| 30 | 2021-12-19 | [Ways to speed up `pyspark.sql.GroupedData.applyInPandas` processing on a large dataset](#post-30) | u/Noname-2910 | — | text | 1 | 7 | live | — |
+| 31 | 2021-12-13 | [Create new column with existing....not working](#post-31) | u/DrData82 | — | text | 2 | 2 | live | — |
+| 32 | 2021-12-13 | [\[deleted by user\]](#post-32) | u/\[deleted\] | — | text | 1 | 0 | live | — |
+| 33 | 2021-12-09 | [\[HIRING\] 15 python developers Jobs and more, Hiring Now!](#post-33) | u/thataswunws | — | text | 1 | 0 | spam-filtered | — |
+| 34 | 2021-11-24 | [Dropping duplicate row with condition](#post-34) | u/NandJ02 | — | text | 1 | 0 | live | — |
+| 35 | 2021-11-23 | [\[deleted by user\]](#post-35) | u/\[deleted\] | — | text | 1 | 0 | live | — |
+| 36 | 2021-11-23 | [merge two rdds](#post-36) | u/Telephone_Pretty | — | text | 0 | 2 | live | — |
+| 37 | 2021-11-22 | [How Do I automate pyspark-submit adding steps to a running EMR cluster?](#post-37) | u/real_red_neck | — | text | 1 | 1 | live | — |
+| 38 | 2021-11-20 | [\[deleted by user\]](#post-38) | u/\[deleted\] | — | text | 0 | 3 | live | — |
+| 39 | 2021-11-19 | [How to do Hot Deck imputation on a PySpark Dataframe?](#post-39) | u/Togepitsch | — | text | 1 | 5 | live | — |
+| 40 | 2021-11-17 | [Installing seaborn on pyspark on AWS EMR](#post-40) | u/xaznweix | — | text | 1 | 1 | live | — |
+| 41 | 2021-11-15 | [Can anybody help me with my homework](#post-41) | u/\[deleted\] | — | text | 2 | 1 | deleted by author | — |
+| 42 | 2021-11-08 | [Pyspark count() slow](#post-42) | u/rawlingsjj | — | text | 5 | 6 | live | — |
+| 43 | 2021-10-11 | [\[deleted by user\]](#post-43) | u/\[deleted\] | — | text | 2 | 0 | live | — |
+| 44 | 2021-10-08 | [What is the easiest way to connect to a spark cluster from visual studio code?](#post-44) | u/niklas_ema0 | — | text | 2 | 3 | live | — |
+| 45 | 2021-10-07 | [Dynamic dictionary in pyspark](#post-45) | u/kash80 | — | text | 2 | 5 | live | — |
+| 46 | 2021-10-04 | [Happy Cakeday, r/PySpark! Today you're 7](#post-46) | u/AutoModerator | — | text | 1 | 0 | live | — |
+| 47 | 2021-10-03 | [Best way to convert parquet to csv files?](#post-47) | u/bomjesuscrucified | — | text | 2 | 2 | live | — |
+| 48 | 2021-09-28 | [Is it normal to use python 2-PySpark for new projects still?](#post-48) | u/niklas_ema0 | — | text | 1 | 2 | live | — |
+| 49 | 2021-09-23 | [What is a spark node/cluster when it's install on a single laptop/box?](#post-49) | u/Heavy-_-Breathing | — | text | 2 | 1 | live | — |
+| 50 | 2021-09-22 | [Since we should terminate EMR cluster every time after our work is done, let’s say I’m in the middle of a pro…](#post-50) | u/goelprateek | — | text | 0 | 3 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -90,9 +90,11 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Best IPTV Services - Finally I Found the Best IPTV Service Providers That Actually Works in 2026 (Best IPTV Service)
 
-2026-09-09 · u/AutoModerator · score 0 · 1 comments · community_ops · [open on Reddit](https://www.reddit.com/r/PySpark/comments/1wbv1m8/best_iptv_services_finally_i_found_the_best_iptv/)
+2026-09-09 · u/AutoModerator · score 0 · 1 comments · community_ops · [open on Reddit](https://www.reddit.com/r/PySpark/comments/1wbv1m8/best_iptv_services_finally_i_found_the_best_iptv/) · [↑ back to the list](#last-50-posts)
 
 > Finding the Best IPTV Service in 2026 has become more challenging than ever. With hundreds of IPTV providers competing for attention and claiming to offer the best streaming experience, it's difficult to know which services actually deliver. Many advertise thousands of live TV channels, premium sports, massive VOD libraries, and 4K IPTV streaming, but only a few provide the reliability and performance users expect.
 >
@@ -188,9 +190,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Rather than choosing an IPTV service based solely on advertising, focus on reliability, stream quality, sports coverage, device compatibility, and long-term performance. Based on my testing, VELOPLAYLIST and FORTTV4K consistently delivered a premium IPTV experience and are well worth considering if you're looking for a dependable streaming solution in 2026.
 
+<a id="post-2"></a>
+
 ### 2. r/PySpark is available for adoption 💚
 
-2026-08-12 · u/ModSupportBot · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/1vmnhy7/rpyspark_is_available_for_adoption/)
+2026-08-12 · u/ModSupportBot · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/1vmnhy7/rpyspark_is_available_for_adoption/) · [↑ back to the list](#last-50-posts)
 
 > /r/PySpark is ready for a fresh start, new energy, new direction, and someone like you to bring it back to life. If you’ve been thinking about growing your impact without starting from scratch, this is your chance!
 >
@@ -207,9 +211,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * have a [verified email address](https://support.reddithelp.com/hc/en-us/articles/360043047552-Why-should-I-verify-my-Reddit-account-with-an-email-address) on your account
 > * have [two-factor authentication](https://support.reddithelp.com/hc/en-us/articles/360043470031-What-is-two-factor-authentication-and-how-do-I-set-it-up) set up
 
+<a id="post-3"></a>
+
 ### 3. Happy Cakeday, r/PySpark! Today you're 8
 
-2022-10-04 · u/AutoModerator · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/xv3yqw/happy_cakeday_rpyspark_today_youre_8/)
+2022-10-04 · u/AutoModerator · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/xv3yqw/happy_cakeday_rpyspark_today_youre_8/) · [↑ back to the list](#last-50-posts)
 
 > Let's look back at some memorable moments and interesting insights from last year.
 >
@@ -226,29 +232,37 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * "[Sorting in pyspark](https://www.reddit.com/r/PySpark/comments/s1sy96)" by [u/Different-Ad-2901](https://www.reddit.com/user/Different-Ad-2901)
 > * "[Create new column within a join?](https://www.reddit.com/r/PySpark/comments/rmh2eg)" by [u/DrData82](https://www.reddit.com/user/DrData82)
 
+<a id="post-4"></a>
+
 ### 4. How to fill null values in row by taking the most common value of that complete row?
 
-2022-02-02 · u/Different-Ad-2901 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/sig6jc/how_to_fill_null_values_in_row_by_taking_the_most/)
+2022-02-02 · u/Different-Ad-2901 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/sig6jc/how_to_fill_null_values_in_row_by_taking_the_most/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-5"></a>
+
 ### 5. Apache Spark Experts in India \| Apache Spark Experts \| Ksolves
 
-2022-02-01 · u/manishksolves · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/shlicf/apache_spark_experts_in_india_apache_spark/)
+2022-02-01 · u/manishksolves · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/shlicf/apache_spark_experts_in_india_apache_spark/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.ksolves.com/apache-spark-development-company>
 
 
+<a id="post-6"></a>
+
 ### 6. PySpark Vs Python: A Cognitive Analysis
 
-2022-02-01 · u/manishksolves · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/shlf5e/pyspark_vs_python_a_cognitive_analysis/)
+2022-02-01 · u/manishksolves · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/shlf5e/pyspark_vs_python_a_cognitive_analysis/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.ksolves.com/blog/big-data/spark/pyspark-vs-python-a-cognitive-analysis-ksolves>
 
 
+<a id="post-7"></a>
+
 ### 7. Reading a xlsx file with PySpark
 
-2022-01-27 · u/AnonymouseRedd · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/se3q22/reading_a_xlsx_file_with_pyspark/)
+2022-01-27 · u/AnonymouseRedd · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/se3q22/reading_a_xlsx_file_with_pyspark/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -261,15 +275,19 @@ Link: <https://www.ksolves.com/blog/big-data/spark/pyspark-vs-python-a-cognitive
 >
 > Thank you !
 
+<a id="post-8"></a>
+
 ### 8. \[HIRING\] 3 python developers Jobs and more, Hiring Now!
 
-2022-01-21 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s99on2/hiring_3_python_developers_jobs_and_more_hiring/)
+2022-01-21 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s99on2/hiring_3_python_developers_jobs_and_more_hiring/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. Pass list of dates to SQL WHERE statement
 
-2022-01-19 · u/DrData82 · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s83eyf/pass_list_of_dates_to_sql_where_statement/)
+2022-01-19 · u/DrData82 · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s83eyf/pass_list_of_dates_to_sql_where_statement/) · [↑ back to the list](#last-50-posts)
 
 > In the process of converting some SAS code to PySpark and we previously used a macro variable for the where statement in this code. In adapting to PySpark, I'm trying to pass a list of dates to the where statement, but I keep getting errors. I want the SQL code to pull all data from those 3 months. Any pointers?
 >
@@ -279,9 +297,11 @@ Link: <https://www.ksolves.com/blog/big-data/spark/pyspark-vs-python-a-cognitive
 >                      WHERE (to_char(DateVariable,'yyyymm') IN '{}')
 >                      ) as table1""".format(month_list)
 
+<a id="post-10"></a>
+
 ### 10. Parsing a file with multiple json schema
 
-2022-01-17 · u/getafterit123 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s6i0rf/parsing_a_file_with_multiple_json_schema/)
+2022-01-17 · u/getafterit123 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s6i0rf/parsing_a_file_with_multiple_json_schema/) · [↑ back to the list](#last-50-posts)
 
 > Parsing nested json with pyspark question
 >
@@ -331,47 +351,61 @@ Link: <https://www.ksolves.com/blog/big-data/spark/pyspark-vs-python-a-cognitive
 >
 > json_schema = spark.read.json(df.rdd.map(lambda row: row.value)).schema
 
+<a id="post-11"></a>
+
 ### 11. Parsing nested json with pyspark question
 
-2022-01-17 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s6hzjn/parsing_nested_json_with_pyspark_question/)
+2022-01-17 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s6hzjn/parsing_nested_json_with_pyspark_question/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/s6bqyh/parsing_nested_json_with_pyspark_question/>
 
 *No text: deleted by its author.*
 
+<a id="post-12"></a>
+
 ### 12. Pyspark Developer Discord Server
 
-2022-01-16 · u/SpiritMaleficent21 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s5h3wx/pyspark_developer_discord_server/)
+2022-01-16 · u/SpiritMaleficent21 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s5h3wx/pyspark_developer_discord_server/) · [↑ back to the list](#last-50-posts)
 
 > Here's the link to join: https://discord.gg/aVzfrS7m5r
 
+<a id="post-13"></a>
+
 ### 13. Using scala udfs in pyspark
 
-2022-01-16 · u/West_Arugula9520 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s54gbm/using_scala_udfs_in_pyspark/)
+2022-01-16 · u/West_Arugula9520 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s54gbm/using_scala_udfs_in_pyspark/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys I wanted to use scala UDF in my pyspark code. I am unable to register the function also
 
+<a id="post-14"></a>
+
 ### 14. any Pyspark discord group available
 
-2022-01-16 · u/SpiritMaleficent21 · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s523yk/any_pyspark_discord_group_available/)
+2022-01-16 · u/SpiritMaleficent21 · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s523yk/any_pyspark_discord_group_available/) · [↑ back to the list](#last-50-posts)
 
 > Is there any Pyspark developer discord group available to join?
 
+<a id="post-15"></a>
+
 ### 15. pyspark python coding
 
-2022-01-14 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s43r9a/pyspark_python_coding/)
+2022-01-14 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s43r9a/pyspark_python_coding/) · [↑ back to the list](#last-50-posts)
 
 > Anyone here good with pyspark python coding implementation? Can you message me personally to discuss on something
 
+<a id="post-16"></a>
+
 ### 16. \[HIRING\] 20 python developers Jobs and more, Hiring Now!
 
-2022-01-14 · u/saffeergunx · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s3r72p/hiring_20_python_developers_jobs_and_more_hiring/)
+2022-01-14 · u/saffeergunx · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s3r72p/hiring_20_python_developers_jobs_and_more_hiring/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Sorting in pyspark
 
-2022-01-12 · u/Different-Ad-2901 · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s1sy96/sorting_in_pyspark/)
+2022-01-12 · u/Different-Ad-2901 · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s1sy96/sorting_in_pyspark/) · [↑ back to the list](#last-50-posts)
 
 > I have a data frame with id, month(1-12), year. 
 >
@@ -383,9 +417,11 @@ Link: </r/dataengineering/comments/s6bqyh/parsing_nested_json_with_pyspark_quest
 >
 > Any help would be appreciated.
 
+<a id="post-18"></a>
+
 ### 18. Totally stuck on how to pre-process, visualise and cluster data
 
-2022-01-11 · u/Modest_Gaslight · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s1dlm0/totally_stuck_on_how_to_preprocess_visualise_and/)
+2022-01-11 · u/Modest_Gaslight · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/s1dlm0/totally_stuck_on_how_to_preprocess_visualise_and/) · [↑ back to the list](#last-50-posts)
 
 > So I have a project to complete using  PySpark and I'm at a total loss. I need to retrieve data from 2 APIs  (which I've done, see below code). I now need to pre-process and store  the data, visualise the number of cases and deaths per day and then  perform a k means clustering analysis on one of the data sets  identifying which weeks cluster together. This is pretty urgent work  given the nature of COVID and I just don't understand how to use PySpark  at all and would really appreciate any help you can give me, thanks.
 >
@@ -436,21 +472,27 @@ Link: </r/dataengineering/comments/s6bqyh/parsing_nested_json_with_pyspark_quest
 >
 >  I feel like that last bit of code for total cases is done correctly but  it returns me a result of 2.5 billion cases, I'm at a total loss.
 
+<a id="post-19"></a>
+
 ### 19. \[HIRING\] 1 python developers Job and more, Hiring Now!
 
-2022-01-08 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/ryyi59/hiring_1_python_developers_job_and_more_hiring_now/)
+2022-01-08 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/ryyi59/hiring_1_python_developers_job_and_more_hiring_now/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. Single node task scheduling for DL model
 
-2022-01-05 · u/SpiritMaleficent21 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rweskm/single_node_task_scheduling_for_dl_model/)
+2022-01-05 · u/SpiritMaleficent21 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rweskm/single_node_task_scheduling_for_dl_model/) · [↑ back to the list](#last-50-posts)
 
 > Does anyone have resources or source code for generate or create a single node level task scheduling for a deep learning based RLScheduler in cluster level.
 
+<a id="post-21"></a>
+
 ### 21. When function not supported in window function in pyspark?
 
-2022-01-04 · u/quirkelle · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rw1ig1/when_function_not_supported_in_window_function_in/)
+2022-01-04 · u/quirkelle · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rw1ig1/when_function_not_supported_in_window_function_in/) · [↑ back to the list](#last-50-posts)
 
 > I have a dataset of people in classes. Each person may be in multiple classes.
 >
@@ -468,54 +510,70 @@ Link: </r/dataengineering/comments/s6bqyh/parsing_nested_json_with_pyspark_quest
 >
 > Thank you so much!
 
+<a id="post-22"></a>
+
 ### 22. K-means clustering error
 
-2022-01-04 · u/Pellys98 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rw0vq9/kmeans_clustering_error/)
+2022-01-04 · u/Pellys98 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rw0vq9/kmeans_clustering_error/) · [↑ back to the list](#last-50-posts)
 
 > Could someone help me with this?  [apache spark - K-means clustering with multiple columns: IllegalArgumentException - Stack Overflow](https://stackoverflow.com/questions/70582874/k-means-clustering-with-multiple-columns-illegalargumentexception)  Thanks!
 
+<a id="post-23"></a>
+
 ### 23. \[HIRING\] 14 python developers Jobs and more, Hiring Now!
 
-2022-01-01 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rtkgls/hiring_14_python_developers_jobs_and_more_hiring/)
+2022-01-01 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rtkgls/hiring_14_python_developers_jobs_and_more_hiring/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. How do we load deep learning Trained model.pt file into Spark
 
-2021-12-31 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rsq144/how_do_we_load_deep_learning_trained_modelpt_file/)
+2021-12-31 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rsq144/how_do_we_load_deep_learning_trained_modelpt_file/) · [↑ back to the list](#last-50-posts)
 
 > Does anyone give some understanding of trained_model file (.pt) to load into a cluster like Apache spark or airflow for job scheduling?  If you have any resources/repo to share will be highly appreciated.
 
+<a id="post-25"></a>
+
 ### 25. Deep learning Trained Model Integration with Pyspark Spark
 
-2021-12-31 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rsi2vs/deep_learning_trained_model_integration_with/)
+2021-12-31 · u/SpiritMaleficent21 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rsi2vs/deep_learning_trained_model_integration_with/) · [↑ back to the list](#last-50-posts)
 
 > Does anyone have their deep learning trained model integrate with spark cluster? Can you share the source code ?
 
+<a id="post-26"></a>
+
 ### 26. Are there any PySpark puzzles to help people learn how to use PySpark?
 
-2021-12-29 · u/pelicano87 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rr8x4n/are_there_any_pyspark_puzzles_to_help_people/)
+2021-12-29 · u/pelicano87 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rr8x4n/are_there_any_pyspark_puzzles_to_help_people/) · [↑ back to the list](#last-50-posts)
 
 > I've set out to learn PySpark. Whilst reading around the subject and charting my course it occurred to me that when I learnt SQL, one of the most effective things I did was to attempt SQL puzzles, which were basically limited toy problems of increasing difficulty.
 >
 > I want to know if anyone could point me in the direction of anything similar for PySpark? Although I'm relatively towards the beginning of the larning process, it would be good to have an intermediate step laid out to aim for.
 
+<a id="post-27"></a>
+
 ### 27. \[HIRING\] 9 python developers Jobs and more, Hiring Now!
 
-2021-12-24 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rnm3r6/hiring_9_python_developers_jobs_and_more_hiring/)
+2021-12-24 · u/saffeergunx · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rnm3r6/hiring_9_python_developers_jobs_and_more_hiring/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. Help using pyspark in Jupyter. Strange error
 
-2021-12-24 · u/professorDissociate · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rnijyw/help_using_pyspark_in_jupyter_strange_error/)
+2021-12-24 · u/professorDissociate · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rnijyw/help_using_pyspark_in_jupyter_strange_error/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_error/>
 
 
+<a id="post-29"></a>
+
 ### 29. Create new column within a join?
 
-2021-12-22 · u/DrData82 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rmh2eg/create_new_column_within_a_join/)
+2021-12-22 · u/DrData82 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rmh2eg/create_new_column_within_a_join/) · [↑ back to the list](#last-50-posts)
 
 > I'm currently converting some old SAS code to Python/PySpark. I'm trying to create a new variable based on the ID from one of the tables joined. Below is the SAS code:
 >
@@ -532,9 +590,11 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 >     NewTable=OldTable1.join(OldTable2, OldTable1.ID == OldTable2.ID, "left")
 
+<a id="post-30"></a>
+
 ### 30. Ways to speed up `pyspark.sql.GroupedData.applyInPandas` processing on a large dataset
 
-2021-12-19 · u/Noname-2910 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rjxts8/ways_to_speed_up/)
+2021-12-19 · u/Noname-2910 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rjxts8/ways_to_speed_up/) · [↑ back to the list](#last-50-posts)
 
 > I'm working with a dataset stored in S3 bucket (parquet files) consisting of a total of `~165 million`  
 >  records (with `~30 columns`). Now, the requirement is to first `groupby` a certain ID column then generate `250+ features`  for each of these grouped records based on the data. Building these  features is quite complex using multiple Pandas functionality along with  10+ supporting functions and various lookups from other dataframes. The `groupby` function should generate `~5-6 million` records, hence the final output should be `~6M x 250` shaped dataframe.
@@ -547,9 +607,11 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > Thanks much in advance!
 
+<a id="post-31"></a>
+
 ### 31. Create new column with existing....not working
 
-2021-12-13 · u/DrData82 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rfo6b1/create_new_column_with_existingnot_working/)
+2021-12-13 · u/DrData82 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rfo6b1/create_new_column_with_existingnot_working/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, I've tried various iterations of the below with minor tweaks, but all I get in the new column is from the ".otherwise" part. This seems like a simple bit of code, so I'm unsure why it's giving me so much trouble. I have experience with Python, but I'm new to PySpark. I'll post the resulting dataframe. The values for BRAND should all be "Y" based on the code. Help? 
 >
@@ -570,21 +632,27 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >                      .when((col("GRP") == "GENERIC") | (col("GRP") == "OTHER"), "N") 
 >                      .otherwise("Unknown")).show()
 
+<a id="post-32"></a>
+
 ### 32. \[deleted by user\]
 
-2021-12-13 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rfbuyn/deleted_by_user/)
+2021-12-13 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rfbuyn/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. \[HIRING\] 15 python developers Jobs and more, Hiring Now!
 
-2021-12-09 · u/thataswunws · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rch7l3/hiring_15_python_developers_jobs_and_more_hiring/)
+2021-12-09 · u/thataswunws · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PySpark/comments/rch7l3/hiring_15_python_developers_jobs_and_more_hiring/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Dropping duplicate row with condition
 
-2021-11-24 · u/NandJ02 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r1drna/dropping_duplicate_row_with_condition/)
+2021-11-24 · u/NandJ02 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r1drna/dropping_duplicate_row_with_condition/) · [↑ back to the list](#last-50-posts)
 
 > I have table something like this:
 >
@@ -615,15 +683,19 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > I am stuck at this. Can someone please provide some ideas
 
+<a id="post-35"></a>
+
 ### 35. \[deleted by user\]
 
-2021-11-23 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r0ksb9/deleted_by_user/)
+2021-11-23 · u/\[deleted\] · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r0ksb9/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. merge two rdds
 
-2021-11-23 · u/Telephone_Pretty · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r0f12s/merge_two_rdds/)
+2021-11-23 · u/Telephone_Pretty · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/r0f12s/merge_two_rdds/) · [↑ back to the list](#last-50-posts)
 
 > using pyspark
 >
@@ -641,9 +713,11 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > how do you make it
 
+<a id="post-37"></a>
+
 ### 37. How Do I automate pyspark-submit adding steps to a running EMR cluster?
 
-2021-11-22 · u/real_red_neck · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qzsp8t/how_do_i_automate_pysparksubmit_adding_steps_to_a/)
+2021-11-22 · u/real_red_neck · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qzsp8t/how_do_i_automate_pysparksubmit_adding_steps_to_a/) · [↑ back to the list](#last-50-posts)
 
 > I need to automate pyspark scripts to execute on an existing AWS EMR cluster for a client. The constraints are:
 >
@@ -656,15 +730,19 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > I reviewed this SO [post](https://stackoverflow.com/questions/36706512/how-do-you-automate-pyspark-jobs-on-emr-using-boto3-or-otherwise), which is close to what I am after. Ideally, I would use Python with boto3 with PyCharm to pass the PySpark code fragment to their long-running cluster. What would others do here?
 
+<a id="post-38"></a>
+
 ### 38. \[deleted by user\]
 
-2021-11-20 · u/\[deleted\] · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qy6pap/deleted_by_user/)
+2021-11-20 · u/\[deleted\] · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qy6pap/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. How to do Hot Deck imputation on a PySpark Dataframe?
 
-2021-11-19 · u/Togepitsch · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qxlb56/how_to_do_hot_deck_imputation_on_a_pyspark/)
+2021-11-19 · u/Togepitsch · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qxlb56/how_to_do_hot_deck_imputation_on_a_pyspark/) · [↑ back to the list](#last-50-posts)
 
 > I'm struggling to get my hot deck imputation to work using the PySpark syntax.
 >
@@ -692,9 +770,11 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > see also: [https://stackoverflow.com/questions/70036746/how-to-do-hot-deck-imputation-on-a-pyspark-dataframe](https://stackoverflow.com/questions/70036746/how-to-do-hot-deck-imputation-on-a-pyspark-dataframe)
 
+<a id="post-40"></a>
+
 ### 40. Installing seaborn on pyspark on AWS EMR
 
-2021-11-17 · u/xaznweix · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qwbk2o/installing_seaborn_on_pyspark_on_aws_emr/)
+2021-11-17 · u/xaznweix · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qwbk2o/installing_seaborn_on_pyspark_on_aws_emr/) · [↑ back to the list](#last-50-posts)
 
 > How do I install seaborn on pyspark on AWS EMR?
 >
@@ -702,17 +782,21 @@ Link: </r/learnpython/comments/rniiam/help_using_pyspark_in_jupyter_strange_erro
 >
 > https://preview.redd.it/v4axvlawm8081.png?width=1326&format=png&auto=webp&s=8f89ea2acd22575bdbf68b18f15d47046e5dd7f2
 
+<a id="post-41"></a>
+
 ### 41. Can anybody help me with my homework
 
-2021-11-15 · u/\[deleted\] · score 2 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qusnq0/can_anybody_help_me_with_my_homework/)
+2021-11-15 · u/\[deleted\] · score 2 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qusnq0/can_anybody_help_me_with_my_homework/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/apachespark/comments/qusl61/can_anybody_help_me_with_my_homework/>
 
 *No text: deleted by its author.*
 
+<a id="post-42"></a>
+
 ### 42. Pyspark count() slow
 
-2021-11-08 · u/rawlingsjj · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qplrtg/pyspark_count_slow/)
+2021-11-08 · u/rawlingsjj · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/qplrtg/pyspark_count_slow/) · [↑ back to the list](#last-50-posts)
 
 > So I have a spark dataframe where I need to get the count/length of the dataframe but the count method is very very slow. 
 > I can’t afford to use the .count() because I’ll be getting the count for about 16 million options. 
@@ -721,21 +805,27 @@ Link: </r/apachespark/comments/qusl61/can_anybody_help_me_with_my_homework/>
 > Is there any alternative to this? 
 > Thank you
 
+<a id="post-43"></a>
+
 ### 43. \[deleted by user\]
 
-2021-10-11 · u/\[deleted\] · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q5t4t9/deleted_by_user/)
+2021-10-11 · u/\[deleted\] · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q5t4t9/deleted_by_user/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. What is the easiest way to connect to a spark cluster from visual studio code?
 
-2021-10-08 · u/niklas_ema0 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q3sj80/what_is_the_easiest_way_to_connect_to_a_spark/)
+2021-10-08 · u/niklas_ema0 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q3sj80/what_is_the_easiest_way_to_connect_to_a_spark/) · [↑ back to the list](#last-50-posts)
 
 > Vs code has a spark plugin, but it uses livy, and it’s tricky to get to work and from what heard, livy is not the preferred way to do this. So what would be the easiest/best way?
 
+<a id="post-45"></a>
+
 ### 45. Dynamic dictionary in pyspark
 
-2021-10-07 · u/kash80 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q3c741/dynamic_dictionary_in_pyspark/)
+2021-10-07 · u/kash80 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q3c741/dynamic_dictionary_in_pyspark/) · [↑ back to the list](#last-50-posts)
 
 > I am trying to build a dictionary dynamically using pyspark, by reading the table structure on the oracle database. Here's a simplified version of my code
 >
@@ -830,9 +920,11 @@ Link: </r/apachespark/comments/qusl61/can_anybody_help_me_with_my_homework/>
 >
 > Am I missing something here or is there a better way to implement dynamically generated dictionaries in pyspark?
 
+<a id="post-46"></a>
+
 ### 46. Happy Cakeday, r/PySpark! Today you're 7
 
-2021-10-04 · u/AutoModerator · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q0x9eh/happy_cakeday_rpyspark_today_youre_7/)
+2021-10-04 · u/AutoModerator · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q0x9eh/happy_cakeday_rpyspark_today_youre_7/) · [↑ back to the list](#last-50-posts)
 
 > Let's look back at some memorable moments and interesting insights from last year.
 >
@@ -849,21 +941,27 @@ Link: </r/apachespark/comments/qusl61/can_anybody_help_me_with_my_homework/>
 > * "[Convert Streaming Job that reads JSON to reading Parquet](https://www.reddit.com/r/PySpark/comments/jwc3ey)" by [u/ddropp](https://www.reddit.com/user/ddropp)
 > * "[How to define schema in spark.read.csv() ?](https://www.reddit.com/r/PySpark/comments/nzgkc6)" by [u/Yash289](https://www.reddit.com/user/Yash289)
 
+<a id="post-47"></a>
+
 ### 47. Best way to convert parquet to csv files?
 
-2021-10-03 · u/bomjesuscrucified · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q06tau/best_way_to_convert_parquet_to_csv_files/)
+2021-10-03 · u/bomjesuscrucified · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/q06tau/best_way_to_convert_parquet_to_csv_files/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
+
+<a id="post-48"></a>
 
 ### 48. Is it normal to use python 2-PySpark for new projects still?
 
-2021-09-28 · u/niklas_ema0 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/px11hd/is_it_normal_to_use_python_2pyspark_for_new/)
+2021-09-28 · u/niklas_ema0 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/px11hd/is_it_normal_to_use_python_2pyspark_for_new/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-49"></a>
+
 ### 49. What is a spark node/cluster when it's install on a single laptop/box?
 
-2021-09-23 · u/Heavy-_-Breathing · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/pu3krl/what_is_a_spark_nodecluster_when_its_install_on_a/)
+2021-09-23 · u/Heavy-_-Breathing · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/pu3krl/what_is_a_spark_nodecluster_when_its_install_on_a/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -875,9 +973,11 @@ Link: </r/apachespark/comments/qusl61/can_anybody_help_me_with_my_homework/>
 >
 > Any clarifications would be appreciated and sorry if the question itself doesn't make sense.
 
+<a id="post-50"></a>
+
 ### 50. Since we should terminate EMR cluster every time after our work is done, let’s say I’m in the middle of a project and I’ve added few lines of code in jupyter notebook. So, should I recreate a new cluster next time for continuing my project?
 
-2021-09-22 · u/goelprateek · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/pt7a8r/since_we_should_terminate_emr_cluster_every_time/)
+2021-09-22 · u/goelprateek · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PySpark/comments/pt7a8r/since_we_should_terminate_emr_cluster_every_time/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 

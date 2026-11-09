@@ -41,56 +41,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [On-device AI agents run directly on consumer devices rather than passing data through publ](https://www.reddit.com/r/automation/comments/1xq0l8v/ondevice_ai_agents_run_directly_on_consumer/) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
-| 2 | 2026-11-07 | [What’s a task you tried to automate and ended up doing by hand again?](https://www.reddit.com/r/automation/comments/1xpzzpr/whats_a_task_you_tried_to_automate_and_ended_up/) | u/ibrahim_40 | — | text | 14 | 15 | live | — |
-| 3 | 2026-11-07 | [\[Hiring\] AI Creator - ₹38,000/month \| Remote \| Full Time \| Experienced Only - HIRING ENDS TODAY!](https://www.reddit.com/r/automation/comments/1xpzln0/hiring_ai_creator_38000month_remote_full_time/) | u/HistoricalRoof535 | — | reddit.com | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 4 | 2026-11-07 | [Why do people keep saying automation workflow is dying?](https://www.reddit.com/r/automation/comments/1xpxv5t/why_do_people_keep_saying_automation_workflow_is/) | u/nonefficientt | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 5 | 2026-11-07 | [I built a small workflow to catch marketing reporting inconsistencies before client reports go out.](https://www.reddit.com/r/automation/comments/1xpui5v/i_built_a_small_workflow_to_catch_marketing/) | u/ShivaCodex | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 6 | 2026-11-07 | [Looking for 2-3 business owners I can help](https://www.reddit.com/r/automation/comments/1xptjen/looking_for_23_business_owners_i_can_help/) | u/Davoshy | — | reddit.com | 1 | 1 | live | — |
-| 7 | 2026-11-07 | [Automating invoice filing by job number for a construction office](https://www.reddit.com/r/automation/comments/1xps7z6/automating_invoice_filing_by_job_number_for_a/) | u/Intelligent_Power560 | — | text | 6 | 31 | live | — |
-| 8 | 2026-11-06 | [Need a bot for BLS SPAIN appointment](https://www.reddit.com/r/automation/comments/1xpq4ce/need_a_bot_for_bls_spain_appointment/) | u/No_Bookkeeper26 | — | text | 1 | 1 | live | — |
-| 9 | 2026-11-06 | [On-device AI agents run directly on consumer devices rather than passing data through publ](https://www.reddit.com/r/automation/comments/1xplvvv/ondevice_ai_agents_run_directly_on_consumer/) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
-| 10 | 2026-11-06 | [For small firms testing AI on document workflows: what's actually worth automating first?](https://www.reddit.com/r/automation/comments/1xplmwt/for_small_firms_testing_ai_on_document_workflows/) | u/bailbondslocal | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 11 | 2026-11-06 | [How to get into a career that revolves around setting up automations?](https://www.reddit.com/r/automation/comments/1xplcnw/how_to_get_into_a_career_that_revolves_around/) | u/Funny-Researcher2648 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 12 | 2026-11-06 | [Are FDEs and AI automation teams just reinventing the wheel for every client?](https://www.reddit.com/r/automation/comments/1xpknxv/are_fdes_and_ai_automation_teams_just_reinventing/) | u/hirokiyn | — | reddit.com | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 13 | 2026-11-06 | [Clients' dashboard for linkedin outreach campaigns](https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/) | u/Matika7 | — | text | 1 | 7 | live | — |
-| 14 | 2026-11-06 | [Stop checking eight dashboards, use LiveWire instead](https://www.reddit.com/r/automation/comments/1xpisfm/stop_checking_eight_dashboards_use_livewire/) | u/hawkeye77787 | — | i.redd.it | 1 | 1 | live | — |
-| 15 | 2026-11-06 | [What are you using instead of Zapier to keep automation costs down?](https://www.reddit.com/r/automation/comments/1xpis1x/what_are_you_using_instead_of_zapier_to_keep/) | u/Tyler-Evans34 | — | text | 10 | 39 | live | — |
-| 16 | 2026-11-06 | [What's one small repetitive work task you still hate doing by hand?](https://www.reddit.com/r/automation/comments/1xpik1q/whats_one_small_repetitive_work_task_you_still/) | u/Monoyo- | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 17 | 2026-11-06 | [The most useful "automation" on our site this month was making numbers copyable](https://www.reddit.com/r/automation/comments/1xpfwbz/the_most_useful_automation_on_our_site_this_month/) | u/aiterra_il | — | text | 1 | 1 | removed by mod | Your post has been removed due to account age. This is protection from spam and trolls. Please be p… |
-| 18 | 2026-11-06 | [What's the one task in your business you know you should automate but haven't yet](https://www.reddit.com/r/automation/comments/1xpe77a/whats_the_one_task_in_your_business_you_know_you/) | u/TruthUnique425 | — | text | 1 | 1 | spam-filtered | — |
-| 19 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](https://www.reddit.com/r/automation/comments/1xpe19j/what_actually_changed_when_i_moved_a_client/) | u/easybits_ai | — | reddit.com | 1 | 5 | live | — |
-| 20 | 2026-11-06 | [Has anyone figured out a way to generate social media graphics in bulk with n8n?](https://www.reddit.com/r/automation/comments/1xpcoed/has_anyone_figured_out_a_way_to_generate_social/) | u/soupsipaficionado | — | text | 11 | 15 | live | — |
-| 21 | 2026-11-06 | [AI & Automation feature suggestions](https://www.reddit.com/r/automation/comments/1xpccg3/ai_automation_feature_suggestions/) | u/cevatkelle007 | — | text | 2 | 15 | live | — |
-| 22 | 2026-11-06 | [On-device AI agents run directly on consumer devices rather than passing data through publ](https://www.reddit.com/r/automation/comments/1xp6t8q/ondevice_ai_agents_run_directly_on_consumer/) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
-| 23 | 2026-11-06 | [building refund automation before aretry issues two refunds... what behaviors to validate?](https://www.reddit.com/r/automation/comments/1xp597u/building_refund_automation_before_aretry_issues/) | u/Common_Dream9420 | — | text | 1 | 12 | live | — |
-| 24 | 2026-11-06 | [No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recom…](https://www.reddit.com/r/automation/comments/1xp4wxu/no_tech_or_coding_background_want_to_learn_ai/) | u/JuicyVanilla23 | — | text | 6 | 25 | live | — |
-| 25 | 2026-11-06 | [Tree search over whole agent harnesses beat Meta-Harness by 3.95 points and cost less to run than hand-built…](https://www.reddit.com/r/automation/comments/1xp11ea/tree_search_over_whole_agent_harnesses_beat/) | u/WrongTechnician | — | reddit.com | 1 | 3 | live | — |
-| 26 | 2026-11-05 | [I tested three AI workflow builders](https://www.reddit.com/r/automation/comments/1xowb3d/i_tested_three_ai_workflow_builders/) | u/Devin_Ward79 | — | text | 2 | 12 | live | — |
-| 27 | 2026-11-05 | [Creating my own Chrome Extensions was a game changer for me!](https://www.reddit.com/r/automation/comments/1xovk5j/creating_my_own_chrome_extensions_was_a_game/) | u/Trying_AImarketing | — | text | 115 | 40 | live | — |
-| 28 | 2026-11-05 | [Is anyone here actually using multiple AI agents daily?](https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/) | u/FulcraDynamics | — | text | 15 | 28 | live | — |
-| 29 | 2026-11-05 | [On-device AI agents run directly on consumer devices rather than passing data through publ](https://www.reddit.com/r/automation/comments/1xorqll/ondevice_ai_agents_run_directly_on_consumer/) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
-| 30 | 2026-11-05 | [Best way to automate posting to Facebook, Instagram, TikTok and YouTube?](https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/) | u/yeah280 | — | text | 4 | 16 | live | — |
-| 31 | 2026-11-05 | [The best test for whether an agent is production-ready: turn it on for a week without checking it, then revie…](https://www.reddit.com/r/automation/comments/1xok2ob/the_best_test_for_whether_an_agent_is/) | u/TruthUnique425 | — | text | 1 | 1 | spam-filtered | — |
-| 32 | 2026-11-05 | [What is the craziest automation you have seen a business use? I am talking about something that made you thin…](https://www.reddit.com/r/automation/comments/1xojeuo/what_is_the_craziest_automation_you_have_seen_a/) | u/DoubtAdditional745 | — | text | 37 | 20 | live | — |
-| 33 | 2026-11-05 | [How do you share what you've built with coworkers?](https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/) | u/sixteenpoundblanket | — | text | 9 | 18 | live | — |
-| 34 | 2026-11-05 | [What is one repetitive task in your solo business that you refused to do by hand, so you spent a whole weeken…](https://www.reddit.com/r/automation/comments/1xogv7d/what_is_one_repetitive_task_in_your_solo_business/) | u/Ericqp2025 | — | text | 7 | 16 | live | — |
-| 35 | 2026-11-05 | [Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)](https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/) | u/Significant_Dot5737 | — | text | 2 | 15 | live | — |
-| 36 | 2026-11-05 | [On-device AI agents run directly on consumer devices rather than passing data through publ](https://www.reddit.com/r/automation/comments/1xoc9iv/ondevice_ai_agents_run_directly_on_consumer/) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
-| 37 | 2026-11-05 | [Players just wanted to play the playable](https://www.reddit.com/r/automation/comments/1xo9d9c/players_just_wanted_to_play_the_playable/) | u/Pegasus_Vandal | — | text | 17 | 11 | live | — |
-| 38 | 2026-11-05 | [Anybody running X on antydetect successfully](https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/) | u/lkhadiriziko | — | i.redd.it | 2 | 1 | live | — |
-| 39 | 2026-11-04 | [Real-life automation: my browser agent ran a Verizon retention chat and cut my bill $15/mo](https://www.reddit.com/r/automation/comments/1xo391w/reallife_automation_my_browser_agent_ran_a/) | u/renovateg | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 40 | 2026-11-04 | [been building apps/workflows with lovable and here is my list of day to day tools, and whats yours?](https://www.reddit.com/r/automation/comments/1xo1jkv/been_building_appsworkflows_with_lovable_and_here/) | u/Common_Dream9420 | — | text | 7 | 22 | live | — |
-| 41 | 2026-11-04 | [The reconcile job nobody builds for webhook automations](https://www.reddit.com/r/automation/comments/1xo12lu/the_reconcile_job_nobody_builds_for_webhook/) | u/GraceGomez69 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 42 | 2026-11-04 | [Before automating a document workflow, try this exercise](https://www.reddit.com/r/automation/comments/1xnzabo/before_automating_a_document_workflow_try_this/) | u/Tan_KV | — | text | 7 | 5 | spam-filtered | — |
-| 43 | 2026-11-04 | [What have you built with AI that genuinely changed your life?](https://www.reddit.com/r/automation/comments/1xnz1ys/what_have_you_built_with_ai_that_genuinely/) | u/Secure_Beginning_939 | — | text | 25 | 23 | live | — |
-| 44 | 2026-11-04 | [\[Technical Co-founder / Automation Specialist\] Looking for a Marketer to scale pre-built n8n workflows for lo…](https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/) | u/OkAmount4839 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
-| 45 | 2026-11-04 | [I’ve spent over a year building two serious projects I truly believe in, but I still can’t find customers. Wh…](https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/) | u/Radiant_Panda1679 | — | text | 1 | 1 | spam-filtered | — |
-| 46 | 2026-11-04 | [How to create an ai agent that works in slack not a new app](https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/) | u/Parking-Presence-366 | — | text | 1 | 1 | spam-filtered | — |
-| 47 | 2026-11-04 | [I tested AI workflow builders with the same automation prompt](https://www.reddit.com/r/automation/comments/1xnut84/i_tested_ai_workflow_builders_with_the_same/) | u/TheRealRobbie_04 | — | text | 0 | 1 | content_takedown | — |
-| 48 | 2026-11-04 | [How many Code nodes are in your average workflow?](https://www.reddit.com/r/automation/comments/1xnt0of/how_many_code_nodes_are_in_your_average_workflow/) | u/easybits_ai | — | reddit.com | 1 | 3 | live | — |
-| 49 | 2026-11-04 | [How do you automate your end-of-month timesheet reporting?](https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/) | u/hornibunny69 | — | text | 16 | 22 | live | — |
-| 50 | 2026-11-04 | [Automating invoice follow-ups: four mistakes I kept making before it worked](https://www.reddit.com/r/automation/comments/1xnlxbj/automating_invoice_followups_four_mistakes_i_kept/) | u/TankComprehensive378 | — | text | 1 | 1 | spam-filtered | — |
+| 1 | 2026-11-07 | [On-device AI agents run directly on consumer devices rather than passing data through publ](#post-1) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
+| 2 | 2026-11-07 | [What’s a task you tried to automate and ended up doing by hand again?](#post-2) | u/ibrahim_40 | — | text | 14 | 15 | live | — |
+| 3 | 2026-11-07 | [\[Hiring\] AI Creator - ₹38,000/month \| Remote \| Full Time \| Experienced Only - HIRING ENDS TODAY!](#post-3) | u/HistoricalRoof535 | — | reddit.com | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 4 | 2026-11-07 | [Why do people keep saying automation workflow is dying?](#post-4) | u/nonefficientt | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 5 | 2026-11-07 | [I built a small workflow to catch marketing reporting inconsistencies before client reports go out.](#post-5) | u/ShivaCodex | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 6 | 2026-11-07 | [Looking for 2-3 business owners I can help](#post-6) | u/Davoshy | — | reddit.com | 1 | 1 | live | — |
+| 7 | 2026-11-07 | [Automating invoice filing by job number for a construction office](#post-7) | u/Intelligent_Power560 | — | text | 6 | 31 | live | — |
+| 8 | 2026-11-06 | [Need a bot for BLS SPAIN appointment](#post-8) | u/No_Bookkeeper26 | — | text | 1 | 1 | live | — |
+| 9 | 2026-11-06 | [On-device AI agents run directly on consumer devices rather than passing data through publ](#post-9) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
+| 10 | 2026-11-06 | [For small firms testing AI on document workflows: what's actually worth automating first?](#post-10) | u/bailbondslocal | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 11 | 2026-11-06 | [How to get into a career that revolves around setting up automations?](#post-11) | u/Funny-Researcher2648 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 12 | 2026-11-06 | [Are FDEs and AI automation teams just reinventing the wheel for every client?](#post-12) | u/hirokiyn | — | reddit.com | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 13 | 2026-11-06 | [Clients' dashboard for linkedin outreach campaigns](#post-13) | u/Matika7 | — | text | 1 | 7 | live | — |
+| 14 | 2026-11-06 | [Stop checking eight dashboards, use LiveWire instead](#post-14) | u/hawkeye77787 | — | i.redd.it | 1 | 1 | live | — |
+| 15 | 2026-11-06 | [What are you using instead of Zapier to keep automation costs down?](#post-15) | u/Tyler-Evans34 | — | text | 10 | 39 | live | — |
+| 16 | 2026-11-06 | [What's one small repetitive work task you still hate doing by hand?](#post-16) | u/Monoyo- | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 17 | 2026-11-06 | [The most useful "automation" on our site this month was making numbers copyable](#post-17) | u/aiterra_il | — | text | 1 | 1 | removed by mod | Your post has been removed due to account age. This is protection from spam and trolls. Please be p… |
+| 18 | 2026-11-06 | [What's the one task in your business you know you should automate but haven't yet](#post-18) | u/TruthUnique425 | — | text | 1 | 1 | spam-filtered | — |
+| 19 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](#post-19) | u/easybits_ai | — | reddit.com | 1 | 5 | live | — |
+| 20 | 2026-11-06 | [Has anyone figured out a way to generate social media graphics in bulk with n8n?](#post-20) | u/soupsipaficionado | — | text | 11 | 15 | live | — |
+| 21 | 2026-11-06 | [AI & Automation feature suggestions](#post-21) | u/cevatkelle007 | — | text | 2 | 15 | live | — |
+| 22 | 2026-11-06 | [On-device AI agents run directly on consumer devices rather than passing data through publ](#post-22) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
+| 23 | 2026-11-06 | [building refund automation before aretry issues two refunds... what behaviors to validate?](#post-23) | u/Common_Dream9420 | — | text | 1 | 12 | live | — |
+| 24 | 2026-11-06 | [No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recom…](#post-24) | u/JuicyVanilla23 | — | text | 6 | 25 | live | — |
+| 25 | 2026-11-06 | [Tree search over whole agent harnesses beat Meta-Harness by 3.95 points and cost less to run than hand-built…](#post-25) | u/WrongTechnician | — | reddit.com | 1 | 3 | live | — |
+| 26 | 2026-11-05 | [I tested three AI workflow builders](#post-26) | u/Devin_Ward79 | — | text | 2 | 12 | live | — |
+| 27 | 2026-11-05 | [Creating my own Chrome Extensions was a game changer for me!](#post-27) | u/Trying_AImarketing | — | text | 115 | 40 | live | — |
+| 28 | 2026-11-05 | [Is anyone here actually using multiple AI agents daily?](#post-28) | u/FulcraDynamics | — | text | 15 | 28 | live | — |
+| 29 | 2026-11-05 | [On-device AI agents run directly on consumer devices rather than passing data through publ](#post-29) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
+| 30 | 2026-11-05 | [Best way to automate posting to Facebook, Instagram, TikTok and YouTube?](#post-30) | u/yeah280 | — | text | 4 | 16 | live | — |
+| 31 | 2026-11-05 | [The best test for whether an agent is production-ready: turn it on for a week without checking it, then revie…](#post-31) | u/TruthUnique425 | — | text | 1 | 1 | spam-filtered | — |
+| 32 | 2026-11-05 | [What is the craziest automation you have seen a business use? I am talking about something that made you thin…](#post-32) | u/DoubtAdditional745 | — | text | 37 | 20 | live | — |
+| 33 | 2026-11-05 | [How do you share what you've built with coworkers?](#post-33) | u/sixteenpoundblanket | — | text | 9 | 18 | live | — |
+| 34 | 2026-11-05 | [What is one repetitive task in your solo business that you refused to do by hand, so you spent a whole weeken…](#post-34) | u/Ericqp2025 | — | text | 7 | 16 | live | — |
+| 35 | 2026-11-05 | [Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)](#post-35) | u/Significant_Dot5737 | — | text | 2 | 15 | live | — |
+| 36 | 2026-11-05 | [On-device AI agents run directly on consumer devices rather than passing data through publ](#post-36) | u/Elyasians | — | text | 1 | 1 | spam-filtered | — |
+| 37 | 2026-11-05 | [Players just wanted to play the playable](#post-37) | u/Pegasus_Vandal | — | text | 17 | 11 | live | — |
+| 38 | 2026-11-05 | [Anybody running X on antydetect successfully](#post-38) | u/lkhadiriziko | — | i.redd.it | 2 | 1 | live | — |
+| 39 | 2026-11-04 | [Real-life automation: my browser agent ran a Verizon retention chat and cut my bill $15/mo](#post-39) | u/renovateg | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 40 | 2026-11-04 | [been building apps/workflows with lovable and here is my list of day to day tools, and whats yours?](#post-40) | u/Common_Dream9420 | — | text | 7 | 22 | live | — |
+| 41 | 2026-11-04 | [The reconcile job nobody builds for webhook automations](#post-41) | u/GraceGomez69 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 42 | 2026-11-04 | [Before automating a document workflow, try this exercise](#post-42) | u/Tan_KV | — | text | 7 | 5 | spam-filtered | — |
+| 43 | 2026-11-04 | [What have you built with AI that genuinely changed your life?](#post-43) | u/Secure_Beginning_939 | — | text | 25 | 23 | live | — |
+| 44 | 2026-11-04 | [\[Technical Co-founder / Automation Specialist\] Looking for a Marketer to scale pre-built n8n workflows for lo…](#post-44) | u/OkAmount4839 | — | text | 1 | 1 | removed by mod | Your post was removed because your account has less than 100 total karma. Please gain more karma be… |
+| 45 | 2026-11-04 | [I’ve spent over a year building two serious projects I truly believe in, but I still can’t find customers. Wh…](#post-45) | u/Radiant_Panda1679 | — | text | 1 | 1 | spam-filtered | — |
+| 46 | 2026-11-04 | [How to create an ai agent that works in slack not a new app](#post-46) | u/Parking-Presence-366 | — | text | 1 | 1 | spam-filtered | — |
+| 47 | 2026-11-04 | [I tested AI workflow builders with the same automation prompt](#post-47) | u/TheRealRobbie_04 | — | text | 0 | 1 | content_takedown | — |
+| 48 | 2026-11-04 | [How many Code nodes are in your average workflow?](#post-48) | u/easybits_ai | — | reddit.com | 1 | 3 | live | — |
+| 49 | 2026-11-04 | [How do you automate your end-of-month timesheet reporting?](#post-49) | u/hornibunny69 | — | text | 16 | 22 | live | — |
+| 50 | 2026-11-04 | [Automating invoice follow-ups: four mistakes I kept making before it worked](#post-50) | u/TankComprehensive378 | — | text | 1 | 1 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -98,48 +98,54 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 2026-11-05 | [Creating my own Chrome Extensions was a game changer for me!](https://www.reddit.com/r/automation/comments/1xovk5j/creating_my_own_chrome_extensions_was_a_game/) | u/Trying_AImarketing | — | text | 115 | 40 | live |
-| 51 | 2026-10-24 | [What’s the smallest automation that saved you the most time?](https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/) | u/ibrahim_40 | — | text | 85 | 54 | live |
-| 52 | 2026-10-13 | [What super annoying repetitive task have you been able to eliminate with AI/Automation so far?](https://www.reddit.com/r/automation/comments/1x4rb15/what_super_annoying_repetitive_task_have_you_been/) | u/No-Marionberry8257 | — | text | 65 | 45 | live |
-| 53 | 2026-11-04 | [Whats the simplest automation that had outsized returns for you?](https://www.reddit.com/r/automation/comments/1xnjd9f/whats_the_simplest_automation_that_had_outsized/) | u/impetuouschestnut | — | text | 63 | 34 | live |
-| 54 | 2026-11-01 | [Currently learning how to be an AI Automation Specialist.](https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/) | u/StrengthParticular82 | — | text | 53 | 47 | live |
-| 55 | 2026-10-19 | [How to create an ai agent that actually does stuff for your team?](https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/) | u/Separate-Record8115 | — | text | 40 | 83 | live |
-| 32 | 2026-11-05 | [What is the craziest automation you have seen a business use? I am talking about something that made you thin…](https://www.reddit.com/r/automation/comments/1xojeuo/what_is_the_craziest_automation_you_have_seen_a/) | u/DoubtAdditional745 | — | text | 37 | 20 | live |
-| 56 | 2026-10-28 | [What are some truly useful automation tools for business outside Zapier & N8N?](https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/) | u/Ok-Macaron2516 | — | text | 31 | 59 | live |
-| 57 | 2026-10-20 | [Have you reduced using n8n/make after Claude/chatgpt?](https://www.reddit.com/r/automation/comments/1xajd6s/have_you_reduced_using_n8nmake_after_claudechatgpt/) | u/sidmish | — | text | 29 | 38 | live |
-| 58 | 2026-10-20 | [People building automations for clients: where are you seeing real demand?](https://www.reddit.com/r/automation/comments/1xaglw4/people_building_automations_for_clients_where_are/) | u/faktherebel | — | text | 29 | 34 | live |
-| 59 | 2026-10-13 | [Ramp launches Glass AI workspace after $1.5 million week of token spending](https://www.reddit.com/r/automation/comments/1x5044p/ramp_launches_glass_ai_workspace_after_15_million/) | u/DueLibrarian6092 | — | cryptobriefing.com | 28 | 12 | live |
-| 60 | 2026-10-21 | [How do you automate the repetitive work in a logistics coordinator role?](https://www.reddit.com/r/automation/comments/1xbasah/how_do_you_automate_the_repetitive_work_in_a/) | u/Advanced_Aspect_4127 | — | text | 26 | 65 | live |
-| 61 | 2026-10-26 | [6 weeks into trying to land my first consulting client. What am I missing?](https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/) | u/marcelorojas56 | — | text | 25 | 29 | live |
-| 43 | 2026-11-04 | [What have you built with AI that genuinely changed your life?](https://www.reddit.com/r/automation/comments/1xnz1ys/what_have_you_built_with_ai_that_genuinely/) | u/Secure_Beginning_939 | — | text | 25 | 23 | live |
-| 62 | 2026-10-16 | [What’s the smallest automation you’ve built that saved you the most time?](https://www.reddit.com/r/automation/comments/1x7g869/whats_the_smallest_automation_youve_built_that/) | u/ibrahim_40 | — | text | 23 | 20 | live |
-| 63 | 2026-10-16 | [my favorite automations are the ones that don't need another app to keep running](https://www.reddit.com/r/automation/comments/1x7hmub/my_favorite_automations_are_the_ones_that_dont/) | u/Excellent-Wheel7769 | — | text | 22 | 17 | live |
-| 64 | 2026-10-24 | [What are you using instead of Zapier to keep automation costs down?](https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/) | u/Outrageous_Text5335 | — | text | 18 | 54 | live |
-| 65 | 2026-10-21 | [agent browser stack that survived the first logged in flow](https://www.reddit.com/r/automation/comments/1xbhftl/agent_browser_stack_that_survived_the_first/) | u/P0ppyStarlight | — | text | 18 | 34 | live |
-| 66 | 2026-10-26 | [Need advice on automating market research data entry for 18,327 Excel rows](https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/) | u/keepinitlowkey7 | — | text | 17 | 28 | live |
-| 67 | 2026-11-03 | [Exploring what a fully automated revenue process looks like](https://www.reddit.com/r/automation/comments/1xmyd41/exploring_what_a_fully_automated_revenue_process/) | u/naughtytoxicity11 | — | text | 17 | 22 | live |
+| 27 | 2026-11-05 | [Creating my own Chrome Extensions was a game changer for me!](#post-27) | u/Trying_AImarketing | — | text | 115 | 40 | live |
+| 51 | 2026-10-24 | [What’s the smallest automation that saved you the most time?](#post-51) | u/ibrahim_40 | — | text | 85 | 54 | live |
+| 52 | 2026-10-13 | [What super annoying repetitive task have you been able to eliminate with AI/Automation so far?](#post-52) | u/No-Marionberry8257 | — | text | 65 | 45 | live |
+| 53 | 2026-11-04 | [Whats the simplest automation that had outsized returns for you?](#post-53) | u/impetuouschestnut | — | text | 63 | 34 | live |
+| 54 | 2026-11-01 | [Currently learning how to be an AI Automation Specialist.](#post-54) | u/StrengthParticular82 | — | text | 53 | 47 | live |
+| 55 | 2026-10-19 | [How to create an ai agent that actually does stuff for your team?](#post-55) | u/Separate-Record8115 | — | text | 40 | 83 | live |
+| 32 | 2026-11-05 | [What is the craziest automation you have seen a business use? I am talking about something that made you thin…](#post-32) | u/DoubtAdditional745 | — | text | 37 | 20 | live |
+| 56 | 2026-10-28 | [What are some truly useful automation tools for business outside Zapier & N8N?](#post-56) | u/Ok-Macaron2516 | — | text | 31 | 59 | live |
+| 57 | 2026-10-20 | [Have you reduced using n8n/make after Claude/chatgpt?](#post-57) | u/sidmish | — | text | 29 | 38 | live |
+| 58 | 2026-10-20 | [People building automations for clients: where are you seeing real demand?](#post-58) | u/faktherebel | — | text | 29 | 34 | live |
+| 59 | 2026-10-13 | [Ramp launches Glass AI workspace after $1.5 million week of token spending](#post-59) | u/DueLibrarian6092 | — | cryptobriefing.com | 28 | 12 | live |
+| 60 | 2026-10-21 | [How do you automate the repetitive work in a logistics coordinator role?](#post-60) | u/Advanced_Aspect_4127 | — | text | 26 | 65 | live |
+| 61 | 2026-10-26 | [6 weeks into trying to land my first consulting client. What am I missing?](#post-61) | u/marcelorojas56 | — | text | 25 | 29 | live |
+| 43 | 2026-11-04 | [What have you built with AI that genuinely changed your life?](#post-43) | u/Secure_Beginning_939 | — | text | 25 | 23 | live |
+| 62 | 2026-10-16 | [What’s the smallest automation you’ve built that saved you the most time?](#post-62) | u/ibrahim_40 | — | text | 23 | 20 | live |
+| 63 | 2026-10-16 | [my favorite automations are the ones that don't need another app to keep running](#post-63) | u/Excellent-Wheel7769 | — | text | 22 | 17 | live |
+| 64 | 2026-10-24 | [What are you using instead of Zapier to keep automation costs down?](#post-64) | u/Outrageous_Text5335 | — | text | 18 | 54 | live |
+| 65 | 2026-10-21 | [agent browser stack that survived the first logged in flow](#post-65) | u/P0ppyStarlight | — | text | 18 | 34 | live |
+| 66 | 2026-10-26 | [Need advice on automating market research data entry for 18,327 Excel rows](#post-66) | u/keepinitlowkey7 | — | text | 17 | 28 | live |
+| 67 | 2026-11-03 | [Exploring what a fully automated revenue process looks like](#post-67) | u/naughtytoxicity11 | — | text | 17 | 22 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. On-device AI agents run directly on consumer devices rather than passing data through publ
 
-2026-11-07 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xq0l8v/ondevice_ai_agents_run_directly_on_consumer/)
+2026-11-07 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xq0l8v/ondevice_ai_agents_run_directly_on_consumer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. What’s a task you tried to automate and ended up doing by hand again?
 
-2026-11-07 · u/ibrahim_40 · score 14 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpzzpr/whats_a_task_you_tried_to_automate_and_ended_up/)
+2026-11-07 · u/ibrahim_40 · score 14 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpzzpr/whats_a_task_you_tried_to_automate_and_ended_up/) · [↑ back to the list](#last-50-posts)
 
 > Mine was sorting incoming emails into folders. I spent a weekend on rules and every week a few messages landed in the wrong place, so I spent more time fixing it than I saved. I went back to a quick manual pass.
 >
 > What did you try to automate that wasn’t worth it and how did you decide to stop?
 
+<a id="post-3"></a>
+
 ### 3. \[Hiring\] AI Creator - ₹38,000/month \| Remote \| Full Time \| Experienced Only - HIRING ENDS TODAY!
 
-2026-11-07 · u/HistoricalRoof535 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpzln0/hiring_ai_creator_38000month_remote_full_time/)
+2026-11-07 · u/HistoricalRoof535 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpzln0/hiring_ai_creator_38000month_remote_full_time/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/VideoEditor_forhire/comments/1xpzi36/hiring_ai_creator_38000month_remote_full_time/>
 
@@ -147,32 +153,40 @@ Link: <https://www.reddit.com/r/VideoEditor_forhire/comments/1xpzi36/hiring_ai_c
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-4"></a>
+
 ### 4. Why do people keep saying automation workflow is dying?
 
-2026-11-07 · u/nonefficientt · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpxv5t/why_do_people_keep_saying_automation_workflow_is/)
+2026-11-07 · u/nonefficientt · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpxv5t/why_do_people_keep_saying_automation_workflow_is/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
+
+<a id="post-5"></a>
 
 ### 5. I built a small workflow to catch marketing reporting inconsistencies before client reports go out.
 
-2026-11-07 · u/ShivaCodex · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpui5v/i_built_a_small_workflow_to_catch_marketing/)
+2026-11-07 · u/ShivaCodex · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpui5v/i_built_a_small_workflow_to_catch_marketing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-6"></a>
+
 ### 6. Looking for 2-3 business owners I can help
 
-2026-11-07 · u/Davoshy · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xptjen/looking_for_23_business_owners_i_can_help/)
+2026-11-07 · u/Davoshy · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xptjen/looking_for_23_business_owners_i_can_help/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AiAutomations/comments/1xptj4b/looking_for_23_business_owners_i_can_help/>
 
 
+<a id="post-7"></a>
+
 ### 7. Automating invoice filing by job number for a construction office
 
-2026-11-07 · u/Intelligent_Power560 · score 6 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xps7z6/automating_invoice_filing_by_job_number_for_a/)
+2026-11-07 · u/Intelligent_Power560 · score 6 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xps7z6/automating_invoice_filing_by_job_number_for_a/) · [↑ back to the list](#last-50-posts)
 
 > construction office where invoices land in an outlook folder and someone files each one by hand every day. the steps look simple enough:
 >
@@ -188,37 +202,47 @@ Link: <https://www.reddit.com/r/AiAutomations/comments/1xptj4b/looking_for_23_bu
 >
 > and what do you do with the ones that dont match an open job
 
+<a id="post-8"></a>
+
 ### 8. Need a bot for BLS SPAIN appointment
 
-2026-11-06 · u/No_Bookkeeper26 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpq4ce/need_a_bot_for_bls_spain_appointment/)
+2026-11-06 · u/No_Bookkeeper26 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpq4ce/need_a_bot_for_bls_spain_appointment/) · [↑ back to the list](#last-50-posts)
 
 > Hey i need a python script fo BLS SPAIN ALGERIA
 
+<a id="post-9"></a>
+
 ### 9. On-device AI agents run directly on consumer devices rather than passing data through publ
 
-2026-11-06 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplvvv/ondevice_ai_agents_run_directly_on_consumer/)
+2026-11-06 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplvvv/ondevice_ai_agents_run_directly_on_consumer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-10"></a>
 
 ### 10. For small firms testing AI on document workflows: what's actually worth automating first?
 
-2026-11-06 · u/bailbondslocal · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplmwt/for_small_firms_testing_ai_on_document_workflows/)
+2026-11-06 · u/bailbondslocal · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplmwt/for_small_firms_testing_ai_on_document_workflows/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
+
+<a id="post-11"></a>
 
 ### 11. How to get into a career that revolves around setting up automations?
 
-2026-11-06 · u/Funny-Researcher2648 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplcnw/how_to_get_into_a_career_that_revolves_around/)
+2026-11-06 · u/Funny-Researcher2648 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xplcnw/how_to_get_into_a_career_that_revolves_around/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-12"></a>
+
 ### 12. Are FDEs and AI automation teams just reinventing the wheel for every client?
 
-2026-11-06 · u/hirokiyn · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpknxv/are_fdes_and_ai_automation_teams_just_reinventing/)
+2026-11-06 · u/hirokiyn · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpknxv/are_fdes_and_ai_automation_teams_just_reinventing/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AiAutomations/comments/1xpklpg/are_fdes_and_ai_automation_teams_just_reinventing/>
 
@@ -226,9 +250,11 @@ Link: <https://www.reddit.com/r/AiAutomations/comments/1xpklpg/are_fdes_and_ai_a
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-13"></a>
+
 ### 13. Clients' dashboard for linkedin outreach campaigns
 
-2026-11-06 · u/Matika7 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/)
+2026-11-06 · u/Matika7 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/) · [↑ back to the list](#last-50-posts)
 
 > Question for anyone running outbound for clients on Linkedin
 >
@@ -254,16 +280,20 @@ Link: <https://www.reddit.com/r/AiAutomations/comments/1xpklpg/are_fdes_and_ai_a
 >
 >  what can you recommend?
 
+<a id="post-14"></a>
+
 ### 14. Stop checking eight dashboards, use LiveWire instead
 
-2026-11-06 · u/hawkeye77787 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpisfm/stop_checking_eight_dashboards_use_livewire/)
+2026-11-06 · u/hawkeye77787 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpisfm/stop_checking_eight_dashboards_use_livewire/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lm5e2yudy00i1.png>
 
 
+<a id="post-15"></a>
+
 ### 15. What are you using instead of Zapier to keep automation costs down?
 
-2026-11-06 · u/Tyler-Evans34 · score 10 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpis1x/what_are_you_using_instead_of_zapier_to_keep/)
+2026-11-06 · u/Tyler-Evans34 · score 10 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpis1x/what_are_you_using_instead_of_zapier_to_keep/) · [↑ back to the list](#last-50-posts)
 
 > Zapier has been getting expensive as the number of automations I run has grown so I'm looking at other options.
 >
@@ -273,38 +303,48 @@ Link: <https://i.redd.it/lm5e2yudy00i1.png>
 >
 > I'm especially interested in the tradeoffs around cost, reliability and ease of use.
 
+<a id="post-16"></a>
+
 ### 16. What's one small repetitive work task you still hate doing by hand?
 
-2026-11-06 · u/Monoyo- · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpik1q/whats_one_small_repetitive_work_task_you_still/)
+2026-11-06 · u/Monoyo- · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpik1q/whats_one_small_repetitive_work_task_you_still/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-17"></a>
+
 ### 17. The most useful "automation" on our site this month was making numbers copyable
 
-2026-11-06 · u/aiterra_il · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpfwbz/the_most_useful_automation_on_our_site_this_month/)
+2026-11-06 · u/aiterra_il · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpfwbz/the_most_useful_automation_on_our_site_this_month/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been removed due to account age. This is protection from spam and trolls. Please be patient and earn some karma before you can post.
 
+<a id="post-18"></a>
+
 ### 18. What's the one task in your business you know you should automate but haven't yet
 
-2026-11-06 · u/TruthUnique425 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpe77a/whats_the_one_task_in_your_business_you_know_you/)
+2026-11-06 · u/TruthUnique425 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpe77a/whats_the_one_task_in_your_business_you_know_you/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. What actually changed when I moved a client workflow from Sheets to a real database
 
-2026-11-06 · u/easybits_ai · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpe19j/what_actually_changed_when_i_moved_a_client/)
+2026-11-06 · u/easybits_ai · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpe19j/what_actually_changed_when_i_moved_a_client/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xpe0gk/what_actually_changed_when_i_moved_a_client/>
 
 
+<a id="post-20"></a>
+
 ### 20. Has anyone figured out a way to generate social media graphics in bulk with n8n?
 
-2026-11-06 · u/soupsipaficionado · score 11 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpcoed/has_anyone_figured_out_a_way_to_generate_social/)
+2026-11-06 · u/soupsipaficionado · score 11 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpcoed/has_anyone_figured_out_a_way_to_generate_social/) · [↑ back to the list](#last-50-posts)
 
 > I’ve got 30 posts planned in a spreadsheet. Captions and topics are done and I need a graphic or carousel for each one
 >
@@ -314,9 +354,11 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xpe0gk/what_actually_c
 >
 > Has anyone tried something like this? My main question is how you handle exporting the images and checking quality without opening every design one by one.
 
+<a id="post-21"></a>
+
 ### 21. AI & Automation feature suggestions
 
-2026-11-06 · u/cevatkelle007 · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpccg3/ai_automation_feature_suggestions/)
+2026-11-06 · u/cevatkelle007 · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xpccg3/ai_automation_feature_suggestions/) · [↑ back to the list](#last-50-posts)
 
 > Dear members, we are starting a new venture and before we build feature I wanted to ask you your comments about it.
 >
@@ -328,15 +370,19 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xpe0gk/what_actually_c
 >
 > I really appreciate your input in advance guys.
 
+<a id="post-22"></a>
+
 ### 22. On-device AI agents run directly on consumer devices rather than passing data through publ
 
-2026-11-06 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp6t8q/ondevice_ai_agents_run_directly_on_consumer/)
+2026-11-06 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp6t8q/ondevice_ai_agents_run_directly_on_consumer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. building refund automation before aretry issues two refunds... what behaviors to validate?
 
-2026-11-06 · u/Common_Dream9420 · score 1 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp597u/building_refund_automation_before_aretry_issues/)
+2026-11-06 · u/Common_Dream9420 · score 1 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp597u/building_refund_automation_before_aretry_issues/) · [↑ back to the list](#last-50-posts)
 
 > I'm building FetchSandbox, disclosing upfront.
 >
@@ -346,9 +392,11 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xpe0gk/what_actually_c
 >
 > The October 19 isolated provider-twin run measured exactly these three. No live Stripe keys used for that rehearsal. FetchSandbox login and relay access are required. The managed relay forwards requests and responses to your local app so configured behavior checks exercise its actual code.
 
+<a id="post-24"></a>
+
 ### 24. No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recommend?
 
-2026-11-06 · u/JuicyVanilla23 · score 6 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp4wxu/no_tech_or_coding_background_want_to_learn_ai/)
+2026-11-06 · u/JuicyVanilla23 · score 6 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp4wxu/no_tech_or_coding_background_want_to_learn_ai/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! I have no tech or coding background, but I want to learn AI automation, eventually to help small businesses. 
 >
@@ -368,16 +416,20 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xpe0gk/what_actually_c
 >
 > Thanks in advance!
 
+<a id="post-25"></a>
+
 ### 25. Tree search over whole agent harnesses beat Meta-Harness by 3.95 points and cost less to run than hand-built harnesses: notes on "HarnessFlow" (Microsoft Research Asia and universities
 
-2026-11-06 · u/WrongTechnician · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp11ea/tree_search_over_whole_agent_harnesses_beat/)
+2026-11-06 · u/WrongTechnician · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xp11ea/tree_search_over_whole_agent_harnesses_beat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_whole_agent_harnesses_beat/>
 
 
+<a id="post-26"></a>
+
 ### 26. I tested three AI workflow builders
 
-2026-11-05 · u/Devin_Ward79 · score 2 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xowb3d/i_tested_three_ai_workflow_builders/)
+2026-11-05 · u/Devin_Ward79 · score 2 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xowb3d/i_tested_three_ai_workflow_builders/) · [↑ back to the list](#last-50-posts)
 
 > I tested OpenAI Agent Builder, n8n, and BubbleLab with the same task
 >
@@ -391,9 +443,11 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > Which AI workflow builders have been most reliable for you
 
+<a id="post-27"></a>
+
 ### 27. Creating my own Chrome Extensions was a game changer for me!
 
-2026-11-05 · u/Trying_AImarketing · score 115 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xovk5j/creating_my_own_chrome_extensions_was_a_game/)
+2026-11-05 · u/Trying_AImarketing · score 115 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xovk5j/creating_my_own_chrome_extensions_was_a_game/) · [↑ back to the list](#last-50-posts)
 
 > I think I was completely blindsided that I can create my own Chrome Extensions.  
 > I use some specific websites to read stuff, I copy exact couple of paragraphs, for 4/5 articles a day. I suddenly realised after doing this for 6 months that what I just share these screen recordings with ChatGPT..?
@@ -403,9 +457,11 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 > So now I’m thinking about what else have not thought about..   
 > lets discuss and share our knowledge:)
 
+<a id="post-28"></a>
+
 ### 28. Is anyone here actually using multiple AI agents daily?
 
-2026-11-05 · u/FulcraDynamics · score 15 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/)
+2026-11-05 · u/FulcraDynamics · score 15 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 > Not talking about demos or experiments, but actually relying on them to get work done.
 >
@@ -415,15 +471,19 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > What's your setup like?
 
+<a id="post-29"></a>
+
 ### 29. On-device AI agents run directly on consumer devices rather than passing data through publ
 
-2026-11-05 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xorqll/ondevice_ai_agents_run_directly_on_consumer/)
+2026-11-05 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xorqll/ondevice_ai_agents_run_directly_on_consumer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Best way to automate posting to Facebook, Instagram, TikTok and YouTube?
 
-2026-11-05 · u/yeah280 · score 4 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/)
+2026-11-05 · u/yeah280 · score 4 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -446,21 +506,27 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > I’d really appreciate any recommendations or experiences!
 
+<a id="post-31"></a>
+
 ### 31. The best test for whether an agent is production-ready: turn it on for a week without checking it, then review what happened
 
-2026-11-05 · u/TruthUnique425 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xok2ob/the_best_test_for_whether_an_agent_is/)
+2026-11-05 · u/TruthUnique425 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xok2ob/the_best_test_for_whether_an_agent_is/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. What is the craziest automation you have seen a business use? I am talking about something that made you think, wait you can actually automate that?
 
-2026-11-05 · u/DoubtAdditional745 · score 37 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xojeuo/what_is_the_craziest_automation_you_have_seen_a/)
+2026-11-05 · u/DoubtAdditional745 · score 37 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xojeuo/what_is_the_craziest_automation_you_have_seen_a/) · [↑ back to the list](#last-50-posts)
 
 > With ai getting better every day, I feel like businesses should be automating some pcrazy things by now. But most of what I see are still basic workflows. For those who’ve worked on real projects, what is the most interesting or unexpected automation you’ve seen a business actually use?
 
+<a id="post-33"></a>
+
 ### 33. How do you share what you've built with coworkers?
 
-2026-11-05 · u/sixteenpoundblanket · score 9 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/)
+2026-11-05 · u/sixteenpoundblanket · score 9 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/) · [↑ back to the list](#last-50-posts)
 
 > Our group has started to produce useful workflows, but all as individuals. Boss wants us to share.
 >
@@ -468,15 +534,19 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > How do you do this at work?
 
+<a id="post-34"></a>
+
 ### 34. What is one repetitive task in your solo business that you refused to do by hand, so you spent a whole weekend automating it?
 
-2026-11-05 · u/Ericqp2025 · score 7 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xogv7d/what_is_one_repetitive_task_in_your_solo_business/)
+2026-11-05 · u/Ericqp2025 · score 7 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xogv7d/what_is_one_repetitive_task_in_your_solo_business/) · [↑ back to the list](#last-50-posts)
 
 > As a former big data and infrastructure engineer, I have a habit where I would rather spend forty hours wiring up a pipeline than spend two hours doing manual copy pasting. For me it was turning raw dev notes into YouTube scripts, X threads, and launch posts. I hated bouncing between chat tabs so much that I built a three stage Planner, Writer, and Editor engine on my profile just to never do it by hand again. What is the most useful thing you automated for yourself?
 
+<a id="post-35"></a>
+
 ### 35. Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)
 
-2026-11-05 · u/Significant_Dot5737 · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/)
+2026-11-05 · u/Significant_Dot5737 · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/) · [↑ back to the list](#last-50-posts)
 
 > I keep seeing this setup: supplier invoices arrive by email as PDFs, and someone types the date, supplier, amount and invoice number into Google Sheets. Here's a setup that handles most of it:
 >
@@ -490,15 +560,19 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > How are you all handling the scanned, phone-photo invoices? That's the part I find hardest to make reliable.
 
+<a id="post-36"></a>
+
 ### 36. On-device AI agents run directly on consumer devices rather than passing data through publ
 
-2026-11-05 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xoc9iv/ondevice_ai_agents_run_directly_on_consumer/)
+2026-11-05 · u/Elyasians · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xoc9iv/ondevice_ai_agents_run_directly_on_consumer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. Players just wanted to play the playable
 
-2026-11-05 · u/Pegasus_Vandal · score 17 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo9d9c/players_just_wanted_to_play_the_playable/)
+2026-11-05 · u/Pegasus_Vandal · score 17 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo9d9c/players_just_wanted_to_play_the_playable/) · [↑ back to the list](#last-50-posts)
 
 > Last weekend I sat down with every playable we ran this year, fully expecting to discover some deep truth about art direction, and instead learned that players would like to play the playable. Pretty much every one that did well let you touch the game within the first couple of seconds, while my personal favourites opened with a lovingly animated intro and a tutorial hand that apparently existed mostly for my own enjoyment.
 >
@@ -514,25 +588,31 @@ Link: <https://www.reddit.com/r/digitalagent/comments/1xp10ij/tree_search_over_w
 >
 > Most of our titles are puzzle and casual, so I'm genuinely curious whether this holds in other genres, or whether somewhere out there a long intro is quietly winning and I should feel a little better about mine.
 
+<a id="post-38"></a>
+
 ### 38. Anybody running X on antydetect successfully
 
-2026-11-05 · u/lkhadiriziko · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/)
+2026-11-05 · u/lkhadiriziko · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8yfhftdfbpzh1.jpeg>
 
 > Anytime i try using it it gives me this page, ive tried switching proxies and still have the same problem
 
+<a id="post-39"></a>
+
 ### 39. Real-life automation: my browser agent ran a Verizon retention chat and cut my bill $15/mo
 
-2026-11-04 · u/renovateg · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo391w/reallife_automation_my_browser_agent_ran_a/)
+2026-11-04 · u/renovateg · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo391w/reallife_automation_my_browser_agent_ran_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-40"></a>
+
 ### 40. been building apps/workflows with lovable and here is my list of day to day tools, and whats yours?
 
-2026-11-04 · u/Common_Dream9420 · score 7 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo1jkv/been_building_appsworkflows_with_lovable_and_here/)
+2026-11-04 · u/Common_Dream9420 · score 7 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo1jkv/been_building_appsworkflows_with_lovable_and_here/) · [↑ back to the list](#last-50-posts)
 
 > i have been building workflows/apps for small local businesses and being non-technical few tools helping me and wanna share...
 >
@@ -556,17 +636,21 @@ Link: <https://i.redd.it/8yfhftdfbpzh1.jpeg>
 >
 > 2/ Can you share one workflow where an agent failed or needed someone's approval, and how you caught it or handled it?
 
+<a id="post-41"></a>
+
 ### 41. The reconcile job nobody builds for webhook automations
 
-2026-11-04 · u/GraceGomez69 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo12lu/the_reconcile_job_nobody_builds_for_webhook/)
+2026-11-04 · u/GraceGomez69 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xo12lu/the_reconcile_job_nobody_builds_for_webhook/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-42"></a>
+
 ### 42. Before automating a document workflow, try this exercise
 
-2026-11-04 · u/Tan_KV · score 7 · 5 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnzabo/before_automating_a_document_workflow_try_this/)
+2026-11-04 · u/Tan_KV · score 7 · 5 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnzabo/before_automating_a_document_workflow_try_this/) · [↑ back to the list](#last-50-posts)
 
 > Take the document and forget about software for a minute.
 >
@@ -596,9 +680,11 @@ Link: <https://i.redd.it/8yfhftdfbpzh1.jpeg>
 >
 > What document workflow would save your team the most time if those extraction steps disappeared?
 
+<a id="post-43"></a>
+
 ### 43. What have you built with AI that genuinely changed your life?
 
-2026-11-04 · u/Secure_Beginning_939 · score 25 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnz1ys/what_have_you_built_with_ai_that_genuinely/)
+2026-11-04 · u/Secure_Beginning_939 · score 25 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnz1ys/what_have_you_built_with_ai_that_genuinely/) · [↑ back to the list](#last-50-posts)
 
 > I’m curious to hear about the tools, projects, automations or creative experiments you’ve built with AI that have made a real difference to your work, creative flow, productivity or everyday life.
 >
@@ -606,30 +692,38 @@ Link: <https://i.redd.it/8yfhftdfbpzh1.jpeg>
 >
 > Would love to hear what you’ve built
 
+<a id="post-44"></a>
+
 ### 44. \[Technical Co-founder / Automation Specialist\] Looking for a Marketer to scale pre-built n8n workflows for local businesses
 
-2026-11-04 · u/OkAmount4839 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/)
+2026-11-04 · u/OkAmount4839 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because your account has less than 100 total karma. Please gain more karma before posting here.
 
+<a id="post-45"></a>
+
 ### 45. I’ve spent over a year building two serious projects I truly believe in, but I still can’t find customers. What am I doing wrong?
 
-2026-11-04 · u/Radiant_Panda1679 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/)
+2026-11-04 · u/Radiant_Panda1679 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. How to create an ai agent that works in slack not a new app
 
-2026-11-04 · u/Parking-Presence-366 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/)
+2026-11-04 · u/Parking-Presence-366 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/) · [↑ back to the list](#last-50-posts)
 
 > Running a 35person startup and every AI tool I've looked at wants me to go somewhere new to use it. Another tab, another login, another thing to remember..We already live in Slack and email. I want something that just works there without my team having to change how they operate.  
 > Has anyone actually figured out how to create an ai agent that fits into existing tools instead of replacing them? Best and worst experiences welcome.
 
+<a id="post-47"></a>
+
 ### 47. I tested AI workflow builders with the same automation prompt
 
-2026-11-04 · u/TheRealRobbie_04 · score 0 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnut84/i_tested_ai_workflow_builders_with_the_same/)
+2026-11-04 · u/TheRealRobbie_04 · score 0 · 1 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnut84/i_tested_ai_workflow_builders_with_the_same/) · [↑ back to the list](#last-50-posts)
 
 > I tested a few AI workflow builders with the same task 
 >
@@ -647,36 +741,46 @@ Link: <https://i.redd.it/8yfhftdfbpzh1.jpeg>
 >
 > How reliable have you found AI generated automations in practice
 
+<a id="post-48"></a>
+
 ### 48. How many Code nodes are in your average workflow?
 
-2026-11-04 · u/easybits_ai · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnt0of/how_many_code_nodes_are_in_your_average_workflow/)
+2026-11-04 · u/easybits_ai · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnt0of/how_many_code_nodes_are_in_your_average_workflow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xnt0ha/how_many_code_nodes_are_in_your_average_workflow/>
 
 
+<a id="post-49"></a>
+
 ### 49. How do you automate your end-of-month timesheet reporting?
 
-2026-11-04 · u/hornibunny69 · score 16 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/)
+2026-11-04 · u/hornibunny69 · score 16 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/) · [↑ back to the list](#last-50-posts)
 
 > End of the month is always a pain for collecting timesheets from freelancers and remote staff. I want to automate this so I don't have to chase people down for their hours. I’ve been playing around with Zapier integrations to pull time tracking data directly into our accounting software. We use Monitask for the tracking, and setting up the Zap to auto-generate the reports saved me hours of admin work. How do you guys automate your billing workflows?
 
+<a id="post-50"></a>
+
 ### 50. Automating invoice follow-ups: four mistakes I kept making before it worked
 
-2026-11-04 · u/TankComprehensive378 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnlxbj/automating_invoice_followups_four_mistakes_i_kept/)
+2026-11-04 · u/TankComprehensive378 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnlxbj/automating_invoice_followups_four_mistakes_i_kept/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-51"></a>
+
 ### 51. What’s the smallest automation that saved you the most time?
 
-2026-10-24 · u/ibrahim_40 · score 85 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/)
+2026-10-24 · u/ibrahim_40 · score 85 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/) · [↑ back to the list](#last-50-posts)
 
 > Mine pulls numbers from my weekly emails into a spreadsheet and drafts the summary. It cut about 40 minutes down to 5 and I still read it before sending.
 >
 > What’s yours and did you ever automate something that wasn’t worth it?
 
+<a id="post-52"></a>
+
 ### 52. What super annoying repetitive task have you been able to eliminate with AI/Automation so far?
 
-2026-10-13 · u/No-Marionberry8257 · score 65 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x4rb15/what_super_annoying_repetitive_task_have_you_been/)
+2026-10-13 · u/No-Marionberry8257 · score 65 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x4rb15/what_super_annoying_repetitive_task_have_you_been/) · [↑ back to the list](#last-50-posts)
 
 > I recently read a post about someone who automated their morning Slack routine using n8n and AI. They used to spend 1-2 hours scrolling through threads to figure out what shipped, what was blocked, and what needed their attention. Now, an automated workflow scans everything and delivers a one-page summary by 7 AM, saving them around 5-6 hours a week.
 >
@@ -684,17 +788,21 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xnt0ha/how_many_code_n
 >
 > So curious to the experts here, what super annoying repetitive task have you been able to eliminate with AI/Automation so far?
 
+<a id="post-53"></a>
+
 ### 53. Whats the simplest automation that had outsized returns for you?
 
-2026-11-04 · u/impetuouschestnut · score 63 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnjd9f/whats_the_simplest_automation_that_had_outsized/)
+2026-11-04 · u/impetuouschestnut · score 63 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xnjd9f/whats_the_simplest_automation_that_had_outsized/) · [↑ back to the list](#last-50-posts)
 
 > The elaborate automation builds are cool, but I want to hear about the boring ones that turned out to be really worth it. Something you set up in an afternoon and barely think about anymore, but would immediately miss if it stopped working.
 >
 > So curious, whats the simplest automation that had outsized returns for you?
 
+<a id="post-54"></a>
+
 ### 54. Currently learning how to be an AI Automation Specialist.
 
-2026-11-01 · u/StrengthParticular82 · score 53 · 47 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/)
+2026-11-01 · u/StrengthParticular82 · score 53 · 47 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it.
 >
@@ -704,33 +812,41 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xnt0ha/how_many_code_n
 >
 > I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!
 
+<a id="post-55"></a>
+
 ### 55. How to create an ai agent that actually does stuff for your team?
 
-2026-10-19 · u/Separate-Record8115 · score 40 · 83 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/)
+2026-10-19 · u/Separate-Record8115 · score 40 · 83 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/) · [↑ back to the list](#last-50-posts)
 
 > Running ops at a 25 person startup and tryingto figure out how, to actually hand off recurring work to AI, not just answering questions, but stuff like following up on things, pulling info from different places, that kind of work,
 > What have you tried that worked? Curious what approaches real teams are using, and what fell flat.
 
+<a id="post-56"></a>
+
 ### 56. What are some truly useful automation tools for business outside Zapier & N8N?
 
-2026-10-28 · u/Ok-Macaron2516 · score 31 · 59 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/)
+2026-10-28 · u/Ok-Macaron2516 · score 31 · 59 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the game quiet a bit- specifically for businesses and entrepreneurs.
 >
 >
 > So curious experts here, what are some truly useful automation tools for business outside Zapier & N8N?
 
+<a id="post-57"></a>
+
 ### 57. Have you reduced using n8n/make after Claude/chatgpt?
 
-2026-10-20 · u/sidmish · score 29 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xajd6s/have_you_reduced_using_n8nmake_after_claudechatgpt/)
+2026-10-20 · u/sidmish · score 29 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xajd6s/have_you_reduced_using_n8nmake_after_claudechatgpt/) · [↑ back to the list](#last-50-posts)
 
 > I have been personally using Claude a lot, I’m on their 20USD plan. 
 >
 > I am mostly using their schedule features to create my content, SOPs, client’s blogs, etc., and updating everything in my ClickUp and Google sheet, and all assets in Google Drive.
 
+<a id="post-58"></a>
+
 ### 58. People building automations for clients: where are you seeing real demand?
 
-2026-10-20 · u/faktherebel · score 29 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xaglw4/people_building_automations_for_clients_where_are/)
+2026-10-20 · u/faktherebel · score 29 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xaglw4/people_building_automations_for_clients_where_are/) · [↑ back to the list](#last-50-posts)
 
 > Curious to hear from people running automation agencies or doing this for clients.
 >
@@ -746,17 +862,21 @@ Link: <https://www.reddit.com/r/n8nforbeginners/comments/1xnt0ha/how_many_code_n
 >
 > And if there are good communities where automation agency owners talk honestly about the business side, I'd be interested in those too.
 
+<a id="post-59"></a>
+
 ### 59. Ramp launches Glass AI workspace after $1.5 million week of token spending
 
-2026-10-13 · u/DueLibrarian6092 · score 28 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x5044p/ramp_launches_glass_ai_workspace_after_15_million/)
+2026-10-13 · u/DueLibrarian6092 · score 28 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x5044p/ramp_launches_glass_ai_workspace_after_15_million/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 
 > I came across this article today about Ramp launching Glass which from what I could gather as info is a AI workspace that lets teams turn their internal knowledge and workflows into reusable AI skills and it seems to also have persistent memory and automation features which to me at least seems like teams don't have to keep setting everything up from scratch.
 
+<a id="post-60"></a>
+
 ### 60. How do you automate the repetitive work in a logistics coordinator role?
 
-2026-10-21 · u/Advanced_Aspect_4127 · score 26 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xbasah/how_do_you_automate_the_repetitive_work_in_a/)
+2026-10-21 · u/Advanced_Aspect_4127 · score 26 · 65 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xbasah/how_do_you_automate_the_repetitive_work_in_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm a logistics coordinator in the UAE. Most of my day is taking sales orders and turning them into shipments: customs documents, invoices, packing lists, and booking small international parcels. A lot of it is copy-paste between systems, and I'm sure I'm doing some of it the hard way.
 >
@@ -776,9 +896,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > I'd also like to hear what didn't work, so I can skip the dead ends. Thanks!
 
+<a id="post-61"></a>
+
 ### 61. 6 weeks into trying to land my first consulting client. What am I missing?
 
-2026-10-26 · u/marcelorojas56 · score 25 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/)
+2026-10-26 · u/marcelorojas56 · score 25 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/) · [↑ back to the list](#last-50-posts)
 
 > I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually give correct answers. I still have a full-time job, and I'm trying to start a small consultancy on the side.
 >
@@ -802,9 +924,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > Not selling anything here, just trying to figure out what I'm doing wrong. Thanks.
 
+<a id="post-62"></a>
+
 ### 62. What’s the smallest automation you’ve built that saved you the most time?
 
-2026-10-16 · u/ibrahim_40 · score 23 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x7g869/whats_the_smallest_automation_youve_built_that/)
+2026-10-16 · u/ibrahim_40 · score 23 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x7g869/whats_the_smallest_automation_youve_built_that/) · [↑ back to the list](#last-50-posts)
 
 > When people talk about automation, the conversation usually jumps to big systems and complicated workflows. The thing that has helped me most was tiny.
 >
@@ -816,9 +940,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > Details on what went wrong are welcome too, since those stories usually teach the most.
 
+<a id="post-63"></a>
+
 ### 63. my favorite automations are the ones that don't need another app to keep running
 
-2026-10-16 · u/Excellent-Wheel7769 · score 22 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x7hmub/my_favorite_automations_are_the_ones_that_dont/)
+2026-10-16 · u/Excellent-Wheel7769 · score 22 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1x7hmub/my_favorite_automations_are_the_ones_that_dont/) · [↑ back to the list](#last-50-posts)
 
 > i've been looking at everyday tasks that could be handled with a basic script instead of paying for another tool. weekly meal planning is a good example because most of the information is already sitting in a spreadsheet somewhere
 >
@@ -828,9 +954,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > what's a personal automation you've built that still works months later without needing much attention?
 
+<a id="post-64"></a>
+
 ### 64. What are you using instead of Zapier to keep automation costs down?
 
-2026-10-24 · u/Outrageous_Text5335 · score 18 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/)
+2026-10-24 · u/Outrageous_Text5335 · score 18 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/) · [↑ back to the list](#last-50-posts)
 
 > Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives.
 >
@@ -838,9 +966,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > For anyone who moved away from Zapier, what did you switch to and how has it held up as your workflows grew?
 
+<a id="post-65"></a>
+
 ### 65. agent browser stack that survived the first logged in flow
 
-2026-10-21 · u/P0ppyStarlight · score 18 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xbhftl/agent_browser_stack_that_survived_the_first/)
+2026-10-21 · u/P0ppyStarlight · score 18 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xbhftl/agent_browser_stack_that_survived_the_first/) · [↑ back to the list](#last-50-posts)
 
 > spent way too long getting an agent to log into a dashboard and pull reports on a schedule. locally it was fine. flipped it to the server and the session just evaporated. cookies gone, back at the login wall, clicking a page it couldnt read
 >
@@ -850,9 +980,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > curious what people lean on to keep an auth session alive across deploys.. still the part nobody really solves​
 
+<a id="post-66"></a>
+
 ### 66. Need advice on automating market research data entry for 18,327 Excel rows
 
-2026-10-26 · u/keepinitlowkey7 · score 17 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/)
+2026-10-26 · u/keepinitlowkey7 · score 17 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -882,9 +1014,11 @@ Link: <https://cryptobriefing.com/ramp-launches-glass-ai-workspace/>
 >
 > Thanks in advance for any guidance!
 
+<a id="post-67"></a>
+
 ### 67. Exploring what a fully automated revenue process looks like
 
-2026-11-03 · u/naughtytoxicity11 · score 17 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xmyd41/exploring_what_a_fully_automated_revenue_process/)
+2026-11-03 · u/naughtytoxicity11 · score 17 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/automation/comments/1xmyd41/exploring_what_a_fully_automated_revenue_process/) · [↑ back to the list](#last-50-posts)
 
 > We've been looking at how automation could change the way our revenue team operates. Right now most of the automation happens within individual tasks like researching accounts, sending outreach or updating deal information. Those things help but our reps still have to manage what happens between each stage so we're starting to question whether automating tasks separately is really the best approach.
 >

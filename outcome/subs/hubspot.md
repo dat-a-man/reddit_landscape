@@ -36,56 +36,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Did the Google Gemini + HubSpot integration get removed?](https://www.reddit.com/r/hubspot/comments/1xpmcbd/did_the_google_gemini_hubspot_integration_get/) | u/larred | Integrations | text | 2 | 4 | live | — |
-| 2 | 2026-11-06 | [Five cases to test before automating call follow-up tasks](https://www.reddit.com/r/hubspot/comments/1xpdx3j/five_cases_to_test_before_automating_call/) | u/PitchWhipFounder | Tips & Tricks | text | 1 | 5 | live | — |
-| 3 | 2026-11-06 | [Is a sales enablement platform enough or do you need a separate buyer workspace too?](https://www.reddit.com/r/hubspot/comments/1xpautd/is_a_sales_enablement_platform_enough_or_do_you/) | u/Left-sufrederal-9107 | Question | text | 1 | 0 | spam-filtered | — |
-| 4 | 2026-11-06 | [Integrating Breeze Assistant in Notes / Tasks](https://www.reddit.com/r/hubspot/comments/1xp9evc/integrating_breeze_assistant_in_notes_tasks/) | u/PositiveRecording263 | — | i.redd.it | 7 | 4 | live | — |
-| 5 | 2026-11-05 | [How to get a response after submitting Solutions Partner form?](https://www.reddit.com/r/hubspot/comments/1xowuh6/how_to_get_a_response_after_submitting_solutions/) | u/cousingregg | — | text | 2 | 1 | live | — |
-| 6 | 2026-11-05 | [AI Customer Agent performance and quality audit](https://www.reddit.com/r/hubspot/comments/1xovws6/ai_customer_agent_performance_and_quality_audit/) | u/Ok-Constant-9143 | — | text | 2 | 7 | live | — |
-| 7 | 2026-11-05 | [Who gets to publish an SEO change in HubSpot?](https://www.reddit.com/r/hubspot/comments/1xooi2y/who_gets_to_publish_an_seo_change_in_hubspot/) | u/adovo_ai | — | adovo.ai | 1 | 0 | live | — |
-| 8 | 2026-11-05 | [Something is shipping November 19th 🧡🚢](https://www.reddit.com/r/hubspot/comments/1xonkx9/something_is_shipping_november_19th/) | u/HubSpotHelp | — | text | 2 | 21 | live | — |
-| 9 | 2026-11-05 | [How we fixed silent webhook drop-offs between Webflow forms and external CRMs (Post-Mortem & Logic Breakdown)](https://www.reddit.com/r/hubspot/comments/1xoex43/how_we_fixed_silent_webhook_dropoffs_between/) | u/desire__agency | Tips & Tricks | reddit.com | 1 | 3 | live | — |
-| 10 | 2026-11-05 | [Please Review my Resume](https://www.reddit.com/r/hubspot/comments/1xoe80i/please_review_my_resume/) | u/xDSickMyDuck | Feedback | reddit.com | 2 | 1 | live | — |
-| 11 | 2026-11-05 | [Please Review my Resume](https://www.reddit.com/r/hubspot/comments/1xoe65v/please_review_my_resume/) | u/xDSickMyDuck | Feedback | reddit.com | 1 | 0 | live | — |
-| 12 | 2026-11-04 | [Knowledgebase and Support AI](https://www.reddit.com/r/hubspot/comments/1xo0vr9/knowledgebase_and_support_ai/) | u/sidneykeith | — | text | 1 | 0 | live | — |
-| 13 | 2026-11-04 | [Adding AI and automations to HubSpot won't fix a messy CRM](https://www.reddit.com/r/hubspot/comments/1xnzvlq/adding_ai_and_automations_to_hubspot_wont_fix_a/) | u/kaylacampos | — | text | 0 | 0 | live | — |
-| 14 | 2026-11-04 | [What inventory management/ purchase order program best](https://www.reddit.com/r/hubspot/comments/1xny7qo/what_inventory_management_purchase_order_program/) | u/Top-Target-3667 | — | text | 0 | 4 | live | — |
-| 15 | 2026-11-04 | [iMessage tracking](https://www.reddit.com/r/hubspot/comments/1xnx22l/imessage_tracking/) | u/Miserable_Hyena7283 | — | text | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-04 | [We’re running a 3-part webinar series on putting AI agents to work in HubSpot (Nov 5, 12, 19), here’s what ea…](https://www.reddit.com/r/hubspot/comments/1xnuwbr/were_running_a_3part_webinar_series_on_putting_ai/) | u/HubSpotHelp | — | text | 5 | 0 | live | — |
-| 17 | 2026-11-04 | [What's the safe way to delete a tag?](https://www.reddit.com/r/hubspot/comments/1xnnl0n/whats_the_safe_way_to_delete_a_tag/) | u/Kisean_Zamitalo | — | text | 1 | 0 | spam-filtered | — |
-| 18 | 2026-11-04 | [Does Hubspot implement anything like Pipedrive's Group Email feature?](https://www.reddit.com/r/hubspot/comments/1xnmjvq/does_hubspot_implement_anything_like_pipedrives/) | u/906Dude | — | text | 6 | 17 | live | — |
-| 19 | 2026-11-03 | [6 reps on one WhatsApp number and HubSpot has no idea who talked to who](https://www.reddit.com/r/hubspot/comments/1xn8ay6/6_reps_on_one_whatsapp_number_and_hubspot_has_no/) | u/flavia-f | Question | text | 1 | 11 | live | — |
-| 20 | 2026-11-03 | [Can HubSpot Handle a Complete Food Ordering System Without an External Backend?](https://www.reddit.com/r/hubspot/comments/1xn82p6/can_hubspot_handle_a_complete_food_ordering/) | u/xoxoRaaaayyyy_2308 | Question | text | 3 | 17 | live | — |
-| 21 | 2026-11-03 | [Do you know if your portal is actually ready for AI?: Join the AI-Readiness Accelerator workshop with HubSpot…](https://www.reddit.com/r/hubspot/comments/1xn4iw0/do_you_know_if_your_portal_is_actually_ready_for/) | u/HubSpotHelp | — | text | 0 | 0 | live | — |
-| 22 | 2026-11-03 | [Hubspot&LinkedIn ToS compliant assistant tool - 6-months free for every user.](https://www.reddit.com/r/hubspot/comments/1xmviz3/hubspotlinkedin_tos_compliant_assistant_tool/) | u/Admirable_Comedian_2 | — | reddit.com | 0 | 1 | removed by mod | — |
-| 23 | 2026-11-03 | [Learn & Launch: Prospecting Agent Workshop](https://www.reddit.com/r/hubspot/comments/1xmuhj5/learn_launch_prospecting_agent_workshop/) | u/anagarMedia | — | i.redd.it | 2 | 1 | live | — |
-| 24 | 2026-11-03 | [What's the most impactful HubSpot automation/workflow/build you've done?](https://www.reddit.com/r/hubspot/comments/1xmqhes/whats_the_most_impactful_hubspot/) | u/mjk_87 | — | text | 7 | 19 | live | — |
-| 25 | 2026-11-03 | [Sometimes I just want to slam my head into a wall...](https://www.reddit.com/r/hubspot/comments/1xmphky/sometimes_i_just_want_to_slam_my_head_into_a_wall/) | u/dutchviking | — | text | 15 | 13 | live | — |
-| 26 | 2026-11-03 | [HubSpot Marketplace approval: how do you get 3 production installs before your app is verified?](https://www.reddit.com/r/hubspot/comments/1xmm90r/hubspot_marketplace_approval_how_do_you_get_3/) | u/AnnaOdrynska | — | text | 1 | 0 | approved | — |
-| 27 | 2026-11-03 | [Hi, Anyone using HubSpot + Shopify for B2B sales? How do you manage quotes?](https://www.reddit.com/r/hubspot/comments/1xmkqxj/hi_anyone_using_hubspot_shopify_for_b2b_sales_how/) | u/himungshu | Question | text | 1 | 11 | live | — |
-| 28 | 2026-11-03 | [Long-term schizophrenic I need some help](https://www.reddit.com/r/hubspot/comments/1xme45y/longterm_schizophrenic_i_need_some_help/) | u/Interesting-Toe-6612 | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 29 | 2026-11-02 | [Make It Monday: Show us what you're building with HubSpot and AI](https://www.reddit.com/r/hubspot/comments/1xm14ay/make_it_monday_show_us_what_youre_building_with/) | u/HubSpotHelp | — | text | 1 | 13 | live | — |
-| 30 | 2026-11-02 | [Can we build an AI-powered automated email reply system using HubSpot?](https://www.reddit.com/r/hubspot/comments/1xm11kd/can_we_build_an_aipowered_automated_email_reply/) | u/UnleashTechWorx | — | text | 4 | 8 | approved | — |
-| 31 | 2026-11-02 | [What almost made you NOT hire your RevOps agency?](https://www.reddit.com/r/hubspot/comments/1xlw818/what_almost_made_you_not_hire_your_revops_agency/) | u/tzuryro | — | text | 1 | 2 | live | — |
-| 32 | 2026-11-02 | [When is a tool not worth maintaining?](https://www.reddit.com/r/hubspot/comments/1xlqhlj/when_is_a_tool_not_worth_maintaining/) | u/CuriousBee77 | Question | text | 2 | 5 | approved | — |
-| 33 | 2026-11-02 | [Which system is the source of truth for customers: CRM or helpdesk?](https://www.reddit.com/r/hubspot/comments/1xlq5y0/which_system_is_the_source_of_truth_for_customers/) | u/MegzzAsleep6969 | Tips & Tricks | text | 1 | 15 | live | — |
-| 34 | 2026-11-01 | [If your clients complain about "bad leads," check their response time. Here is the exact webhook setup to fix…](https://www.reddit.com/r/hubspot/comments/1xl9cx9/if_your_clients_complain_about_bad_leads_check/) | u/Fragrant-Break5743 | — | text | 0 | 0 | spam-filtered | — |
-| 35 | 2026-11-01 | [Hiring in San Diego (Hubspot + n8n)](https://www.reddit.com/r/hubspot/comments/1xkq1yd/hiring_in_san_diego_hubspot_n8n/) | u/Aggressive-Ad-5172 | — | reddit.com | 1 | 0 | approved | — |
-| 36 | 2026-10-31 | [I HAD TO MAKE A COUPLE BANDS BY MY LONELY](https://www.reddit.com/r/hubspot/comments/1xkih66/i_had_to_make_a_couple_bands_by_my_lonely/) | u/Interesting-Toe-6612 | — | text | 1 | 0 | spam-filtered | — |
-| 37 | 2026-10-31 | [AI has killed all contract work. I haven't had a contract in 6+ months, all platforms are dead, and the few t…](https://www.reddit.com/r/hubspot/comments/1xkec7z/ai_has_killed_all_contract_work_i_havent_had_a/) | u/StrengthClear3578 | — | text | 59 | 81 | live | — |
-| 38 | 2026-10-31 | [The Value of the Loop Marketing](https://www.reddit.com/r/hubspot/comments/1xkb3f6/the_value_of_the_loop_marketing/) | u/crispygerrit | Question | text | 2 | 8 | live | — |
-| 39 | 2026-10-31 | [I built AI agents that write back into HubSpot. 5 things I’d tell anyone trying the same](https://www.reddit.com/r/hubspot/comments/1xk4nrr/i_built_ai_agents_that_write_back_into_hubspot_5/) | u/Consistent_Donut_113 | — | text | 5 | 13 | live | — |
-| 40 | 2026-10-31 | [How do you follow up on Shopify Draft Orders that customers don't complete?](https://www.reddit.com/r/hubspot/comments/1xk2cav/how_do_you_follow_up_on_shopify_draft_orders_that/) | u/UnificDotCom | Question | text | 0 | 0 | spam-filtered | — |
-| 41 | 2026-10-31 | [What are the rules about leaving negative Partner reviews?](https://www.reddit.com/r/hubspot/comments/1xjyc9v/what_are_the_rules_about_leaving_negative_partner/) | u/th3rmos | — | text | 17 | 13 | live | — |
-| 42 | 2026-10-30 | [Email size checks](https://www.reddit.com/r/hubspot/comments/1xjqm7r/email_size_checks/) | u/universejournaler | Question | text | 1 | 3 | live | — |
-| 43 | 2026-10-30 | [Upcoming Events and Programs](https://www.reddit.com/r/hubspot/comments/1xjlt7c/upcoming_events_and_programs/) | u/HubSpotHelp | — | i.redd.it | 1 | 2 | live | — |
-| 44 | 2026-10-30 | [Shared outlook box on sequences question.](https://www.reddit.com/r/hubspot/comments/1xjigp0/shared_outlook_box_on_sequences_question/) | u/EverdreamJustPlays | Question | text | 1 | 7 | live | — |
-| 45 | 2026-10-30 | [Why do two dashboards never agree?](https://www.reddit.com/r/hubspot/comments/1xjgoin/why_do_two_dashboards_never_agree/) | u/xoxo_huh | — | text | 1 | 3 | approved | — |
-| 46 | 2026-10-30 | [Looking for HubSpot users to test our Power BI Connector](https://www.reddit.com/r/hubspot/comments/1xje7oj/looking_for_hubspot_users_to_test_our_power_bi/) | u/AnnaOdrynska | — | text | 0 | 0 | removed by mod | — |
-| 47 | 2026-10-30 | [Lower cost of custom AI agents](https://www.reddit.com/r/hubspot/comments/1xje6dt/lower_cost_of_custom_ai_agents/) | u/Ok-Constant-9143 | Feedback | text | 7 | 15 | live | — |
-| 48 | 2026-10-30 | [Forcing sales reps to do their job via workflows](https://www.reddit.com/r/hubspot/comments/1xjbejx/forcing_sales_reps_to_do_their_job_via_workflows/) | u/kellylabanca246 | Tips & Tricks | text | 26 | 25 | live | — |
-| 49 | 2026-10-30 | [HubSpot deal stages and pipelines: what I’ve learned as an ex-HubSpot employee setting them up for clients](https://www.reddit.com/r/hubspot/comments/1xj5so4/hubspot_deal_stages_and_pipelines_what_ive/) | u/JessHatchiDigital | — | text | 10 | 6 | live | — |
-| 50 | 2026-10-29 | [Headless Horseman’s Halloween HubSpot Campaign](https://www.reddit.com/r/hubspot/comments/1xiz9pm/headless_horsemans_halloween_hubspot_campaign/) | u/HSSamSolutions | Tips & Tricks | text | 13 | 3 | live | — |
+| 1 | 2026-11-06 | [Did the Google Gemini + HubSpot integration get removed?](#post-1) | u/larred | Integrations | text | 2 | 4 | live | — |
+| 2 | 2026-11-06 | [Five cases to test before automating call follow-up tasks](#post-2) | u/PitchWhipFounder | Tips & Tricks | text | 1 | 5 | live | — |
+| 3 | 2026-11-06 | [Is a sales enablement platform enough or do you need a separate buyer workspace too?](#post-3) | u/Left-sufrederal-9107 | Question | text | 1 | 0 | spam-filtered | — |
+| 4 | 2026-11-06 | [Integrating Breeze Assistant in Notes / Tasks](#post-4) | u/PositiveRecording263 | — | i.redd.it | 7 | 4 | live | — |
+| 5 | 2026-11-05 | [How to get a response after submitting Solutions Partner form?](#post-5) | u/cousingregg | — | text | 2 | 1 | live | — |
+| 6 | 2026-11-05 | [AI Customer Agent performance and quality audit](#post-6) | u/Ok-Constant-9143 | — | text | 2 | 7 | live | — |
+| 7 | 2026-11-05 | [Who gets to publish an SEO change in HubSpot?](#post-7) | u/adovo_ai | — | adovo.ai | 1 | 0 | live | — |
+| 8 | 2026-11-05 | [Something is shipping November 19th 🧡🚢](#post-8) | u/HubSpotHelp | — | text | 2 | 21 | live | — |
+| 9 | 2026-11-05 | [How we fixed silent webhook drop-offs between Webflow forms and external CRMs (Post-Mortem & Logic Breakdown)](#post-9) | u/desire__agency | Tips & Tricks | reddit.com | 1 | 3 | live | — |
+| 10 | 2026-11-05 | [Please Review my Resume](#post-10) | u/xDSickMyDuck | Feedback | reddit.com | 2 | 1 | live | — |
+| 11 | 2026-11-05 | [Please Review my Resume](#post-11) | u/xDSickMyDuck | Feedback | reddit.com | 1 | 0 | live | — |
+| 12 | 2026-11-04 | [Knowledgebase and Support AI](#post-12) | u/sidneykeith | — | text | 1 | 0 | live | — |
+| 13 | 2026-11-04 | [Adding AI and automations to HubSpot won't fix a messy CRM](#post-13) | u/kaylacampos | — | text | 0 | 0 | live | — |
+| 14 | 2026-11-04 | [What inventory management/ purchase order program best](#post-14) | u/Top-Target-3667 | — | text | 0 | 4 | live | — |
+| 15 | 2026-11-04 | [iMessage tracking](#post-15) | u/Miserable_Hyena7283 | — | text | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-04 | [We’re running a 3-part webinar series on putting AI agents to work in HubSpot (Nov 5, 12, 19), here’s what ea…](#post-16) | u/HubSpotHelp | — | text | 5 | 0 | live | — |
+| 17 | 2026-11-04 | [What's the safe way to delete a tag?](#post-17) | u/Kisean_Zamitalo | — | text | 1 | 0 | spam-filtered | — |
+| 18 | 2026-11-04 | [Does Hubspot implement anything like Pipedrive's Group Email feature?](#post-18) | u/906Dude | — | text | 6 | 17 | live | — |
+| 19 | 2026-11-03 | [6 reps on one WhatsApp number and HubSpot has no idea who talked to who](#post-19) | u/flavia-f | Question | text | 1 | 11 | live | — |
+| 20 | 2026-11-03 | [Can HubSpot Handle a Complete Food Ordering System Without an External Backend?](#post-20) | u/xoxoRaaaayyyy_2308 | Question | text | 3 | 17 | live | — |
+| 21 | 2026-11-03 | [Do you know if your portal is actually ready for AI?: Join the AI-Readiness Accelerator workshop with HubSpot…](#post-21) | u/HubSpotHelp | — | text | 0 | 0 | live | — |
+| 22 | 2026-11-03 | [Hubspot&LinkedIn ToS compliant assistant tool - 6-months free for every user.](#post-22) | u/Admirable_Comedian_2 | — | reddit.com | 0 | 1 | removed by mod | — |
+| 23 | 2026-11-03 | [Learn & Launch: Prospecting Agent Workshop](#post-23) | u/anagarMedia | — | i.redd.it | 2 | 1 | live | — |
+| 24 | 2026-11-03 | [What's the most impactful HubSpot automation/workflow/build you've done?](#post-24) | u/mjk_87 | — | text | 7 | 19 | live | — |
+| 25 | 2026-11-03 | [Sometimes I just want to slam my head into a wall...](#post-25) | u/dutchviking | — | text | 15 | 13 | live | — |
+| 26 | 2026-11-03 | [HubSpot Marketplace approval: how do you get 3 production installs before your app is verified?](#post-26) | u/AnnaOdrynska | — | text | 1 | 0 | approved | — |
+| 27 | 2026-11-03 | [Hi, Anyone using HubSpot + Shopify for B2B sales? How do you manage quotes?](#post-27) | u/himungshu | Question | text | 1 | 11 | live | — |
+| 28 | 2026-11-03 | [Long-term schizophrenic I need some help](#post-28) | u/Interesting-Toe-6612 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 29 | 2026-11-02 | [Make It Monday: Show us what you're building with HubSpot and AI](#post-29) | u/HubSpotHelp | — | text | 1 | 13 | live | — |
+| 30 | 2026-11-02 | [Can we build an AI-powered automated email reply system using HubSpot?](#post-30) | u/UnleashTechWorx | — | text | 4 | 8 | approved | — |
+| 31 | 2026-11-02 | [What almost made you NOT hire your RevOps agency?](#post-31) | u/tzuryro | — | text | 1 | 2 | live | — |
+| 32 | 2026-11-02 | [When is a tool not worth maintaining?](#post-32) | u/CuriousBee77 | Question | text | 2 | 5 | approved | — |
+| 33 | 2026-11-02 | [Which system is the source of truth for customers: CRM or helpdesk?](#post-33) | u/MegzzAsleep6969 | Tips & Tricks | text | 1 | 15 | live | — |
+| 34 | 2026-11-01 | [If your clients complain about "bad leads," check their response time. Here is the exact webhook setup to fix…](#post-34) | u/Fragrant-Break5743 | — | text | 0 | 0 | spam-filtered | — |
+| 35 | 2026-11-01 | [Hiring in San Diego (Hubspot + n8n)](#post-35) | u/Aggressive-Ad-5172 | — | reddit.com | 1 | 0 | approved | — |
+| 36 | 2026-10-31 | [I HAD TO MAKE A COUPLE BANDS BY MY LONELY](#post-36) | u/Interesting-Toe-6612 | — | text | 1 | 0 | spam-filtered | — |
+| 37 | 2026-10-31 | [AI has killed all contract work. I haven't had a contract in 6+ months, all platforms are dead, and the few t…](#post-37) | u/StrengthClear3578 | — | text | 59 | 81 | live | — |
+| 38 | 2026-10-31 | [The Value of the Loop Marketing](#post-38) | u/crispygerrit | Question | text | 2 | 8 | live | — |
+| 39 | 2026-10-31 | [I built AI agents that write back into HubSpot. 5 things I’d tell anyone trying the same](#post-39) | u/Consistent_Donut_113 | — | text | 5 | 13 | live | — |
+| 40 | 2026-10-31 | [How do you follow up on Shopify Draft Orders that customers don't complete?](#post-40) | u/UnificDotCom | Question | text | 0 | 0 | spam-filtered | — |
+| 41 | 2026-10-31 | [What are the rules about leaving negative Partner reviews?](#post-41) | u/th3rmos | — | text | 17 | 13 | live | — |
+| 42 | 2026-10-30 | [Email size checks](#post-42) | u/universejournaler | Question | text | 1 | 3 | live | — |
+| 43 | 2026-10-30 | [Upcoming Events and Programs](#post-43) | u/HubSpotHelp | — | i.redd.it | 1 | 2 | live | — |
+| 44 | 2026-10-30 | [Shared outlook box on sequences question.](#post-44) | u/EverdreamJustPlays | Question | text | 1 | 7 | live | — |
+| 45 | 2026-10-30 | [Why do two dashboards never agree?](#post-45) | u/xoxo_huh | — | text | 1 | 3 | approved | — |
+| 46 | 2026-10-30 | [Looking for HubSpot users to test our Power BI Connector](#post-46) | u/AnnaOdrynska | — | text | 0 | 0 | removed by mod | — |
+| 47 | 2026-10-30 | [Lower cost of custom AI agents](#post-47) | u/Ok-Constant-9143 | Feedback | text | 7 | 15 | live | — |
+| 48 | 2026-10-30 | [Forcing sales reps to do their job via workflows](#post-48) | u/kellylabanca246 | Tips & Tricks | text | 26 | 25 | live | — |
+| 49 | 2026-10-30 | [HubSpot deal stages and pipelines: what I’ve learned as an ex-HubSpot employee setting them up for clients](#post-49) | u/JessHatchiDigital | — | text | 10 | 6 | live | — |
+| 50 | 2026-10-29 | [Headless Horseman’s Halloween HubSpot Campaign](#post-50) | u/HSSamSolutions | Tips & Tricks | text | 13 | 3 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -93,34 +93,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 37 | 2026-10-31 | [AI has killed all contract work. I haven't had a contract in 6+ months, all platforms are dead, and the few t…](https://www.reddit.com/r/hubspot/comments/1xkec7z/ai_has_killed_all_contract_work_i_havent_had_a/) | u/StrengthClear3578 | — | text | 59 | 81 | live |
-| 51 | 2026-10-22 | [When you inherit a HubSpot portal and the previous admin says: “There is nothing weird in the workflows.”](https://www.reddit.com/r/hubspot/comments/1xck5kj/when_you_inherit_a_hubspot_portal_and_the/) | u/HubSpotHelp | — | i.redd.it | 45 | 4 | live |
-| 52 | 2026-10-29 | [Breeze is embarrassing, right?](https://www.reddit.com/r/hubspot/comments/1xixcaz/breeze_is_embarrassing_right/) | u/its_me9233 | Feedback | text | 35 | 62 | live |
-| 48 | 2026-10-30 | [Forcing sales reps to do their job via workflows](https://www.reddit.com/r/hubspot/comments/1xjbejx/forcing_sales_reps_to_do_their_job_via_workflows/) | u/kellylabanca246 | Tips & Tricks | text | 26 | 25 | live |
-| 41 | 2026-10-31 | [What are the rules about leaving negative Partner reviews?](https://www.reddit.com/r/hubspot/comments/1xjyc9v/what_are_the_rules_about_leaving_negative_partner/) | u/th3rmos | — | text | 17 | 13 | live |
-| 25 | 2026-11-03 | [Sometimes I just want to slam my head into a wall...](https://www.reddit.com/r/hubspot/comments/1xmphky/sometimes_i_just_want_to_slam_my_head_into_a_wall/) | u/dutchviking | — | text | 15 | 13 | live |
-| 50 | 2026-10-29 | [Headless Horseman’s Halloween HubSpot Campaign](https://www.reddit.com/r/hubspot/comments/1xiz9pm/headless_horsemans_halloween_hubspot_campaign/) | u/HSSamSolutions | Tips & Tricks | text | 13 | 3 | live |
-| 53 | 2026-10-15 | [Email Tracking - New EU Rules](https://www.reddit.com/r/hubspot/comments/1x6ooaw/email_tracking_new_eu_rules/) | u/Sea_Literature115 | Question | text | 12 | 15 | live |
-| 54 | 2026-10-19 | [Just became the HubSpot admin? Things I wish every new admin knew before changing anything](https://www.reddit.com/r/hubspot/comments/1xaat30/just_became_the_hubspot_admin_things_i_wish_every/) | u/JessHatchiDigital | — | text | 11 | 0 | approved |
-| 55 | 2026-10-18 | [Has anyone used koalify?](https://www.reddit.com/r/hubspot/comments/1x9aekz/has_anyone_used_koalify/) | u/Remarkable-Fix7978 | Question | text | 10 | 21 | live |
-| 56 | 2026-10-12 | [Make It Monday: Show us what you're building with HubSpot and AI](https://www.reddit.com/r/hubspot/comments/1x446pr/make_it_monday_show_us_what_youre_building_with/) | u/HubSpotHelp | — | text | 10 | 11 | live |
-| 49 | 2026-10-30 | [HubSpot deal stages and pipelines: what I’ve learned as an ex-HubSpot employee setting them up for clients](https://www.reddit.com/r/hubspot/comments/1xj5so4/hubspot_deal_stages_and_pipelines_what_ive/) | u/JessHatchiDigital | — | text | 10 | 6 | live |
-| 57 | 2026-10-22 | [Looking for HubSpot Developer](https://www.reddit.com/r/hubspot/comments/1xcargs/looking_for_hubspot_developer/) | u/AUHrecruit | — | text | 9 | 40 | live |
-| 58 | 2026-10-11 | [Downgrading HubSpot Marketing Contacts (2026) - stuck](https://www.reddit.com/r/hubspot/comments/1x3451o/downgrading_hubspot_marketing_contacts_2026_stuck/) | u/Future-Network-634 | Question | i.redd.it | 9 | 11 | live |
-| 59 | 2026-10-12 | [We run the same 7 Claude prompts on our HubSpot pipeline every week. Here's the list, plus the two settings t…](https://www.reddit.com/r/hubspot/comments/1x4gxrt/we_run_the_same_7_claude_prompts_on_our_hubspot/) | u/Salty_Outside_4889 | — | text | 9 | 10 | approved |
-| 60 | 2026-10-21 | [Why does every portal turn into a mess??](https://www.reddit.com/r/hubspot/comments/1xbu7mx/why_does_every_portal_turn_into_a_mess/) | u/BrendaCRM | Question | text | 8 | 37 | live |
-| 61 | 2026-10-12 | [HubSpot's new seats + Credits pricing went Live in EMEA on October 1st](https://www.reddit.com/r/hubspot/comments/1x3wn0w/hubspots_new_seats_credits_pricing_went_live_in/) | u/Remarkable-Fix7978 | Tips & Tricks | text | 8 | 11 | live |
-| 62 | 2026-10-14 | [Me asking Breeze Assistant for that report with the thing from last quarter](https://www.reddit.com/r/hubspot/comments/1x5shaq/me_asking_breeze_assistant_for_that_report_with/) | u/HubSpotHelp | — | i.redd.it | 8 | 4 | live |
-| 24 | 2026-11-03 | [What's the most impactful HubSpot automation/workflow/build you've done?](https://www.reddit.com/r/hubspot/comments/1xmqhes/whats_the_most_impactful_hubspot/) | u/mjk_87 | — | text | 7 | 19 | live |
-| 63 | 2026-10-27 | [HubSpot lifecycle stages: what I learned as an ex-HubSpot employee fixing them in client portals](https://www.reddit.com/r/hubspot/comments/1xgwxt9/hubspot_lifecycle_stages_what_i_learned_as_an/) | u/JessHatchiDigital | — | text | 7 | 18 | approved |
+| 37 | 2026-10-31 | [AI has killed all contract work. I haven't had a contract in 6+ months, all platforms are dead, and the few t…](#post-37) | u/StrengthClear3578 | — | text | 59 | 81 | live |
+| 51 | 2026-10-22 | [When you inherit a HubSpot portal and the previous admin says: “There is nothing weird in the workflows.”](#post-51) | u/HubSpotHelp | — | i.redd.it | 45 | 4 | live |
+| 52 | 2026-10-29 | [Breeze is embarrassing, right?](#post-52) | u/its_me9233 | Feedback | text | 35 | 62 | live |
+| 48 | 2026-10-30 | [Forcing sales reps to do their job via workflows](#post-48) | u/kellylabanca246 | Tips & Tricks | text | 26 | 25 | live |
+| 41 | 2026-10-31 | [What are the rules about leaving negative Partner reviews?](#post-41) | u/th3rmos | — | text | 17 | 13 | live |
+| 25 | 2026-11-03 | [Sometimes I just want to slam my head into a wall...](#post-25) | u/dutchviking | — | text | 15 | 13 | live |
+| 50 | 2026-10-29 | [Headless Horseman’s Halloween HubSpot Campaign](#post-50) | u/HSSamSolutions | Tips & Tricks | text | 13 | 3 | live |
+| 53 | 2026-10-15 | [Email Tracking - New EU Rules](#post-53) | u/Sea_Literature115 | Question | text | 12 | 15 | live |
+| 54 | 2026-10-19 | [Just became the HubSpot admin? Things I wish every new admin knew before changing anything](#post-54) | u/JessHatchiDigital | — | text | 11 | 0 | approved |
+| 55 | 2026-10-18 | [Has anyone used koalify?](#post-55) | u/Remarkable-Fix7978 | Question | text | 10 | 21 | live |
+| 56 | 2026-10-12 | [Make It Monday: Show us what you're building with HubSpot and AI](#post-56) | u/HubSpotHelp | — | text | 10 | 11 | live |
+| 49 | 2026-10-30 | [HubSpot deal stages and pipelines: what I’ve learned as an ex-HubSpot employee setting them up for clients](#post-49) | u/JessHatchiDigital | — | text | 10 | 6 | live |
+| 57 | 2026-10-22 | [Looking for HubSpot Developer](#post-57) | u/AUHrecruit | — | text | 9 | 40 | live |
+| 58 | 2026-10-11 | [Downgrading HubSpot Marketing Contacts (2026) - stuck](#post-58) | u/Future-Network-634 | Question | i.redd.it | 9 | 11 | live |
+| 59 | 2026-10-12 | [We run the same 7 Claude prompts on our HubSpot pipeline every week. Here's the list, plus the two settings t…](#post-59) | u/Salty_Outside_4889 | — | text | 9 | 10 | approved |
+| 60 | 2026-10-21 | [Why does every portal turn into a mess??](#post-60) | u/BrendaCRM | Question | text | 8 | 37 | live |
+| 61 | 2026-10-12 | [HubSpot's new seats + Credits pricing went Live in EMEA on October 1st](#post-61) | u/Remarkable-Fix7978 | Tips & Tricks | text | 8 | 11 | live |
+| 62 | 2026-10-14 | [Me asking Breeze Assistant for that report with the thing from last quarter](#post-62) | u/HubSpotHelp | — | i.redd.it | 8 | 4 | live |
+| 24 | 2026-11-03 | [What's the most impactful HubSpot automation/workflow/build you've done?](#post-24) | u/mjk_87 | — | text | 7 | 19 | live |
+| 63 | 2026-10-27 | [HubSpot lifecycle stages: what I learned as an ex-HubSpot employee fixing them in client portals](#post-63) | u/JessHatchiDigital | — | text | 7 | 18 | approved |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Did the Google Gemini + HubSpot integration get removed?
 
-2026-11-06 · u/larred · Integrations · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpmcbd/did_the_google_gemini_hubspot_integration_get/)
+2026-11-06 · u/larred · Integrations · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpmcbd/did_the_google_gemini_hubspot_integration_get/) · [↑ back to the list](#last-50-posts)
 
 > My Gemini-HubSpot connection suddenly stopped working today, and HubSpot has completely disappeared from the Google Workspace / Gemini Apps Marketplace.
 >
@@ -128,9 +130,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Is anyone else experiencing this? Trying to figure out if this is just a temporary glitch or if they quietly killed the integration. So frustrating!
 
+<a id="post-2"></a>
+
 ### 2. Five cases to test before automating call follow-up tasks
 
-2026-11-06 · u/PitchWhipFounder · Tips & Tricks · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpdx3j/five_cases_to_test_before_automating_call/)
+2026-11-06 · u/PitchWhipFounder · Tips & Tricks · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpdx3j/five_cases_to_test_before_automating_call/) · [↑ back to the list](#last-50-posts)
 
 > For anyone turning call outcomes into HubSpot tasks, here is a small test checklist. A task appearing is only part of the test: it needs to represent the right next action, for the right person, once.
 >
@@ -162,23 +166,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > How are you handling corrected call outcomes in HubSpot: updating the existing task, or sending exceptions to a person for review?
 
+<a id="post-3"></a>
+
 ### 3. Is a sales enablement platform enough or do you need a separate buyer workspace too?
 
-2026-11-06 · u/Left-sufrederal-9107 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpautd/is_a_sales_enablement_platform_enough_or_do_you/)
+2026-11-06 · u/Left-sufrederal-9107 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xpautd/is_a_sales_enablement_platform_enough_or_do_you/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. Integrating Breeze Assistant in Notes / Tasks
 
-2026-11-06 · u/PositiveRecording263 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xp9evc/integrating_breeze_assistant_in_notes_tasks/)
+2026-11-06 · u/PositiveRecording263 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xp9evc/integrating_breeze_assistant_in_notes_tasks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tgh9p72axyzh1.jpeg>
 
 > Imagine adding Breeze directly onto tasks and notes asks for some validation or action to be performed, wouldn't be cool.
 
+<a id="post-5"></a>
+
 ### 5. How to get a response after submitting Solutions Partner form?
 
-2026-11-05 · u/cousingregg · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xowuh6/how_to_get_a_response_after_submitting_solutions/)
+2026-11-05 · u/cousingregg · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xowuh6/how_to_get_a_response_after_submitting_solutions/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, apologies if this is a repetitive question.
 >
@@ -186,9 +196,11 @@ Link: <https://i.redd.it/tgh9p72axyzh1.jpeg>
 >
 > I'd just like to pay my $400/month so I can do this officially as I'm looking to grow my business. I've submitted a form 3 times and nobody's gotten back to me. Any tips or ideas on how to get through?
 
+<a id="post-6"></a>
+
 ### 6. AI Customer Agent performance and quality audit
 
-2026-11-05 · u/Ok-Constant-9143 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xovws6/ai_customer_agent_performance_and_quality_audit/)
+2026-11-05 · u/Ok-Constant-9143 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xovws6/ai_customer_agent_performance_and_quality_audit/) · [↑ back to the list](#last-50-posts)
 
 > How are you auditing the content and quality of the AI Customer Agent? I’m looking for best practices in this area.
 >
@@ -203,47 +215,59 @@ Link: <https://i.redd.it/tgh9p72axyzh1.jpeg>
 >
 > https://i.redd.it/3jmac470bvzh1.png
 
+<a id="post-7"></a>
+
 ### 7. Who gets to publish an SEO change in HubSpot?
 
-2026-11-05 · u/adovo_ai · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xooi2y/who_gets_to_publish_an_seo_change_in_hubspot/)
+2026-11-05 · u/adovo_ai · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xooi2y/who_gets_to_publish_an_seo_change_in_hubspot/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://adovo.ai/insights/hubspot-seo-connector-customer-controls-publishing>
 
 
+<a id="post-8"></a>
+
 ### 8. Something is shipping November 19th 🧡🚢
 
-2026-11-05 · u/HubSpotHelp · score 2 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xonkx9/something_is_shipping_november_19th/)
+2026-11-05 · u/HubSpotHelp · score 2 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xonkx9/something_is_shipping_november_19th/) · [↑ back to the list](#last-50-posts)
 
 > https://reddit.com/link/1xonkx9/video/l7o3iellotzh1/player
 >
 > A box got passed around a lot of hands to get here. We can’t say what’s in it yet. The pug has been briefed. What do you think it is?
 
+<a id="post-9"></a>
+
 ### 9. How we fixed silent webhook drop-offs between Webflow forms and external CRMs (Post-Mortem & Logic Breakdown)
 
-2026-11-05 · u/desire__agency · Tips & Tricks · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoex43/how_we_fixed_silent_webhook_dropoffs_between/)
+2026-11-05 · u/desire__agency · Tips & Tricks · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoex43/how_we_fixed_silent_webhook_dropoffs_between/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/webflow/comments/1xoewpf/how_we_fixed_silent_webhook_dropoffs_between/>
 
 
+<a id="post-10"></a>
+
 ### 10. Please Review my Resume
 
-2026-11-05 · u/xDSickMyDuck · Feedback · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoe80i/please_review_my_resume/)
+2026-11-05 · u/xDSickMyDuck · Feedback · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoe80i/please_review_my_resume/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xoe80i>
 
 > Early CS Grad with a UK Internship & Custom Integration Project "DealSense"!
 
+<a id="post-11"></a>
+
 ### 11. Please Review my Resume
 
-2026-11-05 · u/xDSickMyDuck · Feedback · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoe65v/please_review_my_resume/)
+2026-11-05 · u/xDSickMyDuck · Feedback · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xoe65v/please_review_my_resume/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xoe65v>
 
 > Early CS Grad with a UK Internship & Custom App Development Project!
 
+<a id="post-12"></a>
+
 ### 12. Knowledgebase and Support AI
 
-2026-11-04 · u/sidneykeith · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xo0vr9/knowledgebase_and_support_ai/)
+2026-11-04 · u/sidneykeith · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xo0vr9/knowledgebase_and_support_ai/) · [↑ back to the list](#last-50-posts)
 
 > Does anyone have any best practices for customer support tickets and knowledge base articles in HubSpot using AI tools like Claude Code? I feel like we're leaps and bounds behind what's available because we're stuck in this ecosystem that we pay way too much for.
 >
@@ -257,9 +281,11 @@ Link: <https://www.reddit.com/gallery/1xoe65v>
 >
 > Anyone else in the same boat? Has anyone gotten around limitations?
 
+<a id="post-13"></a>
+
 ### 13. Adding AI and automations to HubSpot won't fix a messy CRM
 
-2026-11-04 · u/kaylacampos · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnzvlq/adding_ai_and_automations_to_hubspot_wont_fix_a/)
+2026-11-04 · u/kaylacampos · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnzvlq/adding_ai_and_automations_to_hubspot_wont_fix_a/) · [↑ back to the list](#last-50-posts)
 
 > When teams start adding AI and more automations to HubSpot, they often run into problems that have less to do with the tools and more to do with how their CRM is structured.
 >
@@ -281,9 +307,11 @@ Link: <https://www.reddit.com/gallery/1xoe65v>
 >
 > Curious how others approach this. Do you clean up the CRM before introducing new automations, or improve the structure as you build?
 
+<a id="post-14"></a>
+
 ### 14. What inventory management/ purchase order program best
 
-2026-11-04 · u/Top-Target-3667 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xny7qo/what_inventory_management_purchase_order_program/)
+2026-11-04 · u/Top-Target-3667 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xny7qo/what_inventory_management_purchase_order_program/) · [↑ back to the list](#last-50-posts)
 
 > What inventory management/ purchase order program best to go with hubspot.
 >
@@ -291,15 +319,19 @@ Link: <https://www.reddit.com/gallery/1xoe65v>
 >
 > We are an e-commerce that does half drop shipping half filled in house orders.
 
+<a id="post-15"></a>
+
 ### 15. iMessage tracking
 
-2026-11-04 · u/Miserable_Hyena7283 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnx22l/imessage_tracking/)
+2026-11-04 · u/Miserable_Hyena7283 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnx22l/imessage_tracking/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. We’re running a 3-part webinar series on putting AI agents to work in HubSpot (Nov 5, 12, 19), here’s what each one covers
 
-2026-11-04 · u/HubSpotHelp · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnuwbr/were_running_a_3part_webinar_series_on_putting_ai/)
+2026-11-04 · u/HubSpotHelp · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnuwbr/were_running_a_3part_webinar_series_on_putting_ai/) · [↑ back to the list](#last-50-posts)
 
 > We’re doing a three-part live series called [**Make AI work for your business**](https://hubs.la/Q04CtRCF0). Each session follows one team through a real workflow in HubSpot, with real demos and not just slides you follow along. Every one covers a single outcome, so you can go to all three or just the one that fits your role the best.
 >
@@ -318,34 +350,44 @@ Link: <https://www.reddit.com/gallery/1xoe65v>
 >
 > Its free to attend the sessions and you can find out more about the whole series [**here**](https://hubs.la/Q04CtRCF0)
 
+<a id="post-17"></a>
+
 ### 17. What's the safe way to delete a tag?
 
-2026-11-04 · u/Kisean_Zamitalo · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnnl0n/whats_the_safe_way_to_delete_a_tag/)
+2026-11-04 · u/Kisean_Zamitalo · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnnl0n/whats_the_safe_way_to_delete_a_tag/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. Does Hubspot implement anything like Pipedrive's Group Email feature?
 
-2026-11-04 · u/906Dude · score 6 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnmjvq/does_hubspot_implement_anything_like_pipedrives/)
+2026-11-04 · u/906Dude · score 6 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xnmjvq/does_hubspot_implement_anything_like_pipedrives/) · [↑ back to the list](#last-50-posts)
 
 > I'm contemplating a move to Hubspot. An important-to-me feature that I use daily from Pipedrive is the ability to quickly select a dozen or so contacts and send the same email to all of them as if I had sent each email individually. I rely heavily on that feature. Does Hubspot implement anything like it?
 
+<a id="post-19"></a>
+
 ### 19. 6 reps on one WhatsApp number and HubSpot has no idea who talked to who
 
-2026-11-03 · u/flavia-f · Question · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn8ay6/6_reps_on_one_whatsapp_number_and_hubspot_has_no/)
+2026-11-03 · u/flavia-f · Question · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn8ay6/6_reps_on_one_whatsapp_number_and_hubspot_has_no/) · [↑ back to the list](#last-50-posts)
 
 > we sell solar installs, 6 reps plus me, and most leads move to whatsapp after the first call because thats what people here use. right now its one business number on an old android at the office and whoever is free grabs it. hubspot says the contact owner is Marta but the last 3 messages came from Luis, so nobody knows who follows up, and twice last month a customer got two different quotes. we tried giving each rep their own number but customers keep texting the main one anyway. curious how teams with 5 to 10 reps run one shared number, do you split chats by contact owner in hubspot or let whoever is free answer and log it after
 
+<a id="post-20"></a>
+
 ### 20. Can HubSpot Handle a Complete Food Ordering System Without an External Backend?
 
-2026-11-03 · u/xoxoRaaaayyyy_2308 · Question · score 3 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn82p6/can_hubspot_handle_a_complete_food_ordering/)
+2026-11-03 · u/xoxoRaaaayyyy_2308 · Question · score 3 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn82p6/can_hubspot_handle_a_complete_food_ordering/) · [↑ back to the list](#last-50-posts)
 
 > Hi! Can I build a food ordering system entirely inside HubSpot, without an external backend? Customers need to select a county and date, see the available menu, choose options and add-ons, and pay through HubSpot. It also needs an 11 a.m. same-day cutoff and ordering up to seven days ahead.  
 > I have Content Hub Professional and Sales Hub Enterprise, with some backend knowledge. What’s the simplest way to handle the cart, checkout, and order records within HubSpot?
 
+<a id="post-21"></a>
+
 ### 21. Do you know if your portal is actually ready for AI?: Join the AI-Readiness Accelerator workshop with HubSpot Academy to find out!
 
-2026-11-03 · u/HubSpotHelp · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn4iw0/do_you_know_if_your_portal_is_actually_ready_for/)
+2026-11-03 · u/HubSpotHelp · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xn4iw0/do_you_know_if_your_portal_is_actually_ready_for/) · [↑ back to the list](#last-50-posts)
 
 > Back by popular demand, HubSpot Academy Bootcamps is running a three hour live workshop on November 19, 9:00 AM to 12:00 PM ET. During the workshop, you’ll use ready-made prompts to audit your own portal, assess its AI readiness, and learn how to address any gaps.
 >
@@ -364,9 +406,11 @@ Link: <https://www.reddit.com/gallery/1xoe65v>
 >
 > What other live Bootcamp workshops would you like to see? Drop your ideas in the comments!
 
+<a id="post-22"></a>
+
 ### 22. Hubspot&LinkedIn ToS compliant assistant tool - 6-months free for every user.
 
-2026-11-03 · u/Admirable_Comedian_2 · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmviz3/hubspotlinkedin_tos_compliant_assistant_tool/)
+2026-11-03 · u/Admirable_Comedian_2 · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmviz3/hubspotlinkedin_tos_compliant_assistant_tool/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmviz3>
 
@@ -393,9 +437,11 @@ Link: <https://www.reddit.com/gallery/1xmviz3>
 >
 > **For the Marketplace listing, we’re looking for users:** everyone who signs up in November gets it free for 6 months. After that period, there will still be a free plan, enough for occasional usage.
 
+<a id="post-23"></a>
+
 ### 23. Learn & Launch: Prospecting Agent Workshop
 
-2026-11-03 · u/anagarMedia · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmuhj5/learn_launch_prospecting_agent_workshop/)
+2026-11-03 · u/anagarMedia · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmuhj5/learn_launch_prospecting_agent_workshop/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 
@@ -412,9 +458,11 @@ Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 >
 > If you run HubSpot for a sales team and have been meaning to try the agents, this is the lowest-effort way to get one working. Questions, ping me.
 
+<a id="post-24"></a>
+
 ### 24. What's the most impactful HubSpot automation/workflow/build you've done?
 
-2026-11-03 · u/mjk_87 · score 7 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmqhes/whats_the_most_impactful_hubspot/)
+2026-11-03 · u/mjk_87 · score 7 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmqhes/whats_the_most_impactful_hubspot/) · [↑ back to the list](#last-50-posts)
 
 > Curious what people think is the most impactful thing they've done inside a HubSpot portal?
 >
@@ -426,9 +474,11 @@ Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 >
 > *(I've deliberately left impactful as a subjective because it could be revenue, efficiencies, integrations, etc)*
 
+<a id="post-25"></a>
+
 ### 25. Sometimes I just want to slam my head into a wall...
 
-2026-11-03 · u/dutchviking · score 15 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmphky/sometimes_i_just_want_to_slam_my_head_into_a_wall/)
+2026-11-03 · u/dutchviking · score 15 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmphky/sometimes_i_just_want_to_slam_my_head_into_a_wall/) · [↑ back to the list](#last-50-posts)
 
 > Client: I need help, our Hubspot is mess, our Sales people are just doing whatever they want, etc etc
 >
@@ -439,9 +489,11 @@ Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 >
 > One of those days...
 
+<a id="post-26"></a>
+
 ### 26. HubSpot Marketplace approval: how do you get 3 production installs before your app is verified?
 
-2026-11-03 · u/AnnaOdrynska · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmm90r/hubspot_marketplace_approval_how_do_you_get_3/)
+2026-11-03 · u/AnnaOdrynska · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmm90r/hubspot_marketplace_approval_how_do_you_get_3/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -463,9 +515,11 @@ Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 >
 > Any advice or shared experience would be greatly appreciated!
 
+<a id="post-27"></a>
+
 ### 27. Hi, Anyone using HubSpot + Shopify for B2B sales? How do you manage quotes?
 
-2026-11-03 · u/himungshu · Question · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmkqxj/hi_anyone_using_hubspot_shopify_for_b2b_sales_how/)
+2026-11-03 · u/himungshu · Question · score 1 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xmkqxj/hi_anyone_using_hubspot_shopify_for_b2b_sales_how/) · [↑ back to the list](#last-50-posts)
 
 > We have been using HubSpot for managing sales and Shopify for ecommerce, and one thing I’ve been wondering about is how other businesses manage the quoting process between the two..
 >
@@ -475,25 +529,31 @@ Link: <https://i.redd.it/u9c6ccrkrezh1.png>
 >
 > How are you guys managing this so far? Is there a way to handle the quoting process more directly from HubSpot, or does everyone mostly work across both platforms, which is so frustrating?
 
+<a id="post-28"></a>
+
 ### 28. Long-term schizophrenic I need some help
 
-2026-11-03 · u/Interesting-Toe-6612 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xme45y/longterm_schizophrenic_i_need_some_help/)
+2026-11-03 · u/Interesting-Toe-6612 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xme45y/longterm_schizophrenic_i_need_some_help/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/schizophrenia/comments/1xme3zx/longterm_schizophrenic_i_need_some_help/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. Make It Monday: Show us what you're building with HubSpot and AI
 
-2026-11-02 · u/HubSpotHelp · score 1 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xm14ay/make_it_monday_show_us_what_youre_building_with/)
+2026-11-02 · u/HubSpotHelp · score 1 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xm14ay/make_it_monday_show_us_what_youre_building_with/) · [↑ back to the list](#last-50-posts)
 
 > Building something with HubSpot and AI? Share it here in the thread, finished or still a work in progress is fine.
 >
 > Workflows, agents, prompts, apps, whatever you've got. Self promo is okay in this thread, so drop your link and tell us what it does.
 
+<a id="post-30"></a>
+
 ### 30. Can we build an AI-powered automated email reply system using HubSpot?
 
-2026-11-02 · u/UnleashTechWorx · score 4 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xm11kd/can_we_build_an_aipowered_automated_email_reply/)
+2026-11-02 · u/UnleashTechWorx · score 4 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xm11kd/can_we_build_an_aipowered_automated_email_reply/) · [↑ back to the list](#last-50-posts)
 
 > I'm exploring an idea and would love to hear from the HubSpot community, especially those who have worked with HubSpot APIs, workflows and AI integrations.
 >
@@ -521,9 +581,11 @@ Link: <https://www.reddit.com/r/schizophrenia/comments/1xme3zx/longterm_schizoph
 >
 > **Would love to hear from anyone who has built something similar or experimented with AI-driven email automation in HubSpot.**
 
+<a id="post-31"></a>
+
 ### 31. What almost made you NOT hire your RevOps agency?
 
-2026-11-02 · u/tzuryro · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlw818/what_almost_made_you_not_hire_your_revops_agency/)
+2026-11-02 · u/tzuryro · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlw818/what_almost_made_you_not_hire_your_revops_agency/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone, I'm Mircea and for sure you don't know me, but I want to know you 🙂
 >
@@ -534,21 +596,27 @@ Link: <https://www.reddit.com/r/schizophrenia/comments/1xme3zx/longterm_schizoph
 >
 > Big thanks in advance \>:D<
 
+<a id="post-32"></a>
+
 ### 32. When is a tool not worth maintaining?
 
-2026-11-02 · u/CuriousBee77 · Question · score 2 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlqhlj/when_is_a_tool_not_worth_maintaining/)
+2026-11-02 · u/CuriousBee77 · Question · score 2 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlqhlj/when_is_a_tool_not_worth_maintaining/) · [↑ back to the list](#last-50-posts)
 
 > My intuition says when upkeep takes more time than it saves. How do you measure that, and what finally made you drop one? It's hard for me to take a call.
 
+<a id="post-33"></a>
+
 ### 33. Which system is the source of truth for customers: CRM or helpdesk?
 
-2026-11-02 · u/MegzzAsleep6969 · Tips & Tricks · score 1 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlq5y0/which_system_is_the_source_of_truth_for_customers/)
+2026-11-02 · u/MegzzAsleep6969 · Tips & Tricks · score 1 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xlq5y0/which_system_is_the_source_of_truth_for_customers/) · [↑ back to the list](#last-50-posts)
 
 > I'd say CRM, but then the helpdesk creates its own contacts. How do you stop duplicates and keep matching consistent?
 
+<a id="post-34"></a>
+
 ### 34. If your clients complain about "bad leads," check their response time. Here is the exact webhook setup to fix it.
 
-2026-11-01 · u/Fragrant-Break5743 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xl9cx9/if_your_clients_complain_about_bad_leads_check/)
+2026-11-01 · u/Fragrant-Break5743 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xl9cx9/if_your_clients_complain_about_bad_leads_check/) · [↑ back to the list](#last-50-posts)
 
 > If you are running lead-gen for local businesses or high-ticket clinics, you already know the cycle: You deliver a spreadsheet of 30 qualified leads, the client’s front desk takes 8 hours to call them, nobody picks up, and the client threatens to pause their ad spend because the leads are "trash."
 >
@@ -572,22 +640,28 @@ Link: <https://www.reddit.com/r/schizophrenia/comments/1xme3zx/longterm_schizoph
 >
 > If anyone is willing to get this implemented in their agencies hmu
 
+<a id="post-35"></a>
+
 ### 35. Hiring in San Diego (Hubspot + n8n)
 
-2026-11-01 · u/Aggressive-Ad-5172 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkq1yd/hiring_in_san_diego_hubspot_n8n/)
+2026-11-01 · u/Aggressive-Ad-5172 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkq1yd/hiring_in_san_diego_hubspot_n8n/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot_n8n/>
 
 
+<a id="post-36"></a>
+
 ### 36. I HAD TO MAKE A COUPLE BANDS BY MY LONELY
 
-2026-10-31 · u/Interesting-Toe-6612 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkih66/i_had_to_make_a_couple_bands_by_my_lonely/)
+2026-10-31 · u/Interesting-Toe-6612 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkih66/i_had_to_make_a_couple_bands_by_my_lonely/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. AI has killed all contract work. I haven't had a contract in 6+ months, all platforms are dead, and the few that do pop up are so absurd no self-respecting would take them
 
-2026-10-31 · u/StrengthClear3578 · score 59 · 81 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkec7z/ai_has_killed_all_contract_work_i_havent_had_a/)
+2026-10-31 · u/StrengthClear3578 · score 59 · 81 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkec7z/ai_has_killed_all_contract_work_i_havent_had_a/) · [↑ back to the list](#last-50-posts)
 
 > In short, title. My income source has been destroyed by artificial intelligence. It's not just agencies feeling the pinch. 
 >
@@ -613,9 +687,11 @@ Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot
 >
 > This field is completely dead to the point I have been unable to close my last 10k I need for net before year end in over 6 months.
 
+<a id="post-38"></a>
+
 ### 38. The Value of the Loop Marketing
 
-2026-10-31 · u/crispygerrit · Question · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkb3f6/the_value_of_the_loop_marketing/)
+2026-10-31 · u/crispygerrit · Question · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xkb3f6/the_value_of_the_loop_marketing/) · [↑ back to the list](#last-50-posts)
 
 > Recently, I read this pretty interesting article --> [https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/](https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/)
 >
@@ -631,9 +707,11 @@ Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot
 > 2. Will agencies profit from this concept?  
 > 3. Would you settle on this concept in your own marketing communication?
 
+<a id="post-39"></a>
+
 ### 39. I built AI agents that write back into HubSpot. 5 things I’d tell anyone trying the same
 
-2026-10-31 · u/Consistent_Donut_113 · score 5 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xk4nrr/i_built_ai_agents_that_write_back_into_hubspot_5/)
+2026-10-31 · u/Consistent_Donut_113 · score 5 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xk4nrr/i_built_ai_agents_that_write_back_into_hubspot_5/) · [↑ back to the list](#last-50-posts)
 
 > For the past few months, I've been building a set of AI agents that run on top of HubSpot - deals at risk, lead scoring and routing, ticket triage, data cleanup. Not a chatbot: they run on a schedule or a trigger and write results back to the CRM. Some of it was painful, so here's what I'd tell anyone wiring AI into their portal, whether it's Breeze, a Claude/GPT script, or something custom.
 >
@@ -651,9 +729,11 @@ Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot
 >
 > If you've connected AI to your portal, what broke first?
 
+<a id="post-40"></a>
+
 ### 40. How do you follow up on Shopify Draft Orders that customers don't complete?
 
-2026-10-31 · u/UnificDotCom · Question · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xk2cav/how_do_you_follow_up_on_shopify_draft_orders_that/)
+2026-10-31 · u/UnificDotCom · Question · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xk2cav/how_do_you_follow_up_on_shopify_draft_orders_that/) · [↑ back to the list](#last-50-posts)
 
 > Not every Shopify Draft Order turns into a paid order.
 >
@@ -667,9 +747,11 @@ Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot
 >
 > Would love to hear what works in practice.
 
+<a id="post-41"></a>
+
 ### 41. What are the rules about leaving negative Partner reviews?
 
-2026-10-31 · u/th3rmos · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjyc9v/what_are_the_rules_about_leaving_negative_partner/)
+2026-10-31 · u/th3rmos · score 17 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjyc9v/what_are_the_rules_about_leaving_negative_partner/) · [↑ back to the list](#last-50-posts)
 
 > Recently had a bad experience with a HubSpot partner. I left a 1-star review and just got noticed it has been taken down.
 >
@@ -679,17 +761,21 @@ Link: <https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot
 >
 > Is it because they're a partner who brings in money and they can bury bad reviews?? How are we supposed to trust the marketplace? How can we warn people against unfit partners like this?
 
+<a id="post-42"></a>
+
 ### 42. Email size checks
 
-2026-10-30 · u/universejournaler · Question · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjqm7r/email_size_checks/)
+2026-10-30 · u/universejournaler · Question · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjqm7r/email_size_checks/) · [↑ back to the list](#last-50-posts)
 
 > With the latest update, I no longer see the size of the email in the top right hand corner. Is there a different place to view this? We previously paid close attention to this because we would get close to the 100kb limit and didn’t want our messaging to get flagged by email clients. 
 >
 > Now I’m concerned that we will still run into this issue but just not know it? As far as I know, the size limitations hasn’t changed. So it feels strange to me that they would remove this feature?
 
+<a id="post-43"></a>
+
 ### 43. Upcoming Events and Programs
 
-2026-10-30 · u/HubSpotHelp · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjlt7c/upcoming_events_and_programs/)
+2026-10-30 · u/HubSpotHelp · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjlt7c/upcoming_events_and_programs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 
@@ -759,9 +845,11 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > Not sure where to begin? [HubSpot Success Center](https://academy.hubspot.com/hubspot-success-center?_gl=1*1r4h7so*_gcl_au*NDI4ODk2OTcwLjE3OTMzMDM4MTE.*FPAU*NDI4ODk2OTcwLjE3OTMzMDM4MTE.*_ga*Mzc5NDU3MjI5LjE3OTMzMDM4MTE.*_ga_LXTM6CQ0XK*czE3OTMzODE0MDAkbzMkZzEkdDE3OTMzODE1MDAkajQzJGwwJGgw) is your one-stop home for getting the most out of HubSpot with resources to help you learn, connect with other users, and build solutions alongside HubSpot experts.
 
+<a id="post-44"></a>
+
 ### 44. Shared outlook box on sequences question.
 
-2026-10-30 · u/EverdreamJustPlays · Question · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjigp0/shared_outlook_box_on_sequences_question/)
+2026-10-30 · u/EverdreamJustPlays · Question · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjigp0/shared_outlook_box_on_sequences_question/) · [↑ back to the list](#last-50-posts)
 
 > Our shared Outlook sales mailbox is connected to HubSpot, but sequences send from individual employees’ email and replies return to them.
 >
@@ -769,21 +857,27 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > Is there any way this can work with a shared mailbox without upgrading from market hub starter Does anyone have any creative ways of doing this?
 
+<a id="post-45"></a>
+
 ### 45. Why do two dashboards never agree?
 
-2026-10-30 · u/xoxo_huh · score 1 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjgoin/why_do_two_dashboards_never_agree/)
+2026-10-30 · u/xoxo_huh · score 1 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjgoin/why_do_two_dashboards_never_agree/) · [↑ back to the list](#last-50-posts)
 
 > I suspect it's date logic (created vs solved) and reopened tickets nine times out of ten. What's usually behind it for you, and do you keep a metrics glossary?
 
+<a id="post-46"></a>
+
 ### 46. Looking for HubSpot users to test our Power BI Connector
 
-2026-10-30 · u/AnnaOdrynska · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xje7oj/looking_for_hubspot_users_to_test_our_power_bi/)
+2026-10-30 · u/AnnaOdrynska · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xje7oj/looking_for_hubspot_users_to_test_our_power_bi/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. Lower cost of custom AI agents
 
-2026-10-30 · u/Ok-Constant-9143 · Feedback · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xje6dt/lower_cost_of_custom_ai_agents/)
+2026-10-30 · u/Ok-Constant-9143 · Feedback · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xje6dt/lower_cost_of_custom_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 > Yesterday HubSpot announced that they are lowering the cost of running custom agents by 70%. I’m not sure if this is a result of internal optimization or a straight price cut. There is also a cost estimation tool now in the agent builder. 
 >
@@ -791,9 +885,11 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > One area I am looking at is a ‘new lead pre-call briefing agent’ that does company and buyer research for the rep.
 
+<a id="post-48"></a>
+
 ### 48. Forcing sales reps to do their job via workflows
 
-2026-10-30 · u/kellylabanca246 · Tips & Tricks · score 26 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjbejx/forcing_sales_reps_to_do_their_job_via_workflows/)
+2026-10-30 · u/kellylabanca246 · Tips & Tricks · score 26 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xjbejx/forcing_sales_reps_to_do_their_job_via_workflows/) · [↑ back to the list](#last-50-posts)
 
 > Getting AEs to actually clear their call tasks in hubspot is literally aging me. They just sit on fresh inbound leads for days and then complain about pipeline  
 >
@@ -801,9 +897,11 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > maybe if you actually used the native dialer once in a while I wouldn't have to automate your outreach for you. Revops life is just babysitting adults I swear.
 
+<a id="post-49"></a>
+
 ### 49. HubSpot deal stages and pipelines: what I’ve learned as an ex-HubSpot employee setting them up for clients
 
-2026-10-30 · u/JessHatchiDigital · score 10 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xj5so4/hubspot_deal_stages_and_pipelines_what_ive/)
+2026-10-30 · u/JessHatchiDigital · score 10 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xj5so4/hubspot_deal_stages_and_pipelines_what_ive/) · [↑ back to the list](#last-50-posts)
 
 > Hi, my name is Jess and I’m a previous HubSpot employee, now working for a partner agency called Hatchi Digital.
 >
@@ -819,9 +917,11 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > That’s what’s worked for me anyway. Anyone have other tips I’ve missed?
 
+<a id="post-50"></a>
+
 ### 50. Headless Horseman’s Halloween HubSpot Campaign
 
-2026-10-29 · u/HSSamSolutions · Tips & Tricks · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xiz9pm/headless_horsemans_halloween_hubspot_campaign/)
+2026-10-29 · u/HSSamSolutions · Tips & Tricks · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xiz9pm/headless_horsemans_halloween_hubspot_campaign/) · [↑ back to the list](#last-50-posts)
 
 > Hi there! I work at HubSpot and recently I've been working with customers on helping them understand what's possible with HubSpot headlessly. In the spirit of October and spooky season, I've created a fake company (https://www.sleepyhollowsecurity.com/) and a cast of characters for some demo videos to show you some of what customers are able to do today with Claude Cowork, a markdown file, and the HubSpot connector for Claude. Please reach out in the comments or via DM if you'd like to learn more about this or other headless use cases.
 >
@@ -829,16 +929,20 @@ Link: <https://i.redd.it/z4eejs3g3nyh1.jpeg>
 >
 > Disclaimer: Haunting as a Service is unfortunately not a real security solution… yet.
 
+<a id="post-51"></a>
+
 ### 51. When you inherit a HubSpot portal and the previous admin says: “There is nothing weird in the workflows.”
 
-2026-10-22 · u/HubSpotHelp · score 45 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xck5kj/when_you_inherit_a_hubspot_portal_and_the/)
+2026-10-22 · u/HubSpotHelp · score 45 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xck5kj/when_you_inherit_a_hubspot_portal_and_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/q2ecx9qq1vwh1.gif>
 
 
+<a id="post-52"></a>
+
 ### 52. Breeze is embarrassing, right?
 
-2026-10-29 · u/its_me9233 · Feedback · score 35 · 62 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xixcaz/breeze_is_embarrassing_right/)
+2026-10-29 · u/its_me9233 · Feedback · score 35 · 62 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xixcaz/breeze_is_embarrassing_right/) · [↑ back to the list](#last-50-posts)
 
 > Is it just me, or does Breeze struggle with even straightforward tasks?
 >
@@ -852,15 +956,19 @@ Link: <https://i.redd.it/q2ecx9qq1vwh1.gif>
 >
 > Prospecting agent is my only saving grace, and it's not like that good.
 
+<a id="post-53"></a>
+
 ### 53. Email Tracking - New EU Rules
 
-2026-10-15 · u/Sea_Literature115 · Question · score 12 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x6ooaw/email_tracking_new_eu_rules/)
+2026-10-15 · u/Sea_Literature115 · Question · score 12 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x6ooaw/email_tracking_new_eu_rules/) · [↑ back to the list](#last-50-posts)
 
 > France and Italy have now outlawed email tracking. So we had to turn it off - globally for all users. But we are a worldwide organization and so this only affects a sliver of our company. I’m beyond annoyed that I can’t track emails anymore because you can’t segment this feature based on regions. Anybody know if there is a workaround or one coming soon?
 
+<a id="post-54"></a>
+
 ### 54. Just became the HubSpot admin? Things I wish every new admin knew before changing anything
 
-2026-10-19 · u/JessHatchiDigital · score 11 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xaat30/just_became_the_hubspot_admin_things_i_wish_every/)
+2026-10-19 · u/JessHatchiDigital · score 11 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xaat30/just_became_the_hubspot_admin_things_i_wish_every/) · [↑ back to the list](#last-50-posts)
 
 > I see a lot of posts here from people who’ve suddenly been handed HubSpot admin on top of their actual job, so figured I’d share what I’ve picked up. I used to work at HubSpot and now work with HubSpot customers, and the same few things come up almost every time.
 >
@@ -882,26 +990,32 @@ Link: <https://i.redd.it/q2ecx9qq1vwh1.gif>
 >
 > For anyone who’s been doing this a while, what’s the one thing you’d tell a brand new admin?
 
+<a id="post-55"></a>
+
 ### 55. Has anyone used koalify?
 
-2026-10-18 · u/Remarkable-Fix7978 · Question · score 10 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x9aekz/has_anyone_used_koalify/)
+2026-10-18 · u/Remarkable-Fix7978 · Question · score 10 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x9aekz/has_anyone_used_koalify/) · [↑ back to the list](#last-50-posts)
 
 > I have a client with a huge duplicate issue with duplicate contacts, the issue has actually gotten out of hand...
 >
 >
 > They get between 500 - 1500 new duplicate contacts every day, not possible to even do this manually anymore, I heard that koalify is the latest and greatest thing to sort out duplicates, has anyone had experience using them, if so what draw backs are there (if any).
 
+<a id="post-56"></a>
+
 ### 56. Make It Monday: Show us what you're building with HubSpot and AI
 
-2026-10-12 · u/HubSpotHelp · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x446pr/make_it_monday_show_us_what_youre_building_with/)
+2026-10-12 · u/HubSpotHelp · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x446pr/make_it_monday_show_us_what_youre_building_with/) · [↑ back to the list](#last-50-posts)
 
 > Building something with HubSpot and AI? Share it here in the thread, finished or still a work in progress is fine.
 >
 > Workflows, agents, prompts, apps, whatever you've got. Self promo is okay in this thread, so drop your link and tell us what it does.
 
+<a id="post-57"></a>
+
 ### 57. Looking for HubSpot Developer
 
-2026-10-22 · u/AUHrecruit · score 9 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xcargs/looking_for_hubspot_developer/)
+2026-10-22 · u/AUHrecruit · score 9 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xcargs/looking_for_hubspot_developer/) · [↑ back to the list](#last-50-posts)
 
 > Hi All, I hope you are well.
 >
@@ -911,9 +1025,11 @@ Link: <https://i.redd.it/q2ecx9qq1vwh1.gif>
 >
 > Thank you :)
 
+<a id="post-58"></a>
+
 ### 58. Downgrading HubSpot Marketing Contacts (2026) - stuck
 
-2026-10-11 · u/Future-Network-634 · Question · score 9 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x3451o/downgrading_hubspot_marketing_contacts_2026_stuck/)
+2026-10-11 · u/Future-Network-634 · Question · score 9 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x3451o/downgrading_hubspot_marketing_contacts_2026_stuck/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0ltbm5ou7tuh1.png>
 
@@ -921,9 +1037,11 @@ Link: <https://i.redd.it/0ltbm5ou7tuh1.png>
 >
 > We are a startup and are cost aware -- and have had a good run of 1900 really high quality contacts in the recent quarter, so this is not ideal as we loaded junk and had to remove it.
 
+<a id="post-59"></a>
+
 ### 59. We run the same 7 Claude prompts on our HubSpot pipeline every week. Here's the list, plus the two settings that matter.
 
-2026-10-12 · u/Salty_Outside_4889 · score 9 · 10 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x4gxrt/we_run_the_same_7_claude_prompts_on_our_hubspot/)
+2026-10-12 · u/Salty_Outside_4889 · score 9 · 10 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x4gxrt/we_run_the_same_7_claude_prompts_on_our_hubspot/) · [↑ back to the list](#last-50-posts)
 
 > (I work at a HubSpot partner, so take that into account. Not selling anything here, just sharing what's worked.)
 >
@@ -951,9 +1069,11 @@ Link: <https://i.redd.it/0ltbm5ou7tuh1.png>
 >
 > What's on your weekly pipeline checklist that isn't on this one?
 
+<a id="post-60"></a>
+
 ### 60. Why does every portal turn into a mess??
 
-2026-10-21 · u/BrendaCRM · Question · score 8 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xbu7mx/why_does_every_portal_turn_into_a_mess/)
+2026-10-21 · u/BrendaCRM · Question · score 8 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xbu7mx/why_does_every_portal_turn_into_a_mess/) · [↑ back to the list](#last-50-posts)
 
 > I work at a partner agency and I’ve lost count of how many portals we’ve been asked to clean up. Different companies, different industries, same story every time. Nobody decides to make a mess. It just happens, and it happens the same way everywhere.
 >
@@ -963,9 +1083,11 @@ Link: <https://i.redd.it/0ltbm5ou7tuh1.png>
 >
 > If your portal or a client's portal is a mess right now, do you know the exact moment it went wrong? And if it’s clean, what are you doing that the rest of us should copy?
 
+<a id="post-61"></a>
+
 ### 61. HubSpot's new seats + Credits pricing went Live in EMEA on October 1st
 
-2026-10-12 · u/Remarkable-Fix7978 · Tips & Tricks · score 8 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x3wn0w/hubspots_new_seats_credits_pricing_went_live_in/)
+2026-10-12 · u/Remarkable-Fix7978 · Tips & Tricks · score 8 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x3wn0w/hubspots_new_seats_credits_pricing_went_live_in/) · [↑ back to the list](#last-50-posts)
 
 > Full disclosure: I work at a HubSpot Partner agency, I am not selling anything here, we have a had a fair few client questions about this during the month so, I thought I would put it all in very plain English for the community 
 >
@@ -1021,16 +1143,20 @@ Link: <https://i.redd.it/0ltbm5ou7tuh1.png>
 >
 > I hope this post helps the community with any uncertainty around the new pricing model
 
+<a id="post-62"></a>
+
 ### 62. Me asking Breeze Assistant for that report with the thing from last quarter
 
-2026-10-14 · u/HubSpotHelp · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x5shaq/me_asking_breeze_assistant_for_that_report_with/)
+2026-10-14 · u/HubSpotHelp · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1x5shaq/me_asking_breeze_assistant_for_that_report_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7zb2c4fsyfvh1.gif>
 
 
+<a id="post-63"></a>
+
 ### 63. HubSpot lifecycle stages: what I learned as an ex-HubSpot employee fixing them in client portals
 
-2026-10-27 · u/JessHatchiDigital · score 7 · 18 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xgwxt9/hubspot_lifecycle_stages_what_i_learned_as_an/)
+2026-10-27 · u/JessHatchiDigital · score 7 · 18 comments · approved · [open on Reddit](https://www.reddit.com/r/hubspot/comments/1xgwxt9/hubspot_lifecycle_stages_what_i_learned_as_an/) · [↑ back to the list](#last-50-posts)
 
 > Hi, my name is Jess and I’m a former HubSpot employee, now working for a HubSpot partner.
 >

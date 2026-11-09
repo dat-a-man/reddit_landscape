@@ -61,56 +61,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Digital Pen DREAM Challenge: predict cognitive assessment outcomes from digital clock drawings (open now)](https://www.reddit.com/r/datasets/comments/1xpp95b/digital_pen_dream_challenge_predict_cognitive/) | u/Weird-Spray-4180 | dataset | reddit.com | 1 | 1 | held by automod | Hey Weird-Spray-4180, This post has been removed. We have certain measures in place to prevent spam… |
-| 2 | 2026-11-06 | [Looking for school-level data on SEN units and resourced provision in England, 2010–2016](https://www.reddit.com/r/datasets/comments/1xpjey0/looking_for_schoollevel_data_on_sen_units_and/) | u/phdstudent_99 | request | text | 1 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
-| 3 | 2026-11-06 | [CASP-Dream TAP Challenge TCR + Peptide-MHC activation prediction with unseen test peptides Access to free dat…](https://www.reddit.com/r/datasets/comments/1xpipev/caspdream_tap_challenge_tcr_peptidemhc_activation/) | u/what-isthe-cloud | resource | text | 2 | 0 | live | — |
-| 4 | 2026-11-06 | [Datafiniti November Release 2026 - AI tools, work with expanded Property and People Data schemas](https://www.reddit.com/r/datasets/comments/1xpffcr/datafiniti_november_release_2026_ai_tools_work/) | u/Datafiniti_DataDev | resource | docs.datafiniti.co | 1 | 1 | held by automod | Hey Datafiniti_DataDev, This post has been removed. We have certain measures in place to prevent sp… |
-| 5 | 2026-11-06 | [Looking to participate in ai egocentric video generation for which we have 10000+ workers](https://www.reddit.com/r/datasets/comments/1xpcyim/looking_to_participate_in_ai_egocentric_video/) | u/PsychologicalUse3676 | request | text | 0 | 0 | live | — |
-| 6 | 2026-11-06 | [Looking for code-switching speech datasets: English + Chinese / French / German / Spanish / Vietnamese / Japa…](https://www.reddit.com/r/datasets/comments/1xpaz5m/looking_for_codeswitching_speech_datasets_english/) | u/360converter_leo | request | reddit.com | 1 | 1 | held by automod | Hey 360converter_leo, This post has been removed. We have certain measures in place to prevent spam… |
-| 7 | 2026-11-06 | [\[self-promotion\] Forever free YouTube/TikTok/Instagram/Twitch/OnlyFans metadata](https://www.reddit.com/r/datasets/comments/1xpa3co/selfpromotion_forever_free/) | u/ScrapeExchange | dataset | text | 1 | 0 | removed by mod | — |
-| 8 | 2026-11-06 | [\[self-promotion\] YouTube/TikTok/Instagram/Twitch/OnlyFans metadata](https://www.reddit.com/r/datasets/comments/1xp9zjc/selfpromotion/) | u/ScrapeExchange | dataset | text | 1 | 0 | removed by mod | — |
-| 9 | 2026-11-06 | [\[Dataset\] OSTDB: official video game soundtracks (2,467 games, 2,950 releases, CC BY-NC-SA 4.0)](https://www.reddit.com/r/datasets/comments/1xp9vx5/dataset_ostdb_official_video_game_soundtracks/) | u/matyasm1 | dataset | text | 2 | 0 | live | — |
-| 10 | 2026-11-06 | [Learning about computer vision in football](https://www.reddit.com/r/datasets/comments/1xp4qzc/learning_about_computer_vision_in_football/) | u/MongooseKey1445 | request | reddit.com | 1 | 1 | live | — |
-| 11 | 2026-11-06 | [How are people actually verifying consent on conversation datasets they buy?](https://www.reddit.com/r/datasets/comments/1xp43qc/how_are_people_actually_verifying_consent_on/) | u/Pleasant-Teaching-75 | question | text | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-06 | [US nuclear industry dataset: companies, facilities and relationships (CSV/JSON, CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1xp1h0n/us_nuclear_industry_dataset_companies_facilities/) | u/magnificient- | dataset | nuclear-directory.org | 8 | 1 | live | — |
-| 13 | 2026-11-05 | [\[self-promotion\] GTM API benchmark results: 567 providers across 105 APIs, scored on real calls (CSV, CC BY 4…](https://www.reddit.com/r/datasets/comments/1xoy5vk/selfpromotion_gtm_api_benchmark_results_567/) | u/Healthy_Waltz_1872 | resource | text | 1 | 1 | held by automod | Hey Healthy_Waltz_1872, This post has been removed. We have certain measures in place to prevent sp… |
-| 14 | 2026-11-05 | [\[self-promotion\] fineprint: dated, diffable archive of 46 AI vendor pricing, terms and privacy pages (May to…](https://www.reddit.com/r/datasets/comments/1xou56f/selfpromotion_fineprint_dated_diffable_archive_of/) | u/Vivid_Influence1608 | dataset | text | 1 | 1 | held by automod | Hey Vivid_Influence1608, This post has been removed. We have certain measures in place to prevent s… |
-| 15 | 2026-11-05 | [\[PAID\] Clean Enterprise Employee & Hierarchy Dataset (50-Row Free Sample + 5,200 Record Bundle)](https://www.reddit.com/r/datasets/comments/1xopjen/paid_clean_enterprise_employee_hierarchy_dataset/) | u/dragon_tamer_02 | dataset | text | 0 | 2 | held by automod | Hey dragon_tamer_02, This post has been removed. We have certain measures in place to prevent spam… |
-| 16 | 2026-11-05 | [Sharing my open-source project, provides weekly dump of NCAA sports dataset](https://www.reddit.com/r/datasets/comments/1xop6ix/sharing_my_opensource_project_provides_weekly/) | u/efyudi42 | dataset | text | 2 | 0 | live | — |
-| 17 | 2026-11-05 | [\[Self Promotion\] Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements](https://www.reddit.com/r/datasets/comments/1xoltgb/self_promotion_free_guide_to_nasas_wildfire_data/) | u/ProfessionalLow8814 | resource | text | 1 | 0 | removed by mod | — |
-| 18 | 2026-11-05 | [Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements](https://www.reddit.com/r/datasets/comments/1xolqcp/free_guide_to_nasas_wildfire_data_api_after_the/) | u/ProfessionalLow8814 | resource | text | 1 | 0 | removed by mod | — |
-| 19 | 2026-11-05 | [Operational & Communication data Teams, Slack, Etc.](https://www.reddit.com/r/datasets/comments/1xoidzu/operational_communication_data_teams_slack_etc/) | u/procurement-partner | question | text | 1 | 0 | spam-filtered | — |
-| 20 | 2026-11-05 | [Looking for school-level data on SEN units and resourced provision in England, 2010–201](https://www.reddit.com/r/datasets/comments/1xogcpq/looking_for_schoollevel_data_on_sen_units_and/) | u/phdstudent_99 | request | text | 1 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
-| 21 | 2026-11-05 | [\[Dataset\] All 454 Canada Express Entry invitation rounds 2015-2026, one row per draw (CSV/JSON, CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1xog2d5/dataset_all_454_canada_express_entry_invitation/) | u/RB_khan | dataset | text | 1 | 1 | held by automod | Hey RB_khan, This post has been removed. We have certain measures in place to prevent spam from new… |
-| 22 | 2026-11-05 | [Raw (unfiltered ) Data where to find ?](https://www.reddit.com/r/datasets/comments/1xod64k/raw_unfiltered_data_where_to_find/) | u/Peace_out4 | question | reddit.com | 2 | 4 | live | — |
-| 23 | 2026-11-05 | [\[self-promotion\] We started Creeks, a data company for coding, clinical and education data. Looking for labs…](https://www.reddit.com/r/datasets/comments/1xoahix/selfpromotion_we_started_creeks_a_data_company/) | u/the_darkest_horse | dataset | text | 0 | 2 | live | — |
-| 24 | 2026-11-05 | [Looking for Volunteers to Help with a Handwriting Recognition Dataset](https://www.reddit.com/r/datasets/comments/1xo8pat/looking_for_volunteers_to_help_with_a_handwriting/) | u/anonymous_18082005 | request | reddit.com | 1 | 1 | held by automod | Hey anonymous_18082005, This post has been removed. We have certain measures in place to prevent sp… |
-| 25 | 2026-11-04 | [\[PAID\] \[self-promotion\] Nordic job ads (NO/SE/FI/DK/IS) from official public job APIs in one schema, daily-up…](https://www.reddit.com/r/datasets/comments/1xny8eg/paid_selfpromotion_nordic_job_ads_nosefidkis_from/) | u/TidyDataHQ | dataset | text | 0 | 1 | held by automod | Hey TidyDataHQ, This post has been removed. We have certain measures in place to prevent spam from… |
-| 26 | 2026-11-04 | [748 crypto trading strategies run through a7-stage validation pipeline full source + per-bot report cards (MI…](https://www.reddit.com/r/datasets/comments/1xnr80j/748_crypto_trading_strategies_run_through_a7stage/) | u/drykilo | dataset | text | 1 | 4 | live | — |
-| 27 | 2026-11-04 | [\[self-promotion\] Free, no-key JSON API for ICD-10-CM / SNOMED CT / LOINC / RxNorm with crosswalks (I built it)](https://www.reddit.com/r/datasets/comments/1xnpgk7/selfpromotion_free_nokey_json_api_for_icd10cm/) | u/Muted_Fly_9096 | API | text | 1 | 1 | held by automod | Hey Muted_Fly_9096, This post has been removed. We have certain measures in place to prevent spam f… |
-| 28 | 2026-11-04 | [\[self-promotion\] Signal Lab: a free index of 192 datasets with access, limits and licence/terms notes (CSV/JS…](https://www.reddit.com/r/datasets/comments/1xnp6n7/selfpromotion_signal_lab_a_free_index_of_192/) | u/QDTSignalLab | resource | text | 0 | 1 | held by automod | Hey QDTSignalLab, This post has been removed. We have certain measures in place to prevent spam fro… |
-| 29 | 2026-11-04 | [\[Paid\] Sales chat log dataset from a company selling wellness product (Indonesian language)](https://www.reddit.com/r/datasets/comments/1xnntwj/paid_sales_chat_log_dataset_from_a_company/) | u/tiptaply | dataset | text | 0 | 2 | live | — |
-| 30 | 2026-11-04 | [I built an automated pipeline to digitize Australia's 1906 trade records and accidentally caught a 120-year-o…](https://www.reddit.com/r/datasets/comments/1xnmcat/i_built_an_automated_pipeline_to_digitize/) | u/docchaser1 | dataset | reddit.com | 1 | 1 | held by automod | Hey docchaser1, This post has been removed. We have certain measures in place to prevent spam from… |
-| 31 | 2026-11-04 | [\[Synthetic\] \[Self-Promotion\] Black Friday & Cyber Week Sales (2023–2025): 408K purchases with discounts, chan…](https://www.reddit.com/r/datasets/comments/1xnmbqt/synthetic_selfpromotion_black_friday_cyber_week/) | u/grd_dev | dataset | text | 1 | 2 | live | — |
-| 32 | 2026-11-04 | [\[self-promotion\] Open genealogical dataset: 2.7M historical people with 480k parent-child and 135k couple lin…](https://www.reddit.com/r/datasets/comments/1xnlixi/selfpromotion_open_genealogical_dataset_27m/) | u/HumanLineage | dataset | text | 1 | 1 | held by automod | Hey HumanLineage, This post has been removed. We have certain measures in place to prevent spam fro… |
-| 33 | 2026-11-04 | [Where are you getting exercise videos for your fitness app?](https://www.reddit.com/r/datasets/comments/1xnli97/where_are_you_getting_exercise_videos_for_your/) | u/vilise089 | request | text | 11 | 10 | live | — |
-| 34 | 2026-11-04 | [Weather Forecast Model Analysis - Need Detailed Sources](https://www.reddit.com/r/datasets/comments/1xncgx5/weather_forecast_model_analysis_need_detailed/) | u/fletchmm | dataset | reddit.com | 1 | 1 | live | — |
-| 35 | 2026-11-03 | [Tip: you can grab single files out of big dataset zips without downloading the whole zip](https://www.reddit.com/r/datasets/comments/1xn8uot/tip_you_can_grab_single_files_out_of_big_dataset/) | u/External-Drive6208 | discussion | text | 0 | 8 | live | — |
-| 36 | 2026-11-03 | [Datasets for the 30 Day Map Challenge](https://www.reddit.com/r/datasets/comments/1xn7ndf/datasets_for_the_30_day_map_challenge/) | u/ionychal | resource | text | 3 | 5 | live | — |
-| 37 | 2026-11-03 | [\[OC\] CC0 dataset: 24,196 US small businesses for sale, from 552 broker websites, updated daily](https://www.reddit.com/r/datasets/comments/1xn1k4q/oc_cc0_dataset_24196_us_small_businesses_for_sale/) | u/davestoller | resource | text | 7 | 15 | live | — |
-| 38 | 2026-11-03 | [Working on TCR models? A new CASP Challenge is starting, with training data options available.](https://www.reddit.com/r/datasets/comments/1xn1frf/working_on_tcr_models_a_new_casp_challenge_is/) | u/Harell-Data | resource | text | 1 | 1 | held by automod | Hey Harell-Data, This post has been removed. We have certain measures in place to prevent spam from… |
-| 39 | 2026-11-03 | [Moroccan Darija Dataset with French & English Translations 🇲🇦](https://www.reddit.com/r/datasets/comments/1xmz0rr/moroccan_darija_dataset_with_french_english/) | u/RELAX_MR | request | text | 1 | 1 | spam-filtered | Hey RELAX_MR, This post has been removed. We have certain measures in place to prevent spam from ne… |
-| 40 | 2026-11-03 | [Shareable data analysis using DuckDb in the browser](https://www.reddit.com/r/datasets/comments/1xmxqgo/shareable_data_analysis_using_duckdb_in_the/) | u/trilson | resource | tinylake.io | 2 | 2 | live | — |
-| 41 | 2026-11-03 | [\[Self-promotion\] Newly registered U.S. businesses from state registries: free 500-row sample + free API tier](https://www.reddit.com/r/datasets/comments/1xmw7aa/selfpromotion_newly_registered_us_businesses_from/) | u/SaltRiverDan | resource | text | 1 | 6 | live | — |
-| 42 | 2026-11-03 | [\[self-promotion\] 25 OLX Indonesia listings: IDR prices, condition, city, seller type (JSON/CSV)](https://www.reddit.com/r/datasets/comments/1xmqviy/selfpromotion_25_olx_indonesia_listings_idr/) | u/matakupan | API | text | 1 | 1 | held by automod | Hey matakupan, This post has been removed. We have certain measures in place to prevent spam from n… |
-| 43 | 2026-11-03 | [Survey on refill products and reuse systems (Canadian 18+)](https://www.reddit.com/r/datasets/comments/1xmi8ui/survey_on_refill_products_and_reuse_systems/) | u/daydreamer239 | survey | reddit.com | 1 | 1 | held by automod | All survey's have to be verified by the moderators for compliance with the rules. Your survey must… |
-| 44 | 2026-11-02 | [Nonprofit org data for AI training: who’s in the chain between the seller and the lab?](https://www.reddit.com/r/datasets/comments/1xmc8qr/nonprofit_org_data_for_ai_training_whos_in_the/) | u/Blingho | question | text | 1 | 1 | held by automod | Hey Blingho, This post has been removed. We have certain measures in place to prevent spam from new… |
-| 45 | 2026-11-02 | [\[Self-promotion\] 1,000-job sample from an index of 600k open jobs crawled nightly from 14k company career sit…](https://www.reddit.com/r/datasets/comments/1xma7tv/selfpromotion_1000job_sample_from_an_index_of/) | u/gleanery_works | resource | text | 1 | 1 | held by automod | Hey gleanery_works, This post has been removed. We have certain measures in place to prevent spam f… |
-| 46 | 2026-11-02 | [Looking for school-level data on SEN units and resourced provision in England, 2010–2016](https://www.reddit.com/r/datasets/comments/1xm5p21/looking_for_schoollevel_data_on_sen_units_and/) | u/phdstudent_99 | request | text | 0 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
-| 47 | 2026-11-02 | [Where do you actually buy real, consented ChatGPT conversation data?](https://www.reddit.com/r/datasets/comments/1xm0hxw/where_do_you_actually_buy_real_consented_chatgpt/) | u/Future-Structure-296 | question | text | 2 | 4 | live | — |
-| 48 | 2026-11-02 | [\[OC\] Which sportsbooks 45 odds APIs carry: 135 books, Nov 2026 (CSV)](https://www.reddit.com/r/datasets/comments/1xm0d4a/oc_which_sportsbooks_45_odds_apis_carry_135_books/) | u/SportsApis | dataset | text | 0 | 2 | live | — |
-| 49 | 2026-11-02 | [If you have or want to mine datasets and maybe sell](https://www.reddit.com/r/datasets/comments/1xly48t/if_you_have_or_want_to_mine_datasets_and_maybe/) | u/Familiar_Package8281 | request | text | 1 | 0 | removed by mod | — |
-| 50 | 2026-11-02 | [Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Proje…](https://www.reddit.com/r/datasets/comments/1xlwtfg/looking_for_image_dataset_of_saba_bananas_pomelos/) | u/Ornery_Country8622 | request | text | 1 | 1 | held by automod | Hey Ornery_Country8622, This post has been removed. We have certain measures in place to prevent sp… |
+| 1 | 2026-11-06 | [Digital Pen DREAM Challenge: predict cognitive assessment outcomes from digital clock drawings (open now)](#post-1) | u/Weird-Spray-4180 | dataset | reddit.com | 1 | 1 | held by automod | Hey Weird-Spray-4180, This post has been removed. We have certain measures in place to prevent spam… |
+| 2 | 2026-11-06 | [Looking for school-level data on SEN units and resourced provision in England, 2010–2016](#post-2) | u/phdstudent_99 | request | text | 1 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
+| 3 | 2026-11-06 | [CASP-Dream TAP Challenge TCR + Peptide-MHC activation prediction with unseen test peptides Access to free dat…](#post-3) | u/what-isthe-cloud | resource | text | 2 | 0 | live | — |
+| 4 | 2026-11-06 | [Datafiniti November Release 2026 - AI tools, work with expanded Property and People Data schemas](#post-4) | u/Datafiniti_DataDev | resource | docs.datafiniti.co | 1 | 1 | held by automod | Hey Datafiniti_DataDev, This post has been removed. We have certain measures in place to prevent sp… |
+| 5 | 2026-11-06 | [Looking to participate in ai egocentric video generation for which we have 10000+ workers](#post-5) | u/PsychologicalUse3676 | request | text | 0 | 0 | live | — |
+| 6 | 2026-11-06 | [Looking for code-switching speech datasets: English + Chinese / French / German / Spanish / Vietnamese / Japa…](#post-6) | u/360converter_leo | request | reddit.com | 1 | 1 | held by automod | Hey 360converter_leo, This post has been removed. We have certain measures in place to prevent spam… |
+| 7 | 2026-11-06 | [\[self-promotion\] Forever free YouTube/TikTok/Instagram/Twitch/OnlyFans metadata](#post-7) | u/ScrapeExchange | dataset | text | 1 | 0 | removed by mod | — |
+| 8 | 2026-11-06 | [\[self-promotion\] YouTube/TikTok/Instagram/Twitch/OnlyFans metadata](#post-8) | u/ScrapeExchange | dataset | text | 1 | 0 | removed by mod | — |
+| 9 | 2026-11-06 | [\[Dataset\] OSTDB: official video game soundtracks (2,467 games, 2,950 releases, CC BY-NC-SA 4.0)](#post-9) | u/matyasm1 | dataset | text | 2 | 0 | live | — |
+| 10 | 2026-11-06 | [Learning about computer vision in football](#post-10) | u/MongooseKey1445 | request | reddit.com | 1 | 1 | live | — |
+| 11 | 2026-11-06 | [How are people actually verifying consent on conversation datasets they buy?](#post-11) | u/Pleasant-Teaching-75 | question | text | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-06 | [US nuclear industry dataset: companies, facilities and relationships (CSV/JSON, CC BY 4.0)](#post-12) | u/magnificient- | dataset | nuclear-directory.org | 8 | 1 | live | — |
+| 13 | 2026-11-05 | [\[self-promotion\] GTM API benchmark results: 567 providers across 105 APIs, scored on real calls (CSV, CC BY 4…](#post-13) | u/Healthy_Waltz_1872 | resource | text | 1 | 1 | held by automod | Hey Healthy_Waltz_1872, This post has been removed. We have certain measures in place to prevent sp… |
+| 14 | 2026-11-05 | [\[self-promotion\] fineprint: dated, diffable archive of 46 AI vendor pricing, terms and privacy pages (May to…](#post-14) | u/Vivid_Influence1608 | dataset | text | 1 | 1 | held by automod | Hey Vivid_Influence1608, This post has been removed. We have certain measures in place to prevent s… |
+| 15 | 2026-11-05 | [\[PAID\] Clean Enterprise Employee & Hierarchy Dataset (50-Row Free Sample + 5,200 Record Bundle)](#post-15) | u/dragon_tamer_02 | dataset | text | 0 | 2 | held by automod | Hey dragon_tamer_02, This post has been removed. We have certain measures in place to prevent spam… |
+| 16 | 2026-11-05 | [Sharing my open-source project, provides weekly dump of NCAA sports dataset](#post-16) | u/efyudi42 | dataset | text | 2 | 0 | live | — |
+| 17 | 2026-11-05 | [\[Self Promotion\] Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements](#post-17) | u/ProfessionalLow8814 | resource | text | 1 | 0 | removed by mod | — |
+| 18 | 2026-11-05 | [Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements](#post-18) | u/ProfessionalLow8814 | resource | text | 1 | 0 | removed by mod | — |
+| 19 | 2026-11-05 | [Operational & Communication data Teams, Slack, Etc.](#post-19) | u/procurement-partner | question | text | 1 | 0 | spam-filtered | — |
+| 20 | 2026-11-05 | [Looking for school-level data on SEN units and resourced provision in England, 2010–201](#post-20) | u/phdstudent_99 | request | text | 1 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
+| 21 | 2026-11-05 | [\[Dataset\] All 454 Canada Express Entry invitation rounds 2015-2026, one row per draw (CSV/JSON, CC BY 4.0)](#post-21) | u/RB_khan | dataset | text | 1 | 1 | held by automod | Hey RB_khan, This post has been removed. We have certain measures in place to prevent spam from new… |
+| 22 | 2026-11-05 | [Raw (unfiltered ) Data where to find ?](#post-22) | u/Peace_out4 | question | reddit.com | 2 | 4 | live | — |
+| 23 | 2026-11-05 | [\[self-promotion\] We started Creeks, a data company for coding, clinical and education data. Looking for labs…](#post-23) | u/the_darkest_horse | dataset | text | 0 | 2 | live | — |
+| 24 | 2026-11-05 | [Looking for Volunteers to Help with a Handwriting Recognition Dataset](#post-24) | u/anonymous_18082005 | request | reddit.com | 1 | 1 | held by automod | Hey anonymous_18082005, This post has been removed. We have certain measures in place to prevent sp… |
+| 25 | 2026-11-04 | [\[PAID\] \[self-promotion\] Nordic job ads (NO/SE/FI/DK/IS) from official public job APIs in one schema, daily-up…](#post-25) | u/TidyDataHQ | dataset | text | 0 | 1 | held by automod | Hey TidyDataHQ, This post has been removed. We have certain measures in place to prevent spam from… |
+| 26 | 2026-11-04 | [748 crypto trading strategies run through a7-stage validation pipeline full source + per-bot report cards (MI…](#post-26) | u/drykilo | dataset | text | 1 | 4 | live | — |
+| 27 | 2026-11-04 | [\[self-promotion\] Free, no-key JSON API for ICD-10-CM / SNOMED CT / LOINC / RxNorm with crosswalks (I built it)](#post-27) | u/Muted_Fly_9096 | API | text | 1 | 1 | held by automod | Hey Muted_Fly_9096, This post has been removed. We have certain measures in place to prevent spam f… |
+| 28 | 2026-11-04 | [\[self-promotion\] Signal Lab: a free index of 192 datasets with access, limits and licence/terms notes (CSV/JS…](#post-28) | u/QDTSignalLab | resource | text | 0 | 1 | held by automod | Hey QDTSignalLab, This post has been removed. We have certain measures in place to prevent spam fro… |
+| 29 | 2026-11-04 | [\[Paid\] Sales chat log dataset from a company selling wellness product (Indonesian language)](#post-29) | u/tiptaply | dataset | text | 0 | 2 | live | — |
+| 30 | 2026-11-04 | [I built an automated pipeline to digitize Australia's 1906 trade records and accidentally caught a 120-year-o…](#post-30) | u/docchaser1 | dataset | reddit.com | 1 | 1 | held by automod | Hey docchaser1, This post has been removed. We have certain measures in place to prevent spam from… |
+| 31 | 2026-11-04 | [\[Synthetic\] \[Self-Promotion\] Black Friday & Cyber Week Sales (2023–2025): 408K purchases with discounts, chan…](#post-31) | u/grd_dev | dataset | text | 1 | 2 | live | — |
+| 32 | 2026-11-04 | [\[self-promotion\] Open genealogical dataset: 2.7M historical people with 480k parent-child and 135k couple lin…](#post-32) | u/HumanLineage | dataset | text | 1 | 1 | held by automod | Hey HumanLineage, This post has been removed. We have certain measures in place to prevent spam fro… |
+| 33 | 2026-11-04 | [Where are you getting exercise videos for your fitness app?](#post-33) | u/vilise089 | request | text | 11 | 10 | live | — |
+| 34 | 2026-11-04 | [Weather Forecast Model Analysis - Need Detailed Sources](#post-34) | u/fletchmm | dataset | reddit.com | 1 | 1 | live | — |
+| 35 | 2026-11-03 | [Tip: you can grab single files out of big dataset zips without downloading the whole zip](#post-35) | u/External-Drive6208 | discussion | text | 0 | 8 | live | — |
+| 36 | 2026-11-03 | [Datasets for the 30 Day Map Challenge](#post-36) | u/ionychal | resource | text | 3 | 5 | live | — |
+| 37 | 2026-11-03 | [\[OC\] CC0 dataset: 24,196 US small businesses for sale, from 552 broker websites, updated daily](#post-37) | u/davestoller | resource | text | 7 | 15 | live | — |
+| 38 | 2026-11-03 | [Working on TCR models? A new CASP Challenge is starting, with training data options available.](#post-38) | u/Harell-Data | resource | text | 1 | 1 | held by automod | Hey Harell-Data, This post has been removed. We have certain measures in place to prevent spam from… |
+| 39 | 2026-11-03 | [Moroccan Darija Dataset with French & English Translations 🇲🇦](#post-39) | u/RELAX_MR | request | text | 1 | 1 | spam-filtered | Hey RELAX_MR, This post has been removed. We have certain measures in place to prevent spam from ne… |
+| 40 | 2026-11-03 | [Shareable data analysis using DuckDb in the browser](#post-40) | u/trilson | resource | tinylake.io | 2 | 2 | live | — |
+| 41 | 2026-11-03 | [\[Self-promotion\] Newly registered U.S. businesses from state registries: free 500-row sample + free API tier](#post-41) | u/SaltRiverDan | resource | text | 1 | 6 | live | — |
+| 42 | 2026-11-03 | [\[self-promotion\] 25 OLX Indonesia listings: IDR prices, condition, city, seller type (JSON/CSV)](#post-42) | u/matakupan | API | text | 1 | 1 | held by automod | Hey matakupan, This post has been removed. We have certain measures in place to prevent spam from n… |
+| 43 | 2026-11-03 | [Survey on refill products and reuse systems (Canadian 18+)](#post-43) | u/daydreamer239 | survey | reddit.com | 1 | 1 | held by automod | All survey's have to be verified by the moderators for compliance with the rules. Your survey must… |
+| 44 | 2026-11-02 | [Nonprofit org data for AI training: who’s in the chain between the seller and the lab?](#post-44) | u/Blingho | question | text | 1 | 1 | held by automod | Hey Blingho, This post has been removed. We have certain measures in place to prevent spam from new… |
+| 45 | 2026-11-02 | [\[Self-promotion\] 1,000-job sample from an index of 600k open jobs crawled nightly from 14k company career sit…](#post-45) | u/gleanery_works | resource | text | 1 | 1 | held by automod | Hey gleanery_works, This post has been removed. We have certain measures in place to prevent spam f… |
+| 46 | 2026-11-02 | [Looking for school-level data on SEN units and resourced provision in England, 2010–2016](#post-46) | u/phdstudent_99 | request | text | 0 | 1 | held by automod | Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam fr… |
+| 47 | 2026-11-02 | [Where do you actually buy real, consented ChatGPT conversation data?](#post-47) | u/Future-Structure-296 | question | text | 2 | 4 | live | — |
+| 48 | 2026-11-02 | [\[OC\] Which sportsbooks 45 odds APIs carry: 135 books, Nov 2026 (CSV)](#post-48) | u/SportsApis | dataset | text | 0 | 2 | live | — |
+| 49 | 2026-11-02 | [If you have or want to mine datasets and maybe sell](#post-49) | u/Familiar_Package8281 | request | text | 1 | 0 | removed by mod | — |
+| 50 | 2026-11-02 | [Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Proje…](#post-50) | u/Ornery_Country8622 | request | text | 1 | 1 | held by automod | Hey Ornery_Country8622, This post has been removed. We have certain measures in place to prevent sp… |
 
 ## Top 20 posts, last 30 days
 
@@ -118,34 +118,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-27 | [Scraping housing data is getting genuinely ridiculous](https://www.reddit.com/r/datasets/comments/1xgvo4g/scraping_housing_data_is_getting_genuinely/) | u/felitram | discussion | text | 46 | 19 | live |
-| 52 | 2026-10-30 | [Entering all world law into a git repository](https://www.reddit.com/r/datasets/comments/1xj2qbw/entering_all_world_law_into_a_git_repository/) | u/SnooPeripherals5313 | dataset | text | 41 | 11 | live |
-| 53 | 2026-10-25 | [50,416 hours of American police radio audio from 6 regions](https://www.reddit.com/r/datasets/comments/1xepo60/50416_hours_of_american_police_radio_audio_from_6/) | u/WithoutReason1729 | dataset | huggingface.co | 15 | 6 | live |
-| 54 | 2026-10-17 | [\[self-promotion\] Free financial data API for AI agents and LLMs: full-text SEC filings, earnings call transcr…](https://www.reddit.com/r/datasets/comments/1x8mbyt/selfpromotion_free_financial_data_api_for_ai/) | u/DanielAPO | API | text | 12 | 3 | live |
-| 33 | 2026-11-04 | [Where are you getting exercise videos for your fitness app?](https://www.reddit.com/r/datasets/comments/1xnli97/where_are_you_getting_exercise_videos_for_your/) | u/vilise089 | request | text | 11 | 10 | live |
-| 55 | 2026-10-12 | [Indian Government Open Data set is not working](https://www.reddit.com/r/datasets/comments/1x403ks/indian_government_open_data_set_is_not_working/) | u/byangomaaa | API | text | 11 | 4 | live |
-| 56 | 2026-10-25 | [\[dataset\] 1,309 viral events with 19,732 dated timeline events (CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1xfammx/dataset_1309_viral_events_with_19732_dated/) | u/sirjoaco | dataset | text | 10 | 2 | live |
-| 57 | 2026-10-11 | [\[Self-promotion\] Free daily US job openings index from 18,000+ employers' own career sites (CSV, CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1x3ho5p/selfpromotion_free_daily_us_job_openings_index/) | u/SpiteMaximum3570 | dataset | text | 10 | 0 | live |
-| 58 | 2026-11-01 | [\[Dataset\] Google Trends "will AI replace \[job\]" index for 56 jobs, monthly 2020 to 2026 (CC BY)](https://www.reddit.com/r/datasets/comments/1xkz0cl/dataset_google_trends_will_ai_replace_job_index/) | u/vaitko | resource | text | 9 | 5 | live |
-| 59 | 2026-10-30 | [\[self-promotion\] All 11,064 living bird species (IOC 15.2): names in 43 languages, eBird/GBIF/Wikidata/iNat I…](https://www.reddit.com/r/datasets/comments/1xjkoeb/selfpromotion_all_11064_living_bird_species_ioc/) | u/Internal-Purpose5469 | dataset | text | 9 | 1 | live |
-| 60 | 2026-10-21 | [Weekly counts of software jobs by job type, skills and years asked, from about 255 company career boards (CSV…](https://www.reddit.com/r/datasets/comments/1xbgk86/weekly_counts_of_software_jobs_by_job_type_skills/) | u/dw_mt | dataset | github.com | 8 | 4 | live |
-| 12 | 2026-11-06 | [US nuclear industry dataset: companies, facilities and relationships (CSV/JSON, CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1xp1h0n/us_nuclear_industry_dataset_companies_facilities/) | u/magnificient- | dataset | nuclear-directory.org | 8 | 1 | live |
-| 61 | 2026-10-12 | [15,908 answers from 378 AI models to the same 87 prompts, May 2024 to now (CC BY 4.0)](https://www.reddit.com/r/datasets/comments/1x42c83/15908_answers_from_378_ai_models_to_the_same_87/) | u/sirjoaco | dataset | text | 8 | 0 | live |
-| 37 | 2026-11-03 | [\[OC\] CC0 dataset: 24,196 US small businesses for sale, from 552 broker websites, updated daily](https://www.reddit.com/r/datasets/comments/1xn1k4q/oc_cc0_dataset_24196_us_small_businesses_for_sale/) | u/davestoller | resource | text | 7 | 15 | live |
-| 62 | 2026-10-12 | [\[Dataset\] Instagram follower networks, suspicious spikes, and possible coordinated activity](https://www.reddit.com/r/datasets/comments/1x3z7z0/dataset_instagram_follower_networks_suspicious/) | u/gavrilo91 | resource | text | 7 | 6 | live |
-| 63 | 2026-10-15 | [Looking for European mortgage loan-level data for survival analysis (Master's thesis)](https://www.reddit.com/r/datasets/comments/1x6hifg/looking_for_european_mortgage_loanlevel_data_for/) | u/Best_Celebration_933 | dataset | text | 6 | 8 | live |
-| 64 | 2026-10-16 | [Source for streaming subscription prices per country (Netflix, Disney+, Max, Prime Video etc.)?](https://www.reddit.com/r/datasets/comments/1x787hc/source_for_streaming_subscription_prices_per/) | u/BingeBossTv | question | text | 6 | 7 | live |
-| 65 | 2026-10-21 | [US WARN layoff notices by state (California, Florida, New York, Tennessee, Maryland) as free cumulative CSVs…](https://www.reddit.com/r/datasets/comments/1xbidg7/us_warn_layoff_notices_by_state_california/) | u/Tasty_Director_9553 | dataset | text | 6 | 0 | live |
-| 66 | 2026-10-19 | [\[Dataset\] Football managers and trophies at 35 European clubs, 1955/56–2025/26: feedback and historical sourc…](https://www.reddit.com/r/datasets/comments/1xa36dl/dataset_football_managers_and_trophies_at_35/) | u/kingjaynl | dataset | text | 5 | 11 | live |
-| 67 | 2026-10-22 | [\[Academic Research\] Looking for Historical SteamDB / Steam Data on International Market Entry and Regional Pr…](https://www.reddit.com/r/datasets/comments/1xcar3h/academic_research_looking_for_historical_steamdb/) | u/Traditional_Kiwi_871 | resource | text | 5 | 8 | live |
+| 51 | 2026-10-27 | [Scraping housing data is getting genuinely ridiculous](#post-51) | u/felitram | discussion | text | 46 | 19 | live |
+| 52 | 2026-10-30 | [Entering all world law into a git repository](#post-52) | u/SnooPeripherals5313 | dataset | text | 41 | 11 | live |
+| 53 | 2026-10-25 | [50,416 hours of American police radio audio from 6 regions](#post-53) | u/WithoutReason1729 | dataset | huggingface.co | 15 | 6 | live |
+| 54 | 2026-10-17 | [\[self-promotion\] Free financial data API for AI agents and LLMs: full-text SEC filings, earnings call transcr…](#post-54) | u/DanielAPO | API | text | 12 | 3 | live |
+| 33 | 2026-11-04 | [Where are you getting exercise videos for your fitness app?](#post-33) | u/vilise089 | request | text | 11 | 10 | live |
+| 55 | 2026-10-12 | [Indian Government Open Data set is not working](#post-55) | u/byangomaaa | API | text | 11 | 4 | live |
+| 56 | 2026-10-25 | [\[dataset\] 1,309 viral events with 19,732 dated timeline events (CC BY 4.0)](#post-56) | u/sirjoaco | dataset | text | 10 | 2 | live |
+| 57 | 2026-10-11 | [\[Self-promotion\] Free daily US job openings index from 18,000+ employers' own career sites (CSV, CC BY 4.0)](#post-57) | u/SpiteMaximum3570 | dataset | text | 10 | 0 | live |
+| 58 | 2026-11-01 | [\[Dataset\] Google Trends "will AI replace \[job\]" index for 56 jobs, monthly 2020 to 2026 (CC BY)](#post-58) | u/vaitko | resource | text | 9 | 5 | live |
+| 59 | 2026-10-30 | [\[self-promotion\] All 11,064 living bird species (IOC 15.2): names in 43 languages, eBird/GBIF/Wikidata/iNat I…](#post-59) | u/Internal-Purpose5469 | dataset | text | 9 | 1 | live |
+| 60 | 2026-10-21 | [Weekly counts of software jobs by job type, skills and years asked, from about 255 company career boards (CSV…](#post-60) | u/dw_mt | dataset | github.com | 8 | 4 | live |
+| 12 | 2026-11-06 | [US nuclear industry dataset: companies, facilities and relationships (CSV/JSON, CC BY 4.0)](#post-12) | u/magnificient- | dataset | nuclear-directory.org | 8 | 1 | live |
+| 61 | 2026-10-12 | [15,908 answers from 378 AI models to the same 87 prompts, May 2024 to now (CC BY 4.0)](#post-61) | u/sirjoaco | dataset | text | 8 | 0 | live |
+| 37 | 2026-11-03 | [\[OC\] CC0 dataset: 24,196 US small businesses for sale, from 552 broker websites, updated daily](#post-37) | u/davestoller | resource | text | 7 | 15 | live |
+| 62 | 2026-10-12 | [\[Dataset\] Instagram follower networks, suspicious spikes, and possible coordinated activity](#post-62) | u/gavrilo91 | resource | text | 7 | 6 | live |
+| 63 | 2026-10-15 | [Looking for European mortgage loan-level data for survival analysis (Master's thesis)](#post-63) | u/Best_Celebration_933 | dataset | text | 6 | 8 | live |
+| 64 | 2026-10-16 | [Source for streaming subscription prices per country (Netflix, Disney+, Max, Prime Video etc.)?](#post-64) | u/BingeBossTv | question | text | 6 | 7 | live |
+| 65 | 2026-10-21 | [US WARN layoff notices by state (California, Florida, New York, Tennessee, Maryland) as free cumulative CSVs…](#post-65) | u/Tasty_Director_9553 | dataset | text | 6 | 0 | live |
+| 66 | 2026-10-19 | [\[Dataset\] Football managers and trophies at 35 European clubs, 1955/56–2025/26: feedback and historical sourc…](#post-66) | u/kingjaynl | dataset | text | 5 | 11 | live |
+| 67 | 2026-10-22 | [\[Academic Research\] Looking for Historical SteamDB / Steam Data on International Market Entry and Regional Pr…](#post-67) | u/Traditional_Kiwi_871 | resource | text | 5 | 8 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Digital Pen DREAM Challenge: predict cognitive assessment outcomes from digital clock drawings (open now)
 
-2026-11-06 · u/Weird-Spray-4180 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpp95b/digital_pen_dream_challenge_predict_cognitive/)
+2026-11-06 · u/Weird-Spray-4180 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpp95b/digital_pen_dream_challenge_predict_cognitive/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/bioinformatics/comments/1xpp8gd/digital_pen_dream_challenge_predict_cognitive/>
 
@@ -153,24 +155,30 @@ Link: <https://www.reddit.com/r/bioinformatics/comments/1xpp8gd/digital_pen_drea
 
 **Mod comment** (u/AutoModerator): Hey Weird-Spray-4180, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-2"></a>
+
 ### 2. Looking for school-level data on SEN units and resourced provision in England, 2010–2016
 
-2026-11-06 · u/phdstudent_99 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpjey0/looking_for_schoollevel_data_on_sen_units_and/)
+2026-11-06 · u/phdstudent_99 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpjey0/looking_for_schoollevel_data_on_sen_units_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-3"></a>
+
 ### 3. CASP-Dream TAP Challenge TCR + Peptide-MHC activation prediction with unseen test peptides Access to free data set VDJdb - A curated database of T cell receptor sequences with known antigen specificity, assembled by manual curation of published studies - Roughly 203,000 records
 
-2026-11-06 · u/what-isthe-cloud · resource · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpipev/caspdream_tap_challenge_tcr_peptidemhc_activation/)
+2026-11-06 · u/what-isthe-cloud · resource · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpipev/caspdream_tap_challenge_tcr_peptidemhc_activation/) · [↑ back to the list](#last-50-posts)
 
 > |Free to register - A new contest for anyone training sequence models on TCRs. Given a TCR sequence and a peptide-HLA, predict whether the T cell activates. Inputs are amino acid sequences, the benchmark is about 5,800 labeled combinations, and every test peptide is at least four edits (Levenshtein distance) away from any peptide with a publicly reported TCR specificity. Scored by AUROC. Synapse lists training data options, including the public VDJdb database and Harell Data's proprietary TCR datasets provided by Adaptive Biotechnologies. Registration is open now: [https://www.synapse.org/Synapse:syn77965030/wiki/643867](https://www.synapse.org/Synapse:syn77965030/wiki/643867)   or about more data access [https://harelldata.com/harell-cloud/](https://harelldata.com/harell-cloud/)|
 > |:-|
 
+<a id="post-4"></a>
+
 ### 4. Datafiniti November Release 2026 - AI tools, work with expanded Property and People Data schemas
 
-2026-11-06 · u/Datafiniti_DataDev · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpffcr/datafiniti_november_release_2026_ai_tools_work/)
+2026-11-06 · u/Datafiniti_DataDev · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpffcr/datafiniti_november_release_2026_ai_tools_work/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://docs.datafiniti.co/november-2026>
 
@@ -178,17 +186,21 @@ Link: <https://docs.datafiniti.co/november-2026>
 
 **Mod comment** (u/AutoModerator): Hey Datafiniti_DataDev, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-5"></a>
+
 ### 5. Looking to participate in ai egocentric video generation for which we have 10000+ workers
 
-2026-11-06 · u/PsychologicalUse3676 · request · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpcyim/looking_to_participate_in_ai_egocentric_video/)
+2026-11-06 · u/PsychologicalUse3676 · request · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpcyim/looking_to_participate_in_ai_egocentric_video/) · [↑ back to the list](#last-50-posts)
 
 > We hvae connections to factories across different industries who can do data collection for us please get in touch in india 
 >
 > 10000+ workers
 
+<a id="post-6"></a>
+
 ### 6. Looking for code-switching speech datasets: English + Chinese / French / German / Spanish / Vietnamese / Japanese
 
-2026-11-06 · u/360converter_leo · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpaz5m/looking_for_codeswitching_speech_datasets_english/)
+2026-11-06 · u/360converter_leo · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpaz5m/looking_for_codeswitching_speech_datasets_english/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/speechtech/comments/1xpay0i/looking_for_codeswitching_speech_datasets_english/>
 
@@ -196,21 +208,27 @@ Link: <https://www.reddit.com/r/speechtech/comments/1xpay0i/looking_for_codeswit
 
 **Mod comment** (u/AutoModerator): Hey 360converter_leo, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-7"></a>
+
 ### 7. \[self-promotion\] Forever free YouTube/TikTok/Instagram/Twitch/OnlyFans metadata
 
-2026-11-06 · u/ScrapeExchange · dataset · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpa3co/selfpromotion_forever_free/)
+2026-11-06 · u/ScrapeExchange · dataset · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xpa3co/selfpromotion_forever_free/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-8"></a>
 
 ### 8. \[self-promotion\] YouTube/TikTok/Instagram/Twitch/OnlyFans metadata
 
-2026-11-06 · u/ScrapeExchange · dataset · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp9zjc/selfpromotion/)
+2026-11-06 · u/ScrapeExchange · dataset · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp9zjc/selfpromotion/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. \[Dataset\] OSTDB: official video game soundtracks (2,467 games, 2,950 releases, CC BY-NC-SA 4.0)
 
-2026-11-06 · u/matyasm1 · dataset · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp9vx5/dataset_ostdb_official_video_game_soundtracks/)
+2026-11-06 · u/matyasm1 · dataset · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp9vx5/dataset_ostdb_official_video_game_soundtracks/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I’m the maintainer of this dataset.
 >
@@ -221,23 +239,29 @@ Link: <https://www.reddit.com/r/speechtech/comments/1xpay0i/looking_for_codeswit
 >
 > Feedback on missing fields or games is welcome.
 
+<a id="post-10"></a>
+
 ### 10. Learning about computer vision in football
 
-2026-11-06 · u/MongooseKey1445 · request · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp4qzc/learning_about_computer_vision_in_football/)
+2026-11-06 · u/MongooseKey1445 · request · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp4qzc/learning_about_computer_vision_in_football/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SATNA_PROJECT/comments/1xp4nmq/football_computer_vision/>
 
 > Hello, I'm a broke engineering student and I would like to learn about computer vision in football. Do anyone know where can I find lives transmission or video records of football matches with normal or tactical point of view?
 
+<a id="post-11"></a>
+
 ### 11. How are people actually verifying consent on conversation datasets they buy?
 
-2026-11-06 · u/Pleasant-Teaching-75 · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp43qc/how_are_people_actually_verifying_consent_on/)
+2026-11-06 · u/Pleasant-Teaching-75 · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp43qc/how_are_people_actually_verifying_consent_on/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. US nuclear industry dataset: companies, facilities and relationships (CSV/JSON, CC BY 4.0)
 
-2026-11-06 · u/magnificient- · dataset · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp1h0n/us_nuclear_industry_dataset_companies_facilities/)
+2026-11-06 · u/magnificient- · dataset · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xp1h0n/us_nuclear_industry_dataset_companies_facilities/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://nuclear-directory.org/?utm_source=reddit&utm_campaign=datasets>
 
@@ -255,25 +279,31 @@ Link: <https://nuclear-directory.org/?utm_source=reddit&utm_campaign=datasets>
 >
 > The release is also available on GitHub, Hugging Face and Kaggle. You can browse the directory [here](https://nuclear-directory.org/?utm_source=reddit&utm_campaign=datasets) and let me know if it is helpful
 
+<a id="post-13"></a>
+
 ### 13. \[self-promotion\] GTM API benchmark results: 567 providers across 105 APIs, scored on real calls (CSV, CC BY 4.0)
 
-2026-11-05 · u/Healthy_Waltz_1872 · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoy5vk/selfpromotion_gtm_api_benchmark_results_567/)
+2026-11-05 · u/Healthy_Waltz_1872 · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoy5vk/selfpromotion_gtm_api_benchmark_results_567/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Healthy_Waltz_1872, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-14"></a>
+
 ### 14. \[self-promotion\] fineprint: dated, diffable archive of 46 AI vendor pricing, terms and privacy pages (May to Oct 2026, 355 changes), CC BY 4.0
 
-2026-11-05 · u/Vivid_Influence1608 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xou56f/selfpromotion_fineprint_dated_diffable_archive_of/)
+2026-11-05 · u/Vivid_Influence1608 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xou56f/selfpromotion_fineprint_dated_diffable_archive_of/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Vivid_Influence1608, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-15"></a>
+
 ### 15. \[PAID\] Clean Enterprise Employee & Hierarchy Dataset (50-Row Free Sample + 5,200 Record Bundle)
 
-2026-11-05 · u/dragon_tamer_02 · dataset · score 0 · 2 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xopjen/paid_clean_enterprise_employee_hierarchy_dataset/)
+2026-11-05 · u/dragon_tamer_02 · dataset · score 0 · 2 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xopjen/paid_clean_enterprise_employee_hierarchy_dataset/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
@@ -281,9 +311,11 @@ Link: <https://nuclear-directory.org/?utm_source=reddit&utm_campaign=datasets>
 
 **Mod comment** (u/AutoModerator): Hey dragon_tamer_02, I believe a `request` flair might be more appropriate for such post. Please re-consider and change the post flair if needed.
 
+<a id="post-16"></a>
+
 ### 16. Sharing my open-source project, provides weekly dump of NCAA sports dataset
 
-2026-11-05 · u/efyudi42 · dataset · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xop6ix/sharing_my_opensource_project_provides_weekly/)
+2026-11-05 · u/efyudi42 · dataset · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xop6ix/sharing_my_opensource_project_provides_weekly/) · [↑ back to the list](#last-50-posts)
 
 > Free dump of rosters, coaching staff and schedules for 977 NCAA schools, D1 to D3. One JSON file per school, refreshed every Monday.
 >
@@ -295,50 +327,64 @@ Link: <https://nuclear-directory.org/?utm_source=reddit&utm_campaign=datasets>
 >
 > I'd really appreciate if you guys could please show some support 😄
 
+<a id="post-17"></a>
+
 ### 17. \[Self Promotion\] Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements
 
-2026-11-05 · u/ProfessionalLow8814 · resource · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoltgb/self_promotion_free_guide_to_nasas_wildfire_data/)
+2026-11-05 · u/ProfessionalLow8814 · resource · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoltgb/self_promotion_free_guide_to_nasas_wildfire_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-18"></a>
 
 ### 18. Free Guide to NASA’s Wildfire Data API After the 2026 and 2027 Satellite Retirements
 
-2026-11-05 · u/ProfessionalLow8814 · resource · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xolqcp/free_guide_to_nasas_wildfire_data_api_after_the/)
+2026-11-05 · u/ProfessionalLow8814 · resource · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xolqcp/free_guide_to_nasas_wildfire_data_api_after_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-19"></a>
 
 ### 19. Operational & Communication data Teams, Slack, Etc.
 
-2026-11-05 · u/procurement-partner · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoidzu/operational_communication_data_teams_slack_etc/)
+2026-11-05 · u/procurement-partner · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoidzu/operational_communication_data_teams_slack_etc/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. Looking for school-level data on SEN units and resourced provision in England, 2010–201
 
-2026-11-05 · u/phdstudent_99 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xogcpq/looking_for_schoollevel_data_on_sen_units_and/)
+2026-11-05 · u/phdstudent_99 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xogcpq/looking_for_schoollevel_data_on_sen_units_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-21"></a>
+
 ### 21. \[Dataset\] All 454 Canada Express Entry invitation rounds 2015-2026, one row per draw (CSV/JSON, CC BY 4.0)
 
-2026-11-05 · u/RB_khan · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xog2d5/dataset_all_454_canada_express_entry_invitation/)
+2026-11-05 · u/RB_khan · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xog2d5/dataset_all_454_canada_express_entry_invitation/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey RB_khan, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-22"></a>
+
 ### 22. Raw (unfiltered ) Data where to find ?
 
-2026-11-05 · u/Peace_out4 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xod64k/raw_unfiltered_data_where_to_find/)
+2026-11-05 · u/Peace_out4 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xod64k/raw_unfiltered_data_where_to_find/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/>
 
 
+<a id="post-23"></a>
+
 ### 23. \[self-promotion\] We started Creeks, a data company for coding, clinical and education data. Looking for labs that need data, and experts who want to help curate it
 
-2026-11-05 · u/the_darkest_horse · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoahix/selfpromotion_we_started_creeks_a_data_company/)
+2026-11-05 · u/the_darkest_horse · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xoahix/selfpromotion_we_started_creeks_a_data_company/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, we just launched Creeks (https://creeks.ai). We build and sell training data, eval data and RL environments for AI teams. Three domains for now:
 >
@@ -354,9 +400,11 @@ Link: <https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/>
 >
 > Comment, DM me, or email contact@creeks.ai.
 
+<a id="post-24"></a>
+
 ### 24. Looking for Volunteers to Help with a Handwriting Recognition Dataset
 
-2026-11-05 · u/anonymous_18082005 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xo8pat/looking_for_volunteers_to_help_with_a_handwriting/)
+2026-11-05 · u/anonymous_18082005 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xo8pat/looking_for_volunteers_to_help_with_a_handwriting/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AIdatatrainingjobs/comments/1xo7eqw/looking_for_volunteers_to_help_with_a_handwriting/>
 
@@ -364,17 +412,21 @@ Link: <https://www.reddit.com/r/AIdatatrainingjobs/comments/1xo7eqw/looking_for_
 
 **Mod comment** (u/AutoModerator): Hey anonymous_18082005, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-25"></a>
+
 ### 25. \[PAID\] \[self-promotion\] Nordic job ads (NO/SE/FI/DK/IS) from official public job APIs in one schema, daily-updatable, no personal data in the suggested export
 
-2026-11-04 · u/TidyDataHQ · dataset · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xny8eg/paid_selfpromotion_nordic_job_ads_nosefidkis_from/)
+2026-11-04 · u/TidyDataHQ · dataset · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xny8eg/paid_selfpromotion_nordic_job_ads_nosefidkis_from/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey TidyDataHQ, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-26"></a>
+
 ### 26. 748 crypto trading strategies run through a7-stage validation pipeline full source + per-bot report cards (MIT)
 
-2026-11-04 · u/drykilo · dataset · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnr80j/748_crypto_trading_strategies_run_through_a7stage/)
+2026-11-04 · u/drykilo · dataset · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnr80j/748_crypto_trading_strategies_run_through_a7stage/) · [↑ back to the list](#last-50-posts)
 
 > I released a dataset of 748 algorithmic crypto trading strategies (BTC/ETH/SOL and other pairs), each run through a strict 7-stage backtest validation pipeline on real Binance OHLCV data: code safety scan, in-sample, out-of-sample, rolling walk-forward, randomized starts, slippage/perturbation stress and a final holdout slice.  
 >
@@ -405,25 +457,31 @@ Link: <https://www.reddit.com/r/AIdatatrainingjobs/comments/1xo7eqw/looking_for_
 >
 > **Note:** strategy hypotheses were generated in large batches, around 4000+bots were created (still being evaluated) and I had to use AI for several hypotheses generation. The validation harness and screening are mostly hand-built. All metrics are real backtest results on real market data, not synthetic.
 
+<a id="post-27"></a>
+
 ### 27. \[self-promotion\] Free, no-key JSON API for ICD-10-CM / SNOMED CT / LOINC / RxNorm with crosswalks (I built it)
 
-2026-11-04 · u/Muted_Fly_9096 · API · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnpgk7/selfpromotion_free_nokey_json_api_for_icd10cm/)
+2026-11-04 · u/Muted_Fly_9096 · API · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnpgk7/selfpromotion_free_nokey_json_api_for_icd10cm/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Muted_Fly_9096, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-28"></a>
+
 ### 28. \[self-promotion\] Signal Lab: a free index of 192 datasets with access, limits and licence/terms notes (CSV/JSON, MCP)
 
-2026-11-04 · u/QDTSignalLab · resource · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnp6n7/selfpromotion_signal_lab_a_free_index_of_192/)
+2026-11-04 · u/QDTSignalLab · resource · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnp6n7/selfpromotion_signal_lab_a_free_index_of_192/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey QDTSignalLab, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-29"></a>
+
 ### 29. \[Paid\] Sales chat log dataset from a company selling wellness product (Indonesian language)
 
-2026-11-04 · u/tiptaply · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnntwj/paid_sales_chat_log_dataset_from_a_company/)
+2026-11-04 · u/tiptaply · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnntwj/paid_sales_chat_log_dataset_from_a_company/) · [↑ back to the list](#last-50-posts)
 
 > We have licensed and made available a dataset containing real sales chat log files from a company selling premium wellness product in Indonesia.
 >
@@ -431,9 +489,11 @@ Link: <https://www.reddit.com/r/AIdatatrainingjobs/comments/1xo7eqw/looking_for_
 >
 > If this is something that is of your interests, feel free to dm.
 
+<a id="post-30"></a>
+
 ### 30. I built an automated pipeline to digitize Australia's 1906 trade records and accidentally caught a 120-year-old ABS ledger error.
 
-2026-11-04 · u/docchaser1 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnmcat/i_built_an_automated_pipeline_to_digitize/)
+2026-11-04 · u/docchaser1 · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnmcat/i_built_an_automated_pipeline_to_digitize/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/EconomicHistory/comments/1xnmb16/i_built_an_automated_pipeline_to_digitize/>
 
@@ -441,9 +501,11 @@ Link: <https://www.reddit.com/r/EconomicHistory/comments/1xnmb16/i_built_an_auto
 
 **Mod comment** (u/AutoModerator): Hey docchaser1, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-31"></a>
+
 ### 31. \[Synthetic\] \[Self-Promotion\] Black Friday & Cyber Week Sales (2023–2025): 408K purchases with discounts, channels, payments and returns (CSV + SQLite, CC BY 4.0)
 
-2026-11-04 · u/grd_dev · dataset · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnmbqt/synthetic_selfpromotion_black_friday_cyber_week/)
+2026-11-04 · u/grd_dev · dataset · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnmbqt/synthetic_selfpromotion_black_friday_cyber_week/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone, I’m sharing a new dataset covering 408,000 holiday purchases ($79.4M total sales) across the 2023–2025 holiday seasons.
 >
@@ -467,30 +529,38 @@ Link: <https://www.reddit.com/r/EconomicHistory/comments/1xnmb16/i_built_an_auto
 >
 > If you end up pulling this into your database or notebooks, I'd love your feedback. What would make it more useful to you? I'm deciding what to add in the next version.
 
+<a id="post-32"></a>
+
 ### 32. \[self-promotion\] Open genealogical dataset: 2.7M historical people with 480k parent-child and 135k couple links (CC BY-SA 4.0, GEDCOM-X JSON)
 
-2026-11-04 · u/HumanLineage · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnlixi/selfpromotion_open_genealogical_dataset_27m/)
+2026-11-04 · u/HumanLineage · dataset · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnlixi/selfpromotion_open_genealogical_dataset_27m/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey HumanLineage, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-33"></a>
+
 ### 33. Where are you getting exercise videos for your fitness app?
 
-2026-11-04 · u/vilise089 · request · score 11 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnli97/where_are_you_getting_exercise_videos_for_your/)
+2026-11-04 · u/vilise089 · request · score 11 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xnli97/where_are_you_getting_exercise_videos_for_your/) · [↑ back to the list](#last-50-posts)
 
 > Looking for real exercise demo videos to use in a fitness app, mainly strength exercises. An API or a licensed video library could both work. Paid is fine.. for anyone who’s already picked a source, what did you go with? also curious about anything you only noticed later, like missing exercises, watermarks or restrictions on saving videos on the user’s phone. I’d want people to be able to watch the demos in a gym with bad reception, so that last bit matters.
 
+<a id="post-34"></a>
+
 ### 34. Weather Forecast Model Analysis - Need Detailed Sources
 
-2026-11-04 · u/fletchmm · dataset · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xncgx5/weather_forecast_model_analysis_need_detailed/)
+2026-11-04 · u/fletchmm · dataset · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xncgx5/weather_forecast_model_analysis_need_detailed/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/quantfinance/comments/1xncd0e/weather_forecast_model_analysis_need_detailed/>
 
 
+<a id="post-35"></a>
+
 ### 35. Tip: you can grab single files out of big dataset zips without downloading the whole zip
 
-2026-11-03 · u/External-Drive6208 · discussion · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn8uot/tip_you_can_grab_single_files_out_of_big_dataset/)
+2026-11-03 · u/External-Drive6208 · discussion · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn8uot/tip_you_can_grab_single_files_out_of_big_dataset/) · [↑ back to the list](#last-50-posts)
 
 > A lot of datasets only come as one giant zip (COCO, lots of Zenodo and Hugging Face uploads). If the server supports partial downloads, and most of these do, you can read just the zip's file list and download only the files or folders you need.
 >
@@ -504,9 +574,11 @@ Link: <https://www.reddit.com/r/quantfinance/comments/1xncd0e/weather_forecast_m
 >
 > Does anyone know other big hosts where this doesn't work? Google Drive and Kaggle links don't, since they're share pages, not files.
 
+<a id="post-36"></a>
+
 ### 36. Datasets for the 30 Day Map Challenge
 
-2026-11-03 · u/ionychal · resource · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn7ndf/datasets_for_the_30_day_map_challenge/)
+2026-11-03 · u/ionychal · resource · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn7ndf/datasets_for_the_30_day_map_challenge/) · [↑ back to the list](#last-50-posts)
 
 > We're only three days in, there's still time!
 >
@@ -519,9 +591,11 @@ Link: <https://www.reddit.com/r/quantfinance/comments/1xncd0e/weather_forecast_m
 >
 > Would love to see what you create!
 
+<a id="post-37"></a>
+
 ### 37. \[OC\] CC0 dataset: 24,196 US small businesses for sale, from 552 broker websites, updated daily
 
-2026-11-03 · u/davestoller · resource · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn1k4q/oc_cc0_dataset_24196_us_small_businesses_for_sale/)
+2026-11-03 · u/davestoller · resource · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn1k4q/oc_cc0_dataset_24196_us_small_businesses_for_sale/) · [↑ back to the list](#last-50-posts)
 
 > **What it is:** active listings collected directly from business broker websites, not marketplaces.
 >
@@ -542,25 +616,31 @@ Link: <https://www.reddit.com/r/quantfinance/comments/1xncd0e/weather_forecast_m
 >
 > **License:** CC0, no signup. Methodology: [dealledger.org/methodology](http://dealledger.org/methodology)
 
+<a id="post-38"></a>
+
 ### 38. Working on TCR models? A new CASP Challenge is starting, with training data options available.
 
-2026-11-03 · u/Harell-Data · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn1frf/working_on_tcr_models_a_new_casp_challenge_is/)
+2026-11-03 · u/Harell-Data · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xn1frf/working_on_tcr_models_a_new_casp_challenge_is/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Harell-Data, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-39"></a>
+
 ### 39. Moroccan Darija Dataset with French & English Translations 🇲🇦
 
-2026-11-03 · u/RELAX_MR · request · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmz0rr/moroccan_darija_dataset_with_french_english/)
+2026-11-03 · u/RELAX_MR · request · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmz0rr/moroccan_darija_dataset_with_french_english/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey RELAX_MR, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-40"></a>
+
 ### 40. Shareable data analysis using DuckDb in the browser
 
-2026-11-03 · u/trilson · resource · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmxqgo/shareable_data_analysis_using_duckdb_in_the/)
+2026-11-03 · u/trilson · resource · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmxqgo/shareable_data_analysis_using_duckdb_in_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.tinylake.io>
 
@@ -568,9 +648,11 @@ Link: <https://www.tinylake.io>
 >
 > In the spirit of simplicity, the platform (which I would definitely consider 'alpha') and its respective sandboxes are open by design, so use at your own risk. Keen to hear any thoughts / feedback / suggestions!
 
+<a id="post-41"></a>
+
 ### 41. \[Self-promotion\] Newly registered U.S. businesses from state registries: free 500-row sample + free API tier
 
-2026-11-03 · u/SaltRiverDan · resource · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmw7aa/selfpromotion_newly_registered_us_businesses_from/)
+2026-11-03 · u/SaltRiverDan · resource · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmw7aa/selfpromotion_newly_registered_us_businesses_from/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I run ListRiver, the service behind this data.
 >
@@ -602,17 +684,21 @@ Link: <https://www.tinylake.io>
 >
 > Feedback on the format or the fields is welcome, especially anything you'd expect in a business registry dataset that's missing here.
 
+<a id="post-42"></a>
+
 ### 42. \[self-promotion\] 25 OLX Indonesia listings: IDR prices, condition, city, seller type (JSON/CSV)
 
-2026-11-03 · u/matakupan · API · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmqviy/selfpromotion_25_olx_indonesia_listings_idr/)
+2026-11-03 · u/matakupan · API · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmqviy/selfpromotion_25_olx_indonesia_listings_idr/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey matakupan, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-43"></a>
+
 ### 43. Survey on refill products and reuse systems (Canadian 18+)
 
-2026-11-03 · u/daydreamer239 · survey · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmi8ui/survey_on_refill_products_and_reuse_systems/)
+2026-11-03 · u/daydreamer239 · survey · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmi8ui/survey_on_refill_products_and_reuse_systems/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_products_and_reuse_systems/>
 
@@ -620,33 +706,41 @@ Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_pro
 
 **Mod comment** (u/AutoModerator): All survey's have to be verified by the moderators for compliance with the rules. Your survey must include a publicly accessible resource to view responses and must NOT collect personal information. We verify each survey posted for compliance which may take a few days. Once approved you will be free to re-post your survey if desired. If this post is NOT a survey and removed in error we apologize. The Automod config looks for the word "survey" and auto removes the post for moderation, we will get to approving your post as soon as possible.
 
+<a id="post-44"></a>
+
 ### 44. Nonprofit org data for AI training: who’s in the chain between the seller and the lab?
 
-2026-11-02 · u/Blingho · question · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmc8qr/nonprofit_org_data_for_ai_training_whos_in_the/)
+2026-11-02 · u/Blingho · question · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xmc8qr/nonprofit_org_data_for_ai_training_whos_in_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Blingho, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-45"></a>
+
 ### 45. \[Self-promotion\] 1,000-job sample from an index of 600k open jobs crawled nightly from 14k company career sites
 
-2026-11-02 · u/gleanery_works · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xma7tv/selfpromotion_1000job_sample_from_an_index_of/)
+2026-11-02 · u/gleanery_works · resource · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xma7tv/selfpromotion_1000job_sample_from_an_index_of/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey gleanery_works, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-46"></a>
+
 ### 46. Looking for school-level data on SEN units and resourced provision in England, 2010–2016
 
-2026-11-02 · u/phdstudent_99 · request · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm5p21/looking_for_schoollevel_data_on_sen_units_and/)
+2026-11-02 · u/phdstudent_99 · request · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm5p21/looking_for_schoollevel_data_on_sen_units_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey phdstudent_99, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-47"></a>
+
 ### 47. Where do you actually buy real, consented ChatGPT conversation data?
 
-2026-11-02 · u/Future-Structure-296 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm0hxw/where_do_you_actually_buy_real_consented_chatgpt/)
+2026-11-02 · u/Future-Structure-296 · question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm0hxw/where_do_you_actually_buy_real_consented_chatgpt/) · [↑ back to the list](#last-50-posts)
 
 > I’m trying to find a source of real user ChatGPT conversations, meaning actual prompts and responses from the ChatGPT app or web, collected with user consent through panels or opted-in extensions. Mostly US and English. I’m not after prompt volume dashboards, synthetic data or scraped API outputs.
 >
@@ -654,9 +748,11 @@ Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_pro
 >
 > Has anyone licensed or bought something like this? I’d love to know which marketplaces, brokers or panel providers are worth talking to, how you checked the data really came from ChatGPT and not an API wrapper, and what the consent terms looked like. Sellers are welcome to reach out too, but I’ll want to see the consent terms and a sample first. Thanks!
 
+<a id="post-48"></a>
+
 ### 48. \[OC\] Which sportsbooks 45 odds APIs carry: 135 books, Nov 2026 (CSV)
 
-2026-11-02 · u/SportsApis · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm0d4a/oc_which_sportsbooks_45_odds_apis_carry_135_books/)
+2026-11-02 · u/SportsApis · dataset · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xm0d4a/oc_which_sportsbooks_45_odds_apis_carry_135_books/) · [↑ back to the list](#last-50-posts)
 
 > I run a directory of sports odds APIs and keep a map of which books each one covers. Took a snapshot on Nov 1 and put it in a CSV.
 >
@@ -672,25 +768,31 @@ Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_pro
 >
 > CC BY 4.0. Tables, method and the CSV: https://sportsapis.dev/odds-api-coverage-report
 
+<a id="post-49"></a>
+
 ### 49. If you have or want to mine datasets and maybe sell
 
-2026-11-02 · u/Familiar_Package8281 · request · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xly48t/if_you_have_or_want_to_mine_datasets_and_maybe/)
+2026-11-02 · u/Familiar_Package8281 · request · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xly48t/if_you_have_or_want_to_mine_datasets_and_maybe/) · [↑ back to the list](#last-50-posts)
 
 > I created a platform that assesses datasets for compliance and issues a certificate (Data Passport) while also finding buyers if the owner wishes to sell.
 >
 > [antonlytics.com](http://antonlytics.com)
 
+<a id="post-50"></a>
+
 ### 50. Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Project
 
-2026-11-02 · u/Ornery_Country8622 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xlwtfg/looking_for_image_dataset_of_saba_bananas_pomelos/)
+2026-11-02 · u/Ornery_Country8622 · request · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xlwtfg/looking_for_image_dataset_of_saba_bananas_pomelos/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hey Ornery_Country8622, This post has been removed. We have certain measures in place to prevent spam from newly created accounts or accounts with low Karma. If you believe your post is in good faith please [message the mods via this link](https://www.reddit.com/message/compose/?to=/r/datasets) and we will approve the post. How to avoid this in future: interact with the community more, read posts, comment, help someone else out with their request or thank someone for their post if it helped you.
 
+<a id="post-51"></a>
+
 ### 51. Scraping housing data is getting genuinely ridiculous
 
-2026-10-27 · u/felitram · discussion · score 46 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xgvo4g/scraping_housing_data_is_getting_genuinely/)
+2026-10-27 · u/felitram · discussion · score 46 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xgvo4g/scraping_housing_data_is_getting_genuinely/) · [↑ back to the list](#last-50-posts)
 
 > honestly I just spent the last 3 weeks trying to compile a clean historical pricing dataset for a machine learning project, and I swear every major real estate site is locked down like fort knox now.  
 >
@@ -698,9 +800,11 @@ Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_pro
 >
 > Anyway I finally managed to scrape about 800k rows across the east coast. Still cleaning up some messy geocoding stuff but I should be able to drop a mega link or github repo here by the weekend if anyone wants to play around with it. anyone else noticing how brutal scraping has gotten this year?
 
+<a id="post-52"></a>
+
 ### 52. Entering all world law into a git repository
 
-2026-10-30 · u/SnooPeripherals5313 · dataset · score 41 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xj2qbw/entering_all_world_law_into_a_git_repository/)
+2026-10-30 · u/SnooPeripherals5313 · dataset · score 41 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xj2qbw/entering_all_world_law_into_a_git_repository/) · [↑ back to the list](#last-50-posts)
 
 > I am putting all world law into git. That comes with some quirks, like the cut-off being 1970 (commits are calculated as seconds since 1 January 1970).
 >
@@ -708,16 +812,20 @@ Link: <https://www.reddit.com/r/SampleSize/comments/1xmi6rk/survey_on_refill_pro
 >
 > [https://github.com/lexifina/global-law](https://github.com/lexifina/global-law)
 
+<a id="post-53"></a>
+
 ### 53. 50,416 hours of American police radio audio from 6 regions
 
-2026-10-25 · u/WithoutReason1729 · dataset · score 15 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xepo60/50416_hours_of_american_police_radio_audio_from_6/)
+2026-10-25 · u/WithoutReason1729 · dataset · score 15 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xepo60/50416_hours_of_american_police_radio_audio_from_6/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 
 
+<a id="post-54"></a>
+
 ### 54. \[self-promotion\] Free financial data API for AI agents and LLMs: full-text SEC filings, earnings call transcripts, 13F, congressional trades, short interest (a Financial Datasets alternative with a free tier)
 
-2026-10-17 · u/DanielAPO · API · score 12 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x8mbyt/selfpromotion_free_financial_data_api_for_ai/)
+2026-10-17 · u/DanielAPO · API · score 12 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x8mbyt/selfpromotion_free_financial_data_api_for_ai/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I run this, it's Equibles. In May I posted the self-hosted version of the pipeline here. This is the hosted one, which now also covers non-US stocks and is built to be used by AI agents (over MCP) as well as by code (REST).
 >
@@ -746,15 +854,19 @@ Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 >
 > So that's the pitch, a free financial data API for AI agents and the humans who build them. What would make it more useful as a dataset source for you: bulk files for more datasets, point-in-time snapshots, something else?
 
+<a id="post-55"></a>
+
 ### 55. Indian Government Open Data set is not working
 
-2026-10-12 · u/byangomaaa · API · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x403ks/indian_government_open_data_set_is_not_working/)
+2026-10-12 · u/byangomaaa · API · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x403ks/indian_government_open_data_set_is_not_working/) · [↑ back to the list](#last-50-posts)
 
 > Indian Government has a website for fetching open data www.data.gov.in? But I am unable to get data from it. Has anyone tried.. is it working?
 
+<a id="post-56"></a>
+
 ### 56. \[dataset\] 1,309 viral events with 19,732 dated timeline events (CC BY 4.0)
 
-2026-10-25 · u/sirjoaco · dataset · score 10 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xfammx/dataset_1309_viral_events_with_19732_dated/)
+2026-10-25 · u/sirjoaco · dataset · score 10 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xfammx/dataset_1309_viral_events_with_19732_dated/) · [↑ back to the list](#last-50-posts)
 
 > Each event is one step in how something spread: the first post, who picked it up, a jump to a new platform, press, the peak. Rows have a date, platform and actor, and 92% link to the source post. Two CSVs plus JSON, joined on case_id.
 >
@@ -762,9 +874,11 @@ Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 >
 > Caveat: everything in it went viral, so it can't tell you the odds of going viral. Timelines were compiled with LLM help; a verification column says how far each case was checked.
 
+<a id="post-57"></a>
+
 ### 57. \[Self-promotion\] Free daily US job openings index from 18,000+ employers' own career sites (CSV, CC BY 4.0)
 
-2026-10-11 · u/SpiteMaximum3570 · dataset · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x3ho5p/selfpromotion_free_daily_us_job_openings_index/)
+2026-10-11 · u/SpiteMaximum3570 · dataset · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x3ho5p/selfpromotion_free_daily_us_job_openings_index/) · [↑ back to the list](#last-50-posts)
 
 > I run VeritaHire, which reads job postings straight from US employers' own career sites (Workday, Greenhouse, iCIMS and others) every day, about 2.5 million live postings right now. From that I publish a daily Job Openings Index, free on GitHub:
 >
@@ -780,9 +894,11 @@ Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 >
 > Latest: 101.06 (7-day average) through Oct 10, +1.13% over 28 days. Method: [https://veritahire.com/job-openings-index/](https://veritahire.com/job-openings-index/)
 
+<a id="post-58"></a>
+
 ### 58. \[Dataset\] Google Trends "will AI replace \[job\]" index for 56 jobs, monthly 2020 to 2026 (CC BY)
 
-2026-11-01 · u/vaitko · resource · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xkz0cl/dataset_google_trends_will_ai_replace_job_index/)
+2026-11-01 · u/vaitko · resource · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xkz0cl/dataset_google_trends_will_ai_replace_job_index/) · [↑ back to the list](#last-50-posts)
 
 > I put together a small dataset on how often people google whether AI will replace their job.
 >
@@ -814,9 +930,11 @@ Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 >
 > Method and charts: [https://scrollytelling.ai/what-jobs-will-ai-replace/](https://scrollytelling.ai/what-jobs-will-ai-replace/)
 
+<a id="post-59"></a>
+
 ### 59. \[self-promotion\] All 11,064 living bird species (IOC 15.2): names in 43 languages, eBird/GBIF/Wikidata/iNat IDs, AVONET traits, IUCN status, plus an illustration for each
 
-2026-10-30 · u/Internal-Purpose5469 · dataset · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xjkoeb/selfpromotion_all_11064_living_bird_species_ioc/)
+2026-10-30 · u/Internal-Purpose5469 · dataset · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xjkoeb/selfpromotion_all_11064_living_bird_species_ioc/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I made this, and the illustrations are AI-generated (details below).
 >
@@ -842,9 +960,11 @@ Link: <https://huggingface.co/datasets/trentmkelly/police-scanner-audio>
 >
 > Happy to hear about mismatches. IOC vs eBird/Clements splits and lumps are where I expect most of the ID errors.
 
+<a id="post-60"></a>
+
 ### 60. Weekly counts of software jobs by job type, skills and years asked, from about 255 company career boards (CSV, CC BY 4.0)
 
-2026-10-21 · u/dw_mt · dataset · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xbgk86/weekly_counts_of_software_jobs_by_job_type_skills/)
+2026-10-21 · u/dw_mt · dataset · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xbgk86/weekly_counts_of_software_jobs_by_job_type_skills/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 
@@ -880,9 +1000,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > **Disclosure**: I made this, it's my project (Glassbox). The data is CC BY 4.0 and the story needs no sign up. I'd like to hear what you'd want counted next.
 
+<a id="post-61"></a>
+
 ### 61. 15,908 answers from 378 AI models to the same 87 prompts, May 2024 to now (CC BY 4.0)
 
-2026-10-12 · u/sirjoaco · dataset · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x42c83/15908_answers_from_378_ai_models_to_the_same_87/)
+2026-10-12 · u/sirjoaco · dataset · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x42c83/15908_answers_from_378_ai_models_to_the_same_87/) · [↑ back to the list](#last-50-posts)
 
 > Since May 2024 every new model got the same prompts: draw a pelican on a bicycle as an SVG, build a landing page in one HTML file, tell five jokes, pick a favourite film, 87 in all. One attempt each, no system prompt, temp 0.7. I kept every answer, and it's now a dataset:
 >
@@ -899,9 +1021,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > Disclosure: I made the museum and the dataset.
 
+<a id="post-62"></a>
+
 ### 62. \[Dataset\] Instagram follower networks, suspicious spikes, and possible coordinated activity
 
-2026-10-12 · u/gavrilo91 · resource · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x3z7z0/dataset_instagram_follower_networks_suspicious/)
+2026-10-12 · u/gavrilo91 · resource · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x3z7z0/dataset_instagram_follower_networks_suspicious/) · [↑ back to the list](#last-50-posts)
 
 > With parliamentary elections approaching in Serbia, numerous Instagram accounts critical of the ruling government have experienced sudden waves of suspicious followers, sometimes thousands within just a few hours.
 >
@@ -917,9 +1041,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > Feel free to play around with it, build something, or share whatever you discover. I'd be genuinely interested in seeing different approaches and interpretations.
 
+<a id="post-63"></a>
+
 ### 63. Looking for European mortgage loan-level data for survival analysis (Master's thesis)
 
-2026-10-15 · u/Best_Celebration_933 · dataset · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x6hifg/looking_for_european_mortgage_loanlevel_data_for/)
+2026-10-15 · u/Best_Celebration_933 · dataset · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x6hifg/looking_for_european_mortgage_loanlevel_data_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -951,9 +1077,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > Thanks in advance!
 
+<a id="post-64"></a>
+
 ### 64. Source for streaming subscription prices per country (Netflix, Disney+, Max, Prime Video etc.)?
 
-2026-10-16 · u/BingeBossTv · question · score 6 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x787hc/source_for_streaming_subscription_prices_per/)
+2026-10-16 · u/BingeBossTv · question · score 6 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1x787hc/source_for_streaming_subscription_prices_per/) · [↑ back to the list](#last-50-posts)
 
 > I'm building a streaming price comparison and need monthly subscription prices per plan, in local currency, for \~60-100 countries. Services: Netflix, Disney+, Max, Prime Video, Apple TV+, Hulu, Peacock, Paramount+, Crunchyroll, plus regional ones like Viaplay and SkyShowtime.  
 >
@@ -967,9 +1095,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > Paid sources are fine too if the licence allows showing prices on a public site.
 
+<a id="post-65"></a>
+
 ### 65. US WARN layoff notices by state (California, Florida, New York, Tennessee, Maryland) as free cumulative CSVs from the state labour departments
 
-2026-10-21 · u/Tasty_Director_9553 · dataset · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xbidg7/us_warn_layoff_notices_by_state_california/)
+2026-10-21 · u/Tasty_Director_9553 · dataset · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xbidg7/us_warn_layoff_notices_by_state_california/) · [↑ back to the list](#last-50-posts)
 
 > Money Tracker Daily publishes every WARN layoff notice filed with five state labour departments (California EDD, FloridaCommerce, New York State Department of Labor, Tennessee Department of Labor and Workforce Development, Maryland Department of Labor) as free cumulative CSVs, licensed CC BY 4.0.
 >
@@ -983,9 +1113,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > (I run the site. Happy to answer questions about how the data is collected.)
 
+<a id="post-66"></a>
+
 ### 66. \[Dataset\] Football managers and trophies at 35 European clubs, 1955/56–2025/26: feedback and historical sources welcome
 
-2026-10-19 · u/kingjaynl · dataset · score 5 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xa36dl/dataset_football_managers_and_trophies_at_35/)
+2026-10-19 · u/kingjaynl · dataset · score 5 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xa36dl/dataset_football_managers_and_trophies_at_35/) · [↑ back to the list](#last-50-posts)
 
 > Over the past two years, I’ve been compiling a historical dataset of football managers and club trophies for a project called Manager History.
 >
@@ -1028,9 +1160,11 @@ Link: <https://github.com/DerrickWawerumuturi/glassbox-job-counts>
 >
 > Disclosure: I created the dataset and website. The JSON currently identifies its export date as 2 October 2026.
 
+<a id="post-67"></a>
+
 ### 67. \[Academic Research\] Looking for Historical SteamDB / Steam Data on International Market Entry and Regional Pricing
 
-2026-10-22 · u/Traditional_Kiwi_871 · resource · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xcar3h/academic_research_looking_for_historical_steamdb/)
+2026-10-22 · u/Traditional_Kiwi_871 · resource · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/datasets/comments/1xcar3h/academic_research_looking_for_historical_steamdb/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >

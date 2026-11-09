@@ -55,56 +55,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [16 short prompts I type to my coding agents](https://www.reddit.com/r/ChatGPTCoding/comments/1xpyjta/16_short_prompts_i_type_to_my_coding_agents/) | u/h____ | Resources And Tips | text | 6 | 16 | live | — |
-| 2 | 2026-11-07 | [ripple-65b-preview running locally scored 38, 49 and 27 out of 50. the 49 is the run that hit the most errors](https://www.reddit.com/r/ChatGPTCoding/comments/1xpspqn/ripple65bpreview_running_locally_scored_38_49_and/) | u/Ok-Brush8377 | Discussion | i.redd.it | 4 | 5 | live | — |
-| 3 | 2026-11-07 | [Vibe coding an entire survival RPG with ChatGPT — how do I stop spending 20+ minutes on half-baked updates?](https://www.reddit.com/r/ChatGPTCoding/comments/1xpscow/vibe_coding_an_entire_survival_rpg_with_chatgpt/) | u/Ok-Repeat-4724 | Question | i.redd.it | 1 | 1 | spam-filtered | — |
-| 4 | 2026-11-06 | [Cursor stopped serving third party Anthropic and OpenAI models](https://www.reddit.com/r/ChatGPTCoding/comments/1xpr38u/cursor_stopped_serving_third_party_anthropic_and/) | u/aravind-manoj | Discussion | text | 4 | 7 | approved | — |
-| 5 | 2026-11-06 | [One place to watch Codex, Claude Code and Cursor at once: the MacBook notch](https://www.reddit.com/r/ChatGPTCoding/comments/1xpqn6t/one_place_to_watch_codex_claude_code_and_cursor/) | u/Nkgsporty | Resources And Tips | reddit.com | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-06 | [Quick way to see how much of each API call is your system prompt and tools](https://www.reddit.com/r/ChatGPTCoding/comments/1xpn8og/quick_way_to_see_how_much_of_each_api_call_is/) | u/behrouzbk | Resources And Tips | text | 0 | 1 | live | — |
-| 7 | 2026-11-06 | [Galactica, a TypeScript codebase map for developers and agents](https://www.reddit.com/r/ChatGPTCoding/comments/1xpmj8b/galactica_a_typescript_codebase_map_for/) | u/zcserei | Resources And Tips | i.redd.it | 1 | 1 | spam-filtered | — |
-| 8 | 2026-11-06 | [How are you handling regression testing when coding with ChatGPT?](https://www.reddit.com/r/ChatGPTCoding/comments/1xplssb/how_are_you_handling_regression_testing_when/) | u/_ACTUALin | Discussion | text | 0 | 16 | live | — |
-| 9 | 2026-11-06 | [Anyone else spending more time testing their AI-built software than actually building it?](https://www.reddit.com/r/ChatGPTCoding/comments/1xpln7f/anyone_else_spending_more_time_testing_their/) | u/_ACTUALin | Discussion | text | 1 | 0 | spam-filtered | — |
-| 10 | 2026-11-06 | [Measuring "cost per successful PR" chose Luna 6 low as the best model even though it scored the lowest on qua…](https://www.reddit.com/r/ChatGPTCoding/comments/1xpjato/measuring_cost_per_successful_pr_chose_luna_6_low/) | u/bisonbear2 | Discussion | text | 1 | 3 | live | — |
-| 11 | 2026-11-06 | [One place to watch Claude Code, Codex and Cursor at once: the MacBook notch](https://www.reddit.com/r/ChatGPTCoding/comments/1xphyxt/one_place_to_watch_claude_code_codex_and_cursor/) | u/Nkgsporty | Resources And Tips | reddit.com | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-06 | [Why do people around still afraid or shame when it comes to using the term "vibe-coding" in 2026?](https://www.reddit.com/r/ChatGPTCoding/comments/1xph74l/why_do_people_around_still_afraid_or_shame_when/) | u/No-Track-3259 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-06 | [What AI/tool should I use?](https://www.reddit.com/r/ChatGPTCoding/comments/1xpfc9t/what_aitool_should_i_use/) | u/protean-bean | Question | text | 3 | 4 | approved | — |
-| 14 | 2026-11-06 | [Coding assistants forget at the session boundary — hooks fixed it for me](https://www.reddit.com/r/ChatGPTCoding/comments/1xpf7ct/coding_assistants_forget_at_the_session_boundary/) | u/Neither-Witness-6010 | Discussion | text | 0 | 0 | spam-filtered | — |
-| 15 | 2026-11-06 | [I produce more code than I can actually review.](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdr92/i_produce_more_code_than_i_can_actually_review/) | u/Shalyd | Question | text | 1 | 1 | spam-filtered | Just like this post. -- This post or comment has been removed for the following reason: **Rule 6: N… |
-| 16 | 2026-11-06 | [are we actually getting our money's worth from ai coding agents?](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdb8z/are_we_actually_getting_our_moneys_worth_from_ai/) | u/entelligenceai17 | Resources And Tips | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-11-06 | [Why asking the same coding agent to review its own branch misses bugs (and the two CLI commands we use for cr…](https://www.reddit.com/r/ChatGPTCoding/comments/1xpcaes/why_asking_the_same_coding_agent_to_review_its/) | u/Independent-Sir3234 | Resources And Tips | i.redd.it | 1 | 0 | spam-filtered | — |
-| 18 | 2026-11-06 | [the first coding agent with the power of regenerative software](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9tls/the_first_coding_agent_with_the_power_of/) | u/the_juan_1 | Resources And Tips | text | 1 | 2 | removed by mod | — |
-| 19 | 2026-11-06 | [turri - the first coding agent with the power of regenerative software](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9rbl/turri_the_first_coding_agent_with_the_power_of/) | u/the_juan_1 | Resources And Tips | i.redd.it | 1 | 0 | spam-filtered | — |
-| 20 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp93ef/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) | u/hottown | Resources And Tips | i.redd.it | 11 | 5 | live | — |
-| 21 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp92qm/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) | u/hottown | Resources And Tips | text | 1 | 0 | live | — |
-| 22 | 2026-11-06 | [I created a skill that makes any agent start its change summaries with a map of what changed](https://www.reddit.com/r/ChatGPTCoding/comments/1xp8rle/i_created_a_skill_that_makes_any_agent_start_its/) | u/alexmazawd | Resources And Tips | text | 1 | 1 | removed by mod | — |
-| 23 | 2026-11-06 | [More than 1 Claude Ultra Plan?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp7o33/more_than_1_claude_ultra_plan/) | u/0xcydj | Question | text | 0 | 10 | approved | — |
-| 24 | 2026-11-06 | [A small handoff checklist for switching coding agents mid-task](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6wgd/a_small_handoff_checklist_for_switching_coding/) | u/sam_req2code | Resources And Tips | text | 0 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
-| 25 | 2026-11-06 | [How I stopped losing time to coding agents waiting on me](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6qw2/how_i_stopped_losing_time_to_coding_agents/) | u/Significant-Sea-7238 | Discussion | v.redd.it | 2 | 1 | removed by mod | — |
-| 26 | 2026-11-06 | [How do you keep local coding agents running on a MacBook with the lid closed?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5z8v/how_do_you_keep_local_coding_agents_running_on_a/) | u/Puzzled_Sea3771 | Question | text | 17 | 28 | approved | — |
-| 27 | 2026-11-06 | [apple’s 10-K says AI agents may “behave in unintended or unpredictable ways”. meanwhile i gave mine full repo…](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5okz/apples_10k_says_ai_agents_may_behave_in/) | u/Entire_Struggle_2236 | Discussion | text | 0 | 0 | live | — |
-| 28 | 2026-11-06 | [Can I get an honest review on my website, please?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp3kwr/can_i_get_an_honest_review_on_my_website_please/) | u/Samthehooper_109 | Question | text | 1 | 1 | spam-filtered | Sorry, we don't accept this kind of feedback post right now. Only exception could be made for no li… |
-| 29 | 2026-11-06 | [We built a checker skill for people who built their app by chatting with AI](https://www.reddit.com/r/ChatGPTCoding/comments/1xp23vy/we_built_a_checker_skill_for_people_who_built/) | u/Strong_Turnip8429 | Resources And Tips | text | 1 | 1 | removed by mod | https://www.reddit.com/r/reddit.com/wiki/selfpromotion/ -- This post or comment has been removed fo… |
-| 30 | 2026-11-06 | [Chat → Work handoff not using the default model of Luna - uses Sol instead](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1r8i/chat_work_handoff_not_using_the_default_model_of/) | u/hdmiusbc | Question | text | 3 | 0 | live | — |
-| 31 | 2026-11-06 | [I built a directory of MCP servers that people and AI agents can search](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1pts/i_built_a_directory_of_mcp_servers_that_people/) | u/Demo12133 | Discussion | text | 0 | 0 | spam-filtered | — |
-| 32 | 2026-11-06 | [ChatGPT's new image generation interface looks pretty cool. Anyone tried it yet?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp0zj5/chatgpts_new_image_generation_interface_looks/) | u/suryaaitis | Discussion | i.redd.it | 1 | 0 | spam-filtered | — |
-| 33 | 2026-11-06 | [Before you compare Qwen / DeepSeek / Kimi API prices: 4 billing details that changed my estimates](https://www.reddit.com/r/ChatGPTCoding/comments/1xoztnc/before_you_compare_qwen_deepseek_kimi_api_prices/) | u/kekesun | Discussion | text | 1 | 0 | spam-filtered | — |
-| 34 | 2026-11-06 | [A skill that saves Codex usage for thinking and hands the grunt-work coding to cheaper models](https://www.reddit.com/r/ChatGPTCoding/comments/1xozq9m/a_skill_that_saves_codex_usage_for_thinking_and/) | u/-jhesham- | Resources And Tips | text | 1 | 0 | spam-filtered | — |
-| 35 | 2026-11-06 | [Where do you still use web chat for coding, and where did a terminal agent take over?](https://www.reddit.com/r/ChatGPTCoding/comments/1xozppq/where_do_you_still_use_web_chat_for_coding_and/) | u/Consistent_Piano4250 | Discussion | text | 1 | 1 | spam-filtered | — |
-| 36 | 2026-11-05 | [I don't think human-in-the-loop holds up for coding agents](https://www.reddit.com/r/ChatGPTCoding/comments/1xovmyh/i_dont_think_humanintheloop_holds_up_for_coding/) | u/ShoddySherbert8502 | Discussion | text | 0 | 43 | live | — |
-| 37 | 2026-11-05 | [My dad wants to use an app I built with ChatGPT and now I'm worried I have no idea how to maintain it](https://www.reddit.com/r/ChatGPTCoding/comments/1xousa9/my_dad_wants_to_use_an_app_i_built_with_chatgpt/) | u/GarbageShot2697 | Question | text | 19 | 8 | spam-filtered | — |
-| 38 | 2026-11-05 | [Codex is eating up my storage – where is all the space going?](https://www.reddit.com/r/ChatGPTCoding/comments/1xot9w3/codex_is_eating_up_my_storage_where_is_all_the/) | u/yeah280 | Question | text | 4 | 12 | live | — |
-| 39 | 2026-11-05 | [Codex Windows projects disappeared after config error, but chats are still in Recents. Has anyone safely reco…](https://www.reddit.com/r/ChatGPTCoding/comments/1xorvib/codex_windows_projects_disappeared_after_config/) | u/Mysterious-Display90 | Question | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-11-05 | [Built 5 custom tools via AI vibe-coding (No pro tech background)—are these realistic to land full-time/contra…](https://www.reddit.com/r/ChatGPTCoding/comments/1xoppub/built_5_custom_tools_via_ai_vibecoding_no_pro/) | u/jmus9 | Question | text | 1 | 1 | spam-filtered | — |
-| 41 | 2026-11-05 | ["deslopifying" - the (painful) process of making AI output your own](https://www.reddit.com/r/ChatGPTCoding/comments/1xopc8e/deslopifying_the_painful_process_of_making_ai/) | u/Martinsos | Resources And Tips | martinsos.com | 7 | 1 | live | — |
-| 42 | 2026-11-05 | [The day has arrived; today I published my first video game :')](https://www.reddit.com/r/ChatGPTCoding/comments/1xootgu/the_day_has_arrived_today_i_published_my_first/) | u/PandaRojasStudios | News | i.redd.it | 0 | 2 | removed by mod | — |
-| 43 | 2026-11-05 | [DeepSeek / Qwen / Kimi API prices as of Nov 2026, plus 4 billing traps I keep seeing](https://www.reddit.com/r/ChatGPTCoding/comments/1xooq8p/deepseek_qwen_kimi_api_prices_as_of_nov_2026_plus/) | u/kekesun | Resources And Tips | text | 0 | 0 | approved | — |
-| 44 | 2026-11-05 | [710 Claude Code tests: Only 1 of 4 popular token saving tools actually saved money overall](https://www.reddit.com/r/ChatGPTCoding/comments/1xonufj/710_claude_code_tests_only_1_of_4_popular_token/) | u/Stunning_Company_209 | Resources And Tips | text | 1 | 0 | spam-filtered | — |
-| 45 | 2026-11-05 | [The job is reading now, not typing. Four habits for reviewing agent code, and the tool we built for the fourth](https://www.reddit.com/r/ChatGPTCoding/comments/1xonk0s/the_job_is_reading_now_not_typing_four_habits_for/) | u/shetritr | Resources And Tips | text | 1 | 0 | spam-filtered | — |
-| 46 | 2026-11-05 | [What are some interesting forums related to AI, and where can I upload the project code besides GitHub?](https://www.reddit.com/r/ChatGPTCoding/comments/1xomv5m/what_are_some_interesting_forums_related_to_ai/) | u/Proper-Sweet7330 | Discussion | text | 1 | 0 | spam-filtered | — |
-| 47 | 2026-11-05 | [I built Secure Git Bridge after getting tired of copy/pasting between AI and Terminal — looking for developer…](https://www.reddit.com/r/ChatGPTCoding/comments/1xomb26/i_built_secure_git_bridge_after_getting_tired_of/) | u/Securegitbridge | Discussion | i.redd.it | 1 | 0 | spam-filtered | — |
-| 48 | 2026-11-05 | [Where do you read about agent tooling outside Reddit?](https://www.reddit.com/r/ChatGPTCoding/comments/1xolo9d/where_do_you_read_about_agent_tooling_outside/) | u/Proper-Sweet7330 | Discussion | text | 1 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
-| 49 | 2026-11-05 | [Where do you actually read about model endpoints and gateway pricing?](https://www.reddit.com/r/ChatGPTCoding/comments/1xoljs0/where_do_you_actually_read_about_model_endpoints/) | u/Proper-Sweet7330 | Discussion | text | 1 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
-| 50 | 2026-11-05 | [Codex added a bunch of stuff I never asked for.](https://www.reddit.com/r/ChatGPTCoding/comments/1xok3m7/codex_added_a_bunch_of_stuff_i_never_asked_for/) | u/BigSuggestion6944 | Discussion | text | 0 | 5 | approved | — |
+| 1 | 2026-11-07 | [16 short prompts I type to my coding agents](#post-1) | u/h____ | Resources And Tips | text | 6 | 16 | live | — |
+| 2 | 2026-11-07 | [ripple-65b-preview running locally scored 38, 49 and 27 out of 50. the 49 is the run that hit the most errors](#post-2) | u/Ok-Brush8377 | Discussion | i.redd.it | 4 | 5 | live | — |
+| 3 | 2026-11-07 | [Vibe coding an entire survival RPG with ChatGPT — how do I stop spending 20+ minutes on half-baked updates?](#post-3) | u/Ok-Repeat-4724 | Question | i.redd.it | 1 | 1 | spam-filtered | — |
+| 4 | 2026-11-06 | [Cursor stopped serving third party Anthropic and OpenAI models](#post-4) | u/aravind-manoj | Discussion | text | 4 | 7 | approved | — |
+| 5 | 2026-11-06 | [One place to watch Codex, Claude Code and Cursor at once: the MacBook notch](#post-5) | u/Nkgsporty | Resources And Tips | reddit.com | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-06 | [Quick way to see how much of each API call is your system prompt and tools](#post-6) | u/behrouzbk | Resources And Tips | text | 0 | 1 | live | — |
+| 7 | 2026-11-06 | [Galactica, a TypeScript codebase map for developers and agents](#post-7) | u/zcserei | Resources And Tips | i.redd.it | 1 | 1 | spam-filtered | — |
+| 8 | 2026-11-06 | [How are you handling regression testing when coding with ChatGPT?](#post-8) | u/_ACTUALin | Discussion | text | 0 | 16 | live | — |
+| 9 | 2026-11-06 | [Anyone else spending more time testing their AI-built software than actually building it?](#post-9) | u/_ACTUALin | Discussion | text | 1 | 0 | spam-filtered | — |
+| 10 | 2026-11-06 | [Measuring "cost per successful PR" chose Luna 6 low as the best model even though it scored the lowest on qua…](#post-10) | u/bisonbear2 | Discussion | text | 1 | 3 | live | — |
+| 11 | 2026-11-06 | [One place to watch Claude Code, Codex and Cursor at once: the MacBook notch](#post-11) | u/Nkgsporty | Resources And Tips | reddit.com | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-06 | [Why do people around still afraid or shame when it comes to using the term "vibe-coding" in 2026?](#post-12) | u/No-Track-3259 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-06 | [What AI/tool should I use?](#post-13) | u/protean-bean | Question | text | 3 | 4 | approved | — |
+| 14 | 2026-11-06 | [Coding assistants forget at the session boundary — hooks fixed it for me](#post-14) | u/Neither-Witness-6010 | Discussion | text | 0 | 0 | spam-filtered | — |
+| 15 | 2026-11-06 | [I produce more code than I can actually review.](#post-15) | u/Shalyd | Question | text | 1 | 1 | spam-filtered | Just like this post. -- This post or comment has been removed for the following reason: **Rule 6: N… |
+| 16 | 2026-11-06 | [are we actually getting our money's worth from ai coding agents?](#post-16) | u/entelligenceai17 | Resources And Tips | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-11-06 | [Why asking the same coding agent to review its own branch misses bugs (and the two CLI commands we use for cr…](#post-17) | u/Independent-Sir3234 | Resources And Tips | i.redd.it | 1 | 0 | spam-filtered | — |
+| 18 | 2026-11-06 | [the first coding agent with the power of regenerative software](#post-18) | u/the_juan_1 | Resources And Tips | text | 1 | 2 | removed by mod | — |
+| 19 | 2026-11-06 | [turri - the first coding agent with the power of regenerative software](#post-19) | u/the_juan_1 | Resources And Tips | i.redd.it | 1 | 0 | spam-filtered | — |
+| 20 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](#post-20) | u/hottown | Resources And Tips | i.redd.it | 11 | 5 | live | — |
+| 21 | 2026-11-06 | [MCP vs API vs CLI: How Should AI Agents Connect to Your App?](#post-21) | u/hottown | Resources And Tips | text | 1 | 0 | live | — |
+| 22 | 2026-11-06 | [I created a skill that makes any agent start its change summaries with a map of what changed](#post-22) | u/alexmazawd | Resources And Tips | text | 1 | 1 | removed by mod | — |
+| 23 | 2026-11-06 | [More than 1 Claude Ultra Plan?](#post-23) | u/0xcydj | Question | text | 0 | 10 | approved | — |
+| 24 | 2026-11-06 | [A small handoff checklist for switching coding agents mid-task](#post-24) | u/sam_req2code | Resources And Tips | text | 0 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
+| 25 | 2026-11-06 | [How I stopped losing time to coding agents waiting on me](#post-25) | u/Significant-Sea-7238 | Discussion | v.redd.it | 2 | 1 | removed by mod | — |
+| 26 | 2026-11-06 | [How do you keep local coding agents running on a MacBook with the lid closed?](#post-26) | u/Puzzled_Sea3771 | Question | text | 17 | 28 | approved | — |
+| 27 | 2026-11-06 | [apple’s 10-K says AI agents may “behave in unintended or unpredictable ways”. meanwhile i gave mine full repo…](#post-27) | u/Entire_Struggle_2236 | Discussion | text | 0 | 0 | live | — |
+| 28 | 2026-11-06 | [Can I get an honest review on my website, please?](#post-28) | u/Samthehooper_109 | Question | text | 1 | 1 | spam-filtered | Sorry, we don't accept this kind of feedback post right now. Only exception could be made for no li… |
+| 29 | 2026-11-06 | [We built a checker skill for people who built their app by chatting with AI](#post-29) | u/Strong_Turnip8429 | Resources And Tips | text | 1 | 1 | removed by mod | https://www.reddit.com/r/reddit.com/wiki/selfpromotion/ -- This post or comment has been removed fo… |
+| 30 | 2026-11-06 | [Chat → Work handoff not using the default model of Luna - uses Sol instead](#post-30) | u/hdmiusbc | Question | text | 3 | 0 | live | — |
+| 31 | 2026-11-06 | [I built a directory of MCP servers that people and AI agents can search](#post-31) | u/Demo12133 | Discussion | text | 0 | 0 | spam-filtered | — |
+| 32 | 2026-11-06 | [ChatGPT's new image generation interface looks pretty cool. Anyone tried it yet?](#post-32) | u/suryaaitis | Discussion | i.redd.it | 1 | 0 | spam-filtered | — |
+| 33 | 2026-11-06 | [Before you compare Qwen / DeepSeek / Kimi API prices: 4 billing details that changed my estimates](#post-33) | u/kekesun | Discussion | text | 1 | 0 | spam-filtered | — |
+| 34 | 2026-11-06 | [A skill that saves Codex usage for thinking and hands the grunt-work coding to cheaper models](#post-34) | u/-jhesham- | Resources And Tips | text | 1 | 0 | spam-filtered | — |
+| 35 | 2026-11-06 | [Where do you still use web chat for coding, and where did a terminal agent take over?](#post-35) | u/Consistent_Piano4250 | Discussion | text | 1 | 1 | spam-filtered | — |
+| 36 | 2026-11-05 | [I don't think human-in-the-loop holds up for coding agents](#post-36) | u/ShoddySherbert8502 | Discussion | text | 0 | 43 | live | — |
+| 37 | 2026-11-05 | [My dad wants to use an app I built with ChatGPT and now I'm worried I have no idea how to maintain it](#post-37) | u/GarbageShot2697 | Question | text | 19 | 8 | spam-filtered | — |
+| 38 | 2026-11-05 | [Codex is eating up my storage – where is all the space going?](#post-38) | u/yeah280 | Question | text | 4 | 12 | live | — |
+| 39 | 2026-11-05 | [Codex Windows projects disappeared after config error, but chats are still in Recents. Has anyone safely reco…](#post-39) | u/Mysterious-Display90 | Question | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-11-05 | [Built 5 custom tools via AI vibe-coding (No pro tech background)—are these realistic to land full-time/contra…](#post-40) | u/jmus9 | Question | text | 1 | 1 | spam-filtered | — |
+| 41 | 2026-11-05 | ["deslopifying" - the (painful) process of making AI output your own](#post-41) | u/Martinsos | Resources And Tips | martinsos.com | 7 | 1 | live | — |
+| 42 | 2026-11-05 | [The day has arrived; today I published my first video game :')](#post-42) | u/PandaRojasStudios | News | i.redd.it | 0 | 2 | removed by mod | — |
+| 43 | 2026-11-05 | [DeepSeek / Qwen / Kimi API prices as of Nov 2026, plus 4 billing traps I keep seeing](#post-43) | u/kekesun | Resources And Tips | text | 0 | 0 | approved | — |
+| 44 | 2026-11-05 | [710 Claude Code tests: Only 1 of 4 popular token saving tools actually saved money overall](#post-44) | u/Stunning_Company_209 | Resources And Tips | text | 1 | 0 | spam-filtered | — |
+| 45 | 2026-11-05 | [The job is reading now, not typing. Four habits for reviewing agent code, and the tool we built for the fourth](#post-45) | u/shetritr | Resources And Tips | text | 1 | 0 | spam-filtered | — |
+| 46 | 2026-11-05 | [What are some interesting forums related to AI, and where can I upload the project code besides GitHub?](#post-46) | u/Proper-Sweet7330 | Discussion | text | 1 | 0 | spam-filtered | — |
+| 47 | 2026-11-05 | [I built Secure Git Bridge after getting tired of copy/pasting between AI and Terminal — looking for developer…](#post-47) | u/Securegitbridge | Discussion | i.redd.it | 1 | 0 | spam-filtered | — |
+| 48 | 2026-11-05 | [Where do you read about agent tooling outside Reddit?](#post-48) | u/Proper-Sweet7330 | Discussion | text | 1 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
+| 49 | 2026-11-05 | [Where do you actually read about model endpoints and gateway pricing?](#post-49) | u/Proper-Sweet7330 | Discussion | text | 1 | 1 | spam-filtered | This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI ou… |
+| 50 | 2026-11-05 | [Codex added a bunch of stuff I never asked for.](#post-50) | u/BigSuggestion6944 | Discussion | text | 0 | 5 | approved | — |
 
 ## Top 20 posts, last 30 days
 
@@ -112,34 +112,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-26 | [The day I stopped writing assembly, and why the "LLMs code better than us" debate feels familiar](https://www.reddit.com/r/ChatGPTCoding/comments/1xg100c/the_day_i_stopped_writing_assembly_and_why_the/) | u/IdeacoupeTales | Discussion | text | 212 | 79 | live |
-| 52 | 2026-10-17 | [Anyone here using ChatGPT with Blender for character modeling?](https://www.reddit.com/r/ChatGPTCoding/comments/1x82z5u/anyone_here_using_chatgpt_with_blender_for/) | u/Fluid-Policy3414 | Question | i.redd.it | 98 | 46 | approved |
-| 53 | 2026-10-13 | [Agentic coding solves the easiest part of engineering and breaks the hardest](https://www.reddit.com/r/ChatGPTCoding/comments/1x4xadz/agentic_coding_solves_the_easiest_part_of/) | u/cgouguen | Discussion | text | 53 | 45 | live |
-| 54 | 2026-10-30 | [Best value AI subscription under 20$/200$ (updated for Artificial Analysis Intelligence Index v5.0)](https://www.reddit.com/r/ChatGPTCoding/comments/1xjoq1u/best_value_ai_subscription_under_20200_updated/) | u/popiazaza | Resources And Tips | reddit.com | 47 | 16 | live |
-| 55 | 2026-10-12 | [Why aren't we using AI to work at higher levels of abstraction?](https://www.reddit.com/r/ChatGPTCoding/comments/1x4680v/why_arent_we_using_ai_to_work_at_higher_levels_of/) | u/dtizzle27182 | Question | text | 45 | 40 | live |
-| 56 | 2026-10-24 | [ChatGPT Plus vs Claude Pro ($20) for learning to code and build projects?](https://www.reddit.com/r/ChatGPTCoding/comments/1xehr4u/chatgpt_plus_vs_claude_pro_20_for_learning_to/) | u/Consistent_Piglet928 | Question | text | 36 | 39 | approved |
-| 57 | 2026-10-29 | [My bottleneck moved from writing code to reviewing what the agents write. How do you review without just rubb…](https://www.reddit.com/r/ChatGPTCoding/comments/1xit1hg/my_bottleneck_moved_from_writing_code_to/) | u/Successful-Tax1306 | Discussion | text | 29 | 78 | live |
-| 58 | 2026-10-19 | [How do I make AI actually think and execute instead of constantly babysitting it?](https://www.reddit.com/r/ChatGPTCoding/comments/1xactqe/how_do_i_make_ai_actually_think_and_execute/) | u/Conscious-Shake391 | Question | text | 29 | 72 | live |
-| 59 | 2026-10-23 | [GitHub Actions getting really expensive. Any alternative?](https://www.reddit.com/r/ChatGPTCoding/comments/1xd9yqp/github_actions_getting_really_expensive_any/) | u/CellistOk6782 | Question | text | 29 | 48 | live |
-| 60 | 2026-10-16 | [We spend $30k/M on tokens! How to reduce it?](https://www.reddit.com/r/ChatGPTCoding/comments/1x7bgph/we_spend_30km_on_tokens_how_to_reduce_it/) | u/Shargules100 | Question | text | 22 | 116 | approved |
-| 61 | 2026-11-04 | [Are we reaching a point where reviewing code takes longer than writing it?](https://www.reddit.com/r/ChatGPTCoding/comments/1xnt7e9/are_we_reaching_a_point_where_reviewing_code/) | u/No_Comfortable9746 | Question | text | 21 | 44 | approved |
-| 62 | 2026-10-18 | [What Are the Biggest Weaknesses of Frontier Coding Models Like Claude Opus 5.5 and GPT-6?](https://www.reddit.com/r/ChatGPTCoding/comments/1x9d1kp/what_are_the_biggest_weaknesses_of_frontier/) | u/SadPossibility2338 | Discussion | text | 20 | 25 | approved |
-| 63 | 2026-10-12 | [Weekly Self Promotion Thread](https://www.reddit.com/r/ChatGPTCoding/comments/1x3vw47/weekly_self_promotion_thread/) | u/AutoModerator | Discussion | text | 19 | 138 | live |
-| 64 | 2026-10-23 | [Is Sol 6.1 good enough for day-to-day coding on the $20 plan?](https://www.reddit.com/r/ChatGPTCoding/comments/1xdrsvb/is_sol_61_good_enough_for_daytoday_coding_on_the/) | u/Brave_Salamander_417 | Question | text | 18 | 33 | approved |
-| 26 | 2026-11-06 | [How do you keep local coding agents running on a MacBook with the lid closed?](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5z8v/how_do_you_keep_local_coding_agents_running_on_a/) | u/Puzzled_Sea3771 | Question | text | 17 | 28 | approved |
-| 65 | 2026-10-19 | [Weekly Self Promotion Thread](https://www.reddit.com/r/ChatGPTCoding/comments/1x9qs5j/weekly_self_promotion_thread/) | u/AutoModerator | Discussion | text | 16 | 119 | live |
-| 66 | 2026-10-17 | [Claude found a security hole in my app and then refused to fix it](https://www.reddit.com/r/ChatGPTCoding/comments/1x852zo/claude_found_a_security_hole_in_my_app_and_then/) | u/No_Computer_1013 | Discussion | text | 16 | 14 | approved |
-| 67 | 2026-10-19 | [Writing down our architecture for the agents helped the cold start more than any prompt trick. What goes in y…](https://www.reddit.com/r/ChatGPTCoding/comments/1xa27y4/writing_down_our_architecture_for_the_agents/) | u/Successful-Tax1306 | Discussion | text | 15 | 41 | live |
-| 68 | 2026-11-04 | [Four days with Codex and I genuinely can't believe how bad this experience has been](https://www.reddit.com/r/ChatGPTCoding/comments/1xnlgqm/four_days_with_codex_and_i_genuinely_cant_believe/) | u/v0id_user | Discussion | text | 15 | 29 | live |
-| 69 | 2026-10-28 | [How is it possible that GPT-6.1 SOL performs so much worse than Opus 4.7?](https://www.reddit.com/r/ChatGPTCoding/comments/1xhp0hb/how_is_it_possible_that_gpt61_sol_performs_so/) | u/Peon117 | Discussion | text | 15 | 15 | approved |
+| 51 | 2026-10-26 | [The day I stopped writing assembly, and why the "LLMs code better than us" debate feels familiar](#post-51) | u/IdeacoupeTales | Discussion | text | 212 | 79 | live |
+| 52 | 2026-10-17 | [Anyone here using ChatGPT with Blender for character modeling?](#post-52) | u/Fluid-Policy3414 | Question | i.redd.it | 98 | 46 | approved |
+| 53 | 2026-10-13 | [Agentic coding solves the easiest part of engineering and breaks the hardest](#post-53) | u/cgouguen | Discussion | text | 53 | 45 | live |
+| 54 | 2026-10-30 | [Best value AI subscription under 20$/200$ (updated for Artificial Analysis Intelligence Index v5.0)](#post-54) | u/popiazaza | Resources And Tips | reddit.com | 47 | 16 | live |
+| 55 | 2026-10-12 | [Why aren't we using AI to work at higher levels of abstraction?](#post-55) | u/dtizzle27182 | Question | text | 45 | 40 | live |
+| 56 | 2026-10-24 | [ChatGPT Plus vs Claude Pro ($20) for learning to code and build projects?](#post-56) | u/Consistent_Piglet928 | Question | text | 36 | 39 | approved |
+| 57 | 2026-10-29 | [My bottleneck moved from writing code to reviewing what the agents write. How do you review without just rubb…](#post-57) | u/Successful-Tax1306 | Discussion | text | 29 | 78 | live |
+| 58 | 2026-10-19 | [How do I make AI actually think and execute instead of constantly babysitting it?](#post-58) | u/Conscious-Shake391 | Question | text | 29 | 72 | live |
+| 59 | 2026-10-23 | [GitHub Actions getting really expensive. Any alternative?](#post-59) | u/CellistOk6782 | Question | text | 29 | 48 | live |
+| 60 | 2026-10-16 | [We spend $30k/M on tokens! How to reduce it?](#post-60) | u/Shargules100 | Question | text | 22 | 116 | approved |
+| 61 | 2026-11-04 | [Are we reaching a point where reviewing code takes longer than writing it?](#post-61) | u/No_Comfortable9746 | Question | text | 21 | 44 | approved |
+| 62 | 2026-10-18 | [What Are the Biggest Weaknesses of Frontier Coding Models Like Claude Opus 5.5 and GPT-6?](#post-62) | u/SadPossibility2338 | Discussion | text | 20 | 25 | approved |
+| 63 | 2026-10-12 | [Weekly Self Promotion Thread](#post-63) | u/AutoModerator | Discussion | text | 19 | 138 | live |
+| 64 | 2026-10-23 | [Is Sol 6.1 good enough for day-to-day coding on the $20 plan?](#post-64) | u/Brave_Salamander_417 | Question | text | 18 | 33 | approved |
+| 26 | 2026-11-06 | [How do you keep local coding agents running on a MacBook with the lid closed?](#post-26) | u/Puzzled_Sea3771 | Question | text | 17 | 28 | approved |
+| 65 | 2026-10-19 | [Weekly Self Promotion Thread](#post-65) | u/AutoModerator | Discussion | text | 16 | 119 | live |
+| 66 | 2026-10-17 | [Claude found a security hole in my app and then refused to fix it](#post-66) | u/No_Computer_1013 | Discussion | text | 16 | 14 | approved |
+| 67 | 2026-10-19 | [Writing down our architecture for the agents helped the cold start more than any prompt trick. What goes in y…](#post-67) | u/Successful-Tax1306 | Discussion | text | 15 | 41 | live |
+| 68 | 2026-11-04 | [Four days with Codex and I genuinely can't believe how bad this experience has been](#post-68) | u/v0id_user | Discussion | text | 15 | 29 | live |
+| 69 | 2026-10-28 | [How is it possible that GPT-6.1 SOL performs so much worse than Opus 4.7?](#post-69) | u/Peon117 | Discussion | text | 15 | 15 | approved |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. 16 short prompts I type to my coding agents
 
-2026-11-07 · u/h____ · Resources And Tips · score 6 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpyjta/16_short_prompts_i_type_to_my_coding_agents/)
+2026-11-07 · u/h____ · Resources And Tips · score 6 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpyjta/16_short_prompts_i_type_to_my_coding_agents/) · [↑ back to the list](#last-50-posts)
 
 > Most of these prompts are a sentence or two. One is two words: "Elaborate, simply." I type it when an agent's update is too dense to follow.
 >
@@ -178,9 +180,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > What short prompts do you type over and over?
 
+<a id="post-2"></a>
+
 ### 2. ripple-65b-preview running locally scored 38, 49 and 27 out of 50. the 49 is the run that hit the most errors
 
-2026-11-07 · u/Ok-Brush8377 · Discussion · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpspqn/ripple65bpreview_running_locally_scored_38_49_and/)
+2026-11-07 · u/Ok-Brush8377 · Discussion · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpspqn/ripple65bpreview_running_locally_scored_38_49_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7h0scg4gy20i1.png>
 
@@ -209,17 +213,21 @@ Link: <https://i.redd.it/7h0scg4gy20i1.png>
 >
 > has anyone found a prompt that gets a local model to test edge cases before it says done, instead of stopping at the first green run?
 
+<a id="post-3"></a>
+
 ### 3. Vibe coding an entire survival RPG with ChatGPT — how do I stop spending 20+ minutes on half-baked updates?
 
-2026-11-07 · u/Ok-Repeat-4724 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpscow/vibe_coding_an_entire_survival_rpg_with_chatgpt/)
+2026-11-07 · u/Ok-Repeat-4724 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpscow/vibe_coding_an_entire_survival_rpg_with_chatgpt/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wmgrt49b130i1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. Cursor stopped serving third party Anthropic and OpenAI models
 
-2026-11-06 · u/aravind-manoj · Discussion · score 4 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpr38u/cursor_stopped_serving_third_party_anthropic_and/)
+2026-11-06 · u/aravind-manoj · Discussion · score 4 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpr38u/cursor_stopped_serving_third_party_anthropic_and/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/jzz4wrttq20i1.png
 >
@@ -235,17 +243,21 @@ Link: <https://i.redd.it/wmgrt49b130i1.jpeg>
 >
 > Seems like I need to switch to Claude or GPT subs. What are the thought on you guys?
 
+<a id="post-5"></a>
+
 ### 5. One place to watch Codex, Claude Code and Cursor at once: the MacBook notch
 
-2026-11-06 · u/Nkgsporty · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpqn6t/one_place_to_watch_codex_claude_code_and_cursor/)
+2026-11-06 · u/Nkgsporty · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpqn6t/one_place_to_watch_codex_claude_code_and_cursor/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpqn6t>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. Quick way to see how much of each API call is your system prompt and tools
 
-2026-11-06 · u/behrouzbk · Resources And Tips · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpn8og/quick_way_to_see_how_much_of_each_api_call_is/)
+2026-11-06 · u/behrouzbk · Resources And Tips · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpn8og/quick_way_to_see_how_much_of_each_api_call_is/) · [↑ back to the list](#last-50-posts)
 
 > If you call an LLM API with a system prompt and function/tool definitions, try this  
 > once:
@@ -261,17 +273,21 @@ Link: <https://www.reddit.com/gallery/1xpqn6t>
 >
 > Offline, MIT: [https://github.com/behrouzbk/tokensaver](https://github.com/behrouzbk/tokensaver)
 
+<a id="post-7"></a>
+
 ### 7. Galactica, a TypeScript codebase map for developers and agents
 
-2026-11-06 · u/zcserei · Resources And Tips · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpmj8b/galactica_a_typescript_codebase_map_for/)
+2026-11-06 · u/zcserei · Resources And Tips · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpmj8b/galactica_a_typescript_codebase_map_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vato4rkas10i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-8"></a>
+
 ### 8. How are you handling regression testing when coding with ChatGPT?
 
-2026-11-06 · u/_ACTUALin · Discussion · score 0 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xplssb/how_are_you_handling_regression_testing_when/)
+2026-11-06 · u/_ACTUALin · Discussion · score 0 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xplssb/how_are_you_handling_regression_testing_when/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/opkmas9zm10i1.png
 >
@@ -289,15 +305,19 @@ Link: <https://i.redd.it/vato4rkas10i1.png>
 >
 > For those using ChatGPT or Codex on larger projects, how are you actually handling this? Are you having AI write tests before making changes, using a separate agent to review fixes, or doing most of the verification yourself?
 
+<a id="post-9"></a>
+
 ### 9. Anyone else spending more time testing their AI-built software than actually building it?
 
-2026-11-06 · u/_ACTUALin · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpln7f/anyone_else_spending_more_time_testing_their/)
+2026-11-06 · u/_ACTUALin · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpln7f/anyone_else_spending_more_time_testing_their/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. Measuring "cost per successful PR" chose Luna 6 low as the best model even though it scored the lowest on quality
 
-2026-11-06 · u/bisonbear2 · Discussion · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpjato/measuring_cost_per_successful_pr_chose_luna_6_low/)
+2026-11-06 · u/bisonbear2 · Discussion · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpjato/measuring_cost_per_successful_pr_chose_luna_6_low/) · [↑ back to the list](#last-50-posts)
 
 > Cost per successful task/PR is starting to become the default in how we measure coding agent impact, as cited by inference providers like Baseten as the "most important metric to track".
 >
@@ -337,23 +357,29 @@ Link: <https://i.redd.it/vato4rkas10i1.png>
 >
 > Disclosure - I’m building the tool that was used to evaluate these agents.
 
+<a id="post-11"></a>
+
 ### 11. One place to watch Claude Code, Codex and Cursor at once: the MacBook notch
 
-2026-11-06 · u/Nkgsporty · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xphyxt/one_place_to_watch_claude_code_codex_and_cursor/)
+2026-11-06 · u/Nkgsporty · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xphyxt/one_place_to_watch_claude_code_codex_and_cursor/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xphyxt>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. Why do people around still afraid or shame when it comes to using the term "vibe-coding" in 2026?
 
-2026-11-06 · u/No-Track-3259 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xph74l/why_do_people_around_still_afraid_or_shame_when/)
+2026-11-06 · u/No-Track-3259 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xph74l/why_do_people_around_still_afraid_or_shame_when/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. What AI/tool should I use?
 
-2026-11-06 · u/protean-bean · Question · score 3 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpfc9t/what_aitool_should_i_use/)
+2026-11-06 · u/protean-bean · Question · score 3 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpfc9t/what_aitool_should_i_use/) · [↑ back to the list](#last-50-posts)
 
 > Recently, I’ve been trying to make my own game, and I still have a long way to go.
 >
@@ -369,37 +395,47 @@ Link: <https://www.reddit.com/gallery/1xphyxt>
 >
 > **So, my question is: Which AI tool would you recommend?** I want something official, reliable, and genuinely good for learning and working with Blender and 3D modeling. I’m willing to spend a decent amount, but I really dislike subscriptions and would prefer a pay-as-you-go API.
 
+<a id="post-14"></a>
+
 ### 14. Coding assistants forget at the session boundary — hooks fixed it for me
 
-2026-11-06 · u/Neither-Witness-6010 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpf7ct/coding_assistants_forget_at_the_session_boundary/)
+2026-11-06 · u/Neither-Witness-6010 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpf7ct/coding_assistants_forget_at_the_session_boundary/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-15"></a>
+
 ### 15. I produce more code than I can actually review.
 
-2026-11-06 · u/Shalyd · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdr92/i_produce_more_code_than_i_can_actually_review/)
+2026-11-06 · u/Shalyd · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdr92/i_produce_more_code_than_i_can_actually_review/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): Just like this post. -- This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI output or low-value walls of text. AI for grammar/clarity is fine. You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
 
+<a id="post-16"></a>
+
 ### 16. are we actually getting our money's worth from ai coding agents?
 
-2026-11-06 · u/entelligenceai17 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdb8z/are_we_actually_getting_our_moneys_worth_from_ai/)
+2026-11-06 · u/entelligenceai17 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpdb8z/are_we_actually_getting_our_moneys_worth_from_ai/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Why asking the same coding agent to review its own branch misses bugs (and the two CLI commands we use for cross-model review between Codex and Claude Code)
 
-2026-11-06 · u/Independent-Sir3234 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpcaes/why_asking_the_same_coding_agent_to_review_its/)
+2026-11-06 · u/Independent-Sir3234 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xpcaes/why_asking_the_same_coding_agent_to_review_its/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1bw03qy6qzzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. the first coding agent with the power of regenerative software
 
-2026-11-06 · u/the_juan_1 · Resources And Tips · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9tls/the_first_coding_agent_with_the_power_of/)
+2026-11-06 · u/the_juan_1 · Resources And Tips · score 1 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9tls/the_first_coding_agent_with_the_power_of/) · [↑ back to the list](#last-50-posts)
 
 > Using coding agents I noticed that I lost control over the software that I was building. I dont believe the human mind was designed to ingest thousands of lines of code every few minutes. And so I was accountable for something that I didn't really know how it works. That was a scary place for me to be in.   
 >
@@ -409,17 +445,21 @@ Link: <https://i.redd.it/1bw03qy6qzzh1.png>
 > [https://turri.dev/](https://turri.dev/)  
 > [https://github.com/turri-oss/turri](https://github.com/turri-oss/turri)
 
+<a id="post-19"></a>
+
 ### 19. turri - the first coding agent with the power of regenerative software
 
-2026-11-06 · u/the_juan_1 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9rbl/turri_the_first_coding_agent_with_the_power_of/)
+2026-11-06 · u/the_juan_1 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp9rbl/turri_the_first_coding_agent_with_the_power_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/15u5kf0x0zzh1.gif>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. MCP vs API vs CLI: How Should AI Agents Connect to Your App?
 
-2026-11-06 · u/hottown · Resources And Tips · score 11 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp93ef/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/)
+2026-11-06 · u/hottown · Resources And Tips · score 11 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp93ef/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/robt3qsptyzh1.jpeg>
 
@@ -441,9 +481,11 @@ Link: <https://i.redd.it/robt3qsptyzh1.jpeg>
 >
 > Here's the full guide: [https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app](https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app)
 
+<a id="post-21"></a>
+
 ### 21. MCP vs API vs CLI: How Should AI Agents Connect to Your App?
 
-2026-11-06 · u/hottown · Resources And Tips · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp92qm/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/)
+2026-11-06 · u/hottown · Resources And Tips · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp92qm/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/) · [↑ back to the list](#last-50-posts)
 
 > TL;DR:
 >
@@ -463,9 +505,11 @@ Link: <https://i.redd.it/robt3qsptyzh1.jpeg>
 >
 > Here's the full guide: [https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app](https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app)
 
+<a id="post-22"></a>
+
 ### 22. I created a skill that makes any agent start its change summaries with a map of what changed
 
-2026-11-06 · u/alexmazawd · Resources And Tips · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp8rle/i_created_a_skill_that_makes_any_agent_start_its/)
+2026-11-06 · u/alexmazawd · Resources And Tips · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp8rle/i_created_a_skill_that_makes_any_agent_start_its/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys, since I've transitioned to more agentic development one thing that was frustrating me a lot was the changes summary. Getting a long ass text mentioning a ton of files, classes, names... I understood what the agent was supposed to do (because I prompted it lol) but not what the agent actually did, and I had to go by myself through the code connecting the dots, until I had the full picture. And I'm not saying we're not supposed to do that, of course we need to review the code and understand the architecture, but I always thought "I wish there was a way to have a clearer overview of the summaries and understand in a glance what exactly happened. Then I can understand better the changes and redirect the agent or go myself to the interesting places to see if something is wrong or whatever"... so I developed it.
 >
@@ -479,25 +523,31 @@ Link: <https://i.redd.it/robt3qsptyzh1.jpeg>
 >
 > https://i.redd.it/ho6al70xpyzh1.png
 
+<a id="post-23"></a>
+
 ### 23. More than 1 Claude Ultra Plan?
 
-2026-11-06 · u/0xcydj · Question · score 0 · 10 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp7o33/more_than_1_claude_ultra_plan/)
+2026-11-06 · u/0xcydj · Question · score 0 · 10 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp7o33/more_than_1_claude_ultra_plan/) · [↑ back to the list](#last-50-posts)
 
 > The terms are unclear: no clause bans two accounts, but bans are reported, and switching accounts to get past a limit could count as bypassing protective measures. Unattended use on a subscription is already a grey area, which is what I do. On a weekly basis I use the entirety of the plan, and I know how to improve my workflow so that even more is used. IMO, the price will inevitably increase, and also I will finish what I want to finish faster with more plans, i.e., all else being equal, 2 subscriptions \* 1 month > 1 subscription \* 2 months.
 >
 > Would appreciate suggestions
 
+<a id="post-24"></a>
+
 ### 24. A small handoff checklist for switching coding agents mid-task
 
-2026-11-06 · u/sam_req2code · Resources And Tips · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6wgd/a_small_handoff_checklist_for_switching_coding/)
+2026-11-06 · u/sam_req2code · Resources And Tips · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6wgd/a_small_handoff_checklist_for_switching_coding/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI output or low-value walls of text. AI for grammar/clarity is fine. You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
 
+<a id="post-25"></a>
+
 ### 25. How I stopped losing time to coding agents waiting on me
 
-2026-11-06 · u/Significant-Sea-7238 · Discussion · score 2 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6qw2/how_i_stopped_losing_time_to_coding_agents/)
+2026-11-06 · u/Significant-Sea-7238 · Discussion · score 2 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp6qw2/how_i_stopped_losing_time_to_coding_agents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/x8zghnpw1yzh1>
 
@@ -509,9 +559,11 @@ Link: <https://v.redd.it/x8zghnpw1yzh1>
 >
 > Free, open source: [https://github.com/MF-DEEV/Openbar](https://github.com/MF-DEEV/Openbar)
 
+<a id="post-26"></a>
+
 ### 26. How do you keep local coding agents running on a MacBook with the lid closed?
 
-2026-11-06 · u/Puzzled_Sea3771 · Question · score 17 · 28 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5z8v/how_do_you_keep_local_coding_agents_running_on_a/)
+2026-11-06 · u/Puzzled_Sea3771 · Question · score 17 · 28 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5z8v/how_do_you_keep_local_coding_agents_running_on_a/) · [↑ back to the list](#last-50-posts)
 
 > I run Codex and other coding agents locally on my MacBook. When a task is still running, I'd like to close the lid, leave the laptop plugged in on my desk, and come back to the results later.
 >
@@ -527,9 +579,11 @@ Link: <https://v.redd.it/x8zghnpw1yzh1>
 >
 > For anyone running long local agent tasks, what's been reliable without an external monitor? I'm interested in whether you've made a closed-lid setup work or decided it's easier to leave the lid open with the display off.
 
+<a id="post-27"></a>
+
 ### 27. apple’s 10-K says AI agents may “behave in unintended or unpredictable ways”. meanwhile i gave mine full repo access last week
 
-2026-11-06 · u/Entire_Struggle_2236 · Discussion · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5okz/apples_10k_says_ai_agents_may_behave_in/)
+2026-11-06 · u/Entire_Struggle_2236 · Discussion · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp5okz/apples_10k_says_ai_agents_may_behave_in/) · [↑ back to the list](#last-50-posts)
 
 > apple added this to the AI risk section of its annual report. agents accessing systems they shouldnt, changing code, exceeding permissions, even resisting instructions. alphabet wrote something similar too.
 >
@@ -537,17 +591,21 @@ Link: <https://v.redd.it/x8zghnpw1yzh1>
 >
 > [https://fortune.com/2026/11/03/apple-warns-rogue-ai-agents-could-cause-unintended-consequences/](https://fortune.com/2026/11/03/apple-warns-rogue-ai-agents-could-cause-unintended-consequences/)
 
+<a id="post-28"></a>
+
 ### 28. Can I get an honest review on my website, please?
 
-2026-11-06 · u/Samthehooper_109 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp3kwr/can_i_get_an_honest_review_on_my_website_please/)
+2026-11-06 · u/Samthehooper_109 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp3kwr/can_i_get_an_honest_review_on_my_website_please/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): Sorry, we don't accept this kind of feedback post right now. Only exception could be made for no link, no name. Thanks for understanding. -- This post or comment has been removed for the following reason: **Rule 5: No pure self-promotion / low-value project posts** Posts whose primary purpose is promoting a tool, product, service, GitHub repo, personal website, or blog belong in the weekly Self-Promotion thread. Delete the link: if nothing is left, it's an ad. Search for similar projects: if you can't tell why your project is better, it's a low-value project. GitHub links are fine. Personal website are not. Exception could be make for high quality posts. See also [reddit's self-promotion guidelines](https://www.reddit.com/r/reddit.com/wiki/selfpromotion/). You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
 
+<a id="post-29"></a>
+
 ### 29. We built a checker skill for people who built their app by chatting with AI
 
-2026-11-06 · u/Strong_Turnip8429 · Resources And Tips · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp23vy/we_built_a_checker_skill_for_people_who_built/)
+2026-11-06 · u/Strong_Turnip8429 · Resources And Tips · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp23vy/we_built_a_checker_skill_for_people_who_built/) · [↑ back to the list](#last-50-posts)
 
 > We build a skill to help vibe-coders check their apps before delivering them to real users. Not a deep check, but a set of checks to reduce risk on release. So we built a skill called vibe-preflight. It works in Claude Code, Codex and OpenCode. It reads your project, checks it like a pilot's pre-flight checklist, and explains what it finds in plain language. It writes two reports: a short one for you ("this could leak your users' data, and here's who fixes it") and a technical one for the agent or developer who does the fixing. It changes nothing until you approve.
 >
@@ -570,9 +628,11 @@ Link: <https://v.redd.it/x8zghnpw1yzh1>
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): https://www.reddit.com/r/reddit.com/wiki/selfpromotion/ -- This post or comment has been removed for the following reason: **Rule 5: No pure self-promotion / low-value project posts** Posts whose primary purpose is promoting a tool, product, service, GitHub repo, personal website, or blog belong in the weekly Self-Promotion thread. Delete the link: if nothing is left, it's an ad. Search for similar projects: if you can't tell why your project is better, it's a low-value project. GitHub links are fine. Personal website are not. Exception could be make for high quality posts. See also [reddit's self-promotion guidelines](https://www.reddit.com/r/reddit.com/wiki/selfpromotion/). You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
 
+<a id="post-30"></a>
+
 ### 30. Chat → Work handoff not using the default model of Luna - uses Sol instead
 
-2026-11-06 · u/hdmiusbc · Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1r8i/chat_work_handoff_not_using_the_default_model_of/)
+2026-11-06 · u/hdmiusbc · Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1r8i/chat_work_handoff_not_using_the_default_model_of/) · [↑ back to the list](#last-50-posts)
 
 > I've configured Work to use GPT-6 Luna as its default model, and when I manually start a Work session, it correctly uses Luna. However, whenever ChatGPT automatically hands off a task to Work, it starts a new session using GPT-6.1 Sol High instead.
 >
@@ -582,41 +642,53 @@ Link: <https://v.redd.it/x8zghnpw1yzh1>
 >
 > Using Work with Luna enabled as a test message in case Work "remembers" the last model chosen has also not worked
 
+<a id="post-31"></a>
+
 ### 31. I built a directory of MCP servers that people and AI agents can search
 
-2026-11-06 · u/Demo12133 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1pts/i_built_a_directory_of_mcp_servers_that_people/)
+2026-11-06 · u/Demo12133 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp1pts/i_built_a_directory_of_mcp_servers_that_people/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. ChatGPT's new image generation interface looks pretty cool. Anyone tried it yet?
 
-2026-11-06 · u/suryaaitis · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp0zj5/chatgpts_new_image_generation_interface_looks/)
+2026-11-06 · u/suryaaitis · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xp0zj5/chatgpts_new_image_generation_interface_looks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/s186of50hwzh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. Before you compare Qwen / DeepSeek / Kimi API prices: 4 billing details that changed my estimates
 
-2026-11-06 · u/kekesun · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoztnc/before_you_compare_qwen_deepseek_kimi_api_prices/)
+2026-11-06 · u/kekesun · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoztnc/before_you_compare_qwen_deepseek_kimi_api_prices/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-34"></a>
 
 ### 34. A skill that saves Codex usage for thinking and hands the grunt-work coding to cheaper models
 
-2026-11-06 · u/-jhesham- · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xozq9m/a_skill_that_saves_codex_usage_for_thinking_and/)
+2026-11-06 · u/-jhesham- · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xozq9m/a_skill_that_saves_codex_usage_for_thinking_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-35"></a>
 
 ### 35. Where do you still use web chat for coding, and where did a terminal agent take over?
 
-2026-11-06 · u/Consistent_Piano4250 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xozppq/where_do_you_still_use_web_chat_for_coding_and/)
+2026-11-06 · u/Consistent_Piano4250 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xozppq/where_do_you_still_use_web_chat_for_coding_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. I don't think human-in-the-loop holds up for coding agents
 
-2026-11-05 · u/ShoddySherbert8502 · Discussion · score 0 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xovmyh/i_dont_think_humanintheloop_holds_up_for_coding/)
+2026-11-05 · u/ShoddySherbert8502 · Discussion · score 0 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xovmyh/i_dont_think_humanintheloop_holds_up_for_coding/) · [↑ back to the list](#last-50-posts)
 
 > At least in the loop of checking every task result. First of all, the human defines rules and context.
 >
@@ -626,17 +698,21 @@ Link: <https://i.redd.it/s186of50hwzh1.jpeg>
 >
 > Honestly, do you still review the code?
 
+<a id="post-37"></a>
+
 ### 37. My dad wants to use an app I built with ChatGPT and now I'm worried I have no idea how to maintain it
 
-2026-11-05 · u/GarbageShot2697 · Question · score 19 · 8 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xousa9/my_dad_wants_to_use_an_app_i_built_with_chatgpt/)
+2026-11-05 · u/GarbageShot2697 · Question · score 19 · 8 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xousa9/my_dad_wants_to_use_an_app_i_built_with_chatgpt/) · [↑ back to the list](#last-50-posts)
 
 > My dad runs a small cleaning business with 4 employees and I've been helping him build a basic app to keep track of jobs. Right now he uses a shared spreadsheet for everything which works until someone forgets to update it or accidentally changes the wrong row. I started building something with ChatGPT mostly to see if I could do it. It has a calendar for upcoming jobs, a list of customers and a way for employees to mark jobs as completed. Took me a few weekends to get it looking decent and now my dad actually wants to start using it.  
 >
 > The problem is I've been testing everything with fake data and haven't really thought about what happens when 4 people are using it at once. I need somewhere to save the information, let employees log in and make sure they can update their assigned jobs without changing everything else. ChatGPT suggested Supabase since it handles the database and user accounts together. I've been looking into it but I'm not sure if connecting everything through AI is enough or if I need to understand how the backend works first.
 
+<a id="post-38"></a>
+
 ### 38. Codex is eating up my storage – where is all the space going?
 
-2026-11-05 · u/yeah280 · Question · score 4 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xot9w3/codex_is_eating_up_my_storage_where_is_all_the/)
+2026-11-05 · u/yeah280 · Question · score 4 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xot9w3/codex_is_eating_up_my_storage_where_is_all_the/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been using Codex a lot lately, and I’ve noticed that it’s taking up an insane amount of storage.
 >
@@ -659,37 +735,47 @@ Link: <https://i.redd.it/s186of50hwzh1.jpeg>
 >
 > Any tips would be appreciated!
 
+<a id="post-39"></a>
+
 ### 39. Codex Windows projects disappeared after config error, but chats are still in Recents. Has anyone safely recovered project links?
 
-2026-11-05 · u/Mysterious-Display90 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xorvib/codex_windows_projects_disappeared_after_config/)
+2026-11-05 · u/Mysterious-Display90 · Question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xorvib/codex_windows_projects_disappeared_after_config/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-40"></a>
 
 ### 40. Built 5 custom tools via AI vibe-coding (No pro tech background)—are these realistic to land full-time/contract roles? What titles & companies should I target?
 
-2026-11-05 · u/jmus9 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoppub/built_5_custom_tools_via_ai_vibecoding_no_pro/)
+2026-11-05 · u/jmus9 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoppub/built_5_custom_tools_via_ai_vibecoding_no_pro/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. "deslopifying" - the (painful) process of making AI output your own
 
-2026-11-05 · u/Martinsos · Resources And Tips · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xopc8e/deslopifying_the_painful_process_of_making_ai/)
+2026-11-05 · u/Martinsos · Resources And Tips · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xopc8e/deslopifying_the_painful_process_of_making_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://martinsos.com/posts/deslopifying>
 
 
+<a id="post-42"></a>
+
 ### 42. The day has arrived; today I published my first video game :')
 
-2026-11-05 · u/PandaRojasStudios · News · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xootgu/the_day_has_arrived_today_i_published_my_first/)
+2026-11-05 · u/PandaRojasStudios · News · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xootgu/the_day_has_arrived_today_i_published_my_first/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kl25x5ptxtzh1.png>
 
 > After so much time and so much effort, the moment has arrived.  
 > Steam: [https://store.steampowered.com/app/4982990/Nova\_Survivors/](https://store.steampowered.com/app/4982990/Nova_Survivors/)
 
+<a id="post-43"></a>
+
 ### 43. DeepSeek / Qwen / Kimi API prices as of Nov 2026, plus 4 billing traps I keep seeing
 
-2026-11-05 · u/kekesun · Resources And Tips · score 0 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xooq8p/deepseek_qwen_kimi_api_prices_as_of_nov_2026_plus/)
+2026-11-05 · u/kekesun · Resources And Tips · score 0 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xooq8p/deepseek_qwen_kimi_api_prices_as_of_nov_2026_plus/) · [↑ back to the list](#last-50-posts)
 
 > I spent the last few weeks checking the official rate cards for the Chinese model APIs because most blog posts still quote retired models and old prices. Here's what I found (verified Nov 3, 2026, USD per 1M
 >
@@ -720,51 +806,65 @@ Link: <https://i.redd.it/kl25x5ptxtzh1.png>
 >
 > (English isn't my first language, I used an LLM to help polish the wording.)
 
+<a id="post-44"></a>
+
 ### 44. 710 Claude Code tests: Only 1 of 4 popular token saving tools actually saved money overall
 
-2026-11-05 · u/Stunning_Company_209 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xonufj/710_claude_code_tests_only_1_of_4_popular_token/)
+2026-11-05 · u/Stunning_Company_209 · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xonufj/710_claude_code_tests_only_1_of_4_popular_token/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-45"></a>
 
 ### 45. The job is reading now, not typing. Four habits for reviewing agent code, and the tool we built for the fourth
 
-2026-11-05 · u/shetritr · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xonk0s/the_job_is_reading_now_not_typing_four_habits_for/)
+2026-11-05 · u/shetritr · Resources And Tips · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xonk0s/the_job_is_reading_now_not_typing_four_habits_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-46"></a>
 
 ### 46. What are some interesting forums related to AI, and where can I upload the project code besides GitHub?
 
-2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xomv5m/what_are_some_interesting_forums_related_to_ai/)
+2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xomv5m/what_are_some_interesting_forums_related_to_ai/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. I built Secure Git Bridge after getting tired of copy/pasting between AI and Terminal — looking for developers to test it
 
-2026-11-05 · u/Securegitbridge · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xomb26/i_built_secure_git_bridge_after_getting_tired_of/)
+2026-11-05 · u/Securegitbridge · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xomb26/i_built_secure_git_bridge_after_getting_tired_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/03veovazftzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. Where do you read about agent tooling outside Reddit?
 
-2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xolo9d/where_do_you_read_about_agent_tooling_outside/)
+2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xolo9d/where_do_you_read_about_agent_tooling_outside/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI output or low-value walls of text. AI for grammar/clarity is fine. You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
+
+<a id="post-49"></a>
 
 ### 49. Where do you actually read about model endpoints and gateway pricing?
 
-2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoljs0/where_do_you_actually_read_about_model_endpoints/)
+2026-11-05 · u/Proper-Sweet7330 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xoljs0/where_do_you_actually_read_about_model_endpoints/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/ChatGPTCoding-ModTeam): This post or comment has been removed for the following reason: **Rule 6: No AI Slop** No raw AI output or low-value walls of text. AI for grammar/clarity is fine. You can read the full subreddit rules here: https://www.reddit.com/r/ChatGPTCoding/about/rules/ If you feel this removal was made unfairly, please contact the moderators through modmail.
 
+<a id="post-50"></a>
+
 ### 50. Codex added a bunch of stuff I never asked for.
 
-2026-11-05 · u/BigSuggestion6944 · Discussion · score 0 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xok3m7/codex_added_a_bunch_of_stuff_i_never_asked_for/)
+2026-11-05 · u/BigSuggestion6944 · Discussion · score 0 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xok3m7/codex_added_a_bunch_of_stuff_i_never_asked_for/) · [↑ back to the list](#last-50-posts)
 
 > No branch. Lost in my own code.   
 >
@@ -777,9 +877,11 @@ Link: <https://i.redd.it/03veovazftzh1.png>
 >
 > do you think is this a real pain for everyone?
 
+<a id="post-51"></a>
+
 ### 51. The day I stopped writing assembly, and why the "LLMs code better than us" debate feels familiar
 
-2026-10-26 · u/IdeacoupeTales · Discussion · score 212 · 79 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xg100c/the_day_i_stopped_writing_assembly_and_why_the/)
+2026-10-26 · u/IdeacoupeTales · Discussion · score 212 · 79 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xg100c/the_day_i_stopped_writing_assembly_and_why_the/) · [↑ back to the list](#last-50-posts)
 
 > I learned assembly long before I learned C. Back then I chased single clock cycles: reusing registers bit by bit, writing `XOR A` instead of loading zero, that kind of thing.
 >
@@ -795,9 +897,11 @@ Link: <https://i.redd.it/03veovazftzh1.png>
 >
 > For those of you who were around for that shift, or any shift like it: did it feel like this? And what turned out to matter after the compiler won?
 
+<a id="post-52"></a>
+
 ### 52. Anyone here using ChatGPT with Blender for character modeling?
 
-2026-10-17 · u/Fluid-Policy3414 · Question · score 98 · 46 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x82z5u/anyone_here_using_chatgpt_with_blender_for/)
+2026-10-17 · u/Fluid-Policy3414 · Question · score 98 · 46 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x82z5u/anyone_here_using_chatgpt_with_blender_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8wvsvdht0zvh1.png>
 
@@ -809,9 +913,11 @@ Link: <https://i.redd.it/8wvsvdht0zvh1.png>
 >
 > I’d really appreciate some advice from people who’ve tried it.
 
+<a id="post-53"></a>
+
 ### 53. Agentic coding solves the easiest part of engineering and breaks the hardest
 
-2026-10-13 · u/cgouguen · Discussion · score 53 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x4xadz/agentic_coding_solves_the_easiest_part_of/)
+2026-10-13 · u/cgouguen · Discussion · score 53 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x4xadz/agentic_coding_solves_the_easiest_part_of/) · [↑ back to the list](#last-50-posts)
 
 > Hot take : agents have made writing code incredibly cheap, but **writing code was never the expensive part of software engineering**.
 >
@@ -837,16 +943,20 @@ Link: <https://i.redd.it/8wvsvdht0zvh1.png>
 >
 > The question we should be asking isn't how much code our AI wrote this week. The question is: If it breaks tonight, can anyone on my team fix it?
 
+<a id="post-54"></a>
+
 ### 54. Best value AI subscription under 20$/200$ (updated for Artificial Analysis Intelligence Index v5.0)
 
-2026-10-30 · u/popiazaza · Resources And Tips · score 47 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xjoq1u/best_value_ai_subscription_under_20200_updated/)
+2026-10-30 · u/popiazaza · Resources And Tips · score 47 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xjoq1u/best_value_ai_subscription_under_20200_updated/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xjoq1u>
 
 
+<a id="post-55"></a>
+
 ### 55. Why aren't we using AI to work at higher levels of abstraction?
 
-2026-10-12 · u/dtizzle27182 · Question · score 45 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x4680v/why_arent_we_using_ai_to_work_at_higher_levels_of/)
+2026-10-12 · u/dtizzle27182 · Question · score 45 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x4680v/why_arent_we_using_ai_to_work_at_higher_levels_of/) · [↑ back to the list](#last-50-posts)
 
 > I've been seeing a lot of developers express frustration that AI is taking the joy out of programming. We face pressure to ship features quickly by prompting agents and rubber stamping code reviews without time to understand what we are building. See  [Im tired of reviewing code nobody actually wrote](https://www.reddit.com/r/ChatGPTCoding/comments/1wz72y2/im_tired_of_reviewing_code_nobody_actually_wrote/) and countless other posts like it.
 >
@@ -866,21 +976,27 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Have you been able to integrate them into your day to day coding workflow? If not, what's preventing you? If you have, do these tools help you stay connected to the code? Do you still find joy from understanding and building software?
 
+<a id="post-56"></a>
+
 ### 56. ChatGPT Plus vs Claude Pro ($20) for learning to code and build projects?
 
-2026-10-24 · u/Consistent_Piglet928 · Question · score 36 · 39 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xehr4u/chatgpt_plus_vs_claude_pro_20_for_learning_to/)
+2026-10-24 · u/Consistent_Piglet928 · Question · score 36 · 39 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xehr4u/chatgpt_plus_vs_claude_pro_20_for_learning_to/) · [↑ back to the list](#last-50-posts)
 
 > I’m planning to spend $20 on one of them to learn coding and build projects. Which one would you recommend for explaining concepts, debugging, and helping me improve instead of just giving me code?
 
+<a id="post-57"></a>
+
 ### 57. My bottleneck moved from writing code to reviewing what the agents write. How do you review without just rubber-stamping?
 
-2026-10-29 · u/Successful-Tax1306 · Discussion · score 29 · 78 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xit1hg/my_bottleneck_moved_from_writing_code_to/)
+2026-10-29 · u/Successful-Tax1306 · Discussion · score 29 · 78 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xit1hg/my_bottleneck_moved_from_writing_code_to/) · [↑ back to the list](#last-50-posts)
 
 > Since I started running a few agents in parallel I can get several changes ready in the time it used to take me to write one, and that part feels great. But now most of my day is reading diffs, and I've caught myself skimming a big one and approving it just because the tests passed. A few things help so far. I keep each task small so the diff fits on one screen, I ask the agent for a short note on what it changed and why before I read the code, and I read the tests first to see if they actually check the behavior I asked for. A review agent also flags old messy code nearby, which is nice, but then I have even more to read. I still feel like I'm the slow part and I'm not sure where the line is between careful review and just trusting it. How do you all handle this? Do you read every line, or do you trust some kinds of changes more than others?
 
+<a id="post-58"></a>
+
 ### 58. How do I make AI actually think and execute instead of constantly babysitting it?
 
-2026-10-19 · u/Conscious-Shake391 · Question · score 29 · 72 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xactqe/how_do_i_make_ai_actually_think_and_execute/)
+2026-10-19 · u/Conscious-Shake391 · Question · score 29 · 72 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xactqe/how_do_i_make_ai_actually_think_and_execute/) · [↑ back to the list](#last-50-posts)
 
 > I'm an ML engineer and heavy AI user. My biggest frustration isn't model intelligence—it's having to manage the AI's thinking.
 >
@@ -905,9 +1021,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > What are power users actually running?
 
+<a id="post-59"></a>
+
 ### 59. GitHub Actions getting really expensive. Any alternative?
 
-2026-10-23 · u/CellistOk6782 · Question · score 29 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xd9yqp/github_actions_getting_really_expensive_any/)
+2026-10-23 · u/CellistOk6782 · Question · score 29 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xd9yqp/github_actions_getting_really_expensive_any/) · [↑ back to the list](#last-50-posts)
 
 > I run two private web applications and use GitHub Actions to automatically check changes before they go live.
 >
@@ -924,9 +1042,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 > * Have you found straightforward ways to reduce duplicate runs?
 > * Have self-hosted runners been worth the maintenance?
 
+<a id="post-60"></a>
+
 ### 60. We spend $30k/M on tokens! How to reduce it?
 
-2026-10-16 · u/Shargules100 · Question · score 22 · 116 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x7bgph/we_spend_30km_on_tokens_how_to_reduce_it/)
+2026-10-16 · u/Shargules100 · Question · score 22 · 116 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x7bgph/we_spend_30km_on_tokens_how_to_reduce_it/) · [↑ back to the list](#last-50-posts)
 
 > We are 15 person startup.
 >
@@ -936,9 +1056,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Any engineers that managed to reduce it by a meaningful percentage?
 
+<a id="post-61"></a>
+
 ### 61. Are we reaching a point where reviewing code takes longer than writing it?
 
-2026-11-04 · u/No_Comfortable9746 · Question · score 21 · 44 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xnt7e9/are_we_reaching_a_point_where_reviewing_code/)
+2026-11-04 · u/No_Comfortable9746 · Question · score 21 · 44 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xnt7e9/are_we_reaching_a_point_where_reviewing_code/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -954,9 +1076,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > And if there is any tools suggestions please..
 
+<a id="post-62"></a>
+
 ### 62. What Are the Biggest Weaknesses of Frontier Coding Models Like Claude Opus 5.5 and GPT-6?
 
-2026-10-18 · u/SadPossibility2338 · Discussion · score 20 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x9d1kp/what_are_the_biggest_weaknesses_of_frontier/)
+2026-10-18 · u/SadPossibility2338 · Discussion · score 20 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x9d1kp/what_are_the_biggest_weaknesses_of_frontier/) · [↑ back to the list](#last-50-posts)
 
 > I have been trying to figure out where frontier coders fail at. I feel like claude opus 5.5 and gpt-6 (astra) should be able to do most coding tasks but are there any that you find that they cant do no matter how much context/tools/time you give them?
 >
@@ -984,9 +1108,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Any programming/software engineering related question/task.
 
+<a id="post-63"></a>
+
 ### 63. Weekly Self Promotion Thread
 
-2026-10-12 · u/AutoModerator · Discussion · score 19 · 138 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x3vw47/weekly_self_promotion_thread/)
+2026-10-12 · u/AutoModerator · Discussion · score 19 · 138 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x3vw47/weekly_self_promotion_thread/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to this week's self promotion thread!
 >
@@ -1008,17 +1134,21 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Take some time to check out what others have shared too. If you try someone's project or have feedback, leave a comment. Helping each other improve is what we want this community to be about.
 
+<a id="post-64"></a>
+
 ### 64. Is Sol 6.1 good enough for day-to-day coding on the $20 plan?
 
-2026-10-23 · u/Brave_Salamander_417 · Question · score 18 · 33 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xdrsvb/is_sol_61_good_enough_for_daytoday_coding_on_the/)
+2026-10-23 · u/Brave_Salamander_417 · Question · score 18 · 33 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xdrsvb/is_sol_61_good_enough_for_daytoday_coding_on_the/) · [↑ back to the list](#last-50-posts)
 
 > I stick to the $20 plans, and I regularly hit Claude’s usage limits. With ChatGPT, that hasn’t been an issue for me, and OpenAI seems pretty generous with resets too.
 >
 > For those using Sol 6.1 regularly, how well does it handle day-to-day coding especially debugging, refactoring, and adding features to existing projects? Does it hold up well enough to be your main coding assistant?
 
+<a id="post-65"></a>
+
 ### 65. Weekly Self Promotion Thread
 
-2026-10-19 · u/AutoModerator · Discussion · score 16 · 119 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x9qs5j/weekly_self_promotion_thread/)
+2026-10-19 · u/AutoModerator · Discussion · score 16 · 119 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x9qs5j/weekly_self_promotion_thread/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to this week's self promotion thread!
 >
@@ -1040,9 +1170,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Take some time to check out what others have shared too. If you try someone's project or have feedback, leave a comment. Helping each other improve is what we want this community to be about.
 
+<a id="post-66"></a>
+
 ### 66. Claude found a security hole in my app and then refused to fix it
 
-2026-10-17 · u/No_Computer_1013 · Discussion · score 16 · 14 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x852zo/claude_found_a_security_hole_in_my_app_and_then/)
+2026-10-17 · u/No_Computer_1013 · Discussion · score 16 · 14 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1x852zo/claude_found_a_security_hole_in_my_app_and_then/) · [↑ back to the list](#last-50-posts)
 
 > Honestly this is getting ridiculous
 >
@@ -1062,15 +1194,19 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > So the model is good enough to find the hole and not allowed to close it. Has anyone else hit this on their own code?
 
+<a id="post-67"></a>
+
 ### 67. Writing down our architecture for the agents helped the cold start more than any prompt trick. What goes in yours?
 
-2026-10-19 · u/Successful-Tax1306 · Discussion · score 15 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xa27y4/writing_down_our_architecture_for_the_agents/)
+2026-10-19 · u/Successful-Tax1306 · Discussion · score 15 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xa27y4/writing_down_our_architecture_for_the_agents/) · [↑ back to the list](#last-50-posts)
 
 > For a while every new agent session on our codebase started the same way, with the agent poking around to figure out how the services fit together, and it often guessed wrong so I had to correct it before any real work happened. What changed it for me was writing a set of short skill files about the architecture, like which service owns what, how data moves between them, and which patterns we follow now versus the old code we're moving away from. Now anyone on the team can point a design or coding agent at those files and it starts from the right place instead of guessing. It felt like extra work up front and the first sessions cost more, but I think it pays back every time someone starts a new task. I'm curious how others do this. Do you keep one big context file, a bunch of small ones per area, or just let the agent explore every time? And how do you keep them from going stale when the code changes?
 
+<a id="post-68"></a>
+
 ### 68. Four days with Codex and I genuinely can't believe how bad this experience has been
 
-2026-11-04 · u/v0id_user · Discussion · score 15 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xnlgqm/four_days_with_codex_and_i_genuinely_cant_believe/)
+2026-11-04 · u/v0id_user · Discussion · score 15 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xnlgqm/four_days_with_codex_and_i_genuinely_cant_believe/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been using Codex for four days, and holy shit, I don’t remember the last time a coding tool frustrated me this much.
 >
@@ -1091,9 +1227,11 @@ Link: <https://www.reddit.com/gallery/1xjoq1u>
 >
 > Is anyone else experiencing this? How are people using it effectively for autonomous development?
 
+<a id="post-69"></a>
+
 ### 69. How is it possible that GPT-6.1 SOL performs so much worse than Opus 4.7?
 
-2026-10-28 · u/Peon117 · Discussion · score 15 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xhp0hb/how_is_it_possible_that_gpt61_sol_performs_so/)
+2026-10-28 · u/Peon117 · Discussion · score 15 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/ChatGPTCoding/comments/1xhp0hb/how_is_it_possible_that_gpt61_sol_performs_so/) · [↑ back to the list](#last-50-posts)
 
 > About every six months, I buy a  ChatGPT subscription to see how it has improved. I test it on my own code and compare it with Claude.
 >

@@ -33,56 +33,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [which to choose? full stack or a particular niche like backend development](https://www.reddit.com/r/Backend/comments/1xpwpx0/which_to_choose_full_stack_or_a_particular_niche/) | u/BigElectronic6248 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 2 | 2026-11-06 | [Only 50 VUs, p95 still 500 to 560ms, increasing DB pool to 30 made it worse, how do I reduce login and regist…](https://www.reddit.com/r/Backend/comments/1xpki77/only_50_vus_p95_still_500_to_560ms_increasing_db/) | u/nileshpatelinfo | — | i.redd.it | 1 | 0 | removed by mod | — |
-| 3 | 2026-11-06 | [Asking advice for backend](https://www.reddit.com/r/Backend/comments/1xpjea7/asking_advice_for_backend/) | u/BigElectronic6248 | — | text | 6 | 3 | live | — |
-| 4 | 2026-11-06 | [Today I started designing a database for my own distributed storage engine I am waiting for your feedback](https://www.reddit.com/r/Backend/comments/1xpj52t/today_i_started_designing_a_database_for_my_own/) | u/Foreign_Leek_689 | — | i.redd.it | 28 | 9 | live | — |
-| 5 | 2026-11-06 | [How to actually learn spring boot?](https://www.reddit.com/r/Backend/comments/1xphcia/how_to_actually_learn_spring_boot/) | u/Abhi9av_69 | — | reddit.com | 1 | 1 | live | — |
-| 6 | 2026-11-06 | [Should Customer Support Be Responsible for Repeated Operational Problems?](https://www.reddit.com/r/Backend/comments/1xpgao3/should_customer_support_be_responsible_for/) | u/hemantsinghHQ | — | text | 1 | 0 | spam-filtered | — |
-| 7 | 2026-11-06 | [What Replication Topology / Method you're using in Production?](https://www.reddit.com/r/Backend/comments/1xpcsw7/what_replication_topology_method_youre_using_in/) | u/Narrow_Inevitable586 | — | text | 3 | 18 | live | — |
-| 8 | 2026-11-06 | [guys what is really an htttp?](https://www.reddit.com/r/Backend/comments/1xpbgnj/guys_what_is_really_an_htttp/) | u/Any-Arachnid753 | — | text | 1 | 0 | held by automod | — |
-| 9 | 2026-11-06 | [\[HIRING\] Seron Labs is looking for backend devs: Dart/Go/TypeScript take-home](https://www.reddit.com/r/Backend/comments/1xp9268/hiring_seron_labs_is_looking_for_backend_devs/) | u/SarveshSeron | — | text | 1 | 0 | held by automod | — |
-| 10 | 2026-11-06 | [Testing horizontally scaled apps](https://www.reddit.com/r/Backend/comments/1xp51ta/testing_horizontally_scaled_apps/) | u/viciousvatsal | — | text | 2 | 3 | live | — |
-| 11 | 2026-11-06 | [How Do You Protect Your Business When One Supplier Provides Everything?](https://www.reddit.com/r/Backend/comments/1xp2fd4/how_do_you_protect_your_business_when_one/) | u/hemantsinghHQ | — | text | 0 | 0 | spam-filtered | — |
-| 12 | 2026-11-05 | [AI Broke Cybersecurity. Visual Programming Can Fix It.](https://www.reddit.com/r/Backend/comments/1xopyl2/ai_broke_cybersecurity_visual_programming_can_fix/) | u/PurpleDragon99 | — | i.redd.it | 0 | 1 | live | — |
-| 13 | 2026-11-05 | [Caching at Scale in Django: Lessons from Production](https://www.reddit.com/r/Backend/comments/1xonfbw/caching_at_scale_in_django_lessons_from_production/) | u/jcmetz21 | — | johnnymetz.com | 1 | 0 | live | — |
-| 14 | 2026-11-05 | [should i move from python to java?](https://www.reddit.com/r/Backend/comments/1xolral/should_i_move_from_python_to_java/) | u/DueBid3298 | — | text | 13 | 27 | live | — |
-| 15 | 2026-11-05 | [Apache kafka ->recent interview questions](https://www.reddit.com/r/Backend/comments/1xollez/apache_kafka_recent_interview_questions/) | u/DueBid3298 | — | text | 9 | 2 | live | — |
-| 16 | 2026-11-05 | [Go or java spring boot?](https://www.reddit.com/r/Backend/comments/1xojt91/go_or_java_spring_boot/) | u/PratapagiriSriAditya | — | text | 17 | 21 | live | — |
-| 17 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](https://www.reddit.com/r/Backend/comments/1xoj70x/would_you_use_scalacatsstyle_io_and_fibers_in_a/) | u/Apart_Paramedic_1850 | — | text | 1 | 0 | held by automod | — |
-| 18 | 2026-11-05 | [Need CV advice for applying placement years as a CS uni student](https://www.reddit.com/r/Backend/comments/1xog7as/need_cv_advice_for_applying_placement_years_as_a/) | u/Flaky_Ad147 | — | text | 1 | 0 | live | — |
-| 19 | 2026-11-05 | [hyperb: a new hypermedia browser engine, syntax and protocol so backend developers never have to write HTML/J…](https://www.reddit.com/r/Backend/comments/1xofuuz/hyperb_a_new_hypermedia_browser_engine_syntax_and/) | u/GreenEcstatic5322 | — | github.com | 1 | 0 | removed by mod | — |
-| 20 | 2026-11-05 | [I am looking for work.(SDE)](https://www.reddit.com/r/Backend/comments/1xof8nn/i_am_looking_for_worksde/) | u/Key_Law4929 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 21 | 2026-11-05 | [Junior engineers is a role has been ended now a days must have knowledge and experience more advanced points…](https://www.reddit.com/r/Backend/comments/1xoezou/junior_engineers_is_a_role_has_been_ended_now_a/) | u/Mrclinic | — | text | 1 | 0 | spam-filtered | — |
-| 22 | 2026-11-05 | [Testing horizontally scaled apps](https://www.reddit.com/r/Backend/comments/1xoasgl/testing_horizontally_scaled_apps/) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
-| 23 | 2026-11-05 | [Horizontally scaled app](https://www.reddit.com/r/Backend/comments/1xoar2f/horizontally_scaled_app/) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
-| 24 | 2026-11-05 | [Testing a horizontally scaled app](https://www.reddit.com/r/Backend/comments/1xoap43/testing_a_horizontally_scaled_app/) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-05 | [At What Point Did You Stop Approving Every Small Decision Yourself?](https://www.reddit.com/r/Backend/comments/1xoaldw/at_what_point_did_you_stop_approving_every_small/) | u/hemantsinghHQ | — | text | 0 | 4 | spam-filtered | — |
-| 26 | 2026-11-05 | [Is there still room for another SAST tool, or is the market already too crowded?](https://www.reddit.com/r/Backend/comments/1xo7dpk/is_there_still_room_for_another_sast_tool_or_is/) | u/Melodic_War_3865 | — | text | 0 | 3 | live | — |
-| 27 | 2026-11-04 | [From php to kotlin](https://www.reddit.com/r/Backend/comments/1xo25nd/from_php_to_kotlin/) | u/Away_Astronaut6719 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 28 | 2026-11-04 | [Should I choose Go or C#/.NET for backend development?](https://www.reddit.com/r/Backend/comments/1xnw80t/should_i_choose_go_or_cnet_for_backend_development/) | u/Sensitive-Raccoon155 | — | text | 21 | 45 | live | — |
-| 29 | 2026-11-04 | [I built free system design labs where you change one setting and watch the system react](https://www.reddit.com/r/Backend/comments/1xnubqr/i_built_free_system_design_labs_where_you_change/) | u/mishra_557 | — | text | 1 | 0 | held by automod | — |
-| 30 | 2026-11-04 | [Que Stack elegir para Backend](https://www.reddit.com/r/Backend/comments/1xntxxu/que_stack_elegir_para_backend/) | u/Even_Bodybuilder_510 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 31 | 2026-11-04 | [Concurrency examples](https://www.reddit.com/r/Backend/comments/1xntcft/concurrency_examples/) | u/AccomplishedArea4456 | — | text | 8 | 0 | live | — |
-| 32 | 2026-11-04 | [Building Barista—Part 1](https://www.reddit.com/r/Backend/comments/1xnsk5l/building_baristapart_1/) | u/teivah | — | read.thecoder.cafe | 1 | 0 | removed by mod | — |
-| 33 | 2026-11-04 | [Quais são as melhores práticas para integrar dois backends existentes num único produto?](https://www.reddit.com/r/Backend/comments/1xns6du/quais_são_as_melhores_práticas_para_integrar_dois/) | u/Aquiles_bachira | — | text | 1 | 0 | held by automod | — |
-| 34 | 2026-11-04 | [Anyone learning PostgreSQL? How is it going?](https://www.reddit.com/r/Backend/comments/1xnr56y/anyone_learning_postgresql_how_is_it_going/) | u/starman_k72 | — | reddit.com | 0 | 2 | live | — |
-| 35 | 2026-11-04 | [Should I go Node or Java?](https://www.reddit.com/r/Backend/comments/1xnqxsn/should_i_go_node_or_java/) | u/mrpersonxx | — | text | 20 | 56 | live | — |
-| 36 | 2026-11-04 | [I built an interactive platform to visualize and simulate computer science concepts](https://www.reddit.com/r/Backend/comments/1xnlrsb/i_built_an_interactive_platform_to_visualize_and/) | u/KitchenChannel9630 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 37 | 2026-11-04 | [Opportunities in Backend](https://www.reddit.com/r/Backend/comments/1xnledo/opportunities_in_backend/) | u/sarcazam_exe | — | text | 0 | 0 | spam-filtered | — |
-| 38 | 2026-11-04 | [\[ Removed by Reddit \]](https://www.reddit.com/r/Backend/comments/1xnipv4/removed_by_reddit/) | u/Liance_Tech_2030 | — | text | 1 | 0 | content_takedown | — |
-| 39 | 2026-11-04 | [Can Node.js and FastAPI be used together?](https://www.reddit.com/r/Backend/comments/1xnij8s/can_nodejs_and_fastapi_be_used_together/) | u/Good-Doctor-8293 | — | text | 0 | 21 | live | — |
-| 40 | 2026-11-04 | [Turning static .drawio and .excalidraw architecture diagrams into playable 60 FPS traffic simulations](https://www.reddit.com/r/Backend/comments/1xnhyra/turning_static_drawio_and_excalidraw_architecture/) | u/DarkSlayer59 | — | i.redd.it | 1 | 0 | removed by mod | — |
-| 41 | 2026-11-04 | [Stronger penalties can make AI auditors less likely to inspect. An interesting problem in AI oversight.](https://www.reddit.com/r/Backend/comments/1xnhomy/stronger_penalties_can_make_ai_auditors_less/) | u/Few-Decision6287 | — | text | 0 | 0 | spam-filtered | — |
-| 42 | 2026-11-04 | [Would You Pay an Annual Fee to Shop at a Local Store?](https://www.reddit.com/r/Backend/comments/1xnhofp/would_you_pay_an_annual_fee_to_shop_at_a_local/) | u/hemantsinghHQ | — | text | 0 | 11 | live | — |
-| 43 | 2026-11-04 | [Project ideas to apply HLD concepts with 2 YOE in software developmen](https://www.reddit.com/r/Backend/comments/1xnhlbm/project_ideas_to_apply_hld_concepts_with_2_yoe_in/) | u/ComprehensiveCash708 | — | text | 3 | 2 | live | — |
-| 44 | 2026-11-03 | [Suggest](https://www.reddit.com/r/Backend/comments/1xn5ncf/suggest/) | u/unknown-7897 | — | reddit.com | 1 | 0 | live | — |
-| 45 | 2026-11-03 | [Introducing Arkoren, a modular Go toolkit for backend services](https://www.reddit.com/r/Backend/comments/1xn49x6/introducing_arkoren_a_modular_go_toolkit_for/) | u/ConsoleTVs | — | reddit.com | 1 | 0 | live | — |
-| 46 | 2026-11-03 | [How do I optimize my LinkedIn headline to attract tech recruiters, what actually works?](https://www.reddit.com/r/Backend/comments/1xn28bp/how_do_i_optimize_my_linkedin_headline_to_attract/) | u/Shyweee | — | text | 1 | 3 | live | — |
-| 47 | 2026-11-03 | [Can an Annual Membership Fee Help a Retailer Keep Prices Low?](https://www.reddit.com/r/Backend/comments/1xmykey/can_an_annual_membership_fee_help_a_retailer_keep/) | u/hemantsinghHQ | — | text | 0 | 1 | spam-filtered | — |
-| 48 | 2026-11-03 | [Concurrency Comparison Java Vs Go](https://www.reddit.com/r/Backend/comments/1xmxhsz/concurrency_comparison_java_vs_go/) | u/Aman_iamak | — | text | 1 | 0 | spam-filtered | — |
-| 49 | 2026-11-03 | [Handling Concurrency Like a Pro](https://www.reddit.com/r/Backend/comments/1xmww24/handling_concurrency_like_a_pro/) | u/Aman_iamak | — | i.redd.it | 0 | 0 | removed by mod | — |
-| 50 | 2026-11-03 | [\[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge](https://www.reddit.com/r/Backend/comments/1xmwphr/mit_fieldsync_opensource_offlinefirst_inspection/) | u/Appropriate-Seat-787 | — | text | 1 | 0 | spam-filtered | — |
+| 1 | 2026-11-07 | [which to choose? full stack or a particular niche like backend development](#post-1) | u/BigElectronic6248 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 2 | 2026-11-06 | [Only 50 VUs, p95 still 500 to 560ms, increasing DB pool to 30 made it worse, how do I reduce login and regist…](#post-2) | u/nileshpatelinfo | — | i.redd.it | 1 | 0 | removed by mod | — |
+| 3 | 2026-11-06 | [Asking advice for backend](#post-3) | u/BigElectronic6248 | — | text | 6 | 3 | live | — |
+| 4 | 2026-11-06 | [Today I started designing a database for my own distributed storage engine I am waiting for your feedback](#post-4) | u/Foreign_Leek_689 | — | i.redd.it | 28 | 9 | live | — |
+| 5 | 2026-11-06 | [How to actually learn spring boot?](#post-5) | u/Abhi9av_69 | — | reddit.com | 1 | 1 | live | — |
+| 6 | 2026-11-06 | [Should Customer Support Be Responsible for Repeated Operational Problems?](#post-6) | u/hemantsinghHQ | — | text | 1 | 0 | spam-filtered | — |
+| 7 | 2026-11-06 | [What Replication Topology / Method you're using in Production?](#post-7) | u/Narrow_Inevitable586 | — | text | 3 | 18 | live | — |
+| 8 | 2026-11-06 | [guys what is really an htttp?](#post-8) | u/Any-Arachnid753 | — | text | 1 | 0 | held by automod | — |
+| 9 | 2026-11-06 | [\[HIRING\] Seron Labs is looking for backend devs: Dart/Go/TypeScript take-home](#post-9) | u/SarveshSeron | — | text | 1 | 0 | held by automod | — |
+| 10 | 2026-11-06 | [Testing horizontally scaled apps](#post-10) | u/viciousvatsal | — | text | 2 | 3 | live | — |
+| 11 | 2026-11-06 | [How Do You Protect Your Business When One Supplier Provides Everything?](#post-11) | u/hemantsinghHQ | — | text | 0 | 0 | spam-filtered | — |
+| 12 | 2026-11-05 | [AI Broke Cybersecurity. Visual Programming Can Fix It.](#post-12) | u/PurpleDragon99 | — | i.redd.it | 0 | 1 | live | — |
+| 13 | 2026-11-05 | [Caching at Scale in Django: Lessons from Production](#post-13) | u/jcmetz21 | — | johnnymetz.com | 1 | 0 | live | — |
+| 14 | 2026-11-05 | [should i move from python to java?](#post-14) | u/DueBid3298 | — | text | 13 | 27 | live | — |
+| 15 | 2026-11-05 | [Apache kafka ->recent interview questions](#post-15) | u/DueBid3298 | — | text | 9 | 2 | live | — |
+| 16 | 2026-11-05 | [Go or java spring boot?](#post-16) | u/PratapagiriSriAditya | — | text | 17 | 21 | live | — |
+| 17 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](#post-17) | u/Apart_Paramedic_1850 | — | text | 1 | 0 | held by automod | — |
+| 18 | 2026-11-05 | [Need CV advice for applying placement years as a CS uni student](#post-18) | u/Flaky_Ad147 | — | text | 1 | 0 | live | — |
+| 19 | 2026-11-05 | [hyperb: a new hypermedia browser engine, syntax and protocol so backend developers never have to write HTML/J…](#post-19) | u/GreenEcstatic5322 | — | github.com | 1 | 0 | removed by mod | — |
+| 20 | 2026-11-05 | [I am looking for work.(SDE)](#post-20) | u/Key_Law4929 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 21 | 2026-11-05 | [Junior engineers is a role has been ended now a days must have knowledge and experience more advanced points…](#post-21) | u/Mrclinic | — | text | 1 | 0 | spam-filtered | — |
+| 22 | 2026-11-05 | [Testing horizontally scaled apps](#post-22) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
+| 23 | 2026-11-05 | [Horizontally scaled app](#post-23) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
+| 24 | 2026-11-05 | [Testing a horizontally scaled app](#post-24) | u/viciousvatsal | — | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-05 | [At What Point Did You Stop Approving Every Small Decision Yourself?](#post-25) | u/hemantsinghHQ | — | text | 0 | 4 | spam-filtered | — |
+| 26 | 2026-11-05 | [Is there still room for another SAST tool, or is the market already too crowded?](#post-26) | u/Melodic_War_3865 | — | text | 0 | 3 | live | — |
+| 27 | 2026-11-04 | [From php to kotlin](#post-27) | u/Away_Astronaut6719 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 28 | 2026-11-04 | [Should I choose Go or C#/.NET for backend development?](#post-28) | u/Sensitive-Raccoon155 | — | text | 21 | 45 | live | — |
+| 29 | 2026-11-04 | [I built free system design labs where you change one setting and watch the system react](#post-29) | u/mishra_557 | — | text | 1 | 0 | held by automod | — |
+| 30 | 2026-11-04 | [Que Stack elegir para Backend](#post-30) | u/Even_Bodybuilder_510 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 31 | 2026-11-04 | [Concurrency examples](#post-31) | u/AccomplishedArea4456 | — | text | 8 | 0 | live | — |
+| 32 | 2026-11-04 | [Building Barista—Part 1](#post-32) | u/teivah | — | read.thecoder.cafe | 1 | 0 | removed by mod | — |
+| 33 | 2026-11-04 | [Quais são as melhores práticas para integrar dois backends existentes num único produto?](#post-33) | u/Aquiles_bachira | — | text | 1 | 0 | held by automod | — |
+| 34 | 2026-11-04 | [Anyone learning PostgreSQL? How is it going?](#post-34) | u/starman_k72 | — | reddit.com | 0 | 2 | live | — |
+| 35 | 2026-11-04 | [Should I go Node or Java?](#post-35) | u/mrpersonxx | — | text | 20 | 56 | live | — |
+| 36 | 2026-11-04 | [I built an interactive platform to visualize and simulate computer science concepts](#post-36) | u/KitchenChannel9630 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 37 | 2026-11-04 | [Opportunities in Backend](#post-37) | u/sarcazam_exe | — | text | 0 | 0 | spam-filtered | — |
+| 38 | 2026-11-04 | [\[ Removed by Reddit \]](#post-38) | u/Liance_Tech_2030 | — | text | 1 | 0 | content_takedown | — |
+| 39 | 2026-11-04 | [Can Node.js and FastAPI be used together?](#post-39) | u/Good-Doctor-8293 | — | text | 0 | 21 | live | — |
+| 40 | 2026-11-04 | [Turning static .drawio and .excalidraw architecture diagrams into playable 60 FPS traffic simulations](#post-40) | u/DarkSlayer59 | — | i.redd.it | 1 | 0 | removed by mod | — |
+| 41 | 2026-11-04 | [Stronger penalties can make AI auditors less likely to inspect. An interesting problem in AI oversight.](#post-41) | u/Few-Decision6287 | — | text | 0 | 0 | spam-filtered | — |
+| 42 | 2026-11-04 | [Would You Pay an Annual Fee to Shop at a Local Store?](#post-42) | u/hemantsinghHQ | — | text | 0 | 11 | live | — |
+| 43 | 2026-11-04 | [Project ideas to apply HLD concepts with 2 YOE in software developmen](#post-43) | u/ComprehensiveCash708 | — | text | 3 | 2 | live | — |
+| 44 | 2026-11-03 | [Suggest](#post-44) | u/unknown-7897 | — | reddit.com | 1 | 0 | live | — |
+| 45 | 2026-11-03 | [Introducing Arkoren, a modular Go toolkit for backend services](#post-45) | u/ConsoleTVs | — | reddit.com | 1 | 0 | live | — |
+| 46 | 2026-11-03 | [How do I optimize my LinkedIn headline to attract tech recruiters, what actually works?](#post-46) | u/Shyweee | — | text | 1 | 3 | live | — |
+| 47 | 2026-11-03 | [Can an Annual Membership Fee Help a Retailer Keep Prices Low?](#post-47) | u/hemantsinghHQ | — | text | 0 | 1 | spam-filtered | — |
+| 48 | 2026-11-03 | [Concurrency Comparison Java Vs Go](#post-48) | u/Aman_iamak | — | text | 1 | 0 | spam-filtered | — |
+| 49 | 2026-11-03 | [Handling Concurrency Like a Pro](#post-49) | u/Aman_iamak | — | i.redd.it | 0 | 0 | removed by mod | — |
+| 50 | 2026-11-03 | [\[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge](#post-50) | u/Appropriate-Seat-787 | — | text | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -90,76 +90,90 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-28 | [Why use typescript instead of Java/C# or any other statically typed and compiled language?](https://www.reddit.com/r/Backend/comments/1xhd5ut/why_use_typescript_instead_of_javac_or_any_other/) | u/keeperpaige | — | text | 89 | 99 | live |
-| 52 | 2026-10-26 | [What backend skill made the biggest difference in your first two years?](https://www.reddit.com/r/Backend/comments/1xfrkzp/what_backend_skill_made_the_biggest_difference_in/) | u/OrbitAfterOrbit | — | text | 75 | 25 | live |
-| 53 | 2026-10-16 | [Modern Java for startups](https://www.reddit.com/r/Backend/comments/1x7p9h7/modern_java_for_startups/) | u/Sad_Importance_1585 | — | text | 67 | 72 | live |
-| 54 | 2026-10-24 | [Backend development is more than just building APIs — what should I focus on next?](https://www.reddit.com/r/Backend/comments/1xe6z6f/backend_development_is_more_than_just_building/) | u/No_Bar7578 | — | text | 63 | 22 | live |
-| 55 | 2026-10-18 | [Looking for People to Build Projects Together!](https://www.reddit.com/r/Backend/comments/1x90v6k/looking_for_people_to_build_projects_together/) | u/Remarkable-Trash-769 | — | text | 52 | 86 | live |
-| 56 | 2026-11-01 | [Enjoying Go, but the junior job market looks empty](https://www.reddit.com/r/Backend/comments/1xl4pfy/enjoying_go_but_the_junior_job_market_looks_empty/) | u/alber_to1 | — | text | 52 | 19 | live |
-| 57 | 2026-10-15 | [Client retries a DELETE after a timeout. Second call: 404, 204 or 410?](https://www.reddit.com/r/Backend/comments/1x6w7km/client_retries_a_delete_after_a_timeout_second/) | u/ClickOk5811 | — | text | 49 | 63 | live |
-| 58 | 2026-10-21 | [Im interested in backend but not frontend](https://www.reddit.com/r/Backend/comments/1xbf59n/im_interested_in_backend_but_not_frontend/) | u/Commercial_You- | — | text | 39 | 36 | live |
-| 59 | 2026-10-23 | [Websocket or REST?](https://www.reddit.com/r/Backend/comments/1xdt0ss/websocket_or_rest/) | u/viciousvatsal | — | text | 38 | 25 | live |
-| 60 | 2026-10-15 | [5+ years into backend development - how should I navigate my career with AI evolving so rapidly?](https://www.reddit.com/r/Backend/comments/1x6o6ih/5_years_into_backend_development_how_should_i/) | u/Moon-Light-37 | — | text | 32 | 17 | live |
-| 61 | 2026-11-02 | [Is Kafka still your default choice for event streaming?](https://www.reddit.com/r/Backend/comments/1xltg9o/is_kafka_still_your_default_choice_for_event/) | u/SadViolinist2405 | — | text | 32 | 16 | live |
-| 62 | 2026-10-30 | [I've Learned Backend Engineering, Distributed Systems, and Some ML — What Should I Learn Next?](https://www.reddit.com/r/Backend/comments/1xjcdj4/ive_learned_backend_engineering_distributed/) | u/Conscious-State5249 | — | text | 30 | 43 | live |
-| 4 | 2026-11-06 | [Today I started designing a database for my own distributed storage engine I am waiting for your feedback](https://www.reddit.com/r/Backend/comments/1xpj52t/today_i_started_designing_a_database_for_my_own/) | u/Foreign_Leek_689 | — | i.redd.it | 28 | 9 | live |
-| 63 | 2026-10-16 | [Processes vs Threads vs Cores: What Every Developer Should Know](https://www.reddit.com/r/Backend/comments/1x7k21l/processes_vs_threads_vs_cores_what_every/) | u/javinpaul | — | javarevisited.substack.com | 27 | 0 | live |
-| 64 | 2026-10-20 | [Client timeouts are triggering duplicate model calls across our middleware layers](https://www.reddit.com/r/Backend/comments/1xarhay/client_timeouts_are_triggering_duplicate_model/) | u/SatisfactionOnly1523 | — | text | 26 | 16 | live |
-| 65 | 2026-10-13 | [Career Progression from Backend Development](https://www.reddit.com/r/Backend/comments/1x4tkx9/career_progression_from_backend_development/) | u/VisualSmoke7 | — | text | 26 | 11 | live |
-| 66 | 2026-10-15 | [Strong backend, poor DSA](https://www.reddit.com/r/Backend/comments/1x6dlx9/strong_backend_poor_dsa/) | u/arreyyaarr | — | text | 24 | 11 | live |
-| 28 | 2026-11-04 | [Should I choose Go or C#/.NET for backend development?](https://www.reddit.com/r/Backend/comments/1xnw80t/should_i_choose_go_or_cnet_for_backend_development/) | u/Sensitive-Raccoon155 | — | text | 21 | 45 | live |
-| 67 | 2026-10-21 | [How are your companies actually adopting AI? Are we just too slow in banking?](https://www.reddit.com/r/Backend/comments/1xc3arx/how_are_your_companies_actually_adopting_ai_are/) | u/Due_Direction_1867 | — | text | 21 | 19 | live |
-| 35 | 2026-11-04 | [Should I go Node or Java?](https://www.reddit.com/r/Backend/comments/1xnqxsn/should_i_go_node_or_java/) | u/mrpersonxx | — | text | 20 | 56 | live |
+| 51 | 2026-10-28 | [Why use typescript instead of Java/C# or any other statically typed and compiled language?](#post-51) | u/keeperpaige | — | text | 89 | 99 | live |
+| 52 | 2026-10-26 | [What backend skill made the biggest difference in your first two years?](#post-52) | u/OrbitAfterOrbit | — | text | 75 | 25 | live |
+| 53 | 2026-10-16 | [Modern Java for startups](#post-53) | u/Sad_Importance_1585 | — | text | 67 | 72 | live |
+| 54 | 2026-10-24 | [Backend development is more than just building APIs — what should I focus on next?](#post-54) | u/No_Bar7578 | — | text | 63 | 22 | live |
+| 55 | 2026-10-18 | [Looking for People to Build Projects Together!](#post-55) | u/Remarkable-Trash-769 | — | text | 52 | 86 | live |
+| 56 | 2026-11-01 | [Enjoying Go, but the junior job market looks empty](#post-56) | u/alber_to1 | — | text | 52 | 19 | live |
+| 57 | 2026-10-15 | [Client retries a DELETE after a timeout. Second call: 404, 204 or 410?](#post-57) | u/ClickOk5811 | — | text | 49 | 63 | live |
+| 58 | 2026-10-21 | [Im interested in backend but not frontend](#post-58) | u/Commercial_You- | — | text | 39 | 36 | live |
+| 59 | 2026-10-23 | [Websocket or REST?](#post-59) | u/viciousvatsal | — | text | 38 | 25 | live |
+| 60 | 2026-10-15 | [5+ years into backend development - how should I navigate my career with AI evolving so rapidly?](#post-60) | u/Moon-Light-37 | — | text | 32 | 17 | live |
+| 61 | 2026-11-02 | [Is Kafka still your default choice for event streaming?](#post-61) | u/SadViolinist2405 | — | text | 32 | 16 | live |
+| 62 | 2026-10-30 | [I've Learned Backend Engineering, Distributed Systems, and Some ML — What Should I Learn Next?](#post-62) | u/Conscious-State5249 | — | text | 30 | 43 | live |
+| 4 | 2026-11-06 | [Today I started designing a database for my own distributed storage engine I am waiting for your feedback](#post-4) | u/Foreign_Leek_689 | — | i.redd.it | 28 | 9 | live |
+| 63 | 2026-10-16 | [Processes vs Threads vs Cores: What Every Developer Should Know](#post-63) | u/javinpaul | — | javarevisited.substack.com | 27 | 0 | live |
+| 64 | 2026-10-20 | [Client timeouts are triggering duplicate model calls across our middleware layers](#post-64) | u/SatisfactionOnly1523 | — | text | 26 | 16 | live |
+| 65 | 2026-10-13 | [Career Progression from Backend Development](#post-65) | u/VisualSmoke7 | — | text | 26 | 11 | live |
+| 66 | 2026-10-15 | [Strong backend, poor DSA](#post-66) | u/arreyyaarr | — | text | 24 | 11 | live |
+| 28 | 2026-11-04 | [Should I choose Go or C#/.NET for backend development?](#post-28) | u/Sensitive-Raccoon155 | — | text | 21 | 45 | live |
+| 67 | 2026-10-21 | [How are your companies actually adopting AI? Are we just too slow in banking?](#post-67) | u/Due_Direction_1867 | — | text | 21 | 19 | live |
+| 35 | 2026-11-04 | [Should I go Node or Java?](#post-35) | u/mrpersonxx | — | text | 20 | 56 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. which to choose? full stack or a particular niche like backend development
 
-2026-11-07 · u/BigElectronic6248 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpwpx0/which_to_choose_full_stack_or_a_particular_niche/)
+2026-11-07 · u/BigElectronic6248 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpwpx0/which_to_choose_full_stack_or_a_particular_niche/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/FullStack/comments/1xpwpsu/which_to_choose_full_stack_or_a_particular_niche/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. Only 50 VUs, p95 still 500 to 560ms, increasing DB pool to 30 made it worse, how do I reduce login and register latency
 
-2026-11-06 · u/nileshpatelinfo · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpki77/only_50_vus_p95_still_500_to_560ms_increasing_db/)
+2026-11-06 · u/nileshpatelinfo · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpki77/only_50_vus_p95_still_500_to_560ms_increasing_db/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2b3sc6z5e10i1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Asking advice for backend
 
-2026-11-06 · u/BigElectronic6248 · score 6 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpjea7/asking_advice_for_backend/)
+2026-11-06 · u/BigElectronic6248 · score 6 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpjea7/asking_advice_for_backend/) · [↑ back to the list](#last-50-posts)
 
 > I’m in 1 year BSC(mscs) i was confused in between cloud computing and backend development and i came to conclusion that to choose backend development for that I’m choosing java will it good and which more skills should i need to learn to land a internship or job
 
+<a id="post-4"></a>
+
 ### 4. Today I started designing a database for my own distributed storage engine I am waiting for your feedback
 
-2026-11-06 · u/Foreign_Leek_689 · score 28 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpj52t/today_i_started_designing_a_database_for_my_own/)
+2026-11-06 · u/Foreign_Leek_689 · score 28 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpj52t/today_i_started_designing_a_database_for_my_own/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/w3wuq3r0410i1.png>
 
 
+<a id="post-5"></a>
+
 ### 5. How to actually learn spring boot?
 
-2026-11-06 · u/Abhi9av_69 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xphcia/how_to_actually_learn_spring_boot/)
+2026-11-06 · u/Abhi9av_69 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xphcia/how_to_actually_learn_spring_boot/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SpringBoot/comments/1xphcbn/how_to_actually_learn_spring_boot/>
 
 
+<a id="post-6"></a>
+
 ### 6. Should Customer Support Be Responsible for Repeated Operational Problems?
 
-2026-11-06 · u/hemantsinghHQ · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpgao3/should_customer_support_be_responsible_for/)
+2026-11-06 · u/hemantsinghHQ · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpgao3/should_customer_support_be_responsible_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. What Replication Topology / Method you're using in Production?
 
-2026-11-06 · u/Narrow_Inevitable586 · score 3 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpcsw7/what_replication_topology_method_youre_using_in/)
+2026-11-06 · u/Narrow_Inevitable586 · score 3 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpcsw7/what_replication_topology_method_youre_using_in/) · [↑ back to the list](#last-50-posts)
 
 > We're currently running a single primary MySQL node, which we recognize as a single point of failure (SPOF). To address this, we're considering introducing a read replica.
 >
@@ -171,21 +185,27 @@ Link: <https://www.reddit.com/r/SpringBoot/comments/1xphcbn/how_to_actually_lear
 >
 > For those who have implemented this in production, how have you approached and solved these challenges?
 
+<a id="post-8"></a>
+
 ### 8. guys what is really an htttp?
 
-2026-11-06 · u/Any-Arachnid753 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpbgnj/guys_what_is_really_an_htttp/)
+2026-11-06 · u/Any-Arachnid753 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xpbgnj/guys_what_is_really_an_htttp/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-9"></a>
 
 ### 9. \[HIRING\] Seron Labs is looking for backend devs: Dart/Go/TypeScript take-home
 
-2026-11-06 · u/SarveshSeron · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp9268/hiring_seron_labs_is_looking_for_backend_devs/)
+2026-11-06 · u/SarveshSeron · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp9268/hiring_seron_labs_is_looking_for_backend_devs/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. Testing horizontally scaled apps
 
-2026-11-06 · u/viciousvatsal · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp51ta/testing_horizontally_scaled_apps/)
+2026-11-06 · u/viciousvatsal · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp51ta/testing_horizontally_scaled_apps/) · [↑ back to the list](#last-50-posts)
 
 > I am building an app which has at least 2 servers apps running on an instance. A client is connected to a server using a socket IO connection. I am using redis pubsub mechanism to talk between the servers and also to store any state so the server pool is completely stateless. Servers are uvicorn workers (might switch to docker + load balancer but it's out of the scope of this post). I am using FastAPI + pytest + httpx2 for testing.
 >
@@ -224,9 +244,11 @@ Link: <https://www.reddit.com/r/SpringBoot/comments/1xphcbn/how_to_actually_lear
 >
 > https://i.postimg.cc/dVds03dc/Mofi-SD.png
 
+<a id="post-11"></a>
+
 ### 11. How Do You Protect Your Business When One Supplier Provides Everything?
 
-2026-11-06 · u/hemantsinghHQ · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp2fd4/how_do_you_protect_your_business_when_one/)
+2026-11-06 · u/hemantsinghHQ · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xp2fd4/how_do_you_protect_your_business_when_one/) · [↑ back to the list](#last-50-posts)
 
 > I'm interested in how business owners handle supplier dependence.
 >
@@ -238,9 +260,11 @@ Link: <https://www.reddit.com/r/SpringBoot/comments/1xphcbn/how_to_actually_lear
 >
 > How do you decide which option makes financial sense?
 
+<a id="post-12"></a>
+
 ### 12. AI Broke Cybersecurity. Visual Programming Can Fix It.
 
-2026-11-05 · u/PurpleDragon99 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xopyl2/ai_broke_cybersecurity_visual_programming_can_fix/)
+2026-11-05 · u/PurpleDragon99 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xopyl2/ai_broke_cybersecurity_visual_programming_can_fix/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kypv7jgf5uzh1.png>
 
@@ -317,22 +341,28 @@ Link: <https://i.redd.it/kypv7jgf5uzh1.png>
 > 1. Data Swap – [https://www.pipelang.com/assets/tutorials/v1/tutorial1.mp4](https://www.pipelang.com/assets/tutorials/v1/tutorial1.mp4)
 > 2. Reusable Sum – [https://www.pipelang.com/assets/tutorials/v1/tutorial2.mp4](https://www.pipelang.com/assets/tutorials/v1/tutorial2.mp4)
 
+<a id="post-13"></a>
+
 ### 13. Caching at Scale in Django: Lessons from Production
 
-2026-11-05 · u/jcmetz21 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xonfbw/caching_at_scale_in_django_lessons_from_production/)
+2026-11-05 · u/jcmetz21 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xonfbw/caching_at_scale_in_django_lessons_from_production/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://johnnymetz.com/posts/caching-at-scale-in-django/>
 
 
+<a id="post-14"></a>
+
 ### 14. should i move from python to java?
 
-2026-11-05 · u/DueBid3298 · score 13 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xolral/should_i_move_from_python_to_java/)
+2026-11-05 · u/DueBid3298 · score 13 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xolral/should_i_move_from_python_to_java/) · [↑ back to the list](#last-50-posts)
 
 > I'm thinking of switching from Python FastAPI to Java Spring Boot. Apart from Python being dynamically typed and having a lot of libraries, why do people/deva choose Python in production when it's slow, has an intermediate bytecode layer and executes line by line?
 
+<a id="post-15"></a>
+
 ### 15. Apache kafka ->recent interview questions
 
-2026-11-05 · u/DueBid3298 · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xollez/apache_kafka_recent_interview_questions/)
+2026-11-05 · u/DueBid3298 · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xollez/apache_kafka_recent_interview_questions/) · [↑ back to the list](#last-50-posts)
 
 > # 
 >
@@ -340,69 +370,89 @@ Link: <https://johnnymetz.com/posts/caching-at-scale-in-django/>
 >
 > HI there, if anyone has attended interviews for BE + kafka for 5+ yoe, can anyone share the interview questions, situation based questions related to kafka?
 
+<a id="post-16"></a>
+
 ### 16. Go or java spring boot?
 
-2026-11-05 · u/PratapagiriSriAditya · score 17 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xojt91/go_or_java_spring_boot/)
+2026-11-05 · u/PratapagiriSriAditya · score 17 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xojt91/go_or_java_spring_boot/) · [↑ back to the list](#last-50-posts)
 
 > For backend which do u think is good to learn now? I wanna learn go cuz I am more into microservices but java spring boot is more established than go... Provided I need to learn both of them from the beginning.
 
+<a id="post-17"></a>
+
 ### 17. Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?
 
-2026-11-05 · u/Apart_Paramedic_1850 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoj70x/would_you_use_scalacatsstyle_io_and_fibers_in_a/)
+2026-11-05 · u/Apart_Paramedic_1850 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoj70x/would_you_use_scalacatsstyle_io_and_fibers_in_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. Need CV advice for applying placement years as a CS uni student
 
-2026-11-05 · u/Flaky_Ad147 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xog7as/need_cv_advice_for_applying_placement_years_as_a/)
+2026-11-05 · u/Flaky_Ad147 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xog7as/need_cv_advice_for_applying_placement_years_as_a/) · [↑ back to the list](#last-50-posts)
 
 > I've been applying quite alot of placement years and i feel that i could improve my CV or that is not good enough. I've been talking with a placement advice teacher and showed me a recommended template CV but I think that CV following jakes's template is better for this specific area. I'm would like to hear any feedback about my CV please.
 >
 > https://i.redd.it/e4gk5b9c3szh1.png
 
+<a id="post-19"></a>
+
 ### 19. hyperb: a new hypermedia browser engine, syntax and protocol so backend developers never have to write HTML/JS again
 
-2026-11-05 · u/GreenEcstatic5322 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xofuuz/hyperb_a_new_hypermedia_browser_engine_syntax_and/)
+2026-11-05 · u/GreenEcstatic5322 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xofuuz/hyperb_a_new_hypermedia_browser_engine_syntax_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/hypereffect/hyperb>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. I am looking for work.(SDE)
 
-2026-11-05 · u/Key_Law4929 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xof8nn/i_am_looking_for_worksde/)
+2026-11-05 · u/Key_Law4929 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xof8nn/i_am_looking_for_worksde/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/jobsearch/comments/1xof77p/i_am_looking_for_worksde/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-21"></a>
+
 ### 21. Junior engineers is a role has been ended now a days must have knowledge and experience more advanced points and system design architecture to be able to be accepted
 
-2026-11-05 · u/Mrclinic · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoezou/junior_engineers_is_a_role_has_been_ended_now_a/)
+2026-11-05 · u/Mrclinic · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoezou/junior_engineers_is_a_role_has_been_ended_now_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-22"></a>
 
 ### 22. Testing horizontally scaled apps
 
-2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoasgl/testing_horizontally_scaled_apps/)
+2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoasgl/testing_horizontally_scaled_apps/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-23"></a>
 
 ### 23. Horizontally scaled app
 
-2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoar2f/horizontally_scaled_app/)
+2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoar2f/horizontally_scaled_app/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-24"></a>
 
 ### 24. Testing a horizontally scaled app
 
-2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoap43/testing_a_horizontally_scaled_app/)
+2026-11-05 · u/viciousvatsal · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoap43/testing_a_horizontally_scaled_app/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. At What Point Did You Stop Approving Every Small Decision Yourself?
 
-2026-11-05 · u/hemantsinghHQ · score 0 · 4 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoaldw/at_what_point_did_you_stop_approving_every_small/)
+2026-11-05 · u/hemantsinghHQ · score 0 · 4 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xoaldw/at_what_point_did_you_stop_approving_every_small/) · [↑ back to the list](#last-50-posts)
 
 > When a business is small, the founder often handles every purchase, expense and daily decision.
 >
@@ -414,9 +464,11 @@ Link: <https://www.reddit.com/r/jobsearch/comments/1xof77p/i_am_looking_for_work
 >
 > What worked, and what caused problems?
 
+<a id="post-26"></a>
+
 ### 26. Is there still room for another SAST tool, or is the market already too crowded?
 
-2026-11-05 · u/Melodic_War_3865 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xo7dpk/is_there_still_room_for_another_sast_tool_or_is/)
+2026-11-05 · u/Melodic_War_3865 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xo7dpk/is_there_still_room_for_another_sast_tool_or_is/) · [↑ back to the list](#last-50-posts)
 
 > I've been working on a small project called Polyscan. The idea is to combine multiple SAST tools into one platform and use AI to analyze their findings, remove duplicates, reduce false positives, and eventually suggest fixes.
 >
@@ -436,66 +488,84 @@ Link: <https://www.reddit.com/r/jobsearch/comments/1xof77p/i_am_looking_for_work
 >
 > I'd appreciate honest opinions, even if they're critical.
 
+<a id="post-27"></a>
+
 ### 27. From php to kotlin
 
-2026-11-04 · u/Away_Astronaut6719 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xo25nd/from_php_to_kotlin/)
+2026-11-04 · u/Away_Astronaut6719 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xo25nd/from_php_to_kotlin/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Kotlin/comments/1xo25hh/from_php_to_kotlin/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. Should I choose Go or C#/.NET for backend development?
 
-2026-11-04 · u/Sensitive-Raccoon155 · score 21 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnw80t/should_i_choose_go_or_cnet_for_backend_development/)
+2026-11-04 · u/Sensitive-Raccoon155 · score 21 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnw80t/should_i_choose_go_or_cnet_for_backend_development/) · [↑ back to the list](#last-50-posts)
 
 > I'm considering focusing on either Go or C#/.NET for backend development, but I'm having a hard time choosing between them.For those working with either technology, what made you choose it? What do you like or dislike about the ecosystem, and would you recommend it to someone starting with backend development?
 
+<a id="post-29"></a>
+
 ### 29. I built free system design labs where you change one setting and watch the system react
 
-2026-11-04 · u/mishra_557 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnubqr/i_built_free_system_design_labs_where_you_change/)
+2026-11-04 · u/mishra_557 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnubqr/i_built_free_system_design_labs_where_you_change/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Que Stack elegir para Backend
 
-2026-11-04 · u/Even_Bodybuilder_510 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xntxxu/que_stack_elegir_para_backend/)
+2026-11-04 · u/Even_Bodybuilder_510 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xntxxu/que_stack_elegir_para_backend/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Development/comments/1xntxod/que_stack_elegir_para_backend/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. Concurrency examples
 
-2026-11-04 · u/AccomplishedArea4456 · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xntcft/concurrency_examples/)
+2026-11-04 · u/AccomplishedArea4456 · score 8 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xntcft/concurrency_examples/) · [↑ back to the list](#last-50-posts)
 
 > While preparing for backend interviews, I found myself repeatedly looking up the same Java concurrency patterns (thread pools, rate limiters, caches, connection pools, virtual threads, bounded buffers, job queues, task schedulers, etc.). Instead of bookmarking dozens of articles, I put together a collection of small runnable examples in one repository. Hope it is useful!
 >
 > GitHub: https://github.com/skp2001vn/concurrency
 
+<a id="post-32"></a>
+
 ### 32. Building Barista—Part 1
 
-2026-11-04 · u/teivah · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnsk5l/building_baristapart_1/)
+2026-11-04 · u/teivah · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnsk5l/building_baristapart_1/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://read.thecoder.cafe/p/barista-1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. Quais são as melhores práticas para integrar dois backends existentes num único produto?
 
-2026-11-04 · u/Aquiles_bachira · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xns6du/quais_são_as_melhores_práticas_para_integrar_dois/)
+2026-11-04 · u/Aquiles_bachira · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xns6du/quais_são_as_melhores_práticas_para_integrar_dois/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Anyone learning PostgreSQL? How is it going?
 
-2026-11-04 · u/starman_k72 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnr56y/anyone_learning_postgresql_how_is_it_going/)
+2026-11-04 · u/starman_k72 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnr56y/anyone_learning_postgresql_how_is_it_going/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/developers/comments/1xnr4ww/anyone_learning_postgresql_how_is_it_going/>
 
 
+<a id="post-35"></a>
+
 ### 35. Should I go Node or Java?
 
-2026-11-04 · u/mrpersonxx · score 20 · 56 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnqxsn/should_i_go_node_or_java/)
+2026-11-04 · u/mrpersonxx · score 20 · 56 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnqxsn/should_i_go_node_or_java/) · [↑ back to the list](#last-50-posts)
 
 > Hi, im an aspiring fullstack dev currently learning Javascript and I was thinking about which language to learn back-end dev with.
 >
@@ -503,43 +573,55 @@ Link: <https://www.reddit.com/r/developers/comments/1xnr4ww/anyone_learning_post
 >
 > I'd love to hear your thoughts! I have tons of time to consider and decide my course of action, I just love this question.
 
+<a id="post-36"></a>
+
 ### 36. I built an interactive platform to visualize and simulate computer science concepts
 
-2026-11-04 · u/KitchenChannel9630 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnlrsb/i_built_an_interactive_platform_to_visualize_and/)
+2026-11-04 · u/KitchenChannel9630 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnlrsb/i_built_an_interactive_platform_to_visualize_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SideProject/comments/1xnlrkp/i_built_an_interactive_platform_to_visualize_and/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. Opportunities in Backend
 
-2026-11-04 · u/sarcazam_exe · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnledo/opportunities_in_backend/)
+2026-11-04 · u/sarcazam_exe · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnledo/opportunities_in_backend/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-38"></a>
 
 ### 38. \[ Removed by Reddit \]
 
-2026-11-04 · u/Liance_Tech_2030 · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnipv4/removed_by_reddit/)
+2026-11-04 · u/Liance_Tech_2030 · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnipv4/removed_by_reddit/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Can Node.js and FastAPI be used together?
 
-2026-11-04 · u/Good-Doctor-8293 · score 0 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnij8s/can_nodejs_and_fastapi_be_used_together/)
+2026-11-04 · u/Good-Doctor-8293 · score 0 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnij8s/can_nodejs_and_fastapi_be_used_together/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-40"></a>
+
 ### 40. Turning static .drawio and .excalidraw architecture diagrams into playable 60 FPS traffic simulations
 
-2026-11-04 · u/DarkSlayer59 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhyra/turning_static_drawio_and_excalidraw_architecture/)
+2026-11-04 · u/DarkSlayer59 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhyra/turning_static_drawio_and_excalidraw_architecture/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/g7hjxqpprjzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. Stronger penalties can make AI auditors less likely to inspect. An interesting problem in AI oversight.
 
-2026-11-04 · u/Few-Decision6287 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhomy/stronger_penalties_can_make_ai_auditors_less/)
+2026-11-04 · u/Few-Decision6287 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhomy/stronger_penalties_can_make_ai_auditors_less/) · [↑ back to the list](#last-50-posts)
 
 > I came across a Princeton preprint that examines how incentives affect AI oversight.
 >
@@ -559,9 +641,11 @@ Link: <https://i.redd.it/g7hjxqpprjzh1.png>
 > 2. How would you prevent an oversight system from gradually becoming less active as error rates fall?
 > 3. What would be a convincing real-world experiment to test this model?
 
+<a id="post-42"></a>
+
 ### 42. Would You Pay an Annual Fee to Shop at a Local Store?
 
-2026-11-04 · u/hemantsinghHQ · score 0 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhofp/would_you_pay_an_annual_fee_to_shop_at_a_local/)
+2026-11-04 · u/hemantsinghHQ · score 0 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhofp/would_you_pay_an_annual_fee_to_shop_at_a_local/) · [↑ back to the list](#last-50-posts)
 
 > Imagine a local store offers an annual membership.
 >
@@ -573,9 +657,11 @@ Link: <https://i.redd.it/g7hjxqpprjzh1.png>
 >
 > Would you prefer a yearly fee or a simple discount on each purchase?
 
+<a id="post-43"></a>
+
 ### 43. Project ideas to apply HLD concepts with 2 YOE in software developmen
 
-2026-11-04 · u/ComprehensiveCash708 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhlbm/project_ideas_to_apply_hld_concepts_with_2_yoe_in/)
+2026-11-04 · u/ComprehensiveCash708 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xnhlbm/project_ideas_to_apply_hld_concepts_with_2_yoe_in/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -587,23 +673,29 @@ Link: <https://i.redd.it/g7hjxqpprjzh1.png>
 >
 > What projects would you recommend, and what technical challenges or features would make them worth building?
 
+<a id="post-44"></a>
+
 ### 44. Suggest
 
-2026-11-03 · u/unknown-7897 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn5ncf/suggest/)
+2026-11-03 · u/unknown-7897 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn5ncf/suggest/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/FullStack/comments/1xn5n81/suggest/>
 
 
+<a id="post-45"></a>
+
 ### 45. Introducing Arkoren, a modular Go toolkit for backend services
 
-2026-11-03 · u/ConsoleTVs · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn49x6/introducing_arkoren_a_modular_go_toolkit_for/)
+2026-11-03 · u/ConsoleTVs · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn49x6/introducing_arkoren_a_modular_go_toolkit_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/golang/comments/1xm3q53/introducing_arkoren_a_modular_go_toolkit_for/>
 
 
+<a id="post-46"></a>
+
 ### 46. How do I optimize my LinkedIn headline to attract tech recruiters, what actually works?
 
-2026-11-03 · u/Shyweee · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn28bp/how_do_i_optimize_my_linkedin_headline_to_attract/)
+2026-11-03 · u/Shyweee · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xn28bp/how_do_i_optimize_my_linkedin_headline_to_attract/) · [↑ back to the list](#last-50-posts)
 
 > I have spent my lunch breaks for 3 weeks on my headline. current version: "Backend Engineer | Python | Distributed Systems | Open to Senior/Staff". It feels decent but i've never been able to tell if it's working because i don't know what a normal number is.
 >
@@ -611,9 +703,11 @@ Link: <https://www.reddit.com/r/golang/comments/1xm3q53/introducing_arkoren_a_mo
 >
 > Backend and infra people, what your numbers look like??
 
+<a id="post-47"></a>
+
 ### 47. Can an Annual Membership Fee Help a Retailer Keep Prices Low?
 
-2026-11-03 · u/hemantsinghHQ · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmykey/can_an_annual_membership_fee_help_a_retailer_keep/)
+2026-11-03 · u/hemantsinghHQ · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmykey/can_an_annual_membership_fee_help_a_retailer_keep/) · [↑ back to the list](#last-50-posts)
 
 > Costco's business model raises an interesting question for other retailers.
 >
@@ -625,41 +719,53 @@ Link: <https://www.reddit.com/r/golang/comments/1xm3q53/introducing_arkoren_a_mo
 >
 > Would lower prices be enough, or would you expect free delivery, special products or other benefits?
 
+<a id="post-48"></a>
+
 ### 48. Concurrency Comparison Java Vs Go
 
-2026-11-03 · u/Aman_iamak · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmxhsz/concurrency_comparison_java_vs_go/)
+2026-11-03 · u/Aman_iamak · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmxhsz/concurrency_comparison_java_vs_go/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-49"></a>
+
 ### 49. Handling Concurrency Like a Pro
 
-2026-11-03 · u/Aman_iamak · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmww24/handling_concurrency_like_a_pro/)
+2026-11-03 · u/Aman_iamak · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmww24/handling_concurrency_like_a_pro/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. \[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge
 
-2026-11-03 · u/Appropriate-Seat-787 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmwphr/mit_fieldsync_opensource_offlinefirst_inspection/)
+2026-11-03 · u/Appropriate-Seat-787 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xmwphr/mit_fieldsync_opensource_offlinefirst_inspection/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-51"></a>
+
 ### 51. Why use typescript instead of Java/C# or any other statically typed and compiled language?
 
-2026-10-28 · u/keeperpaige · score 89 · 99 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xhd5ut/why_use_typescript_instead_of_javac_or_any_other/)
+2026-10-28 · u/keeperpaige · score 89 · 99 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xhd5ut/why_use_typescript_instead_of_javac_or_any_other/) · [↑ back to the list](#last-50-posts)
 
 > Apologies for what would be considered a low level, dense, and quite honestly noob take. But at least for side projects, what would be the incentive to use typescript instead of any of the languages mentioned above or go? I understand you could possibly have a shared language across front and backend, another one is that you can “iterate quickly”, but with AI couldn’t you argue that you could iterate just as fast with a compiled language? And that’s not to say, “oh since we have ai let’s write everything in rust”. I don’t think that. But it just feels like typescript is held together with duct tape and glue. More specifically, with the CVE’s, and also more often than not where you would need to install other packages to get certain functionality. please correct me if I’m wrong or share what you think. I understand there are multiple other factors that go into evaluations of such things, but I guess through a pure technical lens is what I’m getting at
 
+<a id="post-52"></a>
+
 ### 52. What backend skill made the biggest difference in your first two years?
 
-2026-10-26 · u/OrbitAfterOrbit · score 75 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xfrkzp/what_backend_skill_made_the_biggest_difference_in/)
+2026-10-26 · u/OrbitAfterOrbit · score 75 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xfrkzp/what_backend_skill_made_the_biggest_difference_in/) · [↑ back to the list](#last-50-posts)
 
 > I am early in my backend career and learning APIs, databases, authentication, system design, and production debugging. For people who have been doing backend work for a while, which skill made the biggest difference early on, and why?
 
+<a id="post-53"></a>
+
 ### 53. Modern Java for startups
 
-2026-10-16 · u/Sad_Importance_1585 · score 67 · 72 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x7p9h7/modern_java_for_startups/)
+2026-10-16 · u/Sad_Importance_1585 · score 67 · 72 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x7p9h7/modern_java_for_startups/) · [↑ back to the list](#last-50-posts)
 
 > Unfortunately, I see that Java is disappearing from startup companies. Java used to have an image of an obsolete backend language with performance problems, too verbose and unfriendly to deveopers. It was pretty true to older Java versions and I could understand why startups decided to pick other backend languages
 >
@@ -680,9 +786,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > If so, why are startups still stay away from Java and stick to Python/node.js/Golang?
 
+<a id="post-54"></a>
+
 ### 54. Backend development is more than just building APIs — what should I focus on next?
 
-2026-10-24 · u/No_Bar7578 · score 63 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xe6z6f/backend_development_is_more_than_just_building/)
+2026-10-24 · u/No_Bar7578 · score 63 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xe6z6f/backend_development_is_more_than_just_building/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone 👋
 >
@@ -709,9 +817,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > I'd appreciate honest advice, learning resources, and lessons from your own experience. Thanks! 🙌
 
+<a id="post-55"></a>
+
 ### 55. Looking for People to Build Projects Together!
 
-2026-10-18 · u/Remarkable-Trash-769 · score 52 · 86 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x90v6k/looking_for_people_to_build_projects_together/)
+2026-10-18 · u/Remarkable-Trash-769 · score 52 · 86 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x90v6k/looking_for_people_to_build_projects_together/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -725,9 +835,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > If you're interested, feel free to comment or DM me. Let's build something together!
 
+<a id="post-56"></a>
+
 ### 56. Enjoying Go, but the junior job market looks empty
 
-2026-11-01 · u/alber_to1 · score 52 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xl4pfy/enjoying_go_but_the_junior_job_market_looks_empty/)
+2026-11-01 · u/alber_to1 · score 52 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xl4pfy/enjoying_go_but_the_junior_job_market_looks_empty/) · [↑ back to the list](#last-50-posts)
 
 > I'm a Software Engineering MSc student with no industry experience yet (just some prior projects with Dart/Flutter).
 >
@@ -737,9 +849,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > ​Should I double down on Go and build strong portfolio projects, or cut my losses and learn .NET to land that first job?
 
+<a id="post-57"></a>
+
 ### 57. Client retries a DELETE after a timeout. Second call: 404, 204 or 410?
 
-2026-10-15 · u/ClickOk5811 · score 49 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6w7km/client_retries_a_delete_after_a_timeout_second/)
+2026-10-15 · u/ClickOk5811 · score 49 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6w7km/client_retries_a_delete_after_a_timeout_second/) · [↑ back to the list](#last-50-posts)
 
 > A small API design question where I keep seeing different answers.
 >
@@ -762,18 +876,22 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > Which one do you pick, and does it change when the clients are automated retriers rather than people poking at an API?
 
+<a id="post-58"></a>
+
 ### 58. Im interested in backend but not frontend
 
-2026-10-21 · u/Commercial_You- · score 39 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xbf59n/im_interested_in_backend_but_not_frontend/)
+2026-10-21 · u/Commercial_You- · score 39 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xbf59n/im_interested_in_backend_but_not_frontend/) · [↑ back to the list](#last-50-posts)
 
 > Hi my goal is to learn ml but i also want to learn backend with basics of frontend  
 > I want suggestion from where i can learn good backend with frontend basics thanks  
 > Also if there are stacks for backend also, please suggest(dont know anything about it yet)  
 > Thanks
 
+<a id="post-59"></a>
+
 ### 59. Websocket or REST?
 
-2026-10-23 · u/viciousvatsal · score 38 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xdt0ss/websocket_or_rest/)
+2026-10-23 · u/viciousvatsal · score 38 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xdt0ss/websocket_or_rest/) · [↑ back to the list](#last-50-posts)
 
 > I am building a real time app that also has a group chat. I will need a websocket connection for this, which introduces complexity at the system level for scaling, but that's not the point of this post.
 >
@@ -781,9 +899,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > I will have to open a websocket connection for my app to work. So I am tempted to use websocket for CRUD operations on my app as well that are outside of the group chat. Like when user changes settings or changes profile picture I might as well send a websocket message which has lower latency compared to an HTTP request which will create a new connection on each request. For some reason I think this is not the best practice. Do other apps do it this way? I see apps like reddit or insta where when you change your user settings they are instant, like toggling a setting on/off. It doesn't look like a POST request.
 
+<a id="post-60"></a>
+
 ### 60. 5+ years into backend development - how should I navigate my career with AI evolving so rapidly?
 
-2026-10-15 · u/Moon-Light-37 · score 32 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6o6ih/5_years_into_backend_development_how_should_i/)
+2026-10-15 · u/Moon-Light-37 · score 32 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6o6ih/5_years_into_backend_development_how_should_i/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -814,9 +934,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > Thanks!
 
+<a id="post-61"></a>
+
 ### 61. Is Kafka still your default choice for event streaming?
 
-2026-11-02 · u/SadViolinist2405 · score 32 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xltg9o/is_kafka_still_your_default_choice_for_event/)
+2026-11-02 · u/SadViolinist2405 · score 32 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xltg9o/is_kafka_still_your_default_choice_for_event/) · [↑ back to the list](#last-50-posts)
 
 > I have seen quite a few Kafka vs. RabbitMQ comparisons lately, and I've noticed streaming is still often associated primarily with Kafka, even though RabbitMQ also supports persistent streams.
 >
@@ -830,9 +952,11 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > I'd be interested in hearing about the trade-offs you've encountered, especially from developers running streaming workloads at scale.
 
+<a id="post-62"></a>
+
 ### 62. I've Learned Backend Engineering, Distributed Systems, and Some ML — What Should I Learn Next?
 
-2026-10-30 · u/Conscious-State5249 · score 30 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xjcdj4/ive_learned_backend_engineering_distributed/)
+2026-10-30 · u/Conscious-State5249 · score 30 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xjcdj4/ive_learned_backend_engineering_distributed/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -892,16 +1016,20 @@ Link: <https://i.redd.it/2elqb2qs7fzh1.png>
 >
 > Thanks!
 
+<a id="post-63"></a>
+
 ### 63. Processes vs Threads vs Cores: What Every Developer Should Know
 
-2026-10-16 · u/javinpaul · score 27 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x7k21l/processes_vs_threads_vs_cores_what_every/)
+2026-10-16 · u/javinpaul · score 27 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x7k21l/processes_vs_threads_vs_cores_what_every/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://javarevisited.substack.com/p/processes-vs-threads-vs-cores-what>
 
 
+<a id="post-64"></a>
+
 ### 64. Client timeouts are triggering duplicate model calls across our middleware layers
 
-2026-10-20 · u/SatisfactionOnly1523 · score 26 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xarhay/client_timeouts_are_triggering_duplicate_model/)
+2026-10-20 · u/SatisfactionOnly1523 · score 26 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xarhay/client_timeouts_are_triggering_duplicate_model/) · [↑ back to the list](#last-50-posts)
 
 > Yesterday we finally traced why 96000 model requests a day were costing more than the traffic suggested. About 6720 requests, or 7%, cross a 5 second client timeout. The original model request keeps running while 2 different middleware layers each launch their own fallback. Those timed out customer requests turn into over 20k billable model calls which leaves us paying for 13k duplicate calls every day. At an average 9000 tokens per call, the duplicate branches add nearly 121 million tokens daily.  
 >
@@ -913,9 +1041,11 @@ Link: <https://javarevisited.substack.com/p/processes-vs-threads-vs-cores-what>
 >
 > Curious what patterns work best for catching duplicate branches early before they start pushing up p95 cost.
 
+<a id="post-65"></a>
+
 ### 65. Career Progression from Backend Development
 
-2026-10-13 · u/VisualSmoke7 · score 26 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x4tkx9/career_progression_from_backend_development/)
+2026-10-13 · u/VisualSmoke7 · score 26 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x4tkx9/career_progression_from_backend_development/) · [↑ back to the list](#last-50-posts)
 
 > A newbie Backend Developer here with just few months of experience. Due to the rapid progression of AI, I have constantly been skeptical about the stability about my job. So I wanted to learn about the career progression that can happen from backend development. What skills should I learn more about so that I can always be relevant in the current job market? 
 >
@@ -925,9 +1055,11 @@ Link: <https://javarevisited.substack.com/p/processes-vs-threads-vs-cores-what>
 >
 > And Yes, I have considered farming as one of the career progression jobs in the future.
 
+<a id="post-66"></a>
+
 ### 66. Strong backend, poor DSA
 
-2026-10-15 · u/arreyyaarr · score 24 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6dlx9/strong_backend_poor_dsa/)
+2026-10-15 · u/arreyyaarr · score 24 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1x6dlx9/strong_backend_poor_dsa/) · [↑ back to the list](#last-50-posts)
 
 > I am 2.5YOE and have strong experience in Backend (APIs, springboot, K8s, docker, redis, kafka, sql, nosql, elasticsearch, new relic, AWS and CI/CD)
 >
@@ -937,9 +1069,11 @@ Link: <https://javarevisited.substack.com/p/processes-vs-threads-vs-cores-what>
 >
 > But any chance are there any good product based companies which give importance to backend than DSA?
 
+<a id="post-67"></a>
+
 ### 67. How are your companies actually adopting AI? Are we just too slow in banking?
 
-2026-10-21 · u/Due_Direction_1867 · score 21 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xc3arx/how_are_your_companies_actually_adopting_ai_are/)
+2026-10-21 · u/Due_Direction_1867 · score 21 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/Backend/comments/1xc3arx/how_are_your_companies_actually_adopting_ai_are/) · [↑ back to the list](#last-50-posts)
 
 > I'm a software developer working at a bank, and I feel like we're way behind when it comes to AI adoption.
 >

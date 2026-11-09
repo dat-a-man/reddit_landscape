@@ -37,56 +37,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Postgres vs MySQL: I Broke Both](https://www.reddit.com/r/Database/comments/1xpii62/postgres_vs_mysql_i_broke_both/) | u/huseyinbabal | — | youtube.com | 1 | 0 | removed by mod | — |
-| 2 | 2026-11-06 | [3,683 of 3,683 tasks had no owner, so a role with every permission off could still clone them](https://www.reddit.com/r/Database/comments/1xpahi6/3683_of_3683_tasks_had_no_owner_so_a_role_with/) | u/Ok-Motor-9812 | — | text | 0 | 4 | live | — |
-| 3 | 2026-11-06 | [Why does a query with a CTE sometimes take forever to execute?](https://www.reddit.com/r/Database/comments/1xp19zb/why_does_a_query_with_a_cte_sometimes_take/) | u/shdw_0x0 | — | text | 0 | 11 | live | — |
-| 4 | 2026-11-05 | [What do you look for first when reading a query plan?](https://www.reddit.com/r/Database/comments/1xotv7k/what_do_you_look_for_first_when_reading_a_query/) | u/debba_ | — | text | 1 | 0 | removed by mod | — |
-| 5 | 2026-11-05 | [Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it](https://www.reddit.com/r/Database/comments/1xojot7/moving_from_pertenant_sqlite_to_one_shared/) | u/plxs05092026 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 6 | 2026-11-05 | [I built a proxy that keeps each tenant's rows in their own Postgres, using LIST partitioning and postgres_fdw](https://www.reddit.com/r/Database/comments/1xoiiox/i_built_a_proxy_that_keeps_each_tenants_rows_in/) | u/One_Turnover9394 | — | text | 1 | 0 | removed by mod | — |
-| 7 | 2026-11-04 | [Thinking of adding soft delete (deleted_at)? Decide these 5 things first](https://www.reddit.com/r/Database/comments/1xnwiov/thinking_of_adding_soft_delete_deleted_at_decide/) | u/ig_suyas | — | text | 35 | 17 | live | — |
-| 8 | 2026-11-04 | [I built an open-source desktop database manager using Rust, Tauri, and React – Meet SiphonDB](https://www.reddit.com/r/Database/comments/1xnpc49/i_built_an_opensource_desktop_database_manager/) | u/premod_suraweera | — | i.redd.it | 1 | 0 | removed by mod | — |
-| 9 | 2026-11-03 | [MySQL is not opening on macOS](https://www.reddit.com/r/Database/comments/1xn7eoc/mysql_is_not_opening_on_macos/) | u/TomFighter | — | reddit.com | 0 | 5 | live | — |
-| 10 | 2026-11-02 | [I Overloaded Postgres and SQLite](https://www.reddit.com/r/Database/comments/1xm5x3u/i_overloaded_postgres_and_sqlite/) | u/huseyinbabal | — | youtu.be | 4 | 6 | live | — |
-| 11 | 2026-11-02 | [Are dedicated vector databases necessary, or is pgvector enough for most AI apps?](https://www.reddit.com/r/Database/comments/1xm4o20/are_dedicated_vector_databases_necessary_or_is/) | u/Chris__Codes | — | text | 0 | 12 | live | — |
-| 12 | 2026-11-02 | [Is my relational model suitable for handling order changes and cancellations?](https://www.reddit.com/r/Database/comments/1xlz2vb/is_my_relational_model_suitable_for_handling/) | u/Rolney_320 | — | i.redd.it | 1 | 5 | live | — |
-| 13 | 2026-11-02 | [Release RESTHeart 9.13.0 - now supports MongoDB 9.0](https://www.reddit.com/r/Database/comments/1xlujja/release_restheart_9130_now_supports_mongodb_90/) | u/Inevitable_Put_4032 | — | github.com | 1 | 0 | removed by mod | — |
-| 14 | 2026-11-02 | [Struggling with designing a part of my database.](https://www.reddit.com/r/Database/comments/1xlu6tf/struggling_with_designing_a_part_of_my_database/) | u/Kyurupuku | — | i.redd.it | 16 | 11 | live | — |
-| 15 | 2026-11-01 | [Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS](https://www.reddit.com/r/Database/comments/1xlg5ym/feedback_wanted_spring_boot_saas_starter_with/) | u/chafian1 | — | text | 1 | 0 | removed by mod | — |
-| 16 | 2026-11-01 | [We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.](https://www.reddit.com/r/Database/comments/1xlcmhi/we_pointed_our_sql_editor_at_a_64table_database/) | u/tabitha_tm | — | v.redd.it | 0 | 0 | live | — |
-| 17 | 2026-11-01 | [MongoDB in 5 Minutes](https://www.reddit.com/r/Database/comments/1xl7etl/mongodb_in_5_minutes/) | u/huseyinbabal | — | youtu.be | 0 | 0 | removed by mod | — |
-| 18 | 2026-11-01 | [Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS](https://www.reddit.com/r/Database/comments/1xl3ykg/feedback_wanted_spring_boot_saas_starter_with/) | u/chafian1 | — | text | 1 | 0 | removed by mod | — |
-| 19 | 2026-11-01 | [import streamlit as st import pandas as pd import sqlite3 # Configuración de página limpia y profesional st.s…](https://www.reddit.com/r/Database/comments/1xl1on7/import_streamlit_as_st_import_pandas_as_pd_import/) | u/Beginning_Potato_574 | — | text | 0 | 0 | spam-filtered | — |
-| 20 | 2026-11-01 | [Moving the app closer to users somehow made it slower](https://www.reddit.com/r/Database/comments/1xl1ij4/moving_the_app_closer_to_users_somehow_made_it/) | u/Kayl45 | — | text | 0 | 7 | live | — |
-| 21 | 2026-10-31 | [When do you actually use window functions instead of GROUP BY?](https://www.reddit.com/r/Database/comments/1xkhbic/when_do_you_actually_use_window_functions_instead/) | u/shdw_0x0 | — | text | 35 | 15 | live | — |
-| 22 | 2026-10-31 | [My first PowerShell module: A local NoSQL-style database built on top of SQLite](https://www.reddit.com/r/Database/comments/1xk54xm/my_first_powershell_module_a_local_nosqlstyle/) | u/alonso0492 | — | reddit.com | 1 | 0 | removed by mod | — |
-| 23 | 2026-10-30 | [How mutex handling LRU cache head update became a bottleneck in InnoDB in a non-partitioned LRU cache schema…](https://www.reddit.com/r/Database/comments/1xjnsuh/how_mutex_handling_lru_cache_head_update_became_a/) | u/drrtuy-b | — | mariadb.org | 13 | 1 | live | — |
-| 24 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](https://www.reddit.com/r/Database/comments/1xjasgn/launching_duckdb_toolkit_for_jetbrains_with/) | u/bodiam | — | reddit.com | 2 | 0 | removed by mod | — |
-| 25 | 2026-10-30 | [Database Workbench 7.1.0 now available](https://www.reddit.com/r/Database/comments/1xja7pa/database_workbench_710_now_available/) | u/mariuz | — | upscene.com | 1 | 0 | removed by mod | — |
-| 26 | 2026-10-29 | [Coding Agents, Starter Kits and pgledger](https://www.reddit.com/r/Database/comments/1xiptg2/coding_agents_starter_kits_and_pgledger/) | u/pgr0ss | — | pgrs.net | 4 | 0 | live | — |
-| 27 | 2026-10-29 | [Databases and Memory Latency](https://www.reddit.com/r/Database/comments/1xioqeu/databases_and_memory_latency/) | u/bobbymk10 | — | pivotlake.io | 13 | 0 | live | — |
-| 28 | 2026-10-29 | [How would you model user preferences that change over time?](https://www.reddit.com/r/Database/comments/1ximd22/how_would_you_model_user_preferences_that_change/) | u/Financial_Fox3915 | — | text | 10 | 7 | live | — |
-| 29 | 2026-10-29 | [Paging through rows by updated_at can skip some, and I didnt realise why until a whiteboard chat with an engi…](https://www.reddit.com/r/Database/comments/1xik201/paging_through_rows_by_updated_at_can_skip_some/) | u/cannyshammy | — | text | 26 | 12 | live | — |
-| 30 | 2026-10-29 | [How Firebird QA works and why it needs to be stronger](https://www.reddit.com/r/Database/comments/1xiferd/how_firebird_qa_works_and_why_it_needs_to_be/) | u/mariuz | — | firebirdsql.org | 1 | 0 | removed by mod | — |
-| 31 | 2026-10-28 | [How are you giving AI agents access to production data that contains customer PII?](https://www.reddit.com/r/Database/comments/1xhyd53/how_are_you_giving_ai_agents_access_to_production/) | u/JoLagoni2 | — | text | 26 | 60 | live | — |
-| 32 | 2026-10-28 | [Most data contract tools only test the schema you declared. A 2026 comparison of open source and commercial O…](https://www.reddit.com/r/Database/comments/1xhsxqo/most_data_contract_tools_only_test_the_schema_you/) | u/datakitchen-io | — | text | 1 | 0 | removed by mod | — |
-| 33 | 2026-10-28 | [What was the turning point for Postgres?](https://www.reddit.com/r/Database/comments/1xhs62n/what_was_the_turning_point_for_postgres/) | u/siren0x | — | planetscale.com | 3 | 0 | live | — |
-| 34 | 2026-10-28 | [P15 vs four Hyperscale configurations: results from replaying 4 hours of production workload](https://www.reddit.com/r/Database/comments/1xhmm4d/p15_vs_four_hyperscale_configurations_results/) | u/markinatlanta | — | i.redd.it | 2 | 0 | live | — |
-| 35 | 2026-10-28 | [Moving the app closer to users somehow made it slower](https://www.reddit.com/r/Database/comments/1xhlgyi/moving_the_app_closer_to_users_somehow_made_it/) | u/faintlagoon | — | text | 0 | 0 | content_takedown | — |
-| 36 | 2026-10-27 | [Animations for System Builders: Metastability and Lost Writes](https://www.reddit.com/r/Database/comments/1xgzvw3/animations_for_system_builders_metastability_and/) | u/lucidsparrow982 | — | brooker.co.za | 3 | 1 | removed by mod | — |
-| 37 | 2026-10-27 | [How do you prevent analytical queries from tanking your transactional database?](https://www.reddit.com/r/Database/comments/1xgxcgg/how_do_you_prevent_analytical_queries_from/) | u/Chris__Codes | — | text | 1 | 0 | live | — |
-| 38 | 2026-10-27 | [GitHub - srdzank/WinSQLite-Editor: supported sqlite_vec](https://www.reddit.com/r/Database/comments/1xgupwv/github_srdzankwinsqliteeditor_supported_sqlite_vec/) | u/SrdzanK3 | — | github.com | 1 | 0 | removed by mod | — |
-| 39 | 2026-10-27 | [I built TableCraft, an open source database IDE inspired by DataGrip](https://www.reddit.com/r/Database/comments/1xgun40/i_built_tablecraft_an_open_source_database_ide/) | u/No_Impression_9452 | — | i.redd.it | 1 | 0 | removed by mod | — |
-| 40 | 2026-10-27 | [How fresh does analytics on your transactional data need to be, and what did you pick to get there?](https://www.reddit.com/r/Database/comments/1xguakw/how_fresh_does_analytics_on_your_transactional/) | u/OkShirt9372 | — | text | 4 | 14 | live | — |
-| 41 | 2026-10-27 | [pg_pinecone: an Apache 2.0 vector index extension for Postgres (IVF + RaBitQ, filters applied during the sear…](https://www.reddit.com/r/Database/comments/1xgtfi8/pg_pinecone_an_apache_20_vector_index_extension/) | u/http418teapot | — | text | 1 | 0 | removed by mod | — |
-| 42 | 2026-10-27 | [PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code](https://www.reddit.com/r/Database/comments/1xgnti1/postgresql_like_a_pro_build_query_and/) | u/mariuz | — | developer.microsoft.com | 4 | 3 | live | — |
-| 43 | 2026-10-26 | [Ledger design for a multi-currency player wallet: integer minor units vs NUMERIC, and how do you dedupe retri…](https://www.reddit.com/r/Database/comments/1xfw4s7/ledger_design_for_a_multicurrency_player_wallet/) | u/SoftAggregator | — | text | 1 | 0 | spam-filtered | — |
-| 44 | 2026-10-25 | [Case for a database experts in the team.](https://www.reddit.com/r/Database/comments/1xfbglw/case_for_a_database_experts_in_the_team/) | u/Upper-Lifeguard-8478 | — | reddit.com | 6 | 1 | live | — |
-| 45 | 2026-10-25 | [Soft delete vs hard delete: the case for each, and what would decide it for me](https://www.reddit.com/r/Database/comments/1xfawu9/soft_delete_vs_hard_delete_the_case_for_each_and/) | u/ClickOk5811 | — | text | 2 | 8 | removed by mod | — |
-| 46 | 2026-10-24 | [While building a token optimizer I found that 95% of the tokens Claude spent on one of my databases were bein…](https://www.reddit.com/r/Database/comments/1xeghsz/while_building_a_token_optimizer_i_found_that_95/) | u/TimAtMongoDB | — | text | 14 | 23 | live | — |
-| 47 | 2026-10-24 | [My classmate said MySQL is "just a GUI" and mocked my Docker setup... In the next class, he presented this🙂](https://www.reddit.com/r/Database/comments/1xeb67u/my_classmate_said_mysql_is_just_a_gui_and_mocked/) | u/Yash07071 | — | drive.google.com | 0 | 0 | spam-filtered | — |
-| 48 | 2026-10-24 | [Twelve years of distributed SQLite](https://www.reddit.com/r/Database/comments/1xdvvh1/twelve_years_of_distributed_sqlite/) | u/hudddb3 | — | philipotoole.com | 38 | 0 | live | — |
-| 49 | 2026-10-23 | [Meet Chronos: a database where your agent’s changes land only if they keep your rules](https://www.reddit.com/r/Database/comments/1xdneps/meet_chronos_a_database_where_your_agents_changes/) | u/Antique-Willow-5841 | — | reddit.com | 0 | 0 | removed by mod | — |
-| 50 | 2026-10-23 | [How do you decide when a database optimization is no longer worth it?](https://www.reddit.com/r/Database/comments/1xdkbeu/how_do_you_decide_when_a_database_optimization_is/) | u/shdw_0x0 | — | text | 27 | 24 | live | — |
+| 1 | 2026-11-06 | [Postgres vs MySQL: I Broke Both](#post-1) | u/huseyinbabal | — | youtube.com | 1 | 0 | removed by mod | — |
+| 2 | 2026-11-06 | [3,683 of 3,683 tasks had no owner, so a role with every permission off could still clone them](#post-2) | u/Ok-Motor-9812 | — | text | 0 | 4 | live | — |
+| 3 | 2026-11-06 | [Why does a query with a CTE sometimes take forever to execute?](#post-3) | u/shdw_0x0 | — | text | 0 | 11 | live | — |
+| 4 | 2026-11-05 | [What do you look for first when reading a query plan?](#post-4) | u/debba_ | — | text | 1 | 0 | removed by mod | — |
+| 5 | 2026-11-05 | [Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it](#post-5) | u/plxs05092026 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 6 | 2026-11-05 | [I built a proxy that keeps each tenant's rows in their own Postgres, using LIST partitioning and postgres_fdw](#post-6) | u/One_Turnover9394 | — | text | 1 | 0 | removed by mod | — |
+| 7 | 2026-11-04 | [Thinking of adding soft delete (deleted_at)? Decide these 5 things first](#post-7) | u/ig_suyas | — | text | 35 | 17 | live | — |
+| 8 | 2026-11-04 | [I built an open-source desktop database manager using Rust, Tauri, and React – Meet SiphonDB](#post-8) | u/premod_suraweera | — | i.redd.it | 1 | 0 | removed by mod | — |
+| 9 | 2026-11-03 | [MySQL is not opening on macOS](#post-9) | u/TomFighter | — | reddit.com | 0 | 5 | live | — |
+| 10 | 2026-11-02 | [I Overloaded Postgres and SQLite](#post-10) | u/huseyinbabal | — | youtu.be | 4 | 6 | live | — |
+| 11 | 2026-11-02 | [Are dedicated vector databases necessary, or is pgvector enough for most AI apps?](#post-11) | u/Chris__Codes | — | text | 0 | 12 | live | — |
+| 12 | 2026-11-02 | [Is my relational model suitable for handling order changes and cancellations?](#post-12) | u/Rolney_320 | — | i.redd.it | 1 | 5 | live | — |
+| 13 | 2026-11-02 | [Release RESTHeart 9.13.0 - now supports MongoDB 9.0](#post-13) | u/Inevitable_Put_4032 | — | github.com | 1 | 0 | removed by mod | — |
+| 14 | 2026-11-02 | [Struggling with designing a part of my database.](#post-14) | u/Kyurupuku | — | i.redd.it | 16 | 11 | live | — |
+| 15 | 2026-11-01 | [Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS](#post-15) | u/chafian1 | — | text | 1 | 0 | removed by mod | — |
+| 16 | 2026-11-01 | [We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.](#post-16) | u/tabitha_tm | — | v.redd.it | 0 | 0 | live | — |
+| 17 | 2026-11-01 | [MongoDB in 5 Minutes](#post-17) | u/huseyinbabal | — | youtu.be | 0 | 0 | removed by mod | — |
+| 18 | 2026-11-01 | [Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS](#post-18) | u/chafian1 | — | text | 1 | 0 | removed by mod | — |
+| 19 | 2026-11-01 | [import streamlit as st import pandas as pd import sqlite3 # Configuración de página limpia y profesional st.s…](#post-19) | u/Beginning_Potato_574 | — | text | 0 | 0 | spam-filtered | — |
+| 20 | 2026-11-01 | [Moving the app closer to users somehow made it slower](#post-20) | u/Kayl45 | — | text | 0 | 7 | live | — |
+| 21 | 2026-10-31 | [When do you actually use window functions instead of GROUP BY?](#post-21) | u/shdw_0x0 | — | text | 35 | 15 | live | — |
+| 22 | 2026-10-31 | [My first PowerShell module: A local NoSQL-style database built on top of SQLite](#post-22) | u/alonso0492 | — | reddit.com | 1 | 0 | removed by mod | — |
+| 23 | 2026-10-30 | [How mutex handling LRU cache head update became a bottleneck in InnoDB in a non-partitioned LRU cache schema…](#post-23) | u/drrtuy-b | — | mariadb.org | 13 | 1 | live | — |
+| 24 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](#post-24) | u/bodiam | — | reddit.com | 2 | 0 | removed by mod | — |
+| 25 | 2026-10-30 | [Database Workbench 7.1.0 now available](#post-25) | u/mariuz | — | upscene.com | 1 | 0 | removed by mod | — |
+| 26 | 2026-10-29 | [Coding Agents, Starter Kits and pgledger](#post-26) | u/pgr0ss | — | pgrs.net | 4 | 0 | live | — |
+| 27 | 2026-10-29 | [Databases and Memory Latency](#post-27) | u/bobbymk10 | — | pivotlake.io | 13 | 0 | live | — |
+| 28 | 2026-10-29 | [How would you model user preferences that change over time?](#post-28) | u/Financial_Fox3915 | — | text | 10 | 7 | live | — |
+| 29 | 2026-10-29 | [Paging through rows by updated_at can skip some, and I didnt realise why until a whiteboard chat with an engi…](#post-29) | u/cannyshammy | — | text | 26 | 12 | live | — |
+| 30 | 2026-10-29 | [How Firebird QA works and why it needs to be stronger](#post-30) | u/mariuz | — | firebirdsql.org | 1 | 0 | removed by mod | — |
+| 31 | 2026-10-28 | [How are you giving AI agents access to production data that contains customer PII?](#post-31) | u/JoLagoni2 | — | text | 26 | 60 | live | — |
+| 32 | 2026-10-28 | [Most data contract tools only test the schema you declared. A 2026 comparison of open source and commercial O…](#post-32) | u/datakitchen-io | — | text | 1 | 0 | removed by mod | — |
+| 33 | 2026-10-28 | [What was the turning point for Postgres?](#post-33) | u/siren0x | — | planetscale.com | 3 | 0 | live | — |
+| 34 | 2026-10-28 | [P15 vs four Hyperscale configurations: results from replaying 4 hours of production workload](#post-34) | u/markinatlanta | — | i.redd.it | 2 | 0 | live | — |
+| 35 | 2026-10-28 | [Moving the app closer to users somehow made it slower](#post-35) | u/faintlagoon | — | text | 0 | 0 | content_takedown | — |
+| 36 | 2026-10-27 | [Animations for System Builders: Metastability and Lost Writes](#post-36) | u/lucidsparrow982 | — | brooker.co.za | 3 | 1 | removed by mod | — |
+| 37 | 2026-10-27 | [How do you prevent analytical queries from tanking your transactional database?](#post-37) | u/Chris__Codes | — | text | 1 | 0 | live | — |
+| 38 | 2026-10-27 | [GitHub - srdzank/WinSQLite-Editor: supported sqlite_vec](#post-38) | u/SrdzanK3 | — | github.com | 1 | 0 | removed by mod | — |
+| 39 | 2026-10-27 | [I built TableCraft, an open source database IDE inspired by DataGrip](#post-39) | u/No_Impression_9452 | — | i.redd.it | 1 | 0 | removed by mod | — |
+| 40 | 2026-10-27 | [How fresh does analytics on your transactional data need to be, and what did you pick to get there?](#post-40) | u/OkShirt9372 | — | text | 4 | 14 | live | — |
+| 41 | 2026-10-27 | [pg_pinecone: an Apache 2.0 vector index extension for Postgres (IVF + RaBitQ, filters applied during the sear…](#post-41) | u/http418teapot | — | text | 1 | 0 | removed by mod | — |
+| 42 | 2026-10-27 | [PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code](#post-42) | u/mariuz | — | developer.microsoft.com | 4 | 3 | live | — |
+| 43 | 2026-10-26 | [Ledger design for a multi-currency player wallet: integer minor units vs NUMERIC, and how do you dedupe retri…](#post-43) | u/SoftAggregator | — | text | 1 | 0 | spam-filtered | — |
+| 44 | 2026-10-25 | [Case for a database experts in the team.](#post-44) | u/Upper-Lifeguard-8478 | — | reddit.com | 6 | 1 | live | — |
+| 45 | 2026-10-25 | [Soft delete vs hard delete: the case for each, and what would decide it for me](#post-45) | u/ClickOk5811 | — | text | 2 | 8 | removed by mod | — |
+| 46 | 2026-10-24 | [While building a token optimizer I found that 95% of the tokens Claude spent on one of my databases were bein…](#post-46) | u/TimAtMongoDB | — | text | 14 | 23 | live | — |
+| 47 | 2026-10-24 | [My classmate said MySQL is "just a GUI" and mocked my Docker setup... In the next class, he presented this🙂](#post-47) | u/Yash07071 | — | drive.google.com | 0 | 0 | spam-filtered | — |
+| 48 | 2026-10-24 | [Twelve years of distributed SQLite](#post-48) | u/hudddb3 | — | philipotoole.com | 38 | 0 | live | — |
+| 49 | 2026-10-23 | [Meet Chronos: a database where your agent’s changes land only if they keep your rules](#post-49) | u/Antique-Willow-5841 | — | reddit.com | 0 | 0 | removed by mod | — |
+| 50 | 2026-10-23 | [How do you decide when a database optimization is no longer worth it?](#post-50) | u/shdw_0x0 | — | text | 27 | 24 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -94,42 +94,46 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-17 | [Unpopular opinion : kubernetes is a terrible tool for most organizations](https://www.reddit.com/r/Database/comments/1x8l968/unpopular_opinion_kubernetes_is_a_terrible_tool/) | u/toterra | — | text | 486 | 170 | live |
-| 48 | 2026-10-24 | [Twelve years of distributed SQLite](https://www.reddit.com/r/Database/comments/1xdvvh1/twelve_years_of_distributed_sqlite/) | u/hudddb3 | — | philipotoole.com | 38 | 0 | live |
-| 7 | 2026-11-04 | [Thinking of adding soft delete (deleted_at)? Decide these 5 things first](https://www.reddit.com/r/Database/comments/1xnwiov/thinking_of_adding_soft_delete_deleted_at_decide/) | u/ig_suyas | — | text | 35 | 17 | live |
-| 21 | 2026-10-31 | [When do you actually use window functions instead of GROUP BY?](https://www.reddit.com/r/Database/comments/1xkhbic/when_do_you_actually_use_window_functions_instead/) | u/shdw_0x0 | — | text | 35 | 15 | live |
-| 50 | 2026-10-23 | [How do you decide when a database optimization is no longer worth it?](https://www.reddit.com/r/Database/comments/1xdkbeu/how_do_you_decide_when_a_database_optimization_is/) | u/shdw_0x0 | — | text | 27 | 24 | live |
-| 31 | 2026-10-28 | [How are you giving AI agents access to production data that contains customer PII?](https://www.reddit.com/r/Database/comments/1xhyd53/how_are_you_giving_ai_agents_access_to_production/) | u/JoLagoni2 | — | text | 26 | 60 | live |
-| 29 | 2026-10-29 | [Paging through rows by updated_at can skip some, and I didnt realise why until a whiteboard chat with an engi…](https://www.reddit.com/r/Database/comments/1xik201/paging_through_rows_by_updated_at_can_skip_some/) | u/cannyshammy | — | text | 26 | 12 | live |
-| 14 | 2026-11-02 | [Struggling with designing a part of my database.](https://www.reddit.com/r/Database/comments/1xlu6tf/struggling_with_designing_a_part_of_my_database/) | u/Kyurupuku | — | i.redd.it | 16 | 11 | live |
-| 46 | 2026-10-24 | [While building a token optimizer I found that 95% of the tokens Claude spent on one of my databases were bein…](https://www.reddit.com/r/Database/comments/1xeghsz/while_building_a_token_optimizer_i_found_that_95/) | u/TimAtMongoDB | — | text | 14 | 23 | live |
-| 52 | 2026-10-17 | [I Traced a Postgres INSERT to Raw Bytes on Disk](https://www.reddit.com/r/Database/comments/1x8lc8t/i_traced_a_postgres_insert_to_raw_bytes_on_disk/) | u/IndicationAntique667 | — | text | 14 | 9 | live |
-| 23 | 2026-10-30 | [How mutex handling LRU cache head update became a bottleneck in InnoDB in a non-partitioned LRU cache schema…](https://www.reddit.com/r/Database/comments/1xjnsuh/how_mutex_handling_lru_cache_head_update_became_a/) | u/drrtuy-b | — | mariadb.org | 13 | 1 | live |
-| 27 | 2026-10-29 | [Databases and Memory Latency](https://www.reddit.com/r/Database/comments/1xioqeu/databases_and_memory_latency/) | u/bobbymk10 | — | pivotlake.io | 13 | 0 | live |
-| 28 | 2026-10-29 | [How would you model user preferences that change over time?](https://www.reddit.com/r/Database/comments/1ximd22/how_would_you_model_user_preferences_that_change/) | u/Financial_Fox3915 | — | text | 10 | 7 | live |
-| 53 | 2026-10-22 | [How to Integrate two apps exclusively through the Database](https://www.reddit.com/r/Database/comments/1xct61e/how_to_integrate_two_apps_exclusively_through_the/) | u/Confident-Guest-3478 | — | text | 9 | 14 | live |
-| 54 | 2026-10-15 | [Help with ERD](https://www.reddit.com/r/Database/comments/1x6961g/help_with_erd/) | u/cyrusz042 | — | reddit.com | 9 | 3 | live |
-| 55 | 2026-10-20 | [Streaming data from legacy on-prem systems to the cloud, where to start?](https://www.reddit.com/r/Database/comments/1xaownw/streaming_data_from_legacy_onprem_systems_to_the/) | u/Then_Date1452 | — | text | 8 | 12 | live |
-| 56 | 2026-10-10 | [Does normalisation survive if the unit of storage is a single fact rather than a row?](https://www.reddit.com/r/Database/comments/1x2o64h/does_normalisation_survive_if_the_unit_of_storage/) | u/witness142 | — | text | 7 | 10 | live |
-| 57 | 2026-10-11 | [Where can I find a geeky dataset?](https://www.reddit.com/r/Database/comments/1x351n4/where_can_i_find_a_geeky_dataset/) | u/paulino8921 | — | text | 6 | 8 | live |
-| 44 | 2026-10-25 | [Case for a database experts in the team.](https://www.reddit.com/r/Database/comments/1xfbglw/case_for_a_database_experts_in_the_team/) | u/Upper-Lifeguard-8478 | — | reddit.com | 6 | 1 | live |
-| 58 | 2026-10-12 | [Is this 3NF design right? If not can someone provide help?](https://www.reddit.com/r/Database/comments/1x3pjwv/is_this_3nf_design_right_if_not_can_someone/) | u/SeaLog7878 | — | text | 5 | 14 | live |
+| 51 | 2026-10-17 | [Unpopular opinion : kubernetes is a terrible tool for most organizations](#post-51) | u/toterra | — | text | 486 | 170 | live |
+| 48 | 2026-10-24 | [Twelve years of distributed SQLite](#post-48) | u/hudddb3 | — | philipotoole.com | 38 | 0 | live |
+| 7 | 2026-11-04 | [Thinking of adding soft delete (deleted_at)? Decide these 5 things first](#post-7) | u/ig_suyas | — | text | 35 | 17 | live |
+| 21 | 2026-10-31 | [When do you actually use window functions instead of GROUP BY?](#post-21) | u/shdw_0x0 | — | text | 35 | 15 | live |
+| 50 | 2026-10-23 | [How do you decide when a database optimization is no longer worth it?](#post-50) | u/shdw_0x0 | — | text | 27 | 24 | live |
+| 31 | 2026-10-28 | [How are you giving AI agents access to production data that contains customer PII?](#post-31) | u/JoLagoni2 | — | text | 26 | 60 | live |
+| 29 | 2026-10-29 | [Paging through rows by updated_at can skip some, and I didnt realise why until a whiteboard chat with an engi…](#post-29) | u/cannyshammy | — | text | 26 | 12 | live |
+| 14 | 2026-11-02 | [Struggling with designing a part of my database.](#post-14) | u/Kyurupuku | — | i.redd.it | 16 | 11 | live |
+| 46 | 2026-10-24 | [While building a token optimizer I found that 95% of the tokens Claude spent on one of my databases were bein…](#post-46) | u/TimAtMongoDB | — | text | 14 | 23 | live |
+| 52 | 2026-10-17 | [I Traced a Postgres INSERT to Raw Bytes on Disk](#post-52) | u/IndicationAntique667 | — | text | 14 | 9 | live |
+| 23 | 2026-10-30 | [How mutex handling LRU cache head update became a bottleneck in InnoDB in a non-partitioned LRU cache schema…](#post-23) | u/drrtuy-b | — | mariadb.org | 13 | 1 | live |
+| 27 | 2026-10-29 | [Databases and Memory Latency](#post-27) | u/bobbymk10 | — | pivotlake.io | 13 | 0 | live |
+| 28 | 2026-10-29 | [How would you model user preferences that change over time?](#post-28) | u/Financial_Fox3915 | — | text | 10 | 7 | live |
+| 53 | 2026-10-22 | [How to Integrate two apps exclusively through the Database](#post-53) | u/Confident-Guest-3478 | — | text | 9 | 14 | live |
+| 54 | 2026-10-15 | [Help with ERD](#post-54) | u/cyrusz042 | — | reddit.com | 9 | 3 | live |
+| 55 | 2026-10-20 | [Streaming data from legacy on-prem systems to the cloud, where to start?](#post-55) | u/Then_Date1452 | — | text | 8 | 12 | live |
+| 56 | 2026-10-10 | [Does normalisation survive if the unit of storage is a single fact rather than a row?](#post-56) | u/witness142 | — | text | 7 | 10 | live |
+| 57 | 2026-10-11 | [Where can I find a geeky dataset?](#post-57) | u/paulino8921 | — | text | 6 | 8 | live |
+| 44 | 2026-10-25 | [Case for a database experts in the team.](#post-44) | u/Upper-Lifeguard-8478 | — | reddit.com | 6 | 1 | live |
+| 58 | 2026-10-12 | [Is this 3NF design right? If not can someone provide help?](#post-58) | u/SeaLog7878 | — | text | 5 | 14 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Postgres vs MySQL: I Broke Both
 
-2026-11-06 · u/huseyinbabal · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xpii62/postgres_vs_mysql_i_broke_both/)
+2026-11-06 · u/huseyinbabal · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xpii62/postgres_vs_mysql_i_broke_both/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=-_5gK8TbLGw&si=aN-G46qF3CchuwYP>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. 3,683 of 3,683 tasks had no owner, so a role with every permission off could still clone them
 
-2026-11-06 · u/Ok-Motor-9812 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xpahi6/3683_of_3683_tasks_had_no_owner_so_a_role_with/)
+2026-11-06 · u/Ok-Motor-9812 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xpahi6/3683_of_3683_tasks_had_no_owner_so_a_role_with/) · [↑ back to the list](#last-50-posts)
 
 > A security definer function checked "has the permission, or is the creator, or is the assignee" and raised if that was false. The tasks were seeded automatically, all 3,683 of them with owner and assignee NULL.
 >
@@ -141,9 +145,11 @@ Link: <https://youtube.com/watch?v=-_5gK8TbLGw&si=aN-G46qF3CchuwYP>
 >
 > Screenshot is a small rebuild on Postgres 17. The fix was coalesce(..., false) around the whole condition. Writing it as "if allowed then do the work, else raise" fails closed too, i think that reads better anyway.
 
+<a id="post-3"></a>
+
 ### 3. Why does a query with a CTE sometimes take forever to execute?
 
-2026-11-06 · u/shdw_0x0 · score 0 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xp19zb/why_does_a_query_with_a_cte_sometimes_take/)
+2026-11-06 · u/shdw_0x0 · score 0 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xp19zb/why_does_a_query_with_a_cte_sometimes_take/) · [↑ back to the list](#last-50-posts)
 
 > I've noticed that some SQL queries using `WITH` clauses (CTEs) take significantly longer to execute than expected, especially when multiple CTEs are chained together.
 >
@@ -155,29 +161,37 @@ Link: <https://youtube.com/watch?v=-_5gK8TbLGw&si=aN-G46qF3CchuwYP>
 >
 > Which database are you using, and have you run into this issue?
 
+<a id="post-4"></a>
+
 ### 4. What do you look for first when reading a query plan?
 
-2026-11-05 · u/debba_ · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xotv7k/what_do_you_look_for_first_when_reading_a_query/)
+2026-11-05 · u/debba_ · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xotv7k/what_do_you_look_for_first_when_reading_a_query/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it
 
-2026-11-05 · u/plxs05092026 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xojot7/moving_from_pertenant_sqlite_to_one_shared/)
+2026-11-05 · u/plxs05092026 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xojot7/moving_from_pertenant_sqlite_to_one_shared/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/softwarearchitecture/comments/1xojolw/moving_from_pertenant_sqlite_to_one_shared/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. I built a proxy that keeps each tenant's rows in their own Postgres, using LIST partitioning and postgres_fdw
 
-2026-11-05 · u/One_Turnover9394 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xoiiox/i_built_a_proxy_that_keeps_each_tenants_rows_in/)
+2026-11-05 · u/One_Turnover9394 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xoiiox/i_built_a_proxy_that_keeps_each_tenants_rows_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Thinking of adding soft delete (deleted_at)? Decide these 5 things first
 
-2026-11-04 · u/ig_suyas · score 35 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xnwiov/thinking_of_adding_soft_delete_deleted_at_decide/)
+2026-11-04 · u/ig_suyas · score 35 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xnwiov/thinking_of_adding_soft_delete_deleted_at_decide/) · [↑ back to the list](#last-50-posts)
 
 > 1.  Unique constraints.  A deleted user still "uses" their username. Use a partial unique index (\`where deleted\_at is null\`).  
 > 2.  Every query must filter deleted rows.  Miss one, and deleted data shows up in a report or API response.  
@@ -188,32 +202,40 @@ Link: <https://www.reddit.com/r/softwarearchitecture/comments/1xojolw/moving_fro
 >
 > Do you use soft delete, or did you move to archive tables instead?
 
+<a id="post-8"></a>
+
 ### 8. I built an open-source desktop database manager using Rust, Tauri, and React – Meet SiphonDB
 
-2026-11-04 · u/premod_suraweera · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xnpc49/i_built_an_opensource_desktop_database_manager/)
+2026-11-04 · u/premod_suraweera · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xnpc49/i_built_an_opensource_desktop_database_manager/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tuqxnt4qtlzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. MySQL is not opening on macOS
 
-2026-11-03 · u/TomFighter · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xn7eoc/mysql_is_not_opening_on_macos/)
+2026-11-03 · u/TomFighter · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xn7eoc/mysql_is_not_opening_on_macos/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/mysql/comments/1xn7efr/mysql_is_not_opening_on_macos/>
 
 
+<a id="post-10"></a>
+
 ### 10. I Overloaded Postgres and SQLite
 
-2026-11-02 · u/huseyinbabal · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xm5x3u/i_overloaded_postgres_and_sqlite/)
+2026-11-02 · u/huseyinbabal · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xm5x3u/i_overloaded_postgres_and_sqlite/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/ulycfdlJaNk>
 
 > If you prefer reading article: https://huseyinbabal.dev/posts/postgres-vs-sqlite-load-test/
 
+<a id="post-11"></a>
+
 ### 11. Are dedicated vector databases necessary, or is pgvector enough for most AI apps?
 
-2026-11-02 · u/Chris__Codes · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xm4o20/are_dedicated_vector_databases_necessary_or_is/)
+2026-11-02 · u/Chris__Codes · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xm4o20/are_dedicated_vector_databases_necessary_or_is/) · [↑ back to the list](#last-50-posts)
 
 > I was looking into how to build out the database architecture for a new RAG agent and found out the landscape is basically splitting into two camps.
 >
@@ -223,9 +245,11 @@ Link: <https://youtu.be/ulycfdlJaNk>
 >
 > For those running AI apps in production, which way did you go, and did you ever regret it?
 
+<a id="post-12"></a>
+
 ### 12. Is my relational model suitable for handling order changes and cancellations?
 
-2026-11-02 · u/Rolney_320 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlz2vb/is_my_relational_model_suitable_for_handling/)
+2026-11-02 · u/Rolney_320 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlz2vb/is_my_relational_model_suitable_for_handling/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/79dis5gmo7zh1.png>
 
@@ -246,17 +270,21 @@ Link: <https://i.redd.it/79dis5gmo7zh1.png>
 >
 > I've attached a simplified ERD for context.
 
+<a id="post-13"></a>
+
 ### 13. Release RESTHeart 9.13.0 - now supports MongoDB 9.0
 
-2026-11-02 · u/Inevitable_Put_4032 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlujja/release_restheart_9130_now_supports_mongodb_90/)
+2026-11-02 · u/Inevitable_Put_4032 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlujja/release_restheart_9130_now_supports_mongodb_90/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/SoftInstigate/restheart/releases/tag/9.13.0>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. Struggling with designing a part of my database.
 
-2026-11-02 · u/Kyurupuku · score 16 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlu6tf/struggling_with_designing_a_part_of_my_database/)
+2026-11-02 · u/Kyurupuku · score 16 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlu6tf/struggling_with_designing_a_part_of_my_database/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ybx50im1g6zh1.png>
 
@@ -275,47 +303,61 @@ Link: <https://i.redd.it/ybx50im1g6zh1.png>
 > Am I overthinking this? Ideally I'd want to stick to 3NF but I also don't want to overengineer this.  
 > How should I handle dynamic form/survey answers without sacrificing data integrity?
 
+<a id="post-15"></a>
+
 ### 15. Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS
 
-2026-11-01 · u/chafian1 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlg5ym/feedback_wanted_spring_boot_saas_starter_with/)
+2026-11-01 · u/chafian1 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlg5ym/feedback_wanted_spring_boot_saas_starter_with/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. We pointed our SQL editor at a 64-table database we'd never seen. It wrote the join, explained it, and ran it.
 
-2026-11-01 · u/tabitha_tm · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlcmhi/we_pointed_our_sql_editor_at_a_64table_database/)
+2026-11-01 · u/tabitha_tm · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xlcmhi/we_pointed_our_sql_editor_at_a_64table_database/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/mglzlygqo1zh1>
 
 
+<a id="post-17"></a>
+
 ### 17. MongoDB in 5 Minutes
 
-2026-11-01 · u/huseyinbabal · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl7etl/mongodb_in_5_minutes/)
+2026-11-01 · u/huseyinbabal · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl7etl/mongodb_in_5_minutes/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/9RyBcd8v9gg>
 
 
+<a id="post-18"></a>
+
 ### 18. Feedback wanted: Spring Boot SaaS starter with tenant roles and PostgreSQL RLS
 
-2026-11-01 · u/chafian1 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl3ykg/feedback_wanted_spring_boot_saas_starter_with/)
+2026-11-01 · u/chafian1 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl3ykg/feedback_wanted_spring_boot_saas_starter_with/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-19"></a>
 
 ### 19. import streamlit as st import pandas as pd import sqlite3 # Configuración de página limpia y profesional st.set_page_config(page_title="Rentable Sin Experiencia - Admin", page_icon="💰", layout="wide") # --- BASE DE DATOS --- def conectar_db(): return sqlite3.connect('micro_consultoria.db') d
 
-2026-11-01 · u/Beginning_Potato_574 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl1on7/import_streamlit_as_st_import_pandas_as_pd_import/)
+2026-11-01 · u/Beginning_Potato_574 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl1on7/import_streamlit_as_st_import_pandas_as_pd_import/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. Moving the app closer to users somehow made it slower
 
-2026-11-01 · u/Kayl45 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl1ij4/moving_the_app_closer_to_users_somehow_made_it/)
+2026-11-01 · u/Kayl45 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xl1ij4/moving_the_app_closer_to_users_somehow_made_it/) · [↑ back to the list](#last-50-posts)
 
 > A customer in brazil sent a recording of our dashboard loading slowly. Watching the cursor circle for six seconds was embarrassing. I moved the app to a Sao Paulo cloud vps on serverspace and the ping dropped immediately. The vm was fast and stable, so I thought I had found a simple latency win. Then the database pages became slower. The database was still in Europe. Every query crossed the Atlantic and came back. Moving the app closer to users had moved it farther from its own data. A nearby read replica fixed the worst of it. My mistake was treating the app location as the whole request path. Next time I am drawing that path before I touch the region selector
 
+<a id="post-21"></a>
+
 ### 21. When do you actually use window functions instead of GROUP BY?
 
-2026-10-31 · u/shdw_0x0 · score 35 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xkhbic/when_do_you_actually_use_window_functions_instead/)
+2026-10-31 · u/shdw_0x0 · score 35 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xkhbic/when_do_you_actually_use_window_functions_instead/) · [↑ back to the list](#last-50-posts)
 
 > I've been using `GROUP BY` for aggregations for a while, but I still find window functions a little confusing when deciding which approach makes more sense.
 >
@@ -325,62 +367,78 @@ Link: <https://youtu.be/9RyBcd8v9gg>
 >
 > I'd appreciate some practical examples that helped you understand when to use one over the other.
 
+<a id="post-22"></a>
+
 ### 22. My first PowerShell module: A local NoSQL-style database built on top of SQLite
 
-2026-10-31 · u/alonso0492 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xk54xm/my_first_powershell_module_a_local_nosqlstyle/)
+2026-10-31 · u/alonso0492 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xk54xm/my_first_powershell_module_a_local_nosqlstyle/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/sqlite/comments/1xk4owr/my_first_powershell_module_a_local_nosqlstyle/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. How mutex handling LRU cache head update became a bottleneck in InnoDB in a non-partitioned LRU cache schema for MariaDB
 
-2026-10-30 · u/drrtuy-b · score 13 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xjnsuh/how_mutex_handling_lru_cache_head_update_became_a/)
+2026-10-30 · u/drrtuy-b · score 13 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xjnsuh/how_mutex_handling_lru_cache_head_update_became_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://mariadb.org/how-mariadb-11-8-became-about-3x-faster-on-some-in-memory-workloads-fixing-a-regression-dating-back-to-10-5/>
 
 > Here is a blog post about Alessandro Vetere's journey to resolve synchronization on a common mutex that slows down some read microbenchmarks 3x.   
 > Kudos to Mark Callaghan who found this regression.
 
+<a id="post-24"></a>
+
 ### 24. Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams
 
-2026-10-30 · u/bodiam · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xjasgn/launching_duckdb_toolkit_for_jetbrains_with/)
+2026-10-30 · u/bodiam · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xjasgn/launching_duckdb_toolkit_for_jetbrains_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xjas9h>
 
 
+<a id="post-25"></a>
+
 ### 25. Database Workbench 7.1.0 now available
 
-2026-10-30 · u/mariuz · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xja7pa/database_workbench_710_now_available/)
+2026-10-30 · u/mariuz · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xja7pa/database_workbench_710_now_available/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.upscene.com/news/item/20261028>
 
 
+<a id="post-26"></a>
+
 ### 26. Coding Agents, Starter Kits and pgledger
 
-2026-10-29 · u/pgr0ss · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xiptg2/coding_agents_starter_kits_and_pgledger/)
+2026-10-29 · u/pgr0ss · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xiptg2/coding_agents_starter_kits_and_pgledger/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/>
 
 
+<a id="post-27"></a>
+
 ### 27. Databases and Memory Latency
 
-2026-10-29 · u/bobbymk10 · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xioqeu/databases_and_memory_latency/)
+2026-10-29 · u/bobbymk10 · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xioqeu/databases_and_memory_latency/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://pivotlake.io/blog/its-the-memory-latency-stupid/>
 
 
+<a id="post-28"></a>
+
 ### 28. How would you model user preferences that change over time?
 
-2026-10-29 · u/Financial_Fox3915 · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1ximd22/how_would_you_model_user_preferences_that_change/)
+2026-10-29 · u/Financial_Fox3915 · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1ximd22/how_would_you_model_user_preferences_that_change/) · [↑ back to the list](#last-50-posts)
 
 > Many applications save user preferences as separate fields like location, budget, interests and availability. This approach works fine until preferences change, conflict with past information or only apply to specific situations. Think about someone who initially prefers remote work but later becomes open to hybrid options. They might even be willing to move for a specific job without altering their general preference.
 >
 > If the system just replaces the old value it loses important context. If it keeps every change forever it can end up with outdated or conflicting data. For conversational products like Linkedin, Hirect, MeeBoss as well as more profile-based platforms Naukri and Indeed this presents an interesting challenge in how data is structured. Would you keep current preferences in standard tables and track changes in a separate log? Use a document model for more flexible attributes? or record each preference with its source, time, confidence level and scope? How would you manage corrections and set expiration dates without making every query too complex?
 
+<a id="post-29"></a>
+
 ### 29. Paging through rows by updated_at can skip some, and I didnt realise why until a whiteboard chat with an engineer
 
-2026-10-29 · u/cannyshammy · score 26 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xik201/paging_through_rows_by_updated_at_can_skip_some/)
+2026-10-29 · u/cannyshammy · score 26 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xik201/paging_through_rows_by_updated_at_can_skip_some/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys, not sure if this is useful to anyone but it surprised me so I thought I would share.
 >
@@ -392,17 +450,21 @@ Link: <https://pivotlake.io/blog/its-the-memory-latency-stupid/>
 >
 > If you want more detail the full chat is here: [https://youtu.be/pHrxmSjxLg8](https://youtu.be/pHrxmSjxLg8)
 
+<a id="post-30"></a>
+
 ### 30. How Firebird QA works and why it needs to be stronger
 
-2026-10-29 · u/mariuz · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xiferd/how_firebird_qa_works_and_why_it_needs_to_be/)
+2026-10-29 · u/mariuz · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xiferd/how_firebird_qa_works_and_why_it_needs_to_be/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://firebirdsql.org/file/articles/firebird-qa-en.html>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. How are you giving AI agents access to production data that contains customer PII?
 
-2026-10-28 · u/JoLagoni2 · score 26 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhyd53/how_are_you_giving_ai_agents_access_to_production/)
+2026-10-28 · u/JoLagoni2 · score 26 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhyd53/how_are_you_giving_ai_agents_access_to_production/) · [↑ back to the list](#last-50-posts)
 
 > Curious how people are actually handling this. At the enterprise I am working at and others where my friends work at, there is a push to deploy AI agents working on real company data (operational use cases, troubleshooting, analytics etc...), but the DBs are sometime full of customer or sensitive data and security just says no. Separate tables don’t help, read-only users don’t help, the agent can’t touch that DB, period. Even creating service users for AI agents and imposing separation it's just a friction.
 >
@@ -410,43 +472,55 @@ Link: <https://firebirdsql.org/file/articles/firebird-qa-en.html>
 >
 > Also if any of this, on which stack? Curious to hear as I assume many organisations are now relying on data teams to keep the AI agent rollout from stalling.
 
+<a id="post-32"></a>
+
 ### 32. Most data contract tools only test the schema you declared. A 2026 comparison of open source and commercial ODCS tools
 
-2026-10-28 · u/datakitchen-io · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhsxqo/most_data_contract_tools_only_test_the_schema_you/)
+2026-10-28 · u/datakitchen-io · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhsxqo/most_data_contract_tools_only_test_the_schema_you/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. What was the turning point for Postgres?
 
-2026-10-28 · u/siren0x · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhs62n/what_was_the_turning_point_for_postgres/)
+2026-10-28 · u/siren0x · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhs62n/what_was_the_turning_point_for_postgres/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://planetscale.com/blog/what-was-the-turning-point-for-postgres>
 
 
+<a id="post-34"></a>
+
 ### 34. P15 vs four Hyperscale configurations: results from replaying 4 hours of production workload
 
-2026-10-28 · u/markinatlanta · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhmm4d/p15_vs_four_hyperscale_configurations_results/)
+2026-10-28 · u/markinatlanta · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhmm4d/p15_vs_four_hyperscale_configurations_results/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/jzfh48n4b7yh1.jpeg>
 
 
+<a id="post-35"></a>
+
 ### 35. Moving the app closer to users somehow made it slower
 
-2026-10-28 · u/faintlagoon · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhlgyi/moving_the_app_closer_to_users_somehow_made_it/)
+2026-10-28 · u/faintlagoon · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Database/comments/1xhlgyi/moving_the_app_closer_to_users_somehow_made_it/) · [↑ back to the list](#last-50-posts)
 
 > A customer in Brazil sent a recording of our dashboard loading slowly. Watching the cursor circle for six seconds was embarrassing. I moved the app to a Sao Paulo cloud VPS on serverspace and the ping dropped immediately. The vm was fast and stable, so I thought I had found a simple latency win. Then the database pages became slower. The database was still in Europe. Every query crossed the atlantic and came back. Moving the app closer to users had moved it farther from its own data. A nearby read replica fixed the worst of it. My mistake was treating the app location as the whole request path. Next time I am drawing that path before I touch the region selector
 
+<a id="post-36"></a>
+
 ### 36. Animations for System Builders: Metastability and Lost Writes
 
-2026-10-27 · u/lucidsparrow982 · score 3 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgzvw3/animations_for_system_builders_metastability_and/)
+2026-10-27 · u/lucidsparrow982 · score 3 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgzvw3/animations_for_system_builders_metastability_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://brooker.co.za/blog/2026/10/23/animations.html>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. How do you prevent analytical queries from tanking your transactional database?
 
-2026-10-27 · u/Chris__Codes · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgxcgg/how_do_you_prevent_analytical_queries_from/)
+2026-10-27 · u/Chris__Codes · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgxcgg/how_do_you_prevent_analytical_queries_from/) · [↑ back to the list](#last-50-posts)
 
 > I was checking out how to build a live operational dashboard for a logistics app and found out about composed vs. converged HTAP architectures.
 >
@@ -454,25 +528,31 @@ Link: <https://brooker.co.za/blog/2026/10/23/animations.html>
 >
 > If you are running live analytics on operational data, how are you keeping the two from interfering with each other?
 
+<a id="post-38"></a>
+
 ### 38. GitHub - srdzank/WinSQLite-Editor: supported sqlite_vec
 
-2026-10-27 · u/SrdzanK3 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgupwv/github_srdzankwinsqliteeditor_supported_sqlite_vec/)
+2026-10-27 · u/SrdzanK3 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgupwv/github_srdzankwinsqliteeditor_supported_sqlite_vec/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/srdzank/WinSQLite-Editor>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. I built TableCraft, an open source database IDE inspired by DataGrip
 
-2026-10-27 · u/No_Impression_9452 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgun40/i_built_tablecraft_an_open_source_database_ide/)
+2026-10-27 · u/No_Impression_9452 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgun40/i_built_tablecraft_an_open_source_database_ide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ez8f658rw0yh1.gif>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. How fresh does analytics on your transactional data need to be, and what did you pick to get there?
 
-2026-10-27 · u/OkShirt9372 · score 4 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xguakw/how_fresh_does_analytics_on_your_transactional/)
+2026-10-27 · u/OkShirt9372 · score 4 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xguakw/how_fresh_does_analytics_on_your_transactional/) · [↑ back to the list](#last-50-posts)
 
 > Most of what I read uses the term real-time for anything from a few seconds of delay to whatever is presented before the morning standup, and the database setup you end up with depends heavily on which end of that range you need. 
 >
@@ -480,35 +560,45 @@ Link: <https://i.redd.it/ez8f658rw0yh1.gif>
 >
 > For those of you who have had to make this call, I'd like to know how fresh the analytics had to be in the end, which of these you chose, and what caused trouble once it was in production, whether that was replica lag, schema changes, backfills, or cost. If you decided a nightly load was good enough, I'd like to hear that reasoning, too.
 
+<a id="post-41"></a>
+
 ### 41. pg_pinecone: an Apache 2.0 vector index extension for Postgres (IVF + RaBitQ, filters applied during the search)
 
-2026-10-27 · u/http418teapot · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgtfi8/pg_pinecone_an_apache_20_vector_index_extension/)
+2026-10-27 · u/http418teapot · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgtfi8/pg_pinecone_an_apache_20_vector_index_extension/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-42"></a>
+
 ### 42. PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code
 
-2026-10-27 · u/mariuz · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgnti1/postgresql_like_a_pro_build_query_and/)
+2026-10-27 · u/mariuz · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xgnti1/postgresql_like_a_pro_build_query_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://developer.microsoft.com/blog/postgresql-like-a-pro-vscode/>
 
 
+<a id="post-43"></a>
+
 ### 43. Ledger design for a multi-currency player wallet: integer minor units vs NUMERIC, and how do you dedupe retried callbacks?
 
-2026-10-26 · u/SoftAggregator · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfw4s7/ledger_design_for_a_multicurrency_player_wallet/)
+2026-10-26 · u/SoftAggregator · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfw4s7/ledger_design_for_a_multicurrency_player_wallet/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. Case for a database experts in the team.
 
-2026-10-25 · u/Upper-Lifeguard-8478 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfbglw/case_for_a_database_experts_in_the_team/)
+2026-10-25 · u/Upper-Lifeguard-8478 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfbglw/case_for_a_database_experts_in_the_team/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/aws/comments/1xfbfsv/case_for_a_database_experts_in_the_team/>
 
 
+<a id="post-45"></a>
+
 ### 45. Soft delete vs hard delete: the case for each, and what would decide it for me
 
-2026-10-25 · u/ClickOk5811 · score 2 · 8 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfawu9/soft_delete_vs_hard_delete_the_case_for_each_and/)
+2026-10-25 · u/ClickOk5811 · score 2 · 8 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xfawu9/soft_delete_vs_hard_delete_the_case_for_each_and/) · [↑ back to the list](#last-50-posts)
 
 > A decision that looks small and tends to stick for the life of a system. Here are both sides, written as fairly as I can.
 >
@@ -543,9 +633,11 @@ Link: <https://www.reddit.com/r/aws/comments/1xfbfsv/case_for_a_database_experts
 >
 > Where do you land, and has either choice caused you trouble later?
 
+<a id="post-46"></a>
+
 ### 46. While building a token optimizer I found that 95% of the tokens Claude spent on one of my databases were being wasted on something obvious
 
-2026-10-24 · u/TimAtMongoDB · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xeghsz/while_building_a_token_optimizer_i_found_that_95/)
+2026-10-24 · u/TimAtMongoDB · score 14 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xeghsz/while_building_a_token_optimizer_i_found_that_95/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys, yes another token article but this one is different.
 >
@@ -565,31 +657,39 @@ Link: <https://www.reddit.com/r/aws/comments/1xfbfsv/case_for_a_database_experts
 >
 > If you want the harness let me know.
 
+<a id="post-47"></a>
+
 ### 47. My classmate said MySQL is "just a GUI" and mocked my Docker setup... In the next class, he presented this🙂
 
-2026-10-24 · u/Yash07071 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xeb67u/my_classmate_said_mysql_is_just_a_gui_and_mocked/)
+2026-10-24 · u/Yash07071 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Database/comments/1xeb67u/my_classmate_said_mysql_is_just_a_gui_and_mocked/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://drive.google.com/drive/folders/1Cu8VwYFpnt-sbmE-MjFj3v_7FbXv1TKh>
 
 
+<a id="post-48"></a>
+
 ### 48. Twelve years of distributed SQLite
 
-2026-10-24 · u/hudddb3 · score 38 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdvvh1/twelve_years_of_distributed_sqlite/)
+2026-10-24 · u/hudddb3 · score 38 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdvvh1/twelve_years_of_distributed_sqlite/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://philipotoole.com/twelve-years-of-distributed-sqlite/>
 
 
+<a id="post-49"></a>
+
 ### 49. Meet Chronos: a database where your agent’s changes land only if they keep your rules
 
-2026-10-23 · u/Antique-Willow-5841 · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdneps/meet_chronos_a_database_where_your_agents_changes/)
+2026-10-23 · u/Antique-Willow-5841 · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdneps/meet_chronos_a_database_where_your_agents_changes/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AI_Agents/comments/1xdme5o/meet_chronos_a_database_where_your_agents_changes/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. How do you decide when a database optimization is no longer worth it?
 
-2026-10-23 · u/shdw_0x0 · score 27 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdkbeu/how_do_you_decide_when_a_database_optimization_is/)
+2026-10-23 · u/shdw_0x0 · score 27 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xdkbeu/how_do_you_decide_when_a_database_optimization_is/) · [↑ back to the list](#last-50-posts)
 
 > I've noticed that database performance tuning can become an ongoing cycle. You add indexes, rewrite queries, introduce caching, partition tables, and sometimes denormalize data to squeeze out more performance.
 >
@@ -601,9 +701,11 @@ Link: <https://www.reddit.com/r/AI_Agents/comments/1xdme5o/meet_chronos_a_databa
 >
 > I'd be interested in hearing about optimizations that genuinely paid off, as well as ones you later regretted.
 
+<a id="post-51"></a>
+
 ### 51. Unpopular opinion : kubernetes is a terrible tool for most organizations
 
-2026-10-17 · u/toterra · score 486 · 170 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x8l968/unpopular_opinion_kubernetes_is_a_terrible_tool/)
+2026-10-17 · u/toterra · score 486 · 170 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x8l968/unpopular_opinion_kubernetes_is_a_terrible_tool/) · [↑ back to the list](#last-50-posts)
 
 > For the last five years or so, I've had to deal with countless applications where the front-end and middle tiers are built around Kubernetes (k8s).
 >
@@ -619,9 +721,11 @@ Link: <https://www.reddit.com/r/AI_Agents/comments/1xdme5o/meet_chronos_a_databa
 >
 > Anyone else developed a particular hatred of k8s, or am I just consistently encountering terrible implementations?
 
+<a id="post-52"></a>
+
 ### 52. I Traced a Postgres INSERT to Raw Bytes on Disk
 
-2026-10-17 · u/IndicationAntique667 · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x8lc8t/i_traced_a_postgres_insert_to_raw_bytes_on_disk/)
+2026-10-17 · u/IndicationAntique667 · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x8lc8t/i_traced_a_postgres_insert_to_raw_bytes_on_disk/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -631,25 +735,31 @@ Link: <https://www.reddit.com/r/AI_Agents/comments/1xdme5o/meet_chronos_a_databa
 >
 > https://youtu.be/1tNMRcgUtb8?si=Sn1WYBs9H9lOsnLj
 
+<a id="post-53"></a>
+
 ### 53. How to Integrate two apps exclusively through the Database
 
-2026-10-22 · u/Confident-Guest-3478 · score 9 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xct61e/how_to_integrate_two_apps_exclusively_through_the/)
+2026-10-22 · u/Confident-Guest-3478 · score 9 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xct61e/how_to_integrate_two_apps_exclusively_through_the/) · [↑ back to the list](#last-50-posts)
 
 > \[I'm a beginner\]
 >
 > I have an assignment where I have this hipotetical scenario where a farmacy works their recipts through a propietary application they acquired when they were just entering business, due to this, they only have access to the database of the application. Now that business is better than before they have a little  development team, they created an app to manage customer accounts payable and outstanding invoices for products sold on credit, but to integrate that process, the assigment says  to do it through the database using triggers (I'd also like to learn about other methods, just for my own knowledge).
 
+<a id="post-54"></a>
+
 ### 54. Help with ERD
 
-2026-10-15 · u/cyrusz042 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x6961g/help_with_erd/)
+2026-10-15 · u/cyrusz042 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x6961g/help_with_erd/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x6961g>
 
 > Hello I'm a newbie college student studying databases and I'm currently making a database for a small inventory system that's solely focused on monitoring stocks and its shelf life to avoid running out of stock and pull outs for my project. The store I'm basing it off on sells seasoning and other powdered flavoring (beverages, etc.), they also explained that they get bulk products from the supplier and then they repack them into smaller quantities for selling. What would be the proper entities and attributes for this system? I've tried searching other inventory systems but i don't know how the repacking would be translated to the database/ERD
 
+<a id="post-55"></a>
+
 ### 55. Streaming data from legacy on-prem systems to the cloud, where to start?
 
-2026-10-20 · u/Then_Date1452 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xaownw/streaming_data_from_legacy_onprem_systems_to_the/)
+2026-10-20 · u/Then_Date1452 · score 8 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1xaownw/streaming_data_from_legacy_onprem_systems_to_the/) · [↑ back to the list](#last-50-posts)
 
 > I'm kicking off a cloud migration and the oldest systems are the part that's making me nervous.
 >
@@ -657,9 +767,11 @@ Link: <https://www.reddit.com/gallery/1x6961g>
 >
 > For anyone who's moved \*\*streaming data\*\* out of legacy environments, where did you start?
 
+<a id="post-56"></a>
+
 ### 56. Does normalisation survive if the unit of storage is a single fact rather than a row?
 
-2026-10-10 · u/witness142 · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x2o64h/does_normalisation_survive_if_the_unit_of_storage/)
+2026-10-10 · u/witness142 · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x2o64h/does_normalisation_survive_if_the_unit_of_storage/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working with the Algebra of Data, where the smallest structure is the couplet — one ordered pair, one fact — and a relation is a set of couplets. There’s no wide tuple over a fixed heading.
 >
@@ -669,15 +781,19 @@ Link: <https://www.reddit.com/gallery/1x6961g>
 >
 > Where do you think this breaks? Full essay (I’m the author): [https://robinbloor.substack.com/p/does-normalisation-survive-data-algebra](https://robinbloor.substack.com/p/does-normalisation-survive-data-algebra)
 
+<a id="post-57"></a>
+
 ### 57. Where can I find a geeky dataset?
 
-2026-10-11 · u/paulino8921 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x351n4/where_can_i_find_a_geeky_dataset/)
+2026-10-11 · u/paulino8921 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x351n4/where_can_i_find_a_geeky_dataset/) · [↑ back to the list](#last-50-posts)
 
 > I'm looking for a dataset for my bachelor's thesis, and I need one with lots of variables and observations so I can perform multivariate analysis and predictive modeling. Does anyone know where I could find a geeky dataset related to anime, comics, video games, or anything similar? Any suggestions would be greatly appreciated!
 
+<a id="post-58"></a>
+
 ### 58. Is this 3NF design right? If not can someone provide help?
 
-2026-10-12 · u/SeaLog7878 · score 5 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x3pjwv/is_this_3nf_design_right_if_not_can_someone/)
+2026-10-12 · u/SeaLog7878 · score 5 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Database/comments/1x3pjwv/is_this_3nf_design_right_if_not_can_someone/) · [↑ back to the list](#last-50-posts)
 
 > Apologies for the long read in advance but if anyone can help or point me in the right direction, I'd greatly appreciate it :) 
 >

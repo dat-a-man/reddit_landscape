@@ -32,56 +32,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-05-27 | [Azure Data Engineer Training Course in Electronic City](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1tovcem/azure_data_engineer_training_course_in_electronic/) | u/Ordinary_Cover_1003 | — | text | 1 | 0 | spam-filtered | — |
-| 2 | 2026-04-17 | [🚀 Azure AI Free Demo – Build Smart AI Skills 🤖](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1snyosw/azure_ai_free_demo_build_smart_ai_skills/) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-04-15 | [🚀 Azure AI Free Demo – Learn from Experts](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sm3uh2/azure_ai_free_demo_learn_from_experts/) | u/Euphoric-Listen8849 | — | text | 1 | 1 | spam-filtered | — |
-| 4 | 2026-04-09 | [🚀 Azure AI Training Free Demo – Register Now!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sgnjfm/azure_ai_training_free_demo_register_now/) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
-| 5 | 2026-04-02 | [Azure AI Course Online \| Azure AI Training in Ameerpet](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1saf96m/azure_ai_course_online_azure_ai_training_in/) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-01-17 | [Issues With Spark 3.5 In Azure Synapse Notebooks](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1qfaofx/issues_with_spark_35_in_azure_synapse_notebooks/) | u/PenguinArsenal | — | — | 2 | 0 | approved | — |
-| 7 | 2025-12-29 | [Is Azure Synapse broken for anyone else? Please Help](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pyfep1/is_azure_synapse_broken_for_anyone_else_please/) | u/thephotocrawler | Discussion | — | 1 | 0 | live | — |
-| 8 | 2025-12-12 | [Get ready to sleigh the season with the Fabric Partner Community!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pl4ob3/get_ready_to_sleigh_the_season_with_the_fabric/) | u/FabricPartnerTeam | — | text | 1 | 1 | live | — |
-| 9 | 2025-10-31 | [Azure Data Engineer Course In Electronic City Bangalore](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1okkb9y/azure_data_engineer_course_in_electronic_city/) | u/Ordinary_Cover_1003 | — | text | 1 | 0 | spam-filtered | — |
-| 10 | 2025-10-17 | [Job support for azure synapse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o8tso1/job_support_for_azure_synapse/) | u/Weak_Temperature_853 | — | text | 1 | 2 | live | — |
-| 11 | 2025-10-14 | [Can we connect to smtp host host for outlook using web activity to send emails using post method with out usi…](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o6khm2/can_we_connect_to_smtp_host_host_for_outlook/) | u/data_learner_123 | — | text | 1 | 0 | live | — |
-| 12 | 2025-09-20 | [odata $expand not working](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1nm4vou/odata_expand_not_working/) | u/Altruistic-Crab9607 | — | text | 2 | 0 | live | — |
-| 13 | 2025-08-14 | [Need help Copy activity based on last modified filter](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1mprp51/need_help_copy_activity_based_on_last_modified/) | u/Frodan2525 | — | text | 1 | 0 | live | — |
-| 14 | 2025-06-15 | [Microsoft Puview roles for manage unified catalogs](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1lbwfz6/microsoft_puview_roles_for_manage_unified_catalogs/) | u/redska_ | — | — | 1 | 0 | live | — |
-| 15 | 2025-05-08 | [Connect and Design with Azure Synapse using a GUI Tool](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1khneob/connect_and_design_with_azure_synapse_using_a_gui/) | u/NoInteraction8306 | — | youtu.be | 1 | 0 | live | — |
-| 16 | 2025-04-10 | [Realtime Assignment questions- i am a beginner need step by step clear explanation.](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jvzza7/realtime_assignment_questions_i_am_a_beginner/) | u/Dazzling_Position154 | — | text | 1 | 0 | live | — |
-| 17 | 2025-04-05 | [50,000 FREE Microsoft Certification exam vouchers \| DP-600, DP-700, PL-300 and more!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jsbotk/50000_free_microsoft_certification_exam_vouchers/) | u/itsnotaboutthecell | Announcement | — | 1 | 0 | live | — |
-| 18 | 2025-04-05 | [Migration Assistant for Fabric Data Warehouse (Preview)](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1js5eag/migration_assistant_for_fabric_data_warehouse/) | u/itsnotaboutthecell | — | blog.fabric.microsoft.com | 2 | 0 | live | — |
-| 19 | 2025-03-26 | [Multiple workspaces, one git repo](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkfwq4/multiple_workspaces_one_git_repo/) | u/rr-geil-j | — | text | 2 | 1 | live | — |
-| 20 | 2025-03-26 | [Ask the Microsoft Fabric Warehouse Team Anything! \| NOW LIVE!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkesqu/ask_the_microsoft_fabric_warehouse_team_anything/) | u/itsnotaboutthecell | — | — | 1 | 0 | live | — |
-| 21 | 2025-03-21 | [Upcoming ask the Microsoft Fabric Warehouse Team anything!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jgtii6/upcoming_ask_the_microsoft_fabric_warehouse_team/) | u/itsnotaboutthecell | — | — | 4 | 0 | live | — |
-| 22 | 2025-03-09 | [Mastering Ordered Analytics and Window Functions on Azure Synapse and SQL Server](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j7h3t5/mastering_ordered_analytics_and_window_functions/) | u/NexusDataPro | — | text | 3 | 0 | live | — |
-| 23 | 2025-03-05 | [Biggest Issue in SQL - Date Functions and Date Formatting](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j49zdg/biggest_issue_in_sql_date_functions_and_date/) | u/NexusDataPro | — | text | 1 | 0 | live | — |
-| 24 | 2025-02-18 | [Data Share Options from Delta Table in Azure](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1isnu7z/data_share_options_from_delta_table_in_azure/) | u/D_A_engineer | — | — | 1 | 0 | live | — |
-| 25 | 2025-02-03 | [🚀 Deploy DeepSeek-R1 AI on Azure Foundry – Full Tutorial! 🔥](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1iggm6z/deploy_deepseekr1_ai_on_azure_foundry_full/) | u/balramprasad | — | youtube.com | 1 | 0 | live | — |
-| 26 | 2025-02-01 | [How to get data through delta sharing in Synapse?](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1if5heg/how_to_get_data_through_delta_sharing_in_synapse/) | u/Ecstatic-Cat-5830 | — | text | 1 | 0 | live | — |
-| 27 | 2025-01-27 | [Azure Synapse account creation email conflict?](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ib5w55/azure_synapse_account_creation_email_conflict/) | u/JessieRubina | — | text | 1 | 0 | live | — |
-| 28 | 2025-01-15 | [Apache Spark Pools broken](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i27uo8/apache_spark_pools_broken/) | u/ForsakenTask1561 | — | text | 2 | 3 | live | — |
-| 29 | 2025-01-14 | [Synapse requires SQL server 2022? (not 2019?)](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i19i00/synapse_requires_sql_server_2022_not_2019/) | u/Fearadhach | — | text | 1 | 1 | live | — |
-| 30 | 2025-01-07 | [Pipeline execution in az synapse analytics](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1hw541o/pipeline_execution_in_az_synapse_analytics/) | u/galeanorpo | — | text | 1 | 0 | live | — |
-| 31 | 2024-11-28 | [Poor performance in Synapse Serverless](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1tm5t/poor_performance_in_synapse_serverless/) | u/agneum | — | text | 4 | 0 | live | — |
-| 32 | 2024-11-28 | [UAMI authentication to Gen2 from Synapse Notebook.](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1sq7g/uami_authentication_to_gen2_from_synapse_notebook/) | u/cosmic_jester_uk | — | text | 2 | 0 | live | — |
-| 33 | 2024-11-02 | [What is the future here?](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ghvhdx/what_is_the_future_here/) | u/Apprehensive-Box281 | — | text | 4 | 2 | live | — |
-| 34 | 2024-10-28 | [Publish action works, but error is delivered via email afterwards.](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1geabzl/publish_action_works_but_error_is_delivered_via/) | u/Sagrilarus | — | text | 1 | 0 | live | — |
-| 35 | 2024-10-19 | [Azure Data Factory Question](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g791wr/azure_data_factory_question/) | u/ProjectBeneficial954 | — | text | 2 | 6 | live | — |
-| 36 | 2024-10-16 | [synapse Vs present feelings](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g58js3/synapse_vs_present_feelings/) | u/zyzyky | — | text | 1 | 4 | live | — |
-| 37 | 2024-09-25 | [Slow "transfer" from staging to table](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fp32yk/slow_transfer_from_staging_to_table/) | u/Apprehensive-Box281 | — | text | 2 | 1 | live | — |
-| 38 | 2024-09-19 | [Have few questions related to datalake in azure.](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fkdn01/have_few_questions_related_to_datalake_in_azure/) | u/Apprehensive-Load-78 | — | — | 1 | 0 | live | — |
-| 39 | 2024-09-13 | [Filter SAP Data at Source with Synapse/ADF CDC](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fg4dc0/filter_sap_data_at_source_with_synapseadf_cdc/) | u/mtzzzzz | — | text | 1 | 3 | live | — |
-| 40 | 2024-09-12 | [Access/Permissions Question](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ff4zmd/accesspermissions_question/) | u/Willing_Junket_8846 | — | text | 1 | 0 | live | — |
-| 41 | 2024-09-03 | [LAND YOUR DREAM JOBS IN JUST HOURS with THIS AI TOOL!](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5zi/land_your_dream_jobs_in_just_hours_with_this_ai/) | u/ChiaPlotting | — | text | 1 | 1 | deleted by author | — |
-| 42 | 2024-09-03 | [Test PostTest PostTest PostTest PostTest PostTest PostTest Post](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5xn/test_posttest_posttest_posttest_posttest_posttest/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 43 | 2024-08-18 | [Using synapse for data warehouse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ev7qof/using_synapse_for_data_warehouse/) | u/BigProfessional7267 | — | text | 3 | 6 | live | — |
-| 44 | 2024-08-07 | [Method for using data from one query in another.](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1emmu7h/method_for_using_data_from_one_query_in_another/) | u/Apprehensive-Box281 | — | text | 1 | 0 | live | — |
-| 45 | 2024-07-19 | [Consuming Power BI Data Flow in Azure Synapse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e7dayp/consuming_power_bi_data_flow_in_azure_synapse/) | u/RufusPDufus | — | text | 1 | 0 | live | — |
-| 46 | 2024-07-19 | [Security restrictions within Synapse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e6zprr/security_restrictions_within_synapse/) | u/Mathlete7 | — | text | 1 | 0 | live | — |
-| 47 | 2024-07-12 | [200$ Azure Syn Analtics Free trial](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e1m23h/200_azure_syn_analtics_free_trial/) | u/Sure-Evidence-7981 | — | text | 1 | 0 | live | — |
-| 48 | 2024-07-10 | [Setting up security within Synapse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dzw5my/setting_up_security_within_synapse/) | u/Mathlete7 | — | text | 1 | 2 | live | — |
-| 49 | 2024-07-05 | [Need help on Azure Synapse](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dw2vmv/need_help_on_azure_synapse/) | u/eyesdief | — | text | 1 | 5 | live | — |
-| 50 | 2024-06-28 | [SQL serverless pool infinite running](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dqiaoy/sql_serverless_pool_infinite_running/) | u/Gold_Meal5306 | — | text | 1 | 0 | live | — |
+| 1 | 2026-05-27 | [Azure Data Engineer Training Course in Electronic City](#post-1) | u/Ordinary_Cover_1003 | — | text | 1 | 0 | spam-filtered | — |
+| 2 | 2026-04-17 | [🚀 Azure AI Free Demo – Build Smart AI Skills 🤖](#post-2) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-04-15 | [🚀 Azure AI Free Demo – Learn from Experts](#post-3) | u/Euphoric-Listen8849 | — | text | 1 | 1 | spam-filtered | — |
+| 4 | 2026-04-09 | [🚀 Azure AI Training Free Demo – Register Now!](#post-4) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
+| 5 | 2026-04-02 | [Azure AI Course Online \| Azure AI Training in Ameerpet](#post-5) | u/Euphoric-Listen8849 | — | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-01-17 | [Issues With Spark 3.5 In Azure Synapse Notebooks](#post-6) | u/PenguinArsenal | — | — | 2 | 0 | approved | — |
+| 7 | 2025-12-29 | [Is Azure Synapse broken for anyone else? Please Help](#post-7) | u/thephotocrawler | Discussion | — | 1 | 0 | live | — |
+| 8 | 2025-12-12 | [Get ready to sleigh the season with the Fabric Partner Community!](#post-8) | u/FabricPartnerTeam | — | text | 1 | 1 | live | — |
+| 9 | 2025-10-31 | [Azure Data Engineer Course In Electronic City Bangalore](#post-9) | u/Ordinary_Cover_1003 | — | text | 1 | 0 | spam-filtered | — |
+| 10 | 2025-10-17 | [Job support for azure synapse](#post-10) | u/Weak_Temperature_853 | — | text | 1 | 2 | live | — |
+| 11 | 2025-10-14 | [Can we connect to smtp host host for outlook using web activity to send emails using post method with out usi…](#post-11) | u/data_learner_123 | — | text | 1 | 0 | live | — |
+| 12 | 2025-09-20 | [odata $expand not working](#post-12) | u/Altruistic-Crab9607 | — | text | 2 | 0 | live | — |
+| 13 | 2025-08-14 | [Need help Copy activity based on last modified filter](#post-13) | u/Frodan2525 | — | text | 1 | 0 | live | — |
+| 14 | 2025-06-15 | [Microsoft Puview roles for manage unified catalogs](#post-14) | u/redska_ | — | — | 1 | 0 | live | — |
+| 15 | 2025-05-08 | [Connect and Design with Azure Synapse using a GUI Tool](#post-15) | u/NoInteraction8306 | — | youtu.be | 1 | 0 | live | — |
+| 16 | 2025-04-10 | [Realtime Assignment questions- i am a beginner need step by step clear explanation.](#post-16) | u/Dazzling_Position154 | — | text | 1 | 0 | live | — |
+| 17 | 2025-04-05 | [50,000 FREE Microsoft Certification exam vouchers \| DP-600, DP-700, PL-300 and more!](#post-17) | u/itsnotaboutthecell | Announcement | — | 1 | 0 | live | — |
+| 18 | 2025-04-05 | [Migration Assistant for Fabric Data Warehouse (Preview)](#post-18) | u/itsnotaboutthecell | — | blog.fabric.microsoft.com | 2 | 0 | live | — |
+| 19 | 2025-03-26 | [Multiple workspaces, one git repo](#post-19) | u/rr-geil-j | — | text | 2 | 1 | live | — |
+| 20 | 2025-03-26 | [Ask the Microsoft Fabric Warehouse Team Anything! \| NOW LIVE!](#post-20) | u/itsnotaboutthecell | — | — | 1 | 0 | live | — |
+| 21 | 2025-03-21 | [Upcoming ask the Microsoft Fabric Warehouse Team anything!](#post-21) | u/itsnotaboutthecell | — | — | 4 | 0 | live | — |
+| 22 | 2025-03-09 | [Mastering Ordered Analytics and Window Functions on Azure Synapse and SQL Server](#post-22) | u/NexusDataPro | — | text | 3 | 0 | live | — |
+| 23 | 2025-03-05 | [Biggest Issue in SQL - Date Functions and Date Formatting](#post-23) | u/NexusDataPro | — | text | 1 | 0 | live | — |
+| 24 | 2025-02-18 | [Data Share Options from Delta Table in Azure](#post-24) | u/D_A_engineer | — | — | 1 | 0 | live | — |
+| 25 | 2025-02-03 | [🚀 Deploy DeepSeek-R1 AI on Azure Foundry – Full Tutorial! 🔥](#post-25) | u/balramprasad | — | youtube.com | 1 | 0 | live | — |
+| 26 | 2025-02-01 | [How to get data through delta sharing in Synapse?](#post-26) | u/Ecstatic-Cat-5830 | — | text | 1 | 0 | live | — |
+| 27 | 2025-01-27 | [Azure Synapse account creation email conflict?](#post-27) | u/JessieRubina | — | text | 1 | 0 | live | — |
+| 28 | 2025-01-15 | [Apache Spark Pools broken](#post-28) | u/ForsakenTask1561 | — | text | 2 | 3 | live | — |
+| 29 | 2025-01-14 | [Synapse requires SQL server 2022? (not 2019?)](#post-29) | u/Fearadhach | — | text | 1 | 1 | live | — |
+| 30 | 2025-01-07 | [Pipeline execution in az synapse analytics](#post-30) | u/galeanorpo | — | text | 1 | 0 | live | — |
+| 31 | 2024-11-28 | [Poor performance in Synapse Serverless](#post-31) | u/agneum | — | text | 4 | 0 | live | — |
+| 32 | 2024-11-28 | [UAMI authentication to Gen2 from Synapse Notebook.](#post-32) | u/cosmic_jester_uk | — | text | 2 | 0 | live | — |
+| 33 | 2024-11-02 | [What is the future here?](#post-33) | u/Apprehensive-Box281 | — | text | 4 | 2 | live | — |
+| 34 | 2024-10-28 | [Publish action works, but error is delivered via email afterwards.](#post-34) | u/Sagrilarus | — | text | 1 | 0 | live | — |
+| 35 | 2024-10-19 | [Azure Data Factory Question](#post-35) | u/ProjectBeneficial954 | — | text | 2 | 6 | live | — |
+| 36 | 2024-10-16 | [synapse Vs present feelings](#post-36) | u/zyzyky | — | text | 1 | 4 | live | — |
+| 37 | 2024-09-25 | [Slow "transfer" from staging to table](#post-37) | u/Apprehensive-Box281 | — | text | 2 | 1 | live | — |
+| 38 | 2024-09-19 | [Have few questions related to datalake in azure.](#post-38) | u/Apprehensive-Load-78 | — | — | 1 | 0 | live | — |
+| 39 | 2024-09-13 | [Filter SAP Data at Source with Synapse/ADF CDC](#post-39) | u/mtzzzzz | — | text | 1 | 3 | live | — |
+| 40 | 2024-09-12 | [Access/Permissions Question](#post-40) | u/Willing_Junket_8846 | — | text | 1 | 0 | live | — |
+| 41 | 2024-09-03 | [LAND YOUR DREAM JOBS IN JUST HOURS with THIS AI TOOL!](#post-41) | u/ChiaPlotting | — | text | 1 | 1 | deleted by author | — |
+| 42 | 2024-09-03 | [Test PostTest PostTest PostTest PostTest PostTest PostTest Post](#post-42) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 43 | 2024-08-18 | [Using synapse for data warehouse](#post-43) | u/BigProfessional7267 | — | text | 3 | 6 | live | — |
+| 44 | 2024-08-07 | [Method for using data from one query in another.](#post-44) | u/Apprehensive-Box281 | — | text | 1 | 0 | live | — |
+| 45 | 2024-07-19 | [Consuming Power BI Data Flow in Azure Synapse](#post-45) | u/RufusPDufus | — | text | 1 | 0 | live | — |
+| 46 | 2024-07-19 | [Security restrictions within Synapse](#post-46) | u/Mathlete7 | — | text | 1 | 0 | live | — |
+| 47 | 2024-07-12 | [200$ Azure Syn Analtics Free trial](#post-47) | u/Sure-Evidence-7981 | — | text | 1 | 0 | live | — |
+| 48 | 2024-07-10 | [Setting up security within Synapse](#post-48) | u/Mathlete7 | — | text | 1 | 2 | live | — |
+| 49 | 2024-07-05 | [Need help on Azure Synapse](#post-49) | u/eyesdief | — | text | 1 | 5 | live | — |
+| 50 | 2024-06-28 | [SQL serverless pool infinite running](#post-50) | u/Gold_Meal5306 | — | text | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -93,53 +93,69 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Azure Data Engineer Training Course in Electronic City
 
-2026-05-27 · u/Ordinary_Cover_1003 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1tovcem/azure_data_engineer_training_course_in_electronic/)
+2026-05-27 · u/Ordinary_Cover_1003 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1tovcem/azure_data_engineer_training_course_in_electronic/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-2"></a>
 
 ### 2. 🚀 Azure AI Free Demo – Build Smart AI Skills 🤖
 
-2026-04-17 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1snyosw/azure_ai_free_demo_build_smart_ai_skills/)
+2026-04-17 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1snyosw/azure_ai_free_demo_build_smart_ai_skills/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-3"></a>
 
 ### 3. 🚀 Azure AI Free Demo – Learn from Experts
 
-2026-04-15 · u/Euphoric-Listen8849 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sm3uh2/azure_ai_free_demo_learn_from_experts/)
+2026-04-15 · u/Euphoric-Listen8849 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sm3uh2/azure_ai_free_demo_learn_from_experts/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-4"></a>
 
 ### 4. 🚀 Azure AI Training Free Demo – Register Now!
 
-2026-04-09 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sgnjfm/azure_ai_training_free_demo_register_now/)
+2026-04-09 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1sgnjfm/azure_ai_training_free_demo_register_now/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-5"></a>
 
 ### 5. Azure AI Course Online \| Azure AI Training in Ameerpet
 
-2026-04-02 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1saf96m/azure_ai_course_online_azure_ai_training_in/)
+2026-04-02 · u/Euphoric-Listen8849 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1saf96m/azure_ai_course_online_azure_ai_training_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. Issues With Spark 3.5 In Azure Synapse Notebooks
 
-2026-01-17 · u/PenguinArsenal · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1qfaofx/issues_with_spark_35_in_azure_synapse_notebooks/)
+2026-01-17 · u/PenguinArsenal · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1qfaofx/issues_with_spark_35_in_azure_synapse_notebooks/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/apachespark/comments/1qfanx5/issues_with_spark_35_in_azure_synapse_notebooks/>
 
 
+<a id="post-7"></a>
+
 ### 7. Is Azure Synapse broken for anyone else? Please Help
 
-2025-12-29 · u/thephotocrawler · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pyfep1/is_azure_synapse_broken_for_anyone_else_please/)
+2025-12-29 · u/thephotocrawler · Discussion · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pyfep1/is_azure_synapse_broken_for_anyone_else_please/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/AZURE/comments/1pyfeh0/is_azure_synapse_broken_for_anyone_else_please/>
 
 
+<a id="post-8"></a>
+
 ### 8. Get ready to sleigh the season with the Fabric Partner Community!
 
-2025-12-12 · u/FabricPartnerTeam · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pl4ob3/get_ready_to_sleigh_the_season_with_the_fabric/)
+2025-12-12 · u/FabricPartnerTeam · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1pl4ob3/get_ready_to_sleigh_the_season_with_the_fabric/) · [↑ back to the list](#last-50-posts)
 
 > https://preview.redd.it/gj4psonuju6g1.png?width=1226&format=png&auto=webp&s=4509e7382789b3e69b294e35540e5f0f2922f0c7
 >
@@ -160,29 +176,37 @@ Link: </r/AZURE/comments/1pyfeh0/is_azure_synapse_broken_for_anyone_else_please/
 >
 > Let’s deck the halls, spread some cheer, and make this celebration one to remember!
 
+<a id="post-9"></a>
+
 ### 9. Azure Data Engineer Course In Electronic City Bangalore
 
-2025-10-31 · u/Ordinary_Cover_1003 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1okkb9y/azure_data_engineer_course_in_electronic_city/)
+2025-10-31 · u/Ordinary_Cover_1003 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1okkb9y/azure_data_engineer_course_in_electronic_city/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. Job support for azure synapse
 
-2025-10-17 · u/Weak_Temperature_853 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o8tso1/job_support_for_azure_synapse/)
+2025-10-17 · u/Weak_Temperature_853 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o8tso1/job_support_for_azure_synapse/) · [↑ back to the list](#last-50-posts)
 
 > Hi I need one time job support for azure synapse I need help a on single task will pay accordingly.
 
+<a id="post-11"></a>
+
 ### 11. Can we connect to smtp host host for outlook using web activity to send emails using post method with out using logic apps?
 
-2025-10-14 · u/data_learner_123 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o6khm2/can_we_connect_to_smtp_host_host_for_outlook/)
+2025-10-14 · u/data_learner_123 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1o6khm2/can_we_connect_to_smtp_host_host_for_outlook/) · [↑ back to the list](#last-50-posts)
 
 > Just wanted to know if we can use smtp host for email to send the pipeline notifications through a web activity.
 >
 > Thank you
 
+<a id="post-12"></a>
+
 ### 12. odata $expand not working
 
-2025-09-20 · u/Altruistic-Crab9607 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1nm4vou/odata_expand_not_working/)
+2025-09-20 · u/Altruistic-Crab9607 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1nm4vou/odata_expand_not_working/) · [↑ back to the list](#last-50-posts)
 
 > Howdy helpful humans 👋 — I’m working on a Synapse pipeline that pulls data from the Azure DevOps OData feed. The base query works fine in both the browser and Synapse, but it seems to ignore the `$expand` portion of the query when I run it through a Copy activity.
 >
@@ -200,9 +224,11 @@ Link: </r/AZURE/comments/1pyfeh0/is_azure_synapse_broken_for_anyone_else_please/
 >
 > Thanks in advance for any insights!
 
+<a id="post-13"></a>
+
 ### 13. Need help Copy activity based on last modified filter
 
-2025-08-14 · u/Frodan2525 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1mprp51/need_help_copy_activity_based_on_last_modified/)
+2025-08-14 · u/Frodan2525 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1mprp51/need_help_copy_activity_based_on_last_modified/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -225,23 +251,29 @@ Link: </r/AZURE/comments/1pyfeh0/is_azure_synapse_broken_for_anyone_else_please/
 >
 > I have also ticked the Recursively option but still no files get matches. The StartTime parameter is usually null anyway so the files should match based on last 24 hours. I have no idea where I am going wrong and would appreciate help!!
 
+<a id="post-14"></a>
+
 ### 14. Microsoft Puview roles for manage unified catalogs
 
-2025-06-15 · u/redska_ · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1lbwfz6/microsoft_puview_roles_for_manage_unified_catalogs/)
+2025-06-15 · u/redska_ · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1lbwfz6/microsoft_puview_roles_for_manage_unified_catalogs/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/sysadmin/comments/1lb2zof/microsoft_puview_roles_for_manage_unified_catalogs/>
 
 
+<a id="post-15"></a>
+
 ### 15. Connect and Design with Azure Synapse using a GUI Tool
 
-2025-05-08 · u/NoInteraction8306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1khneob/connect_and_design_with_azure_synapse_using_a_gui/)
+2025-05-08 · u/NoInteraction8306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1khneob/connect_and_design_with_azure_synapse_using_a_gui/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/EhBUKxygxpo>
 
 
+<a id="post-16"></a>
+
 ### 16. Realtime Assignment questions- i am a beginner need step by step clear explanation.
 
-2025-04-10 · u/Dazzling_Position154 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jvzza7/realtime_assignment_questions_i_am_a_beginner/)
+2025-04-10 · u/Dazzling_Position154 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jvzza7/realtime_assignment_questions_i_am_a_beginner/) · [↑ back to the list](#last-50-posts)
 
 > Azure Functions:
 >
@@ -267,24 +299,30 @@ Link: <https://youtu.be/EhBUKxygxpo>
 >
 > 4) Push your python script to github
 
+<a id="post-17"></a>
+
 ### 17. 50,000 FREE Microsoft Certification exam vouchers \| DP-600, DP-700, PL-300 and more!
 
-2025-04-05 · u/itsnotaboutthecell · Announcement · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jsbotk/50000_free_microsoft_certification_exam_vouchers/)
+2025-04-05 · u/itsnotaboutthecell · Announcement · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jsbotk/50000_free_microsoft_certification_exam_vouchers/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftFabric/comments/1jsbmim/50000_free_microsoft_certification_exam_vouchers/>
 
 
+<a id="post-18"></a>
+
 ### 18. Migration Assistant for Fabric Data Warehouse (Preview)
 
-2025-04-05 · u/itsnotaboutthecell · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1js5eag/migration_assistant_for_fabric_data_warehouse/)
+2025-04-05 · u/itsnotaboutthecell · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1js5eag/migration_assistant_for_fabric_data_warehouse/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://blog.fabric.microsoft.com/blog/public-preview-of-migration-assistant-for-fabric-data-warehouse>
 
 > Curious about the Data Warehouse in Microsoft Fabric? Join r/MicrosoftFabric to hear from other warehouse users and to get caught up on the latest check out the [Ask Me Anything with the Warehouse team](https://www.reddit.com/r/MicrosoftFabric/comments/1jgrrkl/hi_were_the_fabric_warehouse_team_ask_us_anything/).
 
+<a id="post-19"></a>
+
 ### 19. Multiple workspaces, one git repo
 
-2025-03-26 · u/rr-geil-j · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkfwq4/multiple_workspaces_one_git_repo/)
+2025-03-26 · u/rr-geil-j · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkfwq4/multiple_workspaces_one_git_repo/) · [↑ back to the list](#last-50-posts)
 
 > Hi! We're planning to manage multiple Synapse Workspaces with one git repo. We're quite clear that we can control this by having separate collaboration branches, but we're not sure if this is also possible with the publish branch(es).
 >
@@ -303,23 +341,29 @@ Link: <https://blog.fabric.microsoft.com/blog/public-preview-of-migration-assist
 >    * Publish branch `ws3_publish`
 > * ... and so on.
 
+<a id="post-20"></a>
+
 ### 20. Ask the Microsoft Fabric Warehouse Team Anything! \| NOW LIVE!
 
-2025-03-26 · u/itsnotaboutthecell · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkesqu/ask_the_microsoft_fabric_warehouse_team_anything/)
+2025-03-26 · u/itsnotaboutthecell · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jkesqu/ask_the_microsoft_fabric_warehouse_team_anything/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftFabric/comments/1jgrrkl/hi_were_the_fabric_warehouse_team_ask_us_anything/>
 
+
+<a id="post-21"></a>
 
 ### 21. Upcoming ask the Microsoft Fabric Warehouse Team anything!
 
-2025-03-21 · u/itsnotaboutthecell · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jgtii6/upcoming_ask_the_microsoft_fabric_warehouse_team/)
+2025-03-21 · u/itsnotaboutthecell · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1jgtii6/upcoming_ask_the_microsoft_fabric_warehouse_team/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftFabric/comments/1jgrrkl/hi_were_the_fabric_warehouse_team_ask_us_anything/>
 
 
+<a id="post-22"></a>
+
 ### 22. Mastering Ordered Analytics and Window Functions on Azure Synapse and SQL Server
 
-2025-03-09 · u/NexusDataPro · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j7h3t5/mastering_ordered_analytics_and_window_functions/)
+2025-03-09 · u/NexusDataPro · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j7h3t5/mastering_ordered_analytics_and_window_functions/) · [↑ back to the list](#last-50-posts)
 
 > I wish I had mastered ordered analytics and window functions early in my career, but I was afraid because they were hard to understand. After some time, I found that they are so easy to understand.
 >
@@ -348,9 +392,11 @@ Link: </r/MicrosoftFabric/comments/1jgrrkl/hi_were_the_fabric_warehouse_team_ask
 >
 > [https://coffingdw.com/analytic-and-window-functions-for-all-systems-over-100-blogs/](https://coffingdw.com/analytic-and-window-functions-for-all-systems-over-100-blogs/)
 
+<a id="post-23"></a>
+
 ### 23. Biggest Issue in SQL - Date Functions and Date Formatting
 
-2025-03-05 · u/NexusDataPro · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j49zdg/biggest_issue_in_sql_date_functions_and_date/)
+2025-03-05 · u/NexusDataPro · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1j49zdg/biggest_issue_in_sql_date_functions_and_date/) · [↑ back to the list](#last-50-posts)
 
 > I used to be an expert in Teradata, but I decided to expand my knowledge and master every database, including Azure Synapse. I've found that the biggest differences in SQL across various database platforms lie in date functions and the formats of dates and timestamps.  
 >
@@ -364,29 +410,37 @@ Link: </r/MicrosoftFabric/comments/1jgrrkl/hi_were_the_fabric_warehouse_team_ask
 >
 > Enjoy!
 
+<a id="post-24"></a>
+
 ### 24. Data Share Options from Delta Table in Azure
 
-2025-02-18 · u/D_A_engineer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1isnu7z/data_share_options_from_delta_table_in_azure/)
+2025-02-18 · u/D_A_engineer · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1isnu7z/data_share_options_from_delta_table_in_azure/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/1isno8c/data_share_options_from_delta_table_in_azure/>
 
 
+<a id="post-25"></a>
+
 ### 25. 🚀 Deploy DeepSeek-R1 AI on Azure Foundry – Full Tutorial! 🔥
 
-2025-02-03 · u/balramprasad · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1iggm6z/deploy_deepseekr1_ai_on_azure_foundry_full/)
+2025-02-03 · u/balramprasad · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1iggm6z/deploy_deepseekr1_ai_on_azure_foundry_full/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 
 
+<a id="post-26"></a>
+
 ### 26. How to get data through delta sharing in Synapse?
 
-2025-02-01 · u/Ecstatic-Cat-5830 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1if5heg/how_to_get_data_through_delta_sharing_in_synapse/)
+2025-02-01 · u/Ecstatic-Cat-5830 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1if5heg/how_to_get_data_through_delta_sharing_in_synapse/) · [↑ back to the list](#last-50-posts)
 
 > My data provider doesn't want us to use delta share connector in synapse piepline. I can use function app and use python. Any suggestions on how to do that?
 
+<a id="post-27"></a>
+
 ### 27. Azure Synapse account creation email conflict?
 
-2025-01-27 · u/JessieRubina · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ib5w55/azure_synapse_account_creation_email_conflict/)
+2025-01-27 · u/JessieRubina · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ib5w55/azure_synapse_account_creation_email_conflict/) · [↑ back to the list](#last-50-posts)
 
 > Hi all. 
 >
@@ -396,9 +450,11 @@ Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 >
 > https://preview.redd.it/1j8u2lxwoife1.png?width=1012&format=png&auto=webp&s=2e8d12e8f8af7c7443157a8e9d59fc225181f63b
 
+<a id="post-28"></a>
+
 ### 28. Apache Spark Pools broken
 
-2025-01-15 · u/ForsakenTask1561 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i27uo8/apache_spark_pools_broken/)
+2025-01-15 · u/ForsakenTask1561 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i27uo8/apache_spark_pools_broken/) · [↑ back to the list](#last-50-posts)
 
 > I was running a notebook with apache spark pools, expecting to insert just a few rows into a delta table. 10, 20, then 30 minutes passed, and the statement wouldn’t finish. Contents in the Datalake Gen2 storage seemed normal. Then tried just a select \* statement, expecting like 10 rows. Again, the job ran for an hour without returning anything.
 >
@@ -411,9 +467,11 @@ Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 >
 > Any similar experience with Apache Spark Pools?
 
+<a id="post-29"></a>
+
 ### 29. Synapse requires SQL server 2022? (not 2019?)
 
-2025-01-14 · u/Fearadhach · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i19i00/synapse_requires_sql_server_2022_not_2019/)
+2025-01-14 · u/Fearadhach · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1i19i00/synapse_requires_sql_server_2022_not_2019/) · [↑ back to the list](#last-50-posts)
 
 > Apologies if this has been asked and my google-fu is weak:
 >
@@ -426,35 +484,45 @@ Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 >
 > Thanks!
 
+<a id="post-30"></a>
+
 ### 30. Pipeline execution in az synapse analytics
 
-2025-01-07 · u/galeanorpo · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1hw541o/pipeline_execution_in_az_synapse_analytics/)
+2025-01-07 · u/galeanorpo · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1hw541o/pipeline_execution_in_az_synapse_analytics/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone. I have a Java application that injects fake data into a flow. When the flow that simulates the application ends, I need to call a pipeline that I have configured in Synapse Analytics. Can I call that pipeline in some way when the application flow ends, at runtime?
 
+<a id="post-31"></a>
+
 ### 31. Poor performance in Synapse Serverless
 
-2024-11-28 · u/agneum · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1tm5t/poor_performance_in_synapse_serverless/)
+2024-11-28 · u/agneum · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1tm5t/poor_performance_in_synapse_serverless/) · [↑ back to the list](#last-50-posts)
 
 > Since last thursday none of our reports work because Synapse Serverless is throttling the performance of every query. Simple queries take 10 times the amount of time they did previously.
 >
 > Has anyone noticed a performance degredation?
 
+<a id="post-32"></a>
+
 ### 32. UAMI authentication to Gen2 from Synapse Notebook.
 
-2024-11-28 · u/cosmic_jester_uk · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1sq7g/uami_authentication_to_gen2_from_synapse_notebook/)
+2024-11-28 · u/cosmic_jester_uk · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1h1sq7g/uami_authentication_to_gen2_from_synapse_notebook/) · [↑ back to the list](#last-50-posts)
 
 > Hello, I have a niche issue that I am hoping someone has a solution to: We have a customer requirement to use User Assigned Managed Indentities in their platform. I am trying to authenticate from a Synapse Notebook to a GEn2 ADLS account to write a file. I have tried to go via MSAL and HADOOP (using JAR FILES) and there appears to be a an issue with reaching the IMDS endpoint (possibly customers network). This morning I tried authenticating via a linked service that uses the same UAMI (and is  proven to work) and got an error saying that UAMI is not supported in linked service authentication from Synapse Notebooks. Does anyone have any experience of a workaround for this?
 
+<a id="post-33"></a>
+
 ### 33. What is the future here?
 
-2024-11-02 · u/Apprehensive-Box281 · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ghvhdx/what_is_the_future_here/)
+2024-11-02 · u/Apprehensive-Box281 · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ghvhdx/what_is_the_future_here/) · [↑ back to the list](#last-50-posts)
 
 > I've got a productiom synapse environment up and on its feet, and we're looking to expand with dev and test. My hesitation on allocating more resources and effort is the uncertain future for synapse. With Microsoft pushing fabric so hard, should I just stand up a fabric environment and migrate our work to that?
 
+<a id="post-34"></a>
+
 ### 34. Publish action works, but error is delivered via email afterwards.
 
-2024-10-28 · u/Sagrilarus · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1geabzl/publish_action_works_but_error_is_delivered_via/)
+2024-10-28 · u/Sagrilarus · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1geabzl/publish_action_works_but_error_is_delivered_via/) · [↑ back to the list](#last-50-posts)
 
 > We've been working with this stuff for over a year with no issues, and just recently this started appearing in our emails when we publish Synapse units --
 >
@@ -466,23 +534,29 @@ Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 >
 > **Anyone have any insight?** I'd ask in Microsoft's forums, but let's be honest. We're all here on reddit instead for a reason.
 
+<a id="post-35"></a>
+
 ### 35. Azure Data Factory Question
 
-2024-10-19 · u/ProjectBeneficial954 · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g791wr/azure_data_factory_question/)
+2024-10-19 · u/ProjectBeneficial954 · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g791wr/azure_data_factory_question/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I want to extract data from an API, and I'm confused about which activity in ADF I should use. Should I go with COPY or WEB activity?
 >
 > Can anyone please help?
 
+<a id="post-36"></a>
+
 ### 36. synapse Vs present feelings
 
-2024-10-16 · u/zyzyky · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g58js3/synapse_vs_present_feelings/)
+2024-10-16 · u/zyzyky · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1g58js3/synapse_vs_present_feelings/) · [↑ back to the list](#last-50-posts)
 
 > My first post here. Hi. Wonder what is actual scenery to choose between diving into synapse or fabric. Any thoughts?
 
+<a id="post-37"></a>
+
 ### 37. Slow "transfer" from staging to table
 
-2024-09-25 · u/Apprehensive-Box281 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fp32yk/slow_transfer_from_staging_to_table/)
+2024-09-25 · u/Apprehensive-Box281 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fp32yk/slow_transfer_from_staging_to_table/) · [↑ back to the list](#last-50-posts)
 
 > This copy activity is moving data from a CSV in blob storage to a hash table.
 >
@@ -490,16 +564,20 @@ Link: <https://www.youtube.com/watch?v=FJcXCKzJlNM>
 >
 > Any idea what I do to optimize this?
 
+<a id="post-38"></a>
+
 ### 38. Have few questions related to datalake in azure.
 
-2024-09-19 · u/Apprehensive-Load-78 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fkdn01/have_few_questions_related_to_datalake_in_azure/)
+2024-09-19 · u/Apprehensive-Load-78 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fkdn01/have_few_questions_related_to_datalake_in_azure/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/AZURE/comments/1fjxt3r/have_few_questions_related_to_datalake_in_azure/>
 
 
+<a id="post-39"></a>
+
 ### 39. Filter SAP Data at Source with Synapse/ADF CDC
 
-2024-09-13 · u/mtzzzzz · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fg4dc0/filter_sap_data_at_source_with_synapseadf_cdc/)
+2024-09-13 · u/mtzzzzz · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1fg4dc0/filter_sap_data_at_source_with_synapseadf_cdc/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -528,15 +606,19 @@ Link: </r/AZURE/comments/1fjxt3r/have_few_questions_related_to_datalake_in_azure
 >
 > Thanks in advance for your help!
 
+<a id="post-40"></a>
+
 ### 40. Access/Permissions Question
 
-2024-09-12 · u/Willing_Junket_8846 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ff4zmd/accesspermissions_question/)
+2024-09-12 · u/Willing_Junket_8846 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ff4zmd/accesspermissions_question/) · [↑ back to the list](#last-50-posts)
 
 > So I am trying to connect to a data lake in my company.  My entra user account has access to the lake.  My SPN cannot access the lake.  IT will not help me.  Go figure.. Is there a way to run my pool as my user account so synapse inherits my access?
 
+<a id="post-41"></a>
+
 ### 41. LAND YOUR DREAM JOBS IN JUST HOURS with THIS AI TOOL!
 
-2024-09-03 · u/ChiaPlotting · score 1 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5zi/land_your_dream_jobs_in_just_hours_with_this_ai/)
+2024-09-03 · u/ChiaPlotting · score 1 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5zi/land_your_dream_jobs_in_just_hours_with_this_ai/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! I wanted to share an incredible tool I recently discovered called LinkedIn AI Hawk. It automates the job application process on LinkedIn, allowing you to apply to multiple jobs with tailored applications without breaking a sweat. 
 >
@@ -546,15 +628,19 @@ Link: </r/AZURE/comments/1fjxt3r/have_few_questions_related_to_datalake_in_azure
 >
 > Have any of you tried AI tools in your job search? What has been your experience?
 
+<a id="post-42"></a>
+
 ### 42. Test PostTest PostTest PostTest PostTest PostTest PostTest Post
 
-2024-09-03 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5xn/test_posttest_posttest_posttest_posttest_posttest/)
+2024-09-03 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1f7z5xn/test_posttest_posttest_posttest_posttest_posttest/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-43"></a>
+
 ### 43. Using synapse for data warehouse
 
-2024-08-18 · u/BigProfessional7267 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ev7qof/using_synapse_for_data_warehouse/)
+2024-08-18 · u/BigProfessional7267 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1ev7qof/using_synapse_for_data_warehouse/) · [↑ back to the list](#last-50-posts)
 
 > My company is planning to move our 2TB analytics workspace to Azure Synapse, likely opting for the dedicated SQL pool. We currently use Azure Data Factory to load data into Azure SQL Database.
 >
@@ -568,9 +654,11 @@ Link: </r/AZURE/comments/1fjxt3r/have_few_questions_related_to_datalake_in_azure
 >
 > I'd really appreciate any suggestions. Thanks in advance
 
+<a id="post-44"></a>
+
 ### 44. Method for using data from one query in another.
 
-2024-08-07 · u/Apprehensive-Box281 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1emmu7h/method_for_using_data_from_one_query_in_another/)
+2024-08-07 · u/Apprehensive-Box281 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1emmu7h/method_for_using_data_from_one_query_in_another/) · [↑ back to the list](#last-50-posts)
 
 > I'm making a rest api call to and endpoint that gives me a table of all the properties I can use in another endpoint.
 >
@@ -583,16 +671,20 @@ Link: </r/AZURE/comments/1fjxt3r/have_few_questions_related_to_datalake_in_azure
 >
 > Any ideas?
 
+<a id="post-45"></a>
+
 ### 45. Consuming Power BI Data Flow in Azure Synapse
 
-2024-07-19 · u/RufusPDufus · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e7dayp/consuming_power_bi_data_flow_in_azure_synapse/)
+2024-07-19 · u/RufusPDufus · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e7dayp/consuming_power_bi_data_flow_in_azure_synapse/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/PowerBI/comments/1e7d907/consuming_power_bi_data_flow_in_azure_synapse/>
 
 
+<a id="post-46"></a>
+
 ### 46. Security restrictions within Synapse
 
-2024-07-19 · u/Mathlete7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e6zprr/security_restrictions_within_synapse/)
+2024-07-19 · u/Mathlete7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e6zprr/security_restrictions_within_synapse/) · [↑ back to the list](#last-50-posts)
 
 > Good morning all,
 >
@@ -611,9 +703,11 @@ Link: </r/PowerBI/comments/1e7d907/consuming_power_bi_data_flow_in_azure_synapse
 >
 > Any help appreciated
 
+<a id="post-47"></a>
+
 ### 47. 200$ Azure Syn Analtics Free trial
 
-2024-07-12 · u/Sure-Evidence-7981 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e1m23h/200_azure_syn_analtics_free_trial/)
+2024-07-12 · u/Sure-Evidence-7981 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1e1m23h/200_azure_syn_analtics_free_trial/) · [↑ back to the list](#last-50-posts)
 
 > Hello ASA people,
 >
@@ -621,9 +715,11 @@ Link: </r/PowerBI/comments/1e7d907/consuming_power_bi_data_flow_in_azure_synapse
 >
 > Any advices are welcomed, thanks in advance guys.
 
+<a id="post-48"></a>
+
 ### 48. Setting up security within Synapse
 
-2024-07-10 · u/Mathlete7 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dzw5my/setting_up_security_within_synapse/)
+2024-07-10 · u/Mathlete7 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dzw5my/setting_up_security_within_synapse/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone,
 >
@@ -631,9 +727,11 @@ Link: </r/PowerBI/comments/1e7d907/consuming_power_bi_data_flow_in_azure_synapse
 >
 > I don't think IAM for Synapse is the right tool for this, as it primarily controls access to Synapse resources rather than restricting access within a report itself, but I may be wrong!. Any suggestions would be greatly appreciated!
 
+<a id="post-49"></a>
+
 ### 49. Need help on Azure Synapse
 
-2024-07-05 · u/eyesdief · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dw2vmv/need_help_on_azure_synapse/)
+2024-07-05 · u/eyesdief · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dw2vmv/need_help_on_azure_synapse/) · [↑ back to the list](#last-50-posts)
 
 > So basically, we're transitioning from Azure SQL Db to Azure Synapse due to performance issues.
 >
@@ -648,9 +746,11 @@ Link: </r/PowerBI/comments/1e7d907/consuming_power_bi_data_flow_in_azure_synapse
 >
 > Thanks.
 
+<a id="post-50"></a>
+
 ### 50. SQL serverless pool infinite running
 
-2024-06-28 · u/Gold_Meal5306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dqiaoy/sql_serverless_pool_infinite_running/)
+2024-06-28 · u/Gold_Meal5306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/AzureSynapseAnalytics/comments/1dqiaoy/sql_serverless_pool_infinite_running/) · [↑ back to the list](#last-50-posts)
 
 > Anyone else have the same issue ?
 

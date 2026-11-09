@@ -78,56 +78,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [9 YOE GCP Data Engineer at 17 LPA in Bangalore — underpaid? Should I switch?](https://www.reddit.com/r/dataengineering/comments/1xpwuqi/9_yoe_gcp_data_engineer_at_17_lpa_in_bangalore/) | u/Melodic_Caramel_2217 | Help | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 2 | 2026-11-07 | [Upstream API fields keep changing and lots come back empty. How do you guys monitor this?](https://www.reddit.com/r/dataengineering/comments/1xpuqkv/upstream_api_fields_keep_changing_and_lots_come/) | u/Duckducklaugh | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 3 | 2026-11-06 | [Made a dbt plugin that skips models when nothing actually changed, just shipped 0.4.0 with dbt v2 support](https://www.reddit.com/r/dataengineering/comments/1xplx2p/made_a_dbt_plugin_that_skips_models_when_nothing/) | u/Alaturqua | Open Source | v.redd.it | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 4 | 2026-11-06 | [Thoughts on McKinsey QuantumBlack?](https://www.reddit.com/r/dataengineering/comments/1xpln15/thoughts_on_mckinsey_quantumblack/) | u/godz_ares | Career | text | 31 | 14 | live | — |
-| 5 | 2026-11-06 | [Where do Data Engineers who love understanding the business go?](https://www.reddit.com/r/dataengineering/comments/1xpkonh/where_do_data_engineers_who_love_understanding/) | u/CountPrestigious3378 | Discussion | text | 1 | 0 | held by automod | — |
-| 6 | 2026-11-06 | [What to send your boss before the next AI project](https://www.reddit.com/r/dataengineering/comments/1xpgma9/what_to_send_your_boss_before_the_next_ai_project/) | u/Charlotte1309 | Blog | thedatagovernanceplaybook.substack.com | 1 | 0 | held by automod | — |
-| 7 | 2026-11-06 | [Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?](https://www.reddit.com/r/dataengineering/comments/1xpe11o/does_resuming_a_paused_fivetran_connector_consume/) | u/Glad-Iator2004 | Help | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 8 | 2026-11-06 | [Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?](https://www.reddit.com/r/dataengineering/comments/1xpdvyg/does_resuming_a_paused_fivetran_connector_consume/) | u/Tiny_Zombie_1639 | Career | text | 0 | 0 | spam-filtered | — |
-| 9 | 2026-11-06 | [How I Scraped 7,000 Pages in Under 3 Minutes with Python](https://www.reddit.com/r/dataengineering/comments/1xpc769/how_i_scraped_7000_pages_in_under_3_minutes_with/) | u/kingabzpro | Blog | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 10 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](https://www.reddit.com/r/dataengineering/comments/1xpbmk6/built_an_ai_extension_that_generates_complete/) | u/prettywhale_ai | Blog | reddit.com | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-06 | [Carquet: a 500 KB Parquet reader/writer in C, with a Python package](https://www.reddit.com/r/dataengineering/comments/1xpadsw/carquet_a_500_kb_parquet_readerwriter_in_c_with_a/) | u/Vitruves | Personal Project Showcase | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 12 | 2026-11-06 | [QueryCrack – SQL challenges where a correct but slow query fails](https://www.reddit.com/r/dataengineering/comments/1xpachk/querycrack_sql_challenges_where_a_correct_but/) | u/koalaa_67 | Blog | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-06 | [Career advice - how to add cloud + dbt to CV.](https://www.reddit.com/r/dataengineering/comments/1xpa6s9/career_advice_how_to_add_cloud_dbt_to_cv/) | u/TefteliSumeli | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
-| 14 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](https://www.reddit.com/r/dataengineering/comments/1xp8j2d/automating_data_preprocessing_a_guide_to_python/) | u/Ok_pettech | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 15 | 2026-11-06 | [Data Engineer forced to do BI](https://www.reddit.com/r/dataengineering/comments/1xp5umh/data_engineer_forced_to_do_bi/) | u/Sure-Beyond1983 | Career | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). Yo… |
-| 16 | 2026-11-06 | [Hey I am aTYBSC Computer Student any Advice for how to get into Data engineering field in this era](https://www.reddit.com/r/dataengineering/comments/1xp4jc8/hey_i_am_atybsc_computer_student_any_advice_for/) | u/BetaDataGuy | Career | text | 1 | 1 | spam-filtered | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
-| 17 | 2026-11-05 | [Learning data engineering by building a project instead of doing tutorials. Does this actually work?](https://www.reddit.com/r/dataengineering/comments/1xox78s/learning_data_engineering_by_building_a_project/) | u/CancelPuzzleheaded63 | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
-| 18 | 2026-11-05 | [What are you using to ingest/search/scan code from internal repos?](https://www.reddit.com/r/dataengineering/comments/1xox6s5/what_are_you_using_to_ingestsearchscan_code_from/) | u/alg0phelia | Discussion | text | 7 | 2 | approved | — |
-| 19 | 2026-11-05 | [I built an open-source tool that shows what a dbt PR breaks downstream (columns, dashboards) before merge — n…](https://www.reddit.com/r/dataengineering/comments/1xowge0/i_built_an_opensource_tool_that_shows_what_a_dbt/) | u/simonpetermueller | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 20 | 2026-11-05 | [Database Developer to Data Engineer](https://www.reddit.com/r/dataengineering/comments/1xovarh/database_developer_to_data_engineer/) | u/Dirtygerd | Career | text | 1 | 0 | held by automod | — |
-| 21 | 2026-11-05 | [Bank data engineering internship or data engineering inside a Big 4 audit practice?](https://www.reddit.com/r/dataengineering/comments/1xorehn/bank_data_engineering_internship_or_data/) | u/Old-Ability-4920 | Career | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 22 | 2026-11-05 | [Fabric vs Snowflake/Databricks](https://www.reddit.com/r/dataengineering/comments/1xoqg4z/fabric_vs_snowflakedatabricks/) | u/Gawgba | Discussion | text | 83 | 48 | live | — |
-| 23 | 2026-11-05 | [I hate Palantir. Am I just being prejudiced?](https://www.reddit.com/r/dataengineering/comments/1xoq5f5/i_hate_palantir_am_i_just_being_prejudiced/) | u/ChampionFrequent4643 | Discussion | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
-| 24 | 2026-11-05 | [Is Kimball dimensional modeling/methodology still worth teaching new data engineers in 2026/2027?](https://www.reddit.com/r/dataengineering/comments/1xopcmo/is_kimball_dimensional_modelingmethodology_still/) | u/dataologist | Discussion | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](https://www.reddit.com/r/dataengineering/comments/1xoj71w/i_built_an_opensource_semantic_layer_that/) | u/wrosa85 | Personal Project Showcase | text | 1 | 1 | spam-filtered | — |
-| 26 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](https://www.reddit.com/r/dataengineering/comments/1xoilh4/would_you_use_scalacatsstyle_io_and_fibers_in_a/) | u/Apart_Paramedic_1850 | Personal Project Showcase | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 27 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/dataengineering/comments/1xoiet9/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/analyticsvector-yt | Blog | text | 0 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 28 | 2026-11-05 | [Medallion Architecture for Dummies](https://www.reddit.com/r/dataengineering/comments/1xofe3c/medallion_architecture_for_dummies/) | u/-Lykos- | Blog | russellchubb.com | 1 | 0 | spam-filtered | — |
-| 29 | 2026-11-05 | [Medallion Architecture for Dummies](https://www.reddit.com/r/dataengineering/comments/1xof6fc/medallion_architecture_for_dummies/) | u/-Lykos- | Blog | russellchubb.com | 1 | 0 | spam-filtered | — |
-| 30 | 2026-11-05 | [Data Lineage SaaS free tool](https://www.reddit.com/r/dataengineering/comments/1xof0yw/data_lineage_saas_free_tool/) | u/gr_fitIT | Discussion | text | 1 | 0 | spam-filtered | — |
-| 31 | 2026-11-05 | [I’m building a learning platform for data engineers, and I need your help.](https://www.reddit.com/r/dataengineering/comments/1xoemmg/im_building_a_learning_platform_for_data/) | u/vutr274 | Help | v.redd.it | 1 | 0 | held by automod | — |
-| 32 | 2026-11-05 | [What is the best project you've ever built?](https://www.reddit.com/r/dataengineering/comments/1xoe15z/what_is_the_best_project_youve_ever_built/) | u/FirefighterSilver879 | Discussion | text | 17 | 5 | approved | — |
-| 33 | 2026-11-05 | [Senior data engineer, but still feel like I don't know anything when I listen to podcasts and read your stori…](https://www.reddit.com/r/dataengineering/comments/1xodd9y/senior_data_engineer_but_still_feel_like_i_dont/) | u/FrostyImportance5059 | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
-| 34 | 2026-11-05 | [Looking for C-Suite Executive Data Vendors](https://www.reddit.com/r/dataengineering/comments/1xod8mj/looking_for_csuite_executive_data_vendors/) | u/Basic-Mode9456 | Help | text | 1 | 1 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 35 | 2026-11-05 | [4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1…](https://www.reddit.com/r/dataengineering/comments/1xod4yn/4_weeks_of_freshness_checks_on_6_public_financial/) | u/MelonPaw691 | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 36 | 2026-11-05 | [4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1…](https://www.reddit.com/r/dataengineering/comments/1xod3tq/4_weeks_of_freshness_checks_on_6_public_financial/) | u/MelonPaw691 | Blog | text | 1 | 1 | spam-filtered | — |
-| 37 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta Lake ,dbt, Airflow) - Key learnings & Architectur…](https://www.reddit.com/r/dataengineering/comments/1xobcrp/built_an_end_to_end_azure_lakehouse_adf/) | u/Surendhar_ | Personal Project Showcase | github.com | 1 | 0 | held by automod | — |
-| 38 | 2026-11-05 | [If your CEO asks three teams for the same metric and gets three answers, you have a data problem.](https://www.reddit.com/r/dataengineering/comments/1xoa4kn/if_your_ceo_asks_three_teams_for_the_same_metric/) | u/djgoel123 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 39 | 2026-11-05 | [Zero license reporting for D365 F&O](https://www.reddit.com/r/dataengineering/comments/1xo8inl/zero_license_reporting_for_d365_fo/) | u/OkPerspective9454 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). Th… |
-| 40 | 2026-11-05 | [25 F Looking for a job](https://www.reddit.com/r/dataengineering/comments/1xo8ef3/25_f_looking_for_a_job/) | u/luciferisbgmi | Career | i.redd.it | 1 | 0 | spam-filtered | — |
-| 41 | 2026-11-05 | [End-to-end e-commerce data warehouse (Hadoop+Hive+Spark) with a Text-to-SQL assistant](https://www.reddit.com/r/dataengineering/comments/1xo86s4/endtoend_ecommerce_data_warehouse_hadoophivespark/) | u/Spiritual-Frosting33 | Personal Project Showcase | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 42 | 2026-11-05 | [Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (…](https://www.reddit.com/r/dataengineering/comments/1xo7vbe/notsobeginner_wanting_to_independently_build_etl/) | u/Usual_Macaroon7881 | Help | text | 5 | 8 | approved | — |
-| 43 | 2026-11-05 | [Productivity monitoring on laptops to track keystrokes](https://www.reddit.com/r/dataengineering/comments/1xo6k51/productivity_monitoring_on_laptops_to_track/) | u/Swan_233 | Discussion | text | 1 | 0 | held by automod | — |
-| 44 | 2026-11-04 | [NVIDIA released Auto-Ontology, that do you think?](https://www.reddit.com/r/dataengineering/comments/1xo3xev/nvidia_released_autoontology_that_do_you_think/) | u/No-Employer8282 | Discussion | text | 38 | 14 | approved | — |
-| 45 | 2026-11-04 | [What's the most expensive part of a data API integration that nobody includes in the subscription price?](https://www.reddit.com/r/dataengineering/comments/1xo1dty/whats_the_most_expensive_part_of_a_data_api/) | u/Free-Band-8923 | Discussion | i.redd.it | 0 | 0 | held by automod | — |
-| 46 | 2026-11-04 | [How many paid data APIs does your production stack depend on, and what would make you consolidate them?](https://www.reddit.com/r/dataengineering/comments/1xo0r2p/how_many_paid_data_apis_does_your_production/) | u/Free-Band-8923 | Discussion | text | 0 | 0 | spam-filtered | — |
-| 47 | 2026-11-04 | [Is the "quality over quantity" approach to applying for jobs still the preferred method?](https://www.reddit.com/r/dataengineering/comments/1xo0c1l/is_the_quality_over_quantity_approach_to_applying/) | u/yourcallisconnecting | Career | text | 1 | 1 | held by automod | — |
-| 48 | 2026-11-04 | [How do you validate a database migration? (data + schema)](https://www.reddit.com/r/dataengineering/comments/1xnzzc1/how_do_you_validate_a_database_migration_data/) | u/Sufficient_Smoke8514 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
-| 49 | 2026-11-04 | [Data Engineer Niche tech Stack?](https://www.reddit.com/r/dataengineering/comments/1xnx5m3/data_engineer_niche_tech_stack/) | u/Typical-Presence5628 | Discussion | text | 15 | 3 | approved | — |
-| 50 | 2026-11-04 | [Your Spark job is running slow. Why is your first instinct to increase executor memory?](https://www.reddit.com/r/dataengineering/comments/1xnuk16/your_spark_job_is_running_slow_why_is_your_first/) | u/iamyourdataguy | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 1 | 2026-11-07 | [9 YOE GCP Data Engineer at 17 LPA in Bangalore — underpaid? Should I switch?](#post-1) | u/Melodic_Caramel_2217 | Help | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 2 | 2026-11-07 | [Upstream API fields keep changing and lots come back empty. How do you guys monitor this?](#post-2) | u/Duckducklaugh | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 3 | 2026-11-06 | [Made a dbt plugin that skips models when nothing actually changed, just shipped 0.4.0 with dbt v2 support](#post-3) | u/Alaturqua | Open Source | v.redd.it | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 4 | 2026-11-06 | [Thoughts on McKinsey QuantumBlack?](#post-4) | u/godz_ares | Career | text | 31 | 14 | live | — |
+| 5 | 2026-11-06 | [Where do Data Engineers who love understanding the business go?](#post-5) | u/CountPrestigious3378 | Discussion | text | 1 | 0 | held by automod | — |
+| 6 | 2026-11-06 | [What to send your boss before the next AI project](#post-6) | u/Charlotte1309 | Blog | thedatagovernanceplaybook.substack.com | 1 | 0 | held by automod | — |
+| 7 | 2026-11-06 | [Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?](#post-7) | u/Glad-Iator2004 | Help | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 8 | 2026-11-06 | [Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?](#post-8) | u/Tiny_Zombie_1639 | Career | text | 0 | 0 | spam-filtered | — |
+| 9 | 2026-11-06 | [How I Scraped 7,000 Pages in Under 3 Minutes with Python](#post-9) | u/kingabzpro | Blog | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 10 | 2026-11-06 | [Built an AI extension that generates complete Python data pipelines from data samples](#post-10) | u/prettywhale_ai | Blog | reddit.com | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-06 | [Carquet: a 500 KB Parquet reader/writer in C, with a Python package](#post-11) | u/Vitruves | Personal Project Showcase | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 12 | 2026-11-06 | [QueryCrack – SQL challenges where a correct but slow query fails](#post-12) | u/koalaa_67 | Blog | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-06 | [Career advice - how to add cloud + dbt to CV.](#post-13) | u/TefteliSumeli | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
+| 14 | 2026-11-06 | [Automating Data Preprocessing: A Guide to Python AI Data Cleaning](#post-14) | u/Ok_pettech | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 15 | 2026-11-06 | [Data Engineer forced to do BI](#post-15) | u/Sure-Beyond1983 | Career | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). Yo… |
+| 16 | 2026-11-06 | [Hey I am aTYBSC Computer Student any Advice for how to get into Data engineering field in this era](#post-16) | u/BetaDataGuy | Career | text | 1 | 1 | spam-filtered | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
+| 17 | 2026-11-05 | [Learning data engineering by building a project instead of doing tutorials. Does this actually work?](#post-17) | u/CancelPuzzleheaded63 | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
+| 18 | 2026-11-05 | [What are you using to ingest/search/scan code from internal repos?](#post-18) | u/alg0phelia | Discussion | text | 7 | 2 | approved | — |
+| 19 | 2026-11-05 | [I built an open-source tool that shows what a dbt PR breaks downstream (columns, dashboards) before merge — n…](#post-19) | u/simonpetermueller | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 20 | 2026-11-05 | [Database Developer to Data Engineer](#post-20) | u/Dirtygerd | Career | text | 1 | 0 | held by automod | — |
+| 21 | 2026-11-05 | [Bank data engineering internship or data engineering inside a Big 4 audit practice?](#post-21) | u/Old-Ability-4920 | Career | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 22 | 2026-11-05 | [Fabric vs Snowflake/Databricks](#post-22) | u/Gawgba | Discussion | text | 83 | 48 | live | — |
+| 23 | 2026-11-05 | [I hate Palantir. Am I just being prejudiced?](#post-23) | u/ChampionFrequent4643 | Discussion | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
+| 24 | 2026-11-05 | [Is Kimball dimensional modeling/methodology still worth teaching new data engineers in 2026/2027?](#post-24) | u/dataologist | Discussion | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](#post-25) | u/wrosa85 | Personal Project Showcase | text | 1 | 1 | spam-filtered | — |
+| 26 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](#post-26) | u/Apart_Paramedic_1850 | Personal Project Showcase | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 27 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-27) | u/analyticsvector-yt | Blog | text | 0 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 28 | 2026-11-05 | [Medallion Architecture for Dummies](#post-28) | u/-Lykos- | Blog | russellchubb.com | 1 | 0 | spam-filtered | — |
+| 29 | 2026-11-05 | [Medallion Architecture for Dummies](#post-29) | u/-Lykos- | Blog | russellchubb.com | 1 | 0 | spam-filtered | — |
+| 30 | 2026-11-05 | [Data Lineage SaaS free tool](#post-30) | u/gr_fitIT | Discussion | text | 1 | 0 | spam-filtered | — |
+| 31 | 2026-11-05 | [I’m building a learning platform for data engineers, and I need your help.](#post-31) | u/vutr274 | Help | v.redd.it | 1 | 0 | held by automod | — |
+| 32 | 2026-11-05 | [What is the best project you've ever built?](#post-32) | u/FirefighterSilver879 | Discussion | text | 17 | 5 | approved | — |
+| 33 | 2026-11-05 | [Senior data engineer, but still feel like I don't know anything when I listen to podcasts and read your stori…](#post-33) | u/FrostyImportance5059 | Career | text | 1 | 1 | held by automod | Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first reco… |
+| 34 | 2026-11-05 | [Looking for C-Suite Executive Data Vendors](#post-34) | u/Basic-Mode9456 | Help | text | 1 | 1 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 35 | 2026-11-05 | [4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1…](#post-35) | u/MelonPaw691 | Blog | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 36 | 2026-11-05 | [4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1…](#post-36) | u/MelonPaw691 | Blog | text | 1 | 1 | spam-filtered | — |
+| 37 | 2026-11-05 | [Built an End to End Azure Lakehouse (ADF, Databricks, Delta Lake ,dbt, Airflow) - Key learnings & Architectur…](#post-37) | u/Surendhar_ | Personal Project Showcase | github.com | 1 | 0 | held by automod | — |
+| 38 | 2026-11-05 | [If your CEO asks three teams for the same metric and gets three answers, you have a data problem.](#post-38) | u/djgoel123 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 39 | 2026-11-05 | [Zero license reporting for D365 F&O](#post-39) | u/OkPerspective9454 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). Th… |
+| 40 | 2026-11-05 | [25 F Looking for a job](#post-40) | u/luciferisbgmi | Career | i.redd.it | 1 | 0 | spam-filtered | — |
+| 41 | 2026-11-05 | [End-to-end e-commerce data warehouse (Hadoop+Hive+Spark) with a Text-to-SQL assistant](#post-41) | u/Spiritual-Frosting33 | Personal Project Showcase | text | 1 | 2 | spam-filtered | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 42 | 2026-11-05 | [Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (…](#post-42) | u/Usual_Macaroon7881 | Help | text | 5 | 8 | approved | — |
+| 43 | 2026-11-05 | [Productivity monitoring on laptops to track keystrokes](#post-43) | u/Swan_233 | Discussion | text | 1 | 0 | held by automod | — |
+| 44 | 2026-11-04 | [NVIDIA released Auto-Ontology, that do you think?](#post-44) | u/No-Employer8282 | Discussion | text | 38 | 14 | approved | — |
+| 45 | 2026-11-04 | [What's the most expensive part of a data API integration that nobody includes in the subscription price?](#post-45) | u/Free-Band-8923 | Discussion | i.redd.it | 0 | 0 | held by automod | — |
+| 46 | 2026-11-04 | [How many paid data APIs does your production stack depend on, and what would make you consolidate them?](#post-46) | u/Free-Band-8923 | Discussion | text | 0 | 0 | spam-filtered | — |
+| 47 | 2026-11-04 | [Is the "quality over quantity" approach to applying for jobs still the preferred method?](#post-47) | u/yourcallisconnecting | Career | text | 1 | 1 | held by automod | — |
+| 48 | 2026-11-04 | [How do you validate a database migration? (data + schema)](#post-48) | u/Sufficient_Smoke8514 | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
+| 49 | 2026-11-04 | [Data Engineer Niche tech Stack?](#post-49) | u/Typical-Presence5628 | Discussion | text | 15 | 3 | approved | — |
+| 50 | 2026-11-04 | [Your Spark job is running slow. Why is your first instinct to increase executor memory?](#post-50) | u/iamyourdataguy | Discussion | text | 1 | 1 | held by automod | Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post… |
 
 ## Top 20 posts, last 30 days
 
@@ -135,50 +135,56 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-24 | [I lament- My work has shifted from building pipelines to building semantic layer for chatbots](https://www.reddit.com/r/dataengineering/comments/1xdu912/i_lament_my_work_has_shifted_from_building/) | u/Throwaway081920231 | Rant | text | 344 | 94 | live |
-| 52 | 2026-10-19 | [Based on true events](https://www.reddit.com/r/dataengineering/comments/1x9p339/based_on_true_events/) | u/Familiar-Ad-7875 | Meme | i.redd.it | 267 | 15 | approved |
-| 53 | 2026-10-27 | [Landed a new job - thank you /r/DE](https://www.reddit.com/r/dataengineering/comments/1xh2vvi/landed_a_new_job_thank_you_rde/) | u/lostmyway573 | Career | text | 204 | 21 | live |
-| 54 | 2026-10-19 | [Who else is ignoring recruiter messages, despite being ready to move, simply because the job market odds seem…](https://www.reddit.com/r/dataengineering/comments/1xa4byh/who_else_is_ignoring_recruiter_messages_despite/) | u/Reasonable_Tooth_501 | Career | text | 191 | 57 | live |
-| 55 | 2026-10-12 | [me watching someones agent approve my PR I didn't read](https://www.reddit.com/r/dataengineering/comments/1x42qgn/me_watching_someones_agent_approve_my_pr_i_didnt/) | u/Brief-Knowledge-629 | Meme | i.redd.it | 183 | 6 | approved |
-| 56 | 2026-11-03 | [MS Employee here -- we are giving away vouchers for data engineering cert exams](https://www.reddit.com/r/dataengineering/comments/1xn26ln/ms_employee_here_we_are_giving_away_vouchers_for/) | u/FabricPam | Career | text | 170 | 52 | approved |
-| 57 | 2026-10-19 | [Data Engineering Lab to Practice on your Laptop](https://www.reddit.com/r/dataengineering/comments/1xa0uo1/data_engineering_lab_to_practice_on_your_laptop/) | u/epireum_oy | Discussion | text | 157 | 7 | approved |
-| 58 | 2026-10-31 | [I foresee that I’m not very employable from now on](https://www.reddit.com/r/dataengineering/comments/1xkas3f/i_foresee_that_im_not_very_employable_from_now_on/) | u/Outside-Storage-1523 | Career | text | 131 | 67 | live |
-| 59 | 2026-10-27 | [My fabric project](https://www.reddit.com/r/dataengineering/comments/1xgntb6/my_fabric_project/) | u/Due-Doughnut1818 | Personal Project Showcase | reddit.com | 129 | 54 | approved |
-| 60 | 2026-10-26 | [Why does accuracy not seem to matter for the business?](https://www.reddit.com/r/dataengineering/comments/1xg4cnd/why_does_accuracy_not_seem_to_matter_for_the/) | u/AdNext5396 | Discussion | text | 111 | 70 | live |
-| 61 | 2026-10-30 | [Putting all world law on git](https://www.reddit.com/r/dataengineering/comments/1xj2mks/putting_all_world_law_on_git/) | u/SnooPeripherals5313 | Discussion | text | 107 | 15 | approved |
-| 62 | 2026-10-22 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://www.reddit.com/r/dataengineering/comments/1xchj9b/announcing_duckdb_200_lts_cinnamon_teal/) | u/Fair-Bookkeeper-1833 | Blog | duckdb.org | 107 | 6 | approved |
-| 63 | 2026-10-23 | [I enjoy managing access control](https://www.reddit.com/r/dataengineering/comments/1xdijvj/i_enjoy_managing_access_control/) | u/ratesofchange | Discussion | text | 85 | 16 | live |
-| 64 | 2026-10-16 | [How do you find data mismatches between two large tables?](https://www.reddit.com/r/dataengineering/comments/1x7e13n/how_do_you_find_data_mismatches_between_two_large/) | u/ETL_Pipeline_Dev | Discussion | text | 84 | 51 | live |
-| 65 | 2026-10-18 | [built a sql practice site around data engineering concepts](https://www.reddit.com/r/dataengineering/comments/1x8r58j/built_a_sql_practice_site_around_data_engineering/) | u/peakpirate007 | Personal Project Showcase | text | 84 | 15 | approved |
-| 22 | 2026-11-05 | [Fabric vs Snowflake/Databricks](https://www.reddit.com/r/dataengineering/comments/1xoqg4z/fabric_vs_snowflakedatabricks/) | u/Gawgba | Discussion | text | 83 | 48 | live |
-| 66 | 2026-10-30 | [Interesting Links in Data Engineering: October 2026](https://www.reddit.com/r/dataengineering/comments/1xjdst6/interesting_links_in_data_engineering_october_2026/) | u/rmoff | Blog | text | 71 | 0 | approved |
-| 67 | 2026-11-01 | [Shifting from DE to AI Ops Engineer](https://www.reddit.com/r/dataengineering/comments/1xkr8rm/shifting_from_de_to_ai_ops_engineer/) | u/Ill-Rhubarb-6332 | Career | text | 62 | 11 | approved |
-| 68 | 2026-10-21 | [Migrating from dbt Cloud to Core](https://www.reddit.com/r/dataengineering/comments/1xbiqop/migrating_from_dbt_cloud_to_core/) | u/spectre-uk | Discussion | text | 59 | 30 | live |
-| 69 | 2026-10-17 | [Should I move from a snowflake environment to a fabric environment to get back to a DE role?](https://www.reddit.com/r/dataengineering/comments/1x7yosh/should_i_move_from_a_snowflake_environment_to_a/) | u/Throwaway081920231 | Career | text | 53 | 32 | live |
+| 51 | 2026-10-24 | [I lament- My work has shifted from building pipelines to building semantic layer for chatbots](#post-51) | u/Throwaway081920231 | Rant | text | 344 | 94 | live |
+| 52 | 2026-10-19 | [Based on true events](#post-52) | u/Familiar-Ad-7875 | Meme | i.redd.it | 267 | 15 | approved |
+| 53 | 2026-10-27 | [Landed a new job - thank you /r/DE](#post-53) | u/lostmyway573 | Career | text | 204 | 21 | live |
+| 54 | 2026-10-19 | [Who else is ignoring recruiter messages, despite being ready to move, simply because the job market odds seem…](#post-54) | u/Reasonable_Tooth_501 | Career | text | 191 | 57 | live |
+| 55 | 2026-10-12 | [me watching someones agent approve my PR I didn't read](#post-55) | u/Brief-Knowledge-629 | Meme | i.redd.it | 183 | 6 | approved |
+| 56 | 2026-11-03 | [MS Employee here -- we are giving away vouchers for data engineering cert exams](#post-56) | u/FabricPam | Career | text | 170 | 52 | approved |
+| 57 | 2026-10-19 | [Data Engineering Lab to Practice on your Laptop](#post-57) | u/epireum_oy | Discussion | text | 157 | 7 | approved |
+| 58 | 2026-10-31 | [I foresee that I’m not very employable from now on](#post-58) | u/Outside-Storage-1523 | Career | text | 131 | 67 | live |
+| 59 | 2026-10-27 | [My fabric project](#post-59) | u/Due-Doughnut1818 | Personal Project Showcase | reddit.com | 129 | 54 | approved |
+| 60 | 2026-10-26 | [Why does accuracy not seem to matter for the business?](#post-60) | u/AdNext5396 | Discussion | text | 111 | 70 | live |
+| 61 | 2026-10-30 | [Putting all world law on git](#post-61) | u/SnooPeripherals5313 | Discussion | text | 107 | 15 | approved |
+| 62 | 2026-10-22 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](#post-62) | u/Fair-Bookkeeper-1833 | Blog | duckdb.org | 107 | 6 | approved |
+| 63 | 2026-10-23 | [I enjoy managing access control](#post-63) | u/ratesofchange | Discussion | text | 85 | 16 | live |
+| 64 | 2026-10-16 | [How do you find data mismatches between two large tables?](#post-64) | u/ETL_Pipeline_Dev | Discussion | text | 84 | 51 | live |
+| 65 | 2026-10-18 | [built a sql practice site around data engineering concepts](#post-65) | u/peakpirate007 | Personal Project Showcase | text | 84 | 15 | approved |
+| 22 | 2026-11-05 | [Fabric vs Snowflake/Databricks](#post-22) | u/Gawgba | Discussion | text | 83 | 48 | live |
+| 66 | 2026-10-30 | [Interesting Links in Data Engineering: October 2026](#post-66) | u/rmoff | Blog | text | 71 | 0 | approved |
+| 67 | 2026-11-01 | [Shifting from DE to AI Ops Engineer](#post-67) | u/Ill-Rhubarb-6332 | Career | text | 62 | 11 | approved |
+| 68 | 2026-10-21 | [Migrating from dbt Cloud to Core](#post-68) | u/spectre-uk | Discussion | text | 59 | 30 | live |
+| 69 | 2026-10-17 | [Should I move from a snowflake environment to a fabric environment to get back to a DE role?](#post-69) | u/Throwaway081920231 | Career | text | 53 | 32 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. 9 YOE GCP Data Engineer at 17 LPA in Bangalore — underpaid? Should I switch?
 
-2026-11-07 · u/Melodic_Caramel_2217 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpwuqi/9_yoe_gcp_data_engineer_at_17_lpa_in_bangalore/)
+2026-11-07 · u/Melodic_Caramel_2217 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpwuqi/9_yoe_gcp_data_engineer_at_17_lpa_in_bangalore/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-2"></a>
 
 ### 2. Upstream API fields keep changing and lots come back empty. How do you guys monitor this?
 
-2026-11-07 · u/Duckducklaugh · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpuqkv/upstream_api_fields_keep_changing_and_lots_come/)
+2026-11-07 · u/Duckducklaugh · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpuqkv/upstream_api_fields_keep_changing_and_lots_come/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-3"></a>
+
 ### 3. Made a dbt plugin that skips models when nothing actually changed, just shipped 0.4.0 with dbt v2 support
 
-2026-11-06 · u/Alaturqua · Open Source · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xplx2p/made_a_dbt_plugin_that_skips_models_when_nothing/)
+2026-11-06 · u/Alaturqua · Open Source · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xplx2p/made_a_dbt_plugin_that_skips_models_when_nothing/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/dj4rl2pin10i1>
 
@@ -186,9 +192,11 @@ Link: <https://v.redd.it/dj4rl2pin10i1>
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-4"></a>
+
 ### 4. Thoughts on McKinsey QuantumBlack?
 
-2026-11-06 · u/godz_ares · Career · score 31 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpln15/thoughts_on_mckinsey_quantumblack/)
+2026-11-06 · u/godz_ares · Career · score 31 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpln15/thoughts_on_mckinsey_quantumblack/) · [↑ back to the list](#last-50-posts)
 
 > I have been offered a position as a Junior Data Engineer at QB.
 >
@@ -202,107 +210,135 @@ Link: <https://v.redd.it/dj4rl2pin10i1>
 >
 > Any thoughts on their prestige/reputation/depth of work?
 
+<a id="post-5"></a>
+
 ### 5. Where do Data Engineers who love understanding the business go?
 
-2026-11-06 · u/CountPrestigious3378 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpkonh/where_do_data_engineers_who_love_understanding/)
+2026-11-06 · u/CountPrestigious3378 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpkonh/where_do_data_engineers_who_love_understanding/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. What to send your boss before the next AI project
 
-2026-11-06 · u/Charlotte1309 · Blog · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpgma9/what_to_send_your_boss_before_the_next_ai_project/)
+2026-11-06 · u/Charlotte1309 · Blog · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpgma9/what_to_send_your_boss_before_the_next_ai_project/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://thedatagovernanceplaybook.substack.com/p/what-to-send-your-boss-before-the>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?
 
-2026-11-06 · u/Glad-Iator2004 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpe11o/does_resuming_a_paused_fivetran_connector_consume/)
+2026-11-06 · u/Glad-Iator2004 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpe11o/does_resuming_a_paused_fivetran_connector_consume/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-8"></a>
 
 ### 8. Does resuming a paused Fivetran connector consume the 14-day free trial or incur MAR charges?
 
-2026-11-06 · u/Tiny_Zombie_1639 · Career · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpdvyg/does_resuming_a_paused_fivetran_connector_consume/)
+2026-11-06 · u/Tiny_Zombie_1639 · Career · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpdvyg/does_resuming_a_paused_fivetran_connector_consume/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. How I Scraped 7,000 Pages in Under 3 Minutes with Python
 
-2026-11-06 · u/kingabzpro · Blog · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpc769/how_i_scraped_7000_pages_in_under_3_minutes_with/)
+2026-11-06 · u/kingabzpro · Blog · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpc769/how_i_scraped_7000_pages_in_under_3_minutes_with/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-10"></a>
+
 ### 10. Built an AI extension that generates complete Python data pipelines from data samples
 
-2026-11-06 · u/prettywhale_ai · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpbmk6/built_an_ai_extension_that_generates_complete/)
+2026-11-06 · u/prettywhale_ai · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpbmk6/built_an_ai_extension_that_generates_complete/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpbmk6>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Carquet: a 500 KB Parquet reader/writer in C, with a Python package
 
-2026-11-06 · u/Vitruves · Personal Project Showcase · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpadsw/carquet_a_500_kb_parquet_readerwriter_in_c_with_a/)
+2026-11-06 · u/Vitruves · Personal Project Showcase · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpadsw/carquet_a_500_kb_parquet_readerwriter_in_c_with_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-12"></a>
+
 ### 12. QueryCrack – SQL challenges where a correct but slow query fails
 
-2026-11-06 · u/koalaa_67 · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpachk/querycrack_sql_challenges_where_a_correct_but/)
+2026-11-06 · u/koalaa_67 · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpachk/querycrack_sql_challenges_where_a_correct_but/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Career advice - how to add cloud + dbt to CV.
 
-2026-11-06 · u/TefteliSumeli · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpa6s9/career_advice_how_to_add_cloud_dbt_to_cv/)
+2026-11-06 · u/TefteliSumeli · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xpa6s9/career_advice_how_to_add_cloud_dbt_to_cv/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first recommendation is search through the community [Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering) which answers a lot of general questions about a career in data engineering. Secondly, try the [search function](https://www.reddit.com/r/dataengineering/search/?) by typing the topic of your question into the search bar. Your question has likely been answered before and has already been answered by the community. If you feel like it hasn't, please message us with a link to your removed post and we'll review. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-14"></a>
+
 ### 14. Automating Data Preprocessing: A Guide to Python AI Data Cleaning
 
-2026-11-06 · u/Ok_pettech · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp8j2d/automating_data_preprocessing_a_guide_to_python/)
+2026-11-06 · u/Ok_pettech · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp8j2d/automating_data_preprocessing_a_guide_to_python/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-15"></a>
+
 ### 15. Data Engineer forced to do BI
 
-2026-11-06 · u/Sure-Beyond1983 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp5umh/data_engineer_forced_to_do_bi/)
+2026-11-06 · u/Sure-Beyond1983 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp5umh/data_engineer_forced_to_do_bi/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). Your post was removed as it is more like life advice rather than a DE specific discussion. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-16"></a>
+
 ### 16. Hey I am aTYBSC Computer Student any Advice for how to get into Data engineering field in this era
 
-2026-11-06 · u/BetaDataGuy · Career · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp4jc8/hey_i_am_atybsc_computer_student_any_advice_for/)
+2026-11-06 · u/BetaDataGuy · Career · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xp4jc8/hey_i_am_atybsc_computer_student_any_advice_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first recommendation is search through the community [Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering) which answers a lot of general questions about a career in data engineering. Secondly, try the [search function](https://www.reddit.com/r/dataengineering/search/?) by typing the topic of your question into the search bar. Your question has likely been answered before and has already been answered by the community. If you feel like it hasn't, please message us with a link to your removed post and we'll review. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-17"></a>
 
 ### 17. Learning data engineering by building a project instead of doing tutorials. Does this actually work?
 
-2026-11-05 · u/CancelPuzzleheaded63 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xox78s/learning_data_engineering_by_building_a_project/)
+2026-11-05 · u/CancelPuzzleheaded63 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xox78s/learning_data_engineering_by_building_a_project/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first recommendation is search through the community [Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering) which answers a lot of general questions about a career in data engineering. Secondly, try the [search function](https://www.reddit.com/r/dataengineering/search/?) by typing the topic of your question into the search bar. Your question has likely been answered before and has already been answered by the community. If you feel like it hasn't, please message us with a link to your removed post and we'll review. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-18"></a>
+
 ### 18. What are you using to ingest/search/scan code from internal repos?
 
-2026-11-05 · u/alg0phelia · Discussion · score 7 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xox6s5/what_are_you_using_to_ingestsearchscan_code_from/)
+2026-11-05 · u/alg0phelia · Discussion · score 7 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xox6s5/what_are_you_using_to_ingestsearchscan_code_from/) · [↑ back to the list](#last-50-posts)
 
 > hey everyone!
 >
@@ -326,183 +362,231 @@ Link: <https://www.reddit.com/gallery/1xpbmk6>
 >
 > Has anyone implemented something like this? What components did you use? I did a few prototypes with a simple Rust-based ingestor that reads/checks out the repo or archive of the repo, then reads the git blob objects and scans the code for certain regex patterns. Each replica of the ingestor was running on Kubernetes and state (ie. repos scanned, still pending etc) was tracked in a DB table. Wondering if there is something off the shelf that can do something similar?
 
+<a id="post-19"></a>
+
 ### 19. I built an open-source tool that shows what a dbt PR breaks downstream (columns, dashboards) before merge — no warehouse needed
 
-2026-11-05 · u/simonpetermueller · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xowge0/i_built_an_opensource_tool_that_shows_what_a_dbt/)
+2026-11-05 · u/simonpetermueller · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xowge0/i_built_an_opensource_tool_that_shows_what_a_dbt/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-20"></a>
 
 ### 20. Database Developer to Data Engineer
 
-2026-11-05 · u/Dirtygerd · Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xovarh/database_developer_to_data_engineer/)
+2026-11-05 · u/Dirtygerd · Career · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xovarh/database_developer_to_data_engineer/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-21"></a>
+
 ### 21. Bank data engineering internship or data engineering inside a Big 4 audit practice?
 
-2026-11-05 · u/Old-Ability-4920 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xorehn/bank_data_engineering_internship_or_data/)
+2026-11-05 · u/Old-Ability-4920 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xorehn/bank_data_engineering_internship_or_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-22"></a>
+
 ### 22. Fabric vs Snowflake/Databricks
 
-2026-11-05 · u/Gawgba · Discussion · score 83 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoqg4z/fabric_vs_snowflakedatabricks/)
+2026-11-05 · u/Gawgba · Discussion · score 83 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoqg4z/fabric_vs_snowflakedatabricks/) · [↑ back to the list](#last-50-posts)
 
 > Not a troll post but an honest question, and maybe more about Microsoft vs Snowflake/Databricks.
 >
 > Why is Fabric so far behind its competitors.  Not so much from the perspective of specific UI/UX or functionality, but more of a question of why MS engineers are seemingly incapable of just copying and improving on their competitors.  Is it something about MS culture or competency?  It seems like they should have enough money to hire talent if they wanted to, but everything from the UI to the bugginess of Fabric seems to scream no-budget startup cutting corners at every step to push garbage out the door.  Are the dev and UI teams just that much worse?
 
+<a id="post-23"></a>
+
 ### 23. I hate Palantir. Am I just being prejudiced?
 
-2026-11-05 · u/ChampionFrequent4643 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoq5f5/i_hate_palantir_am_i_just_being_prejudiced/)
+2026-11-05 · u/ChampionFrequent4643 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoq5f5/i_hate_palantir_am_i_just_being_prejudiced/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first recommendation is search through the community [Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering) which answers a lot of general questions about a career in data engineering. Secondly, try the [search function](https://www.reddit.com/r/dataengineering/search/?) by typing the topic of your question into the search bar. Your question has likely been answered before and has already been answered by the community. If you feel like it hasn't, please message us with a link to your removed post and we'll review. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-24"></a>
+
 ### 24. Is Kimball dimensional modeling/methodology still worth teaching new data engineers in 2026/2027?
 
-2026-11-05 · u/dataologist · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xopcmo/is_kimball_dimensional_modelingmethodology_still/)
+2026-11-05 · u/dataologist · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xopcmo/is_kimball_dimensional_modelingmethodology_still/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-25"></a>
 
 ### 25. I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases, MCP)
 
-2026-11-05 · u/wrosa85 · Personal Project Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoj71w/i_built_an_opensource_semantic_layer_that/)
+2026-11-05 · u/wrosa85 · Personal Project Showcase · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoj71w/i_built_an_opensource_semantic_layer_that/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-26"></a>
 
 ### 26. Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?
 
-2026-11-05 · u/Apart_Paramedic_1850 · Personal Project Showcase · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoilh4/would_you_use_scalacatsstyle_io_and_fibers_in_a/)
+2026-11-05 · u/Apart_Paramedic_1850 · Personal Project Showcase · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoilh4/would_you_use_scalacatsstyle_io_and_fibers_in_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-27"></a>
 
 ### 27. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/analyticsvector-yt · Blog · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoiet9/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/analyticsvector-yt · Blog · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoiet9/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-28"></a>
+
 ### 28. Medallion Architecture for Dummies
 
-2026-11-05 · u/-Lykos- · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xofe3c/medallion_architecture_for_dummies/)
+2026-11-05 · u/-Lykos- · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xofe3c/medallion_architecture_for_dummies/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://russellchubb.com/posts/drafts/technical/medallion_architecture_for_dummies/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-29"></a>
 
 ### 29. Medallion Architecture for Dummies
 
-2026-11-05 · u/-Lykos- · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xof6fc/medallion_architecture_for_dummies/)
+2026-11-05 · u/-Lykos- · Blog · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xof6fc/medallion_architecture_for_dummies/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://russellchubb.com/posts/drafts/technical/medallion_architecture_for_dummies/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Data Lineage SaaS free tool
 
-2026-11-05 · u/gr_fitIT · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xof0yw/data_lineage_saas_free_tool/)
+2026-11-05 · u/gr_fitIT · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xof0yw/data_lineage_saas_free_tool/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. I’m building a learning platform for data engineers, and I need your help.
 
-2026-11-05 · u/vutr274 · Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoemmg/im_building_a_learning_platform_for_data/)
+2026-11-05 · u/vutr274 · Help · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoemmg/im_building_a_learning_platform_for_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/we7m7zm4mrzh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. What is the best project you've ever built?
 
-2026-11-05 · u/FirefighterSilver879 · Discussion · score 17 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoe15z/what_is_the_best_project_youve_ever_built/)
+2026-11-05 · u/FirefighterSilver879 · Discussion · score 17 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoe15z/what_is_the_best_project_youve_ever_built/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
 > I'm asking about the best data engineering projects you've built. What are the details, architecture, and the repo links so we can see new ideas and learn from them?
 
+<a id="post-33"></a>
+
 ### 33. Senior data engineer, but still feel like I don't know anything when I listen to podcasts and read your stories
 
-2026-11-05 · u/FrostyImportance5059 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xodd9y/senior_data_engineer_but_still_feel_like_i_dont/)
+2026-11-05 · u/FrostyImportance5059 · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xodd9y/senior_data_engineer_but_still_feel_like_i_dont/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment violated rule #2 (Search the sub & wiki before asking a question). Our first recommendation is search through the community [Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering) which answers a lot of general questions about a career in data engineering. Secondly, try the [search function](https://www.reddit.com/r/dataengineering/search/?) by typing the topic of your question into the search bar. Your question has likely been answered before and has already been answered by the community. If you feel like it hasn't, please message us with a link to your removed post and we'll review. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-34"></a>
+
 ### 34. Looking for C-Suite Executive Data Vendors
 
-2026-11-05 · u/Basic-Mode9456 · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod8mj/looking_for_csuite_executive_data_vendors/)
+2026-11-05 · u/Basic-Mode9456 · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod8mj/looking_for_csuite_executive_data_vendors/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
+
+<a id="post-35"></a>
 
 ### 35. 4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1 alert vs. 26)
 
-2026-11-05 · u/MelonPaw691 · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod4yn/4_weeks_of_freshness_checks_on_6_public_financial/)
+2026-11-05 · u/MelonPaw691 · Blog · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod4yn/4_weeks_of_freshness_checks_on_6_public_financial/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-36"></a>
+
 ### 36. 4 weeks of freshness checks on 6 public financial feeds: calendar-aware schedule vs. a fixed 26h threshold (1 alert vs. 26)
 
-2026-11-05 · u/MelonPaw691 · Blog · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod3tq/4_weeks_of_freshness_checks_on_6_public_financial/)
+2026-11-05 · u/MelonPaw691 · Blog · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xod3tq/4_weeks_of_freshness_checks_on_6_public_financial/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. Built an End to End Azure Lakehouse (ADF, Databricks, Delta Lake ,dbt, Airflow) - Key learnings & Architecture Patterns
 
-2026-11-05 · u/Surendhar_ · Personal Project Showcase · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xobcrp/built_an_end_to_end_azure_lakehouse_adf/)
+2026-11-05 · u/Surendhar_ · Personal Project Showcase · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xobcrp/built_an_end_to_end_azure_lakehouse_adf/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Suray-27/Weather-Lakehouse>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. If your CEO asks three teams for the same metric and gets three answers, you have a data problem.
 
-2026-11-05 · u/djgoel123 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoa4kn/if_your_ceo_asks_three_teams_for_the_same_metric/)
+2026-11-05 · u/djgoel123 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xoa4kn/if_your_ceo_asks_three_teams_for_the_same_metric/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-39"></a>
+
 ### 39. Zero license reporting for D365 F&O
 
-2026-11-05 · u/OkPerspective9454 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo8inl/zero_license_reporting_for_d365_fo/)
+2026-11-05 · u/OkPerspective9454 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo8inl/zero_license_reporting_for_d365_fo/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #3 (Keep it related to data engineering). This is a data engineering focused subreddit. Posts that are unrelated to data engineering may be better for other communities: - [r/datascience](https://www.reddit.com/r/datascience) - data science, ML, analytics - [r/MachineLearning](https://www.reddit.com/r/MachineLearning) - machine learning discussions - [r/dataops](https://www.reddit.com/r/dataops) - DataOps (pipeline reliability, orchestration, metadata) - [r/BusinessIntelligence](https://www.reddit.com/r/BusinessIntelligence) - BI, analytics, dashboards, data-driven business decisions - [r/analytics](https://www.reddit.com/r/analytics) - web analytics, marketing analytics, tech + data - [r/datasets](https://www.reddit.com/r/datasets) - sharing datasets, data sources ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-40"></a>
+
 ### 40. 25 F Looking for a job
 
-2026-11-05 · u/luciferisbgmi · Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo8ef3/25_f_looking_for_a_job/)
+2026-11-05 · u/luciferisbgmi · Career · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo8ef3/25_f_looking_for_a_job/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1657dmyvqpzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. End-to-end e-commerce data warehouse (Hadoop+Hive+Spark) with a Text-to-SQL assistant
 
-2026-11-05 · u/Spiritual-Frosting33 · Personal Project Showcase · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo86s4/endtoend_ecommerce_data_warehouse_hadoophivespark/)
+2026-11-05 · u/Spiritual-Frosting33 · Personal Project Showcase · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo86s4/endtoend_ecommerce_data_warehouse_hadoophivespark/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-42"></a>
+
 ### 42. Not-so-beginner wanting to independently build ETL infrastructure but don't know where to look for material (100-1000 sources) to use.
 
-2026-11-05 · u/Usual_Macaroon7881 · Help · score 5 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo7vbe/notsobeginner_wanting_to_independently_build_etl/)
+2026-11-05 · u/Usual_Macaroon7881 · Help · score 5 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo7vbe/notsobeginner_wanting_to_independently_build_etl/) · [↑ back to the list](#last-50-posts)
 
 > The title.
 >
@@ -512,49 +596,63 @@ Link: <https://i.redd.it/1657dmyvqpzh1.png>
 >
 > Thanks <3
 
+<a id="post-43"></a>
+
 ### 43. Productivity monitoring on laptops to track keystrokes
 
-2026-11-05 · u/Swan_233 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo6k51/productivity_monitoring_on_laptops_to_track/)
+2026-11-05 · u/Swan_233 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo6k51/productivity_monitoring_on_laptops_to_track/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-44"></a>
+
 ### 44. NVIDIA released Auto-Ontology, that do you think?
 
-2026-11-04 · u/No-Employer8282 · Discussion · score 38 · 14 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo3xev/nvidia_released_autoontology_that_do_you_think/)
+2026-11-04 · u/No-Employer8282 · Discussion · score 38 · 14 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo3xev/nvidia_released_autoontology_that_do_you_think/) · [↑ back to the list](#last-50-posts)
 
 > NVIDIA open source a way to automatically create an ontology layer and let agents to understand enterprise data, here is the link is open source, what do you think ? [https://github.com/NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 
+<a id="post-45"></a>
+
 ### 45. What's the most expensive part of a data API integration that nobody includes in the subscription price?
 
-2026-11-04 · u/Free-Band-8923 · Discussion · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo1dty/whats_the_most_expensive_part_of_a_data_api/)
+2026-11-04 · u/Free-Band-8923 · Discussion · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo1dty/whats_the_most_expensive_part_of_a_data_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vxl9yce75ozh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. How many paid data APIs does your production stack depend on, and what would make you consolidate them?
 
-2026-11-04 · u/Free-Band-8923 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo0r2p/how_many_paid_data_apis_does_your_production/)
+2026-11-04 · u/Free-Band-8923 · Discussion · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo0r2p/how_many_paid_data_apis_does_your_production/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-47"></a>
 
 ### 47. Is the "quality over quantity" approach to applying for jobs still the preferred method?
 
-2026-11-04 · u/yourcallisconnecting · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo0c1l/is_the_quality_over_quantity_approach_to_applying/)
+2026-11-04 · u/yourcallisconnecting · Career · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xo0c1l/is_the_quality_over_quantity_approach_to_applying/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. How do you validate a database migration? (data + schema)
 
-2026-11-04 · u/Sufficient_Smoke8514 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnzzc1/how_do_you_validate_a_database_migration_data/)
+2026-11-04 · u/Sufficient_Smoke8514 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnzzc1/how_do_you_validate_a_database_migration_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-49"></a>
+
 ### 49. Data Engineer Niche tech Stack?
 
-2026-11-04 · u/Typical-Presence5628 · Discussion · score 15 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnx5m3/data_engineer_niche_tech_stack/)
+2026-11-04 · u/Typical-Presence5628 · Discussion · score 15 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnx5m3/data_engineer_niche_tech_stack/) · [↑ back to the list](#last-50-posts)
 
 > Hey DE super heroes,  Let's help each other. What are the niche tech stacks/skills you are coming across in the Job Description and what we can learn?
 >
@@ -568,31 +666,39 @@ Link: <https://i.redd.it/vxl9yce75ozh1.png>
 >
 > 8+ YOE in the DE world 🌎
 
+<a id="post-50"></a>
+
 ### 50. Your Spark job is running slow. Why is your first instinct to increase executor memory?
 
-2026-11-04 · u/iamyourdataguy · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnuk16/your_spark_job_is_running_slow_why_is_your_first/)
+2026-11-04 · u/iamyourdataguy · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xnuk16/your_spark_job_is_running_slow_why_is_your_first/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/dataengineering-ModTeam): Your post/comment was removed because it violated rule #9 (No AI generated content/text). Your post/comment was reviewed to be AI generated/assisted content/text and removed as a result. We as a community value human engagement and encourage users to express themselves authentically. ^*This* ^*was* ^*reviewed* ^*by* ^*a* ^*human*
 
+<a id="post-51"></a>
+
 ### 51. I lament- My work has shifted from building pipelines to building semantic layer for chatbots
 
-2026-10-24 · u/Throwaway081920231 · Rant · score 344 · 94 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xdu912/i_lament_my_work_has_shifted_from_building/)
+2026-10-24 · u/Throwaway081920231 · Rant · score 344 · 94 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xdu912/i_lament_my_work_has_shifted_from_building/) · [↑ back to the list](#last-50-posts)
 
 > I used to build data pipelines. I deeply enjoyed ETL
 
+<a id="post-52"></a>
+
 ### 52. Based on true events
 
-2026-10-19 · u/Familiar-Ad-7875 · Meme · score 267 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x9p339/based_on_true_events/)
+2026-10-19 · u/Familiar-Ad-7875 · Meme · score 267 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x9p339/based_on_true_events/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ejuwl3fr7dwh1.jpeg>
 
 > Most horror story out there and based on true story for millions of people around the world..
 
+<a id="post-53"></a>
+
 ### 53. Landed a new job - thank you /r/DE
 
-2026-10-27 · u/lostmyway573 · Career · score 204 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xh2vvi/landed_a_new_job_thank_you_rde/)
+2026-10-27 · u/lostmyway573 · Career · score 204 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xh2vvi/landed_a_new_job_thank_you_rde/) · [↑ back to the list](#last-50-posts)
 
 > Title.  Recently landed a new DE gig after searching casually for the majority of this year.   I applied for about 30 jobs over the course of this year.  I was at a dead end with my old place, dealing with a ton of micromanagement and a botched migration from SSIS to ADF that left everything more complicated than it was when it was on-prem and no hope of migrating off of it.  Old company tech stack:  SQL Server, SSIS, ADF(Azure), Snowflake.  
 >
@@ -602,31 +708,39 @@ Link: <https://i.redd.it/ejuwl3fr7dwh1.jpeg>
 >
 > Cheers!
 
+<a id="post-54"></a>
+
 ### 54. Who else is ignoring recruiter messages, despite being ready to move, simply because the job market odds seem so stacked that it doesn’t seem worth the time?
 
-2026-10-19 · u/Reasonable_Tooth_501 · Career · score 191 · 57 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xa4byh/who_else_is_ignoring_recruiter_messages_despite/)
+2026-10-19 · u/Reasonable_Tooth_501 · Career · score 191 · 57 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xa4byh/who_else_is_ignoring_recruiter_messages_despite/) · [↑ back to the list](#last-50-posts)
 
 > That’s where I’m at. Like yeah sure I can take the recruiter call, but given the high supply and limited demand of the market…I have a hard time getting motivated to throw myself into a cycle despite getting nibbles. Especially knowing all the prep it takes on top of the day job.
 >
 > For the savants who breeze through processes and get whatever job they go for—this post is not directed at you. It’s for the rest of us who are good but not top percentile and still have to compete with everyone else.
 
+<a id="post-55"></a>
+
 ### 55. me watching someones agent approve my PR I didn't read
 
-2026-10-12 · u/Brief-Knowledge-629 · Meme · score 183 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x42qgn/me_watching_someones_agent_approve_my_pr_i_didnt/)
+2026-10-12 · u/Brief-Knowledge-629 · Meme · score 183 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x42qgn/me_watching_someones_agent_approve_my_pr_i_didnt/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/8f53w1p4m1vh1.jpeg>
 
 > me irl
 
+<a id="post-56"></a>
+
 ### 56. MS Employee here -- we are giving away vouchers for data engineering cert exams
 
-2026-11-03 · u/FabricPam · Career · score 170 · 52 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xn26ln/ms_employee_here_we_are_giving_away_vouchers_for/)
+2026-11-03 · u/FabricPam · Career · score 170 · 52 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xn26ln/ms_employee_here_we_are_giving_away_vouchers_for/) · [↑ back to the list](#last-50-posts)
 
 > Hello from the Microsoft team -- wanted to let you all know we're offering free vouchers for the Microsoft Fabric Data Engineer exam during Data Days.[https://aka.ms/datadays](https://aka.ms/datadays)
 
+<a id="post-57"></a>
+
 ### 57. Data Engineering Lab to Practice on your Laptop
 
-2026-10-19 · u/epireum_oy · Discussion · score 157 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xa0uo1/data_engineering_lab_to_practice_on_your_laptop/)
+2026-10-19 · u/epireum_oy · Discussion · score 157 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xa0uo1/data_engineering_lab_to_practice_on_your_laptop/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -651,9 +765,11 @@ Link: <https://i.redd.it/8f53w1p4m1vh1.jpeg>
 >
 > https://i.redd.it/vy9726os5gwh1.png
 
+<a id="post-58"></a>
+
 ### 58. I foresee that I’m not very employable from now on
 
-2026-10-31 · u/Outside-Storage-1523 · Career · score 131 · 67 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xkas3f/i_foresee_that_im_not_very_employable_from_now_on/)
+2026-10-31 · u/Outside-Storage-1523 · Career · score 131 · 67 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xkas3f/i_foresee_that_im_not_very_employable_from_now_on/) · [↑ back to the list](#last-50-posts)
 
 > I have always been a doer. At the same time, I’m not technically sharp enough so I believe implementation is at least as important (to me) as architecture and design.
 >
@@ -665,9 +781,11 @@ Link: <https://i.redd.it/8f53w1p4m1vh1.jpeg>
 >
 > Good luck folks.
 
+<a id="post-59"></a>
+
 ### 59. My fabric project
 
-2026-10-27 · u/Due-Doughnut1818 · Personal Project Showcase · score 129 · 54 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xgntb6/my_fabric_project/)
+2026-10-27 · u/Due-Doughnut1818 · Personal Project Showcase · score 129 · 54 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xgntb6/my_fabric_project/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xgntb6>
 
@@ -675,9 +793,11 @@ Link: <https://www.reddit.com/gallery/1xgntb6>
 >
 > you can find the project with full details here: [https://github.com/Madian20/Fabric](https://github.com/Madian20/Fabric)
 
+<a id="post-60"></a>
+
 ### 60. Why does accuracy not seem to matter for the business?
 
-2026-10-26 · u/AdNext5396 · Discussion · score 111 · 70 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xg4cnd/why_does_accuracy_not_seem_to_matter_for_the/)
+2026-10-26 · u/AdNext5396 · Discussion · score 111 · 70 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xg4cnd/why_does_accuracy_not_seem_to_matter_for_the/) · [↑ back to the list](#last-50-posts)
 
 > I have been working for 5 years on the analytical side of things and I'm yet to find a company where our work actually makes a difference. I know that there are some very specific businesses like financial trading where profit is actually made using data, but for most corporate BI projects this is not the case.
 >
@@ -691,9 +811,11 @@ Link: <https://www.reddit.com/gallery/1xgntb6>
 >
 > Can someone more experienced tell me why this is?
 
+<a id="post-61"></a>
+
 ### 61. Putting all world law on git
 
-2026-10-30 · u/SnooPeripherals5313 · Discussion · score 107 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xj2mks/putting_all_world_law_on_git/)
+2026-10-30 · u/SnooPeripherals5313 · Discussion · score 107 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xj2mks/putting_all_world_law_on_git/) · [↑ back to the list](#last-50-posts)
 
 > I am putting all world law into git. That comes with some quirks, like the cut-off being 1970 (commits are calculated as seconds since 1 January 1970).
 >
@@ -701,16 +823,20 @@ Link: <https://www.reddit.com/gallery/1xgntb6>
 >
 > [https://github.com/lexifina/global-law](https://github.com/lexifina/global-law)
 
+<a id="post-62"></a>
+
 ### 62. Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”
 
-2026-10-22 · u/Fair-Bookkeeper-1833 · Blog · score 107 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xchj9b/announcing_duckdb_200_lts_cinnamon_teal/)
+2026-10-22 · u/Fair-Bookkeeper-1833 · Blog · score 107 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xchj9b/announcing_duckdb_200_lts_cinnamon_teal/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 
 
+<a id="post-63"></a>
+
 ### 63. I enjoy managing access control
 
-2026-10-23 · u/ratesofchange · Discussion · score 85 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xdijvj/i_enjoy_managing_access_control/)
+2026-10-23 · u/ratesofchange · Discussion · score 85 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xdijvj/i_enjoy_managing_access_control/) · [↑ back to the list](#last-50-posts)
 
 > I admit it. 
 >
@@ -726,15 +852,19 @@ Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 >
 > (Probably neurodivergent btw yet to be tested)
 
+<a id="post-64"></a>
+
 ### 64. How do you find data mismatches between two large tables?
 
-2026-10-16 · u/ETL_Pipeline_Dev · Discussion · score 84 · 51 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x7e13n/how_do_you_find_data_mismatches_between_two_large/)
+2026-10-16 · u/ETL_Pipeline_Dev · Discussion · score 84 · 51 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x7e13n/how_do_you_find_data_mismatches_between_two_large/) · [↑ back to the list](#last-50-posts)
 
 > When comparing source and target tables with millions of rows, what SQL techniques do you use to identify missing records and differences in column values? Do you use `EXCEPT`, joins, hashes, or something else?
 
+<a id="post-65"></a>
+
 ### 65. built a sql practice site around data engineering concepts
 
-2026-10-18 · u/peakpirate007 · Personal Project Showcase · score 84 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x8r58j/built_a_sql_practice_site_around_data_engineering/)
+2026-10-18 · u/peakpirate007 · Personal Project Showcase · score 84 · 15 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x8r58j/built_a_sql_practice_site_around_data_engineering/) · [↑ back to the list](#last-50-posts)
 
 > been working on **runtime.school** for a while and finally finished the sql side.
 >
@@ -744,9 +874,11 @@ Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 >
 > [https://www.runtime.school/](https://www.runtime.school/)
 
+<a id="post-66"></a>
+
 ### 66. Interesting Links in Data Engineering: October 2026
 
-2026-10-30 · u/rmoff · Blog · score 71 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xjdst6/interesting_links_in_data_engineering_october_2026/)
+2026-10-30 · u/rmoff · Blog · score 71 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xjdst6/interesting_links_in_data_engineering_october_2026/) · [↑ back to the list](#last-50-posts)
 
 > All treats, no tricks this month ;)
 >
@@ -761,9 +893,11 @@ Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 >
 > https://rmoff.net/2026/10/29/interesting-links-october-2026/
 
+<a id="post-67"></a>
+
 ### 67. Shifting from DE to AI Ops Engineer
 
-2026-11-01 · u/Ill-Rhubarb-6332 · Career · score 62 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xkr8rm/shifting_from_de_to_ai_ops_engineer/)
+2026-11-01 · u/Ill-Rhubarb-6332 · Career · score 62 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xkr8rm/shifting_from_de_to_ai_ops_engineer/) · [↑ back to the list](#last-50-posts)
 
 > I have been searching DE job since January 2026 and although I had few initial interviews but I was not selected for the next round. From 2021 to may 2024, I've held Data Engineer job title with 4 contract roles. Prior to that I was doing MSSQL Development, SSIS.
 >
@@ -775,9 +909,11 @@ Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 >
 > Thanks.
 
+<a id="post-68"></a>
+
 ### 68. Migrating from dbt Cloud to Core
 
-2026-10-21 · u/spectre-uk · Discussion · score 59 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xbiqop/migrating_from_dbt_cloud_to_core/)
+2026-10-21 · u/spectre-uk · Discussion · score 59 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1xbiqop/migrating_from_dbt_cloud_to_core/) · [↑ back to the list](#last-50-posts)
 
 > Have any of you done this on a mature project, and was it worth it?
 >
@@ -789,9 +925,11 @@ Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 >
 > I wonder if anybody ended up in a situation like this? Give me some good reasons not to move to Core.
 
+<a id="post-69"></a>
+
 ### 69. Should I move from a snowflake environment to a fabric environment to get back to a DE role?
 
-2026-10-17 · u/Throwaway081920231 · Career · score 53 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x7yosh/should_i_move_from_a_snowflake_environment_to_a/)
+2026-10-17 · u/Throwaway081920231 · Career · score 53 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineering/comments/1x7yosh/should_i_move_from_a_snowflake_environment_to_a/) · [↑ back to the list](#last-50-posts)
 
 > I have been a DE for over 10 years working on SSIS and later building pipelines on databricks and dbt. Earlier this year I took up a new job as a manager of an analytics team. I hate my role and the lack of ownership and hands on work. I am primarily tasked with leading a team on reporting and data delivery and semantic layer while depending on the DE team for all data. I am also not enjoying middle management. Current job is a snowflake, dbt and AWS shop but I am my team primarily just write sql on snowflake. Recently I have been in conversations for a data architect role at another team in my organization and it’s a more engineering and architecture focused role which I want but they use Fabric. Wondering if that makes a difference. I am inclined to take the new role if it works out just so I can move out of analytics and go back to a more data engineering focused IC role.
 

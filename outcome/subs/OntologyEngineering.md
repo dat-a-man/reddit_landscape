@@ -102,56 +102,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [I built Hygieia](https://www.reddit.com/r/OntologyEngineering/comments/1xpbh5a/i_built_hygieia/) | u/n0hatr3d0nlyhe4rt | — | text | 4 | 2 | live | — |
-| 2 | 2026-11-02 | [Bi-Weekly Questions Thread - November 02, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1xlvdge/biweekly_questions_thread_november_02_2026/) | u/AutoModerator | — | text | 2 | 2 | live | — |
-| 3 | 2026-10-30 | [Do you guys build data-based agents? how? if no, would you?](https://www.reddit.com/r/OntologyEngineering/comments/1xjn1n1/do_you_guys_build_databased_agents_how_if_no/) | u/Thinker_Assignment | — | text | 7 | 10 | live | — |
-| 4 | 2026-10-29 | [What if ontologies couldn't be silently overwritten? Designing an adjudication layer for agent memory — looki…](https://www.reddit.com/r/OntologyEngineering/comments/1xi521v/what_if_ontologies_couldnt_be_silently/) | u/Lateraluciernaga | Agentic Enablement | v.redd.it | 11 | 7 | live | — |
-| 5 | 2026-10-28 | [本体里最被低估的想法：行动是唯一的写入通道](https://www.reddit.com/r/OntologyEngineering/comments/1xhc4qd/本体里最被低估的想法行动是唯一的写入通道/) | u/Far-Purpose1721 | — | text | 18 | 8 | live | — |
-| 6 | 2026-10-25 | [Open Atlas Studio: a semantic data layer for your agents](https://www.reddit.com/r/OntologyEngineering/comments/1xf17hx/open_atlas_studio_a_semantic_data_layer_for_your/) | u/Sorry_Performance577 | — | text | 8 | 1 | live | — |
-| 7 | 2026-10-22 | [Most agentic systems obsess over memory drift. Almost nobody is talking about ontological drift.](https://www.reddit.com/r/OntologyEngineering/comments/1xcrl0o/most_agentic_systems_obsess_over_memory_drift/) | u/Lateraluciernaga | Human as a Semantic Layer | v.redd.it | 93 | 7 | live | — |
-| 8 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](https://www.reddit.com/r/OntologyEngineering/comments/1xactde/i_wanted_the_editor_experience_every_programming/) | u/ascendToSurvive | Code Precision vs High Semant… | v.redd.it | 26 | 2 | live | — |
-| 9 | 2026-10-19 | [Bi-Weekly Questions Thread - October 19, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1x9tv8o/biweekly_questions_thread_october_19_2026/) | u/AutoModerator | — | text | 1 | 3 | live | — |
-| 10 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](https://www.reddit.com/r/OntologyEngineering/comments/1x50jtq/we_tried_bigquerys_new_property_graph/) | u/Thinker_Assignment | — | i.redd.it | 9 | 0 | live | — |
-| 11 | 2026-10-09 | [Your Ontology Records Permission. It Does Not Resolve Authority.](https://www.reddit.com/r/OntologyEngineering/comments/1x1iiwu/your_ontology_records_permission_it_does_not/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 12 | 2026-10-09 | [Ontology-First: Why Agents Need Knowledge Networks Built in Reverse](https://www.reddit.com/r/OntologyEngineering/comments/1x1ginx/ontologyfirst_why_agents_need_knowledge_networks/) | u/Boring-Protection141 | — | text | 0 | 0 | spam-filtered | — |
-| 13 | 2026-10-07 | [Other AI-pilled data engineers](https://www.reddit.com/r/OntologyEngineering/comments/1wzxmtf/other_aipilled_data_engineers/) | u/Thinker_Assignment | Agentic Enablement | text | 11 | 0 | live | — |
-| 14 | 2026-10-05 | [Bi-Weekly Questions Thread - October 05, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1wy5ny8/biweekly_questions_thread_october_05_2026/) | u/AutoModerator | — | text | 3 | 2 | live | — |
-| 15 | 2026-10-03 | [Make Ontology Great Again!](https://www.reddit.com/r/OntologyEngineering/comments/1wwv9fe/make_ontology_great_again/) | u/RazzmatazzAccurate82 | — | text | 11 | 2 | live | — |
-| 16 | 2026-10-03 | [Code already has an ontology, we just make agents rebuild it from text every time](https://www.reddit.com/r/OntologyEngineering/comments/1wwsfjd/code_already_has_an_ontology_we_just_make_agents/) | u/Wise_Reflection_8340 | Code Precision vs High Semant… | text | 24 | 1 | live | — |
-| 17 | 2026-10-01 | [Wittgenstein Apartment: A behavioral predicates ontology with a separate character-access layer](https://www.reddit.com/r/OntologyEngineering/comments/1wuzgbr/wittgenstein_apartment_a_behavioral_predicates/) | u/Kon-tiki-ship | Human as a Semantic Layer | text | 1 | 0 | spam-filtered | — |
-| 18 | 2026-09-30 | [Does a behavioral predicate ontology need a separate character-access layer?](https://www.reddit.com/r/OntologyEngineering/comments/1wu5hca/does_a_behavioral_predicate_ontology_need_a/) | u/Kon-tiki-ship | Human as a Semantic Layer | text | 5 | 2 | approved | — |
-| 19 | 2026-09-30 | [Which parts of ontology engineering cannot realistically be automated?](https://www.reddit.com/r/OntologyEngineering/comments/1wtvxbr/which_parts_of_ontology_engineering_cannot/) | u/himanshu_urck | — | text | 15 | 3 | live | — |
-| 20 | 2026-09-29 | [Monopoint Tension Theory](https://www.reddit.com/r/OntologyEngineering/comments/1wtitqc/monopoint_tension_theory/) | u/Brandon_B97 | Metacognition | text | 1 | 0 | spam-filtered | — |
-| 21 | 2026-09-29 | [Monopoint Tension Theory](https://www.reddit.com/r/OntologyEngineering/comments/1wtidd2/monopoint_tension_theory/) | u/Brandon_B97 | — | — | 1 | 0 | spam-filtered | — |
-| 22 | 2026-09-29 | [Seeking feedback: an “Ontology Harness” for ontology-based agent orchestration](https://www.reddit.com/r/OntologyEngineering/comments/1wtb724/seeking_feedback_an_ontology_harness_for/) | u/iotaknowbetter | — | text | 21 | 8 | live | — |
-| 23 | 2026-09-28 | [Wittgenstein Apartment — a system for representing what a character can actually do](https://www.reddit.com/r/OntologyEngineering/comments/1wsim7d/wittgenstein_apartment_a_system_for_representing/) | u/Kon-tiki-ship | — | text | 1 | 0 | spam-filtered | — |
-| 24 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](https://www.reddit.com/r/OntologyEngineering/comments/1wqr8qc/ontologyfirst_is_necessary_but_what_should_come/) | u/Kusamakura0467 | Epistemology | text | 24 | 25 | approved | — |
-| 25 | 2026-09-22 | [Released an RDF Visualizer - Looking For Feedback](https://www.reddit.com/r/OntologyEngineering/comments/1wnnr23/released_an_rdf_visualizer_looking_for_feedback/) | u/ring2ding | — | — | 2 | 1 | live | — |
-| 26 | 2026-09-21 | [Bi-Weekly Questions Thread - September 21, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1wm9np3/biweekly_questions_thread_september_21_2026/) | u/AutoModerator | — | text | 3 | 1 | live | — |
-| 27 | 2026-09-21 | [Je travaille sur Aletheia, un cadre expérimental pour le raisonnement scientifique.](https://www.reddit.com/r/OntologyEngineering/comments/1wlz0wa/je_travaille_sur_aletheia_un_cadre_expérimental/) | u/UziLaMancha | — | text | 1 | 0 | spam-filtered | — |
-| 28 | 2026-09-18 | [How to step into Ontology Eng as a Graph Developer](https://www.reddit.com/r/OntologyEngineering/comments/1wjuvf3/how_to_step_into_ontology_eng_as_a_graph_developer/) | u/Large-Tumbleweed-777 | — | text | 18 | 8 | live | — |
-| 29 | 2026-09-18 | [Material on ontology](https://www.reddit.com/r/OntologyEngineering/comments/1wjqzm0/material_on_ontology/) | u/WishLast6225 | — | text | 15 | 5 | live | — |
-| 30 | 2026-09-17 | [The Architectural Danger of Language Ontology: Stop using AI as an assistant — use it as an angle bracket. Th…](https://www.reddit.com/r/OntologyEngineering/comments/1wit2gx/the_architectural_danger_of_language_ontology/) | u/dremcgrey | Metacognition | text | 0 | 3 | live | — |
-| 31 | 2026-09-07 | [Bi-Weekly Questions Thread - September 07, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1w9p3hv/biweekly_questions_thread_september_07_2026/) | u/AutoModerator | — | text | 5 | 0 | live | — |
-| 32 | 2026-09-02 | [Transformation from OWL/SHACL to UML/OCL](https://www.reddit.com/r/OntologyEngineering/comments/1w5a532/transformation_from_owlshacl_to_umlocl/) | u/No_Bottle4038 | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-09-01 | [Claude - Improve citations, compress memory, resist sycophancy. What is MEM-ABBREV?](https://www.reddit.com/r/OntologyEngineering/comments/1w3xekz/claude_improve_citations_compress_memory_resist/) | u/Anthropo-morphic | Metacognition | — | 1 | 0 | live | — |
-| 34 | 2026-08-29 | [A Minimal Definition of Alignment](https://www.reddit.com/r/OntologyEngineering/comments/1w1gc9g/a_minimal_definition_of_alignment/) | u/Left-Character4280 | — | text | 3 | 3 | live | — |
-| 35 | 2026-08-28 | [Reasons](https://www.reddit.com/r/OntologyEngineering/comments/1w10mot/reasons/) | u/Keji_quotes | — | v.redd.it | 1 | 1 | removed by mod | Your post has been automatically removed because it does not include text in the body. To maintain… |
-| 36 | 2026-08-28 | [How do you go from learnable ontologies to world models?](https://www.reddit.com/r/OntologyEngineering/comments/1w0hepe/how_do_you_go_from_learnable_ontologies_to_world/) | u/Short-Honeydew-7000 | — | text | 9 | 0 | live | — |
-| 37 | 2026-08-27 | [A Cross-disciplinary Definition: Travis T. James](https://www.reddit.com/r/OntologyEngineering/comments/1vzvs3f/a_crossdisciplinary_definition_travis_t_james/) | u/Stunning-Data-5701 | — | — | 1 | 0 | live | — |
-| 38 | 2026-08-27 | [Is "ontology" becoming a real career lane in AI or is it just hype right now?](https://www.reddit.com/r/OntologyEngineering/comments/1vzuku8/is_ontology_becoming_a_real_career_lane_in_ai_or/) | u/Appropriate_Lie_6147 | Human as a Semantic Layer | text | 41 | 14 | live | — |
-| 39 | 2026-08-26 | [Do we have any open source knowledge graph building git hub project or any solution we can refer?](https://www.reddit.com/r/OntologyEngineering/comments/1vyl33o/do_we_have_any_open_source_knowledge_graph/) | u/venkat_206 | — | — | 5 | 3 | live | — |
-| 40 | 2026-08-25 | [I spent 2 years building an AI coach, looking for 5 people to try it and tell me what they think](https://www.reddit.com/r/OntologyEngineering/comments/1vyelsi/i_spent_2_years_building_an_ai_coach_looking_for/) | u/syedzainullahqazi | — | — | 1 | 0 | spam-filtered | — |
-| 41 | 2026-08-24 | [The most complete (and free) ontology course you can find on the web](https://www.reddit.com/r/OntologyEngineering/comments/1vxfcli/the_most_complete_and_free_ontology_course_you/) | u/Successful-Farm5339 | — | text | 17 | 1 | live | — |
-| 42 | 2026-08-24 | [Bi-Weekly Questions Thread - August 24, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1vwzmp6/biweekly_questions_thread_august_24_2026/) | u/AutoModerator | — | text | 3 | 1 | live | — |
-| 43 | 2026-08-21 | [A Cross-Disciplinary Definition of Coherence:](https://www.reddit.com/r/OntologyEngineering/comments/1vuikhm/a_crossdisciplinary_definition_of_coherence/) | u/Stunning-Data-5701 | — | text | 2 | 2 | live | — |
-| 44 | 2026-08-20 | [ontology representation](https://www.reddit.com/r/OntologyEngineering/comments/1vt6bvs/ontology_representation/) | u/durlabha | Agentic Enablement | text | 7 | 13 | live | — |
-| 45 | 2026-08-18 | [From the Internet of Things to Cognitive Interoperability](https://www.reddit.com/r/OntologyEngineering/comments/1vrownb/from_the_internet_of_things_to_cognitive/) | u/Future_Issue_6150 | — | jacekhoffman.substack.com | 3 | 0 | live | — |
-| 46 | 2026-08-18 | [I put together a beginner's guide on Ontologies and Turtle syntax for knowledge modeling.](https://www.reddit.com/r/OntologyEngineering/comments/1vriqxv/i_put_together_a_beginners_guide_on_ontologies/) | u/Silent-Librarian12 | — | — | 6 | 0 | live | — |
-| 47 | 2026-08-17 | [A great introduction to the concept of ontology, and why it's important](https://www.reddit.com/r/OntologyEngineering/comments/1vqwikj/a_great_introduction_to_the_concept_of_ontology/) | u/fathert0rque | — | theguardian.com | 14 | 0 | live | — |
-| 48 | 2026-08-17 | [which ontology would you trust for your agents eventually ?](https://www.reddit.com/r/OntologyEngineering/comments/1vqlxih/which_ontology_would_you_trust_for_your_agents/) | u/durlabha | — | text | 7 | 8 | live | — |
-| 49 | 2026-08-10 | [Bi-Weekly Questions Thread - August 10, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1vkhpcy/biweekly_questions_thread_august_10_2026/) | u/AutoModerator | — | text | 1 | 0 | live | — |
-| 50 | 2026-08-10 | [So... What Is an Ontology, and Why Do I Need One?](https://www.reddit.com/r/OntologyEngineering/comments/1vk9pjb/so_what_is_an_ontology_and_why_do_i_need_one/) | u/Talos_Consulting | Agentic Enablement | text | 1 | 0 | spam-filtered | — |
+| 1 | 2026-11-06 | [I built Hygieia](#post-1) | u/n0hatr3d0nlyhe4rt | — | text | 4 | 2 | live | — |
+| 2 | 2026-11-02 | [Bi-Weekly Questions Thread - November 02, 2026](#post-2) | u/AutoModerator | — | text | 2 | 2 | live | — |
+| 3 | 2026-10-30 | [Do you guys build data-based agents? how? if no, would you?](#post-3) | u/Thinker_Assignment | — | text | 7 | 10 | live | — |
+| 4 | 2026-10-29 | [What if ontologies couldn't be silently overwritten? Designing an adjudication layer for agent memory — looki…](#post-4) | u/Lateraluciernaga | Agentic Enablement | v.redd.it | 11 | 7 | live | — |
+| 5 | 2026-10-28 | [本体里最被低估的想法：行动是唯一的写入通道](#post-5) | u/Far-Purpose1721 | — | text | 18 | 8 | live | — |
+| 6 | 2026-10-25 | [Open Atlas Studio: a semantic data layer for your agents](#post-6) | u/Sorry_Performance577 | — | text | 8 | 1 | live | — |
+| 7 | 2026-10-22 | [Most agentic systems obsess over memory drift. Almost nobody is talking about ontological drift.](#post-7) | u/Lateraluciernaga | Human as a Semantic Layer | v.redd.it | 93 | 7 | live | — |
+| 8 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](#post-8) | u/ascendToSurvive | Code Precision vs High Semant… | v.redd.it | 26 | 2 | live | — |
+| 9 | 2026-10-19 | [Bi-Weekly Questions Thread - October 19, 2026](#post-9) | u/AutoModerator | — | text | 1 | 3 | live | — |
+| 10 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](#post-10) | u/Thinker_Assignment | — | i.redd.it | 9 | 0 | live | — |
+| 11 | 2026-10-09 | [Your Ontology Records Permission. It Does Not Resolve Authority.](#post-11) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 12 | 2026-10-09 | [Ontology-First: Why Agents Need Knowledge Networks Built in Reverse](#post-12) | u/Boring-Protection141 | — | text | 0 | 0 | spam-filtered | — |
+| 13 | 2026-10-07 | [Other AI-pilled data engineers](#post-13) | u/Thinker_Assignment | Agentic Enablement | text | 11 | 0 | live | — |
+| 14 | 2026-10-05 | [Bi-Weekly Questions Thread - October 05, 2026](#post-14) | u/AutoModerator | — | text | 3 | 2 | live | — |
+| 15 | 2026-10-03 | [Make Ontology Great Again!](#post-15) | u/RazzmatazzAccurate82 | — | text | 11 | 2 | live | — |
+| 16 | 2026-10-03 | [Code already has an ontology, we just make agents rebuild it from text every time](#post-16) | u/Wise_Reflection_8340 | Code Precision vs High Semant… | text | 24 | 1 | live | — |
+| 17 | 2026-10-01 | [Wittgenstein Apartment: A behavioral predicates ontology with a separate character-access layer](#post-17) | u/Kon-tiki-ship | Human as a Semantic Layer | text | 1 | 0 | spam-filtered | — |
+| 18 | 2026-09-30 | [Does a behavioral predicate ontology need a separate character-access layer?](#post-18) | u/Kon-tiki-ship | Human as a Semantic Layer | text | 5 | 2 | approved | — |
+| 19 | 2026-09-30 | [Which parts of ontology engineering cannot realistically be automated?](#post-19) | u/himanshu_urck | — | text | 15 | 3 | live | — |
+| 20 | 2026-09-29 | [Monopoint Tension Theory](#post-20) | u/Brandon_B97 | Metacognition | text | 1 | 0 | spam-filtered | — |
+| 21 | 2026-09-29 | [Monopoint Tension Theory](#post-21) | u/Brandon_B97 | — | — | 1 | 0 | spam-filtered | — |
+| 22 | 2026-09-29 | [Seeking feedback: an “Ontology Harness” for ontology-based agent orchestration](#post-22) | u/iotaknowbetter | — | text | 21 | 8 | live | — |
+| 23 | 2026-09-28 | [Wittgenstein Apartment — a system for representing what a character can actually do](#post-23) | u/Kon-tiki-ship | — | text | 1 | 0 | spam-filtered | — |
+| 24 | 2026-09-26 | [Ontology-first is necessary — but what should come after the ontology?](#post-24) | u/Kusamakura0467 | Epistemology | text | 24 | 25 | approved | — |
+| 25 | 2026-09-22 | [Released an RDF Visualizer - Looking For Feedback](#post-25) | u/ring2ding | — | — | 2 | 1 | live | — |
+| 26 | 2026-09-21 | [Bi-Weekly Questions Thread - September 21, 2026](#post-26) | u/AutoModerator | — | text | 3 | 1 | live | — |
+| 27 | 2026-09-21 | [Je travaille sur Aletheia, un cadre expérimental pour le raisonnement scientifique.](#post-27) | u/UziLaMancha | — | text | 1 | 0 | spam-filtered | — |
+| 28 | 2026-09-18 | [How to step into Ontology Eng as a Graph Developer](#post-28) | u/Large-Tumbleweed-777 | — | text | 18 | 8 | live | — |
+| 29 | 2026-09-18 | [Material on ontology](#post-29) | u/WishLast6225 | — | text | 15 | 5 | live | — |
+| 30 | 2026-09-17 | [The Architectural Danger of Language Ontology: Stop using AI as an assistant — use it as an angle bracket. Th…](#post-30) | u/dremcgrey | Metacognition | text | 0 | 3 | live | — |
+| 31 | 2026-09-07 | [Bi-Weekly Questions Thread - September 07, 2026](#post-31) | u/AutoModerator | — | text | 5 | 0 | live | — |
+| 32 | 2026-09-02 | [Transformation from OWL/SHACL to UML/OCL](#post-32) | u/No_Bottle4038 | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-09-01 | [Claude - Improve citations, compress memory, resist sycophancy. What is MEM-ABBREV?](#post-33) | u/Anthropo-morphic | Metacognition | — | 1 | 0 | live | — |
+| 34 | 2026-08-29 | [A Minimal Definition of Alignment](#post-34) | u/Left-Character4280 | — | text | 3 | 3 | live | — |
+| 35 | 2026-08-28 | [Reasons](#post-35) | u/Keji_quotes | — | v.redd.it | 1 | 1 | removed by mod | Your post has been automatically removed because it does not include text in the body. To maintain… |
+| 36 | 2026-08-28 | [How do you go from learnable ontologies to world models?](#post-36) | u/Short-Honeydew-7000 | — | text | 9 | 0 | live | — |
+| 37 | 2026-08-27 | [A Cross-disciplinary Definition: Travis T. James](#post-37) | u/Stunning-Data-5701 | — | — | 1 | 0 | live | — |
+| 38 | 2026-08-27 | [Is "ontology" becoming a real career lane in AI or is it just hype right now?](#post-38) | u/Appropriate_Lie_6147 | Human as a Semantic Layer | text | 41 | 14 | live | — |
+| 39 | 2026-08-26 | [Do we have any open source knowledge graph building git hub project or any solution we can refer?](#post-39) | u/venkat_206 | — | — | 5 | 3 | live | — |
+| 40 | 2026-08-25 | [I spent 2 years building an AI coach, looking for 5 people to try it and tell me what they think](#post-40) | u/syedzainullahqazi | — | — | 1 | 0 | spam-filtered | — |
+| 41 | 2026-08-24 | [The most complete (and free) ontology course you can find on the web](#post-41) | u/Successful-Farm5339 | — | text | 17 | 1 | live | — |
+| 42 | 2026-08-24 | [Bi-Weekly Questions Thread - August 24, 2026](#post-42) | u/AutoModerator | — | text | 3 | 1 | live | — |
+| 43 | 2026-08-21 | [A Cross-Disciplinary Definition of Coherence:](#post-43) | u/Stunning-Data-5701 | — | text | 2 | 2 | live | — |
+| 44 | 2026-08-20 | [ontology representation](#post-44) | u/durlabha | Agentic Enablement | text | 7 | 13 | live | — |
+| 45 | 2026-08-18 | [From the Internet of Things to Cognitive Interoperability](#post-45) | u/Future_Issue_6150 | — | jacekhoffman.substack.com | 3 | 0 | live | — |
+| 46 | 2026-08-18 | [I put together a beginner's guide on Ontologies and Turtle syntax for knowledge modeling.](#post-46) | u/Silent-Librarian12 | — | — | 6 | 0 | live | — |
+| 47 | 2026-08-17 | [A great introduction to the concept of ontology, and why it's important](#post-47) | u/fathert0rque | — | theguardian.com | 14 | 0 | live | — |
+| 48 | 2026-08-17 | [which ontology would you trust for your agents eventually ?](#post-48) | u/durlabha | — | text | 7 | 8 | live | — |
+| 49 | 2026-08-10 | [Bi-Weekly Questions Thread - August 10, 2026](#post-49) | u/AutoModerator | — | text | 1 | 0 | live | — |
+| 50 | 2026-08-10 | [So... What Is an Ontology, and Why Do I Need One?](#post-50) | u/Talos_Consulting | Agentic Enablement | text | 1 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -159,24 +159,26 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-10-22 | [Most agentic systems obsess over memory drift. Almost nobody is talking about ontological drift.](https://www.reddit.com/r/OntologyEngineering/comments/1xcrl0o/most_agentic_systems_obsess_over_memory_drift/) | u/Lateraluciernaga | Human as a Semantic Layer | v.redd.it | 93 | 7 | live |
-| 8 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](https://www.reddit.com/r/OntologyEngineering/comments/1xactde/i_wanted_the_editor_experience_every_programming/) | u/ascendToSurvive | Code Precision vs High Semant… | v.redd.it | 26 | 2 | live |
-| 5 | 2026-10-28 | [本体里最被低估的想法：行动是唯一的写入通道](https://www.reddit.com/r/OntologyEngineering/comments/1xhc4qd/本体里最被低估的想法行动是唯一的写入通道/) | u/Far-Purpose1721 | — | text | 18 | 8 | live |
-| 4 | 2026-10-29 | [What if ontologies couldn't be silently overwritten? Designing an adjudication layer for agent memory — looki…](https://www.reddit.com/r/OntologyEngineering/comments/1xi521v/what_if_ontologies_couldnt_be_silently/) | u/Lateraluciernaga | Agentic Enablement | v.redd.it | 11 | 7 | live |
-| 10 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](https://www.reddit.com/r/OntologyEngineering/comments/1x50jtq/we_tried_bigquerys_new_property_graph/) | u/Thinker_Assignment | — | i.redd.it | 9 | 0 | live |
-| 6 | 2026-10-25 | [Open Atlas Studio: a semantic data layer for your agents](https://www.reddit.com/r/OntologyEngineering/comments/1xf17hx/open_atlas_studio_a_semantic_data_layer_for_your/) | u/Sorry_Performance577 | — | text | 8 | 1 | live |
-| 3 | 2026-10-30 | [Do you guys build data-based agents? how? if no, would you?](https://www.reddit.com/r/OntologyEngineering/comments/1xjn1n1/do_you_guys_build_databased_agents_how_if_no/) | u/Thinker_Assignment | — | text | 7 | 10 | live |
-| 1 | 2026-11-06 | [I built Hygieia](https://www.reddit.com/r/OntologyEngineering/comments/1xpbh5a/i_built_hygieia/) | u/n0hatr3d0nlyhe4rt | — | text | 4 | 2 | live |
-| 2 | 2026-11-02 | [Bi-Weekly Questions Thread - November 02, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1xlvdge/biweekly_questions_thread_november_02_2026/) | u/AutoModerator | — | text | 2 | 2 | live |
-| 9 | 2026-10-19 | [Bi-Weekly Questions Thread - October 19, 2026](https://www.reddit.com/r/OntologyEngineering/comments/1x9tv8o/biweekly_questions_thread_october_19_2026/) | u/AutoModerator | — | text | 1 | 3 | live |
+| 7 | 2026-10-22 | [Most agentic systems obsess over memory drift. Almost nobody is talking about ontological drift.](#post-7) | u/Lateraluciernaga | Human as a Semantic Layer | v.redd.it | 93 | 7 | live |
+| 8 | 2026-10-19 | [I wanted the editor experience every programming language gets, for RDF. So I built a language server for Tur…](#post-8) | u/ascendToSurvive | Code Precision vs High Semant… | v.redd.it | 26 | 2 | live |
+| 5 | 2026-10-28 | [本体里最被低估的想法：行动是唯一的写入通道](#post-5) | u/Far-Purpose1721 | — | text | 18 | 8 | live |
+| 4 | 2026-10-29 | [What if ontologies couldn't be silently overwritten? Designing an adjudication layer for agent memory — looki…](#post-4) | u/Lateraluciernaga | Agentic Enablement | v.redd.it | 11 | 7 | live |
+| 10 | 2026-10-13 | [We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model](#post-10) | u/Thinker_Assignment | — | i.redd.it | 9 | 0 | live |
+| 6 | 2026-10-25 | [Open Atlas Studio: a semantic data layer for your agents](#post-6) | u/Sorry_Performance577 | — | text | 8 | 1 | live |
+| 3 | 2026-10-30 | [Do you guys build data-based agents? how? if no, would you?](#post-3) | u/Thinker_Assignment | — | text | 7 | 10 | live |
+| 1 | 2026-11-06 | [I built Hygieia](#post-1) | u/n0hatr3d0nlyhe4rt | — | text | 4 | 2 | live |
+| 2 | 2026-11-02 | [Bi-Weekly Questions Thread - November 02, 2026](#post-2) | u/AutoModerator | — | text | 2 | 2 | live |
+| 9 | 2026-10-19 | [Bi-Weekly Questions Thread - October 19, 2026](#post-9) | u/AutoModerator | — | text | 1 | 3 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. I built Hygieia
 
-2026-11-06 · u/n0hatr3d0nlyhe4rt · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xpbh5a/i_built_hygieia/)
+2026-11-06 · u/n0hatr3d0nlyhe4rt · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xpbh5a/i_built_hygieia/) · [↑ back to the list](#last-50-posts)
 
 > Data silos. Fuzzy concepts. Agents talking past each other.  
 >
@@ -188,9 +190,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > In Greek myth, Hygieia’s philosophy isn’t medicine after disease breaks out, but prevention: “treating the not-yet-ill.” Through daily cleanliness and order, she builds the inner laws that keep a system from collapsing.
 
+<a id="post-2"></a>
+
 ### 2. Bi-Weekly Questions Thread - November 02, 2026
 
-2026-11-02 · u/AutoModerator · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xlvdge/biweekly_questions_thread_november_02_2026/)
+2026-11-02 · u/AutoModerator · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xlvdge/biweekly_questions_thread_november_02_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -198,9 +202,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > #
 
+<a id="post-3"></a>
+
 ### 3. Do you guys build data-based agents? how? if no, would you?
 
-2026-10-30 · u/Thinker_Assignment · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xjn1n1/do_you_guys_build_databased_agents_how_if_no/)
+2026-10-30 · u/Thinker_Assignment · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xjn1n1/do_you_guys_build_databased_agents_how_if_no/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, 
 >
@@ -217,9 +223,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > thanks a lot in advance for the discussion!
 
+<a id="post-4"></a>
+
 ### 4. What if ontologies couldn't be silently overwritten? Designing an adjudication layer for agent memory — looking for feedback before I open the repo
 
-2026-10-29 · u/Lateraluciernaga · Agentic Enablement · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xi521v/what_if_ontologies_couldnt_be_silently/)
+2026-10-29 · u/Lateraluciernaga · Agentic Enablement · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xi521v/what_if_ontologies_couldnt_be_silently/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ufqe6ewwsayh1>
 
@@ -235,9 +243,11 @@ Link: <https://v.redd.it/ufqe6ewwsayh1>
 >
 > Repo coming in a few weeks. Happy to discuss framing and principles, not implementation details yet. 🐆
 
+<a id="post-5"></a>
+
 ### 5. 本体里最被低估的想法：行动是唯一的写入通道
 
-2026-10-28 · u/Far-Purpose1721 · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xhc4qd/本体里最被低估的想法行动是唯一的写入通道/)
+2026-10-28 · u/Far-Purpose1721 · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xhc4qd/本体里最被低估的想法行动是唯一的写入通道/) · [↑ back to the list](#last-50-posts)
 
 > 聊本体（Ontology）的人，大多停在对象和链接上，也就是语义那一半。我自己动手做了一个小的本体平台（场景选的供应链库存调配），做完之后改变我想法的是另一半，动态的那一半：所有变更都必须走一个定义好的行动（Action），带提交条件、权限和审计记录。不存在直接写数据这回事，界面不行，接口不行，AI 智能体也不行。
 >
@@ -247,9 +257,11 @@ Link: <https://v.redd.it/ufqe6ewwsayh1>
 >
 > 第二，决策血缘是免费得来的。每一次状态变化，都天然知道是哪个行动、谁执行的、参数是什么。
 
+<a id="post-6"></a>
+
 ### 6. Open Atlas Studio: a semantic data layer for your agents
 
-2026-10-25 · u/Sorry_Performance577 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xf17hx/open_atlas_studio_a_semantic_data_layer_for_your/)
+2026-10-25 · u/Sorry_Performance577 · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xf17hx/open_atlas_studio_a_semantic_data_layer_for_your/) · [↑ back to the list](#last-50-posts)
 
 > LLMs are smart, and building an AI agent is not so difficult today. Your AI can help you to define good instructions and rich skills. It's easy to your agent to work with an MCP tool that has a couple of business APIs. But when you have to connect to your ERP system which has hundreds of entities and thousands of attributes, it's going to be a big challenge, hundreds of APIs will not work now. That why I built a graph with the famous "Pathom" tool.
 >
@@ -305,9 +317,11 @@ Link: <https://v.redd.it/ufqe6ewwsayh1>
 >
 > *The agent proposes work orders; a person checks them, then clicks Apply*
 
+<a id="post-7"></a>
+
 ### 7. Most agentic systems obsess over memory drift. Almost nobody is talking about ontological drift.
 
-2026-10-22 · u/Lateraluciernaga · Human as a Semantic Layer · score 93 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xcrl0o/most_agentic_systems_obsess_over_memory_drift/)
+2026-10-22 · u/Lateraluciernaga · Human as a Semantic Layer · score 93 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xcrl0o/most_agentic_systems_obsess_over_memory_drift/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ow7jead4h2xh1>
 
@@ -341,9 +355,11 @@ Link: <https://v.redd.it/ow7jead4h2xh1>
 >
 > Alef Nos ⸙
 
+<a id="post-8"></a>
+
 ### 8. I wanted the editor experience every programming language gets, for RDF. So I built a language server for Turtle and SPARQL (try it in your browser)
 
-2026-10-19 · u/ascendToSurvive · Code Precision vs High Semantics · score 26 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xactde/i_wanted_the_editor_experience_every_programming/)
+2026-10-19 · u/ascendToSurvive · Code Precision vs High Semantics · score 26 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1xactde/i_wanted_the_editor_experience_every_programming/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/uhh872ezfiwh1>
 
@@ -401,9 +417,11 @@ Link: <https://v.redd.it/uhh872ezfiwh1>
 >
 > What would it need before you'd use it every day?
 
+<a id="post-9"></a>
+
 ### 9. Bi-Weekly Questions Thread - October 19, 2026
 
-2026-10-19 · u/AutoModerator · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x9tv8o/biweekly_questions_thread_october_19_2026/)
+2026-10-19 · u/AutoModerator · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x9tv8o/biweekly_questions_thread_october_19_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -411,28 +429,36 @@ Link: <https://v.redd.it/uhh872ezfiwh1>
 >
 > #
 
+<a id="post-10"></a>
+
 ### 10. We tried BigQuery’s new property graph + Conversational Analytics on top of a canonical model
 
-2026-10-13 · u/Thinker_Assignment · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x50jtq/we_tried_bigquerys_new_property_graph/)
+2026-10-13 · u/Thinker_Assignment · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x50jtq/we_tried_bigquerys_new_property_graph/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 
 
+<a id="post-11"></a>
+
 ### 11. Your Ontology Records Permission. It Does Not Resolve Authority.
 
-2026-10-09 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x1iiwu/your_ontology_records_permission_it_does_not/)
+2026-10-09 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x1iiwu/your_ontology_records_permission_it_does_not/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-12"></a>
 
 ### 12. Ontology-First: Why Agents Need Knowledge Networks Built in Reverse
 
-2026-10-09 · u/Boring-Protection141 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x1ginx/ontologyfirst_why_agents_need_knowledge_networks/)
+2026-10-09 · u/Boring-Protection141 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1x1ginx/ontologyfirst_why_agents_need_knowledge_networks/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Other AI-pilled data engineers
 
-2026-10-07 · u/Thinker_Assignment · Agentic Enablement · score 11 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wzxmtf/other_aipilled_data_engineers/)
+2026-10-07 · u/Thinker_Assignment · Agentic Enablement · score 11 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wzxmtf/other_aipilled_data_engineers/) · [↑ back to the list](#last-50-posts)
 
 > I stumbled on this recent top post from r/dataengineering where mutiple community members share how they also ended up at ontology.   
 >
@@ -460,9 +486,11 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 > * **Token Pricing Reality Check:** A lively debate formed around AI economics. Several engineers noted that enterprise token usage ($1k–$5k/month per dev) is heavily subsidized or unsustainable for smaller orgs, which may limit full-scale developer displacement once pricing normalizes.
 > * **The "Jevons Paradox":** Several users noted that while AI reduces the time needed per pipeline, demand for DE work has actually reached an all-time high as companies try to rush out every backlogged idea simultaneously.
 
+<a id="post-14"></a>
+
 ### 14. Bi-Weekly Questions Thread - October 05, 2026
 
-2026-10-05 · u/AutoModerator · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wy5ny8/biweekly_questions_thread_october_05_2026/)
+2026-10-05 · u/AutoModerator · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wy5ny8/biweekly_questions_thread_october_05_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -470,17 +498,21 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 >
 > #
 
+<a id="post-15"></a>
+
 ### 15. Make Ontology Great Again!
 
-2026-10-03 · u/RazzmatazzAccurate82 · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wwv9fe/make_ontology_great_again/)
+2026-10-03 · u/RazzmatazzAccurate82 · score 11 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wwv9fe/make_ontology_great_again/) · [↑ back to the list](#last-50-posts)
 
 > Y'all don't have enough of a sense of humor here!
 >
 > https://preview.redd.it/h4kcmxwmwath1.png?width=447&format=png&auto=webp&s=447f810e50157d230b331860c9b6bdddf0898ffc
 
+<a id="post-16"></a>
+
 ### 16. Code already has an ontology, we just make agents rebuild it from text every time
 
-2026-10-03 · u/Wise_Reflection_8340 · Code Precision vs High Semantics · score 24 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wwsfjd/code_already_has_an_ontology_we_just_make_agents/)
+2026-10-03 · u/Wise_Reflection_8340 · Code Precision vs High Semantics · score 24 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wwsfjd/code_already_has_an_ontology_we_just_make_agents/) · [↑ back to the list](#last-50-posts)
 
 > I've been thinking about this sub's idea of building the ontology first, and it maps surprisingly well onto how coding agents work today. Every codebase has a clear structure of functions, classes and modules, with relations like calls, imports and which tests cover what, but we store all of it as text files and leave the agent to reconstruct that structure by grepping and reading every single session, which is where most of its time goes.
 >
@@ -490,15 +522,19 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 >
 > [https://github.com/Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
 
+<a id="post-17"></a>
+
 ### 17. Wittgenstein Apartment: A behavioral predicates ontology with a separate character-access layer
 
-2026-10-01 · u/Kon-tiki-ship · Human as a Semantic Layer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wuzgbr/wittgenstein_apartment_a_behavioral_predicates/)
+2026-10-01 · u/Kon-tiki-ship · Human as a Semantic Layer · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wuzgbr/wittgenstein_apartment_a_behavioral_predicates/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. Does a behavioral predicate ontology need a separate character-access layer?
 
-2026-09-30 · u/Kon-tiki-ship · Human as a Semantic Layer · score 5 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wu5hca/does_a_behavioral_predicate_ontology_need_a/)
+2026-09-30 · u/Kon-tiki-ship · Human as a Semantic Layer · score 5 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wu5hca/does_a_behavioral_predicate_ontology_need_a/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been thinking about a model where human actions are represented as sense-level behavioral predicates and grouped into broader behavioral families.
 >
@@ -544,9 +580,11 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 >
 > **model of character capability**
 
+<a id="post-19"></a>
+
 ### 19. Which parts of ontology engineering cannot realistically be automated?
 
-2026-09-30 · u/himanshu_urck · score 15 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtvxbr/which_parts_of_ontology_engineering_cannot/)
+2026-09-30 · u/himanshu_urck · score 15 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtvxbr/which_parts_of_ontology_engineering_cannot/) · [↑ back to the list](#last-50-posts)
 
 > Beginner question from someone currently learning ontology engineering.
 >
@@ -574,22 +612,28 @@ Link: <https://i.redd.it/ye1mcajpb9vh1.png>
 >
 > I’m mainly trying to understand where the real intellectual work in ontology engineering lies.
 
+<a id="post-20"></a>
+
 ### 20. Monopoint Tension Theory
 
-2026-09-29 · u/Brandon_B97 · Metacognition · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtitqc/monopoint_tension_theory/)
+2026-09-29 · u/Brandon_B97 · Metacognition · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtitqc/monopoint_tension_theory/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-21"></a>
+
 ### 21. Monopoint Tension Theory
 
-2026-09-29 · u/Brandon_B97 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtidd2/monopoint_tension_theory/)
+2026-09-29 · u/Brandon_B97 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtidd2/monopoint_tension_theory/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/LLMPhysics/comments/1wt1xd4/monopoint_tension_theory/>
 
 
+<a id="post-22"></a>
+
 ### 22. Seeking feedback: an “Ontology Harness” for ontology-based agent orchestration
 
-2026-09-29 · u/iotaknowbetter · score 21 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtb724/seeking_feedback_an_ontology_harness_for/)
+2026-09-29 · u/iotaknowbetter · score 21 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wtb724/seeking_feedback_an_ontology_harness_for/) · [↑ back to the list](#last-50-posts)
 
 > https://preview.redd.it/ducg0dhjtgsh1.png?width=3248&format=png&auto=webp&s=f86d96a02c7a446aad198ee78f5cdf3a2d8e2124
 >
@@ -605,15 +649,19 @@ Link: </r/LLMPhysics/comments/1wt1xd4/monopoint_tension_theory/>
 >
 > The broader goal is for agents to use that shared semantic model when interpreting requests, finding relevant data, and carrying out workflows. That’s the direction I’m building toward; the screenshot is an early piece of it.
 
+<a id="post-23"></a>
+
 ### 23. Wittgenstein Apartment — a system for representing what a character can actually do
 
-2026-09-28 · u/Kon-tiki-ship · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wsim7d/wittgenstein_apartment_a_system_for_representing/)
+2026-09-28 · u/Kon-tiki-ship · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wsim7d/wittgenstein_apartment_a_system_for_representing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. Ontology-first is necessary — but what should come after the ontology?
 
-2026-09-26 · u/Kusamakura0467 · Epistemology · score 24 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wqr8qc/ontologyfirst_is_necessary_but_what_should_come/)
+2026-09-26 · u/Kusamakura0467 · Epistemology · score 24 · 25 comments · approved · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wqr8qc/ontologyfirst_is_necessary_but_what_should_come/) · [↑ back to the list](#last-50-posts)
 
 > I strongly agree with the ontology-first direction.  
 > In my own open-source work, I’ve reached a similar conclusion: implementation should be projected from explicit semantic structure rather than treated as the source of meaning.  
@@ -627,16 +675,20 @@ Link: </r/LLMPhysics/comments/1wt1xd4/monopoint_tension_theory/>
 > **Where do you draw the boundary between ontology and the runtime structures that make ontology operational over time?**  
 > For example, do you model provenance, temporal position, agent roles, observations, and execution history as ontology itself, or as adjacent semantic structures?
 
+<a id="post-25"></a>
+
 ### 25. Released an RDF Visualizer - Looking For Feedback
 
-2026-09-22 · u/ring2ding · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wnnr23/released_an_rdf_visualizer_looking_for_feedback/)
+2026-09-22 · u/ring2ding · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wnnr23/released_an_rdf_visualizer_looking_for_feedback/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/semanticweb/comments/1wnnhci/released_an_rdf_visualizer_looking_for_feedback/>
 
 
+<a id="post-26"></a>
+
 ### 26. Bi-Weekly Questions Thread - September 21, 2026
 
-2026-09-21 · u/AutoModerator · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wm9np3/biweekly_questions_thread_september_21_2026/)
+2026-09-21 · u/AutoModerator · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wm9np3/biweekly_questions_thread_september_21_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -644,29 +696,37 @@ Link: </r/semanticweb/comments/1wnnhci/released_an_rdf_visualizer_looking_for_fe
 >
 > #
 
+<a id="post-27"></a>
+
 ### 27. Je travaille sur Aletheia, un cadre expérimental pour le raisonnement scientifique.
 
-2026-09-21 · u/UziLaMancha · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wlz0wa/je_travaille_sur_aletheia_un_cadre_expérimental/)
+2026-09-21 · u/UziLaMancha · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wlz0wa/je_travaille_sur_aletheia_un_cadre_expérimental/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. How to step into Ontology Eng as a Graph Developer
 
-2026-09-18 · u/Large-Tumbleweed-777 · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wjuvf3/how_to_step_into_ontology_eng_as_a_graph_developer/)
+2026-09-18 · u/Large-Tumbleweed-777 · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wjuvf3/how_to_step_into_ontology_eng_as_a_graph_developer/) · [↑ back to the list](#last-50-posts)
 
 > I have worked with graphs and GNNs and Knowledge graphs, but i dont get how much diff those concepts are with respect to ontology ? is it a fancier way to capture relationships and entities or there is so much more to it ?
 
+<a id="post-29"></a>
+
 ### 29. Material on ontology
 
-2026-09-18 · u/WishLast6225 · score 15 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wjqzm0/material_on_ontology/)
+2026-09-18 · u/WishLast6225 · score 15 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wjqzm0/material_on_ontology/) · [↑ back to the list](#last-50-posts)
 
 > Hi All,
 >
 > I have been hearing onotology being used by my managers like anything without any context. I want to read and learn what exactly it is how does one build it and any other information one can share. If you guys and gals could share some links or videos I can take a look at would be really really helpful
 
+<a id="post-30"></a>
+
 ### 30. The Architectural Danger of Language Ontology: Stop using AI as an assistant — use it as an angle bracket. The world depends on it.
 
-2026-09-17 · u/dremcgrey · Metacognition · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wit2gx/the_architectural_danger_of_language_ontology/)
+2026-09-17 · u/dremcgrey · Metacognition · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1wit2gx/the_architectural_danger_of_language_ontology/) · [↑ back to the list](#last-50-posts)
 
 > There is a possibility about artificial intelligence that I cannot stop thinking about.
 >
@@ -1384,9 +1444,11 @@ Link: </r/semanticweb/comments/1wnnhci/released_an_rdf_visualizer_looking_for_fe
 >
 > Continue @ \[morph.andrewmerriman.com\](http://morph.andrewmerriman.com)   (for length purposes)
 
+<a id="post-31"></a>
+
 ### 31. Bi-Weekly Questions Thread - September 07, 2026
 
-2026-09-07 · u/AutoModerator · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w9p3hv/biweekly_questions_thread_september_07_2026/)
+2026-09-07 · u/AutoModerator · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w9p3hv/biweekly_questions_thread_september_07_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -1394,22 +1456,28 @@ Link: </r/semanticweb/comments/1wnnhci/released_an_rdf_visualizer_looking_for_fe
 >
 > #
 
+<a id="post-32"></a>
+
 ### 32. Transformation from OWL/SHACL to UML/OCL
 
-2026-09-02 · u/No_Bottle4038 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w5a532/transformation_from_owlshacl_to_umlocl/)
+2026-09-02 · u/No_Bottle4038 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w5a532/transformation_from_owlshacl_to_umlocl/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. Claude - Improve citations, compress memory, resist sycophancy. What is MEM-ABBREV?
 
-2026-09-01 · u/Anthropo-morphic · Metacognition · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w3xekz/claude_improve_citations_compress_memory_resist/)
+2026-09-01 · u/Anthropo-morphic · Metacognition · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w3xekz/claude_improve_citations_compress_memory_resist/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ClaudeAI/comments/1w321fm/claude_improve_citations_compress_memory_resist/>
 
 
+<a id="post-34"></a>
+
 ### 34. A Minimal Definition of Alignment
 
-2026-08-29 · u/Left-Character4280 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w1gc9g/a_minimal_definition_of_alignment/)
+2026-08-29 · u/Left-Character4280 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w1gc9g/a_minimal_definition_of_alignment/) · [↑ back to the list](#last-50-posts)
 
 > # Why minimal ?
 >
@@ -1493,9 +1561,11 @@ Link: </r/ClaudeAI/comments/1w321fm/claude_improve_citations_compress_memory_res
 >
 > >maintaining an exact determination of what counts as conforming within a space of candidates that may remain open.
 
+<a id="post-35"></a>
+
 ### 35. Reasons
 
-2026-08-28 · u/Keji_quotes · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w10mot/reasons/)
+2026-08-28 · u/Keji_quotes · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w10mot/reasons/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/oxxqt8hl56mh1>
 
@@ -1503,9 +1573,11 @@ Link: <https://v.redd.it/oxxqt8hl56mh1>
 
 **Mod comment** (u/AutoModerator): Your post has been automatically removed because it does not include text in the body. To maintain high-quality discussions in r/OntologyEngineering, all posts must provide context, ask a specific question, or explain the relevance of the topic. Please resubmit your post and include descriptive body text to help community members engage with your content.
 
+<a id="post-36"></a>
+
 ### 36. How do you go from learnable ontologies to world models?
 
-2026-08-28 · u/Short-Honeydew-7000 · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w0hepe/how_do_you_go_from_learnable_ontologies_to_world/)
+2026-08-28 · u/Short-Honeydew-7000 · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1w0hepe/how_do_you_go_from_learnable_ontologies_to_world/) · [↑ back to the list](#last-50-posts)
 
 > >*If an agent can learn an ontology from its own memory, and that ontology then shapes what it learns next, where does memory end and a world model begin?*
 >
@@ -1553,42 +1625,54 @@ Link: <https://v.redd.it/oxxqt8hl56mh1>
 >
 > [Github](https://github.com/topoteretes/cognee)
 
+<a id="post-37"></a>
+
 ### 37. A Cross-disciplinary Definition: Travis T. James
 
-2026-08-27 · u/Stunning-Data-5701 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vzvs3f/a_crossdisciplinary_definition_travis_t_james/)
+2026-08-27 · u/Stunning-Data-5701 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vzvs3f/a_crossdisciplinary_definition_travis_t_james/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/CoherencePhysics/comments/1vy1h6o/a_crossdisciplinary_definition_travis_t_james/>
 
 
+<a id="post-38"></a>
+
 ### 38. Is "ontology" becoming a real career lane in AI or is it just hype right now?
 
-2026-08-27 · u/Appropriate_Lie_6147 · Human as a Semantic Layer · score 41 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vzuku8/is_ontology_becoming_a_real_career_lane_in_ai_or/)
+2026-08-27 · u/Appropriate_Lie_6147 · Human as a Semantic Layer · score 41 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vzuku8/is_ontology_becoming_a_real_career_lane_in_ai_or/) · [↑ back to the list](#last-50-posts)
 
 > I come from a philosophy background and now work in AI governance. Is applied ontology actually as hot as it looks, does a philosophy background give a real edge there or is it better to just go technical? Trying to figure out if this is worth specializing in. My coding experience is somewhat limited but I'm in a position where I can learn from a ton of data scientists in my company. My read on the AI landscape is that world models / contextual awareness are the next big bet in AI which seems to suggest ontology builders will only get more in demand.
 
+<a id="post-39"></a>
+
 ### 39. Do we have any open source knowledge graph building git hub project or any solution we can refer?
 
-2026-08-26 · u/venkat_206 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vyl33o/do_we_have_any_open_source_knowledge_graph/)
+2026-08-26 · u/venkat_206 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vyl33o/do_we_have_any_open_source_knowledge_graph/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/semanticweb/comments/1vyl1jd/do_we_have_any_open_source_knowledge_graph/>
 
 
+<a id="post-40"></a>
+
 ### 40. I spent 2 years building an AI coach, looking for 5 people to try it and tell me what they think
 
-2026-08-25 · u/syedzainullahqazi · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vyelsi/i_spent_2_years_building_an_ai_coach_looking_for/)
+2026-08-25 · u/syedzainullahqazi · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vyelsi/i_spent_2_years_building_an_ai_coach_looking_for/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/lifecoach/comments/1vyedqs/i_spent_2_years_building_an_ai_coach_looking_for/>
 
 
+<a id="post-41"></a>
+
 ### 41. The most complete (and free) ontology course you can find on the web
 
-2026-08-24 · u/Successful-Farm5339 · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vxfcli/the_most_complete_and_free_ontology_course_you/)
+2026-08-24 · u/Successful-Farm5339 · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vxfcli/the_most_complete_and_free_ontology_course_you/) · [↑ back to the list](#last-50-posts)
 
 > Completely free, you can skip registration if needed, for custom content feel free to request it and we will do our best. If you find a more complete course happy to take this post down! https://tesseract.academy/ontology-training/
 
+<a id="post-42"></a>
+
 ### 42. Bi-Weekly Questions Thread - August 24, 2026
 
-2026-08-24 · u/AutoModerator · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vwzmp6/biweekly_questions_thread_august_24_2026/)
+2026-08-24 · u/AutoModerator · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vwzmp6/biweekly_questions_thread_august_24_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -1596,9 +1680,11 @@ Link: </r/lifecoach/comments/1vyedqs/i_spent_2_years_building_an_ai_coach_lookin
 >
 > #
 
+<a id="post-43"></a>
+
 ### 43. A Cross-Disciplinary Definition of Coherence:
 
-2026-08-21 · u/Stunning-Data-5701 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vuikhm/a_crossdisciplinary_definition_of_coherence/)
+2026-08-21 · u/Stunning-Data-5701 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vuikhm/a_crossdisciplinary_definition_of_coherence/) · [↑ back to the list](#last-50-posts)
 
 > This paper proposes a cross disciplinary definition of coherence as the degree to which the relationships within a system remain mutually consistent and coordinated across space, time, and perturbation.
 >
@@ -1606,9 +1692,11 @@ Link: </r/lifecoach/comments/1vyedqs/i_spent_2_years_building_an_ai_coach_lookin
 >
 > The paper also distinguishes coherence, dissonance, and decoupling and establishes a conceptual foundation for quantitative work including Coherence Density.
 
+<a id="post-44"></a>
+
 ### 44. ontology representation
 
-2026-08-20 · u/durlabha · Agentic Enablement · score 7 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vt6bvs/ontology_representation/)
+2026-08-20 · u/durlabha · Agentic Enablement · score 7 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vt6bvs/ontology_representation/) · [↑ back to the list](#last-50-posts)
 
 > I know a bit—maybe even quite a bit—about ontologies. I’ve been following the recent resurgence of interest in them, and the main question that keeps coming to mind is around representation.
 >
@@ -1616,9 +1704,11 @@ Link: </r/lifecoach/comments/1vyedqs/i_spent_2_years_building_an_ai_coach_lookin
 >
 > Has anyone done any rigorous work or research to fully capture the downsides of representing an ontology in just a plain Markdown file?
 
+<a id="post-45"></a>
+
 ### 45. From the Internet of Things to Cognitive Interoperability
 
-2026-08-18 · u/Future_Issue_6150 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vrownb/from_the_internet_of_things_to_cognitive/)
+2026-08-18 · u/Future_Issue_6150 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vrownb/from_the_internet_of_things_to_cognitive/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://jacekhoffman.substack.com/p/from-the-internet-of-things-to-cognitive>
 
@@ -1636,24 +1726,30 @@ Link: <https://jacekhoffman.substack.com/p/from-the-internet-of-things-to-cognit
 >
 > The central thesis is simple: successful communication between different systems does not require their internal representations to be identical. It is enough that, after translation, the receiver possesses a structure that preserves the relations needed for correct inference and action. This viewpoint allows human-human, human-AI, and AI-AI communication to be treated as three realizations of the same more general problem.
 
+<a id="post-46"></a>
+
 ### 46. I put together a beginner's guide on Ontologies and Turtle syntax for knowledge modeling.
 
-2026-08-18 · u/Silent-Librarian12 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vriqxv/i_put_together_a_beginners_guide_on_ontologies/)
+2026-08-18 · u/Silent-Librarian12 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vriqxv/i_put_together_a_beginners_guide_on_ontologies/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/semanticweb/comments/1vriqfo/i_put_together_a_beginners_guide_on_ontologies/>
 
 
+<a id="post-47"></a>
+
 ### 47. A great introduction to the concept of ontology, and why it's important
 
-2026-08-17 · u/fathert0rque · score 14 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vqwikj/a_great_introduction_to_the_concept_of_ontology/)
+2026-08-17 · u/fathert0rque · score 14 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vqwikj/a_great_introduction_to_the_concept_of_ontology/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.theguardian.com/commentisfree/2014/jul/03/is-a-hot-dog-a-sandwich-nature-america>
 
 > I just remembered this article from years ago that made me laugh a lot and left an impression on me. There's nothing about engineering in here, but since a lot of people struggle with even understanding what ontology is, this could be a good accessible way to get your head around it. Maybe. I don't know, you tell me
 
+<a id="post-48"></a>
+
 ### 48. which ontology would you trust for your agents eventually ?
 
-2026-08-17 · u/durlabha · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vqlxih/which_ontology_would_you_trust_for_your_agents/)
+2026-08-17 · u/durlabha · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vqlxih/which_ontology_would_you_trust_for_your_agents/) · [↑ back to the list](#last-50-posts)
 
 > I’ve my opinions but wanted community take .
 >
@@ -1665,9 +1761,11 @@ Link: <https://www.theguardian.com/commentisfree/2014/jul/03/is-a-hot-dog-a-sand
 >
 > Talismanology (after Jessica Talisman, who's talking about a more academic approach to ontology—a little bit academic with controlled vocabulary , metadata etc. The whole ontology pipeline, you can look it up.)
 
+<a id="post-49"></a>
+
 ### 49. Bi-Weekly Questions Thread - August 10, 2026
 
-2026-08-10 · u/AutoModerator · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vkhpcy/biweekly_questions_thread_august_10_2026/)
+2026-08-10 · u/AutoModerator · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vkhpcy/biweekly_questions_thread_august_10_2026/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the bi-weekly questions thread!   
 >
@@ -1675,9 +1773,11 @@ Link: <https://www.theguardian.com/commentisfree/2014/jul/03/is-a-hot-dog-a-sand
 >
 > #
 
+<a id="post-50"></a>
+
 ### 50. So... What Is an Ontology, and Why Do I Need One?
 
-2026-08-10 · u/Talos_Consulting · Agentic Enablement · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vk9pjb/so_what_is_an_ontology_and_why_do_i_need_one/)
+2026-08-10 · u/Talos_Consulting · Agentic Enablement · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OntologyEngineering/comments/1vk9pjb/so_what_is_an_ontology_and_why_do_i_need_one/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 

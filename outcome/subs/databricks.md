@@ -60,56 +60,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [How I check every prompt before the LLM on Databricks: GovTech's LionGuard on a small CPU endpoint](https://www.reddit.com/r/databricks/comments/1xpwzvj/how_i_check_every_prompt_before_the_llm_on/) | u/sundarleads | Discussion | text | 4 | 2 | live | — |
-| 2 | 2026-11-07 | [\[Beta\] OneDrive connector in Lakeflow Connect now available!](https://www.reddit.com/r/databricks/comments/1xpszn8/beta_onedrive_connector_in_lakeflow_connect_now/) | u/BricksterJ | News | text | 15 | 1 | live | — |
-| 3 | 2026-11-06 | [DABs deployment history](https://www.reddit.com/r/databricks/comments/1xppoo1/dabs_deployment_history/) | u/hubert-dudek | News | i.redd.it | 16 | 4 | live | — |
-| 4 | 2026-11-06 | [Lakeflow connect - Oracle](https://www.reddit.com/r/databricks/comments/1xpfrwi/lakeflow_connect_oracle/) | u/9gg6 | Discussion | text | 8 | 4 | live | — |
-| 5 | 2026-11-06 | [Doubts about transfering my cert from my personal account into my work account](https://www.reddit.com/r/databricks/comments/1xpc3d8/doubts_about_transfering_my_cert_from_my_personal/) | u/Relative-Cucumber770 | Help | text | 4 | 5 | live | — |
-| 6 | 2026-11-06 | [SAP Hana to databricks connection](https://www.reddit.com/r/databricks/comments/1xp9sqt/sap_hana_to_databricks_connection/) | u/WarPowerful740 | General | text | 6 | 5 | live | — |
-| 7 | 2026-11-06 | [No data? No problem: dltHub agent builds ingestion, model and metrics so Genie can answer from the data](https://www.reddit.com/r/databricks/comments/1xp9dkv/no_data_no_problem_dlthub_agent_builds_ingestion/) | u/Thinker_Assignment | Tutorial | i.redd.it | 5 | 0 | live | — |
-| 8 | 2026-11-06 | [Jobrun metadata to SDP](https://www.reddit.com/r/databricks/comments/1xp8xp3/jobrun_metadata_to_sdp/) | u/Varsagod94 | Help | text | 0 | 1 | live | — |
-| 9 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](https://www.reddit.com/r/databricks/comments/1xp5h5r/how_does_your_team_deal_with_source_schema/) | u/BullfrogFinal3566 | Discussion | reddit.com | 8 | 10 | live | — |
-| 10 | 2026-11-05 | [Structured Streaming Statestore is Not Working (Zerobus)](https://www.reddit.com/r/databricks/comments/1xoxwt2/structured_streaming_statestore_is_not_working/) | u/SmallAd3697 | Discussion | text | 1 | 2 | live | — |
-| 11 | 2026-11-05 | [Most Popular AI use cases for Credit Unions](https://www.reddit.com/r/databricks/comments/1xoxlaq/most_popular_ai_use_cases_for_credit_unions/) | u/ashispa | Help | text | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/databricks/comments/1xovv21/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion | text | 0 | 1 | held by automod | Hi /u/fristprinciplesde! In order to keep the main feed clean, we are implementing a weekly megathr… |
-| 13 | 2026-11-05 | [Help a \[Databricks\] idiot solve a problem - under pressure](https://www.reddit.com/r/databricks/comments/1xovduw/help_a_databricks_idiot_solve_a_problem_under/) | u/mr_electric_wizard | Help | text | 8 | 10 | live | — |
-| 14 | 2026-11-05 | [AI_DECIDE benchmark](https://www.reddit.com/r/databricks/comments/1xorbut/ai_decide_benchmark/) | u/hubert-dudek | News | i.redd.it | 0 | 4 | live | — |
-| 15 | 2026-11-05 | [Doing Data Prep on Databricks without Code (Lakeflow Designer Demo)](https://www.reddit.com/r/databricks/comments/1xor5b0/doing_data_prep_on_databricks_without_code/) | u/JosueBogran | Tutorial | youtu.be | 9 | 0 | live | — |
-| 16 | 2026-11-05 | [Enterprise access handling 50% of work??](https://www.reddit.com/r/databricks/comments/1xoqi98/enterprise_access_handling_50_of_work/) | u/steroids-bad | Discussion | text | 7 | 17 | live | — |
-| 17 | 2026-11-05 | [Do you really need all three layers, or is medallion overkill for small projects?](https://www.reddit.com/r/databricks/comments/1xop8c0/do_you_really_need_all_three_layers_or_is/) | u/No_Ambition8323 | Discussion | text | 16 | 9 | live | — |
-| 18 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](https://www.reddit.com/r/databricks/comments/1xoj8so/i_built_an_opensource_semantic_layer_that/) | u/wrosa85 | General | text | 1 | 1 | spam-filtered | Hi /u/wrosa85! In order to keep the main feed clean, we are implementing a weekly megathread for se… |
-| 19 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/databricks/comments/1xoinek/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/analyticsvector-yt | Tutorial | text | 0 | 1 | held by automod | Hi /u/analyticsvector-yt! In order to keep the main feed clean, we are implementing a weekly megath… |
-| 20 | 2026-11-05 | [Are people using Collibra to set owners of Tables in Unity Catalog?](https://www.reddit.com/r/databricks/comments/1xo8wag/are_people_using_collibra_to_set_owners_of_tables/) | u/RazzmatazzLiving1323 | Discussion | text | 7 | 6 | live | — |
-| 21 | 2026-11-04 | [Is working at Databricks as a DSA a technical role or a consultation role](https://www.reddit.com/r/databricks/comments/1xo2fx8/is_working_at_databricks_as_a_dsa_a_technical/) | u/Extra-Lie-5403 | Discussion | text | 10 | 16 | live | — |
-| 22 | 2026-11-04 | [Sensitive variables in DABs](https://www.reddit.com/r/databricks/comments/1xo1fui/sensitive_variables_in_dabs/) | u/hubert-dudek | News | i.redd.it | 18 | 0 | live | — |
-| 23 | 2026-11-04 | [I built a connector to stream Sparkplug B payloads into Databricks](https://www.reddit.com/r/databricks/comments/1xnwn7s/i_built_a_connector_to_stream_sparkplug_b/) | u/TunoIPTV | General | linkedin.com | 2 | 0 | live | — |
-| 24 | 2026-11-04 | [What's new in AIBI Dashboard - October 2026](https://www.reddit.com/r/databricks/comments/1xnpv9p/whats_new_in_aibi_dashboard_october_2026/) | u/Youssef_Mrini | News | text | 28 | 0 | live | — |
-| 25 | 2026-11-04 | [What’s new in Genie Agents — October 2026](https://www.reddit.com/r/databricks/comments/1xnl8xm/whats_new_in_genie_agents_october_2026/) | u/Youssef_Mrini | News | text | 14 | 1 | live | — |
-| 26 | 2026-11-04 | [Data + AI Tour](https://www.reddit.com/r/databricks/comments/1xnjtss/data_ai_tour/) | u/InviteApprehensive10 | General | text | 4 | 0 | live | — |
-| 27 | 2026-11-04 | [We pointed an AI agent at 146M NYC taxi rows and asked it to build a Data Vault mart. Here's what broke.](https://www.reddit.com/r/databricks/comments/1xnj8dm/we_pointed_an_ai_agent_at_146m_nyc_taxi_rows_and/) | u/No_Advertising2536 | Discussion | text | 0 | 4 | live | — |
-| 28 | 2026-11-04 | [GraveTrail Lineage tool](https://www.reddit.com/r/databricks/comments/1xneljy/gravetrail_lineage_tool/) | u/TkGraveWalkeRr | Discussion | text | 3 | 2 | live | — |
-| 29 | 2026-11-03 | [Template columns for zerobus-ingest](https://www.reddit.com/r/databricks/comments/1xn97jc/template_columns_for_zerobusingest/) | u/SmallAd3697 | Discussion | text | 3 | 2 | live | — |
-| 30 | 2026-11-03 | [Free Databricks Partner meetup Chicago (November 12)](https://www.reddit.com/r/databricks/comments/1xn6hx1/free_databricks_partner_meetup_chicago_november_12/) | u/marianalemusm | General | text | 3 | 0 | live | — |
-| 31 | 2026-11-03 | [Multiple RTM flows per pipeline and source stage adaptive repartitioning are now in Beta!](https://www.reddit.com/r/databricks/comments/1xmzy6f/multiple_rtm_flows_per_pipeline_and_source_stage/) | u/Careless-Courage1560 | General | text | 7 | 1 | live | — |
-| 32 | 2026-11-03 | [Bricktalk: Zerobus Ingest & CDC Workflows](https://www.reddit.com/r/databricks/comments/1xmzk7s/bricktalk_zerobus_ingest_cdc_workflows/) | u/Defiant-Pause9053 | General | text | 8 | 6 | live | — |
-| 33 | 2026-11-03 | [Databricks Apps vs AKS + Lakebase for Business Applications](https://www.reddit.com/r/databricks/comments/1xmymtn/databricks_apps_vs_aks_lakebase_for_business/) | u/Conscious_Awareness6 | Discussion | text | 8 | 10 | live | — |
-| 34 | 2026-11-03 | [What’s the most confusing Databricks error message you’ve ever seen?](https://www.reddit.com/r/databricks/comments/1xmxae6/whats_the_most_confusing_databricks_error_message/) | u/No_Ambition8323 | General | text | 12 | 6 | live | — |
-| 35 | 2026-11-03 | [What's new in Genie One October 2026](https://www.reddit.com/r/databricks/comments/1xmpnh5/whats_new_in_genie_one_october_2026/) | u/Youssef_Mrini | News | text | 9 | 1 | live | — |
-| 36 | 2026-11-03 | [Job completion triggers (now available in Beta!)](https://www.reddit.com/r/databricks/comments/1xmpj93/job_completion_triggers_now_available_in_beta/) | u/saad-the-engineer | General | text | 68 | 12 | live | — |
-| 37 | 2026-11-03 | [Databricks 5 Minute Features: Tag Automation](https://www.reddit.com/r/databricks/comments/1xmowm5/databricks_5_minute_features_tag_automation/) | u/Remarkable_Rock5474 | Tutorial | youtube.com | 2 | 0 | live | — |
-| 38 | 2026-11-03 | [Databricks now supports job completion trigger](https://www.reddit.com/r/databricks/comments/1xmonks/databricks_now_supports_job_completion_trigger/) | u/szymon_dybczak | General | text | 20 | 2 | live | — |
-| 39 | 2026-11-03 | [New features in Lakeflow Designer this month (October drop)](https://www.reddit.com/r/databricks/comments/1xmjva5/new_features_in_lakeflow_designer_this_month/) | u/zaboca_v | General | text | 16 | 6 | approved | — |
-| 40 | 2026-11-02 | [ACTUALLY USEFUL Big Data Project Ideas](https://www.reddit.com/r/databricks/comments/1xma8lw/actually_useful_big_data_project_ideas/) | u/mulberry-cream | Help | text | 11 | 11 | live | — |
-| 41 | 2026-11-02 | [JDBC connections in Unity Catalog](https://www.reddit.com/r/databricks/comments/1xma6lu/jdbc_connections_in_unity_catalog/) | u/hubert-dudek | News | i.redd.it | 23 | 4 | live | — |
-| 42 | 2026-11-02 | [New in Lakeflow Designer this month 👇](https://www.reddit.com/r/databricks/comments/1xma2el/new_in_lakeflow_designer_this_month/) | u/zaboca_v | News | reddit.com | 1 | 0 | spam-filtered | — |
-| 43 | 2026-11-02 | [Vocal fry](https://www.reddit.com/r/databricks/comments/1xm8kkw/vocal_fry/) | u/LegitimateSale9822 | Discussion | text | 0 | 2 | live | — |
-| 44 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_data_engineer_that_runs_as_a/) | u/No_Advertising2536 | Discussion | text | 2 | 20 | live | — |
-| 45 | 2026-11-02 | [Monorepo setup](https://www.reddit.com/r/databricks/comments/1xm002a/monorepo_setup/) | u/ptab0211 | Discussion | text | 15 | 8 | live | — |
-| 46 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](https://www.reddit.com/r/databricks/comments/1xlwars/apache_spark_43_what_developers_need_to_know/) | u/Lenkz | General | medium.com | 22 | 3 | live | — |
-| 47 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](https://www.reddit.com/r/databricks/comments/1xlwa02/apache_spark_43_what_developers_need_to_know/) | u/Lenkz | General | medium.com | 1 | 0 | live | — |
-| 48 | 2026-11-02 | [Use Serverless SQL Warehouses to bypass workspace cluster startup latency](https://www.reddit.com/r/databricks/comments/1xlry30/use_serverless_sql_warehouses_to_bypass_workspace/) | u/AbilyticsEng | General | text | 0 | 6 | live | — |
-| 49 | 2026-11-02 | [Log custom PyFunc models with MLflow using python_model](https://www.reddit.com/r/databricks/comments/1xlrwyi/log_custom_pyfunc_models_with_mlflow_using_python/) | u/AbilyticsEng | General | text | 7 | 1 | live | — |
-| 50 | 2026-11-02 | [spark shuffle optimization](https://www.reddit.com/r/databricks/comments/1xlro8k/spark_shuffle_optimization/) | u/NormalControl2342 | Discussion | text | 0 | 0 | content_takedown | — |
+| 1 | 2026-11-07 | [How I check every prompt before the LLM on Databricks: GovTech's LionGuard on a small CPU endpoint](#post-1) | u/sundarleads | Discussion | text | 4 | 2 | live | — |
+| 2 | 2026-11-07 | [\[Beta\] OneDrive connector in Lakeflow Connect now available!](#post-2) | u/BricksterJ | News | text | 15 | 1 | live | — |
+| 3 | 2026-11-06 | [DABs deployment history](#post-3) | u/hubert-dudek | News | i.redd.it | 16 | 4 | live | — |
+| 4 | 2026-11-06 | [Lakeflow connect - Oracle](#post-4) | u/9gg6 | Discussion | text | 8 | 4 | live | — |
+| 5 | 2026-11-06 | [Doubts about transfering my cert from my personal account into my work account](#post-5) | u/Relative-Cucumber770 | Help | text | 4 | 5 | live | — |
+| 6 | 2026-11-06 | [SAP Hana to databricks connection](#post-6) | u/WarPowerful740 | General | text | 6 | 5 | live | — |
+| 7 | 2026-11-06 | [No data? No problem: dltHub agent builds ingestion, model and metrics so Genie can answer from the data](#post-7) | u/Thinker_Assignment | Tutorial | i.redd.it | 5 | 0 | live | — |
+| 8 | 2026-11-06 | [Jobrun metadata to SDP](#post-8) | u/Varsagod94 | Help | text | 0 | 1 | live | — |
+| 9 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](#post-9) | u/BullfrogFinal3566 | Discussion | reddit.com | 8 | 10 | live | — |
+| 10 | 2026-11-05 | [Structured Streaming Statestore is Not Working (Zerobus)](#post-10) | u/SmallAd3697 | Discussion | text | 1 | 2 | live | — |
+| 11 | 2026-11-05 | [Most Popular AI use cases for Credit Unions](#post-11) | u/ashispa | Help | text | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-12) | u/fristprinciplesde | Discussion | text | 0 | 1 | held by automod | Hi /u/fristprinciplesde! In order to keep the main feed clean, we are implementing a weekly megathr… |
+| 13 | 2026-11-05 | [Help a \[Databricks\] idiot solve a problem - under pressure](#post-13) | u/mr_electric_wizard | Help | text | 8 | 10 | live | — |
+| 14 | 2026-11-05 | [AI_DECIDE benchmark](#post-14) | u/hubert-dudek | News | i.redd.it | 0 | 4 | live | — |
+| 15 | 2026-11-05 | [Doing Data Prep on Databricks without Code (Lakeflow Designer Demo)](#post-15) | u/JosueBogran | Tutorial | youtu.be | 9 | 0 | live | — |
+| 16 | 2026-11-05 | [Enterprise access handling 50% of work??](#post-16) | u/steroids-bad | Discussion | text | 7 | 17 | live | — |
+| 17 | 2026-11-05 | [Do you really need all three layers, or is medallion overkill for small projects?](#post-17) | u/No_Ambition8323 | Discussion | text | 16 | 9 | live | — |
+| 18 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](#post-18) | u/wrosa85 | General | text | 1 | 1 | spam-filtered | Hi /u/wrosa85! In order to keep the main feed clean, we are implementing a weekly megathread for se… |
+| 19 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-19) | u/analyticsvector-yt | Tutorial | text | 0 | 1 | held by automod | Hi /u/analyticsvector-yt! In order to keep the main feed clean, we are implementing a weekly megath… |
+| 20 | 2026-11-05 | [Are people using Collibra to set owners of Tables in Unity Catalog?](#post-20) | u/RazzmatazzLiving1323 | Discussion | text | 7 | 6 | live | — |
+| 21 | 2026-11-04 | [Is working at Databricks as a DSA a technical role or a consultation role](#post-21) | u/Extra-Lie-5403 | Discussion | text | 10 | 16 | live | — |
+| 22 | 2026-11-04 | [Sensitive variables in DABs](#post-22) | u/hubert-dudek | News | i.redd.it | 18 | 0 | live | — |
+| 23 | 2026-11-04 | [I built a connector to stream Sparkplug B payloads into Databricks](#post-23) | u/TunoIPTV | General | linkedin.com | 2 | 0 | live | — |
+| 24 | 2026-11-04 | [What's new in AIBI Dashboard - October 2026](#post-24) | u/Youssef_Mrini | News | text | 28 | 0 | live | — |
+| 25 | 2026-11-04 | [What’s new in Genie Agents — October 2026](#post-25) | u/Youssef_Mrini | News | text | 14 | 1 | live | — |
+| 26 | 2026-11-04 | [Data + AI Tour](#post-26) | u/InviteApprehensive10 | General | text | 4 | 0 | live | — |
+| 27 | 2026-11-04 | [We pointed an AI agent at 146M NYC taxi rows and asked it to build a Data Vault mart. Here's what broke.](#post-27) | u/No_Advertising2536 | Discussion | text | 0 | 4 | live | — |
+| 28 | 2026-11-04 | [GraveTrail Lineage tool](#post-28) | u/TkGraveWalkeRr | Discussion | text | 3 | 2 | live | — |
+| 29 | 2026-11-03 | [Template columns for zerobus-ingest](#post-29) | u/SmallAd3697 | Discussion | text | 3 | 2 | live | — |
+| 30 | 2026-11-03 | [Free Databricks Partner meetup Chicago (November 12)](#post-30) | u/marianalemusm | General | text | 3 | 0 | live | — |
+| 31 | 2026-11-03 | [Multiple RTM flows per pipeline and source stage adaptive repartitioning are now in Beta!](#post-31) | u/Careless-Courage1560 | General | text | 7 | 1 | live | — |
+| 32 | 2026-11-03 | [Bricktalk: Zerobus Ingest & CDC Workflows](#post-32) | u/Defiant-Pause9053 | General | text | 8 | 6 | live | — |
+| 33 | 2026-11-03 | [Databricks Apps vs AKS + Lakebase for Business Applications](#post-33) | u/Conscious_Awareness6 | Discussion | text | 8 | 10 | live | — |
+| 34 | 2026-11-03 | [What’s the most confusing Databricks error message you’ve ever seen?](#post-34) | u/No_Ambition8323 | General | text | 12 | 6 | live | — |
+| 35 | 2026-11-03 | [What's new in Genie One October 2026](#post-35) | u/Youssef_Mrini | News | text | 9 | 1 | live | — |
+| 36 | 2026-11-03 | [Job completion triggers (now available in Beta!)](#post-36) | u/saad-the-engineer | General | text | 68 | 12 | live | — |
+| 37 | 2026-11-03 | [Databricks 5 Minute Features: Tag Automation](#post-37) | u/Remarkable_Rock5474 | Tutorial | youtube.com | 2 | 0 | live | — |
+| 38 | 2026-11-03 | [Databricks now supports job completion trigger](#post-38) | u/szymon_dybczak | General | text | 20 | 2 | live | — |
+| 39 | 2026-11-03 | [New features in Lakeflow Designer this month (October drop)](#post-39) | u/zaboca_v | General | text | 16 | 6 | approved | — |
+| 40 | 2026-11-02 | [ACTUALLY USEFUL Big Data Project Ideas](#post-40) | u/mulberry-cream | Help | text | 11 | 11 | live | — |
+| 41 | 2026-11-02 | [JDBC connections in Unity Catalog](#post-41) | u/hubert-dudek | News | i.redd.it | 23 | 4 | live | — |
+| 42 | 2026-11-02 | [New in Lakeflow Designer this month 👇](#post-42) | u/zaboca_v | News | reddit.com | 1 | 0 | spam-filtered | — |
+| 43 | 2026-11-02 | [Vocal fry](#post-43) | u/LegitimateSale9822 | Discussion | text | 0 | 2 | live | — |
+| 44 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](#post-44) | u/No_Advertising2536 | Discussion | text | 2 | 20 | live | — |
+| 45 | 2026-11-02 | [Monorepo setup](#post-45) | u/ptab0211 | Discussion | text | 15 | 8 | live | — |
+| 46 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](#post-46) | u/Lenkz | General | medium.com | 22 | 3 | live | — |
+| 47 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](#post-47) | u/Lenkz | General | medium.com | 1 | 0 | live | — |
+| 48 | 2026-11-02 | [Use Serverless SQL Warehouses to bypass workspace cluster startup latency](#post-48) | u/AbilyticsEng | General | text | 0 | 6 | live | — |
+| 49 | 2026-11-02 | [Log custom PyFunc models with MLflow using python_model](#post-49) | u/AbilyticsEng | General | text | 7 | 1 | live | — |
+| 50 | 2026-11-02 | [spark shuffle optimization](#post-50) | u/NormalControl2342 | Discussion | text | 0 | 0 | content_takedown | — |
 
 ## Top 20 posts, last 30 days
 
@@ -117,34 +117,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-24 | [A full month-end finance app built on Databricks Apps](https://www.reddit.com/r/databricks/comments/1xebsig/a_full_monthend_finance_app_built_on_databricks/) | u/oneaffidavit1 | General | v.redd.it | 117 | 18 | live |
-| 52 | 2026-10-22 | [Had a call with a Databricks PM this week and found out about all the cool things!](https://www.reddit.com/r/databricks/comments/1xcysi4/had_a_call_with_a_databricks_pm_this_week_and/) | u/OkImprovement7010 | General | text | 83 | 36 | live |
-| 36 | 2026-11-03 | [Job completion triggers (now available in Beta!)](https://www.reddit.com/r/databricks/comments/1xmpj93/job_completion_triggers_now_available_in_beta/) | u/saad-the-engineer | General | text | 68 | 12 | live |
-| 53 | 2026-10-19 | [Databricks Genie Ontology Explained \| Demo with Databricks Product Manager](https://www.reddit.com/r/databricks/comments/1x9ktn4/databricks_genie_ontology_explained_demo_with/) | u/JosueBogran | Tutorial | youtu.be | 52 | 6 | live |
-| 54 | 2026-10-13 | [Databricks BI vs Power BI: what are the actual dealbreakers?](https://www.reddit.com/r/databricks/comments/1x57ioc/databricks_bi_vs_power_bi_what_are_the_actual/) | u/Dampfschlaghammer | Discussion | text | 50 | 54 | live |
-| 55 | 2026-10-11 | [I thought Databricks Lakebase was expensive](https://www.reddit.com/r/databricks/comments/1x33t4n/i_thought_databricks_lakebase_was_expensive/) | u/Significant-Guest-14 | General | i.redd.it | 45 | 17 | live |
-| 56 | 2026-10-24 | [Databricks Genie agent.](https://www.reddit.com/r/databricks/comments/1xe2uzw/databricks_genie_agent/) | u/Limp-Hovercraft7990 | Discussion | text | 43 | 34 | live |
-| 57 | 2026-10-15 | [Simplifying networking for serverless](https://www.reddit.com/r/databricks/comments/1x6d5xt/simplifying_networking_for_serverless/) | u/databricksplatform | Discussion | text | 43 | 16 | live |
-| 58 | 2026-10-20 | [Databricks World. I think they forgot the Pirates of Renaming](https://www.reddit.com/r/databricks/comments/1xasw9c/databricks_world_i_think_they_forgot_the_pirates/) | u/Significant-Guest-14 | General | i.redd.it | 43 | 11 | live |
-| 59 | 2026-10-15 | [Databricks AI Decide plays KSP, that was a fun evening](https://www.reddit.com/r/databricks/comments/1x6g1t7/databricks_ai_decide_plays_ksp_that_was_a_fun/) | u/lothorp | General | i.redd.it | 39 | 2 | live |
-| 60 | 2026-10-20 | [Databricks compute management is so bad](https://www.reddit.com/r/databricks/comments/1xay7yp/databricks_compute_management_is_so_bad/) | u/PerceptionBig940 | Discussion | text | 36 | 47 | live |
-| 61 | 2026-10-26 | [Cut Your MCP Token Bill by 97%: Code Mode on Databricks](https://www.reddit.com/r/databricks/comments/1xfx8i2/cut_your_mcp_token_bill_by_97_code_mode_on/) | u/Limp-Park7849 | Tutorial | farhathadi.substack.com | 35 | 3 | live |
-| 62 | 2026-10-26 | [DataFrame caching is now in Public Preview on Databricks serverless compute: df.cache() and df.persist() fina…](https://www.reddit.com/r/databricks/comments/1xfp1f7/dataframe_caching_is_now_in_public_preview_on/) | u/Lenkz | General | i.redd.it | 35 | 3 | live |
-| 63 | 2026-10-30 | [Starting out on Databricks](https://www.reddit.com/r/databricks/comments/1xj8517/starting_out_on_databricks/) | u/adwaithpn | Help | text | 34 | 12 | live |
-| 64 | 2026-10-12 | [Things I miss on Databricks](https://www.reddit.com/r/databricks/comments/1x4ggpc/things_i_miss_on_databricks/) | u/Select_Morning8221 | Discussion | text | 31 | 20 | live |
-| 65 | 2026-10-22 | [Audio transcription in SQL](https://www.reddit.com/r/databricks/comments/1xcqmwb/audio_transcription_in_sql/) | u/hubert-dudek | News | i.redd.it | 31 | 7 | live |
-| 66 | 2026-10-31 | [This Halloween, I'm building a horror game where the only way to survive is to migrate to Databricks](https://www.reddit.com/r/databricks/comments/1xkj596/this_halloween_im_building_a_horror_game_where/) | u/Significant-Guest-14 | Discussion | v.redd.it | 31 | 5 | live |
-| 67 | 2026-11-01 | [Modern Family TV Show: Analytics Dashboard Built with Databricks Apps](https://www.reddit.com/r/databricks/comments/1xku2p4/modern_family_tv_show_analytics_dashboard_built/) | u/oneaffidavit1 | General | v.redd.it | 30 | 6 | live |
-| 68 | 2026-10-29 | [Is Databricks the right solution for a team of 3 data scientists?](https://www.reddit.com/r/databricks/comments/1xipu4d/is_databricks_the_right_solution_for_a_team_of_3/) | u/Mother_Seaweed8987 | Discussion | text | 29 | 37 | live |
-| 69 | 2026-10-30 | [Genie App Builder](https://www.reddit.com/r/databricks/comments/1xjt71h/genie_app_builder/) | u/hubert-dudek | News | i.redd.it | 29 | 8 | live |
+| 51 | 2026-10-24 | [A full month-end finance app built on Databricks Apps](#post-51) | u/oneaffidavit1 | General | v.redd.it | 117 | 18 | live |
+| 52 | 2026-10-22 | [Had a call with a Databricks PM this week and found out about all the cool things!](#post-52) | u/OkImprovement7010 | General | text | 83 | 36 | live |
+| 36 | 2026-11-03 | [Job completion triggers (now available in Beta!)](#post-36) | u/saad-the-engineer | General | text | 68 | 12 | live |
+| 53 | 2026-10-19 | [Databricks Genie Ontology Explained \| Demo with Databricks Product Manager](#post-53) | u/JosueBogran | Tutorial | youtu.be | 52 | 6 | live |
+| 54 | 2026-10-13 | [Databricks BI vs Power BI: what are the actual dealbreakers?](#post-54) | u/Dampfschlaghammer | Discussion | text | 50 | 54 | live |
+| 55 | 2026-10-11 | [I thought Databricks Lakebase was expensive](#post-55) | u/Significant-Guest-14 | General | i.redd.it | 45 | 17 | live |
+| 56 | 2026-10-24 | [Databricks Genie agent.](#post-56) | u/Limp-Hovercraft7990 | Discussion | text | 43 | 34 | live |
+| 57 | 2026-10-15 | [Simplifying networking for serverless](#post-57) | u/databricksplatform | Discussion | text | 43 | 16 | live |
+| 58 | 2026-10-20 | [Databricks World. I think they forgot the Pirates of Renaming](#post-58) | u/Significant-Guest-14 | General | i.redd.it | 43 | 11 | live |
+| 59 | 2026-10-15 | [Databricks AI Decide plays KSP, that was a fun evening](#post-59) | u/lothorp | General | i.redd.it | 39 | 2 | live |
+| 60 | 2026-10-20 | [Databricks compute management is so bad](#post-60) | u/PerceptionBig940 | Discussion | text | 36 | 47 | live |
+| 61 | 2026-10-26 | [Cut Your MCP Token Bill by 97%: Code Mode on Databricks](#post-61) | u/Limp-Park7849 | Tutorial | farhathadi.substack.com | 35 | 3 | live |
+| 62 | 2026-10-26 | [DataFrame caching is now in Public Preview on Databricks serverless compute: df.cache() and df.persist() fina…](#post-62) | u/Lenkz | General | i.redd.it | 35 | 3 | live |
+| 63 | 2026-10-30 | [Starting out on Databricks](#post-63) | u/adwaithpn | Help | text | 34 | 12 | live |
+| 64 | 2026-10-12 | [Things I miss on Databricks](#post-64) | u/Select_Morning8221 | Discussion | text | 31 | 20 | live |
+| 65 | 2026-10-22 | [Audio transcription in SQL](#post-65) | u/hubert-dudek | News | i.redd.it | 31 | 7 | live |
+| 66 | 2026-10-31 | [This Halloween, I'm building a horror game where the only way to survive is to migrate to Databricks](#post-66) | u/Significant-Guest-14 | Discussion | v.redd.it | 31 | 5 | live |
+| 67 | 2026-11-01 | [Modern Family TV Show: Analytics Dashboard Built with Databricks Apps](#post-67) | u/oneaffidavit1 | General | v.redd.it | 30 | 6 | live |
+| 68 | 2026-10-29 | [Is Databricks the right solution for a team of 3 data scientists?](#post-68) | u/Mother_Seaweed8987 | Discussion | text | 29 | 37 | live |
+| 69 | 2026-10-30 | [Genie App Builder](#post-69) | u/hubert-dudek | News | i.redd.it | 29 | 8 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. How I check every prompt before the LLM on Databricks: GovTech's LionGuard on a small CPU endpoint
 
-2026-11-07 · u/sundarleads · Discussion · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpwzvj/how_i_check_every_prompt_before_the_llm_on/)
+2026-11-07 · u/sundarleads · Discussion · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpwzvj/how_i_check_every_prompt_before_the_llm_on/) · [↑ back to the list](#last-50-posts)
 
 > I wanted one shared safety check that every agent, job or SQL query on Databricks calls before the LLM.
 >
@@ -178,9 +180,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > How do you check prompts for your agents today? Built-in AI Gateway guardrails, a custom endpoint, or both?
 
+<a id="post-2"></a>
+
 ### 2. \[Beta\] OneDrive connector in Lakeflow Connect now available!
 
-2026-11-07 · u/BricksterJ · News · score 15 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpszn8/beta_onedrive_connector_in_lakeflow_connect_now/)
+2026-11-07 · u/BricksterJ · News · score 15 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpszn8/beta_onedrive_connector_in_lakeflow_connect_now/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/databricks,  
 >
@@ -250,9 +254,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you try the Beta, please provide us your feedback!
 
+<a id="post-3"></a>
+
 ### 3. DABs deployment history
 
-2026-11-06 · u/hubert-dudek · News · score 16 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xppoo1/dabs_deployment_history/)
+2026-11-06 · u/hubert-dudek · News · score 16 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xppoo1/dabs_deployment_history/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/j6sdw7yvf20i1.png>
 
@@ -260,9 +266,11 @@ Link: <https://i.redd.it/j6sdw7yvf20i1.png>
 >
 > [https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2](https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2)
 
+<a id="post-4"></a>
+
 ### 4. Lakeflow connect - Oracle
 
-2026-11-06 · u/9gg6 · Discussion · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpfrwi/lakeflow_connect_oracle/)
+2026-11-06 · u/9gg6 · Discussion · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpfrwi/lakeflow_connect_oracle/) · [↑ back to the list](#last-50-posts)
 
 > **Is anyone here using Lakeflow Connect for Oracle Database?**
 >
@@ -282,9 +290,11 @@ Link: <https://i.redd.it/j6sdw7yvf20i1.png>
 >
 > Thanks in advance!
 
+<a id="post-5"></a>
+
 ### 5. Doubts about transfering my cert from my personal account into my work account
 
-2026-11-06 · u/Relative-Cucumber770 · Help · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpc3d8/doubts_about_transfering_my_cert_from_my_personal/)
+2026-11-06 · u/Relative-Cucumber770 · Help · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xpc3d8/doubts_about_transfering_my_cert_from_my_personal/) · [↑ back to the list](#last-50-posts)
 
 > So, my company is a Databricks partner, and when I joined, they asked me to transfer my Associate DE cert from my personal account into my work account. I opened a ticket, and after a month I have  news:
 >
@@ -297,15 +307,19 @@ Link: <https://i.redd.it/j6sdw7yvf20i1.png>
 >
 > Thanks!
 
+<a id="post-6"></a>
+
 ### 6. SAP Hana to databricks connection
 
-2026-11-06 · u/WarPowerful740 · General · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp9sqt/sap_hana_to_databricks_connection/)
+2026-11-06 · u/WarPowerful740 · General · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp9sqt/sap_hana_to_databricks_connection/) · [↑ back to the list](#last-50-posts)
 
 > How to connect SAP hana with databricks without copying?
 
+<a id="post-7"></a>
+
 ### 7. No data? No problem: dltHub agent builds ingestion, model and metrics so Genie can answer from the data
 
-2026-11-06 · u/Thinker_Assignment · Tutorial · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp9dkv/no_data_no_problem_dlthub_agent_builds_ingestion/)
+2026-11-06 · u/Thinker_Assignment · Tutorial · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp9dkv/no_data_no_problem_dlthub_agent_builds_ingestion/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/bmjoumv7dtzh1.png>
 
@@ -328,9 +342,11 @@ Link: <https://i.redd.it/bmjoumv7dtzh1.png>
 >
 > more info on our [blog with video demo](https://dlthub.com/blog/databricks-unity-catalog-pages-genie-ontology-walkthrough)
 
+<a id="post-8"></a>
+
 ### 8. Jobrun metadata to SDP
 
-2026-11-06 · u/Varsagod94 · Help · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp8xp3/jobrun_metadata_to_sdp/)
+2026-11-06 · u/Varsagod94 · Help · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp8xp3/jobrun_metadata_to_sdp/) · [↑ back to the list](#last-50-posts)
 
 > To write into delta tables.
 >
@@ -338,16 +354,20 @@ Link: <https://i.redd.it/bmjoumv7dtzh1.png>
 >
 > (When sharing more context I’m not allowed to post because it thinks this is about another topic)
 
+<a id="post-9"></a>
+
 ### 9. How does your team deal with source schema changes breaking downstream pipelines?
 
-2026-11-06 · u/BullfrogFinal3566 · Discussion · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp5h5r/how_does_your_team_deal_with_source_schema/)
+2026-11-06 · u/BullfrogFinal3566 · Discussion · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xp5h5r/how_does_your_team_deal_with_source_schema/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_with_source_schema/>
 
 
+<a id="post-10"></a>
+
 ### 10. Structured Streaming Statestore is Not Working (Zerobus)
 
-2026-11-05 · u/SmallAd3697 · Discussion · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoxwt2/structured_streaming_statestore_is_not_working/)
+2026-11-05 · u/SmallAd3697 · Discussion · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoxwt2/structured_streaming_statestore_is_not_working/) · [↑ back to the list](#last-50-posts)
 
 > Zerobus is writing data to a landing table like so:
 >
@@ -404,23 +424,29 @@ Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_wit
 >
 > I'm using dbx 16.4 and spark 3.5.2
 
+<a id="post-11"></a>
+
 ### 11. Most Popular AI use cases for Credit Unions
 
-2026-11-05 · u/ashispa · Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoxlaq/most_popular_ai_use_cases_for_credit_unions/)
+2026-11-05 · u/ashispa · Help · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoxlaq/most_popular_ai_use_cases_for_credit_unions/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xovv21/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xovv21/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hi /u/fristprinciplesde! In order to keep the main feed clean, we are implementing a weekly megathread for self promotion for companies who do lots of work with databricks. Please direct all self promotion posts to our [Self-Promotion Megathread](https://www.reddit.com/r/databricks/comments/1x63f8t/megathread_self_promotion/) and keep in mind that we ask you to stay friendly, civil, and adhere to the subreddit rules! *If you are a community member sharing a helpful third-party resource that you do NOT own, don't worry—a moderator will review and approve your post shortly.*
 
+<a id="post-13"></a>
+
 ### 13. Help a \[Databricks\] idiot solve a problem - under pressure
 
-2026-11-05 · u/mr_electric_wizard · Help · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xovduw/help_a_databricks_idiot_solve_a_problem_under/)
+2026-11-05 · u/mr_electric_wizard · Help · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xovduw/help_a_databricks_idiot_solve_a_problem_under/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone!  I want to start out by saying that I'm not a super python guru person, but more of a data dude (SQL is my jammy jam) but I'm a data engineer, so I have to do some Databricks coding with PySpark from time to time.
 >
@@ -448,9 +474,11 @@ Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_wit
 >
 > Help!! :D
 
+<a id="post-14"></a>
+
 ### 14. AI_DECIDE benchmark
 
-2026-11-05 · u/hubert-dudek · News · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xorbut/ai_decide_benchmark/)
+2026-11-05 · u/hubert-dudek · News · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xorbut/ai_decide_benchmark/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/js36jogoeuzh1.png>
 
@@ -460,9 +488,11 @@ Link: <https://i.redd.it/js36jogoeuzh1.png>
 >
 > [https://www.sunnydata.ai/blog/databricks-ai-decide-benchmark](https://www.sunnydata.ai/blog/databricks-ai-decide-benchmark)
 
+<a id="post-15"></a>
+
 ### 15. Doing Data Prep on Databricks without Code (Lakeflow Designer Demo)
 
-2026-11-05 · u/JosueBogran · Tutorial · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xor5b0/doing_data_prep_on_databricks_without_code/)
+2026-11-05 · u/JosueBogran · Tutorial · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xor5b0/doing_data_prep_on_databricks_without_code/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/IkgV9KWGksA>
 
@@ -498,9 +528,11 @@ Link: <https://youtu.be/IkgV9KWGksA>
 >
 > Ultimately, this is a big win for enterprise customers wanting to make the most out of the many capabilities Databricks offers, whether they know how to code or not, and whether they want to use AI or not!
 
+<a id="post-16"></a>
+
 ### 16. Enterprise access handling 50% of work??
 
-2026-11-05 · u/steroids-bad · Discussion · score 7 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoqi98/enterprise_access_handling_50_of_work/)
+2026-11-05 · u/steroids-bad · Discussion · score 7 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoqi98/enterprise_access_handling_50_of_work/) · [↑ back to the list](#last-50-posts)
 
 > We have lots of tables (60-70), how the hell do you handle access for users and agents?
 >
@@ -508,9 +540,11 @@ Link: <https://youtu.be/IkgV9KWGksA>
 >
 > Is there a way to have 1 single source of truth? I wasnt able to find anything in the documentation
 
+<a id="post-17"></a>
+
 ### 17. Do you really need all three layers, or is medallion overkill for small projects?
 
-2026-11-05 · u/No_Ambition8323 · Discussion · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xop8c0/do_you_really_need_all_three_layers_or_is/)
+2026-11-05 · u/No_Ambition8323 · Discussion · score 16 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xop8c0/do_you_really_need_all_three_layers_or_is/) · [↑ back to the list](#last-50-posts)
 
 > I’m working on a small project with just a few data sources and a couple of reports. Following the full medallion setup (Bronze, Silver, Gold) feels like a lot of extra tables, jobs, and storage for not much benefit.
 >
@@ -527,39 +561,49 @@ Link: <https://youtu.be/IkgV9KWGksA>
 >
 > Would love to hear real experiences!
 
+<a id="post-18"></a>
+
 ### 18. I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases, MCP)
 
-2026-11-05 · u/wrosa85 · General · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoj8so/i_built_an_opensource_semantic_layer_that/)
+2026-11-05 · u/wrosa85 · General · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoj8so/i_built_an_opensource_semantic_layer_that/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hi /u/wrosa85! In order to keep the main feed clean, we are implementing a weekly megathread for self promotion for companies who do lots of work with databricks. Please direct all self promotion posts to our [Self-Promotion Megathread](https://www.reddit.com/r/databricks/comments/1x63f8t/megathread_self_promotion/) and keep in mind that we ask you to stay friendly, civil, and adhere to the subreddit rules! *If you are a community member sharing a helpful third-party resource that you do NOT own, don't worry—a moderator will review and approve your post shortly.*
 
+<a id="post-19"></a>
+
 ### 19. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/analyticsvector-yt · Tutorial · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoinek/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/analyticsvector-yt · Tutorial · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xoinek/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Hi /u/analyticsvector-yt! In order to keep the main feed clean, we are implementing a weekly megathread for self promotion for companies who do lots of work with databricks. Please direct all self promotion posts to our [Self-Promotion Megathread](https://www.reddit.com/r/databricks/comments/1x63f8t/megathread_self_promotion/) and keep in mind that we ask you to stay friendly, civil, and adhere to the subreddit rules! *If you are a community member sharing a helpful third-party resource that you do NOT own, don't worry—a moderator will review and approve your post shortly.*
 
+<a id="post-20"></a>
+
 ### 20. Are people using Collibra to set owners of Tables in Unity Catalog?
 
-2026-11-05 · u/RazzmatazzLiving1323 · Discussion · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo8wag/are_people_using_collibra_to_set_owners_of_tables/)
+2026-11-05 · u/RazzmatazzLiving1323 · Discussion · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo8wag/are_people_using_collibra_to_set_owners_of_tables/) · [↑ back to the list](#last-50-posts)
 
 > Wondering if there's any value add of Collibra to Unity Catalog. Another tool to manage, wondering Databricks Request For Access is sufficient.
 >
 > How does your org manage access to datasets for technical and business users? Collibra or Databricks request for access or DABS?
 
+<a id="post-21"></a>
+
 ### 21. Is working at Databricks as a DSA a technical role or a consultation role
 
-2026-11-04 · u/Extra-Lie-5403 · Discussion · score 10 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo2fx8/is_working_at_databricks_as_a_dsa_a_technical/)
+2026-11-04 · u/Extra-Lie-5403 · Discussion · score 10 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo2fx8/is_working_at_databricks_as_a_dsa_a_technical/) · [↑ back to the list](#last-50-posts)
 
 > Curious to understand what kind of work a DSA do on everyday basis. Is it hands on technical job or do you just provide or consult on technical solutions.
 
+<a id="post-22"></a>
+
 ### 22. Sensitive variables in DABs
 
-2026-11-04 · u/hubert-dudek · News · score 18 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo1fui/sensitive_variables_in_dabs/)
+2026-11-04 · u/hubert-dudek · News · score 18 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xo1fui/sensitive_variables_in_dabs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/yi8cez205ozh1.png>
 
@@ -568,16 +612,20 @@ Link: <https://i.redd.it/yi8cez205ozh1.png>
 >
 > more news [https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2](https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2)
 
+<a id="post-23"></a>
+
 ### 23. I built a connector to stream Sparkplug B payloads into Databricks
 
-2026-11-04 · u/TunoIPTV · General · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnwn7s/i_built_a_connector_to_stream_sparkplug_b/)
+2026-11-04 · u/TunoIPTV · General · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnwn7s/i_built_a_connector_to_stream_sparkplug_b/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-connors-ziswe>
 
 
+<a id="post-24"></a>
+
 ### 24. What's new in AIBI Dashboard - October 2026
 
-2026-11-04 · u/Youssef_Mrini · News · score 28 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnpv9p/whats_new_in_aibi_dashboard_october_2026/)
+2026-11-04 · u/Youssef_Mrini · News · score 28 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnpv9p/whats_new_in_aibi_dashboard_october_2026/) · [↑ back to the list](#last-50-posts)
 
 > I couldn't add the screenshots easily you can find them over here [https://personal.nextgenlakehouse.com/whats-new-in-aibi-dashboard-october-2026-cf83904106ab](https://personal.nextgenlakehouse.com/whats-new-in-aibi-dashboard-october-2026-cf83904106ab) 
 >
@@ -636,9 +684,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 > >  
 > >AI/BI Dashboard are transitioning into a mature, full-scale replacement for Power BI and Tableau by pairing automated bulk migration with enterprise-grade data modeling and interactivity. Coupled with native Lakehouse performance, Genie expands beyond basic Q&A into an end-to-end co-pilot that actively builds dashboards, optimizes compute, and surfaces automated insights.
 
+<a id="post-25"></a>
+
 ### 25. What’s new in Genie Agents — October 2026
 
-2026-11-04 · u/Youssef_Mrini · News · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnl8xm/whats_new_in_genie_agents_october_2026/)
+2026-11-04 · u/Youssef_Mrini · News · score 14 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnl8xm/whats_new_in_genie_agents_october_2026/) · [↑ back to the list](#last-50-posts)
 
 > Databricks has introduced significant feature upgrades to Genie Agents, enhancing execution speed with Flash mode, expanding external tool actions via MCP, automating volume knowledge search, and introducing granular budget access controls.
 >
@@ -672,15 +722,19 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > * [Budgets used to manage Genie costs support access control lists (ACLs)](https://docs.databricks.com/aws/en/genie/budgets): Account admins and workspace admins can grant the **Budget Manager** or **Budget Viewer** role to specific users, groups, or Databricks service principals, delegating who can view and manage each budget.
 
+<a id="post-26"></a>
+
 ### 26. Data + AI Tour
 
-2026-11-04 · u/InviteApprehensive10 · General · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnjtss/data_ai_tour/)
+2026-11-04 · u/InviteApprehensive10 · General · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnjtss/data_ai_tour/) · [↑ back to the list](#last-50-posts)
 
 > Anyone at the SAP Garden who would like to connect?
 
+<a id="post-27"></a>
+
 ### 27. We pointed an AI agent at 146M NYC taxi rows and asked it to build a Data Vault mart. Here's what broke.
 
-2026-11-04 · u/No_Advertising2536 · Discussion · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnj8dm/we_pointed_an_ai_agent_at_146m_nyc_taxi_rows_and/)
+2026-11-04 · u/No_Advertising2536 · Discussion · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xnj8dm/we_pointed_an_ai_agent_at_146m_nyc_taxi_rows_and/) · [↑ back to the list](#last-50-posts)
 
 > A while ago I said I'd run our agent on dirty data, not clean TPC-H. Here's the first run.
 >
@@ -724,9 +778,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Happy to share the reconciliation queries if anyone wants to poke holes in this.
 
+<a id="post-28"></a>
+
 ### 28. GraveTrail Lineage tool
 
-2026-11-04 · u/TkGraveWalkeRr · Discussion · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xneljy/gravetrail_lineage_tool/)
+2026-11-04 · u/TkGraveWalkeRr · Discussion · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xneljy/gravetrail_lineage_tool/) · [↑ back to the list](#last-50-posts)
 
 > Hi All
 >
@@ -740,9 +796,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Good, bad, need improvements , something like this already exists
 
+<a id="post-29"></a>
+
 ### 29. Template columns for zerobus-ingest
 
-2026-11-03 · u/SmallAd3697 · Discussion · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xn97jc/template_columns_for_zerobusingest/)
+2026-11-03 · u/SmallAd3697 · Discussion · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xn97jc/template_columns_for_zerobusingest/) · [↑ back to the list](#last-50-posts)
 
 > I'm pretty certain this would go way down at the bottom of the priority list.  It may never be implemented at all...  
 >
@@ -752,15 +810,19 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Zerobus-ingest hasn't been GA for very long, and maybe these sorts of features will be added down the road.  I thought I'd at least put a placeholder here, to start the discussion.
 
+<a id="post-30"></a>
+
 ### 30. Free Databricks Partner meetup Chicago (November 12)
 
-2026-11-03 · u/marianalemusm · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xn6hx1/free_databricks_partner_meetup_chicago_november_12/)
+2026-11-03 · u/marianalemusm · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xn6hx1/free_databricks_partner_meetup_chicago_november_12/) · [↑ back to the list](#last-50-posts)
 
 > Register here: https://luma.com/641xqy76
 
+<a id="post-31"></a>
+
 ### 31. Multiple RTM flows per pipeline and source stage adaptive repartitioning are now in Beta!
 
-2026-11-03 · u/Careless-Courage1560 · General · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmzy6f/multiple_rtm_flows_per_pipeline_and_source_stage/)
+2026-11-03 · u/Careless-Courage1560 · General · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmzy6f/multiple_rtm_flows_per_pipeline_and_source_stage/) · [↑ back to the list](#last-50-posts)
 
 > Hi folks, we have released these new features to make **Real-Time Mode (RTM) pipelines easier to manage and cheaper to run on Databricks Serverless SDP**. Both capabilities are now in Beta on the Preview channel.
 >
@@ -796,9 +858,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Give it a try!
 
+<a id="post-32"></a>
+
 ### 32. Bricktalk: Zerobus Ingest & CDC Workflows
 
-2026-11-03 · u/Defiant-Pause9053 · General · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmzk7s/bricktalk_zerobus_ingest_cdc_workflows/)
+2026-11-03 · u/Defiant-Pause9053 · General · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmzk7s/bricktalk_zerobus_ingest_cdc_workflows/) · [↑ back to the list](#last-50-posts)
 
 > Hello Zerobus Ingest friends! Mark your calendars for the Zerobus BricksTalk featuring **Omkar Mehta** from **NVIDIA** and **Wagner Santos**, about their contribution of Zerobus as a sink in Debezium. We will discuss why they are using Debezium for Postgres CDC ingestion and how Zerobus is strategically important for streamlining data to Databricks.
 >
@@ -825,9 +889,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > https://i.redd.it/mdkiptssofzh1.gif
 
+<a id="post-33"></a>
+
 ### 33. Databricks Apps vs AKS + Lakebase for Business Applications
 
-2026-11-03 · u/Conscious_Awareness6 · Discussion · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmymtn/databricks_apps_vs_aks_lakebase_for_business/)
+2026-11-03 · u/Conscious_Awareness6 · Discussion · score 8 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmymtn/databricks_apps_vs_aks_lakebase_for_business/) · [↑ back to the list](#last-50-posts)
 
 > We’re currently evaluating two architecture options for an enterprise business application:
 >
@@ -849,9 +915,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Would appreciate any real-world experience or lessons learned, especially from those who have worked with both approaches.
 
+<a id="post-34"></a>
+
 ### 34. What’s the most confusing Databricks error message you’ve ever seen?
 
-2026-11-03 · u/No_Ambition8323 · General · score 12 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmxae6/whats_the_most_confusing_databricks_error_message/)
+2026-11-03 · u/No_Ambition8323 · General · score 12 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmxae6/whats_the_most_confusing_databricks_error_message/) · [↑ back to the list](#last-50-posts)
 
 > Mine is Py4JJavaError: An error occurred while calling...   followed by a stack trace that’s hundreds of lines long. The real problem was a simple wrong column name, hidden way down in the middle of all that text.
 >
@@ -864,9 +932,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 >
 > Let’s make a list so the next person doesn’t waste hours on the same thing!
 
+<a id="post-35"></a>
+
 ### 35. What's new in Genie One October 2026
 
-2026-11-03 · u/Youssef_Mrini · News · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmpnh5/whats_new_in_genie_one_october_2026/)
+2026-11-03 · u/Youssef_Mrini · News · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmpnh5/whats_new_in_genie_one_october_2026/) · [↑ back to the list](#last-50-posts)
 
 > Databricks has introduced significant feature upgrades to **Genie One**, enhancing its conversational user experience, secure code execution capabilities, governed skill sharing and collaborative team access.
 >
@@ -898,9 +968,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 > * **Group memberships in user info**: When Genie One retrieves a user’s information, it also returns the user’s group memberships. You can use workspace instructions and table descriptions to tailor how Genie One responds to members of specific groups.
 > * **Remembered sign-in email in the Genie mobile app (Public Preview)**: The Genie mobile app remembers the email address of the last user who signed in and prefills it at the next sign-in. See[ Use Genie on mobile](https://docs.databricks.com/aws/en/genie-one/mobile).
 
+<a id="post-36"></a>
+
 ### 36. Job completion triggers (now available in Beta!)
 
-2026-11-03 · u/saad-the-engineer · General · score 68 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmpj93/job_completion_triggers_now_available_in_beta/)
+2026-11-03 · u/saad-the-engineer · General · score 68 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmpj93/job_completion_triggers_now_available_in_beta/) · [↑ back to the list](#last-50-posts)
 
 > <Databricks PM here/>  
 > You can now trigger a job on completion of one or more upstream jobs.
@@ -924,9 +996,11 @@ Link: <https://www.linkedin.com/pulse/sparkplug-b-databricks-made-easy-nick-conn
 > * Is the AND-across-jobs default the right one, or do you expect OR
 > * What are you chaining? We're curious whether the cross-workspace case is key for you, or mostly the fan-in "wait for all my ingestion jobs" pattern.
 
+<a id="post-37"></a>
+
 ### 37. Databricks 5 Minute Features: Tag Automation
 
-2026-11-03 · u/Remarkable_Rock5474 · Tutorial · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmowm5/databricks_5_minute_features_tag_automation/)
+2026-11-03 · u/Remarkable_Rock5474 · Tutorial · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmowm5/databricks_5_minute_features_tag_automation/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=HIilq57IOG4&si=3f5PUpwBExyMYmXJ>
 
@@ -936,9 +1010,11 @@ Link: <https://youtube.com/watch?v=HIilq57IOG4&si=3f5PUpwBExyMYmXJ>
 >
 > As always, please feel free to leave feedback or topics for future videos
 
+<a id="post-38"></a>
+
 ### 38. Databricks now supports job completion trigger
 
-2026-11-03 · u/szymon_dybczak · General · score 20 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmonks/databricks_now_supports_job_completion_trigger/)
+2026-11-03 · u/szymon_dybczak · General · score 20 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmonks/databricks_now_supports_job_completion_trigger/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -956,9 +1032,11 @@ Link: <https://youtube.com/watch?v=HIilq57IOG4&si=3f5PUpwBExyMYmXJ>
 >
 > https://i.redd.it/11pqi0pn1dzh1.png
 
+<a id="post-39"></a>
+
 ### 39. New features in Lakeflow Designer this month (October drop)
 
-2026-11-03 · u/zaboca_v · General · score 16 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmjva5/new_features_in_lakeflow_designer_this_month/)
+2026-11-03 · u/zaboca_v · General · score 16 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xmjva5/new_features_in_lakeflow_designer_this_month/) · [↑ back to the list](#last-50-posts)
 
 > Hi folks, I'm from the product team working on Lakeflow Designer. Here are some new features released over the last month:  
 >
@@ -1007,9 +1085,11 @@ Link: <https://youtube.com/watch?v=HIilq57IOG4&si=3f5PUpwBExyMYmXJ>
 >
 > https://i.redd.it/g4c5mdk8vbzh1.png
 
+<a id="post-40"></a>
+
 ### 40. ACTUALLY USEFUL Big Data Project Ideas
 
-2026-11-02 · u/mulberry-cream · Help · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma8lw/actually_useful_big_data_project_ideas/)
+2026-11-02 · u/mulberry-cream · Help · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma8lw/actually_useful_big_data_project_ideas/) · [↑ back to the list](#last-50-posts)
 
 > Heyy everyone!
 >
@@ -1030,9 +1110,11 @@ Link: <https://youtube.com/watch?v=HIilq57IOG4&si=3f5PUpwBExyMYmXJ>
 >
 > Practitioners, help me with some ideas? (ChatGPT and Claude didn't help much).
 
+<a id="post-41"></a>
+
 ### 41. JDBC connections in Unity Catalog
 
-2026-11-02 · u/hubert-dudek · News · score 23 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma6lu/jdbc_connections_in_unity_catalog/)
+2026-11-02 · u/hubert-dudek · News · score 23 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma6lu/jdbc_connections_in_unity_catalog/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zpkqh48hp9zh1.png>
 
@@ -1040,23 +1122,29 @@ Link: <https://i.redd.it/zpkqh48hp9zh1.png>
 >
 > More news [https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2](https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2)
 
+<a id="post-42"></a>
+
 ### 42. New in Lakeflow Designer this month 👇
 
-2026-11-02 · u/zaboca_v · News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma2el/new_in_lakeflow_designer_this_month/)
+2026-11-02 · u/zaboca_v · News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xma2el/new_in_lakeflow_designer_this_month/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xma2el>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-43"></a>
+
 ### 43. Vocal fry
 
-2026-11-02 · u/LegitimateSale9822 · Discussion · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm8kkw/vocal_fry/)
+2026-11-02 · u/LegitimateSale9822 · Discussion · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm8kkw/vocal_fry/) · [↑ back to the list](#last-50-posts)
 
 > Anyone get annoyed as well by the vocal fry from the updated platform episode on academy?
 
+<a id="post-44"></a>
+
 ### 44. I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way
 
-2026-11-02 · u/No_Advertising2536 · Discussion · score 2 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_data_engineer_that_runs_as_a/)
+2026-11-02 · u/No_Advertising2536 · Discussion · score 2 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_data_engineer_that_runs_as_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm the founder of AI Data Engineer, so take this with that in mind.
 >
@@ -1076,9 +1164,11 @@ Link: <https://www.reddit.com/gallery/1xma2el>
 >
 > **Where it is now:** a 30M row TPC-H mart matched a direct query on the source with zero mismatches across 3,213 checked cells, and an incremental build after 1,000 updates and 100 deletes matched exactly. Once a mart is built, one click makes an AI/BI dashboard and a Genie space on top of it.
 
+<a id="post-45"></a>
+
 ### 45. Monorepo setup
 
-2026-11-02 · u/ptab0211 · Discussion · score 15 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm002a/monorepo_setup/)
+2026-11-02 · u/ptab0211 · Discussion · score 15 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xm002a/monorepo_setup/) · [↑ back to the list](#last-50-posts)
 
 > Hi, we are splitting our Databricks monorepo into multiple DABs bundles and i would like to hear how others set it up.
 >
@@ -1106,47 +1196,59 @@ Link: <https://www.reddit.com/gallery/1xma2el>
 >
 > Is someone running multiple bundles in one repo like this? Would you keep one release train for all bundles instead, or do you have a better layout?
 
+<a id="post-46"></a>
+
 ### 46. Apache Spark 4.3: What Developers Need to Know
 
-2026-11-02 · u/Lenkz · General · score 22 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlwars/apache_spark_43_what_developers_need_to_know/)
+2026-11-02 · u/Lenkz · General · score 22 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlwars/apache_spark_43_what_developers_need_to_know/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?sk=9da546846112e07966435aa60a289207>
 
 > *Spark 4.3 adds ASOF JOIN, Python UDFs compiled to SQL, JSON\_TABLE, and SCD Type 2 Auto CDC: what works, what needs a flag, and what breaks*
+
+<a id="post-47"></a>
 
 ### 47. Apache Spark 4.3: What Developers Need to Know
 
-2026-11-02 · u/Lenkz · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlwa02/apache_spark_43_what_developers_need_to_know/)
+2026-11-02 · u/Lenkz · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlwa02/apache_spark_43_what_developers_need_to_know/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?sk=9da546846112e07966435aa60a289207>
 
 > *Spark 4.3 adds ASOF JOIN, Python UDFs compiled to SQL, JSON\_TABLE, and SCD Type 2 Auto CDC: what works, what needs a flag, and what breaks*
 
+<a id="post-48"></a>
+
 ### 48. Use Serverless SQL Warehouses to bypass workspace cluster startup latency
 
-2026-11-02 · u/AbilyticsEng · General · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlry30/use_serverless_sql_warehouses_to_bypass_workspace/)
+2026-11-02 · u/AbilyticsEng · General · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlry30/use_serverless_sql_warehouses_to_bypass_workspace/) · [↑ back to the list](#last-50-posts)
 
 > For transparency, I work at Abilytics, a data and AI consulting firm.  
 >
 > Serverless SQL Warehouses keep compute instances warm and ready, eliminating the cold-start delay of traditional JDBC/ODBC or classic clusters. When building BI dashboards or running ad-hoc queries, standard warehouses often waste minutes spinning up nodes. Serverless decouples the control plane and compute plane, provisioning resources instantly. Configure your warehouse type to 'Serverless' in the UI or via the Databricks SQL API using 'warehouse\_type': 'SERVERLESS'. This ensures concurrent queries scale out instantly without waiting for node provisioning, dropping your p95 latency significantly for bursty analytical workloads.
 
+<a id="post-49"></a>
+
 ### 49. Log custom PyFunc models with MLflow using python_model
 
-2026-11-02 · u/AbilyticsEng · General · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlrwyi/log_custom_pyfunc_models_with_mlflow_using_python/)
+2026-11-02 · u/AbilyticsEng · General · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlrwyi/log_custom_pyfunc_models_with_mlflow_using_python/) · [↑ back to the list](#last-50-posts)
 
 > I work at Abilytics (data and AI consulting), so I'm not a neutral party here.  
 >
 > If standard MLflow flavors do not fit your custom inference pipeline, subclass mlflow.pyfunc.PythonModel and override the load\_context and predict methods. This ensures any custom deserialization logic or specialized third-party library dependencies execute safely within the worker environment during batch scoring or serving. When logging the model via mlflow.pyfunc.log\_model, always supply the artifacts dictionary parameter to bundle necessary configuration files or tokenizer states directly into the artifact store. This prevents missing file errors on the scoring cluster because MLflow packs those dependencies into the model directory structure automatically. Call the model back downstream using mlflow.pyfunc.load\_model with the runs:/ URI scheme to execute distributed inference via Spark UDFs without rewriting code for production clusters.
 
+<a id="post-50"></a>
+
 ### 50. spark shuffle optimization
 
-2026-11-02 · u/NormalControl2342 · Discussion · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlro8k/spark_shuffle_optimization/)
+2026-11-02 · u/NormalControl2342 · Discussion · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xlro8k/spark_shuffle_optimization/) · [↑ back to the list](#last-50-posts)
 
 > so which tools u guys spark shuffle optimization among the likes of dataflint, dualbird etc?
 
+<a id="post-51"></a>
+
 ### 51. A full month-end finance app built on Databricks Apps
 
-2026-10-24 · u/oneaffidavit1 · General · score 117 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xebsig/a_full_monthend_finance_app_built_on_databricks/)
+2026-10-24 · u/oneaffidavit1 · General · score 117 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xebsig/a_full_monthend_finance_app_built_on_databricks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/rm34hbcmpfxh1>
 
@@ -1162,9 +1264,11 @@ Link: <https://v.redd.it/rm34hbcmpfxh1>
 >
 > Under the hood: seven Delta tables in Unity Catalog, read through a SQL warehouse, with the app running as a Databricks App in Python. All the finance logic (consolidation, budget variances, the close tracker, the cash forecast) sits in one file that a finance analyst could read.
 
+<a id="post-52"></a>
+
 ### 52. Had a call with a Databricks PM this week and found out about all the cool things!
 
-2026-10-22 · u/OkImprovement7010 · General · score 83 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xcysi4/had_a_call_with_a_databricks_pm_this_week_and/)
+2026-10-22 · u/OkImprovement7010 · General · score 83 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xcysi4/had_a_call_with_a_databricks_pm_this_week_and/) · [↑ back to the list](#last-50-posts)
 
 > Spent 30 minutes on a product discovery call with u/saad-the-engineer from Databricks on Tuesday. Supposed to be about Unity Catalog triggers for jobs. We wandered.
 >
@@ -1186,9 +1290,11 @@ Link: <https://v.redd.it/rm34hbcmpfxh1>
 >
 > Side note, Scott Haines and I are doing a live session on the Iceberg updates at the end of the month. Let me know if you are interested and I'll share the link!
 
+<a id="post-53"></a>
+
 ### 53. Databricks Genie Ontology Explained \| Demo with Databricks Product Manager
 
-2026-10-19 · u/JosueBogran · Tutorial · score 52 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x9ktn4/databricks_genie_ontology_explained_demo_with/)
+2026-10-19 · u/JosueBogran · Tutorial · score 52 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x9ktn4/databricks_genie_ontology_explained_demo_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/HtR5m5VjaDQ>
 
@@ -1214,9 +1320,11 @@ Link: <https://youtu.be/HtR5m5VjaDQ>
 >
 > PS: I really appreciate your honest feedback. Knowing what really hits home for you in this video and/or what you feel the video could have done better helps me serve you better through my content!
 
+<a id="post-54"></a>
+
 ### 54. Databricks BI vs Power BI: what are the actual dealbreakers?
 
-2026-10-13 · u/Dampfschlaghammer · Discussion · score 50 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x57ioc/databricks_bi_vs_power_bi_what_are_the_actual/)
+2026-10-13 · u/Dampfschlaghammer · Discussion · score 50 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x57ioc/databricks_bi_vs_power_bi_what_are_the_actual/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -1228,9 +1336,11 @@ Link: <https://youtu.be/HtR5m5VjaDQ>
 >
 > What concrete requirements still make Power BI essential, beyond familiarity or better-looking reports? Anyone tried this at enterprise scale and hit a hard wall?
 
+<a id="post-55"></a>
+
 ### 55. I thought Databricks Lakebase was expensive
 
-2026-10-11 · u/Significant-Guest-14 · General · score 45 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x33t4n/i_thought_databricks_lakebase_was_expensive/)
+2026-10-11 · u/Significant-Guest-14 · General · score 45 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x33t4n/i_thought_databricks_lakebase_was_expensive/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/adts9h7s3tuh1.png>
 
@@ -1240,9 +1350,11 @@ Link: <https://i.redd.it/adts9h7s3tuh1.png>
 >
 > Obviously, it depends on the workload, but I think I dismissed Lakebase too quickly without actually looking at the pricing. Anyone running Lakebase in production? Curious how much you're actually spending and whether it's worth it.
 
+<a id="post-56"></a>
+
 ### 56. Databricks Genie agent.
 
-2026-10-24 · u/Limp-Hovercraft7990 · Discussion · score 43 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xe2uzw/databricks_genie_agent/)
+2026-10-24 · u/Limp-Hovercraft7990 · Discussion · score 43 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xe2uzw/databricks_genie_agent/) · [↑ back to the list](#last-50-posts)
 
 > My company wants to roll out a Databricks Genie agent to around 5,000 users, with these requirements:
 >
@@ -1253,9 +1365,11 @@ Link: <https://i.redd.it/adts9h7s3tuh1.png>
 >
 > I’ve gone through the official Databricks documentation but haven’t found concrete guidance on achieving or measuring these. How would you approach this? Any architecture patterns, evaluation frameworks, or lessons from similar rollouts would be really helpful.
 
+<a id="post-57"></a>
+
 ### 57. Simplifying networking for serverless
 
-2026-10-15 · u/databricksplatform · Discussion · score 43 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x6d5xt/simplifying_networking_for_serverless/)
+2026-10-15 · u/databricksplatform · Discussion · score 43 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x6d5xt/simplifying_networking_for_serverless/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, I'm a PM working on platform at Databricks. We just shipped Private Network Gateway (PNG) to public preview on Azure (PrPr on AWS, coming soon on GCP).   
 >
@@ -1275,9 +1389,11 @@ Link: <https://i.redd.it/adts9h7s3tuh1.png>
 >
 > https://i.redd.it/xbvv9d4cfkvh1.png
 
+<a id="post-58"></a>
+
 ### 58. Databricks World. I think they forgot the Pirates of Renaming
 
-2026-10-20 · u/Significant-Guest-14 · General · score 43 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xasw9c/databricks_world_i_think_they_forgot_the_pirates/)
+2026-10-20 · u/Significant-Guest-14 · General · score 43 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xasw9c/databricks_world_i_think_they_forgot_the_pirates/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/eoryfcmkomwh1.jpeg>
 
@@ -1289,9 +1405,11 @@ Link: <https://i.redd.it/eoryfcmkomwh1.jpeg>
 >
 > What should I add to the map next?
 
+<a id="post-59"></a>
+
 ### 59. Databricks AI Decide plays KSP, that was a fun evening
 
-2026-10-15 · u/lothorp · General · score 39 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x6g1t7/databricks_ai_decide_plays_ksp_that_was_a_fun/)
+2026-10-15 · u/lothorp · General · score 39 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x6g1t7/databricks_ai_decide_plays_ksp_that_was_a_fun/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/994dqf8ublvh1.gif>
 
@@ -1309,25 +1427,31 @@ Link: <https://i.redd.it/994dqf8ublvh1.gif>
 >
 > Check out the AI Decide announcement here: [**https://www.databricks.com/blog/introducing-aidecide-make-fast-decisions-your-governed-data**](https://www.databricks.com/blog/introducing-aidecide-make-fast-decisions-your-governed-data)
 
+<a id="post-60"></a>
+
 ### 60. Databricks compute management is so bad
 
-2026-10-20 · u/PerceptionBig940 · Discussion · score 36 · 47 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xay7yp/databricks_compute_management_is_so_bad/)
+2026-10-20 · u/PerceptionBig940 · Discussion · score 36 · 47 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xay7yp/databricks_compute_management_is_so_bad/) · [↑ back to the list](#last-50-posts)
 
 > Why serverless pipelines have to wait 10 minutes to get compute?  
 > Why don’t you track the compute usuage across region or pool and already keep certain number pre warmed computes available??
 >
 > I don’t want to pay more money for performance optimized serverless compute.
 
+<a id="post-61"></a>
+
 ### 61. Cut Your MCP Token Bill by 97%: Code Mode on Databricks
 
-2026-10-26 · u/Limp-Park7849 · Tutorial · score 35 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xfx8i2/cut_your_mcp_token_bill_by_97_code_mode_on/)
+2026-10-26 · u/Limp-Park7849 · Tutorial · score 35 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xfx8i2/cut_your_mcp_token_bill_by_97_code_mode_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://farhathadi.substack.com/p/cut-your-mcp-token-bill-by-97-code>
 
 
+<a id="post-62"></a>
+
 ### 62. DataFrame caching is now in Public Preview on Databricks serverless compute: df.cache() and df.persist() finally work there
 
-2026-10-26 · u/Lenkz · General · score 35 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xfp1f7/dataframe_caching_is_now_in_public_preview_on/)
+2026-10-26 · u/Lenkz · General · score 35 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xfp1f7/dataframe_caching_is_now_in_public_preview_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/i6au7vhi7rxh1.png>
 
@@ -1338,9 +1462,11 @@ Link: <https://i.redd.it/i6au7vhi7rxh1.png>
 >
 > Read more: [linkedin post](https://www.linkedin.com/posts/cenh_databricks-dataengineering-apachespark-share-7520131668536623105-1YMw/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7520131670881214464&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAABmJHrsBNAC3x3H1M58JRKoHv_l4D61n0-8)
 
+<a id="post-63"></a>
+
 ### 63. Starting out on Databricks
 
-2026-10-30 · u/adwaithpn · Help · score 34 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xj8517/starting_out_on_databricks/)
+2026-10-30 · u/adwaithpn · Help · score 34 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xj8517/starting_out_on_databricks/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -1368,9 +1494,11 @@ Link: <https://i.redd.it/i6au7vhi7rxh1.png>
 >
 > Thanks!
 
+<a id="post-64"></a>
+
 ### 64. Things I miss on Databricks
 
-2026-10-12 · u/Select_Morning8221 · Discussion · score 31 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x4ggpc/things_i_miss_on_databricks/)
+2026-10-12 · u/Select_Morning8221 · Discussion · score 31 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1x4ggpc/things_i_miss_on_databricks/) · [↑ back to the list](#last-50-posts)
 
 > Here are a couple of things I miss on Databricks:
 >
@@ -1390,9 +1518,11 @@ Link: <https://i.redd.it/i6au7vhi7rxh1.png>
 >
 > What else do you miss in Databricks?
 
+<a id="post-65"></a>
+
 ### 65. Audio transcription in SQL
 
-2026-10-22 · u/hubert-dudek · News · score 31 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xcqmwb/audio_transcription_in_sql/)
+2026-10-22 · u/hubert-dudek · News · score 31 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xcqmwb/audio_transcription_in_sql/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kvqdnx3va2xh1.png>
 
@@ -1400,9 +1530,11 @@ Link: <https://i.redd.it/kvqdnx3va2xh1.png>
 >
 > more news [https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2](https://medium.com/databrickscommunity/databricks-news-genie-cli-app-builder-agent-memory-dabs-41820427fcc2)
 
+<a id="post-66"></a>
+
 ### 66. This Halloween, I'm building a horror game where the only way to survive is to migrate to Databricks
 
-2026-10-31 · u/Significant-Guest-14 · Discussion · score 31 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xkj596/this_halloween_im_building_a_horror_game_where/)
+2026-10-31 · u/Significant-Guest-14 · Discussion · score 31 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xkj596/this_halloween_im_building_a_horror_game_where/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/2251q644tuyh1>
 
@@ -1416,9 +1548,11 @@ Link: <https://v.redd.it/2251q644tuyh1>
 >
 > The game will be hosted on a website [https://bricksters.org/learning/xpedition/](https://bricksters.org/learning/xpedition/), which already features a few other things.
 
+<a id="post-67"></a>
+
 ### 67. Modern Family TV Show: Analytics Dashboard Built with Databricks Apps
 
-2026-11-01 · u/oneaffidavit1 · General · score 30 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xku2p4/modern_family_tv_show_analytics_dashboard_built/)
+2026-11-01 · u/oneaffidavit1 · General · score 30 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xku2p4/modern_family_tv_show_analytics_dashboard_built/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/n74lh7w8ixyh1>
 
@@ -1428,9 +1562,11 @@ Link: <https://v.redd.it/n74lh7w8ixyh1>
 >
 > The data comes from Wikipedia and IMDb's non-commercial datasets.
 
+<a id="post-68"></a>
+
 ### 68. Is Databricks the right solution for a team of 3 data scientists?
 
-2026-10-29 · u/Mother_Seaweed8987 · Discussion · score 29 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xipu4d/is_databricks_the_right_solution_for_a_team_of_3/)
+2026-10-29 · u/Mother_Seaweed8987 · Discussion · score 29 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xipu4d/is_databricks_the_right_solution_for_a_team_of_3/) · [↑ back to the list](#last-50-posts)
 
 > As a small 3 person data science team we really need a way of easily deploying and managing our models, as well as connecting to our siloed data sources. We currently use Vertex AI (as I still call it) where we spend way too long productionising and we are performing several different roles to deliver the models. It clearly is not the right solution for a team our size.
 >
@@ -1438,9 +1574,11 @@ Link: <https://v.redd.it/n74lh7w8ixyh1>
 >
 > But researching further it feels like we might just be swapping one set of issues for another in Databricks (managing clusters, debugging Spark jobs, production code in notebooks, etc.) Or will it actually work well and save time for a small, fast moving team?
 
+<a id="post-69"></a>
+
 ### 69. Genie App Builder
 
-2026-10-30 · u/hubert-dudek · News · score 29 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xjt71h/genie_app_builder/)
+2026-10-30 · u/hubert-dudek · News · score 29 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/databricks/comments/1xjt71h/genie_app_builder/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9p6ddf6hjoyh1.png>
 

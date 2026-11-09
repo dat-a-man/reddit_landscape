@@ -27,33 +27,33 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-05-05 | [A guide to setting up dbt with Snowflake](https://www.reddit.com/r/dataops/comments/1t49e75/a_guide_to_setting_up_dbt_with_snowflake/) | u/Data-Queen-Mayra | — | text | 1 | 0 | spam-filtered | — |
-| 2 | 2025-09-11 | [Metadata is the New Oil: Fueling the AI-Ready Data Stack](https://www.reddit.com/r/dataops/comments/1neeayt/metadata_is_the_new_oil_fueling_the_aiready_data/) | u/SelectStarData | — | selectstar.com | 2 | 0 | live | — |
-| 3 | 2025-01-14 | [Building a Smarter Data Foundation: HDC Hyundai's Journey to AI-Ready Data](https://www.reddit.com/r/dataops/comments/1i0vyau/building_a_smarter_data_foundation_hdc_hyundais/) | u/SelectStarData | — | selectstar.com | 1 | 0 | live | — |
-| 4 | 2024-11-15 | [Avoid Costly Data Migrations: 10 Factors for Choosing the Right Partner](https://www.reddit.com/r/dataops/comments/1gs1ujq/avoid_costly_data_migrations_10_factors_for/) | u/Data-Queen-Mayra | — | text | 1 | 0 | live | — |
-| 5 | 2024-07-11 | [Not all orgs are ready for dbt](https://www.reddit.com/r/dataops/comments/1e0udct/not_all_orgs_are_ready_for_dbt/) | u/Data-Queen-Mayra | — | text | 0 | 0 | live | — |
-| 6 | 2024-05-24 | [dbt alternatives: dbt-core alternatives, dbt Cloud alternatives, and Graphical ETL tools](https://www.reddit.com/r/dataops/comments/1czpso4/dbt_alternatives_dbtcore_alternatives_dbt_cloud/) | u/Data-Queen-Mayra | — | text | 2 | 0 | live | — |
-| 7 | 2024-04-23 | [The Data Engineer's Guide to Building Data Products in Minutes, not Months](https://www.reddit.com/r/dataops/comments/1cbbf4b/the_data_engineers_guide_to_building_data/) | u/Dkreig | — | text | 1 | 1 | live | — |
-| 8 | 2024-02-26 | [Automation in Data Operations: Boosting Productivity and Accuracy](https://www.reddit.com/r/dataops/comments/1b0aztw/automation_in_data_operations_boosting/) | u/Beautiful-Ad-7743 | — | text | 1 | 0 | live | — |
-| 9 | 2024-02-15 | [Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman](https://www.reddit.com/r/dataops/comments/1ark6pa/designing_data_governance_from_the_ground_up/) | u/goto-con | — | open.spotify.com | 1 | 0 | live | — |
-| 10 | 2024-01-25 | [dbt deployment options](https://www.reddit.com/r/dataops/comments/19fds35/dbt_deployment_options/) | u/Data-Queen-Mayra | — | text | 1 | 0 | live | — |
-| 11 | 2023-06-14 | [What is DataOps?](https://www.reddit.com/r/dataops/comments/149caug/what_is_dataops/) | u/Polyseam | — | youtu.be | 3 | 0 | live | — |
-| 12 | 2020-01-23 | [How Data Management should be like driving a car from A to B point.](https://www.reddit.com/r/dataops/comments/esvsyv/how_data_management_should_be_like_driving_a_car/) | u/lensesio | — | thenewstack.io | 3 | 0 | live | — |
-| 13 | 2020-01-04 | [500% increase in Search Volume on #DataOps 2018-2019](https://www.reddit.com/r/dataops/comments/ek0rti/500_increase_in_search_volume_on_dataops_20182019/) | u/botswana99 | — | text | 1 | 0 | spam-filtered | — |
-| 14 | 2019-12-26 | [“How The Data Stole Christmas”](https://www.reddit.com/r/dataops/comments/efpgh1/how_the_data_stole_christmas/) | u/nbracy5 | — | hubs.ly | 1 | 0 | spam-filtered | — |
-| 15 | 2019-11-25 | [Remember Your Freshman Year? Take #DataOps 101. Best Class Ever](https://www.reddit.com/r/dataops/comments/e1m330/remember_your_freshman_year_take_dataops_101_best/) | u/botswana99 | — | text | 2 | 0 | live | — |
-| 16 | 2019-11-15 | [From Data Oops to DataOps: 5 Things You Need to Know](https://www.reddit.com/r/dataops/comments/dwqt9v/from_data_oops_to_dataops_5_things_you_need_to/) | u/knlph | — | humansofdata.atlan.com | 0 | 0 | live | — |
-| 17 | 2019-10-28 | [unicorn excerpt](https://www.reddit.com/r/dataops/comments/doefdm/unicorn_excerpt/) | u/botswana99 | — | text | 1 | 0 | live | — |
-| 18 | 2019-08-26 | [CIO says DataOps top disrupter for 2020](https://www.reddit.com/r/dataops/comments/cvofc9/cio_says_dataops_top_disrupter_for_2020/) | u/botswana99 | — | i.redd.it | 1 | 2 | live | — |
-| 19 | 2019-08-12 | [Best dataops articles in q2](https://www.reddit.com/r/dataops/comments/cpajbg/best_dataops_articles_in_q2/) | u/botswana99 | — | medium.com | 1 | 0 | live | — |
-| 20 | 2019-07-03 | [The “Right to Repair” Data Architecture with DataOps](https://www.reddit.com/r/dataops/comments/c8tlb8/the_right_to_repair_data_architecture_with_dataops/) | u/botswana99 | — | medium.com | 2 | 0 | live | — |
-| 21 | 2019-06-20 | [DatAOps survey](https://www.reddit.com/r/dataops/comments/c2poi3/dataops_survey/) | u/botswana99 | — | finance.yahoo.com | 1 | 0 | live | — |
-| 22 | 2019-06-06 | [DataOps and your friendly neighborhood CDO](https://www.reddit.com/r/dataops/comments/bxacf2/dataops_and_your_friendly_neighborhood_cdo/) | u/botswana99 | — | information-management.com | 1 | 0 | live | — |
-| 23 | 2019-06-05 | [5 requirements for success with DataOps strategies](https://www.reddit.com/r/dataops/comments/bx1h4b/5_requirements_for_success_with_dataops_strategies/) | u/jonasellie | — | information-management.com | 1 | 0 | live | — |
-| 24 | 2019-06-05 | [What is DataOps? Everything You Need to Know](https://www.reddit.com/r/dataops/comments/bwy2l2/what_is_dataops_everything_you_need_to_know/) | u/audiodev | — | datascience.com | 1 | 0 | live | — |
-| 25 | 2019-05-29 | [DatAops](https://www.reddit.com/r/dataops/comments/bu8r1o/dataops/) | u/botswana99 | — | dbta.com | 1 | 0 | live | — |
-| 26 | 2019-05-21 | [What tools are needed?](https://www.reddit.com/r/dataops/comments/brgm8w/what_tools_are_needed/) | u/burnthisnameafteruse | — | text | 1 | 6 | live | — |
-| 27 | 2019-04-24 | [DataOps podcast](https://www.reddit.com/r/dataops/comments/bgpgwy/dataops_podcast/) | u/botswana99 | — | roaringelephant.org | 1 | 0 | live | — |
+| 1 | 2026-05-05 | [A guide to setting up dbt with Snowflake](#post-1) | u/Data-Queen-Mayra | — | text | 1 | 0 | spam-filtered | — |
+| 2 | 2025-09-11 | [Metadata is the New Oil: Fueling the AI-Ready Data Stack](#post-2) | u/SelectStarData | — | selectstar.com | 2 | 0 | live | — |
+| 3 | 2025-01-14 | [Building a Smarter Data Foundation: HDC Hyundai's Journey to AI-Ready Data](#post-3) | u/SelectStarData | — | selectstar.com | 1 | 0 | live | — |
+| 4 | 2024-11-15 | [Avoid Costly Data Migrations: 10 Factors for Choosing the Right Partner](#post-4) | u/Data-Queen-Mayra | — | text | 1 | 0 | live | — |
+| 5 | 2024-07-11 | [Not all orgs are ready for dbt](#post-5) | u/Data-Queen-Mayra | — | text | 0 | 0 | live | — |
+| 6 | 2024-05-24 | [dbt alternatives: dbt-core alternatives, dbt Cloud alternatives, and Graphical ETL tools](#post-6) | u/Data-Queen-Mayra | — | text | 2 | 0 | live | — |
+| 7 | 2024-04-23 | [The Data Engineer's Guide to Building Data Products in Minutes, not Months](#post-7) | u/Dkreig | — | text | 1 | 1 | live | — |
+| 8 | 2024-02-26 | [Automation in Data Operations: Boosting Productivity and Accuracy](#post-8) | u/Beautiful-Ad-7743 | — | text | 1 | 0 | live | — |
+| 9 | 2024-02-15 | [Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman](#post-9) | u/goto-con | — | open.spotify.com | 1 | 0 | live | — |
+| 10 | 2024-01-25 | [dbt deployment options](#post-10) | u/Data-Queen-Mayra | — | text | 1 | 0 | live | — |
+| 11 | 2023-06-14 | [What is DataOps?](#post-11) | u/Polyseam | — | youtu.be | 3 | 0 | live | — |
+| 12 | 2020-01-23 | [How Data Management should be like driving a car from A to B point.](#post-12) | u/lensesio | — | thenewstack.io | 3 | 0 | live | — |
+| 13 | 2020-01-04 | [500% increase in Search Volume on #DataOps 2018-2019](#post-13) | u/botswana99 | — | text | 1 | 0 | spam-filtered | — |
+| 14 | 2019-12-26 | [“How The Data Stole Christmas”](#post-14) | u/nbracy5 | — | hubs.ly | 1 | 0 | spam-filtered | — |
+| 15 | 2019-11-25 | [Remember Your Freshman Year? Take #DataOps 101. Best Class Ever](#post-15) | u/botswana99 | — | text | 2 | 0 | live | — |
+| 16 | 2019-11-15 | [From Data Oops to DataOps: 5 Things You Need to Know](#post-16) | u/knlph | — | humansofdata.atlan.com | 0 | 0 | live | — |
+| 17 | 2019-10-28 | [unicorn excerpt](#post-17) | u/botswana99 | — | text | 1 | 0 | live | — |
+| 18 | 2019-08-26 | [CIO says DataOps top disrupter for 2020](#post-18) | u/botswana99 | — | i.redd.it | 1 | 2 | live | — |
+| 19 | 2019-08-12 | [Best dataops articles in q2](#post-19) | u/botswana99 | — | medium.com | 1 | 0 | live | — |
+| 20 | 2019-07-03 | [The “Right to Repair” Data Architecture with DataOps](#post-20) | u/botswana99 | — | medium.com | 2 | 0 | live | — |
+| 21 | 2019-06-20 | [DatAOps survey](#post-21) | u/botswana99 | — | finance.yahoo.com | 1 | 0 | live | — |
+| 22 | 2019-06-06 | [DataOps and your friendly neighborhood CDO](#post-22) | u/botswana99 | — | information-management.com | 1 | 0 | live | — |
+| 23 | 2019-06-05 | [5 requirements for success with DataOps strategies](#post-23) | u/jonasellie | — | information-management.com | 1 | 0 | live | — |
+| 24 | 2019-06-05 | [What is DataOps? Everything You Need to Know](#post-24) | u/audiodev | — | datascience.com | 1 | 0 | live | — |
+| 25 | 2019-05-29 | [DatAops](#post-25) | u/botswana99 | — | dbta.com | 1 | 0 | live | — |
+| 26 | 2019-05-21 | [What tools are needed?](#post-26) | u/burnthisnameafteruse | — | text | 1 | 6 | live | — |
+| 27 | 2019-04-24 | [DataOps podcast](#post-27) | u/botswana99 | — | roaringelephant.org | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -65,29 +65,37 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. A guide to setting up dbt with Snowflake
 
-2026-05-05 · u/Data-Queen-Mayra · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/1t49e75/a_guide_to_setting_up_dbt_with_snowflake/)
+2026-05-05 · u/Data-Queen-Mayra · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/1t49e75/a_guide_to_setting_up_dbt_with_snowflake/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. Metadata is the New Oil: Fueling the AI-Ready Data Stack
 
-2025-09-11 · u/SelectStarData · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1neeayt/metadata_is_the_new_oil_fueling_the_aiready_data/)
+2025-09-11 · u/SelectStarData · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1neeayt/metadata_is_the_new_oil_fueling_the_aiready_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.selectstar.com/resources/metadata-ai>
 
 
+<a id="post-3"></a>
+
 ### 3. Building a Smarter Data Foundation: HDC Hyundai's Journey to AI-Ready Data
 
-2025-01-14 · u/SelectStarData · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1i0vyau/building_a_smarter_data_foundation_hdc_hyundais/)
+2025-01-14 · u/SelectStarData · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1i0vyau/building_a_smarter_data_foundation_hdc_hyundais/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://selectstar.com/case-studies/hdc-hyundai-journey-to-ai-ready-data>
 
 
+<a id="post-4"></a>
+
 ### 4. Avoid Costly Data Migrations: 10 Factors for Choosing the Right Partner
 
-2024-11-15 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1gs1ujq/avoid_costly_data_migrations_10_factors_for/)
+2024-11-15 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1gs1ujq/avoid_costly_data_migrations_10_factors_for/) · [↑ back to the list](#last-50-posts)
 
 > Most data migrations are complex and high-stakes. While it may not be an everyday task, as a data engineer, it’s important to be aware of the potential risks and rewards. We’ve seen firsthand how choosing the right partner can lead to smooth success, while the wrong choice can result in data loss, hidden costs, compliance failures, and overall headaches.
 >
@@ -100,9 +108,11 @@ Link: <https://selectstar.com/case-studies/hdc-hyundai-journey-to-ai-ready-data>
 >
 > What factors do you consider essential in a data migration partner? Check out our full list, and let’s hear your thoughts!
 
+<a id="post-5"></a>
+
 ### 5. Not all orgs are ready for dbt
 
-2024-07-11 · u/Data-Queen-Mayra · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1e0udct/not_all_orgs_are_ready_for_dbt/)
+2024-07-11 · u/Data-Queen-Mayra · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1e0udct/not_all_orgs_are_ready_for_dbt/) · [↑ back to the list](#last-50-posts)
 
 > Our co-founder posted on LinkedIn last week and many people concurred.
 >
@@ -140,15 +150,19 @@ Link: <https://selectstar.com/case-studies/hdc-hyundai-journey-to-ai-ready-data>
 >
 > For those who’ve gone through this process, how did you determine your organization was ready for dbt? What are your thoughts? Have you seen people jump on the dbt bandwagon only to create more problems? What signs or assessments did you use to ensure it was the right fit?
 
+<a id="post-6"></a>
+
 ### 6. dbt alternatives: dbt-core alternatives, dbt Cloud alternatives, and Graphical ETL tools
 
-2024-05-24 · u/Data-Queen-Mayra · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1czpso4/dbt_alternatives_dbtcore_alternatives_dbt_cloud/)
+2024-05-24 · u/Data-Queen-Mayra · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1czpso4/dbt_alternatives_dbtcore_alternatives_dbt_cloud/) · [↑ back to the list](#last-50-posts)
 
 > [https://datacoves.com/post/dbt-alternatives](https://datacoves.com/post/dbt-alternatives)
 
+<a id="post-7"></a>
+
 ### 7. The Data Engineer's Guide to Building Data Products in Minutes, not Months
 
-2024-04-23 · u/Dkreig · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1cbbf4b/the_data_engineers_guide_to_building_data/)
+2024-04-23 · u/Dkreig · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1cbbf4b/the_data_engineers_guide_to_building_data/) · [↑ back to the list](#last-50-posts)
 
 > In the fast-paced, data-centric world we live in, efficiently creating high-quality data products is crucial. If you're a data engineer or data product owner looking to accelerate your projects, our upcoming webinar might be just what you need!
 >
@@ -167,9 +181,11 @@ Link: <https://selectstar.com/case-studies/hdc-hyundai-journey-to-ai-ready-data>
 >
 > See you there!
 
+<a id="post-8"></a>
+
 ### 8. Automation in Data Operations: Boosting Productivity and Accuracy
 
-2024-02-26 · u/Beautiful-Ad-7743 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1b0aztw/automation_in_data_operations_boosting/)
+2024-02-26 · u/Beautiful-Ad-7743 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1b0aztw/automation_in_data_operations_boosting/) · [↑ back to the list](#last-50-posts)
 
 > Humans have directed mechanical and chemical processes for ages. They have also produced creative works and contributed to the modern understanding of justice. However, automation in the twenty-first century competes with humanity’s idea synthesis and logical capabilities. Artificial intelligence (**AI**) has assisted data processes and technological troubleshooting, implying human efforts’ declining necessity for creative solutions. Modern automated systems are vital to enhancing living standards. This post will overview the role of automation in data operations in boosting productivity and accuracy. 
 >
@@ -239,16 +255,20 @@ Link: <https://selectstar.com/case-studies/hdc-hyundai-journey-to-ai-ready-data>
 >
 > Automation is not about eliminating humans from data operations. Instead, it helps humans redirect their effort from repetitive tasks toward creative problem-solving. Unsurprisingly, Morgan Stanley expects automation-as-a-service (**AaaS**) to surpass 1 trillion US dollars in sales by 2050. So, it is here to stay, thrive, and enhance the industry revolution 4.0 for all stakeholders.
 
+<a id="post-9"></a>
+
 ### 9. Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman
 
-2024-02-15 · u/goto-con · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1ark6pa/designing_data_governance_from_the_ground_up/)
+2024-02-15 · u/goto-con · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/1ark6pa/designing_data_governance_from_the_ground_up/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://open.spotify.com/episode/6yLE7qoTruOuKEcNeKafJK?si=3c865f2cf9bb415b>
 
 
+<a id="post-10"></a>
+
 ### 10. dbt deployment options
 
-2024-01-25 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/19fds35/dbt_deployment_options/)
+2024-01-25 · u/Data-Queen-Mayra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/19fds35/dbt_deployment_options/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, 
 >
@@ -262,122 +282,156 @@ Link: <https://open.spotify.com/episode/6yLE7qoTruOuKEcNeKafJK?si=3c865f2cf9bb41
 >
 > &#x200B;
 
+<a id="post-11"></a>
+
 ### 11. What is DataOps?
 
-2023-06-14 · u/Polyseam · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/149caug/what_is_dataops/)
+2023-06-14 · u/Polyseam · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/149caug/what_is_dataops/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/HNgpk9IUfK4>
 
 
+<a id="post-12"></a>
+
 ### 12. How Data Management should be like driving a car from A to B point.
 
-2020-01-23 · u/lensesio · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/esvsyv/how_data_management_should_be_like_driving_a_car/)
+2020-01-23 · u/lensesio · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/esvsyv/how_data_management_should_be_like_driving_a_car/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://thenewstack.io/dataops-lenses-io-drives-data-with-sql-kafka/>
 
 
+<a id="post-13"></a>
+
 ### 13. 500% increase in Search Volume on #DataOps 2018-2019
 
-2020-01-04 · u/botswana99 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/ek0rti/500_increase_in_search_volume_on_dataops_20182019/)
+2020-01-04 · u/botswana99 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/ek0rti/500_increase_in_search_volume_on_dataops_20182019/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. “How The Data Stole Christmas”
 
-2019-12-26 · u/nbracy5 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/efpgh1/how_the_data_stole_christmas/)
+2019-12-26 · u/nbracy5 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataops/comments/efpgh1/how_the_data_stole_christmas/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://hubs.ly/H0mn4X30>
 
 
+<a id="post-15"></a>
+
 ### 15. Remember Your Freshman Year? Take #DataOps 101. Best Class Ever
 
-2019-11-25 · u/botswana99 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/e1m330/remember_your_freshman_year_take_dataops_101_best/)
+2019-11-25 · u/botswana99 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/e1m330/remember_your_freshman_year_take_dataops_101_best/) · [↑ back to the list](#last-50-posts)
 
 > Why DataOps:  [https://medium.com/data-ops/why-do-dataops-8d4542eec3e5](https://medium.com/data-ops/why-do-dataops-8d4542eec3e5)
 >
 > Top Ten ‘What is DataOps’ Questions:  [https://medium.com/data-ops/what-is-dataops-ten-most-common-questions-ffc09c09c921](https://medium.com/data-ops/what-is-dataops-ten-most-common-questions-ffc09c09c921)
 
+<a id="post-16"></a>
+
 ### 16. From Data Oops to DataOps: 5 Things You Need to Know
 
-2019-11-15 · u/knlph · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/dwqt9v/from_data_oops_to_dataops_5_things_you_need_to/)
+2019-11-15 · u/knlph · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/dwqt9v/from_data_oops_to_dataops_5_things_you_need_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://humansofdata.atlan.com/2019/11/what-is-dataops/>
 
 
+<a id="post-17"></a>
+
 ### 17. unicorn excerpt
 
-2019-10-28 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/doefdm/unicorn_excerpt/)
+2019-10-28 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/doefdm/unicorn_excerpt/) · [↑ back to the list](#last-50-posts)
 
 > New @RealGeneKim Unicorn Project book excerpt!
 > Anyone working with data, analytics, BI, ML or AI models will feel a kinship to the problems the teams encounter ... and cheer them on as they apply #DataOps best practices to succeed.
 >
 > #DOES19 #DevOps lnkd.in/ek2KMFA
 
+<a id="post-18"></a>
+
 ### 18. CIO says DataOps top disrupter for 2020
 
-2019-08-26 · u/botswana99 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/cvofc9/cio_says_dataops_top_disrupter_for_2020/)
+2019-08-26 · u/botswana99 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/cvofc9/cio_says_dataops_top_disrupter_for_2020/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1vh3300xtsi31.png>
 
 
+<a id="post-19"></a>
+
 ### 19. Best dataops articles in q2
 
-2019-08-12 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/cpajbg/best_dataops_articles_in_q2/)
+2019-08-12 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/cpajbg/best_dataops_articles_in_q2/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/data-ops/the-best-dataops-articles-of-q2-2019-1a262c1c1eca>
 
 
+<a id="post-20"></a>
+
 ### 20. The “Right to Repair” Data Architecture with DataOps
 
-2019-07-03 · u/botswana99 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/c8tlb8/the_right_to_repair_data_architecture_with_dataops/)
+2019-07-03 · u/botswana99 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/c8tlb8/the_right_to_repair_data_architecture_with_dataops/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/data-ops/the-right-to-repair-data-architecture-with-dataops-48ea79361f2c>
 
 
+<a id="post-21"></a>
+
 ### 21. DatAOps survey
 
-2019-06-20 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/c2poi3/dataops_survey/)
+2019-06-20 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/c2poi3/dataops_survey/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://finance.yahoo.com/news/survey-finds-majority-businesses-u-123000437.html>
 
 
+<a id="post-22"></a>
+
 ### 22. DataOps and your friendly neighborhood CDO
 
-2019-06-06 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bxacf2/dataops_and_your_friendly_neighborhood_cdo/)
+2019-06-06 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bxacf2/dataops_and_your_friendly_neighborhood_cdo/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.information-management.com/opinion/surviving-and-thriving-in-year-three-as-a-chief-data-officer>
 
 
+<a id="post-23"></a>
+
 ### 23. 5 requirements for success with DataOps strategies
 
-2019-06-05 · u/jonasellie · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bx1h4b/5_requirements_for_success_with_dataops_strategies/)
+2019-06-05 · u/jonasellie · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bx1h4b/5_requirements_for_success_with_dataops_strategies/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.information-management.com/opinion/5-requirements-for-success-with-dataops-strategies>
 
 
+<a id="post-24"></a>
+
 ### 24. What is DataOps? Everything You Need to Know
 
-2019-06-05 · u/audiodev · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bwy2l2/what_is_dataops_everything_you_need_to_know/)
+2019-06-05 · u/audiodev · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bwy2l2/what_is_dataops_everything_you_need_to_know/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.datascience.com/blog/what-is-dataops>
 
 
+<a id="post-25"></a>
+
 ### 25. DatAops
 
-2019-05-29 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bu8r1o/dataops/)
+2019-05-29 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bu8r1o/dataops/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://www.dbta.com/Editorial/News-Flashes/Building-Successful-Big-Data-Projects-with-DataOps-131917.aspx>
 
 
+<a id="post-26"></a>
+
 ### 26. What tools are needed?
 
-2019-05-21 · u/burnthisnameafteruse · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/brgm8w/what_tools_are_needed/)
+2019-05-21 · u/burnthisnameafteruse · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/brgm8w/what_tools_are_needed/) · [↑ back to the list](#last-50-posts)
 
 > What is a list of tools needed to be successful in dataops?
 
+<a id="post-27"></a>
+
 ### 27. DataOps podcast
 
-2019-04-24 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bgpgwy/dataops_podcast/)
+2019-04-24 · u/botswana99 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataops/comments/bgpgwy/dataops_podcast/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://roaringelephant.org/2019/04/23/episode-137-interview-on-dataops-with-chris-bergh-of-datakitchen-io-part-1/>
 

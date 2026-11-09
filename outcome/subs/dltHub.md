@@ -104,56 +104,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-03 | [Today, we’re launching pipeline observability on dltHub.](https://www.reddit.com/r/dltHub/comments/1xmqrx6/today_were_launching_pipeline_observability_on/) | u/Original_Response925 | Announcement | i.redd.it | 3 | 0 | live | — |
-| 2 | 2026-10-20 | [dltHub Townhall: Q&A, presenting self healing data pipelines](https://www.reddit.com/r/dltHub/comments/1xaqxs8/dlthub_townhall_qa_presenting_self_healing_data/) | u/Thinker_Assignment | — | text | 3 | 0 | live | — |
-| 3 | 2026-10-20 | [dltHub Townhall: Meet our team! Presenting Self healing pipelines and Q&A](https://www.reddit.com/r/dltHub/comments/1xaqwg2/dlthub_townhall_meet_our_team_presenting_self/) | u/Thinker_Assignment | — | luma.com | 1 | 0 | live | — |
-| 4 | 2026-10-07 | [Background agents live on dltHub](https://www.reddit.com/r/dltHub/comments/1wzx10x/background_agents_live_on_dlthub/) | u/Thinker_Assignment | — | text | 3 | 1 | live | — |
-| 5 | 2026-09-05 | [Moving away from Fivetran due to cost: Massive Salesforce ingestion to Snowflake at scale — what are our real…](https://www.reddit.com/r/dltHub/comments/1w81vhh/moving_away_from_fivetran_due_to_cost_massive/) | u/Thinker_Assignment | — | — | 1 | 0 | live | — |
-| 6 | 2026-08-06 | [dltHub: Make agents safe enough to run for your whole team.](https://www.reddit.com/r/dltHub/comments/1vh4hms/dlthub_make_agents_safe_enough_to_run_for_your/) | u/Thinker_Assignment | — | dlthub.com | 5 | 0 | live | — |
-| 7 | 2026-07-31 | [Composable canonicals, an ai-native solution to the centralized team knowledge loss problem](https://www.reddit.com/r/dltHub/comments/1vbzo2p/composable_canonicals_an_ainative_solution_to_the/) | u/Thinker_Assignment | — | dlthub.com | 1 | 0 | live | — |
-| 8 | 2026-07-29 | [One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.](https://www.reddit.com/r/dltHub/comments/1v9p8tt/one_engineer_25_production_pipelines_into/) | u/Thinker_Assignment | — | i.redd.it | 4 | 0 | live | — |
-| 9 | 2026-07-27 | [CBOT (Chicago Board of Trade) - CME Group](https://www.reddit.com/r/dltHub/comments/1v83t1c/cbot_chicago_board_of_trade_cme_group/) | u/CompleteMedicine7204 | — | text | 1 | 0 | spam-filtered | — |
-| 10 | 2026-07-22 | [I migrated a Fivetran pipeline to dltHub for $0.65](https://www.reddit.com/r/dltHub/comments/1v3gluy/i_migrated_a_fivetran_pipeline_to_dlthub_for_065/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 11 | 2026-07-22 | [dlt vs dltHub: the five ecosystem layers dltHub adds](https://www.reddit.com/r/dltHub/comments/1v3fz05/dlt_vs_dlthub_the_five_ecosystem_layers_dlthub/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 12 | 2026-07-21 | [Migrating off of Airbyte - how it works, why do it](https://www.reddit.com/r/dltHub/comments/1v2l5sv/migrating_off_of_airbyte_how_it_works_why_do_it/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 13 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how easily the move works](https://www.reddit.com/r/dltHub/comments/1uysupr/migrating_off_fivetran_what_happens_to_your_bill/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 14 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how the move actually works](https://www.reddit.com/r/dltHub/comments/1uystug/migrating_off_fivetran_what_happens_to_your_bill/) | u/Thinker_Assignment | Technical Help | text | 1 | 0 | deleted by author | — |
-| 15 | 2026-07-17 | [Your Python ETL scripts were the right call — here's what it takes to make them production-grade](https://www.reddit.com/r/dltHub/comments/1uyssiw/your_python_etl_scripts_were_the_right_call_heres/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 16 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how the move actually works](https://www.reddit.com/r/dltHub/comments/1uysm71/migrating_off_fivetran_what_happens_to_your_bill/) | u/Thinker_Assignment | — | text | 1 | 0 | deleted by author | — |
-| 17 | 2026-07-08 | [dltHub Blueprint: Break down agent spend by model, person, and customer](https://www.reddit.com/r/dltHub/comments/1uqwsew/dlthub_blueprint_break_down_agent_spend_by_model/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
-| 18 | 2026-07-08 | [Launching dltHub Blueprints - an opinionated assembled stack built by domain experts](https://www.reddit.com/r/dltHub/comments/1uqwpd7/launching_dlthub_blueprints_an_opinionated/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 19 | 2026-07-08 | [Launching dltHub Blueprints - a read opinionated assembled stack built by domain experts](https://www.reddit.com/r/dltHub/comments/1uqwo62/launching_dlthub_blueprints_a_read_opinionated/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | deleted by author | — |
-| 20 | 2026-07-07 | [Turning agent traces into queryable dashboards](https://www.reddit.com/r/dltHub/comments/1uq1s0m/turning_agent_traces_into_queryable_dashboards/) | u/Thinker_Assignment | — | youtube.com | 3 | 0 | live | — |
-| 21 | 2026-07-02 | [The total cost of ownership of a DIY connector in agentic age is $100/year](https://www.reddit.com/r/dltHub/comments/1ulc1ye/the_total_cost_of_ownership_of_a_diy_connector_in/) | u/Thinker_Assignment | — | text | 3 | 0 | live | — |
-| 22 | 2026-07-02 | [99.83% OSS dlt production pipeline runs do not need a human intervention](https://www.reddit.com/r/dltHub/comments/1ulbxfp/9983_oss_dlt_production_pipeline_runs_do_not_need/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 23 | 2026-06-24 | [You're the agent, unless you use a continuous context](https://www.reddit.com/r/dltHub/comments/1ueh7wm/youre_the_agent_unless_you_use_a_continuous/) | u/Thinker_Assignment | Blog Post | v.redd.it | 4 | 0 | live | — |
-| 24 | 2026-06-22 | [Maintain a deployed pipeline from cursor chat with dltHub Pro](https://www.reddit.com/r/dltHub/comments/1uclih7/maintain_a_deployed_pipeline_from_cursor_chat/) | u/Thinker_Assignment | — | /r/dltHub/comments/1uclih7/maintain_a_deployed_pipeline_from_cursor_chat/ | 2 | 0 | live | — |
-| 25 | 2026-06-19 | [Cut your ingestion SaaS bill to 1%, before your manager does](https://www.reddit.com/r/dltHub/comments/1u9zgc0/cut_your_ingestion_saas_bill_to_1_before_your/) | u/Thinker_Assignment | Memes | text | 2 | 0 | live | — |
-| 26 | 2026-06-02 | [dlthub benchmark: Rest APIs (network bottleneck): dlthub adds only 2% overhead](https://www.reddit.com/r/dltHub/comments/1tul1mg/dlthub_benchmark_rest_apis_network_bottleneck/) | u/Thinker_Assignment | Blog Post | i.redd.it | 2 | 0 | live | — |
-| 27 | 2026-06-02 | [Data quality: Agents testing business rules thanks to continuous context](https://www.reddit.com/r/dltHub/comments/1tukof7/data_quality_agents_testing_business_rules_thanks/) | u/Thinker_Assignment | Blog Post | i.redd.it | 3 | 0 | live | — |
-| 28 | 2026-05-28 | [3000x cheaper than other Saas: dltHub SQL copy benchmark](https://www.reddit.com/r/dltHub/comments/1tpym7m/3000x_cheaper_than_other_saas_dlthub_sql_copy/) | u/Thinker_Assignment | Sharing | reddit.com | 3 | 0 | live | — |
-| 29 | 2026-05-26 | [dltHub Transformations: One agentic context](https://www.reddit.com/r/dltHub/comments/1toaoih/dlthub_transformations_one_agentic_context/) | u/Thinker_Assignment | Announcement | dlthub.com | 4 | 0 | live | — |
-| 30 | 2026-05-22 | [Who maintains the pipelines? Claude does](https://www.reddit.com/r/dltHub/comments/1tkjoyw/who_maintains_the_pipelines_claude_does/) | u/Thinker_Assignment | Sharing | i.redd.it | 2 | 0 | live | — |
-| 31 | 2026-05-07 | [Agentic data engineering: Course and End to end toolkits for ingestion, deployment, exploration, transformati…](https://www.reddit.com/r/dltHub/comments/1t64aih/agentic_data_engineering_course_and_end_to_end/) | u/Thinker_Assignment | Sharing | text | 3 | 0 | live | — |
-| 32 | 2026-05-05 | [Ontology engineering is back for agentic action - an explainer with experimental data](https://www.reddit.com/r/dltHub/comments/1t4acii/ontology_engineering_is_back_for_agentic_action/) | u/Thinker_Assignment | — | dlthub.com | 4 | 2 | live | — |
-| 33 | 2026-05-01 | [Turn schema changes into observable events with metadata in dlt](https://www.reddit.com/r/dltHub/comments/1t14pue/turn_schema_changes_into_observable_events_with/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 34 | 2026-04-28 | [dlt is now a Snowflake Native App (replicate DBs → Snowflake without leaving Snowflake)](https://www.reddit.com/r/dltHub/comments/1syfays/dlt_is_now_a_snowflake_native_app_replicate_dbs/) | u/Thinker_Assignment | Announcement | i.redd.it | 5 | 2 | live | — |
-| 35 | 2026-04-20 | [Incorrect datetime value for column ._dlt_version table (SQL Alchemy, MariaDB and DLT)](https://www.reddit.com/r/dltHub/comments/1sr06ld/incorrect_datetime_value_for_column_dlt_version/) | u/xyz75WH4 | — | text | 1 | 1 | live | — |
-| 36 | 2026-04-20 | [Minimum Viable Context: what we learned building high-precision data models with LLMs](https://www.reddit.com/r/dltHub/comments/1sqwfzh/minimum_viable_context_what_we_learned_building/) | u/Thinker_Assignment | Blog Post | dlthub.com | 5 | 0 | live | — |
-| 37 | 2026-04-20 | [Minimum Viable Context: what we learned building high-precision data models with LLMs](https://www.reddit.com/r/dltHub/comments/1sqw9iz/minimum_viable_context_what_we_learned_building/) | u/Thinker_Assignment | Announcement | text | 1 | 0 | deleted by author | — |
-| 38 | 2026-04-14 | [Agentic REST API toolkit eval](https://www.reddit.com/r/dltHub/comments/1slacl3/agentic_rest_api_toolkit_eval/) | u/Thinker_Assignment | Blog Post | dlthub.com | 2 | 0 | live | — |
-| 39 | 2026-04-10 | [Stop building connectors one by one. Build the factory.](https://www.reddit.com/r/dltHub/comments/1shfo8l/stop_building_connectors_one_by_one_build_the/) | u/Thinker_Assignment | Announcement | i.redd.it | 3 | 0 | live | — |
-| 40 | 2026-04-10 | [Free course: Agentic Data Engineering with dltHub](https://www.reddit.com/r/dltHub/comments/1shfezl/free_course_agentic_data_engineering_with_dlthub/) | u/Thinker_Assignment | Announcement | dlthub.learnworlds.com | 3 | 0 | live | — |
-| 41 | 2026-04-10 | [From “it works on my machine” to production (with AI agents)](https://www.reddit.com/r/dltHub/comments/1sheu7v/from_it_works_on_my_machine_to_production_with_ai/) | u/Thinker_Assignment | Announcement | i.redd.it | 4 | 0 | live | — |
-| 42 | 2026-04-10 | [Validate your data and build a dashboard without leaving your session](https://www.reddit.com/r/dltHub/comments/1shdwdh/validate_your_data_and_build_a_dashboard_without/) | u/Thinker_Assignment | Announcement | i.redd.it | 3 | 0 | live | — |
-| 43 | 2026-04-10 | [Build a production data pipeline from a single prompt](https://www.reddit.com/r/dltHub/comments/1shdq5x/build_a_production_data_pipeline_from_a_single/) | u/Thinker_Assignment | Announcement | i.redd.it | 2 | 0 | live | — |
-| 44 | 2026-04-10 | [Build a production data pipeline from a single prompt](https://www.reddit.com/r/dltHub/comments/1shdp0e/build_a_production_data_pipeline_from_a_single/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | deleted by author | — |
-| 45 | 2026-04-07 | [dlt: open source?](https://www.reddit.com/r/dltHub/comments/1senxga/dlt_open_source/) | u/SoHighISawJesus | — | text | 2 | 5 | live | — |
-| 46 | 2026-03-27 | [Our agentic hackathon offsite conclusions](https://www.reddit.com/r/dltHub/comments/1s53rja/our_agentic_hackathon_offsite_conclusions/) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
-| 47 | 2026-03-25 | [Prompt → production data pipeline in one session (with validation + deployment)](https://www.reddit.com/r/dltHub/comments/1s2vidp/prompt_production_data_pipeline_in_one_session/) | u/Thinker_Assignment | Announcement | text | 3 | 0 | live | — |
-| 48 | 2026-03-24 | [Ontology driven data modelling toolkit](https://www.reddit.com/r/dltHub/comments/1s2htyb/ontology_driven_data_modelling_toolkit/) | u/Original_Response925 | Blog Post | i.redd.it | 3 | 0 | live | — |
-| 49 | 2026-03-18 | [WAP breaks earlier than you think, we’ve been using AWAP instead](https://www.reddit.com/r/dltHub/comments/1rwxakn/wap_breaks_earlier_than_you_think_weve_been_using/) | u/Thinker_Assignment | Sharing | i.redd.it | 2 | 0 | live | — |
-| 50 | 2026-03-18 | [Turning production traces into training data (dlt → Hugging Face → Distil Labs)](https://www.reddit.com/r/dltHub/comments/1rwx2n0/turning_production_traces_into_training_data_dlt/) | u/Thinker_Assignment | Sharing | i.redd.it | 3 | 0 | live | — |
+| 1 | 2026-11-03 | [Today, we’re launching pipeline observability on dltHub.](#post-1) | u/Original_Response925 | Announcement | i.redd.it | 3 | 0 | live | — |
+| 2 | 2026-10-20 | [dltHub Townhall: Q&A, presenting self healing data pipelines](#post-2) | u/Thinker_Assignment | — | text | 3 | 0 | live | — |
+| 3 | 2026-10-20 | [dltHub Townhall: Meet our team! Presenting Self healing pipelines and Q&A](#post-3) | u/Thinker_Assignment | — | luma.com | 1 | 0 | live | — |
+| 4 | 2026-10-07 | [Background agents live on dltHub](#post-4) | u/Thinker_Assignment | — | text | 3 | 1 | live | — |
+| 5 | 2026-09-05 | [Moving away from Fivetran due to cost: Massive Salesforce ingestion to Snowflake at scale — what are our real…](#post-5) | u/Thinker_Assignment | — | — | 1 | 0 | live | — |
+| 6 | 2026-08-06 | [dltHub: Make agents safe enough to run for your whole team.](#post-6) | u/Thinker_Assignment | — | dlthub.com | 5 | 0 | live | — |
+| 7 | 2026-07-31 | [Composable canonicals, an ai-native solution to the centralized team knowledge loss problem](#post-7) | u/Thinker_Assignment | — | dlthub.com | 1 | 0 | live | — |
+| 8 | 2026-07-29 | [One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.](#post-8) | u/Thinker_Assignment | — | i.redd.it | 4 | 0 | live | — |
+| 9 | 2026-07-27 | [CBOT (Chicago Board of Trade) - CME Group](#post-9) | u/CompleteMedicine7204 | — | text | 1 | 0 | spam-filtered | — |
+| 10 | 2026-07-22 | [I migrated a Fivetran pipeline to dltHub for $0.65](#post-10) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 11 | 2026-07-22 | [dlt vs dltHub: the five ecosystem layers dltHub adds](#post-11) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 12 | 2026-07-21 | [Migrating off of Airbyte - how it works, why do it](#post-12) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 13 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how easily the move works](#post-13) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 14 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how the move actually works](#post-14) | u/Thinker_Assignment | Technical Help | text | 1 | 0 | deleted by author | — |
+| 15 | 2026-07-17 | [Your Python ETL scripts were the right call — here's what it takes to make them production-grade](#post-15) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 16 | 2026-07-17 | [Migrating off Fivetran: what happens to your bill, and how the move actually works](#post-16) | u/Thinker_Assignment | — | text | 1 | 0 | deleted by author | — |
+| 17 | 2026-07-08 | [dltHub Blueprint: Break down agent spend by model, person, and customer](#post-17) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
+| 18 | 2026-07-08 | [Launching dltHub Blueprints - an opinionated assembled stack built by domain experts](#post-18) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 19 | 2026-07-08 | [Launching dltHub Blueprints - a read opinionated assembled stack built by domain experts](#post-19) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | deleted by author | — |
+| 20 | 2026-07-07 | [Turning agent traces into queryable dashboards](#post-20) | u/Thinker_Assignment | — | youtube.com | 3 | 0 | live | — |
+| 21 | 2026-07-02 | [The total cost of ownership of a DIY connector in agentic age is $100/year](#post-21) | u/Thinker_Assignment | — | text | 3 | 0 | live | — |
+| 22 | 2026-07-02 | [99.83% OSS dlt production pipeline runs do not need a human intervention](#post-22) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 23 | 2026-06-24 | [You're the agent, unless you use a continuous context](#post-23) | u/Thinker_Assignment | Blog Post | v.redd.it | 4 | 0 | live | — |
+| 24 | 2026-06-22 | [Maintain a deployed pipeline from cursor chat with dltHub Pro](#post-24) | u/Thinker_Assignment | — | /r/dltHub/comments/1uclih7/maintain_a_deployed_pipeline_from_cursor_chat/ | 2 | 0 | live | — |
+| 25 | 2026-06-19 | [Cut your ingestion SaaS bill to 1%, before your manager does](#post-25) | u/Thinker_Assignment | Memes | text | 2 | 0 | live | — |
+| 26 | 2026-06-02 | [dlthub benchmark: Rest APIs (network bottleneck): dlthub adds only 2% overhead](#post-26) | u/Thinker_Assignment | Blog Post | i.redd.it | 2 | 0 | live | — |
+| 27 | 2026-06-02 | [Data quality: Agents testing business rules thanks to continuous context](#post-27) | u/Thinker_Assignment | Blog Post | i.redd.it | 3 | 0 | live | — |
+| 28 | 2026-05-28 | [3000x cheaper than other Saas: dltHub SQL copy benchmark](#post-28) | u/Thinker_Assignment | Sharing | reddit.com | 3 | 0 | live | — |
+| 29 | 2026-05-26 | [dltHub Transformations: One agentic context](#post-29) | u/Thinker_Assignment | Announcement | dlthub.com | 4 | 0 | live | — |
+| 30 | 2026-05-22 | [Who maintains the pipelines? Claude does](#post-30) | u/Thinker_Assignment | Sharing | i.redd.it | 2 | 0 | live | — |
+| 31 | 2026-05-07 | [Agentic data engineering: Course and End to end toolkits for ingestion, deployment, exploration, transformati…](#post-31) | u/Thinker_Assignment | Sharing | text | 3 | 0 | live | — |
+| 32 | 2026-05-05 | [Ontology engineering is back for agentic action - an explainer with experimental data](#post-32) | u/Thinker_Assignment | — | dlthub.com | 4 | 2 | live | — |
+| 33 | 2026-05-01 | [Turn schema changes into observable events with metadata in dlt](#post-33) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 34 | 2026-04-28 | [dlt is now a Snowflake Native App (replicate DBs → Snowflake without leaving Snowflake)](#post-34) | u/Thinker_Assignment | Announcement | i.redd.it | 5 | 2 | live | — |
+| 35 | 2026-04-20 | [Incorrect datetime value for column ._dlt_version table (SQL Alchemy, MariaDB and DLT)](#post-35) | u/xyz75WH4 | — | text | 1 | 1 | live | — |
+| 36 | 2026-04-20 | [Minimum Viable Context: what we learned building high-precision data models with LLMs](#post-36) | u/Thinker_Assignment | Blog Post | dlthub.com | 5 | 0 | live | — |
+| 37 | 2026-04-20 | [Minimum Viable Context: what we learned building high-precision data models with LLMs](#post-37) | u/Thinker_Assignment | Announcement | text | 1 | 0 | deleted by author | — |
+| 38 | 2026-04-14 | [Agentic REST API toolkit eval](#post-38) | u/Thinker_Assignment | Blog Post | dlthub.com | 2 | 0 | live | — |
+| 39 | 2026-04-10 | [Stop building connectors one by one. Build the factory.](#post-39) | u/Thinker_Assignment | Announcement | i.redd.it | 3 | 0 | live | — |
+| 40 | 2026-04-10 | [Free course: Agentic Data Engineering with dltHub](#post-40) | u/Thinker_Assignment | Announcement | dlthub.learnworlds.com | 3 | 0 | live | — |
+| 41 | 2026-04-10 | [From “it works on my machine” to production (with AI agents)](#post-41) | u/Thinker_Assignment | Announcement | i.redd.it | 4 | 0 | live | — |
+| 42 | 2026-04-10 | [Validate your data and build a dashboard without leaving your session](#post-42) | u/Thinker_Assignment | Announcement | i.redd.it | 3 | 0 | live | — |
+| 43 | 2026-04-10 | [Build a production data pipeline from a single prompt](#post-43) | u/Thinker_Assignment | Announcement | i.redd.it | 2 | 0 | live | — |
+| 44 | 2026-04-10 | [Build a production data pipeline from a single prompt](#post-44) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | deleted by author | — |
+| 45 | 2026-04-07 | [dlt: open source?](#post-45) | u/SoHighISawJesus | — | text | 2 | 5 | live | — |
+| 46 | 2026-03-27 | [Our agentic hackathon offsite conclusions](#post-46) | u/Thinker_Assignment | — | i.redd.it | 2 | 0 | live | — |
+| 47 | 2026-03-25 | [Prompt → production data pipeline in one session (with validation + deployment)](#post-47) | u/Thinker_Assignment | Announcement | text | 3 | 0 | live | — |
+| 48 | 2026-03-24 | [Ontology driven data modelling toolkit](#post-48) | u/Original_Response925 | Blog Post | i.redd.it | 3 | 0 | live | — |
+| 49 | 2026-03-18 | [WAP breaks earlier than you think, we’ve been using AWAP instead](#post-49) | u/Thinker_Assignment | Sharing | i.redd.it | 2 | 0 | live | — |
+| 50 | 2026-03-18 | [Turning production traces into training data (dlt → Hugging Face → Distil Labs)](#post-50) | u/Thinker_Assignment | Sharing | i.redd.it | 3 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -161,17 +161,19 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-03 | [Today, we’re launching pipeline observability on dltHub.](https://www.reddit.com/r/dltHub/comments/1xmqrx6/today_were_launching_pipeline_observability_on/) | u/Original_Response925 | Announcement | i.redd.it | 3 | 0 | live |
-| 2 | 2026-10-20 | [dltHub Townhall: Q&A, presenting self healing data pipelines](https://www.reddit.com/r/dltHub/comments/1xaqxs8/dlthub_townhall_qa_presenting_self_healing_data/) | u/Thinker_Assignment | — | text | 3 | 0 | live |
-| 3 | 2026-10-20 | [dltHub Townhall: Meet our team! Presenting Self healing pipelines and Q&A](https://www.reddit.com/r/dltHub/comments/1xaqwg2/dlthub_townhall_meet_our_team_presenting_self/) | u/Thinker_Assignment | — | luma.com | 1 | 0 | live |
+| 1 | 2026-11-03 | [Today, we’re launching pipeline observability on dltHub.](#post-1) | u/Original_Response925 | Announcement | i.redd.it | 3 | 0 | live |
+| 2 | 2026-10-20 | [dltHub Townhall: Q&A, presenting self healing data pipelines](#post-2) | u/Thinker_Assignment | — | text | 3 | 0 | live |
+| 3 | 2026-10-20 | [dltHub Townhall: Meet our team! Presenting Self healing pipelines and Q&A](#post-3) | u/Thinker_Assignment | — | luma.com | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Today, we’re launching pipeline observability on dltHub.
 
-2026-11-03 · u/Original_Response925 · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xmqrx6/today_were_launching_pipeline_observability_on/)
+2026-11-03 · u/Original_Response925 · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xmqrx6/today_were_launching_pipeline_observability_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tv8o23j9rdzh1.gif>
 
@@ -187,9 +189,11 @@ Link: <https://i.redd.it/tv8o23j9rdzh1.gif>
 >
 > [https://dlthub.com/blog/introducing-pipeline-observability](https://dlthub.com/blog/introducing-pipeline-observability)
 
+<a id="post-2"></a>
+
 ### 2. dltHub Townhall: Q&A, presenting self healing data pipelines
 
-2026-10-20 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xaqxs8/dlthub_townhall_qa_presenting_self_healing_data/)
+2026-10-20 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xaqxs8/dlthub_townhall_qa_presenting_self_healing_data/) · [↑ back to the list](#last-50-posts)
 
 > ​Join Violetta, Lis, Dave, and Marcin for the dltHub Townhall on October 21.
 >
@@ -201,9 +205,11 @@ Link: <https://i.redd.it/tv8o23j9rdzh1.gif>
 >
 > [https://luma.com/dltHub-townhall-oct](https://luma.com/dltHub-townhall-oct)
 
+<a id="post-3"></a>
+
 ### 3. dltHub Townhall: Meet our team! Presenting Self healing pipelines and Q&A
 
-2026-10-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xaqwg2/dlthub_townhall_meet_our_team_presenting_self/)
+2026-10-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1xaqwg2/dlthub_townhall_meet_our_team_presenting_self/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://luma.com/dltHub-townhall-oct>
 
@@ -215,9 +221,11 @@ Link: <https://luma.com/dltHub-townhall-oct>
 >
 > You can join via YouTube Live or LinkedIn Live. See you tomorrow!
 
+<a id="post-4"></a>
+
 ### 4. Background agents live on dltHub
 
-2026-10-07 · u/Thinker_Assignment · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1wzx10x/background_agents_live_on_dlthub/)
+2026-10-07 · u/Thinker_Assignment · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1wzx10x/background_agents_live_on_dlthub/) · [↑ back to the list](#last-50-posts)
 
 > As data engineers, we want to own our code and outcomes, while minimizing the costs associated with building and maintenance.
 >
@@ -250,16 +258,20 @@ Link: <https://luma.com/dltHub-townhall-oct>
 >
 > **"Run uvx dlthub-start@latest to build my first pipeline and run it on dltHub"** or [book a demo](https://dlthub.com/)
 
+<a id="post-5"></a>
+
 ### 5. Moving away from Fivetran due to cost: Massive Salesforce ingestion to Snowflake at scale — what are our real alternatives?
 
-2026-09-05 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1w81vhh/moving_away_from_fivetran_due_to_cost_massive/)
+2026-09-05 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1w81vhh/moving_away_from_fivetran_due_to_cost_massive/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineering/comments/1w0khin/moving_away_from_fivetran_due_to_cost_massive/>
 
 
+<a id="post-6"></a>
+
 ### 6. dltHub: Make agents safe enough to run for your whole team.
 
-2026-08-06 · u/Thinker_Assignment · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1vh4hms/dlthub_make_agents_safe_enough_to_run_for_your/)
+2026-08-06 · u/Thinker_Assignment · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1vh4hms/dlthub_make_agents_safe_enough_to_run_for_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/dlthub-for-teams>
 
@@ -267,9 +279,11 @@ Link: <https://dlthub.com/blog/dlthub-for-teams>
 >
 > *- (Jim, Pinter, running his company's data with what he calls a team of agents)*
 
+<a id="post-7"></a>
+
 ### 7. Composable canonicals, an ai-native solution to the centralized team knowledge loss problem
 
-2026-07-31 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1vbzo2p/composable_canonicals_an_ainative_solution_to_the/)
+2026-07-31 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1vbzo2p/composable_canonicals_an_ainative_solution_to_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/composable-canonicals>
 
@@ -279,9 +293,11 @@ Link: <https://dlthub.com/blog/composable-canonicals>
 >
 > in this article I describe how that can be used to capture domain knowledge at the source and call on it when we want to answer central reporting business questions or operational needs alike, without adding headcount at the decentralised layer.
 
+<a id="post-8"></a>
+
 ### 8. One engineer. 25 production pipelines into Snowflake. An agent in OpenCode running the whole loop.
 
-2026-07-29 · u/Thinker_Assignment · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v9p8tt/one_engineer_25_production_pipelines_into/)
+2026-07-29 · u/Thinker_Assignment · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v9p8tt/one_engineer_25_production_pipelines_into/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/twsv9qqnh4gh1.gif>
 
@@ -310,15 +326,19 @@ Link: <https://i.redd.it/twsv9qqnh4gh1.gif>
 > Get the video: [https://www.linkedin.com/feed/update/urn:li:activity:7485368657171124225/](https://www.linkedin.com/feed/update/urn:li:activity:7485368657171124225/)  
 > Get the setup: [https://dlthub.com/blueprints/agentic-data-stack](https://dlthub.com/blueprints/agentic-data-stack)
 
+<a id="post-9"></a>
+
 ### 9. CBOT (Chicago Board of Trade) - CME Group
 
-2026-07-27 · u/CompleteMedicine7204 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v83t1c/cbot_chicago_board_of_trade_cme_group/)
+2026-07-27 · u/CompleteMedicine7204 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v83t1c/cbot_chicago_board_of_trade_cme_group/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. I migrated a Fivetran pipeline to dltHub for $0.65
 
-2026-07-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v3gluy/i_migrated_a_fivetran_pipeline_to_dlthub_for_065/)
+2026-07-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v3gluy/i_migrated_a_fivetran_pipeline_to_dlthub_for_065/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fr3qp3z7cseh1.png>
 
@@ -338,9 +358,11 @@ Link: <https://i.redd.it/fr3qp3z7cseh1.png>
 >
 > Read more: [https://www.linkedin.com/pulse/i-migrated-fivetran-pipeline-dlthub-065-martin-seifert-8hhxe/](https://www.linkedin.com/pulse/i-migrated-fivetran-pipeline-dlthub-065-martin-seifert-8hhxe/)
 
+<a id="post-11"></a>
+
 ### 11. dlt vs dltHub: the five ecosystem layers dltHub adds
 
-2026-07-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v3fz05/dlt_vs_dlthub_the_five_ecosystem_layers_dlthub/)
+2026-07-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v3fz05/dlt_vs_dlthub_the_five_ecosystem_layers_dlthub/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1etil2et7seh1.png>
 
@@ -350,9 +372,11 @@ Link: <https://i.redd.it/1etil2et7seh1.png>
 >
 > Read more: [https://dlthub.com/blog/from-dlt-to-dlthub](https://dlthub.com/blog/from-dlt-to-dlthub)
 
+<a id="post-12"></a>
+
 ### 12. Migrating off of Airbyte - how it works, why do it
 
-2026-07-21 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v2l5sv/migrating_off_of_airbyte_how_it_works_why_do_it/)
+2026-07-21 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1v2l5sv/migrating_off_of_airbyte_how_it_works_why_do_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/sgn9g2u0mleh1.png>
 
@@ -362,9 +386,11 @@ Link: <https://i.redd.it/sgn9g2u0mleh1.png>
 >
 > Read more: [https://dlthub.com/blog/migrate-from-airbyte-to-dlthub](https://dlthub.com/blog/migrate-from-airbyte-to-dlthub)
 
+<a id="post-13"></a>
+
 ### 13. Migrating off Fivetran: what happens to your bill, and how easily the move works
 
-2026-07-17 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uysupr/migrating_off_fivetran_what_happens_to_your_bill/)
+2026-07-17 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uysupr/migrating_off_fivetran_what_happens_to_your_bill/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vdozy5jktqdh1.png>
 
@@ -378,9 +404,11 @@ Link: <https://i.redd.it/vdozy5jktqdh1.png>
 >
 > 📖 [Read the full post here](https://dlthub.com/blog/migrate-fivetran-to-dlthub?utm_campaign=migrate-fivetran&utm_source=reddit&utm_medium=r_dlthub)
 
+<a id="post-14"></a>
+
 ### 14. Migrating off Fivetran: what happens to your bill, and how the move actually works
 
-2026-07-17 · u/Thinker_Assignment · Technical Help · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uystug/migrating_off_fivetran_what_happens_to_your_bill/)
+2026-07-17 · u/Thinker_Assignment · Technical Help · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uystug/migrating_off_fivetran_what_happens_to_your_bill/) · [↑ back to the list](#last-50-posts)
 
 > You already pay for compute everywhere else in your stack — Snowflake, Databricks, AWS. Ingestion is the one place you still pay royalties per row. Switch that to compute and the bill typically drops 10–100x.
 >
@@ -394,9 +422,11 @@ Link: <https://i.redd.it/vdozy5jktqdh1.png>
 >
 > 📖 [Read the full post here](https://dlthub.com/blog/migrate-fivetran-to-dlthub?utm_campaign=migrate-fivetran&utm_source=reddit&utm_medium=r_dlthub)
 
+<a id="post-15"></a>
+
 ### 15. Your Python ETL scripts were the right call — here's what it takes to make them production-grade
 
-2026-07-17 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uyssiw/your_python_etl_scripts_were_the_right_call_heres/)
+2026-07-17 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uyssiw/your_python_etl_scripts_were_the_right_call_heres/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zilkop8zsqdh1.png>
 
@@ -414,9 +444,11 @@ Link: <https://i.redd.it/zilkop8zsqdh1.png>
 >
 > 📖 [Read the full post here](https://dlthub.com/blog/productionize-python-etl-scripts?utm_campaign=productionize-python-etl&utm_source=reddit&utm_medium=r_dlthub)
 
+<a id="post-16"></a>
+
 ### 16. Migrating off Fivetran: what happens to your bill, and how the move actually works
 
-2026-07-17 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uysm71/migrating_off_fivetran_what_happens_to_your_bill/)
+2026-07-17 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uysm71/migrating_off_fivetran_what_happens_to_your_bill/) · [↑ back to the list](#last-50-posts)
 
 > You already pay for compute everywhere else in your stack — Snowflake, Databricks, AWS. Ingestion is the one place you still pay royalties per row. Switch that to compute and the bill typically drops 10–100x.
 >
@@ -433,17 +465,21 @@ Link: <https://i.redd.it/zilkop8zsqdh1.png>
 >
 > 📖 [Read the full post here](https://dlthub.com/blog/migrate-fivetran-to-dlthub?utm_campaign=migrate-fivetran&utm_source=reddit&utm_medium=r_dlthub)
 
+<a id="post-17"></a>
+
 ### 17. dltHub Blueprint: Break down agent spend by model, person, and customer
 
-2026-07-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwsew/dlthub_blueprint_break_down_agent_spend_by_model/)
+2026-07-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwsew/dlthub_blueprint_break_down_agent_spend_by_model/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/r4kd6swy21ch1.png>
 
 > read more: [https://dlthub.com/blueprints/agent-costs](https://dlthub.com/blueprints/agent-costs)
 
+<a id="post-18"></a>
+
 ### 18. Launching dltHub Blueprints - an opinionated assembled stack built by domain experts
 
-2026-07-08 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwpd7/launching_dlthub_blueprints_an_opinionated/)
+2026-07-08 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwpd7/launching_dlthub_blueprints_an_opinionated/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/jborne8g21ch1.png>
 
@@ -466,9 +502,11 @@ Link: <https://i.redd.it/jborne8g21ch1.png>
 > [https://dlthub.com/blog/agent-cost-distillation](https://dlthub.com/blog/agent-cost-distillation)  
 > blueprints: [https://dlthub.com/blueprints](https://dlthub.com/blueprints)
 
+<a id="post-19"></a>
+
 ### 19. Launching dltHub Blueprints - a read opinionated assembled stack built by domain experts
 
-2026-07-08 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwo62/launching_dlthub_blueprints_a_read_opinionated/)
+2026-07-08 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uqwo62/launching_dlthub_blueprints_a_read_opinionated/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/sa2fij7621ch1.png>
 
@@ -492,9 +530,11 @@ Link: <https://i.redd.it/sa2fij7621ch1.png>
 > [https://dlthub.com/blog/agent-cost-distillation](https://dlthub.com/blog/agent-cost-distillation)  
 > blueprints: [https://dlthub.com/blueprints](https://dlthub.com/blueprints)
 
+<a id="post-20"></a>
+
 ### 20. Turning agent traces into queryable dashboards
 
-2026-07-07 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uq1s0m/turning_agent_traces_into_queryable_dashboards/)
+2026-07-07 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uq1s0m/turning_agent_traces_into_queryable_dashboards/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=A0LmmZf-ggM>
 
@@ -506,18 +546,22 @@ Link: <https://www.youtube.com/watch?v=A0LmmZf-ggM>
 >
 > It covers local traces (Claude Code, Codex, Copilot), REST APIs, and building dashboards on top of them.
 
+<a id="post-21"></a>
+
 ### 21. The total cost of ownership of a DIY connector in agentic age is $100/year
 
-2026-07-02 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ulc1ye/the_total_cost_of_ownership_of_a_diy_connector_in/)
+2026-07-02 · u/Thinker_Assignment · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ulc1ye/the_total_cost_of_ownership_of_a_diy_connector_in/) · [↑ back to the list](#last-50-posts)
 
 > I wrote earlier about reliability nrs, that's because i was calculating maintenance rates.
 >
 > Turns out people running dlt in production only need to do a maintenance event every 2.2 years. Since maintenance is crazy fast and simple, that's maybe 1h per yer of dev time ($100 value) and $1-2 of tokens.  
 > [https://dlthub.com/blog/tco#the-real-cost-of-a-connector-today-is-closer-to-100-y](https://dlthub.com/blog/tco#the-real-cost-of-a-connector-today-is-closer-to-100-y)
 
+<a id="post-22"></a>
+
 ### 22. 99.83% OSS dlt production pipeline runs do not need a human intervention
 
-2026-07-02 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ulbxfp/9983_oss_dlt_production_pipeline_runs_do_not_need/)
+2026-07-02 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ulbxfp/9983_oss_dlt_production_pipeline_runs_do_not_need/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/z4kewtewwrah1.jpeg>
 
@@ -525,9 +569,11 @@ Link: <https://i.redd.it/z4kewtewwrah1.jpeg>
 >
 > More: [https://dlthub.com/blog/tco](https://dlthub.com/blog/tco)
 
+<a id="post-23"></a>
+
 ### 23. You're the agent, unless you use a continuous context
 
-2026-06-24 · u/Thinker_Assignment · Blog Post · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ueh7wm/youre_the_agent_unless_you_use_a_continuous/)
+2026-06-24 · u/Thinker_Assignment · Blog Post · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1ueh7wm/youre_the_agent_unless_you_use_a_continuous/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/mh9ipihi499h1>
 
@@ -541,9 +587,11 @@ Link: <https://v.redd.it/mh9ipihi499h1>
 >
 > read more about how our context layer works: [https://dlthub.com/blog/context](https://dlthub.com/blog/context)
 
+<a id="post-24"></a>
+
 ### 24. Maintain a deployed pipeline from cursor chat with dltHub Pro
 
-2026-06-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uclih7/maintain_a_deployed_pipeline_from_cursor_chat/)
+2026-06-22 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1uclih7/maintain_a_deployed_pipeline_from_cursor_chat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/v4s2k6dubu8h1>
 
@@ -553,9 +601,11 @@ Link: <https://v.redd.it/v4s2k6dubu8h1>
 >
 > Asking for a fix costs under $1 in tokens and takes under 10 minutes (video speeds up waiting times for your convenience but look at the clock top right)
 
+<a id="post-25"></a>
+
 ### 25. Cut your ingestion SaaS bill to 1%, before your manager does
 
-2026-06-19 · u/Thinker_Assignment · Memes · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1u9zgc0/cut_your_ingestion_saas_bill_to_1_before_your/)
+2026-06-19 · u/Thinker_Assignment · Memes · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1u9zgc0/cut_your_ingestion_saas_bill_to_1_before_your/) · [↑ back to the list](#last-50-posts)
 
 > **Cut your ingestion SaaS bill to 1%.**
 >
@@ -575,9 +625,11 @@ Link: <https://v.redd.it/v4s2k6dubu8h1>
 >
 > **Try it before your manager does!**
 
+<a id="post-26"></a>
+
 ### 26. dlthub benchmark: Rest APIs (network bottleneck): dlthub adds only 2% overhead
 
-2026-06-02 · u/Thinker_Assignment · Blog Post · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tul1mg/dlthub_benchmark_rest_apis_network_bottleneck/)
+2026-06-02 · u/Thinker_Assignment · Blog Post · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tul1mg/dlthub_benchmark_rest_apis_network_bottleneck/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7ucctx8ryt4h1.jpeg>
 
@@ -594,9 +646,11 @@ Link: <https://i.redd.it/7ucctx8ryt4h1.jpeg>
 >
 > [https://dlthub.com/blog/benchmark-dlthub#case-2-rest-apis](https://dlthub.com/blog/benchmark-dlthub#case-2-rest-apis)
 
+<a id="post-27"></a>
+
 ### 27. Data quality: Agents testing business rules thanks to continuous context
 
-2026-06-02 · u/Thinker_Assignment · Blog Post · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tukof7/data_quality_agents_testing_business_rules_thanks/)
+2026-06-02 · u/Thinker_Assignment · Blog Post · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tukof7/data_quality_agents_testing_business_rules_thanks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tqkfnsm2yt4h1.png>
 
@@ -621,9 +675,11 @@ Link: <https://i.redd.it/tqkfnsm2yt4h1.png>
 >
 > Because the LLM context is continuous end to end, the LLM knows where to apply checks on your pipelines. The rest is plumbing.
 
+<a id="post-28"></a>
+
 ### 28. 3000x cheaper than other Saas: dltHub SQL copy benchmark
 
-2026-05-28 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tpym7m/3000x_cheaper_than_other_saas_dlthub_sql_copy/)
+2026-05-28 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tpym7m/3000x_cheaper_than_other_saas_dlthub_sql_copy/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1tpym7m>
 
@@ -633,9 +689,11 @@ Link: <https://www.reddit.com/gallery/1tpym7m>
 >
 > The best part? Open source dlt on open infrastructure! any dlt code you run on dltHub is portable and not vendor locked - so if you do not like our runtime's perks, it you can move to other infrastructure.
 
+<a id="post-29"></a>
+
 ### 29. dltHub Transformations: One agentic context
 
-2026-05-26 · u/Thinker_Assignment · Announcement · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1toaoih/dlthub_transformations_one_agentic_context/)
+2026-05-26 · u/Thinker_Assignment · Announcement · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1toaoih/dlthub_transformations_one_agentic_context/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/transformation-deep-dive>
 
@@ -653,9 +711,11 @@ Link: <https://dlthub.com/blog/transformation-deep-dive>
 >
 > One process, single context. Ingest → deploy → transform → consume. Data quality checks where they count. No context re-stitching across seven tools.
 
+<a id="post-30"></a>
+
 ### 30. Who maintains the pipelines? Claude does
 
-2026-05-22 · u/Thinker_Assignment · Sharing · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tkjoyw/who_maintains_the_pipelines_claude_does/)
+2026-05-22 · u/Thinker_Assignment · Sharing · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1tkjoyw/who_maintains_the_pipelines_claude_does/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wsj2v73b2p2h1.png>
 
@@ -675,18 +735,22 @@ Link: <https://i.redd.it/wsj2v73b2p2h1.png>
 >
 > Want to copy their success? Use the dltHub AI Workbench: [https://dlthub.com/docs/dlt-ecosystem/llm-tooling/llm-native-workflow](https://dlthub.com/docs/dlt-ecosystem/llm-tooling/llm-native-workflow)
 
+<a id="post-31"></a>
+
 ### 31. Agentic data engineering: Course and End to end toolkits for ingestion, deployment, exploration, transformation, tribal knowledge capture for LLMs, quality and visualisation
 
-2026-05-07 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t64aih/agentic_data_engineering_course_and_end_to_end/)
+2026-05-07 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t64aih/agentic_data_engineering_course_and_end_to_end/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, we recently added the deployment lesson to our agentic data engineering course and now it's more or less complete. We are also adding a data quality toolkit this week into the workbench.
 >
 > Course: [https://dlthub.learnworlds.com/course/agentic-data-engineering](https://dlthub.learnworlds.com/course/agentic-data-engineering)  
 > AI workbench: [https://github.com/dlt-hub/dlthub-ai-workbench](https://github.com/dlt-hub/dlthub-ai-workbench)
 
+<a id="post-32"></a>
+
 ### 32. Ontology engineering is back for agentic action - an explainer with experimental data
 
-2026-05-05 · u/Thinker_Assignment · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t4acii/ontology_engineering_is_back_for_agentic_action/)
+2026-05-05 · u/Thinker_Assignment · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t4acii/ontology_engineering_is_back_for_agentic_action/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/ontology-engineering>
 
@@ -698,9 +762,11 @@ Link: <https://dlthub.com/blog/ontology-engineering>
 >
 > Read more in the blog.
 
+<a id="post-33"></a>
+
 ### 33. Turn schema changes into observable events with metadata in dlt
 
-2026-05-01 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t14pue/turn_schema_changes_into_observable_events_with/)
+2026-05-01 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1t14pue/turn_schema_changes_into_observable_events_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/gf95evft2lyg1.png>
 
@@ -717,9 +783,11 @@ Link: <https://i.redd.it/gf95evft2lyg1.png>
 >
 > [Full walkthrough + interactive Marimo notebook](https://dlthub.com/blog/schema-monitoring-with-metadata)
 
+<a id="post-34"></a>
+
 ### 34. dlt is now a Snowflake Native App (replicate DBs → Snowflake without leaving Snowflake)
 
-2026-04-28 · u/Thinker_Assignment · Announcement · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1syfays/dlt_is_now_a_snowflake_native_app_replicate_dbs/)
+2026-04-28 · u/Thinker_Assignment · Announcement · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1syfays/dlt_is_now_a_snowflake_native_app_replicate_dbs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6suwj9k240yg1.png>
 
@@ -751,9 +819,11 @@ Link: <https://i.redd.it/6suwj9k240yg1.png>
 >
 > [**Benchmark**](https://dlthub.com/blog/sql-benchmark-saas)
 
+<a id="post-35"></a>
+
 ### 35. Incorrect datetime value for column ._dlt_version table (SQL Alchemy, MariaDB and DLT)
 
-2026-04-20 · u/xyz75WH4 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sr06ld/incorrect_datetime_value_for_column_dlt_version/)
+2026-04-20 · u/xyz75WH4 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sr06ld/incorrect_datetime_value_for_column_dlt_version/) · [↑ back to the list](#last-50-posts)
 
 > Hello.
 >
@@ -810,9 +880,11 @@ Link: <https://i.redd.it/6suwj9k240yg1.png>
 >
 > Thanks
 
+<a id="post-36"></a>
+
 ### 36. Minimum Viable Context: what we learned building high-precision data models with LLMs
 
-2026-04-20 · u/Thinker_Assignment · Blog Post · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sqwfzh/minimum_viable_context_what_we_learned_building/)
+2026-04-20 · u/Thinker_Assignment · Blog Post · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sqwfzh/minimum_viable_context_what_we_learned_building/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/minimum-viable-context>
 
@@ -826,9 +898,11 @@ Link: <https://dlthub.com/blog/minimum-viable-context>
 >
 > Prompt size vs. output quality is a tradeoff we keep running into with LLMs.
 
+<a id="post-37"></a>
+
 ### 37. Minimum Viable Context: what we learned building high-precision data models with LLMs
 
-2026-04-20 · u/Thinker_Assignment · Announcement · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sqw9iz/minimum_viable_context_what_we_learned_building/)
+2026-04-20 · u/Thinker_Assignment · Announcement · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sqw9iz/minimum_viable_context_what_we_learned_building/) · [↑ back to the list](#last-50-posts)
 
 > We’ve been working on improving how LLMs handle structured data modeling, and one idea kept coming up:
 >
@@ -842,9 +916,11 @@ Link: <https://dlthub.com/blog/minimum-viable-context>
 >
 > [https://dlthub.com/blog/minimum-viable-context](https://dlthub.com/blog/minimum-viable-context)
 
+<a id="post-38"></a>
+
 ### 38. Agentic REST API toolkit eval
 
-2026-04-14 · u/Thinker_Assignment · Blog Post · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1slacl3/agentic_rest_api_toolkit_eval/)
+2026-04-14 · u/Thinker_Assignment · Blog Post · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1slacl3/agentic_rest_api_toolkit_eval/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/agentic-rest-eval>
 
@@ -852,9 +928,11 @@ Link: <https://dlthub.com/blog/agentic-rest-eval>
 >
 > Besides clear different outcomes in code produced, the 2 approaches tackle the development flow very differently
 
+<a id="post-39"></a>
+
 ### 39. Stop building connectors one by one. Build the factory.
 
-2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shfo8l/stop_building_connectors_one_by_one_build_the/)
+2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shfo8l/stop_building_connectors_one_by_one_build_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/dpmyer5jfbug1.gif>
 
@@ -876,9 +954,11 @@ Link: <https://i.redd.it/dpmyer5jfbug1.gif>
 >
 > Docs: [https://dlthub.com/docs/dlt-ecosystem/llm-tooling/llm-native-workflow](https://dlthub.com/docs/dlt-ecosystem/llm-tooling/llm-native-workflow)
 
+<a id="post-40"></a>
+
 ### 40. Free course: Agentic Data Engineering with dltHub
 
-2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shfezl/free_course_agentic_data_engineering_with_dlthub/)
+2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shfezl/free_course_agentic_data_engineering_with_dlthub/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.learnworlds.com/course/agentic-data-engineering>
 
@@ -919,9 +999,11 @@ Link: <https://dlthub.learnworlds.com/course/agentic-data-engineering>
 >
 > If you’re working with data + AI, this is basically the layer between “it runs” and “it works in production.”
 
+<a id="post-41"></a>
+
 ### 41. From “it works on my machine” to production (with AI agents)
 
-2026-04-10 · u/Thinker_Assignment · Announcement · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sheu7v/from_it_works_on_my_machine_to_production_with_ai/)
+2026-04-10 · u/Thinker_Assignment · Announcement · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1sheu7v/from_it_works_on_my_machine_to_production_with_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/nq4ceulv6bug1.jpeg>
 
@@ -961,9 +1043,11 @@ Link: <https://i.redd.it/nq4ceulv6bug1.jpeg>
 >
 > [https://dlthub.com/solutions/for-data-consultancies](https://dlthub.com/solutions/for-data-consultancies)
 
+<a id="post-42"></a>
+
 ### 42. Validate your data and build a dashboard without leaving your session
 
-2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdwdh/validate_your_data_and_build_a_dashboard_without/)
+2026-04-10 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdwdh/validate_your_data_and_build_a_dashboard_without/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ifa2oflexaug1.gif>
 
@@ -986,9 +1070,11 @@ Link: <https://i.redd.it/ifa2oflexaug1.gif>
 >
 > [https://dlthub.com/blog/ai-workbench](https://dlthub.com/blog/ai-workbench)
 
+<a id="post-43"></a>
+
 ### 43. Build a production data pipeline from a single prompt
 
-2026-04-10 · u/Thinker_Assignment · Announcement · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdq5x/build_a_production_data_pipeline_from_a_single/)
+2026-04-10 · u/Thinker_Assignment · Announcement · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdq5x/build_a_production_data_pipeline_from_a_single/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tb64s1jqvaug1.gif>
 
@@ -1002,9 +1088,11 @@ Link: <https://i.redd.it/tb64s1jqvaug1.gif>
 >
 > [https://dlthub.com/blog/ai-workbench](https://dlthub.com/blog/ai-workbench)
 
+<a id="post-44"></a>
+
 ### 44. Build a production data pipeline from a single prompt
 
-2026-04-10 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdp0e/build_a_production_data_pipeline_from_a_single/)
+2026-04-10 · u/Thinker_Assignment · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1shdp0e/build_a_production_data_pipeline_from_a_single/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fwb21gkgvaug1.gif>
 
@@ -1018,22 +1106,28 @@ Link: <https://i.redd.it/fwb21gkgvaug1.gif>
 >
 > [https://dlthub.com/blog/ai-workbench](https://dlthub.com/blog/ai-workbench)
 
+<a id="post-45"></a>
+
 ### 45. dlt: open source?
 
-2026-04-07 · u/SoHighISawJesus · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1senxga/dlt_open_source/)
+2026-04-07 · u/SoHighISawJesus · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1senxga/dlt_open_source/) · [↑ back to the list](#last-50-posts)
 
 > dlt has been really leaning into their marketing as the "open" alternative to other tools such as fivetran. However, with dlt being a rather new tool they are already locking features I consider pretty detrimental, such as S3 table destination, behind a pay wall. Thoughts if it's worth working with this tool?
 
+<a id="post-46"></a>
+
 ### 46. Our agentic hackathon offsite conclusions
 
-2026-03-27 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s53rja/our_agentic_hackathon_offsite_conclusions/)
+2026-03-27 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s53rja/our_agentic_hackathon_offsite_conclusions/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/5bqpxve88lrg1.png>
 
 
+<a id="post-47"></a>
+
 ### 47. Prompt → production data pipeline in one session (with validation + deployment)
 
-2026-03-25 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s2vidp/prompt_production_data_pipeline_in_one_session/)
+2026-03-25 · u/Thinker_Assignment · Announcement · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s2vidp/prompt_production_data_pipeline_in_one_session/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, we’ve been seeing more and more people use agents to generate dlt pipelines. The shift is that writing the pipeline isn’t the hard part anymore, it’s everything beyond that: validating the data, understanding what was loaded, and safely deploying to production. So we built something around that, we’re introducing the **dltHub AI Workbench**.
 >
@@ -1085,9 +1179,11 @@ Link: <https://i.redd.it/5bqpxve88lrg1.png>
 > Full write-up + demo:  
 > [https://dlthub.com/blog/ai-workbench](https://dlthub.com/blog/ai-workbench)
 
+<a id="post-48"></a>
+
 ### 48. Ontology driven data modelling toolkit
 
-2026-03-24 · u/Original_Response925 · Blog Post · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s2htyb/ontology_driven_data_modelling_toolkit/)
+2026-03-24 · u/Original_Response925 · Blog Post · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1s2htyb/ontology_driven_data_modelling_toolkit/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/edtwzokjh0rg1.png>
 
@@ -1103,9 +1199,11 @@ Link: <https://i.redd.it/edtwzokjh0rg1.png>
 >
 > [https://dlthub.com/blog/ontology-toolkit-preview](https://dlthub.com/blog/ontology-toolkit-preview)
 
+<a id="post-49"></a>
+
 ### 49. WAP breaks earlier than you think, we’ve been using AWAP instead
 
-2026-03-18 · u/Thinker_Assignment · Sharing · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1rwxakn/wap_breaks_earlier_than_you_think_weve_been_using/)
+2026-03-18 · u/Thinker_Assignment · Sharing · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1rwxakn/wap_breaks_earlier_than_you_think_weve_been_using/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/61kdseljarpg1.jpeg>
 
@@ -1127,9 +1225,11 @@ Link: <https://i.redd.it/61kdseljarpg1.jpeg>
 >
 > Roshni Melwani wrote a more detailed breakdown of how we’re doing this with dlt: [https://dlthub.com/blog/awap](https://dlthub.com/blog/awap)
 
+<a id="post-50"></a>
+
 ### 50. Turning production traces into training data (dlt → Hugging Face → Distil Labs)
 
-2026-03-18 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1rwx2n0/turning_production_traces_into_training_data_dlt/)
+2026-03-18 · u/Thinker_Assignment · Sharing · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dltHub/comments/1rwx2n0/turning_production_traces_into_training_data_dlt/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/s2i3enha8rpg1.png>
 

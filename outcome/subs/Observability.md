@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Tool: AgentPulse — Ecosystem intelligence for agent builders](https://www.reddit.com/r/Observability/comments/1xpurfu/tool_agentpulse_ecosystem_intelligence_for_agent/) | u/SeanstarJson | — | text | 0 | 0 | spam-filtered | — |
-| 2 | 2026-11-07 | [How do you track breaking changes & price shifts for your production LangGraph agents?](https://www.reddit.com/r/Observability/comments/1xpuqq8/how_do_you_track_breaking_changes_price_shifts/) | u/SeanstarJson | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 3 | 2026-11-06 | [Moving to Splunk Cloud with Confidence](https://www.reddit.com/r/Observability/comments/1xpncjk/moving_to_splunk_cloud_with_confidence/) | u/Proper_Drama1386 | — | text | 0 | 8 | live | — |
-| 4 | 2026-11-06 | [I built a free observability tool to make telemetry easier for side projects](https://www.reddit.com/r/Observability/comments/1xpmapt/i_built_a_free_observability_tool_to_make/) | u/VforVenreddit | — | text | 0 | 10 | live | — |
-| 5 | 2026-11-06 | [debugging slow Spark jobs, what actually takes the longest?](https://www.reddit.com/r/Observability/comments/1xpezfa/debugging_slow_spark_jobs_what_actually_takes_the/) | u/Jess_Holbrook6 | — | text | 0 | 0 | content_takedown | — |
-| 6 | 2026-11-06 | [Our sampling dropped the one request that mattered.](https://www.reddit.com/r/Observability/comments/1xp8uzt/our_sampling_dropped_the_one_request_that_mattered/) | u/No-Platypus-399 | — | text | 0 | 7 | live | — |
-| 7 | 2026-11-05 | [Jobs board for observability jobs](https://www.reddit.com/r/Observability/comments/1xoxpd9/jobs_board_for_observability_jobs/) | u/vieral | — | text | 2 | 1 | live | — |
-| 8 | 2026-11-05 | [AI Broke Cybersecurity. Visual Programming Can Fix It.](https://www.reddit.com/r/Observability/comments/1xoq5mb/ai_broke_cybersecurity_visual_programming_can_fix/) | u/PurpleDragon99 | — | i.redd.it | 0 | 2 | live | — |
-| 9 | 2026-11-05 | [Spark metrics look fine but jobs still run slow?](https://www.reddit.com/r/Observability/comments/1xol1pr/spark_metrics_look_fine_but_jobs_still_run_slow/) | u/Ablerol_Magician8626 | — | text | 0 | 0 | content_takedown | — |
-| 10 | 2026-11-05 | [We built an observability layer for AI agents, but realized traces don't tell the whole story](https://www.reddit.com/r/Observability/comments/1xodx5a/we_built_an_observability_layer_for_ai_agents_but/) | u/Ok-Machine7983 | — | text | 0 | 4 | live | — |
-| 11 | 2026-11-05 | [Gpu observability](https://www.reddit.com/r/Observability/comments/1xobans/gpu_observability/) | u/Snoo_22993 | — | text | 0 | 5 | live | — |
-| 12 | 2026-11-05 | [Multicast monitoring](https://www.reddit.com/r/Observability/comments/1xo88xo/multicast_monitoring/) | u/Simple_Solution4558 | — | reddit.com | 2 | 0 | live | — |
-| 13 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](https://www.reddit.com/r/Observability/comments/1xo5ttv/kubernetes_monitoring_which_metrics_should_i/) | u/EREKONS | — | reddit.com | 1 | 0 | live | — |
-| 14 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monitoring_which_metrics_should_i/) | u/EREKONS | — | text | 8 | 7 | live | — |
-| 15 | 2026-11-04 | [Have anyone test AWS omni?](https://www.reddit.com/r/Observability/comments/1xnyagj/have_anyone_test_aws_omni/) | u/erikschmutz | — | text | 3 | 0 | live | — |
-| 16 | 2026-11-04 | [How do you detect that a provider is actually down before your users tell you?](https://www.reddit.com/r/Observability/comments/1xnpipu/how_do_you_detect_that_a_provider_is_actually/) | u/Suresh-R | — | reddit.com | 3 | 3 | live | — |
-| 17 | 2026-11-04 | [Anyone has experience with DualBird vs Databricks Photon? Which one gives better Spark observability?](https://www.reddit.com/r/Observability/comments/1xnkg8z/anyone_has_experience_with_dualbird_vs_databricks/) | u/Fluff_Bqarracuda_849 | — | text | 1 | 0 | live | — |
-| 18 | 2026-11-04 | [Agent Reliability Engineering](https://www.reddit.com/r/Observability/comments/1xnjb45/agent_reliability_engineering/) | u/NoSufficientDoubt | — | text | 5 | 4 | live | — |
-| 19 | 2026-11-03 | [ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)](https://www.reddit.com/r/Observability/comments/1xn4u69/observecraft_opensource_selfhosted_observability/) | u/stivenukilleru | — | reddit.com | 0 | 0 | live | — |
-| 20 | 2026-11-03 | [ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)](https://www.reddit.com/r/Observability/comments/1xn4dku/observecraft_opensource_selfhosted_observability/) | u/stivenukilleru | — | reddit.com | 1 | 0 | live | — |
-| 21 | 2026-11-03 | [Advice on understanding key concerns for SREs](https://www.reddit.com/r/Observability/comments/1xmu8rd/advice_on_understanding_key_concerns_for_sres/) | u/Dense_Phase_2942 | — | text | 1 | 2 | live | — |
-| 22 | 2026-11-03 | [Random node pod maxes out CPU for 5 min a few times a week, then gets killed](https://www.reddit.com/r/Observability/comments/1xmovfm/random_node_pod_maxes_out_cpu_for_5_min_a_few/) | u/Logical_cmatuary3322 | — | text | 0 | 0 | spam-filtered | — |
-| 23 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](https://www.reddit.com/r/Observability/comments/1xmn1yb/how_are_you_evaluating_ai_observability_platforms/) | u/Bonree | — | text | 2 | 2 | live | — |
-| 24 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](https://www.reddit.com/r/Observability/comments/1xmn1w4/how_are_you_evaluating_ai_observability_platforms/) | u/Bonree | — | i.redd.it | 0 | 0 | live | — |
-| 25 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](https://www.reddit.com/r/Observability/comments/1xmn1g1/how_are_you_evaluating_ai_observability_platforms/) | u/Bonree | — | i.redd.it | 1 | 2 | live | — |
-| 26 | 2026-11-03 | [Production debugging with hud... what actually takes the longest?](https://www.reddit.com/r/Observability/comments/1xmk0po/production_debugging_with_hud_what_actually_takes/) | u/No-Employ-7601 | — | text | 2 | 5 | live | — |
-| 27 | 2026-11-03 | [I made a free Prometheus disk sizing calculator (WAL + compaction headroom included). Do these assumptions ma…](https://www.reddit.com/r/Observability/comments/1xmhe6r/i_made_a_free_prometheus_disk_sizing_calculator/) | u/kkkevinkkkk | — | text | 3 | 2 | live | — |
-| 28 | 2026-11-02 | [The alarming log line — a beginner-friendly exercise](https://www.reddit.com/r/Observability/comments/1xm94it/the_alarming_log_line_a_beginnerfriendly_exercise/) | u/After-Assist-5637 | — | text | 2 | 7 | live | — |
-| 29 | 2026-11-02 | [What do you check on your phone after a Grafana alert?](https://www.reddit.com/r/Observability/comments/1xm8k5t/what_do_you_check_on_your_phone_after_a_grafana/) | u/pudth | — | text | 2 | 4 | live | — |
-| 30 | 2026-11-02 | [hooktop: experimenting with local Claude Code observability](https://www.reddit.com/r/Observability/comments/1xm37hm/hooktop_experimenting_with_local_claude_code/) | u/Coleslaw6317 | — | i.redd.it | 1 | 0 | live | — |
-| 31 | 2026-11-02 | [How do you tell when an AI agent has stopped behaving like itself?](https://www.reddit.com/r/Observability/comments/1xm0x8l/how_do_you_tell_when_an_ai_agent_has_stopped/) | u/Efficient-Simple480 | — | v.redd.it | 1 | 0 | live | — |
-| 32 | 2026-11-02 | [When a CVE hits KEV, how long does it take to tell if you're exposed?](https://www.reddit.com/r/Observability/comments/1xlw43m/when_a_cve_hits_kev_how_long_does_it_take_to_tell/) | u/shelby_ashby428 | — | text | 1 | 0 | live | — |
-| 33 | 2026-11-02 | [How do you organize Kibana Spaces, indices, and telemetry across multiple domains to monitor from a service p…](https://www.reddit.com/r/Observability/comments/1xlvnei/how_do_you_organize_kibana_spaces_indices_and/) | u/21SavageLocal | — | text | 3 | 5 | live | — |
-| 34 | 2026-11-02 | [BMS and IBMS analytics: what has actually been useful for your clients?](https://www.reddit.com/r/Observability/comments/1xlvci2/bms_and_ibms_analytics_what_has_actually_been/) | u/Anxious_Top_4250 | — | reddit.com | 1 | 0 | live | — |
-| 35 | 2026-11-02 | [need some hardware accelerated data processing recommendation for our security logs](https://www.reddit.com/r/Observability/comments/1xlsjzt/need_some_hardware_accelerated_data_processing/) | u/Short-Incident-1199 | — | text | 0 | 2 | live | — |
-| 36 | 2026-11-01 | [Cruscotto e mappe](https://www.reddit.com/r/Observability/comments/1xlfj12/cruscotto_e_mappe/) | u/Gloomy-Weekend-3152 | — | reddit.com | 2 | 0 | live | — |
-| 37 | 2026-11-01 | [Nexus -> self-hosted observability for the calls between your systems](https://www.reddit.com/r/Observability/comments/1xlevq3/nexus_selfhosted_observability_for_the_calls/) | u/BennY_Flutter | — | text | 1 | 0 | spam-filtered | — |
-| 38 | 2026-11-01 | [I've been building ClusterHeart, and I'd love for some of you to give it a try.](https://www.reddit.com/r/Observability/comments/1xleuy3/ive_been_building_clusterheart_and_id_love_for/) | u/Bitter_Teaching_2905 | — | reddit.com | 0 | 0 | live | — |
-| 39 | 2026-11-01 | [Why companies spend so much on multiple observability tools?](https://www.reddit.com/r/Observability/comments/1xldo3r/why_companies_spend_so_much_on_multiple/) | u/Bionic-Prince | — | reddit.com | 0 | 2 | live | — |
-| 40 | 2026-11-01 | [kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause](https://www.reddit.com/r/Observability/comments/1xkzqlf/kwatch_v1_it_now_groups_related_kubernetes_alerts/) | u/abahmed12 | — | github.com | 5 | 2 | live | — |
-| 41 | 2026-10-31 | [what are you using to get production debugging context into cursor?](https://www.reddit.com/r/Observability/comments/1xki1bu/what_are_you_using_to_get_production_debugging/) | u/Plus-Lawflbaness1576 | — | text | 2 | 4 | live | — |
-| 42 | 2026-10-31 | [Anyone has experience with both Orca and Wiz? Which one do you prefer for CNAPP?](https://www.reddit.com/r/Observability/comments/1xkhkxz/anyone_has_experience_with_both_orca_and_wiz/) | u/Short-Incident-1199 | — | text | 3 | 1 | live | — |
-| 43 | 2026-10-31 | [Ten Ways to Look at 10k Agents: Prototyping a Viewer for Swarm Traces](https://www.reddit.com/r/Observability/comments/1xkf6dd/ten_ways_to_look_at_10k_agents_prototyping_a/) | u/wanderingtraveller | — | alexstrick.com | 1 | 1 | live | — |
-| 44 | 2026-10-31 | [Threshold Walker // Asynchronous Process Telemetry Audit // Testing Offline AI Process Throngs over Kali Core…](https://www.reddit.com/r/Observability/comments/1xkentc/threshold_walker_asynchronous_process_telemetry/) | u/Nervous_Row_9953 | — | twitch.tv | 1 | 0 | live | — |
-| 45 | 2026-10-31 | [what are you using to get production debugging context into cursor?](https://www.reddit.com/r/Observability/comments/1xk7t8w/what_are_you_using_to_get_production_debugging/) | u/Weekly_Oil230 | — | text | 0 | 0 | spam-filtered | — |
-| 46 | 2026-10-31 | [I built a mobile client for Uptime Kuma (iOS + Android) – feedback welcome, especially on Kuma 2](https://www.reddit.com/r/Observability/comments/1xk3dwt/i_built_a_mobile_client_for_uptime_kuma_ios/) | u/Stodeo | — | reddit.com | 1 | 1 | live | — |
-| 47 | 2026-10-31 | [Remote monitoring software, what thresholds do you page on..](https://www.reddit.com/r/Observability/comments/1xk10d7/remote_monitoring_software_what_thresholds_do_you/) | u/Icy_Tip5169 | — | text | 0 | 0 | spam-filtered | — |
-| 48 | 2026-10-31 | [OpenTelemetry dev tool](https://www.reddit.com/r/Observability/comments/1xk0o5c/opentelemetry_dev_tool/) | u/tshawkins | — | reddit.com | 1 | 0 | live | — |
-| 49 | 2026-10-30 | [Are the "three pillars" of observability outdated? What does your stack look like today?](https://www.reddit.com/r/Observability/comments/1xjigrs/are_the_three_pillars_of_observability_outdated/) | u/Dense_Size9394 | — | reddit.com | 0 | 1 | live | — |
-| 50 | 2026-10-30 | [Tutorial: Grafana for PHP to visualize telemetry data](https://www.reddit.com/r/Observability/comments/1xjhvxj/tutorial_grafana_for_php_to_visualize_telemetry/) | u/usmanlinux | — | youtube.com | 1 | 0 | live | — |
+| 1 | 2026-11-07 | [Tool: AgentPulse — Ecosystem intelligence for agent builders](#post-1) | u/SeanstarJson | — | text | 0 | 0 | spam-filtered | — |
+| 2 | 2026-11-07 | [How do you track breaking changes & price shifts for your production LangGraph agents?](#post-2) | u/SeanstarJson | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 3 | 2026-11-06 | [Moving to Splunk Cloud with Confidence](#post-3) | u/Proper_Drama1386 | — | text | 0 | 8 | live | — |
+| 4 | 2026-11-06 | [I built a free observability tool to make telemetry easier for side projects](#post-4) | u/VforVenreddit | — | text | 0 | 10 | live | — |
+| 5 | 2026-11-06 | [debugging slow Spark jobs, what actually takes the longest?](#post-5) | u/Jess_Holbrook6 | — | text | 0 | 0 | content_takedown | — |
+| 6 | 2026-11-06 | [Our sampling dropped the one request that mattered.](#post-6) | u/No-Platypus-399 | — | text | 0 | 7 | live | — |
+| 7 | 2026-11-05 | [Jobs board for observability jobs](#post-7) | u/vieral | — | text | 2 | 1 | live | — |
+| 8 | 2026-11-05 | [AI Broke Cybersecurity. Visual Programming Can Fix It.](#post-8) | u/PurpleDragon99 | — | i.redd.it | 0 | 2 | live | — |
+| 9 | 2026-11-05 | [Spark metrics look fine but jobs still run slow?](#post-9) | u/Ablerol_Magician8626 | — | text | 0 | 0 | content_takedown | — |
+| 10 | 2026-11-05 | [We built an observability layer for AI agents, but realized traces don't tell the whole story](#post-10) | u/Ok-Machine7983 | — | text | 0 | 4 | live | — |
+| 11 | 2026-11-05 | [Gpu observability](#post-11) | u/Snoo_22993 | — | text | 0 | 5 | live | — |
+| 12 | 2026-11-05 | [Multicast monitoring](#post-12) | u/Simple_Solution4558 | — | reddit.com | 2 | 0 | live | — |
+| 13 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](#post-13) | u/EREKONS | — | reddit.com | 1 | 0 | live | — |
+| 14 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](#post-14) | u/EREKONS | — | text | 8 | 7 | live | — |
+| 15 | 2026-11-04 | [Have anyone test AWS omni?](#post-15) | u/erikschmutz | — | text | 3 | 0 | live | — |
+| 16 | 2026-11-04 | [How do you detect that a provider is actually down before your users tell you?](#post-16) | u/Suresh-R | — | reddit.com | 3 | 3 | live | — |
+| 17 | 2026-11-04 | [Anyone has experience with DualBird vs Databricks Photon? Which one gives better Spark observability?](#post-17) | u/Fluff_Bqarracuda_849 | — | text | 1 | 0 | live | — |
+| 18 | 2026-11-04 | [Agent Reliability Engineering](#post-18) | u/NoSufficientDoubt | — | text | 5 | 4 | live | — |
+| 19 | 2026-11-03 | [ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)](#post-19) | u/stivenukilleru | — | reddit.com | 0 | 0 | live | — |
+| 20 | 2026-11-03 | [ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)](#post-20) | u/stivenukilleru | — | reddit.com | 1 | 0 | live | — |
+| 21 | 2026-11-03 | [Advice on understanding key concerns for SREs](#post-21) | u/Dense_Phase_2942 | — | text | 1 | 2 | live | — |
+| 22 | 2026-11-03 | [Random node pod maxes out CPU for 5 min a few times a week, then gets killed](#post-22) | u/Logical_cmatuary3322 | — | text | 0 | 0 | spam-filtered | — |
+| 23 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](#post-23) | u/Bonree | — | text | 2 | 2 | live | — |
+| 24 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](#post-24) | u/Bonree | — | i.redd.it | 0 | 0 | live | — |
+| 25 | 2026-11-03 | [How are you evaluating AI observability platforms for financial services? What actually matters in production?](#post-25) | u/Bonree | — | i.redd.it | 1 | 2 | live | — |
+| 26 | 2026-11-03 | [Production debugging with hud... what actually takes the longest?](#post-26) | u/No-Employ-7601 | — | text | 2 | 5 | live | — |
+| 27 | 2026-11-03 | [I made a free Prometheus disk sizing calculator (WAL + compaction headroom included). Do these assumptions ma…](#post-27) | u/kkkevinkkkk | — | text | 3 | 2 | live | — |
+| 28 | 2026-11-02 | [The alarming log line — a beginner-friendly exercise](#post-28) | u/After-Assist-5637 | — | text | 2 | 7 | live | — |
+| 29 | 2026-11-02 | [What do you check on your phone after a Grafana alert?](#post-29) | u/pudth | — | text | 2 | 4 | live | — |
+| 30 | 2026-11-02 | [hooktop: experimenting with local Claude Code observability](#post-30) | u/Coleslaw6317 | — | i.redd.it | 1 | 0 | live | — |
+| 31 | 2026-11-02 | [How do you tell when an AI agent has stopped behaving like itself?](#post-31) | u/Efficient-Simple480 | — | v.redd.it | 1 | 0 | live | — |
+| 32 | 2026-11-02 | [When a CVE hits KEV, how long does it take to tell if you're exposed?](#post-32) | u/shelby_ashby428 | — | text | 1 | 0 | live | — |
+| 33 | 2026-11-02 | [How do you organize Kibana Spaces, indices, and telemetry across multiple domains to monitor from a service p…](#post-33) | u/21SavageLocal | — | text | 3 | 5 | live | — |
+| 34 | 2026-11-02 | [BMS and IBMS analytics: what has actually been useful for your clients?](#post-34) | u/Anxious_Top_4250 | — | reddit.com | 1 | 0 | live | — |
+| 35 | 2026-11-02 | [need some hardware accelerated data processing recommendation for our security logs](#post-35) | u/Short-Incident-1199 | — | text | 0 | 2 | live | — |
+| 36 | 2026-11-01 | [Cruscotto e mappe](#post-36) | u/Gloomy-Weekend-3152 | — | reddit.com | 2 | 0 | live | — |
+| 37 | 2026-11-01 | [Nexus -> self-hosted observability for the calls between your systems](#post-37) | u/BennY_Flutter | — | text | 1 | 0 | spam-filtered | — |
+| 38 | 2026-11-01 | [I've been building ClusterHeart, and I'd love for some of you to give it a try.](#post-38) | u/Bitter_Teaching_2905 | — | reddit.com | 0 | 0 | live | — |
+| 39 | 2026-11-01 | [Why companies spend so much on multiple observability tools?](#post-39) | u/Bionic-Prince | — | reddit.com | 0 | 2 | live | — |
+| 40 | 2026-11-01 | [kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause](#post-40) | u/abahmed12 | — | github.com | 5 | 2 | live | — |
+| 41 | 2026-10-31 | [what are you using to get production debugging context into cursor?](#post-41) | u/Plus-Lawflbaness1576 | — | text | 2 | 4 | live | — |
+| 42 | 2026-10-31 | [Anyone has experience with both Orca and Wiz? Which one do you prefer for CNAPP?](#post-42) | u/Short-Incident-1199 | — | text | 3 | 1 | live | — |
+| 43 | 2026-10-31 | [Ten Ways to Look at 10k Agents: Prototyping a Viewer for Swarm Traces](#post-43) | u/wanderingtraveller | — | alexstrick.com | 1 | 1 | live | — |
+| 44 | 2026-10-31 | [Threshold Walker // Asynchronous Process Telemetry Audit // Testing Offline AI Process Throngs over Kali Core…](#post-44) | u/Nervous_Row_9953 | — | twitch.tv | 1 | 0 | live | — |
+| 45 | 2026-10-31 | [what are you using to get production debugging context into cursor?](#post-45) | u/Weekly_Oil230 | — | text | 0 | 0 | spam-filtered | — |
+| 46 | 2026-10-31 | [I built a mobile client for Uptime Kuma (iOS + Android) – feedback welcome, especially on Kuma 2](#post-46) | u/Stodeo | — | reddit.com | 1 | 1 | live | — |
+| 47 | 2026-10-31 | [Remote monitoring software, what thresholds do you page on..](#post-47) | u/Icy_Tip5169 | — | text | 0 | 0 | spam-filtered | — |
+| 48 | 2026-10-31 | [OpenTelemetry dev tool](#post-48) | u/tshawkins | — | reddit.com | 1 | 0 | live | — |
+| 49 | 2026-10-30 | [Are the "three pillars" of observability outdated? What does your stack look like today?](#post-49) | u/Dense_Size9394 | — | reddit.com | 0 | 1 | live | — |
+| 50 | 2026-10-30 | [Tutorial: Grafana for PHP to visualize telemetry data](#post-50) | u/usmanlinux | — | youtube.com | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,47 +86,53 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-29 | [Structured log ingestion benchmark: Loki, Elasticsearch, OpenSearch, SigNoz, ClickStack and VictoriaLogs, and…](https://www.reddit.com/r/Observability/comments/1xilvgw/structured_log_ingestion_benchmark_loki/) | u/lllkong | — | victoriametrics.com | 40 | 3 | live |
-| 52 | 2026-10-24 | [Looking to dive deep into Observability](https://www.reddit.com/r/Observability/comments/1xe40zl/looking_to_dive_deep_into_observability/) | u/ImpressiveSeat9866 | — | text | 25 | 14 | live |
-| 53 | 2026-10-28 | [Trace context propagation drops across async SQS worker hops](https://www.reddit.com/r/Observability/comments/1xhplqd/trace_context_propagation_drops_across_async_sqs/) | u/Rich-Feeling8860 | — | text | 18 | 12 | live |
-| 54 | 2026-10-27 | [Our Datadog renewal came is nearly 2x compared to last year](https://www.reddit.com/r/Observability/comments/1xh0yjz/our_datadog_renewal_came_is_nearly_2x_compared_to/) | u/David-Vogel | — | text | 16 | 38 | live |
-| 55 | 2026-10-21 | [How do you choose application performance monitoring tools? Every quote looks the same](https://www.reddit.com/r/Observability/comments/1xbclmv/how_do_you_choose_application_performance/) | u/andyileen | — | text | 16 | 20 | live |
-| 56 | 2026-10-28 | [How to Set Up OpenTelemetry Profiling on Local Kubernetes](https://www.reddit.com/r/Observability/comments/1xhwzp2/how_to_set_up_opentelemetry_profiling_on_local/) | u/jpkroehling | — | ollygarden.com | 13 | 0 | live |
-| 57 | 2026-10-23 | [What does AI-assisted incident investigation actually look like at your company right now?](https://www.reddit.com/r/Observability/comments/1xdcnvs/what_does_aiassisted_incident_investigation/) | u/Commercial_Plastic72 | — | text | 10 | 14 | live |
-| 58 | 2026-10-23 | [What are some use cases for an internal system monitoring bot?](https://www.reddit.com/r/Observability/comments/1xd4xqz/what_are_some_use_cases_for_an_internal_system/) | u/kunjontemon | — | text | 9 | 8 | live |
-| 14 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monitoring_which_metrics_should_i/) | u/EREKONS | — | text | 8 | 7 | live |
-| 59 | 2026-10-29 | [What can i use for Synthetic transaction monitoring for desktop apps and not just websites](https://www.reddit.com/r/Observability/comments/1xiagvf/what_can_i_use_for_synthetic_transaction/) | u/larabyeol | — | text | 7 | 8 | live |
-| 60 | 2026-10-11 | [Workload agnostic baseline alerts](https://www.reddit.com/r/Observability/comments/1x3c1e5/workload_agnostic_baseline_alerts/) | u/Prize_Industry2887 | — | text | 6 | 11 | live |
-| 61 | 2026-10-24 | [What do you look for in a network monitoring and IT operations platform?](https://www.reddit.com/r/Observability/comments/1xe0khk/what_do_you_look_for_in_a_network_monitoring_and/) | u/vrushang_20 | — | text | 6 | 9 | live |
-| 62 | 2026-10-14 | [How I think an observability platform works.](https://www.reddit.com/r/Observability/comments/1x5uvpq/how_i_think_an_observability_platform_works/) | u/Alarming-Drawer-3127 | — | text | 6 | 8 | live |
-| 63 | 2026-10-16 | [made an open-source analytics tool that doesn't rely on node.js](https://www.reddit.com/r/Observability/comments/1x7qb8k/made_an_opensource_analytics_tool_that_doesnt/) | u/Dovahkciin | — | text | 6 | 5 | live |
-| 64 | 2026-10-17 | [Buy the SRE ebook and throw it at your work Claude.](https://www.reddit.com/r/Observability/comments/1x83390/buy_the_sre_ebook_and_throw_it_at_your_work_claude/) | u/SWEETJUICYWALRUS | — | reddit.com | 6 | 0 | live |
-| 65 | 2026-10-11 | [Condense millions of logs into a tiny snapshot that fits into your LLM](https://www.reddit.com/r/Observability/comments/1x31pri/condense_millions_of_logs_into_a_tiny_snapshot/) | u/CommanderAlPachino | — | github.com | 6 | 0 | live |
-| 66 | 2026-10-27 | [We have JFR, heap dumps and Datadog, and incidents still take hours](https://www.reddit.com/r/Observability/comments/1xgquww/we_have_jfr_heap_dumps_and_datadog_and_incidents/) | u/Top-Fly-8804 | — | text | 5 | 7 | live |
-| 18 | 2026-11-04 | [Agent Reliability Engineering](https://www.reddit.com/r/Observability/comments/1xnjb45/agent_reliability_engineering/) | u/NoSufficientDoubt | — | text | 5 | 4 | live |
-| 67 | 2026-10-27 | [datadog integration](https://www.reddit.com/r/Observability/comments/1xh8d26/datadog_integration/) | u/Reasonable-Minute-18 | — | text | 5 | 4 | live |
-| 40 | 2026-11-01 | [kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause](https://www.reddit.com/r/Observability/comments/1xkzqlf/kwatch_v1_it_now_groups_related_kubernetes_alerts/) | u/abahmed12 | — | github.com | 5 | 2 | live |
+| 51 | 2026-10-29 | [Structured log ingestion benchmark: Loki, Elasticsearch, OpenSearch, SigNoz, ClickStack and VictoriaLogs, and…](#post-51) | u/lllkong | — | victoriametrics.com | 40 | 3 | live |
+| 52 | 2026-10-24 | [Looking to dive deep into Observability](#post-52) | u/ImpressiveSeat9866 | — | text | 25 | 14 | live |
+| 53 | 2026-10-28 | [Trace context propagation drops across async SQS worker hops](#post-53) | u/Rich-Feeling8860 | — | text | 18 | 12 | live |
+| 54 | 2026-10-27 | [Our Datadog renewal came is nearly 2x compared to last year](#post-54) | u/David-Vogel | — | text | 16 | 38 | live |
+| 55 | 2026-10-21 | [How do you choose application performance monitoring tools? Every quote looks the same](#post-55) | u/andyileen | — | text | 16 | 20 | live |
+| 56 | 2026-10-28 | [How to Set Up OpenTelemetry Profiling on Local Kubernetes](#post-56) | u/jpkroehling | — | ollygarden.com | 13 | 0 | live |
+| 57 | 2026-10-23 | [What does AI-assisted incident investigation actually look like at your company right now?](#post-57) | u/Commercial_Plastic72 | — | text | 10 | 14 | live |
+| 58 | 2026-10-23 | [What are some use cases for an internal system monitoring bot?](#post-58) | u/kunjontemon | — | text | 9 | 8 | live |
+| 14 | 2026-11-05 | [Kubernetes Monitoring: Which Metrics Should I Monitor?](#post-14) | u/EREKONS | — | text | 8 | 7 | live |
+| 59 | 2026-10-29 | [What can i use for Synthetic transaction monitoring for desktop apps and not just websites](#post-59) | u/larabyeol | — | text | 7 | 8 | live |
+| 60 | 2026-10-11 | [Workload agnostic baseline alerts](#post-60) | u/Prize_Industry2887 | — | text | 6 | 11 | live |
+| 61 | 2026-10-24 | [What do you look for in a network monitoring and IT operations platform?](#post-61) | u/vrushang_20 | — | text | 6 | 9 | live |
+| 62 | 2026-10-14 | [How I think an observability platform works.](#post-62) | u/Alarming-Drawer-3127 | — | text | 6 | 8 | live |
+| 63 | 2026-10-16 | [made an open-source analytics tool that doesn't rely on node.js](#post-63) | u/Dovahkciin | — | text | 6 | 5 | live |
+| 64 | 2026-10-17 | [Buy the SRE ebook and throw it at your work Claude.](#post-64) | u/SWEETJUICYWALRUS | — | reddit.com | 6 | 0 | live |
+| 65 | 2026-10-11 | [Condense millions of logs into a tiny snapshot that fits into your LLM](#post-65) | u/CommanderAlPachino | — | github.com | 6 | 0 | live |
+| 66 | 2026-10-27 | [We have JFR, heap dumps and Datadog, and incidents still take hours](#post-66) | u/Top-Fly-8804 | — | text | 5 | 7 | live |
+| 18 | 2026-11-04 | [Agent Reliability Engineering](#post-18) | u/NoSufficientDoubt | — | text | 5 | 4 | live |
+| 67 | 2026-10-27 | [datadog integration](#post-67) | u/Reasonable-Minute-18 | — | text | 5 | 4 | live |
+| 40 | 2026-11-01 | [kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause](#post-40) | u/abahmed12 | — | github.com | 5 | 2 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Tool: AgentPulse — Ecosystem intelligence for agent builders
 
-2026-11-07 · u/SeanstarJson · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpurfu/tool_agentpulse_ecosystem_intelligence_for_agent/)
+2026-11-07 · u/SeanstarJson · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpurfu/tool_agentpulse_ecosystem_intelligence_for_agent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-2"></a>
+
 ### 2. How do you track breaking changes & price shifts for your production LangGraph agents?
 
-2026-11-07 · u/SeanstarJson · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpuqq8/how_do_you_track_breaking_changes_price_shifts/)
+2026-11-07 · u/SeanstarJson · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpuqq8/how_do_you_track_breaking_changes_price_shifts/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/o5pxqz3ul30i1.png>
 
 
+<a id="post-3"></a>
+
 ### 3. Moving to Splunk Cloud with Confidence
 
-2026-11-06 · u/Proper_Drama1386 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpncjk/moving_to_splunk_cloud_with_confidence/)
+2026-11-06 · u/Proper_Drama1386 · score 0 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpncjk/moving_to_splunk_cloud_with_confidence/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I work at Presidio, where we help teams move Splunk environments to Splunk Cloud. Our engineering team wrote up the lessons from those projects, and a few things stood out that probably apply to any platform move:
 >
@@ -142,9 +148,11 @@ Link: <https://i.redd.it/o5pxqz3ul30i1.png>
 >
 > Happy to share the write-up if anyone wants it, but I’m mostly here to learn what others ran into.
 
+<a id="post-4"></a>
+
 ### 4. I built a free observability tool to make telemetry easier for side projects
 
-2026-11-06 · u/VforVenreddit · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpmapt/i_built_a_free_observability_tool_to_make/)
+2026-11-06 · u/VforVenreddit · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpmapt/i_built_a_free_observability_tool_to_make/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/Observability 👋
 >
@@ -171,30 +179,38 @@ Link: <https://i.redd.it/o5pxqz3ul30i1.png>
 >
 > Docs: https://telemio.sh/docs
 
+<a id="post-5"></a>
+
 ### 5. debugging slow Spark jobs, what actually takes the longest?
 
-2026-11-06 · u/Jess_Holbrook6 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpezfa/debugging_slow_spark_jobs_what_actually_takes_the/)
+2026-11-06 · u/Jess_Holbrook6 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xpezfa/debugging_slow_spark_jobs_what_actually_takes_the/) · [↑ back to the list](#last-50-posts)
 
 > hi.. for me it is not spotting the slow stage, it’s figuring out what happened around it across executor logs, shuffle metrics and recent pipeline changes. feels like I keep coming back to spills and skew. been looking at dualbird, curious whether changing the execution layer actually means less time debugging or just different things to dig into. What do other teams spend most of their time on tbh..
 
+<a id="post-6"></a>
+
 ### 6. Our sampling dropped the one request that mattered.
 
-2026-11-06 · u/No-Platypus-399 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xp8uzt/our_sampling_dropped_the_one_request_that_mattered/)
+2026-11-06 · u/No-Platypus-399 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xp8uzt/our_sampling_dropped_the_one_request_that_mattered/) · [↑ back to the list](#last-50-posts)
 
 > Head based sampling at a low rate because the span bill was getting silly. Last week a customer reported a failed checkout, we went looking for the trace, and it wasn’t kept. We have the error count, no detail. Tail sampling is the obvious fix and I’ve started on it, but it means every collector change is now a thing I have to validate. Someone on the team keeps bringing up hud because the sensor sits in the process and captures the request params and the path through the code at the moment a function fails, though I’m not sure it keeps that for every failure either. Datadog can do retention filters on errors which is the same idea from the other end. Anyone solved this without doubling spend? What did you end up keeping?
 
+<a id="post-7"></a>
+
 ### 7. Jobs board for observability jobs
 
-2026-11-05 · u/vieral · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xoxpd9/jobs_board_for_observability_jobs/)
+2026-11-05 · u/vieral · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xoxpd9/jobs_board_for_observability_jobs/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, found this jobs board for observability jobs only and found some roles that might work for me. Thought I'd share it. 
 >
 >
 > [https://o11y.jobs](https://o11y.jobs)
 
+<a id="post-8"></a>
+
 ### 8. AI Broke Cybersecurity. Visual Programming Can Fix It.
 
-2026-11-05 · u/PurpleDragon99 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xoq5mb/ai_broke_cybersecurity_visual_programming_can_fix/)
+2026-11-05 · u/PurpleDragon99 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xoq5mb/ai_broke_cybersecurity_visual_programming_can_fix/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/te02ed6r6uzh1.png>
 
@@ -271,17 +287,21 @@ Link: <https://i.redd.it/te02ed6r6uzh1.png>
 > 1. Data Swap – [https://www.pipelang.com/assets/tutorials/v1/tutorial1.mp4](https://www.pipelang.com/assets/tutorials/v1/tutorial1.mp4)
 > 2. Reusable Sum – [https://www.pipelang.com/assets/tutorials/v1/tutorial2.mp4](https://www.pipelang.com/assets/tutorials/v1/tutorial2.mp4)
 
+<a id="post-9"></a>
+
 ### 9. Spark metrics look fine but jobs still run slow?
 
-2026-11-05 · u/Ablerol_Magician8626 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xol1pr/spark_metrics_look_fine_but_jobs_still_run_slow/)
+2026-11-05 · u/Ablerol_Magician8626 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xol1pr/spark_metrics_look_fine_but_jobs_still_run_slow/) · [↑ back to the list](#last-50-posts)
 
 > Trying to figure out which metrics actually help identify Spark bottlenecks on EMR. CPU and memory can look fine while shuffles and disk spills slow everything down. Been looking at datadog, grafana, and spark acceleration approaches like dualbird.
 >
 > what are you guys checking first when troubleshooting this?
 
+<a id="post-10"></a>
+
 ### 10. We built an observability layer for AI agents, but realized traces don't tell the whole story
 
-2026-11-05 · u/Ok-Machine7983 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xodx5a/we_built_an_observability_layer_for_ai_agents_but/)
+2026-11-05 · u/Ok-Machine7983 · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xodx5a/we_built_an_observability_layer_for_ai_agents_but/) · [↑ back to the list](#last-50-posts)
 
 > We've been working on a system for monitoring AI agents, and one thing weve been thinking about a lot is the gap between what an agent says it did and what actually happened.
 >
@@ -303,29 +323,37 @@ Link: <https://i.redd.it/te02ed6r6uzh1.png>
 >
 > would love to hear how others are approaching this
 
+<a id="post-11"></a>
+
 ### 11. Gpu observability
 
-2026-11-05 · u/Snoo_22993 · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xobans/gpu_observability/)
+2026-11-05 · u/Snoo_22993 · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xobans/gpu_observability/) · [↑ back to the list](#last-50-posts)
 
 > What metrics do folks monitor?
 
+<a id="post-12"></a>
+
 ### 12. Multicast monitoring
 
-2026-11-05 · u/Simple_Solution4558 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo88xo/multicast_monitoring/)
+2026-11-05 · u/Simple_Solution4558 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo88xo/multicast_monitoring/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/sre/comments/1xo88rk/multicast_monitoring/>
 
 
+<a id="post-13"></a>
+
 ### 13. Kubernetes Monitoring: Which Metrics Should I Monitor?
 
-2026-11-05 · u/EREKONS · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo5ttv/kubernetes_monitoring_which_metrics_should_i/)
+2026-11-05 · u/EREKONS · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo5ttv/kubernetes_monitoring_which_metrics_should_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monitoring_which_metrics_should_i/>
 
 
+<a id="post-14"></a>
+
 ### 14. Kubernetes Monitoring: Which Metrics Should I Monitor?
 
-2026-11-05 · u/EREKONS · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monitoring_which_metrics_should_i/)
+2026-11-05 · u/EREKONS · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monitoring_which_metrics_should_i/) · [↑ back to the list](#last-50-posts)
 
 > # Kubernetes Monitoring: Which Metrics Should I Monitor?
 >
@@ -367,25 +395,31 @@ Link: <https://www.reddit.com/r/Observability/comments/1xo5t7x/kubernetes_monito
 >
 > Thanks in advance!
 
+<a id="post-15"></a>
+
 ### 15. Have anyone test AWS omni?
 
-2026-11-04 · u/erikschmutz · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnyagj/have_anyone_test_aws_omni/)
+2026-11-04 · u/erikschmutz · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnyagj/have_anyone_test_aws_omni/) · [↑ back to the list](#last-50-posts)
 
 > Is Cloudwatch Omni worth looking or should I stick with a third party software?
 >
 >
 > \[https://aws.amazon.com/cloudwatch/omni/\](https://aws.amazon.com/cloudwatch/omni/)
 
+<a id="post-16"></a>
+
 ### 16. How do you detect that a provider is actually down before your users tell you?
 
-2026-11-04 · u/Suresh-R · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnpipu/how_do_you_detect_that_a_provider_is_actually/)
+2026-11-04 · u/Suresh-R · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnpipu/how_do_you_detect_that_a_provider_is_actually/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/LLMDevs/comments/1xno4v2/how_do_you_detect_that_a_provider_is_actually/>
 
 
+<a id="post-17"></a>
+
 ### 17. Anyone has experience with DualBird vs Databricks Photon? Which one gives better Spark observability?
 
-2026-11-04 · u/Fluff_Bqarracuda_849 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnkg8z/anyone_has_experience_with_dualbird_vs_databricks/)
+2026-11-04 · u/Fluff_Bqarracuda_849 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnkg8z/anyone_has_experience_with_dualbird_vs_databricks/) · [↑ back to the list](#last-50-posts)
 
 > Findings so far:
 >
@@ -395,29 +429,37 @@ Link: <https://www.reddit.com/r/LLMDevs/comments/1xno4v2/how_do_you_detect_that_
 >
 > From what I can tell, Photon has more documented built-in profiling, while DualBird focuses on reducing execution bottlenecks like spills and shuffle overhead. What I'm trying to figure out is whether those differences actually matter when troubleshooting Spark jobs in prod. What do people who've worked with either think, especially around identifying slow stages, tracking execution time and figuring out whether performance improvements are real?
 
+<a id="post-18"></a>
+
 ### 18. Agent Reliability Engineering
 
-2026-11-04 · u/NoSufficientDoubt · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnjb45/agent_reliability_engineering/)
+2026-11-04 · u/NoSufficientDoubt · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xnjb45/agent_reliability_engineering/) · [↑ back to the list](#last-50-posts)
 
 > I have an interview coming up. What are some potential interview questions and scenario based questions that could be asked about Agent Reliability Engineering, particularly from an observability perspective?
 
+<a id="post-19"></a>
+
 ### 19. ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)
 
-2026-11-03 · u/stivenukilleru · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xn4u69/observecraft_opensource_selfhosted_observability/)
+2026-11-03 · u/stivenukilleru · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xn4u69/observecraft_opensource_selfhosted_observability/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/opensourcealternative/comments/1xn4d92/observecraft_opensource_selfhosted_observability/>
 
+
+<a id="post-20"></a>
 
 ### 20. ObserveCraft: open-source, self-hosted observability on OpenTelemetry + ClickHouse (MIT)
 
-2026-11-03 · u/stivenukilleru · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xn4dku/observecraft_opensource_selfhosted_observability/)
+2026-11-03 · u/stivenukilleru · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xn4dku/observecraft_opensource_selfhosted_observability/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/opensourcealternative/comments/1xn4d92/observecraft_opensource_selfhosted_observability/>
 
 
+<a id="post-21"></a>
+
 ### 21. Advice on understanding key concerns for SREs
 
-2026-11-03 · u/Dense_Phase_2942 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmu8rd/advice_on_understanding_key_concerns_for_sres/)
+2026-11-03 · u/Dense_Phase_2942 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmu8rd/advice_on_understanding_key_concerns_for_sres/) · [↑ back to the list](#last-50-posts)
 
 > Hello! I recently started working at an observability company. I’m not naming in hopes this doesn’t get flagged for market research I genuinely just want honest feedback from the community. 
 >
@@ -428,17 +470,21 @@ Link: <https://www.reddit.com/r/opensourcealternative/comments/1xn4d92/observecr
 > 2) since we deploy in your cloud we don’t charge based on data volume, just on k8s nodes monitored.     
 > 3) 0 manual instrumentation for 100% of telemetry data via an eBPF sensor that sits at the kernel level.
 
+<a id="post-22"></a>
+
 ### 22. Random node pod maxes out CPU for 5 min a few times a week, then gets killed
 
-2026-11-03 · u/Logical_cmatuary3322 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmovfm/random_node_pod_maxes_out_cpu_for_5_min_a_few/)
+2026-11-03 · u/Logical_cmatuary3322 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmovfm/random_node_pod_maxes_out_cpu_for_5_min_a_few/) · [↑ back to the list](#last-50-posts)
 
 > Fastify on Node 22, eight pods. A few times a week one of them goes to 100% CPU for about five minutes, event loop delay climbs past 3s and k8s kills it. Usually a different one.  
 > Load tests don't reproduce it and I can't leave --cpu-prof on in prod. No continuous profiling on this cluster either, so all I have is the CPU graph.  
 > A guy on the platform team keeps pointing me at hud, apparently it grabs context when latency spikes and not only on errors. Meanwhile I'm logging the in-flight route whenever event loop delay crosses 500ms.
 
+<a id="post-23"></a>
+
 ### 23. How are you evaluating AI observability platforms for financial services? What actually matters in production?
 
-2026-11-03 · u/Bonree · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1yb/how_are_you_evaluating_ai_observability_platforms/)
+2026-11-03 · u/Bonree · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1yb/how_are_you_evaluating_ai_observability_platforms/) · [↑ back to the list](#last-50-posts)
 
 > AI observability vendor comparisons often focus on dashboards, supported models and integrations. Those are useful, but I think they miss the harder question for financial services:
 >
@@ -579,9 +625,11 @@ Link: <https://www.reddit.com/r/opensourcealternative/comments/1xn4d92/observecr
 >
 > **Disclosure:** I work at Bonree, a company in the observability space. I’m sharing this as a practical evaluation framework, not an independent vendor ranking.
 
+<a id="post-24"></a>
+
 ### 24. How are you evaluating AI observability platforms for financial services? What actually matters in production?
 
-2026-11-03 · u/Bonree · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1w4/how_are_you_evaluating_ai_observability_platforms/)
+2026-11-03 · u/Bonree · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1w4/how_are_you_evaluating_ai_observability_platforms/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/p8869s0rsczh1>
 
@@ -724,9 +772,11 @@ Link: <https://i.redd.it/p8869s0rsczh1>
 >
 > **Disclosure:** I work at Bonree, a company in the observability space. I’m sharing this as a practical evaluation framework, not an independent vendor ranking.
 
+<a id="post-25"></a>
+
 ### 25. How are you evaluating AI observability platforms for financial services? What actually matters in production?
 
-2026-11-03 · u/Bonree · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1g1/how_are_you_evaluating_ai_observability_platforms/)
+2026-11-03 · u/Bonree · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmn1g1/how_are_you_evaluating_ai_observability_platforms/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/p8869s0rsczh1.png>
 
@@ -869,15 +919,19 @@ Link: <https://i.redd.it/p8869s0rsczh1.png>
 >
 > **Disclosure:** I work at Bonree, a company in the observability space. I’m sharing this as a practical evaluation framework, not an independent vendor ranking.
 
+<a id="post-26"></a>
+
 ### 26. Production debugging with hud... what actually takes the longest?
 
-2026-11-03 · u/No-Employ-7601 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmk0po/production_debugging_with_hud_what_actually_takes/)
+2026-11-03 · u/No-Employ-7601 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmk0po/production_debugging_with_hud_what_actually_takes/) · [↑ back to the list](#last-50-posts)
 
 > For me it’s not finding the error, it’s figuring out what happened around it across logs, traces and recent code changes. Been looking at hud for the runtime context part, curious what other teams spend most of their time on tbh
 
+<a id="post-27"></a>
+
 ### 27. I made a free Prometheus disk sizing calculator (WAL + compaction headroom included). Do these assumptions match your servers?
 
-2026-11-03 · u/kkkevinkkkk · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmhe6r/i_made_a_free_prometheus_disk_sizing_calculator/)
+2026-11-03 · u/kkkevinkkkk · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xmhe6r/i_made_a_free_prometheus_disk_sizing_calculator/) · [↑ back to the list](#last-50-posts)
 
 > Every time someone asks "how much disk does Prometheus need", the answer is the formula from the storage docs:
 >
@@ -909,9 +963,11 @@ Link: <https://i.redd.it/p8869s0rsczh1.png>
 >
 > If your real numbers differ a lot, I'll adjust the defaults.
 
+<a id="post-28"></a>
+
 ### 28. The alarming log line — a beginner-friendly exercise
 
-2026-11-02 · u/After-Assist-5637 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm94it/the_alarming_log_line_a_beginnerfriendly_exercise/)
+2026-11-02 · u/After-Assist-5637 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm94it/the_alarming_log_line_a_beginnerfriendly_exercise/) · [↑ back to the list](#last-50-posts)
 
 > You see “database connection pool exhausted”. What do you check next?
 >
@@ -929,9 +985,11 @@ Link: <https://i.redd.it/p8869s0rsczh1.png>
 >
 > If you are coming from QA, approach this as a failing test: what evidence would help you distinguish between possible explanations?
 
+<a id="post-29"></a>
+
 ### 29. What do you check on your phone after a Grafana alert?
 
-2026-11-02 · u/pudth · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm8k5t/what_do_you_check_on_your_phone_after_a_grafana/)
+2026-11-02 · u/pudth · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm8k5t/what_do_you_check_on_your_phone_after_a_grafana/) · [↑ back to the list](#last-50-posts)
 
 > I'm the developer of [Grafium](https://apps.apple.com/us/app/grafium/id6757076319), an iPhone client for Grafana dashboards and alerts. I built it for my own services because I wanted push notifications when something broke and a way to check the graphs from my phone.
 >
@@ -939,31 +997,39 @@ Link: <https://i.redd.it/p8869s0rsczh1.png>
 >
 > How does this work in your setup? When an alert reaches your phone, does the notification give you enough information, or do you open a dashboard? Which graphs or details do you look at first, and what do you still need a computer for?
 
+<a id="post-30"></a>
+
 ### 30. hooktop: experimenting with local Claude Code observability
 
-2026-11-02 · u/Coleslaw6317 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm37hm/hooktop_experimenting_with_local_claude_code/)
+2026-11-02 · u/Coleslaw6317 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm37hm/hooktop_experimenting_with_local_claude_code/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/5zvgvlhpa8zh1.gif>
 
 
+<a id="post-31"></a>
+
 ### 31. How do you tell when an AI agent has stopped behaving like itself?
 
-2026-11-02 · u/Efficient-Simple480 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm0x8l/how_do_you_tell_when_an_ai_agent_has_stopped/)
+2026-11-02 · u/Efficient-Simple480 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xm0x8l/how_do_you_tell_when_an_ai_agent_has_stopped/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/acbf3e1x72zh1>
 
 
+<a id="post-32"></a>
+
 ### 32. When a CVE hits KEV, how long does it take to tell if you're exposed?
 
-2026-11-02 · u/shelby_ashby428 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlw43m/when_a_cve_hits_kev_how_long_does_it_take_to_tell/)
+2026-11-02 · u/shelby_ashby428 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlw43m/when_a_cve_hits_kev_how_long_does_it_take_to_tell/) · [↑ back to the list](#last-50-posts)
 
 > running a vuln scanner is one thing, but I am starting to wonder how many teams can quickly answer "are we exposed?" when something new lands on KEV. Like, who owns figuring out which internet-facing systems run the affected software? And what about the stuff from a subsidiary or an old project nobody remembers setting up? I have been reading about ionix and tenable One ASM for finding public hosts we might have missed. Feels like an external view might catch things our internal scans just do not see.
 >
 > For those who have dealt with this, what iss the bigger headache? Tracking down the assets, or chasing people to patch them?
 
+<a id="post-33"></a>
+
 ### 33. How do you organize Kibana Spaces, indices, and telemetry across multiple domains to monitor from a service perspective rather than a component perspective?
 
-2026-11-02 · u/21SavageLocal · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlvnei/how_do_you_organize_kibana_spaces_indices_and/)
+2026-11-02 · u/21SavageLocal · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlvnei/how_do_you_organize_kibana_spaces_indices_and/) · [↑ back to the list](#last-50-posts)
 
 > Hi Everyone,
 >
@@ -983,49 +1049,63 @@ Link: <https://v.redd.it/acbf3e1x72zh1>
 >
 > Would love to hear what worked, what scale broke your initial design, and what you’d do differently!
 
+<a id="post-34"></a>
+
 ### 34. BMS and IBMS analytics: what has actually been useful for your clients?
 
-2026-11-02 · u/Anxious_Top_4250 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlvci2/bms_and_ibms_analytics_what_has_actually_been/)
+2026-11-02 · u/Anxious_Top_4250 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlvci2/bms_and_ibms_analytics_what_has_actually_been/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/BuildingAutomation/comments/1xlvcc1/bms_and_ibms_analytics_what_has_actually_been/>
 
 
+<a id="post-35"></a>
+
 ### 35. need some hardware accelerated data processing recommendation for our security logs
 
-2026-11-02 · u/Short-Incident-1199 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlsjzt/need_some_hardware_accelerated_data_processing/)
+2026-11-02 · u/Short-Incident-1199 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlsjzt/need_some_hardware_accelerated_data_processing/) · [↑ back to the list](#last-50-posts)
 
 > Before y’all ask what type of I’ve tried a ton of tuning on our security data lake so looking for something which is niche and good, cloudtrail, vpc flow logs and edr data keep piling up, the spark jobs feeding our detections are always behind and siem ingest costs are killing us. I’ve tried all the famous fixes like bigger clusters, gluten, gpu instances and everything and we’re going insane no help is there, now looking at hardware ones like dualbird, speedata did anyone of u tried it?
 
+<a id="post-36"></a>
+
 ### 36. Cruscotto e mappe
 
-2026-11-01 · u/Gloomy-Weekend-3152 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlfj12/cruscotto_e_mappe/)
+2026-11-01 · u/Gloomy-Weekend-3152 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlfj12/cruscotto_e_mappe/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/zabbix/comments/1xlfir2/dashboard_e_mappe/>
 
 
+<a id="post-37"></a>
+
 ### 37. Nexus -> self-hosted observability for the calls between your systems
 
-2026-11-01 · u/BennY_Flutter · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlevq3/nexus_selfhosted_observability_for_the_calls/)
+2026-11-01 · u/BennY_Flutter · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xlevq3/nexus_selfhosted_observability_for_the_calls/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. I've been building ClusterHeart, and I'd love for some of you to give it a try.
 
-2026-11-01 · u/Bitter_Teaching_2905 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xleuy3/ive_been_building_clusterheart_and_id_love_for/)
+2026-11-01 · u/Bitter_Teaching_2905 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xleuy3/ive_been_building_clusterheart_and_id_love_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SaasDevelopers/comments/1xleutr/ive_been_building_clusterheart_and_id_love_for/>
 
 
+<a id="post-39"></a>
+
 ### 39. Why companies spend so much on multiple observability tools?
 
-2026-11-01 · u/Bionic-Prince · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xldo3r/why_companies_spend_so_much_on_multiple/)
+2026-11-01 · u/Bionic-Prince · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xldo3r/why_companies_spend_so_much_on_multiple/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Cloud/comments/1xldnzm/why_companies_spend_so_much_on_multiple/>
 
 
+<a id="post-40"></a>
+
 ### 40. kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause
 
-2026-11-01 · u/abahmed12 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkzqlf/kwatch_v1_it_now_groups_related_kubernetes_alerts/)
+2026-11-01 · u/abahmed12 · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkzqlf/kwatch_v1_it_now_groups_related_kubernetes_alerts/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/abahmed/kwatch>
 
@@ -1050,52 +1130,66 @@ Link: <https://github.com/abahmed/kwatch>
 >
 > I'd love to hear what you think, especially if you tried the old version. Feedback, feature requests, ideas, or anything that annoys you about alerting today are all welcome
 
+<a id="post-41"></a>
+
 ### 41. what are you using to get production debugging context into cursor?
 
-2026-10-31 · u/Plus-Lawflbaness1576 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xki1bu/what_are_you_using_to_get_production_debugging/)
+2026-10-31 · u/Plus-Lawflbaness1576 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xki1bu/what_are_you_using_to_get_production_debugging/) · [↑ back to the list](#last-50-posts)
 
 > We need to troubleshoot production errors, but I don't want every investigation turning into a hunt through dashboards followed by pasting logs into cursor. We need something that sends alerts to Slack and lets our coding agent access function-level runtime context when investigating an issue. I’m comparing Hud, Datadog and Sentry, particularly how each fits into that workflow. Hud’s Slack integration and MCP support caught my attention but I’d like to hear how others approach this. What’s your stack for connecting production debugging with the tools your devs already use without adding too much setup or runtime overhead?
 
+<a id="post-42"></a>
+
 ### 42. Anyone has experience with both Orca and Wiz? Which one do you prefer for CNAPP?
 
-2026-10-31 · u/Short-Incident-1199 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkhkxz/anyone_has_experience_with_both_orca_and_wiz/)
+2026-10-31 · u/Short-Incident-1199 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkhkxz/anyone_has_experience_with_both_orca_and_wiz/) · [↑ back to the list](#last-50-posts)
 
 > Findings so far:  
 > Orca: Agentless scanning off the cloud workload's storage layer, so you get workload, config, identity, and data findings in one platform without rolling agents to every host. Deployment is read-only at the account level, and it also reads the memory layer, which is where it tends to surface things like in-memory secrets and running processes that snapshot-only tools miss. Coverage is AWS, Azure, GCP.  
 > Wiz: Graph-based cloud security platform with broad enterprise adoption. The attack-path investigation experience is genuinely strong, and the integration ecosystem is wider (200+ partners via WIN). Covers more native clouds than Orca, including OCI, Alibaba, and vSphere.  
 > From what I can tell, Orca tends to go deeper on raw agentless coverage (especially the memory layer), while Wiz is favored by teams that want the wider ecosystem and a more polished graph experience. what people who've actually run both think, especially on prioritization quality vs. raw finding volume.
 
+<a id="post-43"></a>
+
 ### 43. Ten Ways to Look at 10k Agents: Prototyping a Viewer for Swarm Traces
 
-2026-10-31 · u/wanderingtraveller · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkf6dd/ten_ways_to_look_at_10k_agents_prototyping_a/)
+2026-10-31 · u/wanderingtraveller · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkf6dd/ten_ways_to_look_at_10k_agents_prototyping_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://alexstrick.com/posts/2026-10-31-swarm-observability.html>
 
 
+<a id="post-44"></a>
+
 ### 44. Threshold Walker // Asynchronous Process Telemetry Audit // Testing Offline AI Process Throngs over Kali Core Sandbox & other cool stuff.
 
-2026-10-31 · u/Nervous_Row_9953 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkentc/threshold_walker_asynchronous_process_telemetry/)
+2026-10-31 · u/Nervous_Row_9953 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xkentc/threshold_walker_asynchronous_process_telemetry/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.twitch.tv/thresholdwalker>
 
 > **~~Community is key~~**
 
+<a id="post-45"></a>
+
 ### 45. what are you using to get production debugging context into cursor?
 
-2026-10-31 · u/Weekly_Oil230 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk7t8w/what_are_you_using_to_get_production_debugging/)
+2026-10-31 · u/Weekly_Oil230 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk7t8w/what_are_you_using_to_get_production_debugging/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. I built a mobile client for Uptime Kuma (iOS + Android) – feedback welcome, especially on Kuma 2
 
-2026-10-31 · u/Stodeo · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk3dwt/i_built_a_mobile_client_for_uptime_kuma_ios/)
+2026-10-31 · u/Stodeo · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk3dwt/i_built_a_mobile_client_for_uptime_kuma_ios/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/UptimeKuma/comments/1xjxcbp/i_built_a_mobile_client_for_uptime_kuma_ios/>
 
 
+<a id="post-47"></a>
+
 ### 47. Remote monitoring software, what thresholds do you page on..
 
-2026-10-31 · u/Icy_Tip5169 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk10d7/remote_monitoring_software_what_thresholds_do_you/)
+2026-10-31 · u/Icy_Tip5169 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk10d7/remote_monitoring_software_what_thresholds_do_you/) · [↑ back to the list](#last-50-posts)
 
 > just Reviewing our remote monitoring software setup and most of the thresholds came from whoever installed it. Nobody has touched them since.
 >
@@ -1111,30 +1205,38 @@ Link: <https://www.reddit.com/r/UptimeKuma/comments/1xjxcbp/i_built_a_mobile_cli
 >
 > i feel like Atera is one platform that brings several of these IT management functions together, including monitoring and alerting, ticketing, patch management, remote access and automation in one console. Having the alert and the fix in the same place is an interesting approach, though the threshold question is probably the same whatever you run.
 
+<a id="post-48"></a>
+
 ### 48. OpenTelemetry dev tool
 
-2026-10-31 · u/tshawkins · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk0o5c/opentelemetry_dev_tool/)
+2026-10-31 · u/tshawkins · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xk0o5c/opentelemetry_dev_tool/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/OpenTelemetry/comments/1xk0o15/opentelemetry_dev_tool/>
 
 
+<a id="post-49"></a>
+
 ### 49. Are the "three pillars" of observability outdated? What does your stack look like today?
 
-2026-10-30 · u/Dense_Size9394 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xjigrs/are_the_three_pillars_of_observability_outdated/)
+2026-10-30 · u/Dense_Size9394 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xjigrs/are_the_three_pillars_of_observability_outdated/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/sre/comments/1xjiglc/are_the_three_pillars_of_observability_outdated/>
 
 
+<a id="post-50"></a>
+
 ### 50. Tutorial: Grafana for PHP to visualize telemetry data
 
-2026-10-30 · u/usmanlinux · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xjhvxj/tutorial_grafana_for_php_to_visualize_telemetry/)
+2026-10-30 · u/usmanlinux · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xjhvxj/tutorial_grafana_for_php_to_visualize_telemetry/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=SEN5wfb2gDY>
 
 
+<a id="post-51"></a>
+
 ### 51. Structured log ingestion benchmark: Loki, Elasticsearch, OpenSearch, SigNoz, ClickStack and VictoriaLogs, and a look into their internals
 
-2026-10-29 · u/lllkong · score 40 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xilvgw/structured_log_ingestion_benchmark_loki/)
+2026-10-29 · u/lllkong · score 40 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xilvgw/structured_log_ingestion_benchmark_loki/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://victoriametrics.com/blog/structured-log-ingestion-benchmark/>
 
@@ -1164,9 +1266,11 @@ Link: <https://victoriametrics.com/blog/structured-log-ingestion-benchmark/>
 >
 >     Thanks for reading!
 
+<a id="post-52"></a>
+
 ### 52. Looking to dive deep into Observability
 
-2026-10-24 · u/ImpressiveSeat9866 · score 25 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xe40zl/looking_to_dive_deep_into_observability/)
+2026-10-24 · u/ImpressiveSeat9866 · score 25 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xe40zl/looking_to_dive_deep_into_observability/) · [↑ back to the list](#last-50-posts)
 
 > I'm looking to dive much deeper into the observability and telemetry space. I understand the high-level concepts, but I really want to get my hands dirty with a modern stack and build some practical experience.
 >
@@ -1182,9 +1286,11 @@ Link: <https://victoriametrics.com/blog/structured-log-ingestion-benchmark/>
 >
 > Any guidance or roadmpas would be highly helpful. Thanks in advance.
 
+<a id="post-53"></a>
+
 ### 53. Trace context propagation drops across async SQS worker hops
 
-2026-10-28 · u/Rich-Feeling8860 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xhplqd/trace_context_propagation_drops_across_async_sqs/)
+2026-10-28 · u/Rich-Feeling8860 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xhplqd/trace_context_propagation_drops_across_async_sqs/) · [↑ back to the list](#last-50-posts)
 
 > A recent TypeScript worker change to batch SQS messages broke trace linkage in our order fulfillment workflow which handles about 120k daily jobs. The W3C traceparent is now attached to the batch envelope instead of the individual message attributes, so trace context propagation stops at the worker boundary.
 >
@@ -1192,9 +1298,11 @@ Link: <https://victoriametrics.com/blog/structured-log-ingestion-benchmark/>
 >
 > Our infrastructure latency alerts still fire on the queue consumer, so we can see when the worker slows down. We just can't use distributed tracing to connect a slow model call back through the async SQS hop to the checkout trace that produced the message.
 
+<a id="post-54"></a>
+
 ### 54. Our Datadog renewal came is nearly 2x compared to last year
 
-2026-10-27 · u/David-Vogel · score 16 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xh0yjz/our_datadog_renewal_came_is_nearly_2x_compared_to/)
+2026-10-27 · u/David-Vogel · score 16 · 38 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xh0yjz/our_datadog_renewal_came_is_nearly_2x_compared_to/) · [↑ back to the list](#last-50-posts)
 
 > We run about 60 hosts plus a Kubernetes cluster. Container counts and custom metrics pushed the quote up and finance said no.
 >
@@ -1214,15 +1322,19 @@ Link: <https://victoriametrics.com/blog/structured-log-ingestion-benchmark/>
 > Which of these handles multi-step journeys with MFA or OTP without breaking every week  
 > Anyone who has made this switch, what did you regret?
 
+<a id="post-55"></a>
+
 ### 55. How do you choose application performance monitoring tools? Every quote looks the same
 
-2026-10-21 · u/andyileen · score 16 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xbclmv/how_do_you_choose_application_performance/)
+2026-10-21 · u/andyileen · score 16 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xbclmv/how_do_you_choose_application_performance/) · [↑ back to the list](#last-50-posts)
 
 > We're looking at a couple of vendors for our monitoring setup and I'm just surprised how samey they all seem lol. Every pitch goes on and on and on about dashboards, alerts, and AI features. But what we actually need is more visibility about latency spikes, tracing, profiling, etc. Do I really have to book a call all the time just to ask about this? Seems like a waste of time when I should be doing something else. Is there a specific question or phrase that gets me this upfront or is this really more of a call thing?
 
+<a id="post-56"></a>
+
 ### 56. How to Set Up OpenTelemetry Profiling on Local Kubernetes
 
-2026-10-28 · u/jpkroehling · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xhwzp2/how_to_set_up_opentelemetry_profiling_on_local/)
+2026-10-28 · u/jpkroehling · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xhwzp2/how_to_set_up_opentelemetry_profiling_on_local/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-kubernetes-cluster>
 
@@ -1230,9 +1342,11 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > I know this is too early for most people out there, but honestly, it's working great for us. Give it a try and let me know what you think!
 
+<a id="post-57"></a>
+
 ### 57. What does AI-assisted incident investigation actually look like at your company right now?
 
-2026-10-23 · u/Commercial_Plastic72 · score 10 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xdcnvs/what_does_aiassisted_incident_investigation/)
+2026-10-23 · u/Commercial_Plastic72 · score 10 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xdcnvs/what_does_aiassisted_incident_investigation/) · [↑ back to the list](#last-50-posts)
 
 > Curious how this is going in practice, not how the vendor demos make it look.  
 > When an alert fires, how much of the investigation does AI actually handle for you today (pulling the right logs and traces, correlating with deploys, narrowing down root cause)? Where does it fall over?  
@@ -1240,9 +1354,11 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 > I'm researching this space, not a pitch. It'd help if you mention your stack (Datadog, Grafana, other)  
 > Thanks!
 
+<a id="post-58"></a>
+
 ### 58. What are some use cases for an internal system monitoring bot?
 
-2026-10-23 · u/kunjontemon · score 9 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xd4xqz/what_are_some_use_cases_for_an_internal_system/)
+2026-10-23 · u/kunjontemon · score 9 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xd4xqz/what_are_some_use_cases_for_an_internal_system/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -1254,9 +1370,11 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > Would love to hear your suggestions and experiences!
 
+<a id="post-59"></a>
+
 ### 59. What can i use for Synthetic transaction monitoring for desktop apps and not just websites
 
-2026-10-29 · u/larabyeol · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xiagvf/what_can_i_use_for_synthetic_transaction/)
+2026-10-29 · u/larabyeol · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xiagvf/what_can_i_use_for_synthetic_transaction/) · [↑ back to the list](#last-50-posts)
 
 > We're an insurer and our synthetic checks cover the customer portal fine. Every 5 minutes a script logs in, opens a claim and checks it loads. But the problem is that the other half of the journey runs on a windows desktop claims client and a couple of internal tools, and none of that is monitored end to end. So i'm looking for synthetic transaction monitoring that can walk a journey across web and desktop, on a schedule, and alert with something more useful than "check failed". The constraint is on-prem only and our security team won't accept screenshots of claims leaving the network.
 >
@@ -1264,9 +1382,11 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > For anyone monitoring desktop business apps like this in a regulated setting? how often do you run, and what are you using for that?
 
+<a id="post-60"></a>
+
 ### 60. Workload agnostic baseline alerts
 
-2026-10-11 · u/Prize_Industry2887 · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x3c1e5/workload_agnostic_baseline_alerts/)
+2026-10-11 · u/Prize_Industry2887 · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x3c1e5/workload_agnostic_baseline_alerts/) · [↑ back to the list](#last-50-posts)
 
 > How do you define and deploy a standard set of baseline (Cloudwatch in my case) alarms across all AWS production accounts, and scale the deployment consistently across hundreds of existing accounts and all newly provisioned accounts?
 >
@@ -1291,15 +1411,19 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > Real world use cases would be extremely appreciated and also, do you use OAM, Centralization Rules or a mix of both and why?
 
+<a id="post-61"></a>
+
 ### 61. What do you look for in a network monitoring and IT operations platform?
 
-2026-10-24 · u/vrushang_20 · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xe0khk/what_do_you_look_for_in_a_network_monitoring_and/)
+2026-10-24 · u/vrushang_20 · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xe0khk/what_do_you_look_for_in_a_network_monitoring_and/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-62"></a>
+
 ### 62. How I think an observability platform works.
 
-2026-10-14 · u/Alarming-Drawer-3127 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x5uvpq/how_i_think_an_observability_platform_works/)
+2026-10-14 · u/Alarming-Drawer-3127 · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x5uvpq/how_i_think_an_observability_platform_works/) · [↑ back to the list](#last-50-posts)
 
 > I've recently started learning about observability, and all the different applications and services that offer it become more and more confusing the more I try to study them and understand their differences. Maybe some of my assumptions are wrong, which is why I created this post: to try to find out if my intuition is correct.
 >
@@ -1307,9 +1431,11 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > Application + Instrumentation -> Collection -> processing + Sampling -> Storage -> Dashboard.
 
+<a id="post-63"></a>
+
 ### 63. made an open-source analytics tool that doesn't rely on node.js
 
-2026-10-16 · u/Dovahkciin · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x7qb8k/made_an_opensource_analytics_tool_that_doesnt/)
+2026-10-16 · u/Dovahkciin · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x7qb8k/made_an_opensource_analytics_tool_that_doesnt/) · [↑ back to the list](#last-50-posts)
 
 > hey guys,
 >
@@ -1325,16 +1451,20 @@ Link: <https://ollygarden.com/resources/blog/opentelemetry-profiling-on-a-local-
 >
 > its being running on my own SaaS right now. for the last week and working pretty well please try it out, and tell me what you think about it !
 
+<a id="post-64"></a>
+
 ### 64. Buy the SRE ebook and throw it at your work Claude.
 
-2026-10-17 · u/SWEETJUICYWALRUS · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x83390/buy_the_sre_ebook_and_throw_it_at_your_work_claude/)
+2026-10-17 · u/SWEETJUICYWALRUS · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x83390/buy_the_sre_ebook_and_throw_it_at_your_work_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/sre/comments/1x82yib/buy_the_sre_ebook_and_throw_it_at_your_work_claude/>
 
 
+<a id="post-65"></a>
+
 ### 65. Condense millions of logs into a tiny snapshot that fits into your LLM
 
-2026-10-11 · u/CommanderAlPachino · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x31pri/condense_millions_of_logs_into_a_tiny_snapshot/)
+2026-10-11 · u/CommanderAlPachino · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1x31pri/condense_millions_of_logs_into_a_tiny_snapshot/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Rocketgraph/rocketgraph>
 
@@ -1348,9 +1478,11 @@ Link: <https://github.com/Rocketgraph/rocketgraph>
 >
 > You can use this to continuously create and store snapshots on a cheap backend. And then have your agents crawl through the snapshots when needed. To detect anomalies on the fly. Effectively.
 
+<a id="post-66"></a>
+
 ### 66. We have JFR, heap dumps and Datadog, and incidents still take hours
 
-2026-10-27 · u/Top-Fly-8804 · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xgquww/we_have_jfr_heap_dumps_and_datadog_and_incidents/)
+2026-10-27 · u/Top-Fly-8804 · score 5 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xgquww/we_have_jfr_heap_dumps_and_datadog_and_incidents/) · [↑ back to the list](#last-50-posts)
 
 > Spring Boot shop, about twenty services on Java 21. We did the quarterly postmortem review on Friday and I put every timeline from the last three months side by side.  
 >
@@ -1360,9 +1492,11 @@ Link: <https://github.com/Rocketgraph/rocketgraph>
 >
 > Two services have had hud on them since August, next to Datadog, nothing removed. When a call throws, the request params and the path it took through the code are right there, so on those two the investigating part is mostly reading. The block got shorter there, it didn't go away. On the last one it pointed at the method and the input in minutes, and the timeline still shows an hour and a half, most of it us arguing whether the fix belonged in that service or in the caller.
 
+<a id="post-67"></a>
+
 ### 67. datadog integration
 
-2026-10-27 · u/Reasonable-Minute-18 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xh8d26/datadog_integration/)
+2026-10-27 · u/Reasonable-Minute-18 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/Observability/comments/1xh8d26/datadog_integration/) · [↑ back to the list](#last-50-posts)
 
 > how good are the Datadog Integrations - is the breath good? what works vs what doesn't
 

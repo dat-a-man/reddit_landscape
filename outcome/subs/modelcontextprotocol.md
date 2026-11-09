@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Hey SaaS builders, feedback on PlugMCP before the next release](https://www.reddit.com/r/modelcontextprotocol/comments/1xp0m8g/hey_saas_builders_feedback_on_plugmcp_before_the/) | u/Demo12133 | — | i.redd.it | 0 | 1 | spam-filtered | — |
-| 2 | 2026-11-06 | [I built an MCP that searches other MCP servers](https://www.reddit.com/r/modelcontextprotocol/comments/1xoz7jr/i_built_an_mcp_that_searches_other_mcp_servers/) | u/Demo12133 | — | i.redd.it | 9 | 3 | spam-filtered | — |
-| 3 | 2026-11-04 | [Multi-tenant SaaS over MCP: where each tenant, plan and cost check lives in my server, and why almost all of…](https://www.reddit.com/r/modelcontextprotocol/comments/1xna7v3/multitenant_saas_over_mcp_where_each_tenant_plan/) | u/DutyOnly4308 | — | text | 1 | 2 | live | — |
-| 4 | 2026-11-02 | [Local stdio MCP for a Windows WebView2 browser with persistent profiles](https://www.reddit.com/r/modelcontextprotocol/comments/1xmcgex/local_stdio_mcp_for_a_windows_webview2_browser/) | u/Otherwise-Court8156 | — | text | 1 | 0 | live | — |
-| 5 | 2026-11-02 | [MoodlIA: a Moodle-hosted MCP endpoint — looking for testers and permission-model feedback](https://www.reddit.com/r/modelcontextprotocol/comments/1xlzjyb/moodlia_a_moodlehosted_mcp_endpoint_looking_for/) | u/Infamous-Monk-6344 | — | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-02 | [I made an MCP server that lets your agent play a slow multiplayer war game](https://www.reddit.com/r/modelcontextprotocol/comments/1xlstpr/i_made_an_mcp_server_that_lets_your_agent_play_a/) | u/goyasapiens | — | text | 3 | 0 | live | — |
-| 7 | 2026-10-27 | [What we found checking 8,900 MCP/skill entries for clean links and licences](https://www.reddit.com/r/modelcontextprotocol/comments/1xgmx2s/what_we_found_checking_8900_mcpskill_entries_for/) | u/metcot | — | text | 2 | 4 | approved | — |
-| 8 | 2026-10-27 | [An MCP tool kept its name but changed its schema. AEGIS closes that route for review.](https://www.reddit.com/r/modelcontextprotocol/comments/1xghzw8/an_mcp_tool_kept_its_name_but_changed_its_schema/) | u/Leather_Tour_794 | — | i.redd.it | 0 | 1 | spam-filtered | — |
-| 9 | 2026-10-25 | [Mcp-warden: a local MCP server that injects your credentials so the agent never sees them](https://www.reddit.com/r/modelcontextprotocol/comments/1xff57v/mcpwarden_a_local_mcp_server_that_injects_your/) | u/Relevant_Mousse_9117 | — | text | 2 | 1 | live | — |
-| 10 | 2026-10-25 | [A media-production use case for MCP: directing generated characters from Claude Code](https://www.reddit.com/r/modelcontextprotocol/comments/1xeous5/a_mediaproduction_use_case_for_mcp_directing/) | u/HVMVSN | — | text | 0 | 0 | spam-filtered | — |
-| 11 | 2026-10-23 | [How should multi-tenant SaaS backends expose MCP safely?](https://www.reddit.com/r/modelcontextprotocol/comments/1xdj3mo/how_should_multitenant_saas_backends_expose_mcp/) | u/mardix | — | text | 1 | 1 | live | — |
-| 12 | 2026-10-23 | [How are you handling auth + audit logs for MCP servers that actually *do* things?](https://www.reddit.com/r/modelcontextprotocol/comments/1xd8t23/how_are_you_handling_auth_audit_logs_for_mcp/) | u/23editorcs | question | text | 2 | 3 | approved | — |
-| 13 | 2026-10-21 | [Archestra 1.4: local-to-remote agent handoff built as plain MCP gateway tools plus one skill](https://www.reddit.com/r/modelcontextprotocol/comments/1xbz0oz/archestra_14_localtoremote_agent_handoff_built_as/) | u/motakuk | new-release | i.redd.it | 47 | 4 | live | — |
-| 14 | 2026-10-21 | [How to specify event colors by name/tag (e.g., "classes", "meeting") in Google Workspace MCP Calendar?Body:](https://www.reddit.com/r/modelcontextprotocol/comments/1xby64e/how_to_specify_event_colors_by_nametag_eg_classes/) | u/Ok_Angle_3249 | question | text | 2 | 1 | live | — |
-| 15 | 2026-10-20 | [I built a ledger for what your AI agent actually did — because your logs can't tell you](https://www.reddit.com/r/modelcontextprotocol/comments/1xaqo7h/i_built_a_ledger_for_what_your_ai_agent_actually/) | u/jay7084 | new-release | reddit.com | 1 | 1 | live | — |
-| 16 | 2026-10-19 | [remote MCP server that rings your iPhone and returns your spoken answer to the agent](https://www.reddit.com/r/modelcontextprotocol/comments/1xa8pzw/remote_mcp_server_that_rings_your_iphone_and/) | u/radressss | new-release | text | 0 | 1 | spam-filtered | — |
-| 17 | 2026-10-19 | [Made a video on the origins of MCP protocol](https://www.reddit.com/r/modelcontextprotocol/comments/1x9q8qq/made_a_video_on_the_origins_of_mcp_protocol/) | u/No_Product_5759 | — | v.redd.it | 1 | 0 | live | — |
-| 18 | 2026-10-17 | [How I got one stock market data MCP server into Claude, ChatGPT, Cursor, Codex and Gemini CLI (OAuth, registr…](https://www.reddit.com/r/modelcontextprotocol/comments/1x8lxcq/how_i_got_one_stock_market_data_mcp_server_into/) | u/DanielAPO | — | text | 1 | 1 | live | — |
-| 19 | 2026-10-17 | [\[new-release\] Mac MCP 2.2.0 r2: scheduled agent tasks, local OCR and visible desktop activity](https://www.reddit.com/r/modelcontextprotocol/comments/1x8fsaz/newrelease_mac_mcp_220_r2_scheduled_agent_tasks/) | u/bulutarkan | new-release | text | 0 | 0 | live | — |
-| 20 | 2026-10-15 | [Set up ClosedMCPs once. Use them in every AI platform.](https://www.reddit.com/r/modelcontextprotocol/comments/1x6zrwe/set_up_closedmcps_once_use_them_in_every_ai/) | u/Ok_Sprinkles1301 | new-release | closedmcp.com | 0 | 0 | content_takedown | — |
-| 21 | 2026-10-15 | [\[New Release\] Muslim Prayer Reminder MCP: Zero-dependency astronomical calculation server for Claude, Cursor,…](https://www.reddit.com/r/modelcontextprotocol/comments/1x6nvhd/new_release_muslim_prayer_reminder_mcp/) | u/TareqN | new-release | text | 0 | 2 | spam-filtered | — |
-| 22 | 2026-10-14 | [I built a Discord MCP server that lets AI agents run your Discord bot](https://www.reddit.com/r/modelcontextprotocol/comments/1x5spq1/i_built_a_discord_mcp_server_that_lets_ai_agents/) | u/EL4CTEO | — | i.redd.it | 3 | 1 | live | — |
-| 23 | 2026-10-14 | [We built a simpler way to build, test, and deploy MCP tools](https://www.reddit.com/r/modelcontextprotocol/comments/1x5mg3n/we_built_a_simpler_way_to_build_test_and_deploy/) | u/glxymesh | — | v.redd.it | 0 | 0 | spam-filtered | — |
-| 24 | 2026-10-13 | [MCP tools all passed testing but the agent keep choosing wrong one. How to test tool selection?](https://www.reddit.com/r/modelcontextprotocol/comments/1x4vgh2/mcp_tools_all_passed_testing_but_the_agent_keep/) | u/Budget-Lunch9390 | question | text | 1 | 4 | live | — |
-| 25 | 2026-10-11 | [What is a MCP server?](https://www.reddit.com/r/modelcontextprotocol/comments/1x3emts/what_is_a_mcp_server/) | u/No_Product_5759 | — | youtube.com | 0 | 1 | deleted by author | — |
-| 26 | 2026-10-10 | [WebMCP Learn by code](https://www.reddit.com/r/modelcontextprotocol/comments/1x2bzr4/webmcp_learn_by_code/) | u/PlatypusWinterberry | — | alexspinu.com | 1 | 0 | live | — |
-| 27 | 2026-10-08 | [I built an open-source MCP gateway connecting 7 scientific and AI tools](https://www.reddit.com/r/modelcontextprotocol/comments/1x0upa5/i_built_an_opensource_mcp_gateway_connecting_7/) | u/furkannarkn | new-release | text | 0 | 0 | spam-filtered | — |
-| 28 | 2026-10-08 | [I built an MCP server for website analytics; what data should an agent see?](https://www.reddit.com/r/modelcontextprotocol/comments/1x0tknn/i_built_an_mcp_server_for_website_analytics_what/) | u/No_Product_5759 | question | text | 1 | 0 | deleted by author | — |
-| 29 | 2026-10-06 | [I built a local MCP bridge that lets a Mac desktop pet show Claude task status](https://www.reddit.com/r/modelcontextprotocol/comments/1wyy9tu/i_built_a_local_mcp_bridge_that_lets_a_mac/) | u/HanaChanSoft | new-release | text | 1 | 0 | spam-filtered | — |
-| 30 | 2026-10-05 | [When an MCP tool call's response never comes back, what should the client do?](https://www.reddit.com/r/modelcontextprotocol/comments/1wyljk2/when_an_mcp_tool_calls_response_never_comes_back/) | u/HotPocketWaves | — | text | 1 | 0 | spam-filtered | — |
-| 31 | 2026-10-05 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](https://www.reddit.com/r/modelcontextprotocol/comments/1wyewhp/ai_assistants_are_trained_on_old_roblox_info_so_i/) | u/EL4CTEO | — | text | 0 | 1 | live | — |
-| 32 | 2026-10-05 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](https://www.reddit.com/r/modelcontextprotocol/comments/1wyerce/ai_assistants_are_trained_on_old_roblox_info_so_i/) | u/EL4CTEO | — | reddit.com | 1 | 0 | spam-filtered | — |
-| 33 | 2026-10-04 | [I made every command of my AI inpainting editor an MCP tool: agents can select by text, inpaint into layers,…](https://www.reddit.com/r/modelcontextprotocol/comments/1wxl2is/i_made_every_command_of_my_ai_inpainting_editor/) | u/Direction_Mountain | new-release | v.redd.it | 3 | 1 | live | — |
-| 34 | 2026-10-04 | [Worried about your AI agent leaking secrets, or tired of secret-scanner false positives?](https://www.reddit.com/r/modelcontextprotocol/comments/1wxcslh/worried_about_your_ai_agent_leaking_secrets_or/) | u/Miserable-Carpet-474 | new-release | i.redd.it | 2 | 0 | live | — |
-| 35 | 2026-10-03 | [MCP for tour guides: a remote server with ~100 tools and OAuth, and what broke along the way](https://www.reddit.com/r/modelcontextprotocol/comments/1wwn9ol/mcp_for_tour_guides_a_remote_server_with_100/) | u/AdPitiful4816 | new-release | — | 2 | 0 | live | — |
-| 36 | 2026-10-03 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](https://www.reddit.com/r/modelcontextprotocol/comments/1wwmph5/ai_assistants_are_trained_on_old_roblox_info_so_i/) | u/EL4CTEO | — | reddit.com | 1 | 0 | spam-filtered | — |
-| 37 | 2026-10-03 | [Friend of mine built a Claude connector for Telegram, been trying it for a bit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwll18/friend_of_mine_built_a_claude_connector_for/) | u/Neprowaet | new-release | text | 3 | 2 | live | — |
-| 38 | 2026-10-03 | [I built a hosted MCP that connects AI assistants to your Telegram conversations](https://www.reddit.com/r/modelcontextprotocol/comments/1wwl9lp/i_built_a_hosted_mcp_that_connects_ai_assistants/) | u/LemmaTeam | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 39 | 2026-10-02 | [/reright - Human approval for agent-written text](https://www.reddit.com/r/modelcontextprotocol/comments/1ww5aio/reright_human_approval_for_agentwritten_text/) | u/paulofilip3 | new-release | reright.it | 1 | 0 | live | — |
-| 40 | 2026-10-02 | [\[new-release\] Mac MCP 2.1.7 — persistent mobile pairing, durable recovery, safer browser/process ownership](https://www.reddit.com/r/modelcontextprotocol/comments/1wvq8p4/newrelease_mac_mcp_217_persistent_mobile_pairing/) | u/bulutarkan | — | text | 5 | 0 | live | — |
-| 41 | 2026-10-02 | [I found an open source MCP called PyMemoryEditor that is a memory scanner like cheat engine](https://www.reddit.com/r/modelcontextprotocol/comments/1wvkgrf/i_found_an_open_source_mcp_called_pymemoryeditor/) | u/SupermarketTrue7507 | — | github.com | 1 | 0 | live | — |
-| 42 | 2026-10-01 | [e2e - an open source AI testing framework w/ MCP server](https://www.reddit.com/r/modelcontextprotocol/comments/1wv6lgw/e2e_an_open_source_ai_testing_framework_w_mcp/) | u/kacperkapusciak | new-release | github.com | 3 | 1 | live | — |
-| 43 | 2026-09-29 | [We need MCP server security, unauthorized clientes keep connecting to our server](https://www.reddit.com/r/modelcontextprotocol/comments/1wtgurj/we_need_mcp_server_security_unauthorized_clientes/) | u/InevitableTonight899 | — | text | 2 | 5 | live | — |
-| 44 | 2026-09-28 | [How to create trading strategies via MCP](https://www.reddit.com/r/modelcontextprotocol/comments/1ws83ri/how_to_create_trading_strategies_via_mcp/) | u/NextgenAITrading | — | v.redd.it | 1 | 0 | live | — |
-| 45 | 2026-09-26 | [stdio MCP for replay-gated failure prior art (claimidx-mcp)](https://www.reddit.com/r/modelcontextprotocol/comments/1wr4z17/stdio_mcp_for_replaygated_failure_prior_art/) | u/Agile-Entrepreneur-6 | — | text | 0 | 0 | spam-filtered | — |
-| 46 | 2026-09-26 | [I built an MCP that lets you point at UI elements (across pages) and tell Claude Code what to change](https://www.reddit.com/r/modelcontextprotocol/comments/1wqtt0g/i_built_an_mcp_that_lets_you_point_at_ui_elements/) | u/boonblade | new-release | i.redd.it | 2 | 4 | live | — |
-| 47 | 2026-09-23 | [How are you auditing what your AI agents actually do in production?](https://www.reddit.com/r/modelcontextprotocol/comments/1wol2n5/how_are_you_auditing_what_your_ai_agents_actually/) | u/Ernesmar | question | text | 1 | 0 | spam-filtered | — |
-| 48 | 2026-09-23 | [Skipper: a git MCP to rule them all.](https://www.reddit.com/r/modelcontextprotocol/comments/1wo4m8s/skipper_a_git_mcp_to_rule_them_all/) | u/TheAtlasMonkey | new-release | text | 3 | 0 | live | — |
-| 49 | 2026-09-19 | [Textile – A Voice-Driven Desktop Automations and Intelligence Engine with MCP Server for Linux.](https://www.reddit.com/r/modelcontextprotocol/comments/1wkuxzb/textile_a_voicedriven_desktop_automations_and/) | u/PrinciplePast4852 | new-release | v.redd.it | 1 | 0 | spam-filtered | — |
-| 50 | 2026-09-19 | [Karada.ai – Auto-generate Go MCP servers from OpenAPI/Postman with 1-click plugins and CI/CD](https://www.reddit.com/r/modelcontextprotocol/comments/1wko9ud/karadaai_autogenerate_go_mcp_servers_from/) | u/shashtag_work | — | — | 0 | 0 | spam-filtered | — |
+| 1 | 2026-11-06 | [Hey SaaS builders, feedback on PlugMCP before the next release](#post-1) | u/Demo12133 | — | i.redd.it | 0 | 1 | spam-filtered | — |
+| 2 | 2026-11-06 | [I built an MCP that searches other MCP servers](#post-2) | u/Demo12133 | — | i.redd.it | 9 | 3 | spam-filtered | — |
+| 3 | 2026-11-04 | [Multi-tenant SaaS over MCP: where each tenant, plan and cost check lives in my server, and why almost all of…](#post-3) | u/DutyOnly4308 | — | text | 1 | 2 | live | — |
+| 4 | 2026-11-02 | [Local stdio MCP for a Windows WebView2 browser with persistent profiles](#post-4) | u/Otherwise-Court8156 | — | text | 1 | 0 | live | — |
+| 5 | 2026-11-02 | [MoodlIA: a Moodle-hosted MCP endpoint — looking for testers and permission-model feedback](#post-5) | u/Infamous-Monk-6344 | — | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-02 | [I made an MCP server that lets your agent play a slow multiplayer war game](#post-6) | u/goyasapiens | — | text | 3 | 0 | live | — |
+| 7 | 2026-10-27 | [What we found checking 8,900 MCP/skill entries for clean links and licences](#post-7) | u/metcot | — | text | 2 | 4 | approved | — |
+| 8 | 2026-10-27 | [An MCP tool kept its name but changed its schema. AEGIS closes that route for review.](#post-8) | u/Leather_Tour_794 | — | i.redd.it | 0 | 1 | spam-filtered | — |
+| 9 | 2026-10-25 | [Mcp-warden: a local MCP server that injects your credentials so the agent never sees them](#post-9) | u/Relevant_Mousse_9117 | — | text | 2 | 1 | live | — |
+| 10 | 2026-10-25 | [A media-production use case for MCP: directing generated characters from Claude Code](#post-10) | u/HVMVSN | — | text | 0 | 0 | spam-filtered | — |
+| 11 | 2026-10-23 | [How should multi-tenant SaaS backends expose MCP safely?](#post-11) | u/mardix | — | text | 1 | 1 | live | — |
+| 12 | 2026-10-23 | [How are you handling auth + audit logs for MCP servers that actually *do* things?](#post-12) | u/23editorcs | question | text | 2 | 3 | approved | — |
+| 13 | 2026-10-21 | [Archestra 1.4: local-to-remote agent handoff built as plain MCP gateway tools plus one skill](#post-13) | u/motakuk | new-release | i.redd.it | 47 | 4 | live | — |
+| 14 | 2026-10-21 | [How to specify event colors by name/tag (e.g., "classes", "meeting") in Google Workspace MCP Calendar?Body:](#post-14) | u/Ok_Angle_3249 | question | text | 2 | 1 | live | — |
+| 15 | 2026-10-20 | [I built a ledger for what your AI agent actually did — because your logs can't tell you](#post-15) | u/jay7084 | new-release | reddit.com | 1 | 1 | live | — |
+| 16 | 2026-10-19 | [remote MCP server that rings your iPhone and returns your spoken answer to the agent](#post-16) | u/radressss | new-release | text | 0 | 1 | spam-filtered | — |
+| 17 | 2026-10-19 | [Made a video on the origins of MCP protocol](#post-17) | u/No_Product_5759 | — | v.redd.it | 1 | 0 | live | — |
+| 18 | 2026-10-17 | [How I got one stock market data MCP server into Claude, ChatGPT, Cursor, Codex and Gemini CLI (OAuth, registr…](#post-18) | u/DanielAPO | — | text | 1 | 1 | live | — |
+| 19 | 2026-10-17 | [\[new-release\] Mac MCP 2.2.0 r2: scheduled agent tasks, local OCR and visible desktop activity](#post-19) | u/bulutarkan | new-release | text | 0 | 0 | live | — |
+| 20 | 2026-10-15 | [Set up ClosedMCPs once. Use them in every AI platform.](#post-20) | u/Ok_Sprinkles1301 | new-release | closedmcp.com | 0 | 0 | content_takedown | — |
+| 21 | 2026-10-15 | [\[New Release\] Muslim Prayer Reminder MCP: Zero-dependency astronomical calculation server for Claude, Cursor,…](#post-21) | u/TareqN | new-release | text | 0 | 2 | spam-filtered | — |
+| 22 | 2026-10-14 | [I built a Discord MCP server that lets AI agents run your Discord bot](#post-22) | u/EL4CTEO | — | i.redd.it | 3 | 1 | live | — |
+| 23 | 2026-10-14 | [We built a simpler way to build, test, and deploy MCP tools](#post-23) | u/glxymesh | — | v.redd.it | 0 | 0 | spam-filtered | — |
+| 24 | 2026-10-13 | [MCP tools all passed testing but the agent keep choosing wrong one. How to test tool selection?](#post-24) | u/Budget-Lunch9390 | question | text | 1 | 4 | live | — |
+| 25 | 2026-10-11 | [What is a MCP server?](#post-25) | u/No_Product_5759 | — | youtube.com | 0 | 1 | deleted by author | — |
+| 26 | 2026-10-10 | [WebMCP Learn by code](#post-26) | u/PlatypusWinterberry | — | alexspinu.com | 1 | 0 | live | — |
+| 27 | 2026-10-08 | [I built an open-source MCP gateway connecting 7 scientific and AI tools](#post-27) | u/furkannarkn | new-release | text | 0 | 0 | spam-filtered | — |
+| 28 | 2026-10-08 | [I built an MCP server for website analytics; what data should an agent see?](#post-28) | u/No_Product_5759 | question | text | 1 | 0 | deleted by author | — |
+| 29 | 2026-10-06 | [I built a local MCP bridge that lets a Mac desktop pet show Claude task status](#post-29) | u/HanaChanSoft | new-release | text | 1 | 0 | spam-filtered | — |
+| 30 | 2026-10-05 | [When an MCP tool call's response never comes back, what should the client do?](#post-30) | u/HotPocketWaves | — | text | 1 | 0 | spam-filtered | — |
+| 31 | 2026-10-05 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](#post-31) | u/EL4CTEO | — | text | 0 | 1 | live | — |
+| 32 | 2026-10-05 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](#post-32) | u/EL4CTEO | — | reddit.com | 1 | 0 | spam-filtered | — |
+| 33 | 2026-10-04 | [I made every command of my AI inpainting editor an MCP tool: agents can select by text, inpaint into layers,…](#post-33) | u/Direction_Mountain | new-release | v.redd.it | 3 | 1 | live | — |
+| 34 | 2026-10-04 | [Worried about your AI agent leaking secrets, or tired of secret-scanner false positives?](#post-34) | u/Miserable-Carpet-474 | new-release | i.redd.it | 2 | 0 | live | — |
+| 35 | 2026-10-03 | [MCP for tour guides: a remote server with ~100 tools and OAuth, and what broke along the way](#post-35) | u/AdPitiful4816 | new-release | — | 2 | 0 | live | — |
+| 36 | 2026-10-03 | [AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date det…](#post-36) | u/EL4CTEO | — | reddit.com | 1 | 0 | spam-filtered | — |
+| 37 | 2026-10-03 | [Friend of mine built a Claude connector for Telegram, been trying it for a bit](#post-37) | u/Neprowaet | new-release | text | 3 | 2 | live | — |
+| 38 | 2026-10-03 | [I built a hosted MCP that connects AI assistants to your Telegram conversations](#post-38) | u/LemmaTeam | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 39 | 2026-10-02 | [/reright - Human approval for agent-written text](#post-39) | u/paulofilip3 | new-release | reright.it | 1 | 0 | live | — |
+| 40 | 2026-10-02 | [\[new-release\] Mac MCP 2.1.7 — persistent mobile pairing, durable recovery, safer browser/process ownership](#post-40) | u/bulutarkan | — | text | 5 | 0 | live | — |
+| 41 | 2026-10-02 | [I found an open source MCP called PyMemoryEditor that is a memory scanner like cheat engine](#post-41) | u/SupermarketTrue7507 | — | github.com | 1 | 0 | live | — |
+| 42 | 2026-10-01 | [e2e - an open source AI testing framework w/ MCP server](#post-42) | u/kacperkapusciak | new-release | github.com | 3 | 1 | live | — |
+| 43 | 2026-09-29 | [We need MCP server security, unauthorized clientes keep connecting to our server](#post-43) | u/InevitableTonight899 | — | text | 2 | 5 | live | — |
+| 44 | 2026-09-28 | [How to create trading strategies via MCP](#post-44) | u/NextgenAITrading | — | v.redd.it | 1 | 0 | live | — |
+| 45 | 2026-09-26 | [stdio MCP for replay-gated failure prior art (claimidx-mcp)](#post-45) | u/Agile-Entrepreneur-6 | — | text | 0 | 0 | spam-filtered | — |
+| 46 | 2026-09-26 | [I built an MCP that lets you point at UI elements (across pages) and tell Claude Code what to change](#post-46) | u/boonblade | new-release | i.redd.it | 2 | 4 | live | — |
+| 47 | 2026-09-23 | [How are you auditing what your AI agents actually do in production?](#post-47) | u/Ernesmar | question | text | 1 | 0 | spam-filtered | — |
+| 48 | 2026-09-23 | [Skipper: a git MCP to rule them all.](#post-48) | u/TheAtlasMonkey | new-release | text | 3 | 0 | live | — |
+| 49 | 2026-09-19 | [Textile – A Voice-Driven Desktop Automations and Intelligence Engine with MCP Server for Linux.](#post-49) | u/PrinciplePast4852 | new-release | v.redd.it | 1 | 0 | spam-filtered | — |
+| 50 | 2026-09-19 | [Karada.ai – Auto-generate Go MCP servers from OpenAPI/Postman with 1-click plugins and CI/CD](#post-50) | u/shashtag_work | — | — | 0 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,30 +86,32 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 | 2026-10-21 | [Archestra 1.4: local-to-remote agent handoff built as plain MCP gateway tools plus one skill](https://www.reddit.com/r/modelcontextprotocol/comments/1xbz0oz/archestra_14_localtoremote_agent_handoff_built_as/) | u/motakuk | new-release | i.redd.it | 47 | 4 | live |
-| 22 | 2026-10-14 | [I built a Discord MCP server that lets AI agents run your Discord bot](https://www.reddit.com/r/modelcontextprotocol/comments/1x5spq1/i_built_a_discord_mcp_server_that_lets_ai_agents/) | u/EL4CTEO | — | i.redd.it | 3 | 1 | live |
-| 6 | 2026-11-02 | [I made an MCP server that lets your agent play a slow multiplayer war game](https://www.reddit.com/r/modelcontextprotocol/comments/1xlstpr/i_made_an_mcp_server_that_lets_your_agent_play_a/) | u/goyasapiens | — | text | 3 | 0 | live |
-| 7 | 2026-10-27 | [What we found checking 8,900 MCP/skill entries for clean links and licences](https://www.reddit.com/r/modelcontextprotocol/comments/1xgmx2s/what_we_found_checking_8900_mcpskill_entries_for/) | u/metcot | — | text | 2 | 4 | approved |
-| 12 | 2026-10-23 | [How are you handling auth + audit logs for MCP servers that actually *do* things?](https://www.reddit.com/r/modelcontextprotocol/comments/1xd8t23/how_are_you_handling_auth_audit_logs_for_mcp/) | u/23editorcs | question | text | 2 | 3 | approved |
-| 9 | 2026-10-25 | [Mcp-warden: a local MCP server that injects your credentials so the agent never sees them](https://www.reddit.com/r/modelcontextprotocol/comments/1xff57v/mcpwarden_a_local_mcp_server_that_injects_your/) | u/Relevant_Mousse_9117 | — | text | 2 | 1 | live |
-| 14 | 2026-10-21 | [How to specify event colors by name/tag (e.g., "classes", "meeting") in Google Workspace MCP Calendar?Body:](https://www.reddit.com/r/modelcontextprotocol/comments/1xby64e/how_to_specify_event_colors_by_nametag_eg_classes/) | u/Ok_Angle_3249 | question | text | 2 | 1 | live |
-| 24 | 2026-10-13 | [MCP tools all passed testing but the agent keep choosing wrong one. How to test tool selection?](https://www.reddit.com/r/modelcontextprotocol/comments/1x4vgh2/mcp_tools_all_passed_testing_but_the_agent_keep/) | u/Budget-Lunch9390 | question | text | 1 | 4 | live |
-| 3 | 2026-11-04 | [Multi-tenant SaaS over MCP: where each tenant, plan and cost check lives in my server, and why almost all of…](https://www.reddit.com/r/modelcontextprotocol/comments/1xna7v3/multitenant_saas_over_mcp_where_each_tenant_plan/) | u/DutyOnly4308 | — | text | 1 | 2 | live |
-| 11 | 2026-10-23 | [How should multi-tenant SaaS backends expose MCP safely?](https://www.reddit.com/r/modelcontextprotocol/comments/1xdj3mo/how_should_multitenant_saas_backends_expose_mcp/) | u/mardix | — | text | 1 | 1 | live |
-| 15 | 2026-10-20 | [I built a ledger for what your AI agent actually did — because your logs can't tell you](https://www.reddit.com/r/modelcontextprotocol/comments/1xaqo7h/i_built_a_ledger_for_what_your_ai_agent_actually/) | u/jay7084 | new-release | reddit.com | 1 | 1 | live |
-| 18 | 2026-10-17 | [How I got one stock market data MCP server into Claude, ChatGPT, Cursor, Codex and Gemini CLI (OAuth, registr…](https://www.reddit.com/r/modelcontextprotocol/comments/1x8lxcq/how_i_got_one_stock_market_data_mcp_server_into/) | u/DanielAPO | — | text | 1 | 1 | live |
-| 4 | 2026-11-02 | [Local stdio MCP for a Windows WebView2 browser with persistent profiles](https://www.reddit.com/r/modelcontextprotocol/comments/1xmcgex/local_stdio_mcp_for_a_windows_webview2_browser/) | u/Otherwise-Court8156 | — | text | 1 | 0 | live |
-| 17 | 2026-10-19 | [Made a video on the origins of MCP protocol](https://www.reddit.com/r/modelcontextprotocol/comments/1x9q8qq/made_a_video_on_the_origins_of_mcp_protocol/) | u/No_Product_5759 | — | v.redd.it | 1 | 0 | live |
-| 26 | 2026-10-10 | [WebMCP Learn by code](https://www.reddit.com/r/modelcontextprotocol/comments/1x2bzr4/webmcp_learn_by_code/) | u/PlatypusWinterberry | — | alexspinu.com | 1 | 0 | live |
-| 19 | 2026-10-17 | [\[new-release\] Mac MCP 2.2.0 r2: scheduled agent tasks, local OCR and visible desktop activity](https://www.reddit.com/r/modelcontextprotocol/comments/1x8fsaz/newrelease_mac_mcp_220_r2_scheduled_agent_tasks/) | u/bulutarkan | new-release | text | 0 | 0 | live |
+| 13 | 2026-10-21 | [Archestra 1.4: local-to-remote agent handoff built as plain MCP gateway tools plus one skill](#post-13) | u/motakuk | new-release | i.redd.it | 47 | 4 | live |
+| 22 | 2026-10-14 | [I built a Discord MCP server that lets AI agents run your Discord bot](#post-22) | u/EL4CTEO | — | i.redd.it | 3 | 1 | live |
+| 6 | 2026-11-02 | [I made an MCP server that lets your agent play a slow multiplayer war game](#post-6) | u/goyasapiens | — | text | 3 | 0 | live |
+| 7 | 2026-10-27 | [What we found checking 8,900 MCP/skill entries for clean links and licences](#post-7) | u/metcot | — | text | 2 | 4 | approved |
+| 12 | 2026-10-23 | [How are you handling auth + audit logs for MCP servers that actually *do* things?](#post-12) | u/23editorcs | question | text | 2 | 3 | approved |
+| 9 | 2026-10-25 | [Mcp-warden: a local MCP server that injects your credentials so the agent never sees them](#post-9) | u/Relevant_Mousse_9117 | — | text | 2 | 1 | live |
+| 14 | 2026-10-21 | [How to specify event colors by name/tag (e.g., "classes", "meeting") in Google Workspace MCP Calendar?Body:](#post-14) | u/Ok_Angle_3249 | question | text | 2 | 1 | live |
+| 24 | 2026-10-13 | [MCP tools all passed testing but the agent keep choosing wrong one. How to test tool selection?](#post-24) | u/Budget-Lunch9390 | question | text | 1 | 4 | live |
+| 3 | 2026-11-04 | [Multi-tenant SaaS over MCP: where each tenant, plan and cost check lives in my server, and why almost all of…](#post-3) | u/DutyOnly4308 | — | text | 1 | 2 | live |
+| 11 | 2026-10-23 | [How should multi-tenant SaaS backends expose MCP safely?](#post-11) | u/mardix | — | text | 1 | 1 | live |
+| 15 | 2026-10-20 | [I built a ledger for what your AI agent actually did — because your logs can't tell you](#post-15) | u/jay7084 | new-release | reddit.com | 1 | 1 | live |
+| 18 | 2026-10-17 | [How I got one stock market data MCP server into Claude, ChatGPT, Cursor, Codex and Gemini CLI (OAuth, registr…](#post-18) | u/DanielAPO | — | text | 1 | 1 | live |
+| 4 | 2026-11-02 | [Local stdio MCP for a Windows WebView2 browser with persistent profiles](#post-4) | u/Otherwise-Court8156 | — | text | 1 | 0 | live |
+| 17 | 2026-10-19 | [Made a video on the origins of MCP protocol](#post-17) | u/No_Product_5759 | — | v.redd.it | 1 | 0 | live |
+| 26 | 2026-10-10 | [WebMCP Learn by code](#post-26) | u/PlatypusWinterberry | — | alexspinu.com | 1 | 0 | live |
+| 19 | 2026-10-17 | [\[new-release\] Mac MCP 2.2.0 r2: scheduled agent tasks, local OCR and visible desktop activity](#post-19) | u/bulutarkan | new-release | text | 0 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Hey SaaS builders, feedback on PlugMCP before the next release
 
-2026-11-06 · u/Demo12133 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xp0m8g/hey_saas_builders_feedback_on_plugmcp_before_the/)
+2026-11-06 · u/Demo12133 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xp0m8g/hey_saas_builders_feedback_on_plugmcp_before_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/7rpzm3ouawzh1.png>
 
@@ -121,9 +123,11 @@ Link: <https://i.redd.it/7rpzm3ouawzh1.png>
 >
 > If you ship developer tools, is “search plus feedback loop” enough for an early release, or would you lead with something else?
 
+<a id="post-2"></a>
+
 ### 2. I built an MCP that searches other MCP servers
 
-2026-11-06 · u/Demo12133 · score 9 · 3 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xoz7jr/i_built_an_mcp_that_searches_other_mcp_servers/)
+2026-11-06 · u/Demo12133 · score 9 · 3 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xoz7jr/i_built_an_mcp_that_searches_other_mcp_servers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 
@@ -136,9 +140,11 @@ Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 > Give it a try and let me know what you think.  
 > [https://plugmcp.ai/mcp](https://plugmcp.ai/mcp)
 
+<a id="post-3"></a>
+
 ### 3. Multi-tenant SaaS over MCP: where each tenant, plan and cost check lives in my server, and why almost all of them run per call, not per connection
 
-2026-11-04 · u/DutyOnly4308 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xna7v3/multitenant_saas_over_mcp_where_each_tenant_plan/)
+2026-11-04 · u/DutyOnly4308 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xna7v3/multitenant_saas_over_mcp_where_each_tenant_plan/) · [↑ back to the list](#last-50-posts)
 
 > Someone asked here a couple of weeks ago how a multi-tenant SaaS backend should expose MCP safely. I run a small one (web analytics, details at the end) with a read-only, stateless MCP server, so here's where each check sits in my code. One way to do it, not the only one.
 >
@@ -172,9 +178,11 @@ Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 >
 > https://globatics.live/?utm_source=reddit&utm_medium=social&utm_campaign=nov26&utm_content=modelcontextprotocol
 
+<a id="post-4"></a>
+
 ### 4. Local stdio MCP for a Windows WebView2 browser with persistent profiles
 
-2026-11-02 · u/Otherwise-Court8156 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xmcgex/local_stdio_mcp_for_a_windows_webview2_browser/)
+2026-11-02 · u/Otherwise-Court8156 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xmcgex/local_stdio_mcp_for_a_windows_webview2_browser/) · [↑ back to the list](#last-50-posts)
 
 > I maintain Browser Control SDK, a Windows WebView2 browser with a local stdio MCP server.
 >
@@ -191,15 +199,19 @@ Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 >
 > I'd appreciate feedback on the observe/act interface and how clearly it exposes partial failures.
 
+<a id="post-5"></a>
+
 ### 5. MoodlIA: a Moodle-hosted MCP endpoint — looking for testers and permission-model feedback
 
-2026-11-02 · u/Infamous-Monk-6344 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xlzjyb/moodlia_a_moodlehosted_mcp_endpoint_looking_for/)
+2026-11-02 · u/Infamous-Monk-6344 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xlzjyb/moodlia_a_moodlehosted_mcp_endpoint_looking_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. I made an MCP server that lets your agent play a slow multiplayer war game
 
-2026-11-02 · u/goyasapiens · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xlstpr/i_made_an_mcp_server_that_lets_your_agent_play_a/)
+2026-11-02 · u/goyasapiens · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xlstpr/i_made_an_mcp_server_that_lets_your_agent_play_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm the developer of Proxy Republic. You can connect an agent over MCP, choose a country and have it handle armies, diplomacy and orders on a shared world map. Turns happen every eight hours.
 >
@@ -223,9 +235,11 @@ Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 >
 > The game and server are free; any paid model usage is yours. I build it with Claude Code. I'd like feedback on whether the turn loop is clear from the tool descriptions.
 
+<a id="post-7"></a>
+
 ### 7. What we found checking 8,900 MCP/skill entries for clean links and licences
 
-2026-10-27 · u/metcot · score 2 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xgmx2s/what_we_found_checking_8900_mcpskill_entries_for/)
+2026-10-27 · u/metcot · score 2 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xgmx2s/what_we_found_checking_8900_mcpskill_entries_for/) · [↑ back to the list](#last-50-posts)
 
 > Spent the last few weeks aggregating MCP servers, agent skills and AI tools (about 8,900 entries) and auditing them instead of just listing them. Two things stood out.
 >
@@ -239,9 +253,11 @@ Link: <https://i.redd.it/kaj1ek3u0wzh1.png>
 >
 > The caveat: the domain is about three weeks old, traffic is close to zero, and most of the catalogue is harvested rather than hand-curated, so quality between entries varies more than I would like. I would rather take criticism on the audit method than a compliment.
 
+<a id="post-8"></a>
+
 ### 8. An MCP tool kept its name but changed its schema. AEGIS closes that route for review.
 
-2026-10-27 · u/Leather_Tour_794 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xghzw8/an_mcp_tool_kept_its_name_but_changed_its_schema/)
+2026-10-27 · u/Leather_Tour_794 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xghzw8/an_mcp_tool_kept_its_name_but_changed_its_schema/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 
@@ -279,9 +295,11 @@ Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 >
 > Screenshot: current AEGIS Action control source UI preview, captured 27 October 2026 with simulated data. It shows the review workspace, not a live catalog-change or blocking test.
 
+<a id="post-9"></a>
+
 ### 9. Mcp-warden: a local MCP server that injects your credentials so the agent never sees them
 
-2026-10-25 · u/Relevant_Mousse_9117 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xff57v/mcpwarden_a_local_mcp_server_that_injects_your/)
+2026-10-25 · u/Relevant_Mousse_9117 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xff57v/mcpwarden_a_local_mcp_server_that_injects_your/) · [↑ back to the list](#last-50-posts)
 
 > Most MCP setups I've seen hand the agent a token one way or another: an env var, a .env file, a config it can read. Once a token is in the context window it ends up in transcripts and within reach of any prompt injection.
 >
@@ -331,9 +349,11 @@ Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 >
 > I'd love feedback on the preset model. What would you need it to cover for your setup?
 
+<a id="post-10"></a>
+
 ### 10. A media-production use case for MCP: directing generated characters from Claude Code
 
-2026-10-25 · u/HVMVSN · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xeous5/a_mediaproduction_use_case_for_mcp_directing/)
+2026-10-25 · u/HVMVSN · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xeous5/a_mediaproduction_use_case_for_mcp_directing/) · [↑ back to the list](#last-50-posts)
 
 > I made a short demo of Claude Code connected to OpenArt’s existing MCP. It shows a media-production use case: reference images and scene direction go into the conversation, and the agent calls the connected generation tools.
 >
@@ -367,9 +387,11 @@ Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 >
 > For a first test, I’d keep the requested shot short and confirm its references and cost before expanding to a sequence.
 
+<a id="post-11"></a>
+
 ### 11. How should multi-tenant SaaS backends expose MCP safely?
 
-2026-10-23 · u/mardix · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xdj3mo/how_should_multitenant_saas_backends_expose_mcp/)
+2026-10-23 · u/mardix · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xdj3mo/how_should_multitenant_saas_backends_expose_mcp/) · [↑ back to the list](#last-50-posts)
 
 > I'm adding MCP to [Singlebase.io](http://Singlebase.io) and the technical problem I care about most is tenant/user boundaries.
 >
@@ -381,9 +403,11 @@ Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 >
 > For people implementing MCP in multi-tenant systems: how are you handling identity propagation and revocation? Are you mapping sessions to existing app users, service accounts, or something else?
 
+<a id="post-12"></a>
+
 ### 12. How are you handling auth + audit logs for MCP servers that actually *do* things?
 
-2026-10-23 · u/23editorcs · question · score 2 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xd8t23/how_are_you_handling_auth_audit_logs_for_mcp/)
+2026-10-23 · u/23editorcs · question · score 2 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xd8t23/how_are_you_handling_auth_audit_logs_for_mcp/) · [↑ back to the list](#last-50-posts)
 
 > Genuine question for people running MCP servers beyond the demo stage.
 >
@@ -396,9 +420,11 @@ Link: <https://i.redd.it/hqdki8g7jxxh1.jpeg>
 >
 > If you've shipped an MCP server that takes real actions, what did you land on for these two?
 
+<a id="post-13"></a>
+
 ### 13. Archestra 1.4: local-to-remote agent handoff built as plain MCP gateway tools plus one skill
 
-2026-10-21 · u/motakuk · new-release · score 47 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xbz0oz/archestra_14_localtoremote_agent_handoff_built_as/)
+2026-10-21 · u/motakuk · new-release · score 47 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xbz0oz/archestra_14_localtoremote_agent_handoff_built_as/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ccv60m63vvwh1.gif>
 
@@ -419,9 +445,11 @@ Link: <https://i.redd.it/ccv60m63vvwh1.gif>
 > Blog post: [https://archestra.ai/blog/new-remote-agents](https://archestra.ai/blog/new-remote-agents)  
 > Repo: [https://github.com/archestra-ai/archestra](https://github.com/archestra-ai/archestra)
 
+<a id="post-14"></a>
+
 ### 14. How to specify event colors by name/tag (e.g., "classes", "meeting") in Google Workspace MCP Calendar?Body:
 
-2026-10-21 · u/Ok_Angle_3249 · question · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xby64e/how_to_specify_event_colors_by_nametag_eg_classes/)
+2026-10-21 · u/Ok_Angle_3249 · question · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xby64e/how_to_specify_event_colors_by_nametag_eg_classes/) · [↑ back to the list](#last-50-posts)
 
 > I'm currently using the Google Workspace MCP server ([taylorwilsdon/google\_workspace\_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)), specifically working with the Google Calendar tools.
 >
@@ -431,16 +459,20 @@ Link: <https://i.redd.it/ccv60m63vvwh1.gif>
 >
 > Any tips, code snippets, or examples would be hugely appreciated!
 
+<a id="post-15"></a>
+
 ### 15. I built a ledger for what your AI agent actually did — because your logs can't tell you
 
-2026-10-20 · u/jay7084 · new-release · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xaqo7h/i_built_a_ledger_for_what_your_ai_agent_actually/)
+2026-10-20 · u/jay7084 · new-release · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xaqo7h/i_built_a_ledger_for_what_your_ai_agent_actually/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SaasDevelopers/comments/1xaqni0/i_built_a_ledger_for_what_your_ai_agent_actually/>
 
 
+<a id="post-16"></a>
+
 ### 16. remote MCP server that rings your iPhone and returns your spoken answer to the agent
 
-2026-10-19 · u/radressss · new-release · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xa8pzw/remote_mcp_server_that_rings_your_iphone_and/)
+2026-10-19 · u/radressss · new-release · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1xa8pzw/remote_mcp_server_that_rings_your_iphone_and/) · [↑ back to the list](#last-50-posts)
 
 > I build /call-me (disclosure: it's mine, and the iPhone app it rings is a paid subscription). It's a hosted MCP server at `https://callmemcp.com/mcp`, Streamable HTTP, no auth. An agent calls `call` with the 10-digit number from the app and some text. The phone rings, the text is read aloud, and whatever you say comes back as the tool result.
 >
@@ -457,16 +489,20 @@ Link: <https://www.reddit.com/r/SaasDevelopers/comments/1xaqni0/i_built_a_ledger
 >
 > Happy to answer questions about the design.
 
+<a id="post-17"></a>
+
 ### 17. Made a video on the origins of MCP protocol
 
-2026-10-19 · u/No_Product_5759 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x9q8qq/made_a_video_on_the_origins_of_mcp_protocol/)
+2026-10-19 · u/No_Product_5759 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x9q8qq/made_a_video_on_the_origins_of_mcp_protocol/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/ixak1jn6kdwh1>
 
 
+<a id="post-18"></a>
+
 ### 18. How I got one stock market data MCP server into Claude, ChatGPT, Cursor, Codex and Gemini CLI (OAuth, registries, directory reviews)
 
-2026-10-17 · u/DanielAPO · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x8lxcq/how_i_got_one_stock_market_data_mcp_server_into/)
+2026-10-17 · u/DanielAPO · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x8lxcq/how_i_got_one_stock_market_data_mcp_server_into/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: the server is Equibles, my MCP server for stock market and financial data. Over the last few weeks I got the same remote endpoint working and listed in pretty much every client I could. Writing down what each one needed in case it saves someone a few evenings.
 >
@@ -501,9 +537,11 @@ Link: <https://v.redd.it/ixak1jn6kdwh1>
 >
 > If you've been through the Claude or ChatGPT directory review, what did they push back on? And if there's an MCP client I missed for a financial data server like this, tell me.
 
+<a id="post-19"></a>
+
 ### 19. \[new-release\] Mac MCP 2.2.0 r2: scheduled agent tasks, local OCR and visible desktop activity
 
-2026-10-17 · u/bulutarkan · new-release · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x8fsaz/newrelease_mac_mcp_220_r2_scheduled_agent_tasks/)
+2026-10-17 · u/bulutarkan · new-release · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x8fsaz/newrelease_mac_mcp_220_r2_scheduled_agent_tasks/) · [↑ back to the list](#last-50-posts)
 
 > I'm the maintainer of Mac MCP, an MIT-licensed MCP server + native macOS menu bar app. It lets clients such as ChatGPT, Claude, Codex and OpenCode use Mac apps, Safari/Chrome tabs, the terminal and local files. Repo and install docs: https://github.com/bulutarkan/mac-mcp
 >
@@ -524,22 +562,28 @@ Link: <https://v.redd.it/ixak1jn6kdwh1>
 >
 > I'm curious how others represent an operation that was accepted by a tool but never confirmed by the target app. Do you report that as failed, pending, or an explicit unknown outcome?
 
+<a id="post-20"></a>
+
 ### 20. Set up ClosedMCPs once. Use them in every AI platform.
 
-2026-10-15 · u/Ok_Sprinkles1301 · new-release · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x6zrwe/set_up_closedmcps_once_use_them_in_every_ai/)
+2026-10-15 · u/Ok_Sprinkles1301 · new-release · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x6zrwe/set_up_closedmcps_once_use_them_in_every_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://ClosedMCP.com>
 
 
+<a id="post-21"></a>
+
 ### 21. \[New Release\] Muslim Prayer Reminder MCP: Zero-dependency astronomical calculation server for Claude, Cursor, and ChatGPT
 
-2026-10-15 · u/TareqN · new-release · score 0 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x6nvhd/new_release_muslim_prayer_reminder_mcp/)
+2026-10-15 · u/TareqN · new-release · score 0 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x6nvhd/new_release_muslim_prayer_reminder_mcp/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-22"></a>
+
 ### 22. I built a Discord MCP server that lets AI agents run your Discord bot
 
-2026-10-14 · u/EL4CTEO · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x5spq1/i_built_a_discord_mcp_server_that_lets_ai_agents/)
+2026-10-14 · u/EL4CTEO · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x5spq1/i_built_a_discord_mcp_server_that_lets_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1elffnwo0gvh1.png>
 
@@ -557,9 +601,11 @@ Link: <https://i.redd.it/1elffnwo0gvh1.png>
 >
 > [https://www.npmjs.com/package/@el4cteo/discord-mcp](https://www.npmjs.com/package/@el4cteo/discord-mcp)
 
+<a id="post-23"></a>
+
 ### 23. We built a simpler way to build, test, and deploy MCP tools
 
-2026-10-14 · u/glxymesh · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x5mg3n/we_built_a_simpler_way_to_build_test_and_deploy/)
+2026-10-14 · u/glxymesh · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x5mg3n/we_built_a_simpler_way_to_build_test_and_deploy/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/axi2fpxofevh1>
 
@@ -603,35 +649,45 @@ Link: <https://v.redd.it/axi2fpxofevh1>
 >
 > I'm particularly interested in feedback on the approach and format itself.
 
+<a id="post-24"></a>
+
 ### 24. MCP tools all passed testing but the agent keep choosing wrong one. How to test tool selection?
 
-2026-10-13 · u/Budget-Lunch9390 · question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x4vgh2/mcp_tools_all_passed_testing_but_the_agent_keep/)
+2026-10-13 · u/Budget-Lunch9390 · question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x4vgh2/mcp_tools_all_passed_testing_but_the_agent_keep/) · [↑ back to the list](#last-50-posts)
 
 > all the rest of tools were callable and direct tests passed all good. But when agent was asked a brand sentiment it selected another tool instead of relevant capability. The problem was that the agent chose the wrong tool for the user's intent. How i test for this kind of failure? Do you use predefined evaluation scenarios, automated tests or end to end testing with real prompts? Would appreciate hearing what has worked for you guys. thanks
 
+<a id="post-25"></a>
+
 ### 25. What is a MCP server?
 
-2026-10-11 · u/No_Product_5759 · score 0 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x3emts/what_is_a_mcp_server/)
+2026-10-11 · u/No_Product_5759 · score 0 · 1 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x3emts/what_is_a_mcp_server/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=KIhxxEnjnC0>
 
 
+<a id="post-26"></a>
+
 ### 26. WebMCP Learn by code
 
-2026-10-10 · u/PlatypusWinterberry · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x2bzr4/webmcp_learn_by_code/)
+2026-10-10 · u/PlatypusWinterberry · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x2bzr4/webmcp_learn_by_code/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://alexspinu.com/blog/webmcp-taught-through-code/>
 
 
+<a id="post-27"></a>
+
 ### 27. I built an open-source MCP gateway connecting 7 scientific and AI tools
 
-2026-10-08 · u/furkannarkn · new-release · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x0upa5/i_built_an_opensource_mcp_gateway_connecting_7/)
+2026-10-08 · u/furkannarkn · new-release · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x0upa5/i_built_an_opensource_mcp_gateway_connecting_7/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. I built an MCP server for website analytics; what data should an agent see?
 
-2026-10-08 · u/No_Product_5759 · question · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x0tknn/i_built_an_mcp_server_for_website_analytics_what/)
+2026-10-08 · u/No_Product_5759 · question · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1x0tknn/i_built_an_mcp_server_for_website_analytics_what/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I build agentlytics at measuremy.site.
 >
@@ -647,15 +703,19 @@ Link: <https://alexspinu.com/blog/webmcp-taught-through-code/>
 >
 > Project and MCP setup: [https://measuremy.site/](https://measuremy.site/) . I would value feedback on the tool design and permission boundary, not just the landing page.
 
+<a id="post-29"></a>
+
 ### 29. I built a local MCP bridge that lets a Mac desktop pet show Claude task status
 
-2026-10-06 · u/HanaChanSoft · new-release · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyy9tu/i_built_a_local_mcp_bridge_that_lets_a_mac/)
+2026-10-06 · u/HanaChanSoft · new-release · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyy9tu/i_built_a_local_mcp_bridge_that_lets_a_mac/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. When an MCP tool call's response never comes back, what should the client do?
 
-2026-10-05 · u/HotPocketWaves · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyljk2/when_an_mcp_tool_calls_response_never_comes_back/)
+2026-10-05 · u/HotPocketWaves · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyljk2/when_an_mcp_tool_calls_response_never_comes_back/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I'm the founder of the thing described below. I care more about how people here handle this than about pitching it.
 >
@@ -686,9 +746,11 @@ Link: <https://alexspinu.com/blog/webmcp-taught-through-code/>
 >
 > Overview, if useful: thisisatest.tech
 
+<a id="post-31"></a>
+
 ### 31. AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date details
 
-2026-10-05 · u/EL4CTEO · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyewhp/ai_assistants_are_trained_on_old_roblox_info_so_i/)
+2026-10-05 · u/EL4CTEO · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyewhp/ai_assistants_are_trained_on_old_roblox_info_so_i/) · [↑ back to the list](#last-50-posts)
 
 > If you use Claude Code or Cursor for Roblox, you've probably noticed it's great at the basics but trained on old data: it doesn't know recent engine changes, and it misses the details that only live in DevForum threads.
 >
@@ -718,17 +780,21 @@ Link: <https://alexspinu.com/blog/webmcp-taught-through-code/>
 >
 > Would love feedback, and ideas for which systems to cover next!
 
+<a id="post-32"></a>
+
 ### 32. AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date details
 
-2026-10-05 · u/EL4CTEO · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyerce/ai_assistants_are_trained_on_old_roblox_info_so_i/)
+2026-10-05 · u/EL4CTEO · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wyerce/ai_assistants_are_trained_on_old_roblox_info_so_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1wyerce>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. I made every command of my AI inpainting editor an MCP tool: agents can select by text, inpaint into layers, mask and export layered PSDs
 
-2026-10-04 · u/Direction_Mountain · new-release · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wxl2is/i_made_every_command_of_my_ai_inpainting_editor/)
+2026-10-04 · u/Direction_Mountain · new-release · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wxl2is/i_made_every_command_of_my_ai_inpainting_editor/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/qfo3aehthhth1>
 
@@ -755,9 +821,11 @@ Link: <https://v.redd.it/qfo3aehthhth1>
 >
 > I'd like to hear which tool descriptions or workflows would help your agents most.
 
+<a id="post-34"></a>
+
 ### 34. Worried about your AI agent leaking secrets, or tired of secret-scanner false positives?
 
-2026-10-04 · u/Miserable-Carpet-474 · new-release · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wxcslh/worried_about_your_ai_agent_leaking_secrets_or/)
+2026-10-04 · u/Miserable-Carpet-474 · new-release · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wxcslh/worried_about_your_ai_agent_leaking_secrets_or/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kssdhokrkfth1.png>
 
@@ -780,24 +848,30 @@ Link: <https://i.redd.it/kssdhokrkfth1.png>
 >
 > I'd like to hear where it gets things wrong.
 
+<a id="post-35"></a>
+
 ### 35. MCP for tour guides: a remote server with ~100 tools and OAuth, and what broke along the way
 
-2026-10-03 · u/AdPitiful4816 · new-release · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwn9ol/mcp_for_tour_guides_a_remote_server_with_100/)
+2026-10-03 · u/AdPitiful4816 · new-release · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwn9ol/mcp_for_tour_guides_a_remote_server_with_100/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/mcp/comments/1wwjuq9/mcp_for_tour_guides_a_remote_server_with_100/>
 
 
+<a id="post-36"></a>
+
 ### 36. AI assistants are trained on old Roblox info, so I built a free MCP server that gives them the up-to-date details
 
-2026-10-03 · u/EL4CTEO · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwmph5/ai_assistants_are_trained_on_old_roblox_info_so_i/)
+2026-10-03 · u/EL4CTEO · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwmph5/ai_assistants_are_trained_on_old_roblox_info_so_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1wwmph5>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. Friend of mine built a Claude connector for Telegram, been trying it for a bit
 
-2026-10-03 · u/Neprowaet · new-release · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwll18/friend_of_mine_built_a_claude_connector_for/)
+2026-10-03 · u/Neprowaet · new-release · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwll18/friend_of_mine_built_a_claude_connector_for/) · [↑ back to the list](#last-50-posts)
 
 > A friend of mine has been working on this thing called Lemma Telepath and asked me to try it with Claude.
 > Wasn’t really sure what I’d use it for at first tbh, but after playing around with it for a bit it started making sense.
@@ -820,24 +894,30 @@ Link: <https://www.reddit.com/gallery/1wwmph5>
 >
 > And yeah disclosure: the guy building it is a friend of mine. So take that however you want lol. I tried it, thought it was pretty useful, figured people here might be into it.
 
+<a id="post-38"></a>
+
 ### 38. I built a hosted MCP that connects AI assistants to your Telegram conversations
 
-2026-10-03 · u/LemmaTeam · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwl9lp/i_built_a_hosted_mcp_that_connects_ai_assistants/)
+2026-10-03 · u/LemmaTeam · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wwl9lp/i_built_a_hosted_mcp_that_connects_ai_assistants/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1yd3accup8th1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. /reright - Human approval for agent-written text
 
-2026-10-02 · u/paulofilip3 · new-release · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1ww5aio/reright_human_approval_for_agentwritten_text/)
+2026-10-02 · u/paulofilip3 · new-release · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1ww5aio/reright_human_approval_for_agentwritten_text/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://reright.it>
 
 
+<a id="post-40"></a>
+
 ### 40. \[new-release\] Mac MCP 2.1.7 — persistent mobile pairing, durable recovery, safer browser/process ownership
 
-2026-10-02 · u/bulutarkan · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wvq8p4/newrelease_mac_mcp_217_persistent_mobile_pairing/)
+2026-10-02 · u/bulutarkan · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wvq8p4/newrelease_mac_mcp_217_persistent_mobile_pairing/) · [↑ back to the list](#last-50-posts)
 
 > I maintain Mac MCP, an open-source MCP server/runtime for letting AI clients operate a real Mac through browser, files, shell, native UI and delegated agents.
 >
@@ -857,16 +937,20 @@ Link: <https://reright.it>
 >
 > I’m the maintainer. Feedback on the MCP/runtime boundary is very welcome — especially from people dealing with long-running browser sessions or multiple concurrent agents.
 
+<a id="post-41"></a>
+
 ### 41. I found an open source MCP called PyMemoryEditor that is a memory scanner like cheat engine
 
-2026-10-02 · u/SupermarketTrue7507 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wvkgrf/i_found_an_open_source_mcp_called_pymemoryeditor/)
+2026-10-02 · u/SupermarketTrue7507 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wvkgrf/i_found_an_open_source_mcp_called_pymemoryeditor/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/JeanExtreme002/PyMemoryEditor>
 
 
+<a id="post-42"></a>
+
 ### 42. e2e - an open source AI testing framework w/ MCP server
 
-2026-10-01 · u/kacperkapusciak · new-release · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wv6lgw/e2e_an_open_source_ai_testing_framework_w_mcp/)
+2026-10-01 · u/kacperkapusciak · new-release · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wv6lgw/e2e_an_open_source_ai_testing_framework_w_mcp/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/tester-army/e2e>
 
@@ -880,15 +964,19 @@ Link: <https://github.com/tester-army/e2e>
 >
 > Thanks for reading!
 
+<a id="post-43"></a>
+
 ### 43. We need MCP server security, unauthorized clientes keep connecting to our server
 
-2026-09-29 · u/InevitableTonight899 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wtgurj/we_need_mcp_server_security_unauthorized_clientes/)
+2026-09-29 · u/InevitableTonight899 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wtgurj/we_need_mcp_server_security_unauthorized_clientes/) · [↑ back to the list](#last-50-posts)
 
 > We found an internal client connecting to an MCP server that it wasn´t supposed to be using. Nothing bad happened, but it exposed the fact that being on the network is doing most of the access control for us right now. We have several servers and i really don´t want the fix to become adding another auth implementation to every single one. Keeping that logic somewhere in front of them seems a lot maintain
 
+<a id="post-44"></a>
+
 ### 44. How to create trading strategies via MCP
 
-2026-09-28 · u/NextgenAITrading · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1ws83ri/how_to_create_trading_strategies_via_mcp/)
+2026-09-28 · u/NextgenAITrading · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1ws83ri/how_to_create_trading_strategies_via_mcp/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/uihcv39or7sh1>
 
@@ -903,9 +991,11 @@ Link: <https://v.redd.it/uihcv39or7sh1>
 >
 > I'm collecting feedback so would love to hear what y'all think. If you hit a paywall, [use this link to bypass it](https://nexustrade.io/reddit); I want Reddit users to really stress-test the platform.
 
+<a id="post-45"></a>
+
 ### 45. stdio MCP for replay-gated failure prior art (claimidx-mcp)
 
-2026-09-26 · u/Agile-Entrepreneur-6 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wr4z17/stdio_mcp_for_replaygated_failure_prior_art/)
+2026-09-26 · u/Agile-Entrepreneur-6 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wr4z17/stdio_mcp_for_replaygated_failure_prior_art/) · [↑ back to the list](#last-50-posts)
 
 > Most MCP servers expose tools. The gap we kept hitting: agents rediscovering the **same** packaging / toolchain fail across sessions — no shared, replay-gated prior art.
 >
@@ -925,9 +1015,11 @@ Link: <https://v.redd.it/uihcv39or7sh1>
 >
 > (I'm with the ClaimIDX project — happy to dig into stdio / registry details.)
 
+<a id="post-46"></a>
+
 ### 46. I built an MCP that lets you point at UI elements (across pages) and tell Claude Code what to change
 
-2026-09-26 · u/boonblade · new-release · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wqtt0g/i_built_an_mcp_that_lets_you_point_at_ui_elements/)
+2026-09-26 · u/boonblade · new-release · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wqtt0g/i_built_an_mcp_that_lets_you_point_at_ui_elements/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ekz2hs0cyvrh1.gif>
 
@@ -990,15 +1082,19 @@ Link: <https://i.redd.it/ekz2hs0cyvrh1.gif>
 > \- Does pointing at an element feel more useful than describing it?  
 > \- What other context should your coding agent get when you point at something in the browser?
 
+<a id="post-47"></a>
+
 ### 47. How are you auditing what your AI agents actually do in production?
 
-2026-09-23 · u/Ernesmar · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wol2n5/how_are_you_auditing_what_your_ai_agents_actually/)
+2026-09-23 · u/Ernesmar · question · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wol2n5/how_are_you_auditing_what_your_ai_agents_actually/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. Skipper: a git MCP to rule them all.
 
-2026-09-23 · u/TheAtlasMonkey · new-release · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wo4m8s/skipper_a_git_mcp_to_rule_them_all/)
+2026-09-23 · u/TheAtlasMonkey · new-release · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wo4m8s/skipper_a_git_mcp_to_rule_them_all/) · [↑ back to the list](#last-50-posts)
 
 > Hi all
 >
@@ -1034,17 +1130,21 @@ Link: <https://i.redd.it/ekz2hs0cyvrh1.gif>
 >
 > PS3: Saving tokens, will also save your subscription limit
 
+<a id="post-49"></a>
+
 ### 49. Textile – A Voice-Driven Desktop Automations and Intelligence Engine with MCP Server for Linux.
 
-2026-09-19 · u/PrinciplePast4852 · new-release · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wkuxzb/textile_a_voicedriven_desktop_automations_and/)
+2026-09-19 · u/PrinciplePast4852 · new-release · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wkuxzb/textile_a_voicedriven_desktop_automations_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/e1hfize7ziqh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. Karada.ai – Auto-generate Go MCP servers from OpenAPI/Postman with 1-click plugins and CI/CD
 
-2026-09-19 · u/shashtag_work · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wko9ud/karadaai_autogenerate_go_mcp_servers_from/)
+2026-09-19 · u/shashtag_work · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/modelcontextprotocol/comments/1wko9ud/karadaai_autogenerate_go_mcp_servers_from/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/mcp/comments/1wko9jv/karadaai_autogenerate_go_mcp_servers_from/>
 

@@ -49,56 +49,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Show: Fuzzy-align CN/EN field names](https://www.reddit.com/r/webscraping/comments/1xpvth7/show_fuzzyalign_cnen_field_names/) | u/Clean-Security6623 | Getting started 🌱 | text | 1 | 0 | held by automod | — |
-| 2 | 2026-11-06 | [ScrapeBadger API](https://www.reddit.com/r/webscraping/comments/1xpqbow/scrapebadger_api/) | u/raedyohed | Getting started 🌱 | text | 1 | 0 | removed by mod | — |
-| 3 | 2026-11-06 | [Best approach or Python library for automating Google](https://www.reddit.com/r/webscraping/comments/1xpo3xu/best_approach_or_python_library_for_automating/) | u/scartfife | Bot detection 🤖 | text | 2 | 0 | approved | — |
-| 4 | 2026-11-06 | [do anyone here familiar with esuit?](https://www.reddit.com/r/webscraping/comments/1xpkti0/do_anyone_here_familiar_with_esuit/) | u/Alert_Speech_7066 | — | text | 0 | 0 | held by automod | — |
-| 5 | 2026-11-06 | [HikerAPI](https://www.reddit.com/r/webscraping/comments/1xpjx9h/hikerapi/) | u/AloneAntelope5771 | — | text | 0 | 1 | removed by mod | Questions about instagram rarely produce new insight. Please use the search feature to find previou… |
-| 6 | 2026-11-06 | [AI for web scraping](https://www.reddit.com/r/webscraping/comments/1xpfxvi/ai_for_web_scraping/) | u/youugur | — | text | 1 | 1 | removed by mod | — |
-| 7 | 2026-11-06 | [How do I download login-protected pages/blogs for offline reading?](https://www.reddit.com/r/webscraping/comments/1xp9plu/how_do_i_download_loginprotected_pagesblogs_for/) | u/Outonotfound | — | i.redd.it | 8 | 6 | live | — |
-| 8 | 2026-11-06 | [Need help to scraping at country level](https://www.reddit.com/r/webscraping/comments/1xp7i0b/need_help_to_scraping_at_country_level/) | u/beijibee | — | text | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-06 | [Resolving full-res images in dynamic galleries with Playwright](https://www.reddit.com/r/webscraping/comments/1xp2x4b/resolving_fullres_images_in_dynamic_galleries/) | u/Competitive-Number94 | Scaling up 🚀 | text | 1 | 0 | spam-filtered | — |
-| 10 | 2026-11-06 | [(findslut.io)](https://www.reddit.com/r/webscraping/comments/1xp0c88/findslutio/) | u/findslut | — | v.redd.it | 0 | 0 | held by automod | — |
-| 11 | 2026-11-06 | [Resolving full-res images in DOM](https://www.reddit.com/r/webscraping/comments/1xp07j8/resolving_fullres_images_in_dom/) | u/Competitive-Number94 | Scaling up 🚀 | i.redd.it | 1 | 0 | spam-filtered | — |
-| 12 | 2026-11-06 | [Resolving full-res images in DOM](https://www.reddit.com/r/webscraping/comments/1xozt9u/resolving_fullres_images_in_dom/) | u/Competitive-Number94 | Scaling up 🚀 | i.redd.it | 1 | 0 | removed by mod | — |
-| 13 | 2026-11-06 | [Solving thumbnail vs CDN resolution](https://www.reddit.com/r/webscraping/comments/1xozjii/solving_thumbnail_vs_cdn_resolution/) | u/Competitive-Number94 | Scaling up 🚀 | text | 1 | 0 | spam-filtered | — |
-| 14 | 2026-11-06 | [\[Showoff / Open Source\] IMAGEX.AI – Context-aware media browser agent](https://www.reddit.com/r/webscraping/comments/1xoyvwr/showoff_open_source_imagexai_contextaware_media/) | u/Competitive-Number94 | AI ✨ | text | 1 | 0 | spam-filtered | — |
-| 15 | 2026-11-05 | [SwiftScrape](https://www.reddit.com/r/webscraping/comments/1xoqtfk/swiftscrape/) | u/andreas8455 | — | swiftscrape-gmwqxhwtpupafk7yurujns.streamlit.app | 1 | 1 | held by automod | 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post h… |
-| 16 | 2026-11-05 | [Solve timing-based and slider CAPTCHAs for free with Scrapling v0.5.1](https://www.reddit.com/r/webscraping/comments/1xompg7/solve_timingbased_and_slider_captchas_for_free/) | u/0xReaper | AI ✨ | v.redd.it | 28 | 2 | removed by mod | — |
-| 17 | 2026-11-05 | [What's the best way to collect Reddit comments from a specific sub?](https://www.reddit.com/r/webscraping/comments/1xom2in/whats_the_best_way_to_collect_reddit_comments/) | u/xmeandix | Getting started 🌱 | text | 3 | 6 | live | — |
-| 18 | 2026-11-05 | [Whats the best way to collect Reddit comments from a specific sub?](https://www.reddit.com/r/webscraping/comments/1xolzwj/whats_the_best_way_to_collect_reddit_comments/) | u/xmeandix | Getting started 🌱 | text | 1 | 0 | removed by mod | — |
-| 19 | 2026-11-05 | [help with google link scraping](https://www.reddit.com/r/webscraping/comments/1xog9so/help_with_google_link_scraping/) | u/Repulsive_Dinner899 | — | text | 1 | 1 | removed by mod | — |
-| 20 | 2026-11-05 | [SerpApi Google results don't match browser results](https://www.reddit.com/r/webscraping/comments/1xog8rn/serpapi_google_results_dont_match_browser_results/) | u/Repulsive_Dinner899 | Scaling up 🚀 | text | 1 | 1 | spam-filtered | — |
-| 21 | 2026-11-05 | [Benchmarking 3 scraping APIs across 4 protected sites](https://www.reddit.com/r/webscraping/comments/1xog5pa/benchmarking_3_scraping_apis_across_4_protected/) | u/Content_Secret6493 | — | text | 1 | 0 | removed by mod | — |
-| 22 | 2026-11-05 | [Adding crawl URLs to sub-yaps](https://www.reddit.com/r/webscraping/comments/1xofa0d/adding_crawl_urls_to_subyaps/) | u/groupicorn | — | yapern.com | 4 | 0 | live | — |
-| 23 | 2026-11-05 | [New to scraping! What do you use for SERP data?](https://www.reddit.com/r/webscraping/comments/1xoed09/new_to_scraping_what_do_you_use_for_serp_data/) | u/wesleyfreshh | Getting started 🌱 | text | 1 | 0 | held by automod | — |
-| 24 | 2026-11-05 | [cdp library in rust](https://www.reddit.com/r/webscraping/comments/1xo8q3t/cdp_library_in_rust/) | u/tri__dimensional | — | text | 4 | 5 | live | — |
-| 25 | 2026-11-05 | [Is there any way to get the actual country of a specific tweet](https://www.reddit.com/r/webscraping/comments/1xo7pgk/is_there_any_way_to_get_the_actual_country_of_a/) | u/bad_cutie | Getting started 🌱 | text | 2 | 3 | approved | — |
-| 26 | 2026-11-04 | [If you host websites, new AI scrapers are bypassing Cloudflare](https://www.reddit.com/r/webscraping/comments/1xo1di1/if_you_host_websites_new_ai_scrapers_are/) | u/cofsci | Bot detection 🤖 | text | 0 | 0 | spam-filtered | — |
-| 27 | 2026-11-04 | [Got tired of heavy headless browsers eating up RAM?](https://www.reddit.com/r/webscraping/comments/1xnxm8c/got_tired_of_heavy_headless_browsers_eating_up_ram/) | u/promcoder | Getting started 🌱 | text | 1 | 1 | held by automod | 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post h… |
-| 28 | 2026-11-04 | [Illegal to webscrape this wesbsite?](https://www.reddit.com/r/webscraping/comments/1xnrztm/illegal_to_webscrape_this_wesbsite/) | u/ControlRepulsive7273 | — | text | 1 | 0 | spam-filtered | — |
-| 29 | 2026-11-04 | [Using open source to extract product specs from webpages / PDFs](https://www.reddit.com/r/webscraping/comments/1xnmumi/using_open_source_to_extract_product_specs_from/) | u/designhelp123 | — | text | 4 | 9 | approved | — |
-| 30 | 2026-11-04 | [How to scrape a website data behind the login page?](https://www.reddit.com/r/webscraping/comments/1xnmi84/how_to_scrape_a_website_data_behind_the_login_page/) | u/ThisManLovesSleeping | — | text | 1 | 0 | spam-filtered | — |
-| 31 | 2026-11-04 | [Scraper returned 0 rows and HTTP 200?](https://www.reddit.com/r/webscraping/comments/1xnl369/scraper_returned_0_rows_and_http_200/) | u/Ok-Motor-9812 | — | text | 1 | 0 | removed by mod | — |
-| 32 | 2026-11-04 | [Can we Solve reCaptcha using VisionAIRecaptchaSolver?](https://www.reddit.com/r/webscraping/comments/1xnfppw/can_we_solve_recaptcha_using/) | u/Stunning-Space8032 | AI ✨ | text | 4 | 13 | live | — |
-| 33 | 2026-11-04 | [Help Needed: Automatic Data Collection Using Python](https://www.reddit.com/r/webscraping/comments/1xndf6d/help_needed_automatic_data_collection_using_python/) | u/Salt_Mud3004 | Getting started 🌱 | text | 3 | 7 | approved | — |
-| 34 | 2026-11-04 | [Architecture notes on session caching for Cloudflare Turnstile](https://www.reddit.com/r/webscraping/comments/1xnd339/architecture_notes_on_session_caching_for/) | u/Solid-Bidl | Getting started 🌱 | text | 0 | 0 | held by automod | — |
-| 35 | 2026-11-03 | [Anyone doing webscraping with Antidetect browser?](https://www.reddit.com/r/webscraping/comments/1xn96sv/anyone_doing_webscraping_with_antidetect_browser/) | u/Acrobatic-Tea2502 | Getting started 🌱 | text | 14 | 14 | live | — |
-| 36 | 2026-11-03 | [Where do you guys get eBay sold data for Pokemon cards?](https://www.reddit.com/r/webscraping/comments/1xn92qy/where_do_you_guys_get_ebay_sold_data_for_pokemon/) | u/ianheap66 | — | text | 2 | 1 | approved | — |
-| 37 | 2026-11-03 | [Medicine data collected from website through crawler](https://www.reddit.com/r/webscraping/comments/1xn51at/medicine_data_collected_from_website_through/) | u/Mahi61142 | — | text | 1 | 1 | held by automod | — |
-| 38 | 2026-11-03 | [Comic book info scrapping](https://www.reddit.com/r/webscraping/comments/1xn3oz4/comic_book_info_scrapping/) | u/GracedVirus121 | — | text | 5 | 9 | live | — |
-| 39 | 2026-11-03 | [browser automation pitfalls after 2 years](https://www.reddit.com/r/webscraping/comments/1xn0yes/browser_automation_pitfalls_after_2_years/) | u/versatilesparks | — | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-11-03 | [I built an custom pipeline to scrape wellness clinic from booking app](https://www.reddit.com/r/webscraping/comments/1xn063m/i_built_an_custom_pipeline_to_scrape_wellness/) | u/Aradhay_49 | — | text | 1 | 0 | spam-filtered | — |
-| 41 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](https://www.reddit.com/r/webscraping/comments/1xn02uu/i_built_an_apify_pipeline_to_scrape_wellness/) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 0 | removed by mod | — |
-| 42 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](https://www.reddit.com/r/webscraping/comments/1xmzmwm/i_built_an_apify_pipeline_to_scrape_wellness/) | u/Aradhay_49 | — | text | 1 | 0 | removed by mod | — |
-| 43 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](https://www.reddit.com/r/webscraping/comments/1xmzkst/i_built_an_apify_pipeline_to_scrape_wellness/) | u/Aradhay_49 | — | text | 1 | 1 | removed by mod | — |
-| 44 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](https://www.reddit.com/r/webscraping/comments/1xmzhre/i_built_an_apify_pipeline_to_scrape_wellness/) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 1 | removed by mod | — |
-| 45 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](https://www.reddit.com/r/webscraping/comments/1xmzefl/i_built_an_apify_pipeline_to_scrape_wellness/) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 1 | removed by mod | — |
-| 46 | 2026-11-03 | [Custom high-speed data extraction API](https://www.reddit.com/r/webscraping/comments/1xmqzdf/custom_highspeed_data_extraction_api/) | u/API_Cloud_Owner | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 47 | 2026-11-03 | [Custom Enterprise Web Scraping API Available — 24-Hour Free Trial](https://www.reddit.com/r/webscraping/comments/1xmqm6k/custom_enterprise_web_scraping_api_available/) | u/API_Cloud_Owner | — | i.redd.it | 0 | 0 | held by automod | — |
-| 48 | 2026-11-03 | [Anyone encountering cloudflare?](https://www.reddit.com/r/webscraping/comments/1xmpojv/anyone_encountering_cloudflare/) | u/No_Championship5696 | Bot detection 🤖 | text | 1 | 0 | held by automod | — |
-| 49 | 2026-11-03 | [get ALL posts and comments matching a keyword?](https://www.reddit.com/r/webscraping/comments/1xmpaow/get_all_posts_and_comments_matching_a_keyword/) | u/Feeling-Plane3434 | — | text | 4 | 9 | approved | — |
-| 50 | 2026-11-03 | [Steam community market price monitoring.](https://www.reddit.com/r/webscraping/comments/1xmp2mj/steam_community_market_price_monitoring/) | u/Illustrious_Put_8259 | Getting started 🌱 | text | 3 | 4 | approved | — |
+| 1 | 2026-11-07 | [Show: Fuzzy-align CN/EN field names](#post-1) | u/Clean-Security6623 | Getting started 🌱 | text | 1 | 0 | held by automod | — |
+| 2 | 2026-11-06 | [ScrapeBadger API](#post-2) | u/raedyohed | Getting started 🌱 | text | 1 | 0 | removed by mod | — |
+| 3 | 2026-11-06 | [Best approach or Python library for automating Google](#post-3) | u/scartfife | Bot detection 🤖 | text | 2 | 0 | approved | — |
+| 4 | 2026-11-06 | [do anyone here familiar with esuit?](#post-4) | u/Alert_Speech_7066 | — | text | 0 | 0 | held by automod | — |
+| 5 | 2026-11-06 | [HikerAPI](#post-5) | u/AloneAntelope5771 | — | text | 0 | 1 | removed by mod | Questions about instagram rarely produce new insight. Please use the search feature to find previou… |
+| 6 | 2026-11-06 | [AI for web scraping](#post-6) | u/youugur | — | text | 1 | 1 | removed by mod | — |
+| 7 | 2026-11-06 | [How do I download login-protected pages/blogs for offline reading?](#post-7) | u/Outonotfound | — | i.redd.it | 8 | 6 | live | — |
+| 8 | 2026-11-06 | [Need help to scraping at country level](#post-8) | u/beijibee | — | text | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-06 | [Resolving full-res images in dynamic galleries with Playwright](#post-9) | u/Competitive-Number94 | Scaling up 🚀 | text | 1 | 0 | spam-filtered | — |
+| 10 | 2026-11-06 | [(findslut.io)](#post-10) | u/findslut | — | v.redd.it | 0 | 0 | held by automod | — |
+| 11 | 2026-11-06 | [Resolving full-res images in DOM](#post-11) | u/Competitive-Number94 | Scaling up 🚀 | i.redd.it | 1 | 0 | spam-filtered | — |
+| 12 | 2026-11-06 | [Resolving full-res images in DOM](#post-12) | u/Competitive-Number94 | Scaling up 🚀 | i.redd.it | 1 | 0 | removed by mod | — |
+| 13 | 2026-11-06 | [Solving thumbnail vs CDN resolution](#post-13) | u/Competitive-Number94 | Scaling up 🚀 | text | 1 | 0 | spam-filtered | — |
+| 14 | 2026-11-06 | [\[Showoff / Open Source\] IMAGEX.AI – Context-aware media browser agent](#post-14) | u/Competitive-Number94 | AI ✨ | text | 1 | 0 | spam-filtered | — |
+| 15 | 2026-11-05 | [SwiftScrape](#post-15) | u/andreas8455 | — | swiftscrape-gmwqxhwtpupafk7yurujns.streamlit.app | 1 | 1 | held by automod | 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post h… |
+| 16 | 2026-11-05 | [Solve timing-based and slider CAPTCHAs for free with Scrapling v0.5.1](#post-16) | u/0xReaper | AI ✨ | v.redd.it | 28 | 2 | removed by mod | — |
+| 17 | 2026-11-05 | [What's the best way to collect Reddit comments from a specific sub?](#post-17) | u/xmeandix | Getting started 🌱 | text | 3 | 6 | live | — |
+| 18 | 2026-11-05 | [Whats the best way to collect Reddit comments from a specific sub?](#post-18) | u/xmeandix | Getting started 🌱 | text | 1 | 0 | removed by mod | — |
+| 19 | 2026-11-05 | [help with google link scraping](#post-19) | u/Repulsive_Dinner899 | — | text | 1 | 1 | removed by mod | — |
+| 20 | 2026-11-05 | [SerpApi Google results don't match browser results](#post-20) | u/Repulsive_Dinner899 | Scaling up 🚀 | text | 1 | 1 | spam-filtered | — |
+| 21 | 2026-11-05 | [Benchmarking 3 scraping APIs across 4 protected sites](#post-21) | u/Content_Secret6493 | — | text | 1 | 0 | removed by mod | — |
+| 22 | 2026-11-05 | [Adding crawl URLs to sub-yaps](#post-22) | u/groupicorn | — | yapern.com | 4 | 0 | live | — |
+| 23 | 2026-11-05 | [New to scraping! What do you use for SERP data?](#post-23) | u/wesleyfreshh | Getting started 🌱 | text | 1 | 0 | held by automod | — |
+| 24 | 2026-11-05 | [cdp library in rust](#post-24) | u/tri__dimensional | — | text | 4 | 5 | live | — |
+| 25 | 2026-11-05 | [Is there any way to get the actual country of a specific tweet](#post-25) | u/bad_cutie | Getting started 🌱 | text | 2 | 3 | approved | — |
+| 26 | 2026-11-04 | [If you host websites, new AI scrapers are bypassing Cloudflare](#post-26) | u/cofsci | Bot detection 🤖 | text | 0 | 0 | spam-filtered | — |
+| 27 | 2026-11-04 | [Got tired of heavy headless browsers eating up RAM?](#post-27) | u/promcoder | Getting started 🌱 | text | 1 | 1 | held by automod | 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post h… |
+| 28 | 2026-11-04 | [Illegal to webscrape this wesbsite?](#post-28) | u/ControlRepulsive7273 | — | text | 1 | 0 | spam-filtered | — |
+| 29 | 2026-11-04 | [Using open source to extract product specs from webpages / PDFs](#post-29) | u/designhelp123 | — | text | 4 | 9 | approved | — |
+| 30 | 2026-11-04 | [How to scrape a website data behind the login page?](#post-30) | u/ThisManLovesSleeping | — | text | 1 | 0 | spam-filtered | — |
+| 31 | 2026-11-04 | [Scraper returned 0 rows and HTTP 200?](#post-31) | u/Ok-Motor-9812 | — | text | 1 | 0 | removed by mod | — |
+| 32 | 2026-11-04 | [Can we Solve reCaptcha using VisionAIRecaptchaSolver?](#post-32) | u/Stunning-Space8032 | AI ✨ | text | 4 | 13 | live | — |
+| 33 | 2026-11-04 | [Help Needed: Automatic Data Collection Using Python](#post-33) | u/Salt_Mud3004 | Getting started 🌱 | text | 3 | 7 | approved | — |
+| 34 | 2026-11-04 | [Architecture notes on session caching for Cloudflare Turnstile](#post-34) | u/Solid-Bidl | Getting started 🌱 | text | 0 | 0 | held by automod | — |
+| 35 | 2026-11-03 | [Anyone doing webscraping with Antidetect browser?](#post-35) | u/Acrobatic-Tea2502 | Getting started 🌱 | text | 14 | 14 | live | — |
+| 36 | 2026-11-03 | [Where do you guys get eBay sold data for Pokemon cards?](#post-36) | u/ianheap66 | — | text | 2 | 1 | approved | — |
+| 37 | 2026-11-03 | [Medicine data collected from website through crawler](#post-37) | u/Mahi61142 | — | text | 1 | 1 | held by automod | — |
+| 38 | 2026-11-03 | [Comic book info scrapping](#post-38) | u/GracedVirus121 | — | text | 5 | 9 | live | — |
+| 39 | 2026-11-03 | [browser automation pitfalls after 2 years](#post-39) | u/versatilesparks | — | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-11-03 | [I built an custom pipeline to scrape wellness clinic from booking app](#post-40) | u/Aradhay_49 | — | text | 1 | 0 | spam-filtered | — |
+| 41 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](#post-41) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 0 | removed by mod | — |
+| 42 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](#post-42) | u/Aradhay_49 | — | text | 1 | 0 | removed by mod | — |
+| 43 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](#post-43) | u/Aradhay_49 | — | text | 1 | 1 | removed by mod | — |
+| 44 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](#post-44) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 1 | removed by mod | — |
+| 45 | 2026-11-03 | [I built an Apify pipeline to scrape wellness clinics from booking app](#post-45) | u/Aradhay_49 | Scaling up 🚀 | text | 1 | 1 | removed by mod | — |
+| 46 | 2026-11-03 | [Custom high-speed data extraction API](#post-46) | u/API_Cloud_Owner | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 47 | 2026-11-03 | [Custom Enterprise Web Scraping API Available — 24-Hour Free Trial](#post-47) | u/API_Cloud_Owner | — | i.redd.it | 0 | 0 | held by automod | — |
+| 48 | 2026-11-03 | [Anyone encountering cloudflare?](#post-48) | u/No_Championship5696 | Bot detection 🤖 | text | 1 | 0 | held by automod | — |
+| 49 | 2026-11-03 | [get ALL posts and comments matching a keyword?](#post-49) | u/Feeling-Plane3434 | — | text | 4 | 9 | approved | — |
+| 50 | 2026-11-03 | [Steam community market price monitoring.](#post-50) | u/Illustrious_Put_8259 | Getting started 🌱 | text | 3 | 4 | approved | — |
 
 ## Top 20 posts, last 30 days
 
@@ -106,46 +106,52 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-18 | [I Am Shutting Down API & Open Sourcing The Code on GIthub](https://www.reddit.com/r/webscraping/comments/1x9dglv/i_am_shutting_down_api_open_sourcing_the_code_on/) | u/adultdatalink | — | text | 141 | 7 | live |
-| 52 | 2026-10-18 | [An insane new update to Scrapling! solve any captcha easy](https://www.reddit.com/r/webscraping/comments/1x95tpc/an_insane_new_update_to_scrapling_solve_any/) | u/0xReaper | — | v.redd.it | 117 | 26 | live |
-| 53 | 2026-10-13 | [I stitched 28 web scrapers and browsers into one open-source tool](https://www.reddit.com/r/webscraping/comments/1x4sfpt/i_stitched_28_web_scrapers_and_browsers_into_one/) | u/Careless_Love_3213 | AI ✨ | text | 100 | 30 | approved |
-| 54 | 2026-10-16 | [New web obfuscation technique: Divergence](https://www.reddit.com/r/webscraping/comments/1x7v51l/new_web_obfuscation_technique_divergence/) | u/trustsigRobert | — | trustsig.eu | 98 | 5 | live |
-| 55 | 2026-10-11 | [Open-source Reddit scraper for posts and comments](https://www.reddit.com/r/webscraping/comments/1x369e0/opensource_reddit_scraper_for_posts_and_comments/) | u/Coding-Doctor-Omar | — | github.com | 76 | 25 | live |
-| 56 | 2026-10-30 | [Self Hosted Scraping API](https://www.reddit.com/r/webscraping/comments/1xj9ozc/self_hosted_scraping_api/) | u/RealSirJoe | — | i.redd.it | 57 | 15 | live |
-| 57 | 2026-10-16 | [Should people never share their scraping tools with others?](https://www.reddit.com/r/webscraping/comments/1x79ae6/should_people_never_share_their_scraping_tools/) | u/Coding-Doctor-Omar | — | text | 49 | 35 | live |
-| 58 | 2026-11-02 | [Solve Cloudflare Challenges Automatically with Playwright](https://www.reddit.com/r/webscraping/comments/1xlwybl/solve_cloudflare_challenges_automatically_with/) | u/your_mom_love_me | — | v.redd.it | 48 | 12 | approved |
-| 59 | 2026-10-26 | [Stealthy browser automation and CAPTCHA-bypass from Linux servers](https://www.reddit.com/r/webscraping/comments/1xfzdia/stealthy_browser_automation_and_captchabypass/) | u/SeleniumBase | Bot detection 🤖 | text | 47 | 19 | live |
-| 60 | 2026-10-23 | [How do you guys handle reCAPTCHA v2 when scraping?](https://www.reddit.com/r/webscraping/comments/1xd92wj/how_do_you_guys_handle_recaptcha_v2_when_scraping/) | u/ChuanlongYou | Bot detection 🤖 | text | 34 | 11 | approved |
-| 61 | 2026-10-21 | [Scrape any website with browser automations running on your computer](https://www.reddit.com/r/webscraping/comments/1xbqfja/scrape_any_website_with_browser_automations/) | u/Lecontodereddit | — | youtube.com | 34 | 9 | approved |
-| 62 | 2026-10-15 | [Need Collaborators to Maintain an Open-source Reddit scraper.](https://www.reddit.com/r/webscraping/comments/1x6c5ur/need_collaborators_to_maintain_an_opensource/) | u/Coding-Doctor-Omar | Bot detection 🤖 | github.com | 31 | 18 | live |
-| 63 | 2026-10-31 | [Which anti bot service is the hardest to bypass?](https://www.reddit.com/r/webscraping/comments/1xknvzr/which_anti_bot_service_is_the_hardest_to_bypass/) | u/Big-Astronaut-9510 | — | text | 30 | 50 | live |
-| 64 | 2026-10-30 | [Open-source guide to identifying and handling 38 CAPTCHA types](https://www.reddit.com/r/webscraping/comments/1xj9bs5/opensource_guide_to_identifying_and_handling_38/) | u/Mammoth-Aide-5064 | — | v.redd.it | 28 | 2 | live |
-| 65 | 2026-10-19 | [Introducing Clairic, a new System One class of extraction models](https://www.reddit.com/r/webscraping/comments/1xaargi/introducing_clairic_a_new_system_one_class_of/) | u/matty_fu | — | blog.cloudflare.com | 27 | 0 | live |
-| 66 | 2026-10-25 | [A Self Healing Agentic Web Scraper.](https://www.reddit.com/r/webscraping/comments/1xf9qvb/a_self_healing_agentic_web_scraper/) | u/Extreme_Leg_6162 | AI ✨ | github.com | 26 | 7 | live |
-| 67 | 2026-10-25 | [Building a modern browser automation extension (Automa alternative)](https://www.reddit.com/r/webscraping/comments/1xf0p71/building_a_modern_browser_automation_extension/) | u/NullPointerGambit | — | v.redd.it | 26 | 5 | approved |
-| 68 | 2026-10-26 | [What are the best abliterated models for webscraping](https://www.reddit.com/r/webscraping/comments/1xg5uj3/what_are_the_best_abliterated_models_for/) | u/Deep-Alternative8085 | — | text | 18 | 12 | live |
-| 69 | 2026-10-16 | [i made a CLI tool that tells you (or your AI) what's blocking you](https://www.reddit.com/r/webscraping/comments/1x7hpcl/i_made_a_cli_tool_that_tells_you_or_your_ai_whats/) | u/jeheskielsunloy | Bot detection 🤖 | i.redd.it | 15 | 21 | live |
-| 35 | 2026-11-03 | [Anyone doing webscraping with Antidetect browser?](https://www.reddit.com/r/webscraping/comments/1xn96sv/anyone_doing_webscraping_with_antidetect_browser/) | u/Acrobatic-Tea2502 | Getting started 🌱 | text | 14 | 14 | live |
+| 51 | 2026-10-18 | [I Am Shutting Down API & Open Sourcing The Code on GIthub](#post-51) | u/adultdatalink | — | text | 141 | 7 | live |
+| 52 | 2026-10-18 | [An insane new update to Scrapling! solve any captcha easy](#post-52) | u/0xReaper | — | v.redd.it | 117 | 26 | live |
+| 53 | 2026-10-13 | [I stitched 28 web scrapers and browsers into one open-source tool](#post-53) | u/Careless_Love_3213 | AI ✨ | text | 100 | 30 | approved |
+| 54 | 2026-10-16 | [New web obfuscation technique: Divergence](#post-54) | u/trustsigRobert | — | trustsig.eu | 98 | 5 | live |
+| 55 | 2026-10-11 | [Open-source Reddit scraper for posts and comments](#post-55) | u/Coding-Doctor-Omar | — | github.com | 76 | 25 | live |
+| 56 | 2026-10-30 | [Self Hosted Scraping API](#post-56) | u/RealSirJoe | — | i.redd.it | 57 | 15 | live |
+| 57 | 2026-10-16 | [Should people never share their scraping tools with others?](#post-57) | u/Coding-Doctor-Omar | — | text | 49 | 35 | live |
+| 58 | 2026-11-02 | [Solve Cloudflare Challenges Automatically with Playwright](#post-58) | u/your_mom_love_me | — | v.redd.it | 48 | 12 | approved |
+| 59 | 2026-10-26 | [Stealthy browser automation and CAPTCHA-bypass from Linux servers](#post-59) | u/SeleniumBase | Bot detection 🤖 | text | 47 | 19 | live |
+| 60 | 2026-10-23 | [How do you guys handle reCAPTCHA v2 when scraping?](#post-60) | u/ChuanlongYou | Bot detection 🤖 | text | 34 | 11 | approved |
+| 61 | 2026-10-21 | [Scrape any website with browser automations running on your computer](#post-61) | u/Lecontodereddit | — | youtube.com | 34 | 9 | approved |
+| 62 | 2026-10-15 | [Need Collaborators to Maintain an Open-source Reddit scraper.](#post-62) | u/Coding-Doctor-Omar | Bot detection 🤖 | github.com | 31 | 18 | live |
+| 63 | 2026-10-31 | [Which anti bot service is the hardest to bypass?](#post-63) | u/Big-Astronaut-9510 | — | text | 30 | 50 | live |
+| 64 | 2026-10-30 | [Open-source guide to identifying and handling 38 CAPTCHA types](#post-64) | u/Mammoth-Aide-5064 | — | v.redd.it | 28 | 2 | live |
+| 65 | 2026-10-19 | [Introducing Clairic, a new System One class of extraction models](#post-65) | u/matty_fu | — | blog.cloudflare.com | 27 | 0 | live |
+| 66 | 2026-10-25 | [A Self Healing Agentic Web Scraper.](#post-66) | u/Extreme_Leg_6162 | AI ✨ | github.com | 26 | 7 | live |
+| 67 | 2026-10-25 | [Building a modern browser automation extension (Automa alternative)](#post-67) | u/NullPointerGambit | — | v.redd.it | 26 | 5 | approved |
+| 68 | 2026-10-26 | [What are the best abliterated models for webscraping](#post-68) | u/Deep-Alternative8085 | — | text | 18 | 12 | live |
+| 69 | 2026-10-16 | [i made a CLI tool that tells you (or your AI) what's blocking you](#post-69) | u/jeheskielsunloy | Bot detection 🤖 | i.redd.it | 15 | 21 | live |
+| 35 | 2026-11-03 | [Anyone doing webscraping with Antidetect browser?](#post-35) | u/Acrobatic-Tea2502 | Getting started 🌱 | text | 14 | 14 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Show: Fuzzy-align CN/EN field names
 
-2026-11-07 · u/Clean-Security6623 · Getting started 🌱 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpvth7/show_fuzzyalign_cnen_field_names/)
+2026-11-07 · u/Clean-Security6623 · Getting started 🌱 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpvth7/show_fuzzyalign_cnen_field_names/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-2"></a>
 
 ### 2. ScrapeBadger API
 
-2026-11-06 · u/raedyohed · Getting started 🌱 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpqbow/scrapebadger_api/)
+2026-11-06 · u/raedyohed · Getting started 🌱 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpqbow/scrapebadger_api/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Best approach or Python library for automating Google
 
-2026-11-06 · u/scartfife · Bot detection 🤖 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpo3xu/best_approach_or_python_library_for_automating/)
+2026-11-06 · u/scartfife · Bot detection 🤖 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpo3xu/best_approach_or_python_library_for_automating/) · [↑ back to the list](#last-50-posts)
 
 > ​Hey everyone,
 >
@@ -157,29 +163,37 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > ​Any suggestions or direction would be greatly appreciated!
 
+<a id="post-4"></a>
+
 ### 4. do anyone here familiar with esuit?
 
-2026-11-06 · u/Alert_Speech_7066 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpkti0/do_anyone_here_familiar_with_esuit/)
+2026-11-06 · u/Alert_Speech_7066 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpkti0/do_anyone_here_familiar_with_esuit/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. HikerAPI
 
-2026-11-06 · u/AloneAntelope5771 · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpjx9h/hikerapi/)
+2026-11-06 · u/AloneAntelope5771 · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpjx9h/hikerapi/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Questions about instagram rarely produce new insight. Please use the search feature to find previous discussions, or repost your query to the [weekly thread](https://reddit.com/r/webscraping/about/sticky?num=2).
 
+<a id="post-6"></a>
+
 ### 6. AI for web scraping
 
-2026-11-06 · u/youugur · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpfxvi/ai_for_web_scraping/)
+2026-11-06 · u/youugur · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xpfxvi/ai_for_web_scraping/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. How do I download login-protected pages/blogs for offline reading?
 
-2026-11-06 · u/Outonotfound · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp9plu/how_do_i_download_loginprotected_pagesblogs_for/)
+2026-11-06 · u/Outonotfound · score 8 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp9plu/how_do_i_download_loginprotected_pagesblogs_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/314ialeo0zzh1.png>
 
@@ -189,57 +203,73 @@ Link: <https://i.redd.it/314ialeo0zzh1.png>
 >
 > Thank you
 
+<a id="post-8"></a>
+
 ### 8. Need help to scraping at country level
 
-2026-11-06 · u/beijibee · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp7i0b/need_help_to_scraping_at_country_level/)
+2026-11-06 · u/beijibee · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp7i0b/need_help_to_scraping_at_country_level/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-9"></a>
 
 ### 9. Resolving full-res images in dynamic galleries with Playwright
 
-2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp2x4b/resolving_fullres_images_in_dynamic_galleries/)
+2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp2x4b/resolving_fullres_images_in_dynamic_galleries/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. (findslut.io)
 
-2026-11-06 · u/findslut · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp0c88/findslutio/)
+2026-11-06 · u/findslut · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp0c88/findslutio/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/1c227qdtawzh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Resolving full-res images in DOM
 
-2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp07j8/resolving_fullres_images_in_dom/)
+2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xp07j8/resolving_fullres_images_in_dom/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ycj8mt45awzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. Resolving full-res images in DOM
 
-2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xozt9u/resolving_fullres_images_in_dom/)
+2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xozt9u/resolving_fullres_images_in_dom/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/88w9ffko5wzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Solving thumbnail vs CDN resolution
 
-2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xozjii/solving_thumbnail_vs_cdn_resolution/)
+2026-11-06 · u/Competitive-Number94 · Scaling up 🚀 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xozjii/solving_thumbnail_vs_cdn_resolution/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-14"></a>
 
 ### 14. \[Showoff / Open Source\] IMAGEX.AI – Context-aware media browser agent
 
-2026-11-06 · u/Competitive-Number94 · AI ✨ · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoyvwr/showoff_open_source_imagexai_contextaware_media/)
+2026-11-06 · u/Competitive-Number94 · AI ✨ · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoyvwr/showoff_open_source_imagexai_contextaware_media/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-15"></a>
+
 ### 15. SwiftScrape
 
-2026-11-05 · u/andreas8455 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoqtfk/swiftscrape/)
+2026-11-05 · u/andreas8455 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoqtfk/swiftscrape/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://swiftscrape-gmwqxhwtpupafk7yurujns.streamlit.app/>
 
@@ -247,9 +277,11 @@ Link: <https://swiftscrape-gmwqxhwtpupafk7yurujns.streamlit.app/>
 
 **Mod comment** (u/webscraping-ModTeam): 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post has been removed. Please take a moment to review the [promotion guide](https://www.reddit.com/r/webscraping/wiki/index/). You may also wish to re-submit your post to the [monthly thread](https://reddit.com/r/webscraping/about/sticky?num=1).
 
+<a id="post-16"></a>
+
 ### 16. Solve timing-based and slider CAPTCHAs for free with Scrapling v0.5.1
 
-2026-11-05 · u/0xReaper · AI ✨ · score 28 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xompg7/solve_timingbased_and_slider_captchas_for_free/)
+2026-11-05 · u/0xReaper · AI ✨ · score 28 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xompg7/solve_timingbased_and_slider_captchas_for_free/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/2597wdrfitzh1>
 
@@ -278,9 +310,11 @@ Link: <https://v.redd.it/2597wdrfitzh1>
 >
 > Let me know what you think.
 
+<a id="post-17"></a>
+
 ### 17. What's the best way to collect Reddit comments from a specific sub?
 
-2026-11-05 · u/xmeandix · Getting started 🌱 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xom2in/whats_the_best_way_to_collect_reddit_comments/)
+2026-11-05 · u/xmeandix · Getting started 🌱 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xom2in/whats_the_best_way_to_collect_reddit_comments/) · [↑ back to the list](#last-50-posts)
 
 > I'm hoping someone here with more experience can point me in the right direction because I've been going in circles trying to figure this out.
 >
@@ -322,46 +356,60 @@ Link: <https://v.redd.it/2597wdrfitzh1>
 >
 > Thanks in advance!
 
+<a id="post-18"></a>
+
 ### 18. Whats the best way to collect Reddit comments from a specific sub?
 
-2026-11-05 · u/xmeandix · Getting started 🌱 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xolzwj/whats_the_best_way_to_collect_reddit_comments/)
+2026-11-05 · u/xmeandix · Getting started 🌱 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xolzwj/whats_the_best_way_to_collect_reddit_comments/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-19"></a>
 
 ### 19. help with google link scraping
 
-2026-11-05 · u/Repulsive_Dinner899 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog9so/help_with_google_link_scraping/)
+2026-11-05 · u/Repulsive_Dinner899 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog9so/help_with_google_link_scraping/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-20"></a>
 
 ### 20. SerpApi Google results don't match browser results
 
-2026-11-05 · u/Repulsive_Dinner899 · Scaling up 🚀 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog8rn/serpapi_google_results_dont_match_browser_results/)
+2026-11-05 · u/Repulsive_Dinner899 · Scaling up 🚀 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog8rn/serpapi_google_results_dont_match_browser_results/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-21"></a>
 
 ### 21. Benchmarking 3 scraping APIs across 4 protected sites
 
-2026-11-05 · u/Content_Secret6493 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog5pa/benchmarking_3_scraping_apis_across_4_protected/)
+2026-11-05 · u/Content_Secret6493 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xog5pa/benchmarking_3_scraping_apis_across_4_protected/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-22"></a>
+
 ### 22. Adding crawl URLs to sub-yaps
 
-2026-11-05 · u/groupicorn · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xofa0d/adding_crawl_urls_to_subyaps/)
+2026-11-05 · u/groupicorn · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xofa0d/adding_crawl_urls_to_subyaps/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 
 
+<a id="post-23"></a>
+
 ### 23. New to scraping! What do you use for SERP data?
 
-2026-11-05 · u/wesleyfreshh · Getting started 🌱 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoed09/new_to_scraping_what_do_you_use_for_serp_data/)
+2026-11-05 · u/wesleyfreshh · Getting started 🌱 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xoed09/new_to_scraping_what_do_you_use_for_serp_data/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. cdp library in rust
 
-2026-11-05 · u/tri__dimensional · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo8q3t/cdp_library_in_rust/)
+2026-11-05 · u/tri__dimensional · score 4 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo8q3t/cdp_library_in_rust/) · [↑ back to the list](#last-50-posts)
 
 > hi! 
 >
@@ -375,9 +423,11 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > any commentary, code reviews, or general feedback are really welcome!
 
+<a id="post-25"></a>
+
 ### 25. Is there any way to get the actual country of a specific tweet
 
-2026-11-05 · u/bad_cutie · Getting started 🌱 · score 2 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo7pgk/is_there_any_way_to_get_the_actual_country_of_a/)
+2026-11-05 · u/bad_cutie · Getting started 🌱 · score 2 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo7pgk/is_there_any_way_to_get_the_actual_country_of_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm currently doing some data analysis on public tweets and I'm struggling to find the location info for **individual tweets**.
 >
@@ -389,29 +439,37 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > I've searched previous threads but couldn't find a clear answer. Any insights would be greatly appreciated!
 
+<a id="post-26"></a>
+
 ### 26. If you host websites, new AI scrapers are bypassing Cloudflare
 
-2026-11-04 · u/cofsci · Bot detection 🤖 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo1di1/if_you_host_websites_new_ai_scrapers_are/)
+2026-11-04 · u/cofsci · Bot detection 🤖 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xo1di1/if_you_host_websites_new_ai_scrapers_are/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-27"></a>
+
 ### 27. Got tired of heavy headless browsers eating up RAM?
 
-2026-11-04 · u/promcoder · Getting started 🌱 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnxm8c/got_tired_of_heavy_headless_browsers_eating_up_ram/)
+2026-11-04 · u/promcoder · Getting started 🌱 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnxm8c/got_tired_of_heavy_headless_browsers_eating_up_ram/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/webscraping-ModTeam): 💰 Welcome to r/webscraping! Referencing paid products or services is not permitted, and your post has been removed. Please take a moment to review the [promotion guide](https://www.reddit.com/r/webscraping/wiki/index/). You may also wish to re-submit your post to the [monthly thread](https://reddit.com/r/webscraping/about/sticky?num=1).
 
+<a id="post-28"></a>
+
 ### 28. Illegal to webscrape this wesbsite?
 
-2026-11-04 · u/ControlRepulsive7273 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnrztm/illegal_to_webscrape_this_wesbsite/)
+2026-11-04 · u/ControlRepulsive7273 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnrztm/illegal_to_webscrape_this_wesbsite/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. Using open source to extract product specs from webpages / PDFs
 
-2026-11-04 · u/designhelp123 · score 4 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnmumi/using_open_source_to_extract_product_specs_from/)
+2026-11-04 · u/designhelp123 · score 4 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnmumi/using_open_source_to_extract_product_specs_from/) · [↑ back to the list](#last-50-posts)
 
 > So at my company we’ve got about 10,000 SKUs. So far by using a mix of 5-6 OpenAI Luna calls for each, I can get 65-75% of the data I need for 0.50c a product…
 >
@@ -421,15 +479,19 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > Curious to hear others thoughts!
 
+<a id="post-30"></a>
+
 ### 30. How to scrape a website data behind the login page?
 
-2026-11-04 · u/ThisManLovesSleeping · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnmi84/how_to_scrape_a_website_data_behind_the_login_page/)
+2026-11-04 · u/ThisManLovesSleeping · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnmi84/how_to_scrape_a_website_data_behind_the_login_page/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. Scraper returned 0 rows and HTTP 200?
 
-2026-11-04 · u/Ok-Motor-9812 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnl369/scraper_returned_0_rows_and_http_200/)
+2026-11-04 · u/Ok-Motor-9812 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnl369/scraper_returned_0_rows_and_http_200/) · [↑ back to the list](#last-50-posts)
 
 > Most silent zeros i've debugged came from one of these. All of them were 200 responses with nothing in the log.
 >
@@ -467,9 +529,11 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > What's your first check when the count drops to 0?
 
+<a id="post-32"></a>
+
 ### 32. Can we Solve reCaptcha using VisionAIRecaptchaSolver?
 
-2026-11-04 · u/Stunning-Space8032 · AI ✨ · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnfppw/can_we_solve_recaptcha_using/)
+2026-11-04 · u/Stunning-Space8032 · AI ✨ · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnfppw/can_we_solve_recaptcha_using/) · [↑ back to the list](#last-50-posts)
 
 > So I am working on a project which involves solving reCaptcha V2. Meanwhile I got to know about a github repository named VisionAIRecaptchaSolver. Apparently this can be integrated to solve captchas.   
 > What this does is take the URL of the page with captcha, solves the captcha and gives back the result token - which needs to be submitted into a hidden text box of that captcha (we can make the hidden textbox visible by editing the html of the page).  
@@ -479,9 +543,11 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > Note: AI could not aid in this as solving captchas automatically is against the rules
 
+<a id="post-33"></a>
+
 ### 33. Help Needed: Automatic Data Collection Using Python
 
-2026-11-04 · u/Salt_Mud3004 · Getting started 🌱 · score 3 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xndf6d/help_needed_automatic_data_collection_using_python/)
+2026-11-04 · u/Salt_Mud3004 · Getting started 🌱 · score 3 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xndf6d/help_needed_automatic_data_collection_using_python/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone!
 >
@@ -513,15 +579,19 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > Thank you!
 
+<a id="post-34"></a>
+
 ### 34. Architecture notes on session caching for Cloudflare Turnstile
 
-2026-11-04 · u/Solid-Bidl · Getting started 🌱 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnd339/architecture_notes_on_session_caching_for/)
+2026-11-04 · u/Solid-Bidl · Getting started 🌱 · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xnd339/architecture_notes_on_session_caching_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-35"></a>
+
 ### 35. Anyone doing webscraping with Antidetect browser?
 
-2026-11-03 · u/Acrobatic-Tea2502 · Getting started 🌱 · score 14 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn96sv/anyone_doing_webscraping_with_antidetect_browser/)
+2026-11-03 · u/Acrobatic-Tea2502 · Getting started 🌱 · score 14 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn96sv/anyone_doing_webscraping_with_antidetect_browser/) · [↑ back to the list](#last-50-posts)
 
 > Hello. I don't have too much experience with webscraping but i'm building a antidetect browser and future use, i would like to add some plugins for webscraping. If anyone has knowledge about this could you share the knowledge please?   
 >
@@ -529,96 +599,124 @@ Link: <https://yapern.com/blog/adding-crawl-urls-to-sub-yaps/>
 >
 > **Thanks in advance 🤝**
 
+<a id="post-36"></a>
+
 ### 36. Where do you guys get eBay sold data for Pokemon cards?
 
-2026-11-03 · u/ianheap66 · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn92qy/where_do_you_guys_get_ebay_sold_data_for_pokemon/)
+2026-11-03 · u/ianheap66 · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn92qy/where_do_you_guys_get_ebay_sold_data_for_pokemon/) · [↑ back to the list](#last-50-posts)
 
 > I've been going around trying to find a good source for Pokemon card sold prices. Mainly need grade (PSA/BGS/CGC/raw), set, and card number, with filters.  
 >
 > Don’t mind paying if it’s good data. Do you guys have any good recs?
 
+<a id="post-37"></a>
+
 ### 37. Medicine data collected from website through crawler
 
-2026-11-03 · u/Mahi61142 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn51at/medicine_data_collected_from_website_through/)
+2026-11-03 · u/Mahi61142 · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn51at/medicine_data_collected_from_website_through/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-38"></a>
+
 ### 38. Comic book info scrapping
 
-2026-11-03 · u/GracedVirus121 · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn3oz4/comic_book_info_scrapping/)
+2026-11-03 · u/GracedVirus121 · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn3oz4/comic_book_info_scrapping/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone,
 >
 >
 > I'm a computer engineer without a scraping experience and I want to use web scraping for something.  I'm working at a comics shop for part time for the last 9 years and at the end of the day most of the time the job that I'm doing is install the pics and descriptions for the products (single issues, trades, mangas etc.) and I want to automate it. Take the cover pics and descriptions from a source. And I want to know since some other people are doing something similar if anybody found a way to do it automatically, like upload a csv to a scraper and it finds and saves the pics and descriptions. If so, what are the sources that you are using? I have found the gcp api but it is only useful for single issues mostly (still will be a time saver) and also found a Unofficial Node.js library for comic geeks. I have tried Playwright and beautifulsoup but did not got the result that I wanted (Prob because I'm new). Are there any other sources or methods that you can recommend? Thanks in advance
 
+<a id="post-39"></a>
+
 ### 39. browser automation pitfalls after 2 years
 
-2026-11-03 · u/versatilesparks · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn0yes/browser_automation_pitfalls_after_2_years/)
+2026-11-03 · u/versatilesparks · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn0yes/browser_automation_pitfalls_after_2_years/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-40"></a>
 
 ### 40. I built an custom pipeline to scrape wellness clinic from booking app
 
-2026-11-03 · u/Aradhay_49 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn063m/i_built_an_custom_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn063m/i_built_an_custom_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-41"></a>
 
 ### 41. I built an Apify pipeline to scrape wellness clinics from booking app
 
-2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn02uu/i_built_an_apify_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xn02uu/i_built_an_apify_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-42"></a>
 
 ### 42. I built an Apify pipeline to scrape wellness clinics from booking app
 
-2026-11-03 · u/Aradhay_49 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzmwm/i_built_an_apify_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzmwm/i_built_an_apify_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-43"></a>
 
 ### 43. I built an Apify pipeline to scrape wellness clinics from booking app
 
-2026-11-03 · u/Aradhay_49 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzkst/i_built_an_apify_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzkst/i_built_an_apify_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-44"></a>
 
 ### 44. I built an Apify pipeline to scrape wellness clinics from booking app
 
-2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzhre/i_built_an_apify_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzhre/i_built_an_apify_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-45"></a>
 
 ### 45. I built an Apify pipeline to scrape wellness clinics from booking app
 
-2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzefl/i_built_an_apify_pipeline_to_scrape_wellness/)
+2026-11-03 · u/Aradhay_49 · Scaling up 🚀 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmzefl/i_built_an_apify_pipeline_to_scrape_wellness/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. Custom high-speed data extraction API
 
-2026-11-03 · u/API_Cloud_Owner · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmqzdf/custom_highspeed_data_extraction_api/)
+2026-11-03 · u/API_Cloud_Owner · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmqzdf/custom_highspeed_data_extraction_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/742gkma5zdzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-47"></a>
+
 ### 47. Custom Enterprise Web Scraping API Available — 24-Hour Free Trial
 
-2026-11-03 · u/API_Cloud_Owner · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmqm6k/custom_enterprise_web_scraping_api_available/)
+2026-11-03 · u/API_Cloud_Owner · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmqm6k/custom_enterprise_web_scraping_api_available/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/td21jfjqvdzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. Anyone encountering cloudflare?
 
-2026-11-03 · u/No_Championship5696 · Bot detection 🤖 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmpojv/anyone_encountering_cloudflare/)
+2026-11-03 · u/No_Championship5696 · Bot detection 🤖 · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmpojv/anyone_encountering_cloudflare/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-49"></a>
+
 ### 49. get ALL posts and comments matching a keyword?
 
-2026-11-03 · u/Feeling-Plane3434 · score 4 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmpaow/get_all_posts_and_comments_matching_a_keyword/)
+2026-11-03 · u/Feeling-Plane3434 · score 4 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmpaow/get_all_posts_and_comments_matching_a_keyword/) · [↑ back to the list](#last-50-posts)
 
 > As far as I know, there are two main ways to search on Reddit.
 >
@@ -646,9 +744,11 @@ Link: <https://i.redd.it/td21jfjqvdzh1.png>
 >
 > Do I really have to download the full dumps (tens of GB of posts and comments) and search them locally?
 
+<a id="post-50"></a>
+
 ### 50. Steam community market price monitoring.
 
-2026-11-03 · u/Illustrious_Put_8259 · Getting started 🌱 · score 3 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmp2mj/steam_community_market_price_monitoring/)
+2026-11-03 · u/Illustrious_Put_8259 · Getting started 🌱 · score 3 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xmp2mj/steam_community_market_price_monitoring/) · [↑ back to the list](#last-50-posts)
 
 > I'm more than certain someone has already implemented scraping the steam community market but I can't for the life of me find where and how.
 >
@@ -656,9 +756,11 @@ Link: <https://i.redd.it/td21jfjqvdzh1.png>
 >
 > I've looked at the packets from steam and they're unfortunately undecipherable for this scope, so as far as I'm aware just parsing the html is the only really solution. Would prefer tools compatible with python as thats the coding language I'm most comfortable with.
 
+<a id="post-51"></a>
+
 ### 51. I Am Shutting Down API & Open Sourcing The Code on GIthub
 
-2026-10-18 · u/adultdatalink · score 141 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x9dglv/i_am_shutting_down_api_open_sourcing_the_code_on/)
+2026-10-18 · u/adultdatalink · score 141 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x9dglv/i_am_shutting_down_api_open_sourcing_the_code_on/) · [↑ back to the list](#last-50-posts)
 
 > Good Afternoon Everyone,
 >
@@ -711,9 +813,11 @@ Link: <https://i.redd.it/td21jfjqvdzh1.png>
 >
 > **Huge** thank you to everyone who signed up, built something on the API, sent feedback, reported bugs. I learned a ton doing this and had a lot of fun with it.
 
+<a id="post-52"></a>
+
 ### 52. An insane new update to Scrapling! solve any captcha easy
 
-2026-10-18 · u/0xReaper · score 117 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x95tpc/an_insane_new_update_to_scrapling_solve_any/)
+2026-10-18 · u/0xReaper · score 117 · 26 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x95tpc/an_insane_new_update_to_scrapling_solve_any/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/c3xhuipws8wh1>
 
@@ -741,9 +845,11 @@ Link: <https://v.redd.it/c3xhuipws8wh1>
 >
 > Full migration guide on moving to v0.5 translated to 10 languges: https://scrapling.readthedocs.io/en/latest/migrating-to-v0.5.html
 
+<a id="post-53"></a>
+
 ### 53. I stitched 28 web scrapers and browsers into one open-source tool
 
-2026-10-13 · u/Careless_Love_3213 · AI ✨ · score 100 · 30 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x4sfpt/i_stitched_28_web_scrapers_and_browsers_into_one/)
+2026-10-13 · u/Careless_Love_3213 · AI ✨ · score 100 · 30 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x4sfpt/i_stitched_28_web_scrapers_and_browsers_into_one/) · [↑ back to the list](#last-50-posts)
 
 > Long story short: I wanted an agent to find me second hand deals, and every scraping tool I tried was great on some sites and useless on others. So I built Frankensurf, an open-source (Apache-2.0) router that stitches tools together: plain HTTP, headless Chromium, Camoufox, Scrapling, Patchright, Crawl4AI, a local SearXNG for search, and optionally your own paid APIs if you have keys. It tries the cheapest tool first and only climbs when a site blocks it or the page isn't real. No account, no paid tier, nothing to sign up for.
 >
@@ -787,17 +893,21 @@ Link: <https://v.redd.it/c3xhuipws8wh1>
 >
 > Repo: [https://github.com/yail259/frankensurf](https://github.com/yail259/frankensurf)
 
+<a id="post-54"></a>
+
 ### 54. New web obfuscation technique: Divergence
 
-2026-10-16 · u/trustsigRobert · score 98 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x7v51l/new_web_obfuscation_technique_divergence/)
+2026-10-16 · u/trustsigRobert · score 98 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x7v51l/new_web_obfuscation_technique_divergence/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://trustsig.eu/blog/javascript-divergence/>
 
 > # Divergence: formatting a script can turn it into a different program, across 37+ JavaScript processors
 
+<a id="post-55"></a>
+
 ### 55. Open-source Reddit scraper for posts and comments
 
-2026-10-11 · u/Coding-Doctor-Omar · score 76 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x369e0/opensource_reddit_scraper_for_posts_and_comments/)
+2026-10-11 · u/Coding-Doctor-Omar · score 76 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x369e0/opensource_reddit_scraper_for_posts_and_comments/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Coding-Doctor-Omar/reddrix>
 
@@ -861,9 +971,11 @@ Link: <https://github.com/Coding-Doctor-Omar/reddrix>
 >
 > \`\`\`
 
+<a id="post-56"></a>
+
 ### 56. Self Hosted Scraping API
 
-2026-10-30 · u/RealSirJoe · score 57 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xj9ozc/self_hosted_scraping_api/)
+2026-10-30 · u/RealSirJoe · score 57 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xj9ozc/self_hosted_scraping_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1xglyyikdkyh1.gif>
 
@@ -884,9 +996,11 @@ Link: <https://i.redd.it/1xglyyikdkyh1.gif>
 >
 > **GitHub:** [https://github.com/realsirjoe/relinos](https://github.com/realsirjoe/relinos)
 
+<a id="post-57"></a>
+
 ### 57. Should people never share their scraping tools with others?
 
-2026-10-16 · u/Coding-Doctor-Omar · score 49 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x79ae6/should_people_never_share_their_scraping_tools/)
+2026-10-16 · u/Coding-Doctor-Omar · score 49 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x79ae6/should_people_never_share_their_scraping_tools/) · [↑ back to the list](#last-50-posts)
 
 > I had a smooth scraper for a website with high-demand data that I built back in September. The scraper was not open source back then. My style of scraping for that website (some may not prefer it, but I really like its simplicity) is to use a browser to load the home page, then make calls to JSON endpoints using JS fetch from within the same browser context. This achieved 2 things: preserved most of the scraping speed and avoided the fingerprint drift that occurs when grabing cookies with a browser and using them with another http client.
 >
@@ -914,9 +1028,11 @@ Link: <https://i.redd.it/1xglyyikdkyh1.gif>
 >
 > I am just ranting...
 
+<a id="post-58"></a>
+
 ### 58. Solve Cloudflare Challenges Automatically with Playwright
 
-2026-11-02 · u/your_mom_love_me · score 48 · 12 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xlwybl/solve_cloudflare_challenges_automatically_with/)
+2026-11-02 · u/your_mom_love_me · score 48 · 12 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xlwybl/solve_cloudflare_challenges_automatically_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/pyc8o1ji87zh1>
 
@@ -932,9 +1048,11 @@ Link: <https://v.redd.it/pyc8o1ji87zh1>
 >
 > Would love to hear your feedback!
 
+<a id="post-59"></a>
+
 ### 59. Stealthy browser automation and CAPTCHA-bypass from Linux servers
 
-2026-10-26 · u/SeleniumBase · Bot detection 🤖 · score 47 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xfzdia/stealthy_browser_automation_and_captchabypass/)
+2026-10-26 · u/SeleniumBase · Bot detection 🤖 · score 47 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xfzdia/stealthy_browser_automation_and_captchabypass/) · [↑ back to the list](#last-50-posts)
 
 > Running web scrapers or browser automation from Linux servers (e.g., GitHub Actions runners) usually hits a brick wall fast: Cloud IP ranges are heavily flagged by anti-bot services, and standard headless Chrome environments get detected almost instantly.
 >
@@ -953,9 +1071,11 @@ Link: <https://v.redd.it/pyc8o1ji87zh1>
 >
 > Happy to answer any questions about CDP mechanics, stealth signatures, or setting up Xvfb for headless script execution on Linux CI runners!
 
+<a id="post-60"></a>
+
 ### 60. How do you guys handle reCAPTCHA v2 when scraping?
 
-2026-10-23 · u/ChuanlongYou · Bot detection 🤖 · score 34 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xd92wj/how_do_you_guys_handle_recaptcha_v2_when_scraping/)
+2026-10-23 · u/ChuanlongYou · Bot detection 🤖 · score 34 · 11 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xd92wj/how_do_you_guys_handle_recaptcha_v2_when_scraping/) · [↑ back to the list](#last-50-posts)
 
 > Pretty new to scraping and I’ve hit a wall with reCAPTCHA v2 on a site I’m trying to scrape.
 >
@@ -965,9 +1085,11 @@ Link: <https://v.redd.it/pyc8o1ji87zh1>
 >
 > Any tips or stories about what worked—or what turned out to be a waste of time—would be appreciated. Thanks!
 
+<a id="post-61"></a>
+
 ### 61. Scrape any website with browser automations running on your computer
 
-2026-10-21 · u/Lecontodereddit · score 34 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xbqfja/scrape_any_website_with_browser_automations/)
+2026-10-21 · u/Lecontodereddit · score 34 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xbqfja/scrape_any_website_with_browser_automations/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=V0d2b8rV1hU>
 
@@ -979,9 +1101,11 @@ Link: <https://www.youtube.com/watch?v=V0d2b8rV1hU>
 >
 > It's open source and 100% free, and requires no registration, login or even an email from you, just download the files and get started. All you need is a Claude or ChatGPT subscription. Here's the website if you're interested: [https://cryogram.app](https://cryogram.app)
 
+<a id="post-62"></a>
+
 ### 62. Need Collaborators to Maintain an Open-source Reddit scraper.
 
-2026-10-15 · u/Coding-Doctor-Omar · Bot detection 🤖 · score 31 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x6c5ur/need_collaborators_to_maintain_an_opensource/)
+2026-10-15 · u/Coding-Doctor-Omar · Bot detection 🤖 · score 31 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x6c5ur/need_collaborators_to_maintain_an_opensource/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/Coding-Doctor-Omar/reddrix>
 
@@ -989,15 +1113,19 @@ Link: <https://github.com/Coding-Doctor-Omar/reddrix>
 >
 > EDIT: I already fixed the scraper a few hours ago, but my request still stands: any collaborator will be appreciated. I am expecting further anti-scraping measures from Reddit, so there is a chance they will try to make the new fix fail also.
 
+<a id="post-63"></a>
+
 ### 63. Which anti bot service is the hardest to bypass?
 
-2026-10-31 · u/Big-Astronaut-9510 · score 30 · 50 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xknvzr/which_anti_bot_service_is_the_hardest_to_bypass/)
+2026-10-31 · u/Big-Astronaut-9510 · score 30 · 50 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xknvzr/which_anti_bot_service_is_the_hardest_to_bypass/) · [↑ back to the list](#last-50-posts)
 
 > Im looking to purchase one but i dont want to spend money on something trivial to bypass.
 
+<a id="post-64"></a>
+
 ### 64. Open-source guide to identifying and handling 38 CAPTCHA types
 
-2026-10-30 · u/Mammoth-Aide-5064 · score 28 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xj9bs5/opensource_guide_to_identifying_and_handling_38/)
+2026-10-30 · u/Mammoth-Aide-5064 · score 28 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xj9bs5/opensource_guide_to_identifying_and_handling_38/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/jopg5ayl9kyh1>
 
@@ -1014,16 +1142,20 @@ Link: <https://v.redd.it/jopg5ayl9kyh1>
 >
 > Which CAPTCHA types am I missing, and which tools/methods are already outdated? PRs and issues welcome.
 
+<a id="post-65"></a>
+
 ### 65. Introducing Clairic, a new System One class of extraction models
 
-2026-10-19 · u/matty_fu · score 27 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xaargi/introducing_clairic_a_new_system_one_class_of/)
+2026-10-19 · u/matty_fu · score 27 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xaargi/introducing_clairic_a_new_system_one_class_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://blog.cloudflare.com/clairic-extraction-model/>
 
 
+<a id="post-66"></a>
+
 ### 66. A Self Healing Agentic Web Scraper.
 
-2026-10-25 · u/Extreme_Leg_6162 · AI ✨ · score 26 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xf9qvb/a_self_healing_agentic_web_scraper/)
+2026-10-25 · u/Extreme_Leg_6162 · AI ✨ · score 26 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xf9qvb/a_self_healing_agentic_web_scraper/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/him300/Scrape_01>
 
@@ -1035,9 +1167,11 @@ Link: <https://github.com/him300/Scrape_01>
 >
 > Honest limits: JSON configs only, linear crawling only, and monster mode needs a local browser.
 
+<a id="post-67"></a>
+
 ### 67. Building a modern browser automation extension (Automa alternative)
 
-2026-10-25 · u/NullPointerGambit · score 26 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xf0p71/building_a_modern_browser_automation_extension/)
+2026-10-25 · u/NullPointerGambit · score 26 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xf0p71/building_a_modern_browser_automation_extension/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/y40f7qihtlxh1>
 
@@ -1072,9 +1206,11 @@ Link: <https://v.redd.it/y40f7qihtlxh1>
 >
 > 🔗 **GitHub / Source Code:** [*https://github.com/PawelGawlikDev/browsless*](https://github.com/PawelGawlikDev/browsless)
 
+<a id="post-68"></a>
+
 ### 68. What are the best abliterated models for webscraping
 
-2026-10-26 · u/Deep-Alternative8085 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xg5uj3/what_are_the_best_abliterated_models_for/)
+2026-10-26 · u/Deep-Alternative8085 · score 18 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1xg5uj3/what_are_the_best_abliterated_models_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi everybody
 >
@@ -1084,9 +1220,11 @@ Link: <https://v.redd.it/y40f7qihtlxh1>
 >
 > Sorry for AI use, my main speaking language is spanish.
 
+<a id="post-69"></a>
+
 ### 69. i made a CLI tool that tells you (or your AI) what's blocking you
 
-2026-10-16 · u/jeheskielsunloy · Bot detection 🤖 · score 15 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x7hpcl/i_made_a_cli_tool_that_tells_you_or_your_ai_whats/)
+2026-10-16 · u/jeheskielsunloy · Bot detection 🤖 · score 15 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/webscraping/comments/1x7hpcl/i_made_a_cli_tool_that_tells_you_or_your_ai_whats/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/hd3wmtc7auvh1.png>
 

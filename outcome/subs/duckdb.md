@@ -32,56 +32,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [DuckDB - Extension in VS Code for doing MSSQL T-SQL queries against a Duckdb](https://www.reddit.com/r/DuckDB/comments/1xpsbqk/duckdb_extension_in_vs_code_for_doing_mssql_tsql/) | u/DataFracking | — | text | 10 | 7 | live | — |
-| 2 | 2026-11-03 | [Using duckdb with baked-in knowledge base for agentic systems](https://www.reddit.com/r/DuckDB/comments/1xn5pq3/using_duckdb_with_bakedin_knowledge_base_for/) | u/Guilty-Hope-6304 | — | i.redd.it | 14 | 2 | live | — |
-| 3 | 2026-11-03 | [Shareable DuckDb in the browser (yes, another one)](https://www.reddit.com/r/DuckDB/comments/1xmwn2t/shareable_duckdb_in_the_browser_yes_another_one/) | u/trilson | — | tinylake.io | 2 | 2 | live | — |
-| 4 | 2026-11-02 | [Querying HackerTube, HackerBooks and Wikihack directly with DuckDB through Hugging Face](https://www.reddit.com/r/DuckDB/comments/1xm7h5h/querying_hackertube_hackerbooks_and_wikihack/) | u/sspaeti | — | ssp.sh | 3 | 0 | live | — |
-| 5 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](https://www.reddit.com/r/DuckDB/comments/1xlnwdv/duckstring_pullorchestrated_data_pipelines_on/) | u/isaac-harvey | — | v.redd.it | 13 | 4 | live | — |
-| 6 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](https://www.reddit.com/r/DuckDB/comments/1xkztvv/snowflake_to_iceberg_lakehouse_migration_guide/) | u/codingdecently | — | lakeops.dev | 9 | 0 | live | — |
-| 7 | 2026-10-31 | [Are you using Claude Code or Codex for data engineering? Would you let it near prod?](https://www.reddit.com/r/DuckDB/comments/1xke3i6/are_you_using_claude_code_or_codex_for_data/) | u/Wide_Importance_8559 | — | text | 0 | 2 | live | — |
-| 8 | 2026-10-31 | [Ducklake catalog migration from DuckDb to PostgreSQL](https://www.reddit.com/r/DuckDB/comments/1xkbkot/ducklake_catalog_migration_from_duckdb_to/) | u/fridaymeetssunday | — | text | 12 | 8 | live | — |
-| 9 | 2026-10-31 | [Free text search via Parquet and DuckDB](https://www.reddit.com/r/DuckDB/comments/1xk8yy1/free_text_search_via_parquet_and_duckdb/) | u/zerospatial | — | i.redd.it | 13 | 3 | live | — |
-| 10 | 2026-10-30 | [I built an in-browser SQL workbench on DuckDB-WASM. The engine was fast; showing the results was the slow part](https://www.reddit.com/r/DuckDB/comments/1xji0oy/i_built_an_inbrowser_sql_workbench_on_duckdbwasm/) | u/Common_Tomorrow1391 | — | text | 13 | 4 | live | — |
-| 11 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](https://www.reddit.com/r/DuckDB/comments/1xjas9h/launching_duckdb_toolkit_for_jetbrains_with/) | u/bodiam | — | reddit.com | 20 | 3 | live | — |
-| 12 | 2026-10-30 | [UI won't launch](https://www.reddit.com/r/DuckDB/comments/1xj9qpd/ui_wont_launch/) | u/CONNARDO | — | text | 1 | 0 | live | — |
-| 13 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](https://www.reddit.com/r/DuckDB/comments/1xigbsf/update_earlier_this_month_i_shared_the_prototype/) | u/JohnPerformante | — | i.redd.it | 16 | 6 | live | — |
-| 14 | 2026-10-28 | [I built an open-source ETL tool that uses AI to build DuckDB data pipelines](https://www.reddit.com/r/DuckDB/comments/1xhrqnf/i_built_an_opensource_etl_tool_that_uses_ai_to/) | u/steroidmonkey66 | — | v.redd.it | 9 | 3 | live | — |
-| 15 | 2026-10-28 | [A open source ETL tool using DUCKDB as the engine](https://www.reddit.com/r/DuckDB/comments/1xhqmxq/a_open_source_etl_tool_using_duckdb_as_the_engine/) | u/steroidmonkey66 | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 16 | 2026-10-27 | [What did the server say? Quack!](https://www.reddit.com/r/DuckDB/comments/1xh3zh3/what_did_the_server_say_quack/) | u/EdwinWeber_Data | — | text | 9 | 8 | live | — |
-| 17 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](https://www.reddit.com/r/DuckDB/comments/1xh3m6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) | u/isaac-harvey | — | duckstring.com | 41 | 8 | live | — |
-| 18 | 2026-10-24 | [Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)](https://www.reddit.com/r/DuckDB/comments/1xe9hmo/built_an_opensource_data_warehouse_on_duckdb_that/) | u/No_Test5184 | — | text | 1 | 0 | spam-filtered | — |
-| 19 | 2026-10-24 | [Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)](https://www.reddit.com/r/DuckDB/comments/1xe7tcu/built_an_opensource_data_warehouse_on_duckdb_that/) | u/No_Test5184 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 20 | 2026-10-23 | [81M Overture places from partitioned Parquet, queried in a JS grid in the browser](https://www.reddit.com/r/DuckDB/comments/1xdhuqt/81m_overture_places_from_partitioned_parquet/) | u/tonygoodchild | — | text | 17 | 7 | live | — |
-| 21 | 2026-10-22 | [DuckDB 2.0 is now on Layerbase](https://www.reddit.com/r/DuckDB/comments/1xca6h9/duckdb_20_is_now_on_layerbase/) | u/layerbase | — | layerbase.com | 10 | 0 | live | — |
-| 22 | 2026-10-22 | [Nice oss liberal license ui for duckdb/sqlite](https://www.reddit.com/r/DuckDB/comments/1xc7n88/nice_oss_liberal_license_ui_for_duckdbsqlite/) | u/IndividualSituation8 | — | text | 7 | 4 | live | — |
-| 23 | 2026-10-22 | [Just here to say I love DuckDB.](https://www.reddit.com/r/DuckDB/comments/1xc3mu5/just_here_to_say_i_love_duckdb/) | u/carlirri | — | text | 54 | 6 | live | — |
-| 24 | 2026-10-21 | [Anyone using DuckDB to combine local data with external datasets on demand?](https://www.reddit.com/r/DuckDB/comments/1xbwnxz/anyone_using_duckdb_to_combine_local_data_with/) | u/Kevin_Jens_Cox | — | text | 10 | 10 | live | — |
-| 25 | 2026-10-21 | [DuckLake Integration in Rosetta DBT Studio — Full Data Lake Management UI (Prototype)](https://www.reddit.com/r/DuckDB/comments/1xbq535/ducklake_integration_in_rosetta_dbt_studio_full/) | u/Wide_Importance_8559 | — | youtu.be | 1 | 0 | live | — |
-| 26 | 2026-10-21 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://www.reddit.com/r/DuckDB/comments/1xbo5om/announcing_duckdb_200_lts_cinnamon_teal/) | u/kinghuang | — | duckdb.org | 127 | 13 | live | — |
-| 27 | 2026-10-20 | [Looking forward to something? Yep!](https://www.reddit.com/r/DuckDB/comments/1xb10n8/looking_forward_to_something_yep/) | u/EdwinWeber_Data | — | text | 32 | 7 | live | — |
-| 28 | 2026-10-20 | [I built Obelisk: A lightweight, self-hosted alternative to Microsoft Fabric for sub-TB workloads (DuckDB, Par…](https://www.reddit.com/r/DuckDB/comments/1xap8y2/i_built_obelisk_a_lightweight_selfhosted/) | u/JohnPerformante | — | reddit.com | 66 | 9 | live | — |
-| 29 | 2026-10-19 | [Razobill: a community extension that splits log lines into columns and joins them back exactly](https://www.reddit.com/r/DuckDB/comments/1xa1x1a/razobill_a_community_extension_that_splits_log/) | u/MMA-111 | — | v.redd.it | 1 | 0 | spam-filtered | — |
-| 30 | 2026-10-19 | [Real-Time Lakehouse Guide: Apache Iceberg in Production](https://www.reddit.com/r/DuckDB/comments/1x9wceo/realtime_lakehouse_guide_apache_iceberg_in/) | u/codingdecently | — | lakeops.dev | 1 | 0 | live | — |
-| 31 | 2026-10-19 | [Git-style diffing for DuckLake tables](https://www.reddit.com/r/DuckDB/comments/1x9rzal/gitstyle_diffing_for_ducklake_tables/) | u/Aeronautical-You4917 | — | text | 18 | 3 | live | — |
-| 32 | 2026-10-18 | [SQLserver linked-server to duckdb](https://www.reddit.com/r/DuckDB/comments/1x9fpaa/sqlserver_linkedserver_to_duckdb/) | u/qualityintelligence | — | text | 6 | 0 | live | — |
-| 33 | 2026-10-16 | [DuckDB 2.0 and S3 File Read Performance](https://www.reddit.com/r/DuckDB/comments/1x7kne7/duckdb_20_and_s3_file_read_performance/) | u/empty_cities | — | substack.com | 59 | 11 | live | — |
-| 34 | 2026-10-13 | [Letting an AI agent query DuckDB safely: MCP tool permissions and SQL inspection](https://www.reddit.com/r/DuckDB/comments/1x4t2sz/letting_an_ai_agent_query_duckdb_safely_mcp_tool/) | u/camerongreen95 | — | text | 11 | 6 | live | — |
-| 35 | 2026-10-13 | [Serving a Europe-wide air quality forecast from one Parquet file per day: DuckDB reads ~0.2 MB of 54 over HTTP](https://www.reddit.com/r/DuckDB/comments/1x4ps8l/serving_a_europewide_air_quality_forecast_from/) | u/LegalScratch3678 | — | text | 2 | 0 | spam-filtered | — |
-| 36 | 2026-10-12 | [curral: an open-source SQL gateway for DuckDB with auth, Rego policies, row-level security and Iceberg support](https://www.reddit.com/r/DuckDB/comments/1x43cr6/curral_an_opensource_sql_gateway_for_duckdb_with/) | u/Other-Government-796 | — | text | 32 | 10 | live | — |
-| 37 | 2026-10-12 | [I ported my SQLite statistics extension to DuckDB — is this useful? Honest feedback welcome](https://www.reddit.com/r/DuckDB/comments/1x3x5ef/i_ported_my_sqlite_statistics_extension_to_duckdb/) | u/t46urssF | — | text | 14 | 4 | live | — |
-| 38 | 2026-10-10 | [Rank-Hilbert: Extending space-filling curves to handle skew](https://www.reddit.com/r/DuckDB/comments/1x2pcsq/rankhilbert_extending_spacefilling_curves_to/) | u/isaac-harvey | — | i.redd.it | 7 | 6 | live | — |
-| 39 | 2026-10-09 | [DuckLake in Production: Maintenance Strategy](https://www.reddit.com/r/DuckDB/comments/1x1l7rr/ducklake_in_production_maintenance_strategy/) | u/empty_cities | — | thefulldatastack.substack.com | 21 | 0 | live | — |
-| 40 | 2026-10-09 | [I'm now convinced single-node DuckDB is the best engine at any realistic scale.](https://www.reddit.com/r/DuckDB/comments/1x1h4f4/im_now_convinced_singlenode_duckdb_is_the_best/) | u/isaac-harvey | — | text | 109 | 17 | live | — |
-| 41 | 2026-10-08 | [I built a statistical inference layer for DuckDB — 64 SQL macros (CIs, effect sizes, power, Tukey, Fisher exa…](https://www.reddit.com/r/DuckDB/comments/1x0lcfs/i_built_a_statistical_inference_layer_for_duckdb/) | u/Shoddy_Telephone9702 | — | text | 1 | 0 | spam-filtered | — |
-| 42 | 2026-10-06 | [Build Analytics Dashboards with AI in Rosetta Studio](https://www.reddit.com/r/DuckDB/comments/1wz1ujx/build_analytics_dashboards_with_ai_in_rosetta/) | u/Wide_Importance_8559 | — | youtu.be | 0 | 0 | deleted by author | — |
-| 43 | 2026-10-06 | [Built an inverted index using DuckLake table](https://www.reddit.com/r/DuckDB/comments/1wyunu1/built_an_inverted_index_using_ducklake_table/) | u/vira28 | — | text | 23 | 2 | live | — |
-| 44 | 2026-10-05 | [I'm now convinced single-node DuckDB is the best engine at any realistic scale.](https://www.reddit.com/r/DuckDB/comments/1wy5fll/im_now_convinced_singlenode_duckdb_is_the_best/) | u/isaac-harvey | — | text | 1 | 0 | spam-filtered | — |
-| 45 | 2026-10-05 | [Data Lakehouse with Agentic AIs: A Guide](https://www.reddit.com/r/DuckDB/comments/1wy47e8/data_lakehouse_with_agentic_ais_a_guide/) | u/codingdecently | — | medium.com | 16 | 1 | live | — |
-| 46 | 2026-10-04 | [I built a DuckDB extension for plain-English conditions in SQL, backed by a small local model](https://www.reddit.com/r/DuckDB/comments/1wxm9h5/i_built_a_duckdb_extension_for_plainenglish/) | u/fabregas_cesc | — | text | 13 | 0 | live | — |
-| 47 | 2026-10-04 | [daffy](https://www.reddit.com/r/DuckDB/comments/1wxjmj6/daffy/) | u/qualityintelligence | — | text | 0 | 0 | deleted by author | — |
-| 48 | 2026-10-04 | [Quick DuckDB-WASM scratchpad for querying Parquet/CSV files in the browser](https://www.reddit.com/r/DuckDB/comments/1wxdfdn/quick_duckdbwasm_scratchpad_for_querying/) | u/NBMVegeta | — | text | 11 | 12 | live | — |
-| 49 | 2026-10-02 | [MySQL Analytical Replica (Parquet + DuckDB) with DBTrail](https://www.reddit.com/r/DuckDB/comments/1wvyr3f/mysql_analytical_replica_parquet_duckdb_with/) | u/PumpkinNo541 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 50 | 2026-10-02 | [We built a free, open-source desktop app for dbt Core, with SQL, notebooks, dashboards, DuckLake/Iceberg and…](https://www.reddit.com/r/DuckDB/comments/1wvlw0t/we_built_a_free_opensource_desktop_app_for_dbt/) | u/Wide_Importance_8559 | — | text | 23 | 14 | live | — |
+| 1 | 2026-11-07 | [DuckDB - Extension in VS Code for doing MSSQL T-SQL queries against a Duckdb](#post-1) | u/DataFracking | — | text | 10 | 7 | live | — |
+| 2 | 2026-11-03 | [Using duckdb with baked-in knowledge base for agentic systems](#post-2) | u/Guilty-Hope-6304 | — | i.redd.it | 14 | 2 | live | — |
+| 3 | 2026-11-03 | [Shareable DuckDb in the browser (yes, another one)](#post-3) | u/trilson | — | tinylake.io | 2 | 2 | live | — |
+| 4 | 2026-11-02 | [Querying HackerTube, HackerBooks and Wikihack directly with DuckDB through Hugging Face](#post-4) | u/sspaeti | — | ssp.sh | 3 | 0 | live | — |
+| 5 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](#post-5) | u/isaac-harvey | — | v.redd.it | 13 | 4 | live | — |
+| 6 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](#post-6) | u/codingdecently | — | lakeops.dev | 9 | 0 | live | — |
+| 7 | 2026-10-31 | [Are you using Claude Code or Codex for data engineering? Would you let it near prod?](#post-7) | u/Wide_Importance_8559 | — | text | 0 | 2 | live | — |
+| 8 | 2026-10-31 | [Ducklake catalog migration from DuckDb to PostgreSQL](#post-8) | u/fridaymeetssunday | — | text | 12 | 8 | live | — |
+| 9 | 2026-10-31 | [Free text search via Parquet and DuckDB](#post-9) | u/zerospatial | — | i.redd.it | 13 | 3 | live | — |
+| 10 | 2026-10-30 | [I built an in-browser SQL workbench on DuckDB-WASM. The engine was fast; showing the results was the slow part](#post-10) | u/Common_Tomorrow1391 | — | text | 13 | 4 | live | — |
+| 11 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](#post-11) | u/bodiam | — | reddit.com | 20 | 3 | live | — |
+| 12 | 2026-10-30 | [UI won't launch](#post-12) | u/CONNARDO | — | text | 1 | 0 | live | — |
+| 13 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](#post-13) | u/JohnPerformante | — | i.redd.it | 16 | 6 | live | — |
+| 14 | 2026-10-28 | [I built an open-source ETL tool that uses AI to build DuckDB data pipelines](#post-14) | u/steroidmonkey66 | — | v.redd.it | 9 | 3 | live | — |
+| 15 | 2026-10-28 | [A open source ETL tool using DUCKDB as the engine](#post-15) | u/steroidmonkey66 | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 16 | 2026-10-27 | [What did the server say? Quack!](#post-16) | u/EdwinWeber_Data | — | text | 9 | 8 | live | — |
+| 17 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](#post-17) | u/isaac-harvey | — | duckstring.com | 41 | 8 | live | — |
+| 18 | 2026-10-24 | [Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)](#post-18) | u/No_Test5184 | — | text | 1 | 0 | spam-filtered | — |
+| 19 | 2026-10-24 | [Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)](#post-19) | u/No_Test5184 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 20 | 2026-10-23 | [81M Overture places from partitioned Parquet, queried in a JS grid in the browser](#post-20) | u/tonygoodchild | — | text | 17 | 7 | live | — |
+| 21 | 2026-10-22 | [DuckDB 2.0 is now on Layerbase](#post-21) | u/layerbase | — | layerbase.com | 10 | 0 | live | — |
+| 22 | 2026-10-22 | [Nice oss liberal license ui for duckdb/sqlite](#post-22) | u/IndividualSituation8 | — | text | 7 | 4 | live | — |
+| 23 | 2026-10-22 | [Just here to say I love DuckDB.](#post-23) | u/carlirri | — | text | 54 | 6 | live | — |
+| 24 | 2026-10-21 | [Anyone using DuckDB to combine local data with external datasets on demand?](#post-24) | u/Kevin_Jens_Cox | — | text | 10 | 10 | live | — |
+| 25 | 2026-10-21 | [DuckLake Integration in Rosetta DBT Studio — Full Data Lake Management UI (Prototype)](#post-25) | u/Wide_Importance_8559 | — | youtu.be | 1 | 0 | live | — |
+| 26 | 2026-10-21 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](#post-26) | u/kinghuang | — | duckdb.org | 127 | 13 | live | — |
+| 27 | 2026-10-20 | [Looking forward to something? Yep!](#post-27) | u/EdwinWeber_Data | — | text | 32 | 7 | live | — |
+| 28 | 2026-10-20 | [I built Obelisk: A lightweight, self-hosted alternative to Microsoft Fabric for sub-TB workloads (DuckDB, Par…](#post-28) | u/JohnPerformante | — | reddit.com | 66 | 9 | live | — |
+| 29 | 2026-10-19 | [Razobill: a community extension that splits log lines into columns and joins them back exactly](#post-29) | u/MMA-111 | — | v.redd.it | 1 | 0 | spam-filtered | — |
+| 30 | 2026-10-19 | [Real-Time Lakehouse Guide: Apache Iceberg in Production](#post-30) | u/codingdecently | — | lakeops.dev | 1 | 0 | live | — |
+| 31 | 2026-10-19 | [Git-style diffing for DuckLake tables](#post-31) | u/Aeronautical-You4917 | — | text | 18 | 3 | live | — |
+| 32 | 2026-10-18 | [SQLserver linked-server to duckdb](#post-32) | u/qualityintelligence | — | text | 6 | 0 | live | — |
+| 33 | 2026-10-16 | [DuckDB 2.0 and S3 File Read Performance](#post-33) | u/empty_cities | — | substack.com | 59 | 11 | live | — |
+| 34 | 2026-10-13 | [Letting an AI agent query DuckDB safely: MCP tool permissions and SQL inspection](#post-34) | u/camerongreen95 | — | text | 11 | 6 | live | — |
+| 35 | 2026-10-13 | [Serving a Europe-wide air quality forecast from one Parquet file per day: DuckDB reads ~0.2 MB of 54 over HTTP](#post-35) | u/LegalScratch3678 | — | text | 2 | 0 | spam-filtered | — |
+| 36 | 2026-10-12 | [curral: an open-source SQL gateway for DuckDB with auth, Rego policies, row-level security and Iceberg support](#post-36) | u/Other-Government-796 | — | text | 32 | 10 | live | — |
+| 37 | 2026-10-12 | [I ported my SQLite statistics extension to DuckDB — is this useful? Honest feedback welcome](#post-37) | u/t46urssF | — | text | 14 | 4 | live | — |
+| 38 | 2026-10-10 | [Rank-Hilbert: Extending space-filling curves to handle skew](#post-38) | u/isaac-harvey | — | i.redd.it | 7 | 6 | live | — |
+| 39 | 2026-10-09 | [DuckLake in Production: Maintenance Strategy](#post-39) | u/empty_cities | — | thefulldatastack.substack.com | 21 | 0 | live | — |
+| 40 | 2026-10-09 | [I'm now convinced single-node DuckDB is the best engine at any realistic scale.](#post-40) | u/isaac-harvey | — | text | 109 | 17 | live | — |
+| 41 | 2026-10-08 | [I built a statistical inference layer for DuckDB — 64 SQL macros (CIs, effect sizes, power, Tukey, Fisher exa…](#post-41) | u/Shoddy_Telephone9702 | — | text | 1 | 0 | spam-filtered | — |
+| 42 | 2026-10-06 | [Build Analytics Dashboards with AI in Rosetta Studio](#post-42) | u/Wide_Importance_8559 | — | youtu.be | 0 | 0 | deleted by author | — |
+| 43 | 2026-10-06 | [Built an inverted index using DuckLake table](#post-43) | u/vira28 | — | text | 23 | 2 | live | — |
+| 44 | 2026-10-05 | [I'm now convinced single-node DuckDB is the best engine at any realistic scale.](#post-44) | u/isaac-harvey | — | text | 1 | 0 | spam-filtered | — |
+| 45 | 2026-10-05 | [Data Lakehouse with Agentic AIs: A Guide](#post-45) | u/codingdecently | — | medium.com | 16 | 1 | live | — |
+| 46 | 2026-10-04 | [I built a DuckDB extension for plain-English conditions in SQL, backed by a small local model](#post-46) | u/fabregas_cesc | — | text | 13 | 0 | live | — |
+| 47 | 2026-10-04 | [daffy](#post-47) | u/qualityintelligence | — | text | 0 | 0 | deleted by author | — |
+| 48 | 2026-10-04 | [Quick DuckDB-WASM scratchpad for querying Parquet/CSV files in the browser](#post-48) | u/NBMVegeta | — | text | 11 | 12 | live | — |
+| 49 | 2026-10-02 | [MySQL Analytical Replica (Parquet + DuckDB) with DBTrail](#post-49) | u/PumpkinNo541 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 50 | 2026-10-02 | [We built a free, open-source desktop app for dbt Core, with SQL, notebooks, dashboards, DuckLake/Iceberg and…](#post-50) | u/Wide_Importance_8559 | — | text | 23 | 14 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -89,34 +89,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 2026-10-21 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://www.reddit.com/r/DuckDB/comments/1xbo5om/announcing_duckdb_200_lts_cinnamon_teal/) | u/kinghuang | — | duckdb.org | 127 | 13 | live |
-| 28 | 2026-10-20 | [I built Obelisk: A lightweight, self-hosted alternative to Microsoft Fabric for sub-TB workloads (DuckDB, Par…](https://www.reddit.com/r/DuckDB/comments/1xap8y2/i_built_obelisk_a_lightweight_selfhosted/) | u/JohnPerformante | — | reddit.com | 66 | 9 | live |
-| 33 | 2026-10-16 | [DuckDB 2.0 and S3 File Read Performance](https://www.reddit.com/r/DuckDB/comments/1x7kne7/duckdb_20_and_s3_file_read_performance/) | u/empty_cities | — | substack.com | 59 | 11 | live |
-| 23 | 2026-10-22 | [Just here to say I love DuckDB.](https://www.reddit.com/r/DuckDB/comments/1xc3mu5/just_here_to_say_i_love_duckdb/) | u/carlirri | — | text | 54 | 6 | live |
-| 17 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](https://www.reddit.com/r/DuckDB/comments/1xh3m6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) | u/isaac-harvey | — | duckstring.com | 41 | 8 | live |
-| 36 | 2026-10-12 | [curral: an open-source SQL gateway for DuckDB with auth, Rego policies, row-level security and Iceberg support](https://www.reddit.com/r/DuckDB/comments/1x43cr6/curral_an_opensource_sql_gateway_for_duckdb_with/) | u/Other-Government-796 | — | text | 32 | 10 | live |
-| 27 | 2026-10-20 | [Looking forward to something? Yep!](https://www.reddit.com/r/DuckDB/comments/1xb10n8/looking_forward_to_something_yep/) | u/EdwinWeber_Data | — | text | 32 | 7 | live |
-| 11 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](https://www.reddit.com/r/DuckDB/comments/1xjas9h/launching_duckdb_toolkit_for_jetbrains_with/) | u/bodiam | — | reddit.com | 20 | 3 | live |
-| 31 | 2026-10-19 | [Git-style diffing for DuckLake tables](https://www.reddit.com/r/DuckDB/comments/1x9rzal/gitstyle_diffing_for_ducklake_tables/) | u/Aeronautical-You4917 | — | text | 18 | 3 | live |
-| 20 | 2026-10-23 | [81M Overture places from partitioned Parquet, queried in a JS grid in the browser](https://www.reddit.com/r/DuckDB/comments/1xdhuqt/81m_overture_places_from_partitioned_parquet/) | u/tonygoodchild | — | text | 17 | 7 | live |
-| 13 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](https://www.reddit.com/r/DuckDB/comments/1xigbsf/update_earlier_this_month_i_shared_the_prototype/) | u/JohnPerformante | — | i.redd.it | 16 | 6 | live |
-| 37 | 2026-10-12 | [I ported my SQLite statistics extension to DuckDB — is this useful? Honest feedback welcome](https://www.reddit.com/r/DuckDB/comments/1x3x5ef/i_ported_my_sqlite_statistics_extension_to_duckdb/) | u/t46urssF | — | text | 14 | 4 | live |
-| 2 | 2026-11-03 | [Using duckdb with baked-in knowledge base for agentic systems](https://www.reddit.com/r/DuckDB/comments/1xn5pq3/using_duckdb_with_bakedin_knowledge_base_for/) | u/Guilty-Hope-6304 | — | i.redd.it | 14 | 2 | live |
-| 5 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](https://www.reddit.com/r/DuckDB/comments/1xlnwdv/duckstring_pullorchestrated_data_pipelines_on/) | u/isaac-harvey | — | v.redd.it | 13 | 4 | live |
-| 10 | 2026-10-30 | [I built an in-browser SQL workbench on DuckDB-WASM. The engine was fast; showing the results was the slow part](https://www.reddit.com/r/DuckDB/comments/1xji0oy/i_built_an_inbrowser_sql_workbench_on_duckdbwasm/) | u/Common_Tomorrow1391 | — | text | 13 | 4 | live |
-| 9 | 2026-10-31 | [Free text search via Parquet and DuckDB](https://www.reddit.com/r/DuckDB/comments/1xk8yy1/free_text_search_via_parquet_and_duckdb/) | u/zerospatial | — | i.redd.it | 13 | 3 | live |
-| 8 | 2026-10-31 | [Ducklake catalog migration from DuckDb to PostgreSQL](https://www.reddit.com/r/DuckDB/comments/1xkbkot/ducklake_catalog_migration_from_duckdb_to/) | u/fridaymeetssunday | — | text | 12 | 8 | live |
-| 34 | 2026-10-13 | [Letting an AI agent query DuckDB safely: MCP tool permissions and SQL inspection](https://www.reddit.com/r/DuckDB/comments/1x4t2sz/letting_an_ai_agent_query_duckdb_safely_mcp_tool/) | u/camerongreen95 | — | text | 11 | 6 | live |
-| 24 | 2026-10-21 | [Anyone using DuckDB to combine local data with external datasets on demand?](https://www.reddit.com/r/DuckDB/comments/1xbwnxz/anyone_using_duckdb_to_combine_local_data_with/) | u/Kevin_Jens_Cox | — | text | 10 | 10 | live |
-| 1 | 2026-11-07 | [DuckDB - Extension in VS Code for doing MSSQL T-SQL queries against a Duckdb](https://www.reddit.com/r/DuckDB/comments/1xpsbqk/duckdb_extension_in_vs_code_for_doing_mssql_tsql/) | u/DataFracking | — | text | 10 | 7 | live |
+| 26 | 2026-10-21 | [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](#post-26) | u/kinghuang | — | duckdb.org | 127 | 13 | live |
+| 28 | 2026-10-20 | [I built Obelisk: A lightweight, self-hosted alternative to Microsoft Fabric for sub-TB workloads (DuckDB, Par…](#post-28) | u/JohnPerformante | — | reddit.com | 66 | 9 | live |
+| 33 | 2026-10-16 | [DuckDB 2.0 and S3 File Read Performance](#post-33) | u/empty_cities | — | substack.com | 59 | 11 | live |
+| 23 | 2026-10-22 | [Just here to say I love DuckDB.](#post-23) | u/carlirri | — | text | 54 | 6 | live |
+| 17 | 2026-10-27 | [DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to…](#post-17) | u/isaac-harvey | — | duckstring.com | 41 | 8 | live |
+| 36 | 2026-10-12 | [curral: an open-source SQL gateway for DuckDB with auth, Rego policies, row-level security and Iceberg support](#post-36) | u/Other-Government-796 | — | text | 32 | 10 | live |
+| 27 | 2026-10-20 | [Looking forward to something? Yep!](#post-27) | u/EdwinWeber_Data | — | text | 32 | 7 | live |
+| 11 | 2026-10-30 | [Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams](#post-11) | u/bodiam | — | reddit.com | 20 | 3 | live |
+| 31 | 2026-10-19 | [Git-style diffing for DuckLake tables](#post-31) | u/Aeronautical-You4917 | — | text | 18 | 3 | live |
+| 20 | 2026-10-23 | [81M Overture places from partitioned Parquet, queried in a JS grid in the browser](#post-20) | u/tonygoodchild | — | text | 17 | 7 | live |
+| 13 | 2026-10-29 | [Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta](#post-13) | u/JohnPerformante | — | i.redd.it | 16 | 6 | live |
+| 37 | 2026-10-12 | [I ported my SQLite statistics extension to DuckDB — is this useful? Honest feedback welcome](#post-37) | u/t46urssF | — | text | 14 | 4 | live |
+| 2 | 2026-11-03 | [Using duckdb with baked-in knowledge base for agentic systems](#post-2) | u/Guilty-Hope-6304 | — | i.redd.it | 14 | 2 | live |
+| 5 | 2026-11-02 | [Duckstring - Pull-orchestrated data pipelines on DuckDB](#post-5) | u/isaac-harvey | — | v.redd.it | 13 | 4 | live |
+| 10 | 2026-10-30 | [I built an in-browser SQL workbench on DuckDB-WASM. The engine was fast; showing the results was the slow part](#post-10) | u/Common_Tomorrow1391 | — | text | 13 | 4 | live |
+| 9 | 2026-10-31 | [Free text search via Parquet and DuckDB](#post-9) | u/zerospatial | — | i.redd.it | 13 | 3 | live |
+| 8 | 2026-10-31 | [Ducklake catalog migration from DuckDb to PostgreSQL](#post-8) | u/fridaymeetssunday | — | text | 12 | 8 | live |
+| 34 | 2026-10-13 | [Letting an AI agent query DuckDB safely: MCP tool permissions and SQL inspection](#post-34) | u/camerongreen95 | — | text | 11 | 6 | live |
+| 24 | 2026-10-21 | [Anyone using DuckDB to combine local data with external datasets on demand?](#post-24) | u/Kevin_Jens_Cox | — | text | 10 | 10 | live |
+| 1 | 2026-11-07 | [DuckDB - Extension in VS Code for doing MSSQL T-SQL queries against a Duckdb](#post-1) | u/DataFracking | — | text | 10 | 7 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. DuckDB - Extension in VS Code for doing MSSQL T-SQL queries against a Duckdb
 
-2026-11-07 · u/DataFracking · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xpsbqk/duckdb_extension_in_vs_code_for_doing_mssql_tsql/)
+2026-11-07 · u/DataFracking · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xpsbqk/duckdb_extension_in_vs_code_for_doing_mssql_tsql/) · [↑ back to the list](#last-50-posts)
 
 > My first VS Code Extension.  demonstrating how I'm using DuckDB in some very non-standard ways. with microsoft clients inside VS-Code.  
 >
@@ -141,9 +143,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you've ever heard of babelfish for postgres, that does a similar thing to what I'm doing here.  But mine connects to duckdb... which can ALSO connect to postgres...  ;)
 
+<a id="post-2"></a>
+
 ### 2. Using duckdb with baked-in knowledge base for agentic systems
 
-2026-11-03 · u/Guilty-Hope-6304 · score 14 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xn5pq3/using_duckdb_with_bakedin_knowledge_base_for/)
+2026-11-03 · u/Guilty-Hope-6304 · score 14 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xn5pq3/using_duckdb_with_bakedin_knowledge_base_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6f18il82tgzh1.png>
 
@@ -151,9 +155,11 @@ Link: <https://i.redd.it/6f18il82tgzh1.png>
 >
 > More at [https://boringsteps.org/duckdb-vectors](https://boringsteps.org/duckdb-vectors)
 
+<a id="post-3"></a>
+
 ### 3. Shareable DuckDb in the browser (yes, another one)
 
-2026-11-03 · u/trilson · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xmwn2t/shareable_duckdb_in_the_browser_yes_another_one/)
+2026-11-03 · u/trilson · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xmwn2t/shareable_duckdb_in_the_browser_yes_another_one/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.tinylake.io>
 
@@ -163,16 +169,20 @@ Link: <https://www.tinylake.io>
 >
 > In the spirit of simplicity, the platform (which I would definitely consider 'alpha') and its respective sandboxes are open by design, so use at your own risk. Keen to hear any thoughts / feedback / suggestions!
 
+<a id="post-4"></a>
+
 ### 4. Querying HackerTube, HackerBooks and Wikihack directly with DuckDB through Hugging Face
 
-2026-11-02 · u/sspaeti · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xm7h5h/querying_hackertube_hackerbooks_and_wikihack/)
+2026-11-02 · u/sspaeti · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xm7h5h/querying_hackertube_hackerbooks_and_wikihack/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.ssp.sh/brain/querying-hackernews-with-duckdb-directly/>
 
 
+<a id="post-5"></a>
+
 ### 5. Duckstring - Pull-orchestrated data pipelines on DuckDB
 
-2026-11-02 · u/isaac-harvey · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xlnwdv/duckstring_pullorchestrated_data_pipelines_on/)
+2026-11-02 · u/isaac-harvey · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xlnwdv/duckstring_pullorchestrated_data_pipelines_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/o8gs65lun4zh1>
 
@@ -202,16 +212,20 @@ Link: <https://v.redd.it/o8gs65lun4zh1>
 >
 > It's pre-1.0, though has been in active development since January, and is ready to try on real pipelines. I'd love to hear your feedback!
 
+<a id="post-6"></a>
+
 ### 6. Snowflake to Iceberg Lakehouse Migration Guide
 
-2026-11-01 · u/codingdecently · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xkztvv/snowflake_to_iceberg_lakehouse_migration_guide/)
+2026-11-01 · u/codingdecently · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xkztvv/snowflake_to_iceberg_lakehouse_migration_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 
 
+<a id="post-7"></a>
+
 ### 7. Are you using Claude Code or Codex for data engineering? Would you let it near prod?
 
-2026-10-31 · u/Wide_Importance_8559 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xke3i6/are_you_using_claude_code_or_codex_for_data/)
+2026-10-31 · u/Wide_Importance_8559 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xke3i6/are_you_using_claude_code_or_codex_for_data/) · [↑ back to the list](#last-50-posts)
 
 > I'm asking because we've been going back and forth on this while building Rosetta AI, the agent inside dbt Studio.
 >
@@ -227,9 +241,11 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > dbt Studio is open source if you want to look under the hood: github.com/rosettadb/dbt-studio
 
+<a id="post-8"></a>
+
 ### 8. Ducklake catalog migration from DuckDb to PostgreSQL
 
-2026-10-31 · u/fridaymeetssunday · score 12 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xkbkot/ducklake_catalog_migration_from_duckdb_to/)
+2026-10-31 · u/fridaymeetssunday · score 12 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xkbkot/ducklake_catalog_migration_from_duckdb_to/) · [↑ back to the list](#last-50-posts)
 
 > For background, I am not a data engineer but rather someone who happens to be responsible for  data engineering, so feel free to (gently) point out any incorrect assumptions or core design issues. My background is in Bioinformatics and Data Science.
 >
@@ -250,17 +266,21 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Cheers!
 
+<a id="post-9"></a>
+
 ### 9. Free text search via Parquet and DuckDB
 
-2026-10-31 · u/zerospatial · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xk8yy1/free_text_search_via_parquet_and_duckdb/)
+2026-10-31 · u/zerospatial · score 13 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xk8yy1/free_text_search_via_parquet_and_duckdb/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/czp4qagxqsyh1.jpeg>
 
 > https://malcolmmeyer.com/posts/places-as-parquet%3A-a-prefix-and-free-text-search-that-runs-in-the-browser/
 
+<a id="post-10"></a>
+
 ### 10. I built an in-browser SQL workbench on DuckDB-WASM. The engine was fast; showing the results was the slow part
 
-2026-10-30 · u/Common_Tomorrow1391 · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xji0oy/i_built_an_inbrowser_sql_workbench_on_duckdbwasm/)
+2026-10-30 · u/Common_Tomorrow1391 · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xji0oy/i_built_an_inbrowser_sql_workbench_on_duckdbwasm/) · [↑ back to the list](#last-50-posts)
 
 > I built Blinkql, an open-source SQL workbench that runs in the browser. You open a CSV, Parquet, JSON or Excel file, write SQL and get results. DuckDB is compiled to WebAssembly and runs in a Web Worker inside the tab, so the file is never uploaded: no account, no server, no backend.  
 >
@@ -286,9 +306,11 @@ Link: <https://i.redd.it/czp4qagxqsyh1.jpeg>
 >
 > More of my work is at [https://karthik.nz](https://karthik.nz)
 
+<a id="post-11"></a>
+
 ### 11. Launching DuckDB toolkit for JetBrains, with DuckLake support and visual schema diagrams
 
-2026-10-30 · u/bodiam · score 20 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xjas9h/launching_duckdb_toolkit_for_jetbrains_with/)
+2026-10-30 · u/bodiam · score 20 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xjas9h/launching_duckdb_toolkit_for_jetbrains_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xjas9h>
 
@@ -308,9 +330,11 @@ Link: <https://www.reddit.com/gallery/1xjas9h>
 >
 > The DuckDB is a commercial plugin (to support the development and future updates) and is available on the JetBrains market place here: [https://plugins.jetbrains.com/plugin/35635-toolkit-for-duckdb](https://plugins.jetbrains.com/plugin/35635-toolkit-for-duckdb)
 
+<a id="post-12"></a>
+
 ### 12. UI won't launch
 
-2026-10-30 · u/CONNARDO · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xj9qpd/ui_wont_launch/)
+2026-10-30 · u/CONNARDO · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xj9qpd/ui_wont_launch/) · [↑ back to the list](#last-50-posts)
 
 > Hello Ducks Team, 
 >
@@ -322,9 +346,11 @@ Link: <https://www.reddit.com/gallery/1xjas9h>
 > Anyone's having the same issue ?  
 > Thank you !
 
+<a id="post-13"></a>
+
 ### 13. Update: Earlier this month I shared the prototype of Obelisk , it’s now in beta
 
-2026-10-29 · u/JohnPerformante · score 16 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xigbsf/update_earlier_this_month_i_shared_the_prototype/)
+2026-10-29 · u/JohnPerformante · score 16 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xigbsf/update_earlier_this_month_i_shared_the_prototype/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4ib0vum8wdyh1.png>
 
@@ -341,9 +367,11 @@ Link: <https://i.redd.it/4ib0vum8wdyh1.png>
 >
 > I’d love for you to give it a spin, test your pipelines, and let me know what you think
 
+<a id="post-14"></a>
+
 ### 14. I built an open-source ETL tool that uses AI to build DuckDB data pipelines
 
-2026-10-28 · u/steroidmonkey66 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xhrqnf/i_built_an_opensource_etl_tool_that_uses_ai_to/)
+2026-10-28 · u/steroidmonkey66 · score 9 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xhrqnf/i_built_an_opensource_etl_tool_that_uses_ai_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/30z7dykna8yh1>
 
@@ -357,25 +385,31 @@ Link: <https://v.redd.it/30z7dykna8yh1>
 >
 > I’d love any feedback. If you’d like to try it or contribute, check out the links above!
 
+<a id="post-15"></a>
+
 ### 15. A open source ETL tool using DUCKDB as the engine
 
-2026-10-28 · u/steroidmonkey66 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xhqmxq/a_open_source_etl_tool_using_duckdb_as_the_engine/)
+2026-10-28 · u/steroidmonkey66 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xhqmxq/a_open_source_etl_tool_using_duckdb_as_the_engine/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/b2gsbdoyz5yh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. What did the server say? Quack!
 
-2026-10-27 · u/EdwinWeber_Data · score 9 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xh3zh3/what_did_the_server_say_quack/)
+2026-10-27 · u/EdwinWeber_Data · score 9 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xh3zh3/what_did_the_server_say_quack/) · [↑ back to the list](#last-50-posts)
 
 > In my pet project I had to shutdown clients when my DuckDB database got refreshed. Well, not anymore! Thanks to Quack, actually thanks to the people that built Quack of course.
 >
 > https://github.com/edwinweber/dbt\_duckdb\_demo\_public
 
+<a id="post-17"></a>
+
 ### 17. DuckDB 2.0 ran a TPC-DS pipeline 3 to 10 times faster than same-sized Spark and StarRocks clusters, at up to 1 TB
 
-2026-10-27 · u/isaac-harvey · score 41 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xh3m6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/)
+2026-10-27 · u/isaac-harvey · score 41 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xh3m6t/duckdb_20_ran_a_tpcds_pipeline_3_to_10_times/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 
@@ -387,23 +421,29 @@ Link: <https://www.duckstring.com/blog/duckdb-pipeline-engine>
 >
 > https://www.duckstring.com/blog/duckdb-pipeline-engine
 
+<a id="post-18"></a>
+
 ### 18. Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)
 
-2026-10-24 · u/No_Test5184 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xe9hmo/built_an_opensource_data_warehouse_on_duckdb_that/)
+2026-10-24 · u/No_Test5184 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xe9hmo/built_an_opensource_data_warehouse_on_duckdb_that/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. Built an open-source data warehouse on DuckDB that deploys in 5 minutes (Ichibi)
 
-2026-10-24 · u/No_Test5184 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xe7tcu/built_an_opensource_data_warehouse_on_duckdb_that/)
+2026-10-24 · u/No_Test5184 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xe7tcu/built_an_opensource_data_warehouse_on_duckdb_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/frd7hyeqvexh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. 81M Overture places from partitioned Parquet, queried in a JS grid in the browser
 
-2026-10-23 · u/tonygoodchild · score 17 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xdhuqt/81m_overture_places_from_partitioned_parquet/)
+2026-10-23 · u/tonygoodchild · score 17 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xdhuqt/81m_overture_places_from_partitioned_parquet/) · [↑ back to the list](#last-50-posts)
 
 > I built a demo where the lake is the database: a country-partitioned Parquet copy of the Overture Maps Places release (81 million places) sits on a static host, and DuckDB-Wasm queries it in place.
 >
@@ -429,31 +469,39 @@ Link: <https://i.redd.it/frd7hyeqvexh1.png>
 >
 > Try ?city=tokyo, sydney, london, nyc, paris or sf for a different starting window, and ?theme=dark.
 
+<a id="post-21"></a>
+
 ### 21. DuckDB 2.0 is now on Layerbase
 
-2026-10-22 · u/layerbase · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xca6h9/duckdb_20_is_now_on_layerbase/)
+2026-10-22 · u/layerbase · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xca6h9/duckdb_20_is_now_on_layerbase/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://layerbase.com/blog/duckdb-2-on-layerbase>
 
 
+<a id="post-22"></a>
+
 ### 22. Nice oss liberal license ui for duckdb/sqlite
 
-2026-10-22 · u/IndividualSituation8 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xc7n88/nice_oss_liberal_license_ui_for_duckdbsqlite/)
+2026-10-22 · u/IndividualSituation8 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xc7n88/nice_oss_liberal_license_ui_for_duckdbsqlite/) · [↑ back to the list](#last-50-posts)
 
 > I am looking for nice local ui for sqlite / duckdb analysis that is performant and useful, but also has liberal license and no strings attached. OSS is a bonus.  
 > Any suggestions?
 
+<a id="post-23"></a>
+
 ### 23. Just here to say I love DuckDB.
 
-2026-10-22 · u/carlirri · score 54 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xc3mu5/just_here_to_say_i_love_duckdb/)
+2026-10-22 · u/carlirri · score 54 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xc3mu5/just_here_to_say_i_love_duckdb/) · [↑ back to the list](#last-50-posts)
 
 > Using it along with R thanks to the duckdb package have made wrangling and reporting on large csv and parquet files a breeze. Thank you from the bottom of my heart. 
 >
 > \--A grateful Data Analyst from Colombia.
 
+<a id="post-24"></a>
+
 ### 24. Anyone using DuckDB to combine local data with external datasets on demand?
 
-2026-10-21 · u/Kevin_Jens_Cox · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbwnxz/anyone_using_duckdb_to_combine_local_data_with/)
+2026-10-21 · u/Kevin_Jens_Cox · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbwnxz/anyone_using_duckdb_to_combine_local_data_with/) · [↑ back to the list](#last-50-posts)
 
 > I've been exploring an interesting use case for DuckDB: combining local datasets with external data sources without building and maintaining a separate ingestion pipeline for every source.
 >
@@ -475,9 +523,11 @@ Link: <https://layerbase.com/blog/duckdb-2-on-layerbase>
 >
 > Disclosure: I work with Dataville on marketing and developer outreach.
 
+<a id="post-25"></a>
+
 ### 25. DuckLake Integration in Rosetta DBT Studio — Full Data Lake Management UI (Prototype)
 
-2026-10-21 · u/Wide_Importance_8559 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbq535/ducklake_integration_in_rosetta_dbt_studio_full/)
+2026-10-21 · u/Wide_Importance_8559 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbq535/ducklake_integration_in_rosetta_dbt_studio_full/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/iwR0dMkpJxc?si=hJuUs0Eo7mx-yAi5>
 
@@ -513,22 +563,28 @@ Link: <https://youtu.be/iwR0dMkpJxc?si=hJuUs0Eo7mx-yAi5>
 >
 > This is a preview only — no release date yet. Feedback welcome.
 
+<a id="post-26"></a>
+
 ### 26. Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”
 
-2026-10-21 · u/kinghuang · score 127 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbo5om/announcing_duckdb_200_lts_cinnamon_teal/)
+2026-10-21 · u/kinghuang · score 127 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xbo5om/announcing_duckdb_200_lts_cinnamon_teal/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://duckdb.org/2026/10/21/announcing-duckdb-200>
 
 
+<a id="post-27"></a>
+
 ### 27. Looking forward to something? Yep!
 
-2026-10-20 · u/EdwinWeber_Data · score 32 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xb10n8/looking_forward_to_something_yep/)
+2026-10-20 · u/EdwinWeber_Data · score 32 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xb10n8/looking_forward_to_something_yep/) · [↑ back to the list](#last-50-posts)
 
 > Maybe a bit hard to explain to friends and family, but what am I looking forward to this week? The release of DuckDB 2.0
 
+<a id="post-28"></a>
+
 ### 28. I built Obelisk: A lightweight, self-hosted alternative to Microsoft Fabric for sub-TB workloads (DuckDB, Parquet, dbt, Marimo)
 
-2026-10-20 · u/JohnPerformante · score 66 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xap8y2/i_built_obelisk_a_lightweight_selfhosted/)
+2026-10-20 · u/JohnPerformante · score 66 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xap8y2/i_built_obelisk_a_lightweight_selfhosted/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xap8y2>
 
@@ -550,24 +606,30 @@ Link: <https://www.reddit.com/gallery/1xap8y2>
 > this isn't a finished product, I still have a lot of ideas to implement like auth and access control for teams  
 > I’d love to get your feedback on the platform and contributions are most welcome.
 
+<a id="post-29"></a>
+
 ### 29. Razobill: a community extension that splits log lines into columns and joins them back exactly
 
-2026-10-19 · u/MMA-111 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xa1x1a/razobill_a_community_extension_that_splits_log/)
+2026-10-19 · u/MMA-111 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1xa1x1a/razobill_a_community_extension_that_splits_log/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/pcjddch0dgwh1>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Real-Time Lakehouse Guide: Apache Iceberg in Production
 
-2026-10-19 · u/codingdecently · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9wceo/realtime_lakehouse_guide_apache_iceberg_in/)
+2026-10-19 · u/codingdecently · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9wceo/realtime_lakehouse_guide_apache_iceberg_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/real-time-lakehouse-guide>
 
 
+<a id="post-31"></a>
+
 ### 31. Git-style diffing for DuckLake tables
 
-2026-10-19 · u/Aeronautical-You4917 · score 18 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9rzal/gitstyle_diffing_for_ducklake_tables/)
+2026-10-19 · u/Aeronautical-You4917 · score 18 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9rzal/gitstyle_diffing_for_ducklake_tables/) · [↑ back to the list](#last-50-posts)
 
 > Just recently got into DuckLake... Realized how amazing the snapshot ability is, and decided to build a diffing view. Right now it works with DuckLake catalogs stored locally or Postgres with data stored locally or in S3.
 >
@@ -579,25 +641,31 @@ Link: <https://lakeops.dev/blog/real-time-lakehouse-guide>
 >
 > ![img](jqoe7lo13ewh1 "Diffing two snapshots in DuckLake (example dataset)")
 
+<a id="post-32"></a>
+
 ### 32. SQLserver linked-server to duckdb
 
-2026-10-18 · u/qualityintelligence · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9fpaa/sqlserver_linkedserver_to_duckdb/)
+2026-10-18 · u/qualityintelligence · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x9fpaa/sqlserver_linkedserver_to_duckdb/) · [↑ back to the list](#last-50-posts)
 
 > someone was asking about this in a separate post so I was thinking the tool that I pushed to nuget could do this, I tried it and it did NOT work.  so I debugged and finally got it working this afternoon!  woohoo    
 >
 > my deal is similar to aws' babelfish for for postgres SQL in that it listens on Port 1433 with native TDS and handles Tsql, so can connect you from SQL Server clients, ssms, power bi, etc.   I never thought about doing a linked server but I think that could be kind of useful!  here it is in case this helps anyone.      https://youtu.be/TbD-9DS1\_pY?is=-ktO5X4\_azZV26oN
 
+<a id="post-33"></a>
+
 ### 33. DuckDB 2.0 and S3 File Read Performance
 
-2026-10-16 · u/empty_cities · score 59 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x7kne7/duckdb_20_and_s3_file_read_performance/)
+2026-10-16 · u/empty_cities · score 59 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x7kne7/duckdb_20_and_s3_file_read_performance/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://substack.com/home/post/p-219459526>
 
 > Not my article, but a very nice write up about how DuckDB's upcoming 2.0 release is going to make reading files on S3 no longer a bottleneck. I don't know what they've pulled off at DuckLabs but it is simply amazing.
 
+<a id="post-34"></a>
+
 ### 34. Letting an AI agent query DuckDB safely: MCP tool permissions and SQL inspection
 
-2026-10-13 · u/camerongreen95 · score 11 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x4t2sz/letting_an_ai_agent_query_duckdb_safely_mcp_tool/)
+2026-10-13 · u/camerongreen95 · score 11 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x4t2sz/letting_an_ai_agent_query_duckdb_safely_mcp_tool/) · [↑ back to the list](#last-50-posts)
 
 > An agent with a DuckDB connection can answer a lot of business questions. It can also run a write, read a file off disk, or reach the network if nothing stops it, and DuckDB makes all of that easy. The guardrails have to live around the agent.
 >
@@ -614,9 +682,11 @@ Link: <https://substack.com/home/post/p-219459526>
 >
 > [Full details and the agenda are here.](https://www.eventbrite.co.uk/e/harness-engineering-build-an-ai-data-analyst-you-can-actually-trust-tickets-2002290848829?aff=rdt&discount=RDT35)
 
+<a id="post-35"></a>
+
 ### 35. Serving a Europe-wide air quality forecast from one Parquet file per day: DuckDB reads ~0.2 MB of 54 over HTTP
 
-2026-10-13 · u/LegalScratch3678 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x4ps8l/serving_a_europewide_air_quality_forecast_from/)
+2026-10-13 · u/LegalScratch3678 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x4ps8l/serving_a_europewide_air_quality_forecast_from/) · [↑ back to the list](#last-50-posts)
 
 > **The setup**
 >
@@ -644,9 +714,11 @@ Link: <https://substack.com/home/post/p-219459526>
 >   A question for you: would a Hilbert/Z-order sort beat fixed 1° tiles for bounding-box pruning here? And has anyone measured whether Parquet page indexes or bloom filters
 >   help DuckDB over HTTP compared with just tuning row group size?
 
+<a id="post-36"></a>
+
 ### 36. curral: an open-source SQL gateway for DuckDB with auth, Rego policies, row-level security and Iceberg support
 
-2026-10-12 · u/Other-Government-796 · score 32 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x43cr6/curral_an_opensource_sql_gateway_for_duckdb_with/)
+2026-10-12 · u/Other-Government-796 · score 32 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x43cr6/curral_an_opensource_sql_gateway_for_duckdb_with/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/DuckDB,
 >
@@ -716,9 +788,11 @@ Link: <https://substack.com/home/post/p-219459526>
 >
 > (curral is Portuguese for "corral", where you keep the herd in and decide who gets through the gate.)
 
+<a id="post-37"></a>
+
 ### 37. I ported my SQLite statistics extension to DuckDB — is this useful? Honest feedback welcome
 
-2026-10-12 · u/t46urssF · score 14 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x3x5ef/i_ported_my_sqlite_statistics_extension_to_duckdb/)
+2026-10-12 · u/t46urssF · score 14 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x3x5ef/i_ported_my_sqlite_statistics_extension_to_duckdb/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -742,9 +816,11 @@ Link: <https://substack.com/home/post/p-219459526>
 >
 > Thanks for reading!
 
+<a id="post-38"></a>
+
 ### 38. Rank-Hilbert: Extending space-filling curves to handle skew
 
-2026-10-10 · u/isaac-harvey · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x2pcsq/rankhilbert_extending_spacefilling_curves_to/)
+2026-10-10 · u/isaac-harvey · score 7 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x2pcsq/rankhilbert_extending_spacefilling_curves_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4namnm7capuh1.png>
 
@@ -766,9 +842,11 @@ Link: <https://i.redd.it/4namnm7capuh1.png>
 >
 > I'll probably be using this to set the row order whenever I overwrite a table and I have a reasonable idea as to what might be queried from it.
 
+<a id="post-39"></a>
+
 ### 39. DuckLake in Production: Maintenance Strategy
 
-2026-10-09 · u/empty_cities · score 21 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x1l7rr/ducklake_in_production_maintenance_strategy/)
+2026-10-09 · u/empty_cities · score 21 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x1l7rr/ducklake_in_production_maintenance_strategy/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://thefulldatastack.substack.com/p/ducklake-in-production-maintenance>
 
@@ -776,9 +854,11 @@ Link: <https://thefulldatastack.substack.com/p/ducklake-in-production-maintenanc
 >
 > Maintenance is probably one of the most unsexy topics you can read about but for some reason DuckLake still makes this part of the process enjoyable.
 
+<a id="post-40"></a>
+
 ### 40. I'm now convinced single-node DuckDB is the best engine at any realistic scale.
 
-2026-10-09 · u/isaac-harvey · score 109 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x1h4f4/im_now_convinced_singlenode_duckdb_is_the_best/)
+2026-10-09 · u/isaac-harvey · score 109 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x1h4f4/im_now_convinced_singlenode_duckdb_is_the_best/) · [↑ back to the list](#last-50-posts)
 
 > I use Databricks (Spark) a lot for work, and wondered whether I could write a distributed compute engine on top of DuckDB. Long story short: **I didn't need to.**
 >
@@ -794,22 +874,28 @@ Link: <https://thefulldatastack.substack.com/p/ducklake-in-production-maintenanc
 >
 > I'm a convert!
 
+<a id="post-41"></a>
+
 ### 41. I built a statistical inference layer for DuckDB — 64 SQL macros (CIs, effect sizes, power, Tukey, Fisher exact)
 
-2026-10-08 · u/Shoddy_Telephone9702 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x0lcfs/i_built_a_statistical_inference_layer_for_duckdb/)
+2026-10-08 · u/Shoddy_Telephone9702 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1x0lcfs/i_built_a_statistical_inference_layer_for_duckdb/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-42"></a>
+
 ### 42. Build Analytics Dashboards with AI in Rosetta Studio
 
-2026-10-06 · u/Wide_Importance_8559 · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wz1ujx/build_analytics_dashboards_with_ai_in_rosetta/)
+2026-10-06 · u/Wide_Importance_8559 · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wz1ujx/build_analytics_dashboards_with_ai_in_rosetta/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/PXqWZGwbcSE?si=ZErPBaTW3bnoNH6o>
 
 
+<a id="post-43"></a>
+
 ### 43. Built an inverted index using DuckLake table
 
-2026-10-06 · u/vira28 · score 23 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wyunu1/built_an_inverted_index_using_ducklake_table/)
+2026-10-06 · u/vira28 · score 23 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wyunu1/built_an_inverted_index_using_ducklake_table/) · [↑ back to the list](#last-50-posts)
 
 > Recently, I had a discussion with a database kernel engineer about implementing inverted on Iceberg tables. Coming from OLTP background, Index is typically a secondary data structure (like B-Tree) and i never thought of using tables itself as an index.
 >
@@ -821,22 +907,28 @@ Link: <https://youtu.be/PXqWZGwbcSE?si=ZErPBaTW3bnoNH6o>
 >
 > I thought folks in this subreddit might be interested, and I also would love to hear if there is any feedback.
 
+<a id="post-44"></a>
+
 ### 44. I'm now convinced single-node DuckDB is the best engine at any realistic scale.
 
-2026-10-05 · u/isaac-harvey · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wy5fll/im_now_convinced_singlenode_duckdb_is_the_best/)
+2026-10-05 · u/isaac-harvey · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wy5fll/im_now_convinced_singlenode_duckdb_is_the_best/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-45"></a>
+
 ### 45. Data Lakehouse with Agentic AIs: A Guide
 
-2026-10-05 · u/codingdecently · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wy47e8/data_lakehouse_with_agentic_ais_a_guide/)
+2026-10-05 · u/codingdecently · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wy47e8/data_lakehouse_with_agentic_ais_a_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/itnext/data-lakehouse-with-agentic-ais-a-guide-9f5f174159ef>
 
 
+<a id="post-46"></a>
+
 ### 46. I built a DuckDB extension for plain-English conditions in SQL, backed by a small local model
 
-2026-10-04 · u/fabregas_cesc · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxm9h5/i_built_a_duckdb_extension_for_plainenglish/)
+2026-10-04 · u/fabregas_cesc · score 13 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxm9h5/i_built_a_duckdb_extension_for_plainenglish/) · [↑ back to the list](#last-50-posts)
 
 > After reading DuckDB's post on Jev (plain-English conditions in SQL), I wanted an open, local version. So I wrapped Strands Decider, a 2B "decision model" that answers typed questions instead of generating text, as a DuckDB extension.
 >
@@ -882,9 +974,11 @@ Link: <https://medium.com/itnext/data-lakehouse-with-agentic-ais-a-guide-9f5f174
 >
 > Feedback welcome, especially on the SQL API, and whether cross-row batching would be worth building.
 
+<a id="post-47"></a>
+
 ### 47. daffy
 
-2026-10-04 · u/qualityintelligence · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxjmj6/daffy/)
+2026-10-04 · u/qualityintelligence · score 0 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxjmj6/daffy/) · [↑ back to the list](#last-50-posts)
 
 > not sure what the reaction will be on this one...  So this was a long project, it might seem simple at first but I can assure you it is not.  I don't have many users yet, initially built it for myself but then got out of hand and kept going
 >
@@ -902,9 +996,11 @@ Link: <https://medium.com/itnext/data-lakehouse-with-agentic-ais-a-guide-9f5f174
 >
 > anyhow, I certainly got carried away and I personally love the app but I'd be interested to hear what others think that are serious duckdb users.. Or maybe what features I'm missing.  my goal was to bridge the Microsoft world to the power of and simplicity of duckdb.
 
+<a id="post-48"></a>
+
 ### 48. Quick DuckDB-WASM scratchpad for querying Parquet/CSV files in the browser
 
-2026-10-04 · u/NBMVegeta · score 11 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxdfdn/quick_duckdbwasm_scratchpad_for_querying/)
+2026-10-04 · u/NBMVegeta · score 11 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wxdfdn/quick_duckdbwasm_scratchpad_for_querying/) · [↑ back to the list](#last-50-posts)
 
 > Built a lightweight scratchpad tool for running DuckDB SQL against local Parquet and CSV files directly in the browser:
 >
@@ -922,17 +1018,21 @@ Link: <https://medium.com/itnext/data-lakehouse-with-agentic-ais-a-guide-9f5f174
 >
 > Curious to hear feedback or edge cases with large Parquet/CSV schemas.
 
+<a id="post-49"></a>
+
 ### 49. MySQL Analytical Replica (Parquet + DuckDB) with DBTrail
 
-2026-10-02 · u/PumpkinNo541 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wvyr3f/mysql_analytical_replica_parquet_duckdb_with/)
+2026-10-02 · u/PumpkinNo541 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wvyr3f/mysql_analytical_replica_parquet_duckdb_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/emje3pba23th1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. We built a free, open-source desktop app for dbt Core, with SQL, notebooks, dashboards, DuckLake/Iceberg and AI agents in one place
 
-2026-10-02 · u/Wide_Importance_8559 · score 23 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wvlw0t/we_built_a_free_opensource_desktop_app_for_dbt/)
+2026-10-02 · u/Wide_Importance_8559 · score 23 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/DuckDB/comments/1wvlw0t/we_built_a_free_opensource_desktop_app_for_dbt/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 

@@ -36,56 +36,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [How a Postgres committer got started: a one-line patch that doesn't even carry his name (Magnus Hagander on t…](https://www.reddit.com/r/PostgreSQL/comments/1xpo9sl/how_a_postgres_committer_got_started_a_oneline/) | u/clairegiordano | Community | text | 9 | 2 | live | — |
-| 2 | 2026-11-06 | [PostgresSQL Training](https://www.reddit.com/r/PostgreSQL/comments/1xpnggt/postgressql_training/) | u/B0B0oo7 | Help Me! | text | 3 | 17 | live | — |
-| 3 | 2026-11-06 | [A month with WalShadow](https://www.reddit.com/r/PostgreSQL/comments/1xpea7z/a_month_with_walshadow/) | u/Natrium999 | Commercial | clickhouse.com | 6 | 1 | live | — |
-| 4 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](https://www.reddit.com/r/PostgreSQL/comments/1xpe1u2/what_actually_changed_when_i_moved_a_client/) | u/easybits_ai | Projects | reddit.com | 0 | 2 | live | — |
-| 5 | 2026-11-06 | [Do you actually need a separate backend server if you're already using Postgres?](https://www.reddit.com/r/PostgreSQL/comments/1xoylkm/do_you_actually_need_a_separate_backend_server_if/) | u/Mossy_Kettle738 | Help Me! | text | 0 | 19 | live | — |
-| 6 | 2026-11-04 | [PostgreSQL Kerberos SSO with Active Directory: setup and troubleshooting notes](https://www.reddit.com/r/PostgreSQL/comments/1xnsli2/postgresql_kerberos_sso_with_active_directory/) | u/TahirBaloch_ITDI | How-To | text | 1 | 1 | spam-filtered | — |
-| 7 | 2026-11-04 | [Building Barista: Postgres, Embeddings, and Jev](https://www.reddit.com/r/PostgreSQL/comments/1xnsisx/building_barista_postgres_embeddings_and_jev/) | u/teivah | Projects | read.thecoder.cafe | 0 | 4 | live | — |
-| 8 | 2026-11-04 | [Fencing a Postgres primary that might still be alive](https://www.reddit.com/r/PostgreSQL/comments/1xnra7g/fencing_a_postgres_primary_that_might_still_be/) | u/Natrium999 | Commercial | clickhouse.com | 9 | 1 | live | — |
-| 9 | 2026-11-03 | [PostgreSQL CSV import benchmark: COPY vs JDBC, Scriptella, and Pandas (1M rows)](https://www.reddit.com/r/PostgreSQL/comments/1xn7s5u/postgresql_csv_import_benchmark_copy_vs_jdbc/) | u/fykup | Projects | text | 5 | 8 | live | — |
-| 10 | 2026-11-03 | [Does your application need local data or faster Postgres?](https://www.reddit.com/r/PostgreSQL/comments/1xmvq6d/does_your_application_need_local_data_or_faster/) | u/darkcoderrises | Community | clickhouse.com | 15 | 2 | live | — |
-| 11 | 2026-11-03 | [I built a free Postgres GUI with an EXPLAIN ANALYZE tree view, RLS policy editor and advisors](https://www.reddit.com/r/PostgreSQL/comments/1xmufn0/i_built_a_free_postgres_gui_with_an_explain/) | u/Hxndr1k | Tools | pgquery.dev | 7 | 2 | live | — |
-| 12 | 2026-11-03 | [PostgreSQL on a VM: Which Storage Tier to Choose?](https://www.reddit.com/r/PostgreSQL/comments/1xmst3z/postgresql_on_a_vm_which_storage_tier_to_choose/) | u/mmaksimovic | How-To | 3hcloud.com | 8 | 1 | live | — |
-| 13 | 2026-11-03 | [pg_lion 0.3.0: an inverted index for PostgreSQL for HTAP workloads](https://www.reddit.com/r/PostgreSQL/comments/1xmi8r4/pg_lion_030_an_inverted_index_for_postgresql_for/) | u/cgkanchi | Projects | text | 14 | 5 | live | — |
-| 14 | 2026-11-02 | [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](https://www.reddit.com/r/PostgreSQL/comments/1xm8fnv/postgres_19_repack_builtin_online_table_bloat/) | u/craigkerstiens | Feature | snowflake.com | 42 | 3 | live | — |
-| 15 | 2026-11-02 | [A take on Postgres 19](https://www.reddit.com/r/PostgreSQL/comments/1xm5jr8/a_take_on_postgres_19/) | u/craigkerstiens | Feature | i.redd.it | 218 | 25 | live | — |
-| 16 | 2026-11-02 | [I built a PostgreSQL extension that intersects B-tree indexes in ORDER BY order, so you need fewer composite…](https://www.reddit.com/r/PostgreSQL/comments/1xlz2p3/i_built_a_postgresql_extension_that_intersects/) | u/Upper_Fee_4580 | Projects | text | 2 | 1 | approved | — |
-| 17 | 2026-11-01 | [Does Supabase allow legal adult platforms if images and videos are hosted elsewhere?](https://www.reddit.com/r/PostgreSQL/comments/1xl0fxm/does_supabase_allow_legal_adult_platforms_if/) | u/Dnoco | Help Me! | reddit.com | 0 | 7 | live | — |
-| 18 | 2026-11-01 | [TypeSQL: type-safe raw SQL in TypeScript](https://www.reddit.com/r/PostgreSQL/comments/1xktkvm/typesql_typesafe_raw_sql_in_typescript/) | u/ismail5412 | Projects | github.com | 0 | 4 | live | — |
-| 19 | 2026-10-31 | [Partitioning a high-write transactions table in Postgres: by time, by tenant, or both?](https://www.reddit.com/r/PostgreSQL/comments/1xkf7xr/partitioning_a_highwrite_transactions_table_in/) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 20 | 2026-10-31 | [count(col) said 21 rows had a room type. 12 did](https://www.reddit.com/r/PostgreSQL/comments/1xk9f20/countcol_said_21_rows_had_a_room_type_12_did/) | u/Ok-Motor-9812 | How-To | text | 0 | 15 | live | — |
-| 21 | 2026-10-30 | [Burnt TOAST: "So let's dig into precisely why DBAs secretly dread large text-based columns, shall we?"](https://www.reddit.com/r/PostgreSQL/comments/1xjs90t/burnt_toast_so_lets_dig_into_precisely_why_dbas/) | u/pgEdge_Postgres | How-To | hubs.la | 17 | 5 | live | — |
-| 22 | 2026-10-30 | [pgEdge Coldfront](https://www.reddit.com/r/PostgreSQL/comments/1xjlvcv/pgedge_coldfront/) | u/xikxp1 | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 23 | 2026-10-30 | [Substreams just built the Postgres/ClickHouse sink into the CLI (and a benchmark shows Uniswap V4 indexing in…](https://www.reddit.com/r/PostgreSQL/comments/1xjin1p/substreams_just_built_the_postgresclickhouse_sink/) | u/PaulieB79 | Feature | reddit.com | 0 | 1 | live | — |
-| 24 | 2026-10-29 | [I built an open-source tool that tells you which apps a Postgres migration will break, before you run it](https://www.reddit.com/r/PostgreSQL/comments/1xir51e/i_built_an_opensource_tool_that_tells_you_which/) | u/Some-Environment-178 | Tools | github.com | 0 | 0 | removed by mod | — |
-| 25 | 2026-10-29 | [pgvector vs a dedicated vector db, how many databases does an AI app need?](https://www.reddit.com/r/PostgreSQL/comments/1xinfsq/pgvector_vs_a_dedicated_vector_db_how_many/) | u/kaizakin | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 26 | 2026-10-28 | [Podman support for the PostgreSQL VSCode extension](https://www.reddit.com/r/PostgreSQL/comments/1xi2huz/podman_support_for_the_postgresql_vscode_extension/) | u/SpartanDavie | Tools | reddit.com | 3 | 1 | live | — |
-| 27 | 2026-10-28 | [Modelling a session table for many provider game launches with concurrent bet/win callbacks?](https://www.reddit.com/r/PostgreSQL/comments/1xi0brg/modelling_a_session_table_for_many_provider_game/) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 28 | 2026-10-28 | [Why Microsoft contributes to Postgres: What I tell people](https://www.reddit.com/r/PostgreSQL/comments/1xhuv5c/why_microsoft_contributes_to_postgres_what_i_tell/) | u/clairegiordano | Community | techcommunity.microsoft.com | 77 | 7 | live | — |
-| 29 | 2026-10-28 | [What was the turning point for Postgres?](https://www.reddit.com/r/PostgreSQL/comments/1xhs4q9/what_was_the_turning_point_for_postgres/) | u/siren0x | Community | planetscale.com | 43 | 20 | live | — |
-| 30 | 2026-10-28 | [A PostgreSQL cheat sheet that could be useful for beginners](https://www.reddit.com/r/PostgreSQL/comments/1xhlxzd/a_postgresql_cheat_sheet_that_could_be_useful_for/) | u/bogdanelcs | Tools | tms-outsource.com | 29 | 3 | live | — |
-| 31 | 2026-10-28 | [If you run Postgres alongside a separate analytics warehouse, what’s the most painful part of keeping them in…](https://www.reddit.com/r/PostgreSQL/comments/1xhhyar/if_you_run_postgres_alongside_a_separate/) | u/diagraphic | Community | text | 0 | 28 | live | — |
-| 32 | 2026-10-28 | [Steve Wozniak on the Postgres ecosystem \[VIDEO\]](https://www.reddit.com/r/PostgreSQL/comments/1xhe4fd/steve_wozniak_on_the_postgres_ecosystem_video/) | u/kiwicopple | Community | youtube.com | 20 | 7 | live | — |
-| 33 | 2026-10-27 | [Bloat and Vacuum Best Practices](https://www.reddit.com/r/PostgreSQL/comments/1xgytym/bloat_and_vacuum_best_practices/) | u/RodCoolBeansKimble | Help Me! | text | 11 | 16 | live | — |
-| 34 | 2026-10-27 | [Egres: A Postgres-compatible database for heavy, multi-tenant workloads](https://www.reddit.com/r/PostgreSQL/comments/1xgw9cr/egres_a_postgrescompatible_database_for_heavy/) | u/manishrjain | Projects | text | 19 | 15 | live | — |
-| 35 | 2026-10-27 | [pg_pinecone: open-source search extension for Postgres, built by Pinecone](https://www.reddit.com/r/PostgreSQL/comments/1xgvxvl/pg_pinecone_opensource_search_extension_for/) | u/thatmanisamonster | Tools | text | 19 | 3 | live | — |
-| 36 | 2026-10-27 | [Pseudogress - high-performance mock tool for PostgreSQL databases](https://www.reddit.com/r/PostgreSQL/comments/1xgu581/pseudogress_highperformance_mock_tool_for/) | u/klekpl | Tools | github.com | 5 | 2 | live | — |
-| 37 | 2026-10-27 | [Passwordless PostgreSQL on Kubernetes with CloudNativePG and workload identity](https://www.reddit.com/r/PostgreSQL/comments/1xgqkzx/passwordless_postgresql_on_kubernetes_with/) | u/mlbiam | How-To | reddit.com | 1 | 1 | live | — |
-| 38 | 2026-10-27 | [PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code](https://www.reddit.com/r/PostgreSQL/comments/1xgnrnk/postgresql_like_a_pro_build_query_and/) | u/mariuz | Tools | developer.microsoft.com | 0 | 1 | live | — |
-| 39 | 2026-10-26 | [How are you managing DB architecture for AI agents that need real-time state and historical data?](https://www.reddit.com/r/PostgreSQL/comments/1xfz7uk/how_are_you_managing_db_architecture_for_ai/) | u/Chris__Codes | Help Me! | text | 1 | 20 | live | — |
-| 40 | 2026-10-26 | [A self-hosted wiki that charts live SQL from Postgres](https://www.reddit.com/r/PostgreSQL/comments/1xfxsjq/a_selfhosted_wiki_that_charts_live_sql_from/) | u/busters1 | Tools | reddit.com | 23 | 13 | live | — |
-| 41 | 2026-10-26 | [Railway’s October 21 incident is hard to brush off as “these things happen”](https://www.reddit.com/r/PostgreSQL/comments/1xfout8/railways_october_21_incident_is_hard_to_brush_off/) | u/End0rphinJunkie | Tools | reddit.com | 4 | 2 | removed by mod | — |
-| 42 | 2026-10-25 | [Connection inside connection](https://www.reddit.com/r/PostgreSQL/comments/1xfarab/connection_inside_connection/) | u/Worried_Mud_5224 | Help Me! | text | 5 | 15 | live | — |
-| 43 | 2026-10-24 | [My football intelligence app's first beta exposed serious automation problems. I'm rebuilding it with indepen…](https://www.reddit.com/r/PostgreSQL/comments/1xema2l/my_football_intelligence_apps_first_beta_exposed/) | u/ScazzaUK | Help Me! | reddit.com | 0 | 4 | live | — |
-| 44 | 2026-10-24 | [Ledger table design: SELECT FOR UPDATE on a balance row vs append-only entries with a computed balance?](https://www.reddit.com/r/PostgreSQL/comments/1xei44p/ledger_table_design_select_for_update_on_a/) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 45 | 2026-10-24 | [Our databases class was all ER diagrams, now looking for a backend coding course on how an app talks to Postg…](https://www.reddit.com/r/PostgreSQL/comments/1xehvyq/our_databases_class_was_all_er_diagrams_now/) | u/Nex-11o | Help Me! | text | 19 | 13 | live | — |
-| 46 | 2026-10-23 | [Things logical replication doesn't tell you: what we fixed in PgCache 0.8.0 (DDL, DELETEs under REPLICA IDENT…](https://www.reddit.com/r/PostgreSQL/comments/1xdo8pl/things_logical_replication_doesnt_tell_you_what/) | u/compy3 | Tools | text | 11 | 7 | live | — |
-| 47 | 2026-10-23 | [Where is the SQL editor in Replit?](https://www.reddit.com/r/PostgreSQL/comments/1xdm4ye/where_is_the_sql_editor_in_replit/) | u/Awkward-Ambition-789 | Help Me! | reddit.com | 0 | 1 | removed by mod | — |
-| 48 | 2026-10-23 | [A double refund that wasn't a race: randomized invariant tests on a Postgres ledger](https://www.reddit.com/r/PostgreSQL/comments/1xdbmsn/a_double_refund_that_wasnt_a_race_randomized/) | u/ismail_iusifli | How-To | text | 1 | 1 | spam-filtered | — |
-| 49 | 2026-10-23 | [Where can I safely download PostgreSQL 9.3 for Windows?](https://www.reddit.com/r/PostgreSQL/comments/1xdbdt6/where_can_i_safely_download_postgresql_93_for/) | u/Hot-Advisor-3353 | Help Me! | text | 1 | 1 | spam-filtered | — |
-| 50 | 2026-10-23 | [Undo for Postgres, without losing the rest of your day](https://www.reddit.com/r/PostgreSQL/comments/1xd9nzk/undo_for_postgres_without_losing_the_rest_of_your/) | u/pgEdge_Postgres | Community | hubs.la | 0 | 9 | live | — |
+| 1 | 2026-11-06 | [How a Postgres committer got started: a one-line patch that doesn't even carry his name (Magnus Hagander on t…](#post-1) | u/clairegiordano | Community | text | 9 | 2 | live | — |
+| 2 | 2026-11-06 | [PostgresSQL Training](#post-2) | u/B0B0oo7 | Help Me! | text | 3 | 17 | live | — |
+| 3 | 2026-11-06 | [A month with WalShadow](#post-3) | u/Natrium999 | Commercial | clickhouse.com | 6 | 1 | live | — |
+| 4 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](#post-4) | u/easybits_ai | Projects | reddit.com | 0 | 2 | live | — |
+| 5 | 2026-11-06 | [Do you actually need a separate backend server if you're already using Postgres?](#post-5) | u/Mossy_Kettle738 | Help Me! | text | 0 | 19 | live | — |
+| 6 | 2026-11-04 | [PostgreSQL Kerberos SSO with Active Directory: setup and troubleshooting notes](#post-6) | u/TahirBaloch_ITDI | How-To | text | 1 | 1 | spam-filtered | — |
+| 7 | 2026-11-04 | [Building Barista: Postgres, Embeddings, and Jev](#post-7) | u/teivah | Projects | read.thecoder.cafe | 0 | 4 | live | — |
+| 8 | 2026-11-04 | [Fencing a Postgres primary that might still be alive](#post-8) | u/Natrium999 | Commercial | clickhouse.com | 9 | 1 | live | — |
+| 9 | 2026-11-03 | [PostgreSQL CSV import benchmark: COPY vs JDBC, Scriptella, and Pandas (1M rows)](#post-9) | u/fykup | Projects | text | 5 | 8 | live | — |
+| 10 | 2026-11-03 | [Does your application need local data or faster Postgres?](#post-10) | u/darkcoderrises | Community | clickhouse.com | 15 | 2 | live | — |
+| 11 | 2026-11-03 | [I built a free Postgres GUI with an EXPLAIN ANALYZE tree view, RLS policy editor and advisors](#post-11) | u/Hxndr1k | Tools | pgquery.dev | 7 | 2 | live | — |
+| 12 | 2026-11-03 | [PostgreSQL on a VM: Which Storage Tier to Choose?](#post-12) | u/mmaksimovic | How-To | 3hcloud.com | 8 | 1 | live | — |
+| 13 | 2026-11-03 | [pg_lion 0.3.0: an inverted index for PostgreSQL for HTAP workloads](#post-13) | u/cgkanchi | Projects | text | 14 | 5 | live | — |
+| 14 | 2026-11-02 | [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](#post-14) | u/craigkerstiens | Feature | snowflake.com | 42 | 3 | live | — |
+| 15 | 2026-11-02 | [A take on Postgres 19](#post-15) | u/craigkerstiens | Feature | i.redd.it | 218 | 25 | live | — |
+| 16 | 2026-11-02 | [I built a PostgreSQL extension that intersects B-tree indexes in ORDER BY order, so you need fewer composite…](#post-16) | u/Upper_Fee_4580 | Projects | text | 2 | 1 | approved | — |
+| 17 | 2026-11-01 | [Does Supabase allow legal adult platforms if images and videos are hosted elsewhere?](#post-17) | u/Dnoco | Help Me! | reddit.com | 0 | 7 | live | — |
+| 18 | 2026-11-01 | [TypeSQL: type-safe raw SQL in TypeScript](#post-18) | u/ismail5412 | Projects | github.com | 0 | 4 | live | — |
+| 19 | 2026-10-31 | [Partitioning a high-write transactions table in Postgres: by time, by tenant, or both?](#post-19) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 20 | 2026-10-31 | [count(col) said 21 rows had a room type. 12 did](#post-20) | u/Ok-Motor-9812 | How-To | text | 0 | 15 | live | — |
+| 21 | 2026-10-30 | [Burnt TOAST: "So let's dig into precisely why DBAs secretly dread large text-based columns, shall we?"](#post-21) | u/pgEdge_Postgres | How-To | hubs.la | 17 | 5 | live | — |
+| 22 | 2026-10-30 | [pgEdge Coldfront](#post-22) | u/xikxp1 | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 23 | 2026-10-30 | [Substreams just built the Postgres/ClickHouse sink into the CLI (and a benchmark shows Uniswap V4 indexing in…](#post-23) | u/PaulieB79 | Feature | reddit.com | 0 | 1 | live | — |
+| 24 | 2026-10-29 | [I built an open-source tool that tells you which apps a Postgres migration will break, before you run it](#post-24) | u/Some-Environment-178 | Tools | github.com | 0 | 0 | removed by mod | — |
+| 25 | 2026-10-29 | [pgvector vs a dedicated vector db, how many databases does an AI app need?](#post-25) | u/kaizakin | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 26 | 2026-10-28 | [Podman support for the PostgreSQL VSCode extension](#post-26) | u/SpartanDavie | Tools | reddit.com | 3 | 1 | live | — |
+| 27 | 2026-10-28 | [Modelling a session table for many provider game launches with concurrent bet/win callbacks?](#post-27) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 28 | 2026-10-28 | [Why Microsoft contributes to Postgres: What I tell people](#post-28) | u/clairegiordano | Community | techcommunity.microsoft.com | 77 | 7 | live | — |
+| 29 | 2026-10-28 | [What was the turning point for Postgres?](#post-29) | u/siren0x | Community | planetscale.com | 43 | 20 | live | — |
+| 30 | 2026-10-28 | [A PostgreSQL cheat sheet that could be useful for beginners](#post-30) | u/bogdanelcs | Tools | tms-outsource.com | 29 | 3 | live | — |
+| 31 | 2026-10-28 | [If you run Postgres alongside a separate analytics warehouse, what’s the most painful part of keeping them in…](#post-31) | u/diagraphic | Community | text | 0 | 28 | live | — |
+| 32 | 2026-10-28 | [Steve Wozniak on the Postgres ecosystem \[VIDEO\]](#post-32) | u/kiwicopple | Community | youtube.com | 20 | 7 | live | — |
+| 33 | 2026-10-27 | [Bloat and Vacuum Best Practices](#post-33) | u/RodCoolBeansKimble | Help Me! | text | 11 | 16 | live | — |
+| 34 | 2026-10-27 | [Egres: A Postgres-compatible database for heavy, multi-tenant workloads](#post-34) | u/manishrjain | Projects | text | 19 | 15 | live | — |
+| 35 | 2026-10-27 | [pg_pinecone: open-source search extension for Postgres, built by Pinecone](#post-35) | u/thatmanisamonster | Tools | text | 19 | 3 | live | — |
+| 36 | 2026-10-27 | [Pseudogress - high-performance mock tool for PostgreSQL databases](#post-36) | u/klekpl | Tools | github.com | 5 | 2 | live | — |
+| 37 | 2026-10-27 | [Passwordless PostgreSQL on Kubernetes with CloudNativePG and workload identity](#post-37) | u/mlbiam | How-To | reddit.com | 1 | 1 | live | — |
+| 38 | 2026-10-27 | [PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code](#post-38) | u/mariuz | Tools | developer.microsoft.com | 0 | 1 | live | — |
+| 39 | 2026-10-26 | [How are you managing DB architecture for AI agents that need real-time state and historical data?](#post-39) | u/Chris__Codes | Help Me! | text | 1 | 20 | live | — |
+| 40 | 2026-10-26 | [A self-hosted wiki that charts live SQL from Postgres](#post-40) | u/busters1 | Tools | reddit.com | 23 | 13 | live | — |
+| 41 | 2026-10-26 | [Railway’s October 21 incident is hard to brush off as “these things happen”](#post-41) | u/End0rphinJunkie | Tools | reddit.com | 4 | 2 | removed by mod | — |
+| 42 | 2026-10-25 | [Connection inside connection](#post-42) | u/Worried_Mud_5224 | Help Me! | text | 5 | 15 | live | — |
+| 43 | 2026-10-24 | [My football intelligence app's first beta exposed serious automation problems. I'm rebuilding it with indepen…](#post-43) | u/ScazzaUK | Help Me! | reddit.com | 0 | 4 | live | — |
+| 44 | 2026-10-24 | [Ledger table design: SELECT FOR UPDATE on a balance row vs append-only entries with a computed balance?](#post-44) | u/SoftAggregator | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 45 | 2026-10-24 | [Our databases class was all ER diagrams, now looking for a backend coding course on how an app talks to Postg…](#post-45) | u/Nex-11o | Help Me! | text | 19 | 13 | live | — |
+| 46 | 2026-10-23 | [Things logical replication doesn't tell you: what we fixed in PgCache 0.8.0 (DDL, DELETEs under REPLICA IDENT…](#post-46) | u/compy3 | Tools | text | 11 | 7 | live | — |
+| 47 | 2026-10-23 | [Where is the SQL editor in Replit?](#post-47) | u/Awkward-Ambition-789 | Help Me! | reddit.com | 0 | 1 | removed by mod | — |
+| 48 | 2026-10-23 | [A double refund that wasn't a race: randomized invariant tests on a Postgres ledger](#post-48) | u/ismail_iusifli | How-To | text | 1 | 1 | spam-filtered | — |
+| 49 | 2026-10-23 | [Where can I safely download PostgreSQL 9.3 for Windows?](#post-49) | u/Hot-Advisor-3353 | Help Me! | text | 1 | 1 | spam-filtered | — |
+| 50 | 2026-10-23 | [Undo for Postgres, without losing the rest of your day](#post-50) | u/pgEdge_Postgres | Community | hubs.la | 0 | 9 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -93,34 +93,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-19 | [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://www.reddit.com/r/PostgreSQL/comments/1xa01y7/postgres_19_delayed_after_ai_reviewers_find_more/) | u/craigkerstiens | Community | theregister.com | 471 | 58 | live |
-| 15 | 2026-11-02 | [A take on Postgres 19](https://www.reddit.com/r/PostgreSQL/comments/1xm5jr8/a_take_on_postgres_19/) | u/craigkerstiens | Feature | i.redd.it | 218 | 25 | live |
-| 52 | 2026-10-20 | [I built a large, realistic sample PostgreSQL database: a fictional retailer's 30-year history (laptop-sized t…](https://www.reddit.com/r/PostgreSQL/comments/1xar741/i_built_a_large_realistic_sample_postgresql/) | u/ukhype83 | Projects | text | 91 | 23 | live |
-| 28 | 2026-10-28 | [Why Microsoft contributes to Postgres: What I tell people](https://www.reddit.com/r/PostgreSQL/comments/1xhuv5c/why_microsoft_contributes_to_postgres_what_i_tell/) | u/clairegiordano | Community | techcommunity.microsoft.com | 77 | 7 | live |
-| 53 | 2026-10-16 | [What happened when an Oracle DBA switched to Postgres (Karen Jex on Talking Postgres)](https://www.reddit.com/r/PostgreSQL/comments/1x7okov/what_happened_when_an_oracle_dba_switched_to/) | u/clairegiordano | Community | text | 66 | 7 | live |
-| 29 | 2026-10-28 | [What was the turning point for Postgres?](https://www.reddit.com/r/PostgreSQL/comments/1xhs4q9/what_was_the_turning_point_for_postgres/) | u/siren0x | Community | planetscale.com | 43 | 20 | live |
-| 14 | 2026-11-02 | [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](https://www.reddit.com/r/PostgreSQL/comments/1xm8fnv/postgres_19_repack_builtin_online_table_bloat/) | u/craigkerstiens | Feature | snowflake.com | 42 | 3 | live |
-| 54 | 2026-10-16 | [Postgres Conference 2027 CFP is open (San Jose, April 21-23)](https://www.reddit.com/r/PostgreSQL/comments/1x733v2/postgres_conference_2027_cfp_is_open_san_jose/) | u/snax | Community | i.redd.it | 30 | 6 | live |
-| 55 | 2026-10-18 | [Cheapest reliable PostgreSQL hosting for a small production app?](https://www.reddit.com/r/PostgreSQL/comments/1x905uy/cheapest_reliable_postgresql_hosting_for_a_small/) | u/artensonart98 | Help Me! | text | 29 | 54 | live |
-| 30 | 2026-10-28 | [A PostgreSQL cheat sheet that could be useful for beginners](https://www.reddit.com/r/PostgreSQL/comments/1xhlxzd/a_postgresql_cheat_sheet_that_could_be_useful_for/) | u/bogdanelcs | Tools | tms-outsource.com | 29 | 3 | live |
-| 56 | 2026-10-20 | [The wait is over - anyone want to meet up?](https://www.reddit.com/r/PostgreSQL/comments/1xamz3e/the_wait_is_over_anyone_want_to_meet_up/) | u/ChillPlay3r | Community | i.redd.it | 28 | 5 | live |
-| 40 | 2026-10-26 | [A self-hosted wiki that charts live SQL from Postgres](https://www.reddit.com/r/PostgreSQL/comments/1xfxsjq/a_selfhosted_wiki_that_charts_live_sql_from/) | u/busters1 | Tools | reddit.com | 23 | 13 | live |
-| 32 | 2026-10-28 | [Steve Wozniak on the Postgres ecosystem \[VIDEO\]](https://www.reddit.com/r/PostgreSQL/comments/1xhe4fd/steve_wozniak_on_the_postgres_ecosystem_video/) | u/kiwicopple | Community | youtube.com | 20 | 7 | live |
-| 34 | 2026-10-27 | [Egres: A Postgres-compatible database for heavy, multi-tenant workloads](https://www.reddit.com/r/PostgreSQL/comments/1xgw9cr/egres_a_postgrescompatible_database_for_heavy/) | u/manishrjain | Projects | text | 19 | 15 | live |
-| 45 | 2026-10-24 | [Our databases class was all ER diagrams, now looking for a backend coding course on how an app talks to Postg…](https://www.reddit.com/r/PostgreSQL/comments/1xehvyq/our_databases_class_was_all_er_diagrams_now/) | u/Nex-11o | Help Me! | text | 19 | 13 | live |
-| 57 | 2026-10-12 | [Sharing is (not always) caring. PgBouncer pooling modes in practice.](https://www.reddit.com/r/PostgreSQL/comments/1x46g9h/sharing_is_not_always_caring_pgbouncer_pooling/) | u/Adventurous-Salt8514 | How-To | event-driven.io | 19 | 4 | live |
-| 35 | 2026-10-27 | [pg_pinecone: open-source search extension for Postgres, built by Pinecone](https://www.reddit.com/r/PostgreSQL/comments/1xgvxvl/pg_pinecone_opensource_search_extension_for/) | u/thatmanisamonster | Tools | text | 19 | 3 | live |
-| 58 | 2026-10-13 | [pg_lake 3.5: Universal Postgres Iceberg REST Catalog](https://www.reddit.com/r/PostgreSQL/comments/1x50q86/pg_lake_35_universal_postgres_iceberg_rest_catalog/) | u/craigkerstiens | Feature | snowflake.com | 18 | 1 | live |
-| 59 | 2026-10-22 | [From Pinecone to Postgres pgvector](https://www.reddit.com/r/PostgreSQL/comments/1xcmj2r/from_pinecone_to_postgres_pgvector/) | u/K3NCHO | Projects | text | 17 | 12 | live |
-| 21 | 2026-10-30 | [Burnt TOAST: "So let's dig into precisely why DBAs secretly dread large text-based columns, shall we?"](https://www.reddit.com/r/PostgreSQL/comments/1xjs90t/burnt_toast_so_lets_dig_into_precisely_why_dbas/) | u/pgEdge_Postgres | How-To | hubs.la | 17 | 5 | live |
+| 51 | 2026-10-19 | [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](#post-51) | u/craigkerstiens | Community | theregister.com | 471 | 58 | live |
+| 15 | 2026-11-02 | [A take on Postgres 19](#post-15) | u/craigkerstiens | Feature | i.redd.it | 218 | 25 | live |
+| 52 | 2026-10-20 | [I built a large, realistic sample PostgreSQL database: a fictional retailer's 30-year history (laptop-sized t…](#post-52) | u/ukhype83 | Projects | text | 91 | 23 | live |
+| 28 | 2026-10-28 | [Why Microsoft contributes to Postgres: What I tell people](#post-28) | u/clairegiordano | Community | techcommunity.microsoft.com | 77 | 7 | live |
+| 53 | 2026-10-16 | [What happened when an Oracle DBA switched to Postgres (Karen Jex on Talking Postgres)](#post-53) | u/clairegiordano | Community | text | 66 | 7 | live |
+| 29 | 2026-10-28 | [What was the turning point for Postgres?](#post-29) | u/siren0x | Community | planetscale.com | 43 | 20 | live |
+| 14 | 2026-11-02 | [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](#post-14) | u/craigkerstiens | Feature | snowflake.com | 42 | 3 | live |
+| 54 | 2026-10-16 | [Postgres Conference 2027 CFP is open (San Jose, April 21-23)](#post-54) | u/snax | Community | i.redd.it | 30 | 6 | live |
+| 55 | 2026-10-18 | [Cheapest reliable PostgreSQL hosting for a small production app?](#post-55) | u/artensonart98 | Help Me! | text | 29 | 54 | live |
+| 30 | 2026-10-28 | [A PostgreSQL cheat sheet that could be useful for beginners](#post-30) | u/bogdanelcs | Tools | tms-outsource.com | 29 | 3 | live |
+| 56 | 2026-10-20 | [The wait is over - anyone want to meet up?](#post-56) | u/ChillPlay3r | Community | i.redd.it | 28 | 5 | live |
+| 40 | 2026-10-26 | [A self-hosted wiki that charts live SQL from Postgres](#post-40) | u/busters1 | Tools | reddit.com | 23 | 13 | live |
+| 32 | 2026-10-28 | [Steve Wozniak on the Postgres ecosystem \[VIDEO\]](#post-32) | u/kiwicopple | Community | youtube.com | 20 | 7 | live |
+| 34 | 2026-10-27 | [Egres: A Postgres-compatible database for heavy, multi-tenant workloads](#post-34) | u/manishrjain | Projects | text | 19 | 15 | live |
+| 45 | 2026-10-24 | [Our databases class was all ER diagrams, now looking for a backend coding course on how an app talks to Postg…](#post-45) | u/Nex-11o | Help Me! | text | 19 | 13 | live |
+| 57 | 2026-10-12 | [Sharing is (not always) caring. PgBouncer pooling modes in practice.](#post-57) | u/Adventurous-Salt8514 | How-To | event-driven.io | 19 | 4 | live |
+| 35 | 2026-10-27 | [pg_pinecone: open-source search extension for Postgres, built by Pinecone](#post-35) | u/thatmanisamonster | Tools | text | 19 | 3 | live |
+| 58 | 2026-10-13 | [pg_lake 3.5: Universal Postgres Iceberg REST Catalog](#post-58) | u/craigkerstiens | Feature | snowflake.com | 18 | 1 | live |
+| 59 | 2026-10-22 | [From Pinecone to Postgres pgvector](#post-59) | u/K3NCHO | Projects | text | 17 | 12 | live |
+| 21 | 2026-10-30 | [Burnt TOAST: "So let's dig into precisely why DBAs secretly dread large text-based columns, shall we?"](#post-21) | u/pgEdge_Postgres | How-To | hubs.la | 17 | 5 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. How a Postgres committer got started: a one-line patch that doesn't even carry his name (Magnus Hagander on the Talking Postgres podcast)
 
-2026-11-06 · u/clairegiordano · Community · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpo9sl/how_a_postgres_committer_got_started_a_oneline/)
+2026-11-06 · u/clairegiordano · Community · score 9 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpo9sl/how_a_postgres_committer_got_started_a_oneline/) · [↑ back to the list](#last-50-posts)
 
 > I recently recorded a Talking Postgres episode with Magnus Hagander, a Postgres committer, core team member, and longtime PGConf EU organizer, about how he got started in Postgres.
 >
@@ -148,9 +150,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > YouTube (audio-only): [https://youtu.be/RFUUcdxN59A?si=3SgHD7kGyQQsVgK7](https://youtu.be/RFUUcdxN59A?si=3SgHD7kGyQQsVgK7)
 
+<a id="post-2"></a>
+
 ### 2. PostgresSQL Training
 
-2026-11-06 · u/B0B0oo7 · Help Me! · score 3 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpnggt/postgressql_training/)
+2026-11-06 · u/B0B0oo7 · Help Me! · score 3 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpnggt/postgressql_training/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -162,36 +166,46 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thank you!
 
+<a id="post-3"></a>
+
 ### 3. A month with WalShadow
 
-2026-11-06 · u/Natrium999 · Commercial · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpea7z/a_month_with_walshadow/)
+2026-11-06 · u/Natrium999 · Commercial · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpea7z/a_month_with_walshadow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres>
 
 > WalShadow replicates data from Postgres to ClickHouse via physical WAL, and not logical replication. This blog talks about the latency, handling of restarts, stops etc., and issues encountered with this new product.
 
+<a id="post-4"></a>
+
 ### 4. What actually changed when I moved a client workflow from Sheets to a real database
 
-2026-11-06 · u/easybits_ai · Projects · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpe1u2/what_actually_changed_when_i_moved_a_client/)
+2026-11-06 · u/easybits_ai · Projects · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xpe1u2/what_actually_changed_when_i_moved_a_client/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/n8n/comments/1xpe08r/what_actually_changed_when_i_moved_a_client/>
 
 
+<a id="post-5"></a>
+
 ### 5. Do you actually need a separate backend server if you're already using Postgres?
 
-2026-11-06 · u/Mossy_Kettle738 · Help Me! · score 0 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xoylkm/do_you_actually_need_a_separate_backend_server_if/)
+2026-11-06 · u/Mossy_Kettle738 · Help Me! · score 0 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xoylkm/do_you_actually_need_a_separate_backend_server_if/) · [↑ back to the list](#last-50-posts)
 
 > I'm working with a friend on a small analytics tool for online sellers, the idea is pretty simple, users connect their sales data and get a dashboard showing how their products are doing over time. We've got the frontend mostly figured out and are now trying to decide how to structure the backend. My friend wants to build a separate API server because that's how he's done things before but I'm wondering if we're adding a bunch of work we don't actually need yet. I've have used Supabase before and I love and how it automatically generates APIs from Postgres, which seems like it could cover most of what we need for reading and updating data. We'd still have some logic to handle, especially around processing the sales information but I'm not sure that justifies maintaining an entire backend server from day one. I'm also trying to understand where edge functions fit into this kind of setup. For people who've built apps directly on top of managed Postgres, how far did you get before needing a separate backend?
 
+<a id="post-6"></a>
+
 ### 6. PostgreSQL Kerberos SSO with Active Directory: setup and troubleshooting notes
 
-2026-11-04 · u/TahirBaloch_ITDI · How-To · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnsli2/postgresql_kerberos_sso_with_active_directory/)
+2026-11-04 · u/TahirBaloch_ITDI · How-To · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnsli2/postgresql_kerberos_sso_with_active_directory/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. Building Barista: Postgres, Embeddings, and Jev
 
-2026-11-04 · u/teivah · Projects · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnsisx/building_barista_postgres_embeddings_and_jev/)
+2026-11-04 · u/teivah · Projects · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnsisx/building_barista_postgres_embeddings_and_jev/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://read.thecoder.cafe/p/barista-1>
 
@@ -207,17 +221,21 @@ Link: <https://read.thecoder.cafe/p/barista-1>
 >
 > I’d like to hear where people have seen this approach hit its limits: table bloat on queue tables, vacuum, lock contention at higher throughput?
 
+<a id="post-8"></a>
+
 ### 8. Fencing a Postgres primary that might still be alive
 
-2026-11-04 · u/Natrium999 · Commercial · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnra7g/fencing_a_postgres_primary_that_might_still_be/)
+2026-11-04 · u/Natrium999 · Commercial · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xnra7g/fencing_a_postgres_primary_that_might_still_be/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive>
 
 > A managed Postgres service needs to prevent any possible connections from writing into primary before promoting a new standby. This is called fencing, and in this article we go into why it's important and how it's implemented in Ubicloud.
 
+<a id="post-9"></a>
+
 ### 9. PostgreSQL CSV import benchmark: COPY vs JDBC, Scriptella, and Pandas (1M rows)
 
-2026-11-03 · u/fykup · Projects · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xn7s5u/postgresql_csv_import_benchmark_copy_vs_jdbc/)
+2026-11-03 · u/fykup · Projects · score 5 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xn7s5u/postgresql_csv_import_benchmark_copy_vs_jdbc/) · [↑ back to the list](#last-50-posts)
 
 > A while ago I shared an earlier version of this benchmark here, comparing Scriptella, JDBC, csvsql, and PostgreSQL COPY. Several people suggested useful improvements, particularly enabling pgJDBC's `reWriteBatchedInserts=true`. Thanks for that feedback! It made a real difference in subsequent experiments.
 >
@@ -246,16 +264,20 @@ Link: <https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-b
 >
 > **What PostgreSQL migration scenarios would you find most useful to explore?** I'm particularly interested in real-world challenges involving transformations, different database engines, and larger datasets.
 
+<a id="post-10"></a>
+
 ### 10. Does your application need local data or faster Postgres?
 
-2026-11-03 · u/darkcoderrises · Community · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmvq6d/does_your_application_need_local_data_or_faster/)
+2026-11-03 · u/darkcoderrises · Community · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmvq6d/does_your_application_need_local_data_or_faster/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres>
 
 
+<a id="post-11"></a>
+
 ### 11. I built a free Postgres GUI with an EXPLAIN ANALYZE tree view, RLS policy editor and advisors
 
-2026-11-03 · u/Hxndr1k · Tools · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmufn0/i_built_a_free_postgres_gui_with_an_explain/)
+2026-11-03 · u/Hxndr1k · Tools · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmufn0/i_built_a_free_postgres_gui_with_an_explain/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://pgquery.dev/?utm_source=reddit&utm_campaign=postgresql>
 
@@ -291,16 +313,20 @@ Link: <https://pgquery.dev/?utm_source=reddit&utm_campaign=postgresql>
 >
 > Which advisor checks would you add? I'm collecting ideas.
 
+<a id="post-12"></a>
+
 ### 12. PostgreSQL on a VM: Which Storage Tier to Choose?
 
-2026-11-03 · u/mmaksimovic · How-To · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmst3z/postgresql_on_a_vm_which_storage_tier_to_choose/)
+2026-11-03 · u/mmaksimovic · How-To · score 8 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmst3z/postgresql_on_a_vm_which_storage_tier_to_choose/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://3hcloud.com/blog/postgresql-vm-storage-tier>
 
 
+<a id="post-13"></a>
+
 ### 13. pg_lion 0.3.0: an inverted index for PostgreSQL for HTAP workloads
 
-2026-11-03 · u/cgkanchi · Projects · score 14 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmi8r4/pg_lion_030_an_inverted_index_for_postgresql_for/)
+2026-11-03 · u/cgkanchi · Projects · score 14 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xmi8r4/pg_lion_030_an_inverted_index_for_postgresql_for/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -360,23 +386,29 @@ Link: <https://3hcloud.com/blog/postgresql-vm-storage-tier>
 >
 > Please try it out! I'd love feedback from the community!
 
+<a id="post-14"></a>
+
 ### 14. Postgres 19 REPACK: Built-In Online Table Bloat Cleanup
 
-2026-11-02 · u/craigkerstiens · Feature · score 42 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xm8fnv/postgres_19_repack_builtin_online_table_bloat/)
+2026-11-02 · u/craigkerstiens · Feature · score 42 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xm8fnv/postgres_19_repack_builtin_online_table_bloat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/>
 
 
+<a id="post-15"></a>
+
 ### 15. A take on Postgres 19
 
-2026-11-02 · u/craigkerstiens · Feature · score 218 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xm5jr8/a_take_on_postgres_19/)
+2026-11-02 · u/craigkerstiens · Feature · score 218 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xm5jr8/a_take_on_postgres_19/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/l6agd6xsu8zh1.png>
 
 
+<a id="post-16"></a>
+
 ### 16. I built a PostgreSQL extension that intersects B-tree indexes in ORDER BY order, so you need fewer composite indexes. Looking for critical review
 
-2026-11-02 · u/Upper_Fee_4580 · Projects · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xlz2p3/i_built_a_postgresql_extension_that_intersects/)
+2026-11-02 · u/Upper_Fee_4580 · Projects · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xlz2p3/i_built_a_postgresql_extension_that_intersects/) · [↑ back to the list](#last-50-posts)
 
 > **In PostgreSQL, every new filter combination tends to mean one more composite index. Each one takes disk and cache and slows down every write. Leapfrog is my open-source extension that takes a different route: keep a few small indexes and let the planner merge them into one ordered stream at query time.** It's built for one narrow case: a list query with several equality filters that each match many rows, a combination that matches few, and `ORDER BY id LIMIT n`. Everything else gets the stock plan. You end up with fewer indexes and none of the composite ones. It's a deliberate compromise: reads are slower than with an exact composite index, and writes are cheaper.
 >
@@ -527,30 +559,38 @@ Link: <https://i.redd.it/l6agd6xsu8zh1.png>
 >
 > Harsh criticism, issues and "this already exists, see X" are all welcome.
 
+<a id="post-17"></a>
+
 ### 17. Does Supabase allow legal adult platforms if images and videos are hosted elsewhere?
 
-2026-11-01 · u/Dnoco · Help Me! · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xl0fxm/does_supabase_allow_legal_adult_platforms_if/)
+2026-11-01 · u/Dnoco · Help Me! · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xl0fxm/does_supabase_allow_legal_adult_platforms_if/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Supabase/comments/1xl0fol/does_supabase_allow_legal_adult_platforms_if/>
 
 
+<a id="post-18"></a>
+
 ### 18. TypeSQL: type-safe raw SQL in TypeScript
 
-2026-11-01 · u/ismail5412 · Projects · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xktkvm/typesql_typesafe_raw_sql_in_typescript/)
+2026-11-01 · u/ismail5412 · Projects · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xktkvm/typesql_typesafe_raw_sql_in_typescript/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/ismailkarsli/TypeSQL>
 
 > I made this library that checks raw SQL strings with the TypeScript compiler. It infers the types of rows and parameters, including pretty complex wueries. Typos and invalid queries become compile errors.
 
+<a id="post-19"></a>
+
 ### 19. Partitioning a high-write transactions table in Postgres: by time, by tenant, or both?
 
-2026-10-31 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xkf7xr/partitioning_a_highwrite_transactions_table_in/)
+2026-10-31 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xkf7xr/partitioning_a_highwrite_transactions_table_in/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. count(col) said 21 rows had a room type. 12 did
 
-2026-10-31 · u/Ok-Motor-9812 · How-To · score 0 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xk9f20/countcol_said_21_rows_had_a_room_type_12_did/)
+2026-10-31 · u/Ok-Motor-9812 · How-To · score 0 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xk9f20/countcol_said_21_rows_had_a_room_type_12_did/) · [↑ back to the list](#last-50-posts)
 
 > Small one that fooled me on a live query in August, and the dashboard number looked totally fine.
 >
@@ -570,98 +610,126 @@ Link: <https://github.com/ismailkarsli/TypeSQL>
 >
 > Fixing the producer only fixes new rows. The old ones keep '' forever, so every place that groups or dedups by that column has to treat '' and NULL as the same thing, or one thing quietly splits into two groups.
 
+<a id="post-21"></a>
+
 ### 21. Burnt TOAST: "So let's dig into precisely why DBAs secretly dread large text-based columns, shall we?"
 
-2026-10-30 · u/pgEdge_Postgres · How-To · score 17 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjs90t/burnt_toast_so_lets_dig_into_precisely_why_dbas/)
+2026-10-30 · u/pgEdge_Postgres · How-To · score 17 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjs90t/burnt_toast_so_lets_dig_into_precisely_why_dbas/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://hubs.la/Q04CXnlH0>
 
 
+<a id="post-22"></a>
+
 ### 22. pgEdge Coldfront
 
-2026-10-30 · u/xikxp1 · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjlvcv/pgedge_coldfront/)
+2026-10-30 · u/xikxp1 · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjlvcv/pgedge_coldfront/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-23"></a>
+
 ### 23. Substreams just built the Postgres/ClickHouse sink into the CLI (and a benchmark shows Uniswap V4 indexing in under 8 minutes)
 
-2026-10-30 · u/PaulieB79 · Feature · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjin1p/substreams_just_built_the_postgresclickhouse_sink/)
+2026-10-30 · u/PaulieB79 · Feature · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xjin1p/substreams_just_built_the_postgresclickhouse_sink/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/thegraph/comments/1xjim7h/substreams_just_built_the_postgresclickhouse_sink/>
 
 
+<a id="post-24"></a>
+
 ### 24. I built an open-source tool that tells you which apps a Postgres migration will break, before you run it
 
-2026-10-29 · u/Some-Environment-178 · Tools · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xir51e/i_built_an_opensource_tool_that_tells_you_which/)
+2026-10-29 · u/Some-Environment-178 · Tools · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xir51e/i_built_an_opensource_tool_that_tells_you_which/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/yashpb5005/ripple>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. pgvector vs a dedicated vector db, how many databases does an AI app need?
 
-2026-10-29 · u/kaizakin · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xinfsq/pgvector_vs_a_dedicated_vector_db_how_many/)
+2026-10-29 · u/kaizakin · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xinfsq/pgvector_vs_a_dedicated_vector_db_how_many/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-26"></a>
+
 ### 26. Podman support for the PostgreSQL VSCode extension
 
-2026-10-28 · u/SpartanDavie · Tools · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xi2huz/podman_support_for_the_postgresql_vscode_extension/)
+2026-10-28 · u/SpartanDavie · Tools · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xi2huz/podman_support_for_the_postgresql_vscode_extension/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/podman/comments/1xi2haa/podman_support_for_the_postgresql_vscode_extension/>
 
 
+<a id="post-27"></a>
+
 ### 27. Modelling a session table for many provider game launches with concurrent bet/win callbacks?
 
-2026-10-28 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xi0brg/modelling_a_session_table_for_many_provider_game/)
+2026-10-28 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xi0brg/modelling_a_session_table_for_many_provider_game/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-28"></a>
+
 ### 28. Why Microsoft contributes to Postgres: What I tell people
 
-2026-10-28 · u/clairegiordano · Community · score 77 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhuv5c/why_microsoft_contributes_to_postgres_what_i_tell/)
+2026-10-28 · u/clairegiordano · Community · score 77 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhuv5c/why_microsoft_contributes_to_postgres_what_i_tell/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://techcommunity.microsoft.com/blog/adforpostgresql/why-microsoft-contributes-to-postgres-what-i-tell-people/4568479>
 
 
+<a id="post-29"></a>
+
 ### 29. What was the turning point for Postgres?
 
-2026-10-28 · u/siren0x · Community · score 43 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhs4q9/what_was_the_turning_point_for_postgres/)
+2026-10-28 · u/siren0x · Community · score 43 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhs4q9/what_was_the_turning_point_for_postgres/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://planetscale.com/blog/what-was-the-turning-point-for-postgres>
 
 
+<a id="post-30"></a>
+
 ### 30. A PostgreSQL cheat sheet that could be useful for beginners
 
-2026-10-28 · u/bogdanelcs · Tools · score 29 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhlxzd/a_postgresql_cheat_sheet_that_could_be_useful_for/)
+2026-10-28 · u/bogdanelcs · Tools · score 29 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhlxzd/a_postgresql_cheat_sheet_that_could_be_useful_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://tms-outsource.com/cs/postgresql-cheat-sheet/>
 
 
+<a id="post-31"></a>
+
 ### 31. If you run Postgres alongside a separate analytics warehouse, what’s the most painful part of keeping them in sync?
 
-2026-10-28 · u/diagraphic · Community · score 0 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhhyar/if_you_run_postgres_alongside_a_separate/)
+2026-10-28 · u/diagraphic · Community · score 0 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhhyar/if_you_run_postgres_alongside_a_separate/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-32"></a>
+
 ### 32. Steve Wozniak on the Postgres ecosystem \[VIDEO\]
 
-2026-10-28 · u/kiwicopple · Community · score 20 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhe4fd/steve_wozniak_on_the_postgres_ecosystem_video/)
+2026-10-28 · u/kiwicopple · Community · score 20 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xhe4fd/steve_wozniak_on_the_postgres_ecosystem_video/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=oC-EqLP3By8>
 
 
+<a id="post-33"></a>
+
 ### 33. Bloat and Vacuum Best Practices
 
-2026-10-27 · u/RodCoolBeansKimble · Help Me! · score 11 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgytym/bloat_and_vacuum_best_practices/)
+2026-10-27 · u/RodCoolBeansKimble · Help Me! · score 11 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgytym/bloat_and_vacuum_best_practices/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to wrap my head around when bloat or vacuum settings need to be addressed. For instance I have a table w/720M rows, and it has 54M dead tuples. So it only has \~7% dead tuples, and autovacuum hasn't happened in a month. However, I feel like why not set the threshold lower, and reduce the dead tuples as close to zero as possible? Am I creating solutions in search of a problem? Is there more info I need to find about the table's usage to determine whether there's value in adjusting the settings?
 >
 > I have similar questions for bloat. I have a table that's 2.2TB with 286GB of bloat. So it comes out to about 12% bloat which doesn't trigger any alarms. I'm trying to understand the nuance here. If bloat stays steady under a certain percent, is it a non-issue? Is it workload dependent? Since the solutions require table locks, I want to know how to proactively identify if/when bloat needs to be addressed.
 
+<a id="post-34"></a>
+
 ### 34. Egres: A Postgres-compatible database for heavy, multi-tenant workloads
 
-2026-10-27 · u/manishrjain · Projects · score 19 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgw9cr/egres_a_postgrescompatible_database_for_heavy/)
+2026-10-27 · u/manishrjain · Projects · score 19 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgw9cr/egres_a_postgrescompatible_database_for_heavy/) · [↑ back to the list](#last-50-posts)
 
 > I love Postgres, and I've spent time fighting the same things in production everyone else has: VACUUM, transaction id wraparound, bloat, a process per connection, uncompressed tables. Most of them trace back to design decisions made decades ago. So I kept coming back to one question: what would Postgres look like if it were designed today?
 >
@@ -683,9 +751,11 @@ Link: <https://www.youtube.com/watch?v=oC-EqLP3By8>
 >
 > Try it out. I'd love to hear your thoughts on Egres.
 
+<a id="post-35"></a>
+
 ### 35. pg_pinecone: open-source search extension for Postgres, built by Pinecone
 
-2026-10-27 · u/thatmanisamonster · Tools · score 19 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgvxvl/pg_pinecone_opensource_search_extension_for/)
+2026-10-27 · u/thatmanisamonster · Tools · score 19 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgvxvl/pg_pinecone_opensource_search_extension_for/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I work at Pinecone. I'm posting because we'd like your feedback and input on pg\_pinecone.
 >
@@ -713,30 +783,38 @@ Link: <https://www.youtube.com/watch?v=oC-EqLP3By8>
 >
 > pg\_pinecone’s native engine needs no account, API key, or network. An optional Pinecone API key adds a remote engine, BM25 search, embed(), and rerank().
 
+<a id="post-36"></a>
+
 ### 36. Pseudogress - high-performance mock tool for PostgreSQL databases
 
-2026-10-27 · u/klekpl · Tools · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgu581/pseudogress_highperformance_mock_tool_for/)
+2026-10-27 · u/klekpl · Tools · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgu581/pseudogress_highperformance_mock_tool_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/mkleczek/pseudogress>
 
 
+<a id="post-37"></a>
+
 ### 37. Passwordless PostgreSQL on Kubernetes with CloudNativePG and workload identity
 
-2026-10-27 · u/mlbiam · How-To · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgqkzx/passwordless_postgresql_on_kubernetes_with/)
+2026-10-27 · u/mlbiam · How-To · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgqkzx/passwordless_postgresql_on_kubernetes_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/kubernetes/comments/1xgqjt9/passwordless_postgresql_on_kubernetes_with/>
 
 
+<a id="post-38"></a>
+
 ### 38. PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code
 
-2026-10-27 · u/mariuz · Tools · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgnrnk/postgresql_like_a_pro_build_query_and/)
+2026-10-27 · u/mariuz · Tools · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xgnrnk/postgresql_like_a_pro_build_query_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://developer.microsoft.com/blog/postgresql-like-a-pro-vscode/>
 
 
+<a id="post-39"></a>
+
 ### 39. How are you managing DB architecture for AI agents that need real-time state and historical data?
 
-2026-10-26 · u/Chris__Codes · Help Me! · score 1 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfz7uk/how_are_you_managing_db_architecture_for_ai/)
+2026-10-26 · u/Chris__Codes · Help Me! · score 1 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfz7uk/how_are_you_managing_db_architecture_for_ai/) · [↑ back to the list](#last-50-posts)
 
 > Been looking into how to build an AI agent that maintains a current session state while referencing months of user history, and found out this is basically a classic OLTP vs OLAP problem.
 >
@@ -744,9 +822,11 @@ Link: <https://developer.microsoft.com/blog/postgresql-like-a-pro-vscode/>
 >
 > For those building context-heavy AI features, how are you bridging the two?
 
+<a id="post-40"></a>
+
 ### 40. A self-hosted wiki that charts live SQL from Postgres
 
-2026-10-26 · u/busters1 · Tools · score 23 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfxsjq/a_selfhosted_wiki_that_charts_live_sql_from/)
+2026-10-26 · u/busters1 · Tools · score 23 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfxsjq/a_selfhosted_wiki_that_charts_live_sql_from/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xfxsjq>
 
@@ -764,22 +844,28 @@ Link: <https://www.reddit.com/gallery/1xfxsjq>
 >
 > We started it about a year ago and made it public about 3 months ago. Any feedback is welcome, and I'm happy to answer questions.
 
+<a id="post-41"></a>
+
 ### 41. Railway’s October 21 incident is hard to brush off as “these things happen”
 
-2026-10-26 · u/End0rphinJunkie · Tools · score 4 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfout8/railways_october_21_incident_is_hard_to_brush_off/)
+2026-10-26 · u/End0rphinJunkie · Tools · score 4 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfout8/railways_october_21_incident_is_hard_to_brush_off/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/webdev/comments/1xdl812/railways_october_21_incident_is_hard_to_brush_off/>
 
 
+<a id="post-42"></a>
+
 ### 42. Connection inside connection
 
-2026-10-25 · u/Worried_Mud_5224 · Help Me! · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfarab/connection_inside_connection/)
+2026-10-25 · u/Worried_Mud_5224 · Help Me! · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xfarab/connection_inside_connection/) · [↑ back to the list](#last-50-posts)
 
 > Can i open a new PostgreSQL connection inside another PostgreSQL connection? Rn, i work on on project where i used psycopg for connection. I call the function inside that connection which also starts another connection with database. Is it problem?
 
+<a id="post-43"></a>
+
 ### 43. My football intelligence app's first beta exposed serious automation problems. I'm rebuilding it with independent workers. What should I watch out for?
 
-2026-10-24 · u/ScazzaUK · Help Me! · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xema2l/my_football_intelligence_apps_first_beta_exposed/)
+2026-10-24 · u/ScazzaUK · Help Me! · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xema2l/my_football_intelligence_apps_first_beta_exposed/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Backend/comments/1xem5qd/my_football_intelligence_apps_first_beta_exposed/>
 
@@ -793,21 +879,27 @@ Link: <https://www.reddit.com/r/Backend/comments/1xem5qd/my_football_intelligenc
 >
 > Thanks
 
+<a id="post-44"></a>
+
 ### 44. Ledger table design: SELECT FOR UPDATE on a balance row vs append-only entries with a computed balance?
 
-2026-10-24 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xei44p/ledger_table_design_select_for_update_on_a/)
+2026-10-24 · u/SoftAggregator · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xei44p/ledger_table_design_select_for_update_on_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-45"></a>
+
 ### 45. Our databases class was all ER diagrams, now looking for a backend coding course on how an app talks to Postgres
 
-2026-10-24 · u/Nex-11o · Help Me! · score 19 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xehvyq/our_databases_class_was_all_er_diagrams_now/)
+2026-10-24 · u/Nex-11o · Help Me! · score 19 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xehvyq/our_databases_class_was_all_er_diagrams_now/) · [↑ back to the list](#last-50-posts)
 
 > Finished my databases class last spring, A on the final, and I can normalize anything you hand me and draw a perfect ER diagram. Then I tried to build a small app against Postgres and was stuck on the basics. Connection pooling, migrations, why my ORM sends 40 queries to render 1 page. I want a backend coding course that covers the app side of the database and im deciding between Boot.dev, Launch School and Pluralsight. What should a course like that cover if its done right?
 
+<a id="post-46"></a>
+
 ### 46. Things logical replication doesn't tell you: what we fixed in PgCache 0.8.0 (DDL, DELETEs under REPLICA IDENTITY DEFAULT, Relation messages)
 
-2026-10-23 · u/compy3 · Tools · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdo8pl/things_logical_replication_doesnt_tell_you_what/)
+2026-10-23 · u/compy3 · Tools · score 11 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdo8pl/things_logical_replication_doesnt_tell_you_what/) · [↑ back to the list](#last-50-posts)
 
 > TGIF everybody.
 >
@@ -847,42 +939,54 @@ Link: <https://www.reddit.com/r/Backend/comments/1xem5qd/my_football_intelligenc
 >
 > Happy to answer any questions! And I'd love to hear from people who have worked on the logical replication stream.
 
+<a id="post-47"></a>
+
 ### 47. Where is the SQL editor in Replit?
 
-2026-10-23 · u/Awkward-Ambition-789 · Help Me! · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdm4ye/where_is_the_sql_editor_in_replit/)
+2026-10-23 · u/Awkward-Ambition-789 · Help Me! · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdm4ye/where_is_the_sql_editor_in_replit/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/replit/comments/1xdm3e6/where_is_the_sql_editor_in_replit/>
 
 
+<a id="post-48"></a>
+
 ### 48. A double refund that wasn't a race: randomized invariant tests on a Postgres ledger
 
-2026-10-23 · u/ismail_iusifli · How-To · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdbmsn/a_double_refund_that_wasnt_a_race_randomized/)
+2026-10-23 · u/ismail_iusifli · How-To · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdbmsn/a_double_refund_that_wasnt_a_race_randomized/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-49"></a>
 
 ### 49. Where can I safely download PostgreSQL 9.3 for Windows?
 
-2026-10-23 · u/Hot-Advisor-3353 · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdbdt6/where_can_i_safely_download_postgresql_93_for/)
+2026-10-23 · u/Hot-Advisor-3353 · Help Me! · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xdbdt6/where_can_i_safely_download_postgresql_93_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. Undo for Postgres, without losing the rest of your day
 
-2026-10-23 · u/pgEdge_Postgres · Community · score 0 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xd9nzk/undo_for_postgres_without_losing_the_rest_of_your/)
+2026-10-23 · u/pgEdge_Postgres · Community · score 0 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xd9nzk/undo_for_postgres_without_losing_the_rest_of_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://hubs.la/Q04C4_dY0>
 
 
+<a id="post-51"></a>
+
 ### 51. Postgres 19 delayed after AI reviewers find more bugs than humans can fix
 
-2026-10-19 · u/craigkerstiens · Community · score 471 · 58 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xa01y7/postgres_19_delayed_after_ai_reviewers_find_more/)
+2026-10-19 · u/craigkerstiens · Community · score 471 · 58 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xa01y7/postgres_19_delayed_after_ai_reviewers_find_more/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471>
 
 
+<a id="post-52"></a>
+
 ### 52. I built a large, realistic sample PostgreSQL database: a fictional retailer's 30-year history (laptop-sized to ~3TB)
 
-2026-10-20 · u/ukhype83 · Projects · score 91 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xar741/i_built_a_large_realistic_sample_postgresql/)
+2026-10-20 · u/ukhype83 · Projects · score 91 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xar741/i_built_a_large_realistic_sample_postgresql/) · [↑ back to the list](#last-50-posts)
 
 > Most sample databases are either tiny (pagila, Chinook) or a single narrow domain. I wanted one that was realistic, big enough to actually stress a query planner, and about a subject I personally find more interesting. So I ended up building a generator that simulates one company's whole life. (I appreciate that "interesting subject matter" is subjective, so the real audience for this may be small!)
 >
@@ -914,9 +1018,11 @@ Link: <https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-afte
 >
 > ***Transparency note: The generator code was produced with Claude as a pair-programmer.***
 
+<a id="post-53"></a>
+
 ### 53. What happened when an Oracle DBA switched to Postgres (Karen Jex on Talking Postgres)
 
-2026-10-16 · u/clairegiordano · Community · score 66 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x7okov/what_happened_when_an_oracle_dba_switched_to/)
+2026-10-16 · u/clairegiordano · Community · score 66 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x7okov/what_happened_when_an_oracle_dba_switched_to/) · [↑ back to the list](#last-50-posts)
 
 > I recently recorded a Talking Postgres episode with Karen Jex, a PostgreSQL significant contributor and PGConf EU organizer, about her path from Oracle DBA to Postgres contributor.
 >
@@ -940,9 +1046,11 @@ Link: <https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-afte
 >
 > YouTube (audio-only): [https://youtu.be/ENku8ZSjZus](https://youtu.be/ENku8ZSjZus)
 
+<a id="post-54"></a>
+
 ### 54. Postgres Conference 2027 CFP is open (San Jose, April 21-23)
 
-2026-10-16 · u/snax · Community · score 30 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x733v2/postgres_conference_2027_cfp_is_open_san_jose/)
+2026-10-16 · u/snax · Community · score 30 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x733v2/postgres_conference_2027_cfp_is_open_san_jose/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/154lfxazcqvh1.jpeg>
 
@@ -974,9 +1082,11 @@ Link: <https://i.redd.it/154lfxazcqvh1.jpeg>
 >
 > What's a Postgres problem you wish someone would give a talk about?
 
+<a id="post-55"></a>
+
 ### 55. Cheapest reliable PostgreSQL hosting for a small production app?
 
-2026-10-18 · u/artensonart98 · Help Me! · score 29 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x905uy/cheapest_reliable_postgresql_hosting_for_a_small/)
+2026-10-18 · u/artensonart98 · Help Me! · score 29 · 54 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x905uy/cheapest_reliable_postgresql_hosting_for_a_small/) · [↑ back to the list](#last-50-posts)
 
 > I'm building a small booking app and looking for an affordable, reliable PostgreSQL database for production.
 >
@@ -999,31 +1109,39 @@ Link: <https://i.redd.it/154lfxazcqvh1.jpeg>
 >
 > Would appreciate recommendations based on real world production experience.
 
+<a id="post-56"></a>
+
 ### 56. The wait is over - anyone want to meet up?
 
-2026-10-20 · u/ChillPlay3r · Community · score 28 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xamz3e/the_wait_is_over_anyone_want_to_meet_up/)
+2026-10-20 · u/ChillPlay3r · Community · score 28 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xamz3e/the_wait_is_over_anyone_want_to_meet_up/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/p9jdvace6lwh1.jpeg>
 
 > Would be fun to have a redditor meetup 🎉
 
+<a id="post-57"></a>
+
 ### 57. Sharing is (not always) caring. PgBouncer pooling modes in practice.
 
-2026-10-12 · u/Adventurous-Salt8514 · How-To · score 19 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x46g9h/sharing_is_not_always_caring_pgbouncer_pooling/)
+2026-10-12 · u/Adventurous-Salt8514 · How-To · score 19 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x46g9h/sharing_is_not_always_caring_pgbouncer_pooling/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://event-driven.io/en/connection-pooler-modes-advisory-locks/>
 
 
+<a id="post-58"></a>
+
 ### 58. pg_lake 3.5: Universal Postgres Iceberg REST Catalog
 
-2026-10-13 · u/craigkerstiens · Feature · score 18 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x50q86/pg_lake_35_universal_postgres_iceberg_rest_catalog/)
+2026-10-13 · u/craigkerstiens · Feature · score 18 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1x50q86/pg_lake_35_universal_postgres_iceberg_rest_catalog/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.snowflake.com/en/blog/engineering/pg-lake-iceberg-rest-catalog/>
 
 
+<a id="post-59"></a>
+
 ### 59. From Pinecone to Postgres pgvector
 
-2026-10-22 · u/K3NCHO · Projects · score 17 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xcmj2r/from_pinecone_to_postgres_pgvector/)
+2026-10-22 · u/K3NCHO · Projects · score 17 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/PostgreSQL/comments/1xcmj2r/from_pinecone_to_postgres_pgvector/) · [↑ back to the list](#last-50-posts)
 
 > We run an image and semantic text search API. The first version used Pinecone for vectors and RDS for everything else and the hardest part was keeping the two in sync and performant
 >

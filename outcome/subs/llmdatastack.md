@@ -31,19 +31,19 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-02-11 | [in the age of generative code, migrations are becoming trivial](https://www.reddit.com/r/llmdatastack/comments/1r222ek/in_the_age_of_generative_code_migrations_are/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
-| 2 | 2026-02-11 | [The last mile is solved by LLMs](https://www.reddit.com/r/llmdatastack/comments/1r2221u/the_last_mile_is_solved_by_llms/) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
-| 3 | 2026-01-30 | [Quick Note: Canonical Data Models (CDM) & AI](https://www.reddit.com/r/llmdatastack/comments/1qrgkhx/quick_note_canonical_data_models_cdm_ai/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 4 | 2025-11-05 | [it's scary how good this is getting](https://www.reddit.com/r/llmdatastack/comments/1ooxjft/its_scary_how_good_this_is_getting/) | u/Thinker_Assignment | — | text | 2 | 0 | live | — |
-| 5 | 2025-10-15 | [How using less LLM improved our LLM workflow](https://www.reddit.com/r/llmdatastack/comments/1o75zyg/how_using_less_llm_improved_our_llm_workflow/) | u/Thinker_Assignment | — | dlthub.com | 1 | 0 | live | — |
-| 6 | 2025-10-14 | [LLMs lead to worse data quality - so we need better testing](https://www.reddit.com/r/llmdatastack/comments/1o6dx1q/llms_lead_to_worse_data_quality_so_we_need_better/) | u/Thinker_Assignment | — | text | 1 | 3 | live | — |
-| 7 | 2025-09-19 | [Why LLM memory capacity isn't the bottleneck.](https://www.reddit.com/r/llmdatastack/comments/1nl0olz/why_llm_memory_capacity_isnt_the_bottleneck/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 8 | 2025-09-18 | [A unified API to call over 100 different LLMs.](https://www.reddit.com/r/llmdatastack/comments/1nk9dt2/a_unified_api_to_call_over_100_different_llms/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 9 | 2025-09-08 | [With LLMs being great format converters, multimodal data workflows are on the rise](https://www.reddit.com/r/llmdatastack/comments/1nbnjwe/with_llms_being_great_format_converters/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 10 | 2025-09-08 | [What does your data stack look like for building or running an LLM?](https://www.reddit.com/r/llmdatastack/comments/1nbnhzx/what_does_your_data_stack_look_like_for_building/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 11 | 2025-08-20 | [example using LLMs for end to end data stack](https://www.reddit.com/r/llmdatastack/comments/1mvcoyr/example_using_llms_for_end_to_end_data_stack/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 12 | 2025-08-20 | [The real benchmark is the people - see what they use to know which models perform for what](https://www.reddit.com/r/llmdatastack/comments/1mvco1v/the_real_benchmark_is_the_people_see_what_they/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
-| 13 | 2025-08-13 | [building with LanceDB for fast iteration](https://www.reddit.com/r/llmdatastack/comments/1mp2290/building_with_lancedb_for_fast_iteration/) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 1 | 2026-02-11 | [in the age of generative code, migrations are becoming trivial](#post-1) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
+| 2 | 2026-02-11 | [The last mile is solved by LLMs](#post-2) | u/Thinker_Assignment | — | i.redd.it | 1 | 0 | live | — |
+| 3 | 2026-01-30 | [Quick Note: Canonical Data Models (CDM) & AI](#post-3) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 4 | 2025-11-05 | [it's scary how good this is getting](#post-4) | u/Thinker_Assignment | — | text | 2 | 0 | live | — |
+| 5 | 2025-10-15 | [How using less LLM improved our LLM workflow](#post-5) | u/Thinker_Assignment | — | dlthub.com | 1 | 0 | live | — |
+| 6 | 2025-10-14 | [LLMs lead to worse data quality - so we need better testing](#post-6) | u/Thinker_Assignment | — | text | 1 | 3 | live | — |
+| 7 | 2025-09-19 | [Why LLM memory capacity isn't the bottleneck.](#post-7) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 8 | 2025-09-18 | [A unified API to call over 100 different LLMs.](#post-8) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 9 | 2025-09-08 | [With LLMs being great format converters, multimodal data workflows are on the rise](#post-9) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 10 | 2025-09-08 | [What does your data stack look like for building or running an LLM?](#post-10) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 11 | 2025-08-20 | [example using LLMs for end to end data stack](#post-11) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 12 | 2025-08-20 | [The real benchmark is the people - see what they use to know which models perform for what](#post-12) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
+| 13 | 2025-08-13 | [building with LanceDB for fast iteration](#post-13) | u/Thinker_Assignment | — | text | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -55,23 +55,29 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. in the age of generative code, migrations are becoming trivial
 
-2026-02-11 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1r222ek/in_the_age_of_generative_code_migrations_are/)
+2026-02-11 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1r222ek/in_the_age_of_generative_code_migrations_are/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/tfv9daot9ohg1.png>
 
 
+<a id="post-2"></a>
+
 ### 2. The last mile is solved by LLMs
 
-2026-02-11 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1r2221u/the_last_mile_is_solved_by_llms/)
+2026-02-11 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1r2221u/the_last_mile_is_solved_by_llms/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2kkbtpsdivig1.png>
 
 
+<a id="post-3"></a>
+
 ### 3. Quick Note: Canonical Data Models (CDM) & AI
 
-2026-01-30 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1qrgkhx/quick_note_canonical_data_models_cdm_ai/)
+2026-01-30 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1qrgkhx/quick_note_canonical_data_models_cdm_ai/) · [↑ back to the list](#last-50-posts)
 
 > **The Concept:** A CDM is a "universal translator" for your data. It maps disparate fields (e.g., `Client_ID` in ERP, `Cust_Ref` in CRM) into a single, standardized `Customer` object.
 >
@@ -88,9 +94,11 @@ Link: <https://i.redd.it/2kkbtpsdivig1.png>
 >
 > **Food for Thought:** You can't prompt-engineer your way out of bad data architecture. If you want AI agents to act, you need to build the dictionary (CDM) before you ask them to write the essay.
 
+<a id="post-4"></a>
+
 ### 4. it's scary how good this is getting
 
-2025-11-05 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1ooxjft/its_scary_how_good_this_is_getting/)
+2025-11-05 · u/Thinker_Assignment · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1ooxjft/its_scary_how_good_this_is_getting/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks i was trying to get a conversation going on this sub but it looks like it's a bit early still that people are catching up to current realities of how much can be done with LLM engineering  
 >
@@ -106,16 +114,20 @@ Link: <https://i.redd.it/2kkbtpsdivig1.png>
 >
 > So what can i stay, stop doing by hand and start using these tools, form opinions how to use them, learn and become their manager. Your core architectural and product knowledge will still be valuable but the nitty gritty repetitive stuff like coding commonly built things will just go away.
 
+<a id="post-5"></a>
+
 ### 5. How using less LLM improved our LLM workflow
 
-2025-10-15 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1o75zyg/how_using_less_llm_improved_our_llm_workflow/)
+2025-10-15 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1o75zyg/how_using_less_llm_improved_our_llm_workflow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dlthub.com/blog/improving_generation_baseline>
 
 
+<a id="post-6"></a>
+
 ### 6. LLMs lead to worse data quality - so we need better testing
 
-2025-10-14 · u/Thinker_Assignment · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1o6dx1q/llms_lead_to_worse_data_quality_so_we_need_better/)
+2025-10-14 · u/Thinker_Assignment · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1o6dx1q/llms_lead_to_worse_data_quality_so_we_need_better/) · [↑ back to the list](#last-50-posts)
 
 > Software engineering had its reckoning on testing and CI/CD decades ago. In the data world, we're often still living in the "merge to main and pray" era. Let's be honest, how many of us have shipped a pipeline where the main QA is waiting to see if a dashboard looks wrong tomorrow?
 >
@@ -127,9 +139,11 @@ Link: <https://dlthub.com/blog/improving_generation_baseline>
 >
 > Wrote down my full thoughts on this shift here: [`https://dlthub.com/blog/ai-dq`](https://dlthub.com/blog/ai-dq)
 
+<a id="post-7"></a>
+
 ### 7. Why LLM memory capacity isn't the bottleneck.
 
-2025-09-19 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nl0olz/why_llm_memory_capacity_isnt_the_bottleneck/)
+2025-09-19 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nl0olz/why_llm_memory_capacity_isnt_the_bottleneck/) · [↑ back to the list](#last-50-posts)
 
 > saw this making the rounds on HN and had to share. It's a fantastic, deep dive into how LLMs actually manage to cram a ridiculous number of concepts into their embedding space.   
 >
@@ -142,9 +156,11 @@ Link: <https://dlthub.com/blog/improving_generation_baseline>
 > [https://nicholasyoder.com/beyond-orthogonality/](https://www.google.com/search?q=https://nicholasyoder.com/beyond-orthogonality/)hn link  
 > [https://news.ycombinator.com/item?id=39512324](https://www.google.com/search?q=https://news.ycombinator.com/item%3Fid%3D39512324)
 
+<a id="post-8"></a>
+
 ### 8. A unified API to call over 100 different LLMs.
 
-2025-09-18 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nk9dt2/a_unified_api_to_call_over_100_different_llms/)
+2025-09-18 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nk9dt2/a_unified_api_to_call_over_100_different_llms/) · [↑ back to the list](#last-50-posts)
 
 > Found this repo in a discussion about the operational headache of using multiple model providers. LiteLLM acts as a consistent wrapper, allowing you to call APIs from OpenAI, Cohere, Anthropic, and tons of open models using the exact same input/output format. It’s designed to simplify the engineering for things like setting API keys, tracking costs, and creating fallbacks if one provider's API goes down. The obvious concern is adding another dependency and potential point of failure to your stack.
 >
@@ -152,33 +168,43 @@ Link: <https://dlthub.com/blog/improving_generation_baseline>
 >
 > Link:[https://github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)
 
+<a id="post-9"></a>
+
 ### 9. With LLMs being great format converters, multimodal data workflows are on the rise
 
-2025-09-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nbnjwe/with_llms_being_great_format_converters/)
+2025-09-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nbnjwe/with_llms_being_great_format_converters/) · [↑ back to the list](#last-50-posts)
 
 > [https://lancedb.com/blog/multimodal-lakehouse/](https://lancedb.com/blog/multimodal-lakehouse/)
 
+<a id="post-10"></a>
+
 ### 10. What does your data stack look like for building or running an LLM?
 
-2025-09-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nbnhzx/what_does_your_data_stack_look_like_for_building/)
+2025-09-08 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1nbnhzx/what_does_your_data_stack_look_like_for_building/) · [↑ back to the list](#last-50-posts)
 
 > question
 
+<a id="post-11"></a>
+
 ### 11. example using LLMs for end to end data stack
 
-2025-08-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mvcoyr/example_using_llms_for_end_to_end_data_stack/)
+2025-08-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mvcoyr/example_using_llms_for_end_to_end_data_stack/) · [↑ back to the list](#last-50-posts)
 
 > [https://visivo.io/blog/dlt-claude-visivo#](https://visivo.io/blog/dlt-claude-visivo#)
 
+<a id="post-12"></a>
+
 ### 12. The real benchmark is the people - see what they use to know which models perform for what
 
-2025-08-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mvco1v/the_real_benchmark_is_the_people_see_what_they/)
+2025-08-20 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mvco1v/the_real_benchmark_is_the_people_see_what_they/) · [↑ back to the list](#last-50-posts)
 
 > [https://wtfzambo.hashnode.dev/the-only-real-benchmark-is-the-people](https://wtfzambo.hashnode.dev/the-only-real-benchmark-is-the-people)
 
+<a id="post-13"></a>
+
 ### 13. building with LanceDB for fast iteration
 
-2025-08-13 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mp2290/building_with_lancedb_for_fast_iteration/)
+2025-08-13 · u/Thinker_Assignment · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/llmdatastack/comments/1mp2290/building_with_lancedb_for_fast_iteration/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks, i wanted to share this blog post about how we use LanceDB in our "not human" experiments
 >

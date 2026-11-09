@@ -40,56 +40,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [is snap as ephemeral as it claims?](https://www.reddit.com/r/data/comments/1xprjda/is_snap_as_ephemeral_as_it_claims/) | u/remusromulus9 | — | text | 1 | 0 | approved | — |
-| 2 | 2026-11-06 | [Snapchat Ephemeral](https://www.reddit.com/r/data/comments/1xprar8/snapchat_ephemeral/) | u/remusromulus9 | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-06 | [Snapchat ephemeral policy](https://www.reddit.com/r/data/comments/1xpl89a/snapchat_ephemeral_policy/) | u/Fit_Resolution1224 | QUESTION | text | 1 | 0 | spam-filtered | — |
-| 4 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/data/comments/1xovu2v/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
-| 5 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/data/comments/1xoimt9/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/analyticsvector-yt | LEARNING | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-11-05 | [Raw (unfiltered ) Data](https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/) | u/Peace_out4 | QUESTION | text | 5 | 4 | live | — |
-| 7 | 2026-11-04 | [How much the average European spends on recreational and cultural activities](https://www.reddit.com/r/data/comments/1xo1ira/how_much_the_average_european_spends_on/) | u/Kpets | — | v.redd.it | 0 | 3 | live | — |
-| 8 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](https://www.reddit.com/r/data/comments/1xm1s9w/data_professionals_how_much_of_your_week_is/) | u/Turbulent_Way_0134 | — | text | 1 | 0 | live | — |
-| 9 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](https://www.reddit.com/r/data/comments/1xm1ja9/data_professionals_how_much_of_your_week_is/) | u/Turbulent_Way_0134 | — | text | 0 | 2 | live | — |
-| 10 | 2026-11-02 | [Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Proje…](https://www.reddit.com/r/data/comments/1xlx33q/looking_for_image_dataset_of_saba_bananas_pomelos/) | u/butter_stotch112233 | REQUEST | i.redd.it | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](https://www.reddit.com/r/data/comments/1xkzvi7/snowflake_to_iceberg_lakehouse_migration_guide/) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
-| 12 | 2026-10-30 | [Datasets for statistics task about WW II](https://www.reddit.com/r/data/comments/1xj97af/datasets_for_statistics_task_about_ww_ii/) | u/Sleepingunderatarp | — | text | 1 | 1 | live | — |
-| 13 | 2026-10-30 | [Datasets for statistics task about WW II](https://www.reddit.com/r/data/comments/1xj8y5r/datasets_for_statistics_task_about_ww_ii/) | u/Sleepingunderatarp | — | text | 1 | 0 | live | — |
-| 14 | 2026-10-29 | [free uk data](https://www.reddit.com/r/data/comments/1xiy82j/free_uk_data/) | u/Lucky-Extension8114 | DATASET | text | 0 | 0 | content_takedown | — |
-| 15 | 2026-10-29 | [Verified, Consented, Opt-in, Data for 20,000 active homebuyers](https://www.reddit.com/r/data/comments/1ximyjd/verified_consented_optin_data_for_20000_active/) | u/coyotetex | — | text | 0 | 1 | live | — |
-| 16 | 2026-10-29 | [Obtaining raw data for projects?](https://www.reddit.com/r/data/comments/1xil75p/obtaining_raw_data_for_projects/) | u/Bananapuddinggggg | DATASET | text | 1 | 2 | live | — |
-| 17 | 2026-10-28 | [\[Dataset\] 1,000 Primark products in 17 countries: local prices, sizes, stock (free, Oct 2026)](https://www.reddit.com/r/data/comments/1xhy764/dataset_1000_primark_products_in_17_countries/) | u/FullInspection7067 | DATASET | text | 1 | 0 | held by automod | — |
-| 18 | 2026-10-28 | [CDMP Data Quality](https://www.reddit.com/r/data/comments/1xhms44/cdmp_data_quality/) | u/Emergency-Average538 | REQUEST | text | 1 | 2 | live | — |
-| 19 | 2026-10-28 | [CDMP Data Quality](https://www.reddit.com/r/data/comments/1xhms0y/cdmp_data_quality/) | u/Emergency-Average538 | — | text | 0 | 0 | live | — |
-| 20 | 2026-10-27 | [A game to know when to use AI or not](https://www.reddit.com/r/data/comments/1xh4kt8/a_game_to_know_when_to_use_ai_or_not/) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live | — |
-| 21 | 2026-10-27 | [FREE REFERRAL FOR YOU ALL! (INTERNSHIP/JOBS)](https://www.reddit.com/r/data/comments/1xgqazo/free_referral_for_you_all_internshipjobs/) | u/Mean_Agent_3529 | — | refer.micro1.ai | 1 | 0 | spam-filtered | — |
-| 22 | 2026-10-27 | [The data-quality checks I run before a dashboard goes anywhere near stakeholders](https://www.reddit.com/r/data/comments/1xglqd3/the_dataquality_checks_i_run_before_a_dashboard/) | u/rafayshahid22 | — | text | 3 | 1 | live | — |
-| 23 | 2026-10-25 | [Dataset which buyers are paying for?](https://www.reddit.com/r/data/comments/1xfcgyl/dataset_which_buyers_are_paying_for/) | u/NovelMountain2985 | — | text | 0 | 0 | spam-filtered | — |
-| 24 | 2026-10-25 | [Where can you find dependable partners for large-scale training data?](https://www.reddit.com/r/data/comments/1xf0o0k/where_can_you_find_dependable_partners_for/) | u/Chaseboost | LEARNING | text | 1 | 1 | live | — |
-| 25 | 2026-10-25 | [Open CSV of 19 reported AI incidents across 9 African countries, with source links and evidence grades](https://www.reddit.com/r/data/comments/1xewbi4/open_csv_of_19_reported_ai_incidents_across_9/) | u/Single-Country-6325 | DATASET | text | 1 | 0 | live | — |
-| 26 | 2026-10-24 | [So Many Tools. Where Do You Start?](https://www.reddit.com/r/data/comments/1xemlhu/so_many_tools_where_do_you_start/) | u/OkImprovement7010 | — | text | 0 | 1 | live | — |
-| 27 | 2026-10-24 | [Title: Exploring the technical feasibility of a personalized digital platform — where should I start?](https://www.reddit.com/r/data/comments/1xeej72/title_exploring_the_technical_feasibility_of_a/) | u/darzahra | QUESTION | text | 1 | 0 | live | — |
-| 28 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_and_relationships_during/) | u/darzahra | — | text | 1 | 0 | live | — |
-| 29 | 2026-10-23 | [Database doubt](https://www.reddit.com/r/data/comments/1xdb15m/database_doubt/) | u/Difficult_Brick5256 | — | text | 2 | 0 | live | — |
-| 30 | 2026-10-23 | [Apache Iceberg MERGE INTO Performance: Fixing Slow Upserts](https://www.reddit.com/r/data/comments/1xdaaq2/apache_iceberg_merge_into_performance_fixing_slow/) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
-| 31 | 2026-10-22 | [Data Governance/Data Engineering Building Test Cases](https://www.reddit.com/r/data/comments/1xcr3te/data_governancedata_engineering_building_test/) | u/Sweet_Ad4416 | — | text | 2 | 0 | live | — |
-| 32 | 2026-10-20 | [CDMP exam](https://www.reddit.com/r/data/comments/1xaw4d6/cdmp_exam/) | u/ChanceIndependent434 | — | text | 2 | 11 | live | — |
-| 33 | 2026-10-19 | [TITANIC DATASET](https://www.reddit.com/r/data/comments/1xab89o/titanic_dataset/) | u/emmanueldanielc | — | i.redd.it | 0 | 0 | spam-filtered | — |
-| 34 | 2026-10-19 | [Help me collect real-world blurry photos for an AI research project](https://www.reddit.com/r/data/comments/1xa1re6/help_me_collect_realworld_blurry_photos_for_an_ai/) | u/_bigB_wolf | REQUEST | text | 0 | 1 | removed by mod | Your post has been removed because the moderators have identified it as spam or self-promotion. If… |
-| 35 | 2026-10-18 | [api keys](https://www.reddit.com/r/data/comments/1x9biij/api_keys/) | u/lukav1x | — | text | 0 | 0 | spam-filtered | — |
-| 36 | 2026-10-18 | [Looking for ImageCLEF 2021 DrawnUI Wireframe Dataset](https://www.reddit.com/r/data/comments/1x91sw5/looking_for_imageclef_2021_drawnui_wireframe/) | u/somewhereinb1ue | DATASET | text | 1 | 1 | removed by mod | — |
-| 37 | 2026-10-17 | [Chrome UX Report Dumps: September 2026 dataset added](https://www.reddit.com/r/data/comments/1x82zsm/chrome_ux_report_dumps_september_2026_dataset/) | u/neathack | DATASET | github.com | 2 | 0 | live | — |
-| 38 | 2026-10-17 | [\[OC\] Every FDA-classified US dog and cat food recall since 2012 (271 recalls, 1,265 products, lot codes, date…](https://www.reddit.com/r/data/comments/1x7y10w/oc_every_fdaclassified_us_dog_and_cat_food_recall/) | u/greencalculus | DATASET | text | 1 | 0 | live | — |
-| 39 | 2026-10-16 | [What’s a dataset you found more interesting than you expected?](https://www.reddit.com/r/data/comments/1x7scn9/whats_a_dataset_you_found_more_interesting_than/) | u/Dismal-Demand-7957 | — | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-10-15 | [data engineering toolkit](https://www.reddit.com/r/data/comments/1x6c9tn/data_engineering_toolkit/) | u/Murky-Sun9552 | — | text | 0 | 0 | live | — |
-| 41 | 2026-10-14 | [Start here: how this works](https://www.reddit.com/r/data/comments/1x63818/start_here_how_this_works/) | u/sanctusdatalabs | — | text | 0 | 0 | spam-filtered | — |
-| 42 | 2026-10-14 | [Collibra - does it haver payoff or is it an endless uphill battle?](https://www.reddit.com/r/data/comments/1x61es8/collibra_does_it_haver_payoff_or_is_it_an_endless/) | u/DependentEchidna3614 | — | text | 2 | 1 | live | — |
-| 43 | 2026-10-14 | [How do you validate your analysis before presenting it to stakeholders??](https://www.reddit.com/r/data/comments/1x5zv7j/how_do_you_validate_your_analysis_before/) | u/BugSquare4344 | — | text | 3 | 0 | live | — |
-| 44 | 2026-10-10 | [Scientists calculate how much information exists in the observable universe](https://www.reddit.com/r/data/comments/1x2mnfc/scientists_calculate_how_much_information_exists/) | u/Brighter-Side-News | — | thebrighterside.news | 1 | 0 | spam-filtered | — |
-| 45 | 2026-10-10 | [What could cause these apartment vibration readings? Looking for help interpreting paired iPhone measurements](https://www.reddit.com/r/data/comments/1x2a6fj/what_could_cause_these_apartment_vibration/) | u/Greatness_Small23 | — | text | 1 | 0 | spam-filtered | — |
-| 46 | 2026-10-08 | [\[Request\] Nuclear power water consumption data set along with (and/or) a comparable dataset regarding data ce…](https://www.reddit.com/r/data/comments/1x156mz/request_nuclear_power_water_consumption_data_set/) | u/misswinterrose | REQUEST | text | 3 | 2 | live | — |
-| 47 | 2026-10-08 | [AI literacy games to raise awareness](https://www.reddit.com/r/data/comments/1x0tdug/ai_literacy_games_to_raise_awareness/) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live | — |
-| 48 | 2026-10-07 | [AI tools and data analysis](https://www.reddit.com/r/data/comments/1wztmm8/ai_tools_and_data_analysis/) | u/rsambasivan | — | r2dssanity.substack.com | 0 | 0 | live | — |
-| 49 | 2026-10-07 | [NFHS data-analysis practice: compare urban–rural gaps without losing missingness and sample flags](https://www.reddit.com/r/data/comments/1wzodju/nfhs_dataanalysis_practice_compare_urbanrural/) | u/Happy_Guarantee6705 | — | text | 1 | 0 | live | — |
-| 50 | 2026-10-06 | [Price of purchasing a database of 1000 businesses in US without website.](https://www.reddit.com/r/data/comments/1wzb576/price_of_purchasing_a_database_of_1000_businesses/) | u/Specialist_Room241 | — | text | 0 | 1 | live | — |
+| 1 | 2026-11-06 | [is snap as ephemeral as it claims?](#post-1) | u/remusromulus9 | — | text | 1 | 0 | approved | — |
+| 2 | 2026-11-06 | [Snapchat Ephemeral](#post-2) | u/remusromulus9 | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-06 | [Snapchat ephemeral policy](#post-3) | u/Fit_Resolution1224 | QUESTION | text | 1 | 0 | spam-filtered | — |
+| 4 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-4) | u/fristprinciplesde | — | text | 0 | 0 | spam-filtered | — |
+| 5 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-5) | u/analyticsvector-yt | LEARNING | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-11-05 | [Raw (unfiltered ) Data](#post-6) | u/Peace_out4 | QUESTION | text | 5 | 4 | live | — |
+| 7 | 2026-11-04 | [How much the average European spends on recreational and cultural activities](#post-7) | u/Kpets | — | v.redd.it | 0 | 3 | live | — |
+| 8 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](#post-8) | u/Turbulent_Way_0134 | — | text | 1 | 0 | live | — |
+| 9 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](#post-9) | u/Turbulent_Way_0134 | — | text | 0 | 2 | live | — |
+| 10 | 2026-11-02 | [Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Proje…](#post-10) | u/butter_stotch112233 | REQUEST | i.redd.it | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](#post-11) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
+| 12 | 2026-10-30 | [Datasets for statistics task about WW II](#post-12) | u/Sleepingunderatarp | — | text | 1 | 1 | live | — |
+| 13 | 2026-10-30 | [Datasets for statistics task about WW II](#post-13) | u/Sleepingunderatarp | — | text | 1 | 0 | live | — |
+| 14 | 2026-10-29 | [free uk data](#post-14) | u/Lucky-Extension8114 | DATASET | text | 0 | 0 | content_takedown | — |
+| 15 | 2026-10-29 | [Verified, Consented, Opt-in, Data for 20,000 active homebuyers](#post-15) | u/coyotetex | — | text | 0 | 1 | live | — |
+| 16 | 2026-10-29 | [Obtaining raw data for projects?](#post-16) | u/Bananapuddinggggg | DATASET | text | 1 | 2 | live | — |
+| 17 | 2026-10-28 | [\[Dataset\] 1,000 Primark products in 17 countries: local prices, sizes, stock (free, Oct 2026)](#post-17) | u/FullInspection7067 | DATASET | text | 1 | 0 | held by automod | — |
+| 18 | 2026-10-28 | [CDMP Data Quality](#post-18) | u/Emergency-Average538 | REQUEST | text | 1 | 2 | live | — |
+| 19 | 2026-10-28 | [CDMP Data Quality](#post-19) | u/Emergency-Average538 | — | text | 0 | 0 | live | — |
+| 20 | 2026-10-27 | [A game to know when to use AI or not](#post-20) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live | — |
+| 21 | 2026-10-27 | [FREE REFERRAL FOR YOU ALL! (INTERNSHIP/JOBS)](#post-21) | u/Mean_Agent_3529 | — | refer.micro1.ai | 1 | 0 | spam-filtered | — |
+| 22 | 2026-10-27 | [The data-quality checks I run before a dashboard goes anywhere near stakeholders](#post-22) | u/rafayshahid22 | — | text | 3 | 1 | live | — |
+| 23 | 2026-10-25 | [Dataset which buyers are paying for?](#post-23) | u/NovelMountain2985 | — | text | 0 | 0 | spam-filtered | — |
+| 24 | 2026-10-25 | [Where can you find dependable partners for large-scale training data?](#post-24) | u/Chaseboost | LEARNING | text | 1 | 1 | live | — |
+| 25 | 2026-10-25 | [Open CSV of 19 reported AI incidents across 9 African countries, with source links and evidence grades](#post-25) | u/Single-Country-6325 | DATASET | text | 1 | 0 | live | — |
+| 26 | 2026-10-24 | [So Many Tools. Where Do You Start?](#post-26) | u/OkImprovement7010 | — | text | 0 | 1 | live | — |
+| 27 | 2026-10-24 | [Title: Exploring the technical feasibility of a personalized digital platform — where should I start?](#post-27) | u/darzahra | QUESTION | text | 1 | 0 | live | — |
+| 28 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](#post-28) | u/darzahra | — | text | 1 | 0 | live | — |
+| 29 | 2026-10-23 | [Database doubt](#post-29) | u/Difficult_Brick5256 | — | text | 2 | 0 | live | — |
+| 30 | 2026-10-23 | [Apache Iceberg MERGE INTO Performance: Fixing Slow Upserts](#post-30) | u/codingdecently | — | lakeops.dev | 1 | 0 | spam-filtered | — |
+| 31 | 2026-10-22 | [Data Governance/Data Engineering Building Test Cases](#post-31) | u/Sweet_Ad4416 | — | text | 2 | 0 | live | — |
+| 32 | 2026-10-20 | [CDMP exam](#post-32) | u/ChanceIndependent434 | — | text | 2 | 11 | live | — |
+| 33 | 2026-10-19 | [TITANIC DATASET](#post-33) | u/emmanueldanielc | — | i.redd.it | 0 | 0 | spam-filtered | — |
+| 34 | 2026-10-19 | [Help me collect real-world blurry photos for an AI research project](#post-34) | u/_bigB_wolf | REQUEST | text | 0 | 1 | removed by mod | Your post has been removed because the moderators have identified it as spam or self-promotion. If… |
+| 35 | 2026-10-18 | [api keys](#post-35) | u/lukav1x | — | text | 0 | 0 | spam-filtered | — |
+| 36 | 2026-10-18 | [Looking for ImageCLEF 2021 DrawnUI Wireframe Dataset](#post-36) | u/somewhereinb1ue | DATASET | text | 1 | 1 | removed by mod | — |
+| 37 | 2026-10-17 | [Chrome UX Report Dumps: September 2026 dataset added](#post-37) | u/neathack | DATASET | github.com | 2 | 0 | live | — |
+| 38 | 2026-10-17 | [\[OC\] Every FDA-classified US dog and cat food recall since 2012 (271 recalls, 1,265 products, lot codes, date…](#post-38) | u/greencalculus | DATASET | text | 1 | 0 | live | — |
+| 39 | 2026-10-16 | [What’s a dataset you found more interesting than you expected?](#post-39) | u/Dismal-Demand-7957 | — | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-10-15 | [data engineering toolkit](#post-40) | u/Murky-Sun9552 | — | text | 0 | 0 | live | — |
+| 41 | 2026-10-14 | [Start here: how this works](#post-41) | u/sanctusdatalabs | — | text | 0 | 0 | spam-filtered | — |
+| 42 | 2026-10-14 | [Collibra - does it haver payoff or is it an endless uphill battle?](#post-42) | u/DependentEchidna3614 | — | text | 2 | 1 | live | — |
+| 43 | 2026-10-14 | [How do you validate your analysis before presenting it to stakeholders??](#post-43) | u/BugSquare4344 | — | text | 3 | 0 | live | — |
+| 44 | 2026-10-10 | [Scientists calculate how much information exists in the observable universe](#post-44) | u/Brighter-Side-News | — | thebrighterside.news | 1 | 0 | spam-filtered | — |
+| 45 | 2026-10-10 | [What could cause these apartment vibration readings? Looking for help interpreting paired iPhone measurements](#post-45) | u/Greatness_Small23 | — | text | 1 | 0 | spam-filtered | — |
+| 46 | 2026-10-08 | [\[Request\] Nuclear power water consumption data set along with (and/or) a comparable dataset regarding data ce…](#post-46) | u/misswinterrose | REQUEST | text | 3 | 2 | live | — |
+| 47 | 2026-10-08 | [AI literacy games to raise awareness](#post-47) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live | — |
+| 48 | 2026-10-07 | [AI tools and data analysis](#post-48) | u/rsambasivan | — | r2dssanity.substack.com | 0 | 0 | live | — |
+| 49 | 2026-10-07 | [NFHS data-analysis practice: compare urban–rural gaps without losing missingness and sample flags](#post-49) | u/Happy_Guarantee6705 | — | text | 1 | 0 | live | — |
+| 50 | 2026-10-06 | [Price of purchasing a database of 1000 businesses in US without website.](#post-50) | u/Specialist_Room241 | — | text | 0 | 1 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -97,58 +97,68 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6 | 2026-11-05 | [Raw (unfiltered ) Data](https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/) | u/Peace_out4 | QUESTION | text | 5 | 4 | live |
-| 22 | 2026-10-27 | [The data-quality checks I run before a dashboard goes anywhere near stakeholders](https://www.reddit.com/r/data/comments/1xglqd3/the_dataquality_checks_i_run_before_a_dashboard/) | u/rafayshahid22 | — | text | 3 | 1 | live |
-| 43 | 2026-10-14 | [How do you validate your analysis before presenting it to stakeholders??](https://www.reddit.com/r/data/comments/1x5zv7j/how_do_you_validate_your_analysis_before/) | u/BugSquare4344 | — | text | 3 | 0 | live |
-| 32 | 2026-10-20 | [CDMP exam](https://www.reddit.com/r/data/comments/1xaw4d6/cdmp_exam/) | u/ChanceIndependent434 | — | text | 2 | 11 | live |
-| 42 | 2026-10-14 | [Collibra - does it haver payoff or is it an endless uphill battle?](https://www.reddit.com/r/data/comments/1x61es8/collibra_does_it_haver_payoff_or_is_it_an_endless/) | u/DependentEchidna3614 | — | text | 2 | 1 | live |
-| 29 | 2026-10-23 | [Database doubt](https://www.reddit.com/r/data/comments/1xdb15m/database_doubt/) | u/Difficult_Brick5256 | — | text | 2 | 0 | live |
-| 31 | 2026-10-22 | [Data Governance/Data Engineering Building Test Cases](https://www.reddit.com/r/data/comments/1xcr3te/data_governancedata_engineering_building_test/) | u/Sweet_Ad4416 | — | text | 2 | 0 | live |
-| 37 | 2026-10-17 | [Chrome UX Report Dumps: September 2026 dataset added](https://www.reddit.com/r/data/comments/1x82zsm/chrome_ux_report_dumps_september_2026_dataset/) | u/neathack | DATASET | github.com | 2 | 0 | live |
-| 16 | 2026-10-29 | [Obtaining raw data for projects?](https://www.reddit.com/r/data/comments/1xil75p/obtaining_raw_data_for_projects/) | u/Bananapuddinggggg | DATASET | text | 1 | 2 | live |
-| 18 | 2026-10-28 | [CDMP Data Quality](https://www.reddit.com/r/data/comments/1xhms44/cdmp_data_quality/) | u/Emergency-Average538 | REQUEST | text | 1 | 2 | live |
-| 12 | 2026-10-30 | [Datasets for statistics task about WW II](https://www.reddit.com/r/data/comments/1xj97af/datasets_for_statistics_task_about_ww_ii/) | u/Sleepingunderatarp | — | text | 1 | 1 | live |
-| 24 | 2026-10-25 | [Where can you find dependable partners for large-scale training data?](https://www.reddit.com/r/data/comments/1xf0o0k/where_can_you_find_dependable_partners_for/) | u/Chaseboost | LEARNING | text | 1 | 1 | live |
-| 1 | 2026-11-06 | [is snap as ephemeral as it claims?](https://www.reddit.com/r/data/comments/1xprjda/is_snap_as_ephemeral_as_it_claims/) | u/remusromulus9 | — | text | 1 | 0 | approved |
-| 8 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](https://www.reddit.com/r/data/comments/1xm1s9w/data_professionals_how_much_of_your_week_is/) | u/Turbulent_Way_0134 | — | text | 1 | 0 | live |
-| 13 | 2026-10-30 | [Datasets for statistics task about WW II](https://www.reddit.com/r/data/comments/1xj8y5r/datasets_for_statistics_task_about_ww_ii/) | u/Sleepingunderatarp | — | text | 1 | 0 | live |
-| 20 | 2026-10-27 | [A game to know when to use AI or not](https://www.reddit.com/r/data/comments/1xh4kt8/a_game_to_know_when_to_use_ai_or_not/) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live |
-| 25 | 2026-10-25 | [Open CSV of 19 reported AI incidents across 9 African countries, with source links and evidence grades](https://www.reddit.com/r/data/comments/1xewbi4/open_csv_of_19_reported_ai_incidents_across_9/) | u/Single-Country-6325 | DATASET | text | 1 | 0 | live |
-| 27 | 2026-10-24 | [Title: Exploring the technical feasibility of a personalized digital platform — where should I start?](https://www.reddit.com/r/data/comments/1xeej72/title_exploring_the_technical_feasibility_of_a/) | u/darzahra | QUESTION | text | 1 | 0 | live |
-| 28 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_and_relationships_during/) | u/darzahra | — | text | 1 | 0 | live |
-| 38 | 2026-10-17 | [\[OC\] Every FDA-classified US dog and cat food recall since 2012 (271 recalls, 1,265 products, lot codes, date…](https://www.reddit.com/r/data/comments/1x7y10w/oc_every_fdaclassified_us_dog_and_cat_food_recall/) | u/greencalculus | DATASET | text | 1 | 0 | live |
+| 6 | 2026-11-05 | [Raw (unfiltered ) Data](#post-6) | u/Peace_out4 | QUESTION | text | 5 | 4 | live |
+| 22 | 2026-10-27 | [The data-quality checks I run before a dashboard goes anywhere near stakeholders](#post-22) | u/rafayshahid22 | — | text | 3 | 1 | live |
+| 43 | 2026-10-14 | [How do you validate your analysis before presenting it to stakeholders??](#post-43) | u/BugSquare4344 | — | text | 3 | 0 | live |
+| 32 | 2026-10-20 | [CDMP exam](#post-32) | u/ChanceIndependent434 | — | text | 2 | 11 | live |
+| 42 | 2026-10-14 | [Collibra - does it haver payoff or is it an endless uphill battle?](#post-42) | u/DependentEchidna3614 | — | text | 2 | 1 | live |
+| 29 | 2026-10-23 | [Database doubt](#post-29) | u/Difficult_Brick5256 | — | text | 2 | 0 | live |
+| 31 | 2026-10-22 | [Data Governance/Data Engineering Building Test Cases](#post-31) | u/Sweet_Ad4416 | — | text | 2 | 0 | live |
+| 37 | 2026-10-17 | [Chrome UX Report Dumps: September 2026 dataset added](#post-37) | u/neathack | DATASET | github.com | 2 | 0 | live |
+| 16 | 2026-10-29 | [Obtaining raw data for projects?](#post-16) | u/Bananapuddinggggg | DATASET | text | 1 | 2 | live |
+| 18 | 2026-10-28 | [CDMP Data Quality](#post-18) | u/Emergency-Average538 | REQUEST | text | 1 | 2 | live |
+| 12 | 2026-10-30 | [Datasets for statistics task about WW II](#post-12) | u/Sleepingunderatarp | — | text | 1 | 1 | live |
+| 24 | 2026-10-25 | [Where can you find dependable partners for large-scale training data?](#post-24) | u/Chaseboost | LEARNING | text | 1 | 1 | live |
+| 1 | 2026-11-06 | [is snap as ephemeral as it claims?](#post-1) | u/remusromulus9 | — | text | 1 | 0 | approved |
+| 8 | 2026-11-02 | [Data professionals — how much of your week is honestly just cleaning messy data?](#post-8) | u/Turbulent_Way_0134 | — | text | 1 | 0 | live |
+| 13 | 2026-10-30 | [Datasets for statistics task about WW II](#post-13) | u/Sleepingunderatarp | — | text | 1 | 0 | live |
+| 20 | 2026-10-27 | [A game to know when to use AI or not](#post-20) | u/Charlotte1309 | LEARNING | text | 1 | 0 | live |
+| 25 | 2026-10-25 | [Open CSV of 19 reported AI incidents across 9 African countries, with source links and evidence grades](#post-25) | u/Single-Country-6325 | DATASET | text | 1 | 0 | live |
+| 27 | 2026-10-24 | [Title: Exploring the technical feasibility of a personalized digital platform — where should I start?](#post-27) | u/darzahra | QUESTION | text | 1 | 0 | live |
+| 28 | 2026-10-24 | [Preserving data meaning and relationships during system migrations: how to test it?](#post-28) | u/darzahra | — | text | 1 | 0 | live |
+| 38 | 2026-10-17 | [\[OC\] Every FDA-classified US dog and cat food recall since 2012 (271 recalls, 1,265 products, lot codes, date…](#post-38) | u/greencalculus | DATASET | text | 1 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. is snap as ephemeral as it claims?
 
-2026-11-06 · u/remusromulus9 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/data/comments/1xprjda/is_snap_as_ephemeral_as_it_claims/)
+2026-11-06 · u/remusromulus9 · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/data/comments/1xprjda/is_snap_as_ephemeral_as_it_claims/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-2"></a>
+
 ### 2. Snapchat Ephemeral
 
-2026-11-06 · u/remusromulus9 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xprar8/snapchat_ephemeral/)
+2026-11-06 · u/remusromulus9 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xprar8/snapchat_ephemeral/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-3"></a>
 
 ### 3. Snapchat ephemeral policy
 
-2026-11-06 · u/Fit_Resolution1224 · QUESTION · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xpl89a/snapchat_ephemeral_policy/)
+2026-11-06 · u/Fit_Resolution1224 · QUESTION · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xpl89a/snapchat_ephemeral_policy/) · [↑ back to the list](#last-50-posts)
 
 > Snapchat says it deletes chats 24 hours after both parties view. Is this true?
 
+<a id="post-4"></a>
+
 ### 4. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xovu2v/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xovu2v/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/analyticsvector-yt · LEARNING · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xoimt9/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/analyticsvector-yt · LEARNING · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xoimt9/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changed what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -174,9 +184,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-6"></a>
+
 ### 6. Raw (unfiltered ) Data
 
-2026-11-05 · u/Peace_out4 · QUESTION · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/)
+2026-11-05 · u/Peace_out4 · QUESTION · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xod5m5/raw_unfiltered_data/) · [↑ back to the list](#last-50-posts)
 
 > need raw and unfiltered data to practice excel ,pandas ,and PowerBI and even in sql where to find it if you have resources or data sets please let me know.  
 >
@@ -184,16 +196,20 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > ❗where can we find real-world unfiltered raw data to build useful insights from it.   
 > please let me know if you have any.
 
+<a id="post-7"></a>
+
 ### 7. How much the average European spends on recreational and cultural activities
 
-2026-11-04 · u/Kpets · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xo1ira/how_much_the_average_european_spends_on/)
+2026-11-04 · u/Kpets · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xo1ira/how_much_the_average_european_spends_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/n95gtfu76ozh1>
 
 
+<a id="post-8"></a>
+
 ### 8. Data professionals — how much of your week is honestly just cleaning messy data?
 
-2026-11-02 · u/Turbulent_Way_0134 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xm1s9w/data_professionals_how_much_of_your_week_is/)
+2026-11-02 · u/Turbulent_Way_0134 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xm1s9w/data_professionals_how_much_of_your_week_is/) · [↑ back to the list](#last-50-posts)
 
 > Fellow data enthusiasts,
 >
@@ -210,10 +226,12 @@ Link: <https://v.redd.it/n95gtfu76ozh1>
 > I'm not trying to sell anything; I'm just trying to figure out if my experience is typical or if I was just unlucky with bad datasets 😅
 >
 > I would appreciate frank responses from professionals in the field.
+
+<a id="post-9"></a>
 
 ### 9. Data professionals — how much of your week is honestly just cleaning messy data?
 
-2026-11-02 · u/Turbulent_Way_0134 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xm1ja9/data_professionals_how_much_of_your_week_is/)
+2026-11-02 · u/Turbulent_Way_0134 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xm1ja9/data_professionals_how_much_of_your_week_is/) · [↑ back to the list](#last-50-posts)
 
 > Fellow data enthusiasts,
 >
@@ -231,25 +249,31 @@ Link: <https://v.redd.it/n95gtfu76ozh1>
 >
 > I would appreciate frank responses from professionals in the field.
 
+<a id="post-10"></a>
+
 ### 10. Looking for image dataset of Saba Bananas, Pomelos, and Lemons (Ripe, Unripe, Overripe) for Capstone AI Project
 
-2026-11-02 · u/butter_stotch112233 · REQUEST · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xlx33q/looking_for_image_dataset_of_saba_bananas_pomelos/)
+2026-11-02 · u/butter_stotch112233 · REQUEST · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xlx33q/looking_for_image_dataset_of_saba_bananas_pomelos/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/uro5pr8la7zh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Snowflake to Iceberg Lakehouse Migration Guide
 
-2026-11-01 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xkzvi7/snowflake_to_iceberg_lakehouse_migration_guide/)
+2026-11-01 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xkzvi7/snowflake_to_iceberg_lakehouse_migration_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. Datasets for statistics task about WW II
 
-2026-10-30 · u/Sleepingunderatarp · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xj97af/datasets_for_statistics_task_about_ww_ii/)
+2026-10-30 · u/Sleepingunderatarp · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xj97af/datasets_for_statistics_task_about_ww_ii/) · [↑ back to the list](#last-50-posts)
 
 > Hi everybody.
 >
@@ -260,10 +284,12 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 > I was thinking for example resources, deaths, costs... in function of time. Or food supply's vs civilian deaths or ...
 >
 > Thanks a lot for your ideas!
+
+<a id="post-13"></a>
 
 ### 13. Datasets for statistics task about WW II
 
-2026-10-30 · u/Sleepingunderatarp · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xj8y5r/datasets_for_statistics_task_about_ww_ii/)
+2026-10-30 · u/Sleepingunderatarp · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xj8y5r/datasets_for_statistics_task_about_ww_ii/) · [↑ back to the list](#last-50-posts)
 
 > Hi everybody.
 >
@@ -275,15 +301,19 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Thanks a lot for your ideas!
 
+<a id="post-14"></a>
+
 ### 14. free uk data
 
-2026-10-29 · u/Lucky-Extension8114 · DATASET · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/data/comments/1xiy82j/free_uk_data/)
+2026-10-29 · u/Lucky-Extension8114 · DATASET · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/data/comments/1xiy82j/free_uk_data/) · [↑ back to the list](#last-50-posts)
 
 > freedata for u [https://limewire.com/d/gTphx#UU4BZ35vXE](https://limewire.com/d/gTphx#UU4BZ35vXE) have fun
 
+<a id="post-15"></a>
+
 ### 15. Verified, Consented, Opt-in, Data for 20,000 active homebuyers
 
-2026-10-29 · u/coyotetex · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1ximyjd/verified_consented_optin_data_for_20000_active/)
+2026-10-29 · u/coyotetex · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1ximyjd/verified_consented_optin_data_for_20000_active/) · [↑ back to the list](#last-50-posts)
 
 > We have a data set we've just licensed that is SHA-256 hashed, verified, consented, opt-in data for 20,000 active homebuyers in South Florida, 90 day rolling data set, updated daily with 200 - 300 new records. This is actual active homebuyers who are working with a real estate agent and looking for home right now.
 >
@@ -293,31 +323,39 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Also this is for one market and our source for the data can turn on 20+ additional markets for a national buyer.
 
+<a id="post-16"></a>
+
 ### 16. Obtaining raw data for projects?
 
-2026-10-29 · u/Bananapuddinggggg · DATASET · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xil75p/obtaining_raw_data_for_projects/)
+2026-10-29 · u/Bananapuddinggggg · DATASET · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xil75p/obtaining_raw_data_for_projects/) · [↑ back to the list](#last-50-posts)
 
 > I am working on my portfolio and am trying to obtain some more raw data. I've been told I can web scrape or do a API. My focus is maternal health or any other  health topic. I have came across some sites with some data. But as far as API's  and web scraping, can someone give me a rundown on it all?
 
+<a id="post-17"></a>
+
 ### 17. \[Dataset\] 1,000 Primark products in 17 countries: local prices, sizes, stock (free, Oct 2026)
 
-2026-10-28 · u/FullInspection7067 · DATASET · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/data/comments/1xhy764/dataset_1000_primark_products_in_17_countries/)
+2026-10-28 · u/FullInspection7067 · DATASET · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/data/comments/1xhy764/dataset_1000_primark_products_in_17_countries/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-18"></a>
+
 ### 18. CDMP Data Quality
 
-2026-10-28 · u/Emergency-Average538 · REQUEST · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xhms44/cdmp_data_quality/)
+2026-10-28 · u/Emergency-Average538 · REQUEST · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xhms44/cdmp_data_quality/) · [↑ back to the list](#last-50-posts)
 
 > Hello folks
 >
 > I hope all is well. I have passed my CDMP associate and planning for CDMP data quality. 
 >
 > I need your help to find **dumps** that i can use for cdmp data quality
+
+<a id="post-19"></a>
 
 ### 19. CDMP Data Quality
 
-2026-10-28 · u/Emergency-Average538 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xhms0y/cdmp_data_quality/)
+2026-10-28 · u/Emergency-Average538 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xhms0y/cdmp_data_quality/) · [↑ back to the list](#last-50-posts)
 
 > Hello folks
 >
@@ -325,17 +363,21 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > I need your help to find **dumps** that i can use for cdmp data quality
 
+<a id="post-20"></a>
+
 ### 20. A game to know when to use AI or not
 
-2026-10-27 · u/Charlotte1309 · LEARNING · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xh4kt8/a_game_to_know_when_to_use_ai_or_not/)
+2026-10-27 · u/Charlotte1309 · LEARNING · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xh4kt8/a_game_to_know_when_to_use_ai_or_not/) · [↑ back to the list](#last-50-posts)
 
 > [https://www.ainotai.maketools.ai/](https://www.ainotai.maketools.ai/)
 >
 > I don't think we should use AI for EVERYTHING ! Some tasks require a simple script, automation or formula. This game is a fun way to explain it :)
 
+<a id="post-21"></a>
+
 ### 21. FREE REFERRAL FOR YOU ALL! (INTERNSHIP/JOBS)
 
-2026-10-27 · u/Mean_Agent_3529 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xgqazo/free_referral_for_you_all_internshipjobs/)
+2026-10-27 · u/Mean_Agent_3529 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xgqazo/free_referral_for_you_all_internshipjobs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fcb-2b7621f895fd&utm_source=referral&utm_medium=share&utm_campaign=job_referral>
 
@@ -350,9 +392,11 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 > Spots are filling up...what are you waiting for? Click on referral and apply to the amazing roles.  
 > [https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fcb-2b7621f895fd&utm\_source=referral&utm\_medium=share&utm\_campaign=job\_referral](https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fcb-2b7621f895fd&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 
+<a id="post-22"></a>
+
 ### 22. The data-quality checks I run before a dashboard goes anywhere near stakeholders
 
-2026-10-27 · u/rafayshahid22 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xglqd3/the_dataquality_checks_i_run_before_a_dashboard/)
+2026-10-27 · u/rafayshahid22 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xglqd3/the_dataquality_checks_i_run_before_a_dashboard/) · [↑ back to the list](#last-50-posts)
 
 > A dashboard can be visually clean and still be wrong. Before I trust a reporting dataset, I like to validate the assumptions underneath it—not just whether the query runs.
 >
@@ -396,15 +440,19 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 >
 > My rule of thumb: validate the grain, joins, totals, and freshness before debating the chart. What’s the one check you consider non-negotiable in your analytics workflow?
 
+<a id="post-23"></a>
+
 ### 23. Dataset which buyers are paying for?
 
-2026-10-25 · u/NovelMountain2985 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xfcgyl/dataset_which_buyers_are_paying_for/)
+2026-10-25 · u/NovelMountain2985 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xfcgyl/dataset_which_buyers_are_paying_for/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. Where can you find dependable partners for large-scale training data?
 
-2026-10-25 · u/Chaseboost · LEARNING · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xf0o0k/where_can_you_find_dependable_partners_for/)
+2026-10-25 · u/Chaseboost · LEARNING · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xf0o0k/where_can_you_find_dependable_partners_for/) · [↑ back to the list](#last-50-posts)
 
 > The project is growing, and we are trying partners capable of delivering big datasets on a steady basis, potentially millions of samples, backed by strong quality checks. I have looked into the major annotation providers, but their websites make it difficult to separate the ones that handle real volume from the ones with strong marketing.
 >
@@ -420,9 +468,11 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 >
 > I am more interested in first-hand experience than lists of vendors. Once we decide, I will post our choice in case it is useful to anyone.
 
+<a id="post-25"></a>
+
 ### 25. Open CSV of 19 reported AI incidents across 9 African countries, with source links and evidence grades
 
-2026-10-25 · u/Single-Country-6325 · DATASET · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xewbi4/open_csv_of_19_reported_ai_incidents_across_9/)
+2026-10-25 · u/Single-Country-6325 · DATASET · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xewbi4/open_csv_of_19_reported_ai_incidents_across_9/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I created and maintain the Africa AI Incident Observatory.    
 > I’m sharing a small, open dataset for people interested in AI safety, governance, and qualitative incident research. It currently contains 19 curated records across nine primary African countries, available as a CSV with 36 fields.    
@@ -447,9 +497,11 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 > The original compilation, structure, and curator-written summaries are available under CC BY 4.0. Linked third-party material retains its original terms.    
 > What would you change in the schema to make uncertain AI attribution easier to analyse? I’d particularly welcome source-backed corrections, missing cases, or feedback from anyone who has worked with incident datasets.
 
+<a id="post-26"></a>
+
 ### 26. So Many Tools. Where Do You Start?
 
-2026-10-24 · u/OkImprovement7010 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xemlhu/so_many_tools_where_do_you_start/)
+2026-10-24 · u/OkImprovement7010 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xemlhu/so_many_tools_where_do_you_start/) · [↑ back to the list](#last-50-posts)
 
 > "So many new tools, I don't know what I need to learn. And I mean, like Snowflake, Microsoft Fabric, Azure Databricks, Python Spark, AWS."
 >
@@ -481,9 +533,11 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 >
 > DM me if you want to join the free webinar
 
+<a id="post-27"></a>
+
 ### 27. Title: Exploring the technical feasibility of a personalized digital platform — where should I start?
 
-2026-10-24 · u/darzahra · QUESTION · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xeej72/title_exploring_the_technical_feasibility_of_a/)
+2026-10-24 · u/darzahra · QUESTION · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xeej72/title_exploring_the_technical_feasibility_of_a/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -513,9 +567,11 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 >
 > Thank you!
 
+<a id="post-28"></a>
+
 ### 28. Preserving data meaning and relationships during system migrations: how to test it?
 
-2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_and_relationships_during/)
+2026-10-24 · u/darzahra · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xee362/preserving_data_meaning_and_relationships_during/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I'm studying a business tool to preserve data continuity (not only the data, but also relationships, context and meaning) when companies change systems or formats.
 >
@@ -527,45 +583,57 @@ Link: <https://refer.micro1.ai/referral/jobs?referralCode=8917c385-0fa7-43e8-9fc
 >
 > I'm not asking for a free study, just for advice on how to verify the idea seriously first. Thanks!
 
+<a id="post-29"></a>
+
 ### 29. Database doubt
 
-2026-10-23 · u/Difficult_Brick5256 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xdb15m/database_doubt/)
+2026-10-23 · u/Difficult_Brick5256 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xdb15m/database_doubt/) · [↑ back to the list](#last-50-posts)
 
 > Guys, actually i have 80k company database like its name and lei , now my task is to find the revenue,product type and region, i used hermes agent which almost gave nothing to revenue, it doesnt search, and claude ,chatgpt most of them gave nothing as revvenue value,the only solution was to search each company one by one, gemini gave revenue but i think its actually false , i gave data to gemini by 100, is there any other way ?
 
+<a id="post-30"></a>
+
 ### 30. Apache Iceberg MERGE INTO Performance: Fixing Slow Upserts
 
-2026-10-23 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xdaaq2/apache_iceberg_merge_into_performance_fixing_slow/)
+2026-10-23 · u/codingdecently · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xdaaq2/apache_iceberg_merge_into_performance_fixing_slow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/iceberg-merge-into-performance>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. Data Governance/Data Engineering Building Test Cases
 
-2026-10-22 · u/Sweet_Ad4416 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xcr3te/data_governancedata_engineering_building_test/)
+2026-10-22 · u/Sweet_Ad4416 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xcr3te/data_governancedata_engineering_building_test/) · [↑ back to the list](#last-50-posts)
 
 > I recently started a new role as a Data Governance Manager at a mid size managed care organization. One of my first asks has been to create test templates for the new set of infrastructure tables. Essentially it’s to ensure all the tables that are now in production don’t have a glaring issue or whenever we make a change we go through the testing again. 
 >
 > My background is in data analytics and data management. I have very limited experience as a data engineer so aside from data quality tests I really don’t know what kind of tests should be run. I have used Claude to create a template of standard test cases but they seem either too convoluted or too simple like checking for nulls in non-nullable fields. Any resources or advice on how to ramp up or get a better understanding of this?
 
+<a id="post-32"></a>
+
 ### 32. CDMP exam
 
-2026-10-20 · u/ChanceIndependent434 · score 2 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xaw4d6/cdmp_exam/)
+2026-10-20 · u/ChanceIndependent434 · score 2 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1xaw4d6/cdmp_exam/) · [↑ back to the list](#last-50-posts)
 
 > Can someone guide if practicing practice exam from CDMP.brightspace alone is enough. Or what more I should do?
 
+<a id="post-33"></a>
+
 ### 33. TITANIC DATASET
 
-2026-10-19 · u/emmanueldanielc · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xab89o/titanic_dataset/)
+2026-10-19 · u/emmanueldanielc · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1xab89o/titanic_dataset/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/zmwijtxg3iwh1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-34"></a>
+
 ### 34. Help me collect real-world blurry photos for an AI research project
 
-2026-10-19 · u/_bigB_wolf · REQUEST · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/data/comments/1xa1re6/help_me_collect_realworld_blurry_photos_for_an_ai/)
+2026-10-19 · u/_bigB_wolf · REQUEST · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/data/comments/1xa1re6/help_me_collect_realworld_blurry_photos_for_an_ai/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! 👋
 >
@@ -594,9 +662,11 @@ Link: <https://i.redd.it/zmwijtxg3iwh1.jpeg>
 
 **Mod comment** (u/data-ModTeam): Your post has been removed because the moderators have identified it as spam or self-promotion. If you would like to advertise a product or service you have a vested interest in, contact the moderators in advance.
 
+<a id="post-35"></a>
+
 ### 35. api keys
 
-2026-10-18 · u/lukav1x · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x9biij/api_keys/)
+2026-10-18 · u/lukav1x · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x9biij/api_keys/) · [↑ back to the list](#last-50-posts)
 
 > Selecting Instagram Giveaway Winners  
 > I wanted to answer one question: how can I make selecting giveaway winners from Instagram comments more systematic and reproducible?  
@@ -616,9 +686,11 @@ Link: <https://i.redd.it/zmwijtxg3iwh1.jpeg>
 > The main takeaway is that collecting data is only part of the problem; completeness, eligibility rules, and reproducibility determine whether the result is trustworthy.  
 > What other analyses would be worth trying with public Instagram data?
 
+<a id="post-36"></a>
+
 ### 36. Looking for ImageCLEF 2021 DrawnUI Wireframe Dataset
 
-2026-10-18 · u/somewhereinb1ue · DATASET · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/data/comments/1x91sw5/looking_for_imageclef_2021_drawnui_wireframe/)
+2026-10-18 · u/somewhereinb1ue · DATASET · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/data/comments/1x91sw5/looking_for_imageclef_2021_drawnui_wireframe/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone!    
 > We are a group of female Computer Science students working on our graduation project.    
@@ -629,9 +701,11 @@ Link: <https://i.redd.it/zmwijtxg3iwh1.jpeg>
 > We need it for research purposes only.    
 > Thank you so much to anyone who can help us! ❤️
 
+<a id="post-37"></a>
+
 ### 37. Chrome UX Report Dumps: September 2026 dataset added
 
-2026-10-17 · u/neathack · DATASET · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x82zsm/chrome_ux_report_dumps_september_2026_dataset/)
+2026-10-17 · u/neathack · DATASET · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x82zsm/chrome_ux_report_dumps_september_2026_dataset/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/crissyfield/crux-dumps>
 
@@ -643,9 +717,11 @@ Link: <https://github.com/crissyfield/crux-dumps>
 >
 > Feedback and feature requests are welcome.
 
+<a id="post-38"></a>
+
 ### 38. \[OC\] Every FDA-classified US dog and cat food recall since 2012 (271 recalls, 1,265 products, lot codes, dates), CSV, CC BY 4.0
 
-2026-10-17 · u/greencalculus · DATASET · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x7y10w/oc_every_fdaclassified_us_dog_and_cat_food_recall/)
+2026-10-17 · u/greencalculus · DATASET · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x7y10w/oc_every_fdaclassified_us_dog_and_cat_food_recall/) · [↑ back to the list](#last-50-posts)
 
 > FDA publishes pet food recalls only through its Data Dashboard and Enforcement Report search. There's no bulk download for pet food, and openFDA's recall data barely covers it. So I built one.
 >
@@ -661,21 +737,27 @@ Link: <https://github.com/crissyfield/crux-dumps>
 >
 > Corrections welcome.
 
+<a id="post-39"></a>
+
 ### 39. What’s a dataset you found more interesting than you expected?
 
-2026-10-16 · u/Dismal-Demand-7957 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x7scn9/whats_a_dataset_you_found_more_interesting_than/)
+2026-10-16 · u/Dismal-Demand-7957 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x7scn9/whats_a_dataset_you_found_more_interesting_than/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. data engineering toolkit
 
-2026-10-15 · u/Murky-Sun9552 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x6c9tn/data_engineering_toolkit/)
+2026-10-15 · u/Murky-Sun9552 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x6c9tn/data_engineering_toolkit/) · [↑ back to the list](#last-50-posts)
 
 > so I have developed over that last month a data engineering toolkit, I took pain points and built apps that adressed them [https://www.loom.com/share/58f2b3c68dd74c8e8dacbe9c703698ea](https://www.loom.com/share/58f2b3c68dd74c8e8dacbe9c703698ea) this is just a loom that shows how it works. No self promotion, just asking if this is something that users would appreciate.
 
+<a id="post-41"></a>
+
 ### 41. Start here: how this works
 
-2026-10-14 · u/sanctusdatalabs · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x63818/start_here_how_this_works/)
+2026-10-14 · u/sanctusdatalabs · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x63818/start_here_how_this_works/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, welcome. Quick intro since this place is brand new.
 >
@@ -701,9 +783,11 @@ Link: <https://github.com/crissyfield/crux-dumps>
 >
 > Otherwise drop a question below. What's the one thing you'd want to know before selling your company's data?
 
+<a id="post-42"></a>
+
 ### 42. Collibra - does it haver payoff or is it an endless uphill battle?
 
-2026-10-14 · u/DependentEchidna3614 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x61es8/collibra_does_it_haver_payoff_or_is_it_an_endless/)
+2026-10-14 · u/DependentEchidna3614 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x61es8/collibra_does_it_haver_payoff_or_is_it_an_endless/) · [↑ back to the list](#last-50-posts)
 
 > We are implementing Collibra as part of the data governance initiative and honestly I’m struggling to see the end of the tunnel.
 >
@@ -716,29 +800,37 @@ Link: <https://github.com/crissyfield/crux-dumps>
 >
 > Let me know your honest opinions!
 
+<a id="post-43"></a>
+
 ### 43. How do you validate your analysis before presenting it to stakeholders??
 
-2026-10-14 · u/BugSquare4344 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x5zv7j/how_do_you_validate_your_analysis_before/)
+2026-10-14 · u/BugSquare4344 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x5zv7j/how_do_you_validate_your_analysis_before/) · [↑ back to the list](#last-50-posts)
 
 > After completing an analysis, what checks do you perform to ensure that your calculations, aggregations, and conclusions aree correct? Do you independently validate results using SQL, spreadsheets, or another tool?
 
+<a id="post-44"></a>
+
 ### 44. Scientists calculate how much information exists in the observable universe
 
-2026-10-10 · u/Brighter-Side-News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x2mnfc/scientists_calculate_how_much_information_exists/)
+2026-10-10 · u/Brighter-Side-News · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x2mnfc/scientists_calculate_how_much_information_exists/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://thebrighterside.news/post/scientists-calculate-how-much-information-exists-in-the-observable-universe>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-45"></a>
+
 ### 45. What could cause these apartment vibration readings? Looking for help interpreting paired iPhone measurements
 
-2026-10-10 · u/Greatness_Small23 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x2a6fj/what_could_cause_these_apartment_vibration/)
+2026-10-10 · u/Greatness_Small23 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/data/comments/1x2a6fj/what_could_cause_these_apartment_vibration/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-46"></a>
+
 ### 46. \[Request\] Nuclear power water consumption data set along with (and/or) a comparable dataset regarding data center water consumption
 
-2026-10-08 · u/misswinterrose · REQUEST · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x156mz/request_nuclear_power_water_consumption_data_set/)
+2026-10-08 · u/misswinterrose · REQUEST · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x156mz/request_nuclear_power_water_consumption_data_set/) · [↑ back to the list](#last-50-posts)
 
 > For my Data Sciences course, I need to extract and compare data from two datasets, and I figured a fairly timely topic would be water consumption of AI data centers vs nuclear power generation. However, I'm having some trouble finding comparable datasets. For example, one dataset I found for data centers doesn't measure water consumption itself but rather Water Use Efficiency (WUE) (which, if I find a dataset that measures electricity produced along with withdrawn and consumed water for nuclear power I could do the math myself to figure out the WUE, but I would really rather have the actual numbers behind the WUE). It doesn't help that this is my first time really searching for data sets so I don't know how to word my queries or what sites I should be focusing on. I'm finding quite a few scholarly articles, but not a lot of the actual datasets that they used.
 >
@@ -746,9 +838,11 @@ Link: <http://thebrighterside.news/post/scientists-calculate-how-much-informatio
 >
 > Any help would be appreciated! If you need more information or have any questions be sure to comment below and I'll be sure to get back to you. Thank you!
 
+<a id="post-47"></a>
+
 ### 47. AI literacy games to raise awareness
 
-2026-10-08 · u/Charlotte1309 · LEARNING · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x0tdug/ai_literacy_games_to_raise_awareness/)
+2026-10-08 · u/Charlotte1309 · LEARNING · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1x0tdug/ai_literacy_games_to_raise_awareness/) · [↑ back to the list](#last-50-posts)
 
 > Hey,
 >
@@ -760,16 +854,20 @@ Link: <http://thebrighterside.news/post/scientists-calculate-how-much-informatio
 >
 > I'm also thinking about other ways to raise awareness, like fun conferences, AI days, small workshops with characters to play. What have you seen working?
 
+<a id="post-48"></a>
+
 ### 48. AI tools and data analysis
 
-2026-10-07 · u/rsambasivan · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wztmm8/ai_tools_and_data_analysis/)
+2026-10-07 · u/rsambasivan · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wztmm8/ai_tools_and_data_analysis/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://r2dssanity.substack.com/p/ai-tools-and-data-analysis?r=3ncgel&utm_campaign=post-expanded-share&utm_medium=web>
 
 
+<a id="post-49"></a>
+
 ### 49. NFHS data-analysis practice: compare urban–rural gaps without losing missingness and sample flags
 
-2026-10-07 · u/Happy_Guarantee6705 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wzodju/nfhs_dataanalysis_practice_compare_urbanrural/)
+2026-10-07 · u/Happy_Guarantee6705 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wzodju/nfhs_dataanalysis_practice_compare_urbanrural/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure: I maintain the curated Kaggle version linked below (minkum07). The original NFHS-3/4 survey data belongs to India's Ministry of Health and Family Welfare and IIPS, via OGD India.
 >
@@ -794,9 +892,11 @@ Link: <https://r2dssanity.substack.com/p/ai-tools-and-data-analysis?r=3ncgel&utm
 >
 > Government data and derivatives retain GODL-India; authored code is MIT. Full attribution is on the dataset page. Feedback on the join checks or how best to display the sample flags would be welcome.
 
+<a id="post-50"></a>
+
 ### 50. Price of purchasing a database of 1000 businesses in US without website.
 
-2026-10-06 · u/Specialist_Room241 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wzb576/price_of_purchasing_a_database_of_1000_businesses/)
+2026-10-06 · u/Specialist_Room241 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/data/comments/1wzb576/price_of_purchasing_a_database_of_1000_businesses/) · [↑ back to the list](#last-50-posts)
 
 > Is it worth $20 for such a database to sell AI Websites
 

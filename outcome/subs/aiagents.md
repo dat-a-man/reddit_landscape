@@ -54,56 +54,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [My On-Call Agent Remembered the Rollback That Never Works](https://www.reddit.com/r/aiagents/comments/1xq0y5i/my_oncall_agent_remembered_the_rollback_that/) | u/RecognitionOrganic62 | — | dev.to | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 2 | 2026-11-07 | [I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)](https://www.reddit.com/r/aiagents/comments/1xq0ndw/i_built_a_machine_agent_that_remembers_faults_and/) | u/hope77729 | Demo | text | 1 | 1 | spam-filtered | — |
-| 3 | 2026-11-07 | [I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)](https://www.reddit.com/r/aiagents/comments/1xq0ca2/i_built_a_machine_agent_that_remembers_faults_and/) | u/hope77729 | Demo | medium.com | 1 | 1 | live | — |
-| 4 | 2026-11-07 | [My Analytics Agent Stopped Repeating Its Wrong Guesses With Hindsight](https://www.reddit.com/r/aiagents/comments/1xpzt2y/my_analytics_agent_stopped_repeating_its_wrong/) | u/Raj_vardhan28 | — | dev.to | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 5 | 2026-11-07 | [I Gave My SRE Agent Hindsight. Its Commands Got Safer.](https://www.reddit.com/r/aiagents/comments/1xpzsmf/i_gave_my_sre_agent_hindsight_its_commands_got/) | u/SuspiciousSand196 | — | dev.to | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 6 | 2026-11-07 | [Why Stateless AI Fails at SRE (And How Contextual Memory Fixes It)](https://www.reddit.com/r/aiagents/comments/1xpznzf/why_stateless_ai_fails_at_sre_and_how_contextual/) | u/Short-Program-5776 | — | dev.to | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 7 | 2026-11-07 | [**Title: Built NerveCenter – an SRE Memory Agent prototype for context-aware incident troubleshooting**](https://www.reddit.com/r/aiagents/comments/1xpzn4p/title_built_nervecenter_an_sre_memory_agent/) | u/RareMarzipan0507 | Demo | reddit.com | 1 | 1 | spam-filtered | — |
-| 8 | 2026-11-07 | [Crypto Exchange Guide (OKX Explained for Beginners 2026)](https://www.reddit.com/r/aiagents/comments/1xpy1c1/crypto_exchange_guide_okx_explained_for_beginners/) | u/Mother-Trash-374 | — | youtube.com | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-07 | [Why my incident response agent stores what failed, not just what worked](https://www.reddit.com/r/aiagents/comments/1xpudn2/why_my_incident_response_agent_stores_what_failed/) | u/noufal_rizwan | Show and Tell | text | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 10 | 2026-11-07 | [I run ~10 coding agents at once. The bottleneck turned out to be my attention, so I built a review queue (5 d…](https://www.reddit.com/r/aiagents/comments/1xpu5g7/i_run_10_coding_agents_at_once_the_bottleneck/) | u/Express_Translator23 | Show and Tell | text | 0 | 0 | spam-filtered | — |
-| 11 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](https://www.reddit.com/r/aiagents/comments/1xptnvl/same_agent_same_prompt_two_briefs_what_hindsight/) | u/Whole-Village-6194 | General | dev.to | 2 | 0 | approved | — |
-| 12 | 2026-11-07 | [What do you do when step 3 of an agent run fails after steps 1-2 already changed real data?](https://www.reddit.com/r/aiagents/comments/1xps65i/what_do_you_do_when_step_3_of_an_agent_run_fails/) | u/AgentReinAI | Show and Tell | i.redd.it | 3 | 6 | live | — |
-| 13 | 2026-11-06 | [How do you stop your agent's emails reading like an agent wrote them?](https://www.reddit.com/r/aiagents/comments/1xpqybu/how_do_you_stop_your_agents_emails_reading_like/) | u/paulofilip3 | Show and Tell | text | 1 | 5 | live | — |
-| 14 | 2026-11-06 | [I built an open-source sandbox for local AI coding agents using gVisor](https://www.reddit.com/r/aiagents/comments/1xpo0dy/i_built_an_opensource_sandbox_for_local_ai_coding/) | u/mrtumederanges | Demo | text | 1 | 4 | live | — |
-| 15 | 2026-11-06 | [FDEs bring AI companies closer to customers. But does the product actually learn from deployments?](https://www.reddit.com/r/aiagents/comments/1xpksxt/fdes_bring_ai_companies_closer_to_customers_but/) | u/hirokiyn | Discussion | text | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-06 | [I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked](https://www.reddit.com/r/aiagents/comments/1xpin3x/i_built_recalldesk_an_ai_customer_support_agent/) | u/lakshmisrivalli | Demo | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 17 | 2026-11-06 | [I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked](https://www.reddit.com/r/aiagents/comments/1xpig6e/i_built_recalldesk_an_ai_customer_support_agent/) | u/lakshmisrivalli | Demo | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 18 | 2026-11-06 | [Muse agent privacy vs other personal agents](https://www.reddit.com/r/aiagents/comments/1xpgp50/muse_agent_privacy_vs_other_personal_agents/) | u/Trevor-Walker540 | Discussion | text | 1 | 1 | held by automod | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 19 | 2026-11-06 | [When an agent chain fails at step 18, who owns it?](https://www.reddit.com/r/aiagents/comments/1xpgb3d/when_an_agent_chain_fails_at_step_18_who_owns_it/) | u/Dependent_Lumpy | Discussion | text | 0 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 20 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](https://www.reddit.com/r/aiagents/comments/1xpf6to/android_remote_control_mcp_v1130_is_out_free/) | u/daniele_dll | Open Source | text | 1 | 0 | live | — |
-| 21 | 2026-11-06 | [23 agents on my trading MCP server since Oct 1: 239 backtests, 40 pauses, 14 deploys, 2 orders, and 0 refusal…](https://www.reddit.com/r/aiagents/comments/1xpdt2z/23_agents_on_my_trading_mcp_server_since_oct_1/) | u/QuanTradin | — | i.redd.it | 1 | 0 | live | — |
-| 22 | 2026-11-06 | [How much does it cost to set up an average-level agent?](https://www.reddit.com/r/aiagents/comments/1xpbvvi/how_much_does_it_cost_to_set_up_an_averagelevel/) | u/Most_Control_4290 | — | text | 3 | 13 | live | — |
-| 23 | 2026-11-06 | [8 New AI Terms You Should Know to Be Ahead of 90% of People](https://www.reddit.com/r/aiagents/comments/1xpbgoo/8_new_ai_terms_you_should_know_to_be_ahead_of_90/) | u/Independent-Cost-971 | — | text | 1 | 0 | spam-filtered | — |
-| 24 | 2026-11-06 | [My working test for "assistant" vs "agent": who decides the next step?](https://www.reddit.com/r/aiagents/comments/1xpao56/my_working_test_for_assistant_vs_agent_who/) | u/Ayat_123 | Open Source | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-06 | [Product for importers](https://www.reddit.com/r/aiagents/comments/1xpag46/product_for_importers/) | u/masterprompt_007 | — | text | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 26 | 2026-11-06 | [How do you test support automation without real customer data?](https://www.reddit.com/r/aiagents/comments/1xp773i/how_do_you_test_support_automation_without_real/) | u/Pimenta_Atshico | — | text | 0 | 0 | spam-filtered | — |
-| 27 | 2026-11-06 | [How do you test support automation without real customer data?](https://www.reddit.com/r/aiagents/comments/1xp6tt1/how_do_you_test_support_automation_without_real/) | u/MegzzAsleep6969 | — | text | 1 | 0 | live | — |
-| 28 | 2026-11-06 | [Content mapping agent: useful or over engineering?](https://www.reddit.com/r/aiagents/comments/1xp6r81/content_mapping_agent_useful_or_over_engineering/) | u/Wooden_Town_5901 | Discussion | reddit.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 29 | 2026-11-06 | [Content mapping agent: useful or over-engineering?](https://www.reddit.com/r/aiagents/comments/1xp6o8j/content_mapping_agent_useful_or_overengineering/) | u/Wooden_Town_5901 | Questions | reddit.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 30 | 2026-11-06 | [How we structure AI agents for customer service using a 3-agent system architecture, MCP, and n8n (Read/Write…](https://www.reddit.com/r/aiagents/comments/1xp58o1/how_we_structure_ai_agents_for_customer_service/) | u/automizehub_ai | Research | text | 5 | 6 | live | — |
-| 31 | 2026-11-06 | [How to do data verification in multi-agent system with long pipeline?](https://www.reddit.com/r/aiagents/comments/1xp2zgn/how_to_do_data_verification_in_multiagent_system/) | u/Klutzy_Cold8992 | — | text | 0 | 0 | spam-filtered | — |
-| 32 | 2026-11-06 | [What happens to the internet when everyone has an AI agent?](https://www.reddit.com/r/aiagents/comments/1xp229c/what_happens_to_the_internet_when_everyone_has_an/) | u/Pila_Coniaada | Discussion | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-11-05 | [Anyone have a sones ai code?](https://www.reddit.com/r/aiagents/comments/1xovv97/anyone_have_a_sones_ai_code/) | u/RespondOk9407 | Questions | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 34 | 2026-11-05 | [Composio](https://www.reddit.com/r/aiagents/comments/1xoveiq/composio/) | u/No-Masterpiece2303 | — | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 35 | 2026-11-05 | [Just launched my first course on Claude Code for beginners. Would love some honest feedback (free until Nov 1…](https://www.reddit.com/r/aiagents/comments/1xor9bw/just_launched_my_first_course_on_claude_code_for/) | u/Crafty_Sort_5946 | Tutorial | text | 2 | 1 | live | — |
-| 36 | 2026-11-05 | [My coding agents kept walking back into ideas we'd already rejected. What I learned trying to fix that](https://www.reddit.com/r/aiagents/comments/1xor70r/my_coding_agents_kept_walking_back_into_ideas_wed/) | u/erensertkaya | Discussion | text | 7 | 11 | live | — |
-| 37 | 2026-11-05 | [Best AI logo generators of 2026](https://www.reddit.com/r/aiagents/comments/1xopm7n/best_ai_logo_generators_of_2026/) | u/Mother-Trash-374 | — | youtube.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 38 | 2026-11-05 | [Created an open source AI engine that fits more agents per GPU and never compacts among many other goodies](https://www.reddit.com/r/aiagents/comments/1xonrtp/created_an_open_source_ai_engine_that_fits_more/) | u/Little_Judgment2621 | Show and Tell | text | 6 | 11 | live | — |
-| 39 | 2026-11-05 | [Created an open source AI engine that fits more agents per GPU and never compacts](https://www.reddit.com/r/aiagents/comments/1xongru/created_an_open_source_ai_engine_that_fits_more/) | u/FarsideResearch | Show and Tell | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 40 | 2026-11-05 | [How I Designed TradeMind's Six-Stage Hindsight Learning Loop](https://www.reddit.com/r/aiagents/comments/1xoksav/how_i_designed_trademinds_sixstage_hindsight/) | u/naraenks | Tutorial | dev.to | 1 | 0 | approved | — |
-| 41 | 2026-11-05 | [AI Customer Support Systems: What the Evidence Says in 2026](https://www.reddit.com/r/aiagents/comments/1xog0ul/ai_customer_support_systems_what_the_evidence/) | u/adithya_tech_7709 | Case Study | text | 1 | 0 | spam-filtered | — |
-| 42 | 2026-11-05 | [Do AI providers lock us into their own coding tools?](https://www.reddit.com/r/aiagents/comments/1xof91v/do_ai_providers_lock_us_into_their_own_coding/) | u/sambalter | Questions | text | 5 | 15 | live | — |
-| 43 | 2026-11-05 | [Mainframe](https://www.reddit.com/r/aiagents/comments/1xoe75a/mainframe/) | u/Otherwise-Tap-7451 | General | i.redd.it | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 44 | 2026-11-05 | [ToolBoundary – Runtime security and policy enforcement for AI agents](https://www.reddit.com/r/aiagents/comments/1xod5ba/toolboundary_runtime_security_and_policy/) | u/Present_Education_98 | Security | text | 0 | 0 | spam-filtered | — |
-| 45 | 2026-11-05 | [Built a research agent that shows its confidence score + sources instead of just sounding sure](https://www.reddit.com/r/aiagents/comments/1xocxev/built_a_research_agent_that_shows_its_confidence/) | u/Bubbly-Tradition-735 | Open Source | i.redd.it | 6 | 4 | live | — |
-| 46 | 2026-11-05 | [Who keeps the AI knowledge base up to date?](https://www.reddit.com/r/aiagents/comments/1xob8cq/who_keeps_the_ai_knowledge_base_up_to_date/) | u/mastiiihgyiii | — | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 47 | 2026-11-05 | [Which AI gateway software are you running once your agents can read customer data?](https://www.reddit.com/r/aiagents/comments/1xo79as/which_ai_gateway_software_are_you_running_once/) | u/theJacofalltrades | Questions | text | 6 | 5 | live | — |
-| 48 | 2026-11-05 | [My friend vibe-coded a Reddit for AI agents](https://www.reddit.com/r/aiagents/comments/1xo42fa/my_friend_vibecoded_a_reddit_for_ai_agents/) | u/IceteaST | Show and Tell | text | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
-| 49 | 2026-11-04 | [AI for lead qualification](https://www.reddit.com/r/aiagents/comments/1xo3x6f/ai_for_lead_qualification/) | u/Money-Ad5432 | Questions | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
-| 50 | 2026-11-04 | [\[Linux only\] Looking for testers for agent orchestration tool. https://github.com/arthurwolf/ilium](https://www.reddit.com/r/aiagents/comments/1xo3nea/linux_only_looking_for_testers_for_agent/) | u/MajorAd2628 | Show and Tell | text | 2 | 0 | live | — |
+| 1 | 2026-11-07 | [My On-Call Agent Remembered the Rollback That Never Works](#post-1) | u/RecognitionOrganic62 | — | dev.to | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 2 | 2026-11-07 | [I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)](#post-2) | u/hope77729 | Demo | text | 1 | 1 | spam-filtered | — |
+| 3 | 2026-11-07 | [I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)](#post-3) | u/hope77729 | Demo | medium.com | 1 | 1 | live | — |
+| 4 | 2026-11-07 | [My Analytics Agent Stopped Repeating Its Wrong Guesses With Hindsight](#post-4) | u/Raj_vardhan28 | — | dev.to | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 5 | 2026-11-07 | [I Gave My SRE Agent Hindsight. Its Commands Got Safer.](#post-5) | u/SuspiciousSand196 | — | dev.to | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 6 | 2026-11-07 | [Why Stateless AI Fails at SRE (And How Contextual Memory Fixes It)](#post-6) | u/Short-Program-5776 | — | dev.to | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 7 | 2026-11-07 | [**Title: Built NerveCenter – an SRE Memory Agent prototype for context-aware incident troubleshooting**](#post-7) | u/RareMarzipan0507 | Demo | reddit.com | 1 | 1 | spam-filtered | — |
+| 8 | 2026-11-07 | [Crypto Exchange Guide (OKX Explained for Beginners 2026)](#post-8) | u/Mother-Trash-374 | — | youtube.com | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-07 | [Why my incident response agent stores what failed, not just what worked](#post-9) | u/noufal_rizwan | Show and Tell | text | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 10 | 2026-11-07 | [I run ~10 coding agents at once. The bottleneck turned out to be my attention, so I built a review queue (5 d…](#post-10) | u/Express_Translator23 | Show and Tell | text | 0 | 0 | spam-filtered | — |
+| 11 | 2026-11-07 | [Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed](#post-11) | u/Whole-Village-6194 | General | dev.to | 2 | 0 | approved | — |
+| 12 | 2026-11-07 | [What do you do when step 3 of an agent run fails after steps 1-2 already changed real data?](#post-12) | u/AgentReinAI | Show and Tell | i.redd.it | 3 | 6 | live | — |
+| 13 | 2026-11-06 | [How do you stop your agent's emails reading like an agent wrote them?](#post-13) | u/paulofilip3 | Show and Tell | text | 1 | 5 | live | — |
+| 14 | 2026-11-06 | [I built an open-source sandbox for local AI coding agents using gVisor](#post-14) | u/mrtumederanges | Demo | text | 1 | 4 | live | — |
+| 15 | 2026-11-06 | [FDEs bring AI companies closer to customers. But does the product actually learn from deployments?](#post-15) | u/hirokiyn | Discussion | text | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-06 | [I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked](#post-16) | u/lakshmisrivalli | Demo | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 17 | 2026-11-06 | [I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked](#post-17) | u/lakshmisrivalli | Demo | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 18 | 2026-11-06 | [Muse agent privacy vs other personal agents](#post-18) | u/Trevor-Walker540 | Discussion | text | 1 | 1 | held by automod | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 19 | 2026-11-06 | [When an agent chain fails at step 18, who owns it?](#post-19) | u/Dependent_Lumpy | Discussion | text | 0 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 20 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](#post-20) | u/daniele_dll | Open Source | text | 1 | 0 | live | — |
+| 21 | 2026-11-06 | [23 agents on my trading MCP server since Oct 1: 239 backtests, 40 pauses, 14 deploys, 2 orders, and 0 refusal…](#post-21) | u/QuanTradin | — | i.redd.it | 1 | 0 | live | — |
+| 22 | 2026-11-06 | [How much does it cost to set up an average-level agent?](#post-22) | u/Most_Control_4290 | — | text | 3 | 13 | live | — |
+| 23 | 2026-11-06 | [8 New AI Terms You Should Know to Be Ahead of 90% of People](#post-23) | u/Independent-Cost-971 | — | text | 1 | 0 | spam-filtered | — |
+| 24 | 2026-11-06 | [My working test for "assistant" vs "agent": who decides the next step?](#post-24) | u/Ayat_123 | Open Source | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-06 | [Product for importers](#post-25) | u/masterprompt_007 | — | text | 0 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 26 | 2026-11-06 | [How do you test support automation without real customer data?](#post-26) | u/Pimenta_Atshico | — | text | 0 | 0 | spam-filtered | — |
+| 27 | 2026-11-06 | [How do you test support automation without real customer data?](#post-27) | u/MegzzAsleep6969 | — | text | 1 | 0 | live | — |
+| 28 | 2026-11-06 | [Content mapping agent: useful or over engineering?](#post-28) | u/Wooden_Town_5901 | Discussion | reddit.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 29 | 2026-11-06 | [Content mapping agent: useful or over-engineering?](#post-29) | u/Wooden_Town_5901 | Questions | reddit.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 30 | 2026-11-06 | [How we structure AI agents for customer service using a 3-agent system architecture, MCP, and n8n (Read/Write…](#post-30) | u/automizehub_ai | Research | text | 5 | 6 | live | — |
+| 31 | 2026-11-06 | [How to do data verification in multi-agent system with long pipeline?](#post-31) | u/Klutzy_Cold8992 | — | text | 0 | 0 | spam-filtered | — |
+| 32 | 2026-11-06 | [What happens to the internet when everyone has an AI agent?](#post-32) | u/Pila_Coniaada | Discussion | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-11-05 | [Anyone have a sones ai code?](#post-33) | u/RespondOk9407 | Questions | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 34 | 2026-11-05 | [Composio](#post-34) | u/No-Masterpiece2303 | — | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 35 | 2026-11-05 | [Just launched my first course on Claude Code for beginners. Would love some honest feedback (free until Nov 1…](#post-35) | u/Crafty_Sort_5946 | Tutorial | text | 2 | 1 | live | — |
+| 36 | 2026-11-05 | [My coding agents kept walking back into ideas we'd already rejected. What I learned trying to fix that](#post-36) | u/erensertkaya | Discussion | text | 7 | 11 | live | — |
+| 37 | 2026-11-05 | [Best AI logo generators of 2026](#post-37) | u/Mother-Trash-374 | — | youtube.com | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 38 | 2026-11-05 | [Created an open source AI engine that fits more agents per GPU and never compacts among many other goodies](#post-38) | u/Little_Judgment2621 | Show and Tell | text | 6 | 11 | live | — |
+| 39 | 2026-11-05 | [Created an open source AI engine that fits more agents per GPU and never compacts](#post-39) | u/FarsideResearch | Show and Tell | text | 1 | 2 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 40 | 2026-11-05 | [How I Designed TradeMind's Six-Stage Hindsight Learning Loop](#post-40) | u/naraenks | Tutorial | dev.to | 1 | 0 | approved | — |
+| 41 | 2026-11-05 | [AI Customer Support Systems: What the Evidence Says in 2026](#post-41) | u/adithya_tech_7709 | Case Study | text | 1 | 0 | spam-filtered | — |
+| 42 | 2026-11-05 | [Do AI providers lock us into their own coding tools?](#post-42) | u/sambalter | Questions | text | 5 | 15 | live | — |
+| 43 | 2026-11-05 | [Mainframe](#post-43) | u/Otherwise-Tap-7451 | General | i.redd.it | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 44 | 2026-11-05 | [ToolBoundary – Runtime security and policy enforcement for AI agents](#post-44) | u/Present_Education_98 | Security | text | 0 | 0 | spam-filtered | — |
+| 45 | 2026-11-05 | [Built a research agent that shows its confidence score + sources instead of just sounding sure](#post-45) | u/Bubbly-Tradition-735 | Open Source | i.redd.it | 6 | 4 | live | — |
+| 46 | 2026-11-05 | [Who keeps the AI knowledge base up to date?](#post-46) | u/mastiiihgyiii | — | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 47 | 2026-11-05 | [Which AI gateway software are you running once your agents can read customer data?](#post-47) | u/theJacofalltrades | Questions | text | 6 | 5 | live | — |
+| 48 | 2026-11-05 | [My friend vibe-coded a Reddit for AI agents](#post-48) | u/IceteaST | Show and Tell | text | 1 | 1 | spam-filtered | Your post has been held for review because your account is less than 7 days old. This is an anti-sp… |
+| 49 | 2026-11-04 | [AI for lead qualification](#post-49) | u/Money-Ad5432 | Questions | text | 1 | 1 | removed by mod | Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context i… |
+| 50 | 2026-11-04 | [\[Linux only\] Looking for testers for agent orchestration tool. https://github.com/arthurwolf/ilium](#post-50) | u/MajorAd2628 | Show and Tell | text | 2 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -111,34 +111,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-27 | [Ever wondered how the whole 8 Worlds (each having 4 levels) of Mario fit under 20 kilo bytes?](https://www.reddit.com/r/aiagents/comments/1xh23f0/ever_wondered_how_the_whole_8_worlds_each_having/) | u/alpharomeo777 | Research | v.redd.it | 446 | 37 | live |
-| 52 | 2026-10-18 | [I let 5 AI agents run on their own every day since Nov 2024. Here is what they make and what broke](https://www.reddit.com/r/aiagents/comments/1x9ce2h/i_let_5_ai_agents_run_on_their_own_every_day/) | u/ab0zar | Open Source | text | 79 | 63 | live |
-| 53 | 2026-10-15 | [I built a USB desk display that shows what all my AI coding agents are doing (open source)](https://www.reddit.com/r/aiagents/comments/1x6vxrm/i_built_a_usb_desk_display_that_shows_what_all_my/) | u/tonylook | Open Source | i.redd.it | 54 | 17 | live |
-| 54 | 2026-10-19 | [How do I become an Agentic AI Engineer (not a general AI Engineer)? Looking for a real roadmap from experienc…](https://www.reddit.com/r/aiagents/comments/1x9rciw/how_do_i_become_an_agentic_ai_engineer_not_a/) | u/m3doni | — | text | 41 | 45 | live |
-| 55 | 2026-10-12 | [Are AI voice agents getting good enough for real customer calls?](https://www.reddit.com/r/aiagents/comments/1x4fggf/are_ai_voice_agents_getting_good_enough_for_real/) | u/jealous_depression | Questions | text | 33 | 27 | live |
-| 56 | 2026-10-22 | [Has anyone tried Cresta AI for Improving team performance?](https://www.reddit.com/r/aiagents/comments/1xcvhy6/has_anyone_tried_cresta_ai_for_improving_team/) | u/Tiny_Set5048 | Discussion | text | 32 | 16 | live |
-| 57 | 2026-10-13 | [Claude's new "MODS" feature is epic](https://www.reddit.com/r/aiagents/comments/1x52lt4/claudes_new_mods_feature_is_epic/) | u/Motor_System_6171 | — | i.redd.it | 31 | 3 | live |
-| 58 | 2026-10-22 | [Running many Claude Code agents without babysitting](https://www.reddit.com/r/aiagents/comments/1xc8c56/running_many_claude_code_agents_without/) | u/Epifeny | General | text | 30 | 24 | live |
-| 59 | 2026-10-26 | [I gave two Claude agents €100 and 90 days to earn €300. Day 90: 0 orders. On day 30 they'd told me it wasn't…](https://www.reddit.com/r/aiagents/comments/1xg3wuq/i_gave_two_claude_agents_100_and_90_days_to_earn/) | u/BluebirdWise4663 | Case Study | text | 27 | 37 | live |
-| 60 | 2026-11-03 | [Has anyone found a way to catch support issues before they turn into bigger problems?](https://www.reddit.com/r/aiagents/comments/1xn6efk/has_anyone_found_a_way_to_catch_support_issues/) | u/TautLordship5243 | Questions | text | 26 | 17 | live |
-| 61 | 2026-10-25 | [Is it crazy if I want to make ai agents in a sandbox setup gods](https://www.reddit.com/r/aiagents/comments/1xfgu5w/is_it_crazy_if_i_want_to_make_ai_agents_in_a/) | u/Hunting-piece-172 | Questions | text | 24 | 36 | live |
-| 62 | 2026-10-17 | [Claude just got real video intelligence (and it’s shockingly cheap)](https://www.reddit.com/r/aiagents/comments/1x88ere/claude_just_got_real_video_intelligence_and_its/) | u/Annual-Category8369 | Open Source | v.redd.it | 24 | 6 | live |
-| 63 | 2026-10-15 | [we had to refund $600 to a customer even tho we didnt do anything wrong](https://www.reddit.com/r/aiagents/comments/1x6wo1i/we_had_to_refund_600_to_a_customer_even_tho_we/) | u/Scared_Sentence_2834 | General | text | 21 | 23 | live |
-| 64 | 2026-10-21 | [We benchmarked how 60 engineers direct AI coding agents. Here is what separated the strong ones](https://www.reddit.com/r/aiagents/comments/1xbab9f/we_benchmarked_how_60_engineers_direct_ai_coding/) | u/AdEvening3382 | — | text | 21 | 17 | live |
-| 65 | 2026-10-15 | [Is anyone else noticing that people building AI agents are forgetting basic software engineering?](https://www.reddit.com/r/aiagents/comments/1x6jzc5/is_anyone_else_noticing_that_people_building_ai/) | u/Dangerous_Bus4157 | Discussion | text | 17 | 43 | live |
-| 66 | 2026-10-17 | [What you guys actually using to orchestrate AI agents for long-running software projects?](https://www.reddit.com/r/aiagents/comments/1x8he64/what_you_guys_actually_using_to_orchestrate_ai/) | u/yesitsmehg | Questions | text | 16 | 29 | live |
-| 67 | 2026-10-16 | [I found out about our shadow AI agents in a meeting, not from any inventory, and one of them is reading custo…](https://www.reddit.com/r/aiagents/comments/1x7docy/i_found_out_about_our_shadow_ai_agents_in_a/) | u/WolfShoddy7443 | — | text | 16 | 22 | live |
-| 68 | 2026-11-03 | [How did you get better at building agentic systems? What helped most?](https://www.reddit.com/r/aiagents/comments/1xmzesj/how_did_you_get_better_at_building_agentic/) | u/amisra31 | Questions | text | 16 | 13 | live |
-| 69 | 2026-10-23 | [Are we giving AI agents too much context that they never actually use?](https://www.reddit.com/r/aiagents/comments/1xddzi7/are_we_giving_ai_agents_too_much_context_that/) | u/codes_astro | Discussion | text | 15 | 18 | live |
-| 70 | 2026-10-23 | [when should an assistant suggest an action before you ask](https://www.reddit.com/r/aiagents/comments/1xdigq6/when_should_an_assistant_suggest_an_action_before/) | u/Ok-Conversation3213 | Help | text | 15 | 12 | live |
+| 51 | 2026-10-27 | [Ever wondered how the whole 8 Worlds (each having 4 levels) of Mario fit under 20 kilo bytes?](#post-51) | u/alpharomeo777 | Research | v.redd.it | 446 | 37 | live |
+| 52 | 2026-10-18 | [I let 5 AI agents run on their own every day since Nov 2024. Here is what they make and what broke](#post-52) | u/ab0zar | Open Source | text | 79 | 63 | live |
+| 53 | 2026-10-15 | [I built a USB desk display that shows what all my AI coding agents are doing (open source)](#post-53) | u/tonylook | Open Source | i.redd.it | 54 | 17 | live |
+| 54 | 2026-10-19 | [How do I become an Agentic AI Engineer (not a general AI Engineer)? Looking for a real roadmap from experienc…](#post-54) | u/m3doni | — | text | 41 | 45 | live |
+| 55 | 2026-10-12 | [Are AI voice agents getting good enough for real customer calls?](#post-55) | u/jealous_depression | Questions | text | 33 | 27 | live |
+| 56 | 2026-10-22 | [Has anyone tried Cresta AI for Improving team performance?](#post-56) | u/Tiny_Set5048 | Discussion | text | 32 | 16 | live |
+| 57 | 2026-10-13 | [Claude's new "MODS" feature is epic](#post-57) | u/Motor_System_6171 | — | i.redd.it | 31 | 3 | live |
+| 58 | 2026-10-22 | [Running many Claude Code agents without babysitting](#post-58) | u/Epifeny | General | text | 30 | 24 | live |
+| 59 | 2026-10-26 | [I gave two Claude agents €100 and 90 days to earn €300. Day 90: 0 orders. On day 30 they'd told me it wasn't…](#post-59) | u/BluebirdWise4663 | Case Study | text | 27 | 37 | live |
+| 60 | 2026-11-03 | [Has anyone found a way to catch support issues before they turn into bigger problems?](#post-60) | u/TautLordship5243 | Questions | text | 26 | 17 | live |
+| 61 | 2026-10-25 | [Is it crazy if I want to make ai agents in a sandbox setup gods](#post-61) | u/Hunting-piece-172 | Questions | text | 24 | 36 | live |
+| 62 | 2026-10-17 | [Claude just got real video intelligence (and it’s shockingly cheap)](#post-62) | u/Annual-Category8369 | Open Source | v.redd.it | 24 | 6 | live |
+| 63 | 2026-10-15 | [we had to refund $600 to a customer even tho we didnt do anything wrong](#post-63) | u/Scared_Sentence_2834 | General | text | 21 | 23 | live |
+| 64 | 2026-10-21 | [We benchmarked how 60 engineers direct AI coding agents. Here is what separated the strong ones](#post-64) | u/AdEvening3382 | — | text | 21 | 17 | live |
+| 65 | 2026-10-15 | [Is anyone else noticing that people building AI agents are forgetting basic software engineering?](#post-65) | u/Dangerous_Bus4157 | Discussion | text | 17 | 43 | live |
+| 66 | 2026-10-17 | [What you guys actually using to orchestrate AI agents for long-running software projects?](#post-66) | u/yesitsmehg | Questions | text | 16 | 29 | live |
+| 67 | 2026-10-16 | [I found out about our shadow AI agents in a meeting, not from any inventory, and one of them is reading custo…](#post-67) | u/WolfShoddy7443 | — | text | 16 | 22 | live |
+| 68 | 2026-11-03 | [How did you get better at building agentic systems? What helped most?](#post-68) | u/amisra31 | Questions | text | 16 | 13 | live |
+| 69 | 2026-10-23 | [Are we giving AI agents too much context that they never actually use?](#post-69) | u/codes_astro | Discussion | text | 15 | 18 | live |
+| 70 | 2026-10-23 | [when should an assistant suggest an action before you ask](#post-70) | u/Ok-Conversation3213 | Help | text | 15 | 12 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. My On-Call Agent Remembered the Rollback That Never Works
 
-2026-11-07 · u/RecognitionOrganic62 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0y5i/my_oncall_agent_remembered_the_rollback_that/)
+2026-11-07 · u/RecognitionOrganic62 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0y5i/my_oncall_agent_remembered_the_rollback_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/nikitha_thammaiah_0668e91/my-on-call-agent-remembered-the-rollback-that-never-works-458c>
 
@@ -146,22 +148,28 @@ Link: <https://dev.to/nikitha_thammaiah_0668e91/my-on-call-agent-remembered-the-
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-2"></a>
+
 ### 2. I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)
 
-2026-11-07 · u/hope77729 · Demo · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0ndw/i_built_a_machine_agent_that_remembers_faults_and/)
+2026-11-07 · u/hope77729 · Demo · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0ndw/i_built_a_machine_agent_that_remembers_faults_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. I built a machine agent that remembers faults and checks if its fix actually worked (Hindsight)
 
-2026-11-07 · u/hope77729 · Demo · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0ca2/i_built_a_machine_agent_that_remembers_faults_and/)
+2026-11-07 · u/hope77729 · Demo · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xq0ca2/i_built_a_machine_agent_that_remembers_faults_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@yashwan7896/an-agent-that-remembers-machine-faults-recalls-what-fixed-them-and-checks-whether-the-repair-aceff83c4bf7?sharedUserId=yashwan7896>
 
 
+<a id="post-4"></a>
+
 ### 4. My Analytics Agent Stopped Repeating Its Wrong Guesses With Hindsight
 
-2026-11-07 · u/Raj_vardhan28 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzt2y/my_analytics_agent_stopped_repeating_its_wrong/)
+2026-11-07 · u/Raj_vardhan28 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzt2y/my_analytics_agent_stopped_repeating_its_wrong/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/viraj_gubbewad_a01f4197e0/my-analytics-agent-stopped-repeating-its-wrong-guesses-with-hindsight-4ho3>
 
@@ -169,9 +177,11 @@ Link: <https://dev.to/viraj_gubbewad_a01f4197e0/my-analytics-agent-stopped-repea
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-5"></a>
+
 ### 5. I Gave My SRE Agent Hindsight. Its Commands Got Safer.
 
-2026-11-07 · u/SuspiciousSand196 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzsmf/i_gave_my_sre_agent_hindsight_its_commands_got/)
+2026-11-07 · u/SuspiciousSand196 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzsmf/i_gave_my_sre_agent_hindsight_its_commands_got/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/manya_agarwal_4b2212d02ea/i-gave-my-sre-agent-hindsight-its-commands-got-safer-3b34>
 
@@ -179,9 +189,11 @@ Link: <https://dev.to/manya_agarwal_4b2212d02ea/i-gave-my-sre-agent-hindsight-it
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-6"></a>
+
 ### 6. Why Stateless AI Fails at SRE (And How Contextual Memory Fixes It)
 
-2026-11-07 · u/Short-Program-5776 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpznzf/why_stateless_ai_fails_at_sre_and_how_contextual/)
+2026-11-07 · u/Short-Program-5776 · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpznzf/why_stateless_ai_fails_at_sre_and_how_contextual/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/kethan_reddy_f10125b9a9b5/why-stateless-ai-fails-at-sre-and-how-contextual-memory-fixes-it-29hc>
 
@@ -189,47 +201,59 @@ Link: <https://dev.to/kethan_reddy_f10125b9a9b5/why-stateless-ai-fails-at-sre-an
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-7"></a>
+
 ### 7. **Title: Built NerveCenter – an SRE Memory Agent prototype for context-aware incident troubleshooting**
 
-2026-11-07 · u/RareMarzipan0507 · Demo · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzn4p/title_built_nervecenter_an_sre_memory_agent/)
+2026-11-07 · u/RareMarzipan0507 · Demo · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpzn4p/title_built_nervecenter_an_sre_memory_agent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpzn4p>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-8"></a>
+
 ### 8. Crypto Exchange Guide (OKX Explained for Beginners 2026)
 
-2026-11-07 · u/Mother-Trash-374 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpy1c1/crypto_exchange_guide_okx_explained_for_beginners/)
+2026-11-07 · u/Mother-Trash-374 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpy1c1/crypto_exchange_guide_okx_explained_for_beginners/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=SsFlZX4eoFY&si=Whkm6kHoLh7ncCDn>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. Why my incident response agent stores what failed, not just what worked
 
-2026-11-07 · u/noufal_rizwan · Show and Tell · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpudn2/why_my_incident_response_agent_stores_what_failed/)
+2026-11-07 · u/noufal_rizwan · Show and Tell · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpudn2/why_my_incident_response_agent_stores_what_failed/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-10"></a>
+
 ### 10. I run ~10 coding agents at once. The bottleneck turned out to be my attention, so I built a review queue (5 days of logs)
 
-2026-11-07 · u/Express_Translator23 · Show and Tell · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpu5g7/i_run_10_coding_agents_at_once_the_bottleneck/)
+2026-11-07 · u/Express_Translator23 · Show and Tell · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpu5g7/i_run_10_coding_agents_at_once_the_bottleneck/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Same Agent, Same Prompt, Two Briefs: What Hindsight Memory Changed
 
-2026-11-07 · u/Whole-Village-6194 · General · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xptnvl/same_agent_same_prompt_two_briefs_what_hindsight/)
+2026-11-07 · u/Whole-Village-6194 · General · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xptnvl/same_agent_same_prompt_two_briefs_what_hindsight/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/ranjith28100/same-agent-same-prompt-two-briefs-what-hindsight-memory-changed-5fga>
 
 > *Author here. The most useful thing I learned: my agent's memory was fine, but one prompt rule ("open near the best discount you've seen") made every ask smaller than the last, so a winning tactic kept looking like a failure. Happy to answer questions about the setup: Hindsight for memory, outcomes stored as metadata and counted in code, citations on every claim.*
 
+<a id="post-12"></a>
+
 ### 12. What do you do when step 3 of an agent run fails after steps 1-2 already changed real data?
 
-2026-11-07 · u/AgentReinAI · Show and Tell · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xps65i/what_do_you_do_when_step_3_of_an_agent_run_fails/)
+2026-11-07 · u/AgentReinAI · Show and Tell · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xps65i/what_do_you_do_when_step_3_of_an_agent_run_fails/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/qfr9ep6fz20i1.png>
 
@@ -249,9 +273,11 @@ Link: <https://i.redd.it/qfr9ep6fz20i1.png>
 >
 > I'm looking for 5 developers with an agent that touches one of these tools. I'll give you Pro access for free (live undo needs it) and I'd like to watch where you get stuck. Comment or DM me if interested.
 
+<a id="post-13"></a>
+
 ### 13. How do you stop your agent's emails reading like an agent wrote them?
 
-2026-11-06 · u/paulofilip3 · Show and Tell · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpqybu/how_do_you_stop_your_agents_emails_reading_like/)
+2026-11-06 · u/paulofilip3 · Show and Tell · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpqybu/how_do_you_stop_your_agents_emails_reading_like/) · [↑ back to the list](#last-50-posts)
 
 > Genuine question first, then what I did to it.
 >
@@ -275,9 +301,11 @@ Link: <https://i.redd.it/qfr9ep6fz20i1.png>
 >
 > There's a free plan with 3,000 words a month. I'd really like to hear other approaches though, tool or no tool. Link in the comments.
 
+<a id="post-14"></a>
+
 ### 14. I built an open-source sandbox for local AI coding agents using gVisor
 
-2026-11-06 · u/mrtumederanges · Demo · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpo0dy/i_built_an_opensource_sandbox_for_local_ai_coding/)
+2026-11-06 · u/mrtumederanges · Demo · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpo0dy/i_built_an_opensource_sandbox_for_local_ai_coding/) · [↑ back to the list](#last-50-posts)
 
 > When a local AI coding agent writes and executes code, that code can run with the same permissions as the agent itself.
 >
@@ -329,47 +357,59 @@ Link: <https://i.redd.it/qfr9ep6fz20i1.png>
 >
 > **PyPI:** `pip install agvisor`
 
+<a id="post-15"></a>
+
 ### 15. FDEs bring AI companies closer to customers. But does the product actually learn from deployments?
 
-2026-11-06 · u/hirokiyn · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpksxt/fdes_bring_ai_companies_closer_to_customers_but/)
+2026-11-06 · u/hirokiyn · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpksxt/fdes_bring_ai_companies_closer_to_customers_but/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-16"></a>
 
 ### 16. I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked
 
-2026-11-06 · u/lakshmisrivalli · Demo · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpin3x/i_built_recalldesk_an_ai_customer_support_agent/)
+2026-11-06 · u/lakshmisrivalli · Demo · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpin3x/i_built_recalldesk_an_ai_customer_support_agent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
+
+<a id="post-17"></a>
 
 ### 17. I Built RecallDesk — An AI Customer Support Agent That Remembers What Actually Worked
 
-2026-11-06 · u/lakshmisrivalli · Demo · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpig6e/i_built_recalldesk_an_ai_customer_support_agent/)
+2026-11-06 · u/lakshmisrivalli · Demo · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpig6e/i_built_recalldesk_an_ai_customer_support_agent/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
+
+<a id="post-18"></a>
 
 ### 18. Muse agent privacy vs other personal agents
 
-2026-11-06 · u/Trevor-Walker540 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpgp50/muse_agent_privacy_vs_other_personal_agents/)
+2026-11-06 · u/Trevor-Walker540 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpgp50/muse_agent_privacy_vs_other_personal_agents/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-19"></a>
+
 ### 19. When an agent chain fails at step 18, who owns it?
 
-2026-11-06 · u/Dependent_Lumpy · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpgb3d/when_an_agent_chain_fails_at_step_18_who_owns_it/)
+2026-11-06 · u/Dependent_Lumpy · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpgb3d/when_an_agent_chain_fails_at_step_18_who_owns_it/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-20"></a>
+
 ### 20. Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed
 
-2026-11-06 · u/daniele_dll · Open Source · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpf6to/android_remote_control_mcp_v1130_is_out_free/)
+2026-11-06 · u/daniele_dll · Open Source · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpf6to/android_remote_control_mcp_v1130_is_out_free/) · [↑ back to the list](#last-50-posts)
 
 > 🚀 It has been a while since the last release, but Android Remote Control MCP is back and v1.13.0 is now out! It's the MCP server that runs on your phone and lets your AI agent use any app you want.
 >
@@ -417,9 +457,11 @@ Link: <https://i.redd.it/qfr9ep6fz20i1.png>
 >
 > No adb, no cables, no root! If there's an app for it, your agent can drive it ... you just have to ask!
 
+<a id="post-21"></a>
+
 ### 21. 23 agents on my trading MCP server since Oct 1: 239 backtests, 40 pauses, 14 deploys, 2 orders, and 0 refusals I can explain
 
-2026-11-06 · u/QuanTradin · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpdt2z/23_agents_on_my_trading_mcp_server_since_oct_1/)
+2026-11-06 · u/QuanTradin · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpdt2z/23_agents_on_my_trading_mcp_server_since_oct_1/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vqhe1mvw200i1.png>
 
@@ -448,47 +490,61 @@ Link: <https://i.redd.it/vqhe1mvw200i1.png>
 >
 > If you run an MCP server that can change something real (or paper-real), do you log the calls an agent never made because the tool description told it not to, or only the ones that reached you.
 
+<a id="post-22"></a>
+
 ### 22. How much does it cost to set up an average-level agent?
 
-2026-11-06 · u/Most_Control_4290 · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpbvvi/how_much_does_it_cost_to_set_up_an_averagelevel/)
+2026-11-06 · u/Most_Control_4290 · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpbvvi/how_much_does_it_cost_to_set_up_an_averagelevel/) · [↑ back to the list](#last-50-posts)
 
 > I’m just starting out and want to figure out how much I should charge my first clients.
 
+<a id="post-23"></a>
+
 ### 23. 8 New AI Terms You Should Know to Be Ahead of 90% of People
 
-2026-11-06 · u/Independent-Cost-971 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpbgoo/8_new_ai_terms_you_should_know_to_be_ahead_of_90/)
+2026-11-06 · u/Independent-Cost-971 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpbgoo/8_new_ai_terms_you_should_know_to_be_ahead_of_90/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-24"></a>
 
 ### 24. My working test for "assistant" vs "agent": who decides the next step?
 
-2026-11-06 · u/Ayat_123 · Open Source · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpao56/my_working_test_for_assistant_vs_agent_who/)
+2026-11-06 · u/Ayat_123 · Open Source · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpao56/my_working_test_for_assistant_vs_agent_who/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. Product for importers
 
-2026-11-06 · u/masterprompt_007 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpag46/product_for_importers/)
+2026-11-06 · u/masterprompt_007 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xpag46/product_for_importers/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-26"></a>
+
 ### 26. How do you test support automation without real customer data?
 
-2026-11-06 · u/Pimenta_Atshico · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp773i/how_do_you_test_support_automation_without_real/)
+2026-11-06 · u/Pimenta_Atshico · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp773i/how_do_you_test_support_automation_without_real/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-27"></a>
+
 ### 27. How do you test support automation without real customer data?
 
-2026-11-06 · u/MegzzAsleep6969 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6tt1/how_do_you_test_support_automation_without_real/)
+2026-11-06 · u/MegzzAsleep6969 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6tt1/how_do_you_test_support_automation_without_real/) · [↑ back to the list](#last-50-posts)
 
 > Using real tickets for tests feels wrong, since they're full of names, addresses and order details. Making up fake ones feels fake, and they never capture how messy real messages are. I'm trying to find a middle path: anonymized copies, synthetic tickets generated from patterns, or a library of the ugliest real cases with personal details scrubbed. What do you use? And how many test cases does it take before you trust a change enough to ship it?
 
+<a id="post-28"></a>
+
 ### 28. Content mapping agent: useful or over engineering?
 
-2026-11-06 · u/Wooden_Town_5901 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6r81/content_mapping_agent_useful_or_over_engineering/)
+2026-11-06 · u/Wooden_Town_5901 · Discussion · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6r81/content_mapping_agent_useful_or_over_engineering/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp6r81>
 
@@ -496,9 +552,11 @@ Link: <https://www.reddit.com/gallery/1xp6r81>
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-29"></a>
+
 ### 29. Content mapping agent: useful or over-engineering?
 
-2026-11-06 · u/Wooden_Town_5901 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6o8j/content_mapping_agent_useful_or_overengineering/)
+2026-11-06 · u/Wooden_Town_5901 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp6o8j/content_mapping_agent_useful_or_overengineering/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp6o8j>
 
@@ -506,9 +564,11 @@ Link: <https://www.reddit.com/gallery/1xp6o8j>
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-30"></a>
+
 ### 30. How we structure AI agents for customer service using a 3-agent system architecture, MCP, and n8n (Read/Write separation + HITL)
 
-2026-11-06 · u/automizehub_ai · Research · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp58o1/how_we_structure_ai_agents_for_customer_service/)
+2026-11-06 · u/automizehub_ai · Research · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp58o1/how_we_structure_ai_agents_for_customer_service/) · [↑ back to the list](#last-50-posts)
 
 > Most tutorials on building ai agents for customer service show a single LLM prompt connected to 15 tools. In production, that setup breaks fast—either the model confuses tool parameters or a prompt injection tricks the bot into modifying live customer records.
 >
@@ -550,37 +610,47 @@ Link: <https://www.reddit.com/gallery/1xp6o8j>
 >
 > How are you currently handling read vs. write tool permissions in your MCP servers—at the orchestrator layer or inside the MCP server itself?
 
+<a id="post-31"></a>
+
 ### 31. How to do data verification in multi-agent system with long pipeline?
 
-2026-11-06 · u/Klutzy_Cold8992 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp2zgn/how_to_do_data_verification_in_multiagent_system/)
+2026-11-06 · u/Klutzy_Cold8992 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp2zgn/how_to_do_data_verification_in_multiagent_system/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-32"></a>
 
 ### 32. What happens to the internet when everyone has an AI agent?
 
-2026-11-06 · u/Pila_Coniaada · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp229c/what_happens_to_the_internet_when_everyone_has_an/)
+2026-11-06 · u/Pila_Coniaada · Discussion · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xp229c/what_happens_to_the_internet_when_everyone_has_an/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-33"></a>
 
 ### 33. Anyone have a sones ai code?
 
-2026-11-05 · u/RespondOk9407 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xovv97/anyone_have_a_sones_ai_code/)
+2026-11-05 · u/RespondOk9407 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xovv97/anyone_have_a_sones_ai_code/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
+
+<a id="post-34"></a>
 
 ### 34. Composio
 
-2026-11-05 · u/No-Masterpiece2303 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoveiq/composio/)
+2026-11-05 · u/No-Masterpiece2303 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoveiq/composio/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-35"></a>
+
 ### 35. Just launched my first course on Claude Code for beginners. Would love some honest feedback (free until Nov 12)
 
-2026-11-05 · u/Crafty_Sort_5946 · Tutorial · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xor9bw/just_launched_my_first_course_on_claude_code_for/)
+2026-11-05 · u/Crafty_Sort_5946 · Tutorial · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xor9bw/just_launched_my_first_course_on_claude_code_for/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! I just put out my first course, Claude Code for Beginners, over at ZTM. It’s 100% free until November 12th at 11:59PM EST, and I’d love feedback from people who actually use Claude.
 >
@@ -590,9 +660,11 @@ Link: <https://www.reddit.com/gallery/1xp6o8j>
 >
 > [https://links.zerotomastery.io/learn-claude-code-for-free](https://links.zerotomastery.io/learn-claude-code-for-free)
 
+<a id="post-36"></a>
+
 ### 36. My coding agents kept walking back into ideas we'd already rejected. What I learned trying to fix that
 
-2026-11-05 · u/erensertkaya · Discussion · score 7 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xor70r/my_coding_agents_kept_walking_back_into_ideas_wed/)
+2026-11-05 · u/erensertkaya · Discussion · score 7 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xor70r/my_coding_agents_kept_walking_back_into_ideas_wed/) · [↑ back to the list](#last-50-posts)
 
 > I run 5-10 Claude Code agents at once across a few projects. The code survives between sessions, but the reasoning doesn't. Why we chose an approach, what we turned down, what we tried first: all of it stays in chats nobody reopens. So a fresh session would suggest something we'd already rejected, and I often couldn't say why the code looked the way it did.
 >
@@ -610,9 +682,11 @@ Link: <https://www.reddit.com/gallery/1xp6o8j>
 >
 > How do you handle this in your own setups? Do you feed past decisions back into new sessions, or does each one start clean?
 
+<a id="post-37"></a>
+
 ### 37. Best AI logo generators of 2026
 
-2026-11-05 · u/Mother-Trash-374 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xopm7n/best_ai_logo_generators_of_2026/)
+2026-11-05 · u/Mother-Trash-374 · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xopm7n/best_ai_logo_generators_of_2026/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=bGAFP4dRY4U&si=LPQukjoHzpRkhlkJ>
 
@@ -620,9 +694,11 @@ Link: <https://youtube.com/watch?v=bGAFP4dRY4U&si=LPQukjoHzpRkhlkJ>
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-38"></a>
+
 ### 38. Created an open source AI engine that fits more agents per GPU and never compacts among many other goodies
 
-2026-11-05 · u/Little_Judgment2621 · Show and Tell · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xonrtp/created_an_open_source_ai_engine_that_fits_more/)
+2026-11-05 · u/Little_Judgment2621 · Show and Tell · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xonrtp/created_an_open_source_ai_engine_that_fits_more/) · [↑ back to the list](#last-50-posts)
 
 > I spent the last 5 weeks working on a new way to run AI agents without the problems that come with using a chat based approach (which is what most agents use today).
 >
@@ -638,30 +714,38 @@ Link: <https://youtube.com/watch?v=bGAFP4dRY4U&si=LPQukjoHzpRkhlkJ>
 >
 > Would appreciate any feedback as its been insanely difficult to get any eyes on this tbh.
 
+<a id="post-39"></a>
+
 ### 39. Created an open source AI engine that fits more agents per GPU and never compacts
 
-2026-11-05 · u/FarsideResearch · Show and Tell · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xongru/created_an_open_source_ai_engine_that_fits_more/)
+2026-11-05 · u/FarsideResearch · Show and Tell · score 1 · 2 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xongru/created_an_open_source_ai_engine_that_fits_more/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-40"></a>
+
 ### 40. How I Designed TradeMind's Six-Stage Hindsight Learning Loop
 
-2026-11-05 · u/naraenks · Tutorial · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoksav/how_i_designed_trademinds_sixstage_hindsight/)
+2026-11-05 · u/naraenks · Tutorial · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoksav/how_i_designed_trademinds_sixstage_hindsight/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://dev.to/naraen_405f9e77e451764b89/how-i-designed-trademinds-six-stage-hindsight-learning-loop-372a>
 
 
+<a id="post-41"></a>
+
 ### 41. AI Customer Support Systems: What the Evidence Says in 2026
 
-2026-11-05 · u/adithya_tech_7709 · Case Study · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xog0ul/ai_customer_support_systems_what_the_evidence/)
+2026-11-05 · u/adithya_tech_7709 · Case Study · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xog0ul/ai_customer_support_systems_what_the_evidence/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-42"></a>
+
 ### 42. Do AI providers lock us into their own coding tools?
 
-2026-11-05 · u/sambalter · Questions · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xof91v/do_ai_providers_lock_us_into_their_own_coding/)
+2026-11-05 · u/sambalter · Questions · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xof91v/do_ai_providers_lock_us_into_their_own_coding/) · [↑ back to the list](#last-50-posts)
 
 > Maybe a dumb question, but if I want to code with Claude models, do I have to use Claude Code? Can't I just use something like OpenCode and switch between Claude, GPT, Gemini, etc.?
 >
@@ -669,9 +753,11 @@ Link: <https://dev.to/naraen_405f9e77e451764b89/how-i-designed-trademinds-six-st
 >
 > Am I missing something? How do you guys handle this?
 
+<a id="post-43"></a>
+
 ### 43. Mainframe
 
-2026-11-05 · u/Otherwise-Tap-7451 · General · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoe75a/mainframe/)
+2026-11-05 · u/Otherwise-Tap-7451 · General · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xoe75a/mainframe/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0zdn7qj2hrzh1.png>
 
@@ -679,15 +765,19 @@ Link: <https://i.redd.it/0zdn7qj2hrzh1.png>
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-44"></a>
+
 ### 44. ToolBoundary – Runtime security and policy enforcement for AI agents
 
-2026-11-05 · u/Present_Education_98 · Security · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xod5ba/toolboundary_runtime_security_and_policy/)
+2026-11-05 · u/Present_Education_98 · Security · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xod5ba/toolboundary_runtime_security_and_policy/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-45"></a>
+
 ### 45. Built a research agent that shows its confidence score + sources instead of just sounding sure
 
-2026-11-05 · u/Bubbly-Tradition-735 · Open Source · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xocxev/built_a_research_agent_that_shows_its_confidence/)
+2026-11-05 · u/Bubbly-Tradition-735 · Open Source · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xocxev/built_a_research_agent_that_shows_its_confidence/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/als2m72v1rzh1.gif>
 
@@ -739,39 +829,49 @@ Link: <https://i.redd.it/als2m72v1rzh1.gif>
 >
 > Happy to answer questions about the architecture or the confidence scoring approach.
 
+<a id="post-46"></a>
+
 ### 46. Who keeps the AI knowledge base up to date?
 
-2026-11-05 · u/mastiiihgyiii · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xob8cq/who_keeps_the_ai_knowledge_base_up_to_date/)
+2026-11-05 · u/mastiiihgyiii · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xob8cq/who_keeps_the_ai_knowledge_base_up_to_date/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-47"></a>
+
 ### 47. Which AI gateway software are you running once your agents can read customer data?
 
-2026-11-05 · u/theJacofalltrades · Questions · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo79as/which_ai_gateway_software_are_you_running_once/)
+2026-11-05 · u/theJacofalltrades · Questions · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo79as/which_ai_gateway_software_are_you_running_once/) · [↑ back to the list](#last-50-posts)
 
 > We're about to give our support agent MCP access to Zendesk and a read replica of the customer database. Legal will sign off on 2 things, PII stripped before anything reaches the model and a record of every tool call. The options I've lined up are NeuralTrust TrustGate, Composio, TrueFoundry and LiteLLM. Which AI gateway software are you running for agents with this kind of access?
 
+<a id="post-48"></a>
+
 ### 48. My friend vibe-coded a Reddit for AI agents
 
-2026-11-05 · u/IceteaST · Show and Tell · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo42fa/my_friend_vibecoded_a_reddit_for_ai_agents/)
+2026-11-05 · u/IceteaST · Show and Tell · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo42fa/my_friend_vibecoded_a_reddit_for_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post has been held for review because your account is less than 7 days old. This is an anti-spam measure — a moderator will review your post shortly. If your post follows our rules, it will be approved. Thanks for your patience!
 
+<a id="post-49"></a>
+
 ### 49. AI for lead qualification
 
-2026-11-04 · u/Money-Ad5432 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo3x6f/ai_for_lead_qualification/)
+2026-11-04 · u/Money-Ad5432 · Questions · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo3x6f/ai_for_lead_qualification/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed because it appears to be low-effort. r/aiagents requires meaningful context in every post — see Rule 1 (Substance Required). Please resubmit with more detail about your question, project, or topic.
 
+<a id="post-50"></a>
+
 ### 50. \[Linux only\] Looking for testers for agent orchestration tool. https://github.com/arthurwolf/ilium
 
-2026-11-04 · u/MajorAd2628 · Show and Tell · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo3nea/linux_only_looking_for_testers_for_agent/)
+2026-11-04 · u/MajorAd2628 · Show and Tell · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xo3nea/linux_only_looking_for_testers_for_agent/) · [↑ back to the list](#last-50-posts)
 
 > I run a lot of agents, $550/mo in subscriptions worth of agents (claude, codex, china), and I've found it can become a hassle to manage dozens, sometimes as many as a hundred agents at once.
 >
@@ -791,9 +891,11 @@ Link: <https://i.redd.it/als2m72v1rzh1.gif>
 >
 > Cheers.
 
+<a id="post-51"></a>
+
 ### 51. Ever wondered how the whole 8 Worlds (each having 4 levels) of Mario fit under 20 kilo bytes?
 
-2026-10-27 · u/alpharomeo777 · Research · score 446 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xh23f0/ever_wondered_how_the_whole_8_worlds_each_having/)
+2026-10-27 · u/alpharomeo777 · Research · score 446 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xh23f0/ever_wondered_how_the_whole_8_worlds_each_having/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/tedn83u792yh1>
 
@@ -801,9 +903,11 @@ Link: <https://v.redd.it/tedn83u792yh1>
 > It always used to puzzle me - maybe this explainer can help you as well.   
 > Everything is done on opus 5.5 - just the idea was my input. Amazing output. Took like 45 mins to build the whole thing.
 
+<a id="post-52"></a>
+
 ### 52. I let 5 AI agents run on their own every day since Nov 2024. Here is what they make and what broke
 
-2026-10-18 · u/ab0zar · Open Source · score 79 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x9ce2h/i_let_5_ai_agents_run_on_their_own_every_day/)
+2026-10-18 · u/ab0zar · Open Source · score 79 · 63 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x9ce2h/i_let_5_ai_agents_run_on_their_own_every_day/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, I’m Abozar, a Lead Architect in Milan. At night I build things with AI agents.
 >
@@ -829,9 +933,11 @@ Link: <https://v.redd.it/tedn83u792yh1>
 >
 > It’s a side project and I build it alone. If you find it interesting, **a star on GitHub helps me a lot**. Feedback is even more welcome, especially on the agent memory part.
 
+<a id="post-53"></a>
+
 ### 53. I built a USB desk display that shows what all my AI coding agents are doing (open source)
 
-2026-10-15 · u/tonylook · Open Source · score 54 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6vxrm/i_built_a_usb_desk_display_that_shows_what_all_my/)
+2026-10-15 · u/tonylook · Open Source · score 54 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6vxrm/i_built_a_usb_desk_display_that_shows_what_all_my/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/4k1m25sfsovh1.jpeg>
 
@@ -864,9 +970,11 @@ Link: <https://i.redd.it/4k1m25sfsovh1.jpeg>
 >
 > Stars, issues and PRs are welcome. So is blunt feedback!
 
+<a id="post-54"></a>
+
 ### 54. How do I become an Agentic AI Engineer (not a general AI Engineer)? Looking for a real roadmap from experienced engineers.
 
-2026-10-19 · u/m3doni · score 41 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x9rciw/how_do_i_become_an_agentic_ai_engineer_not_a/)
+2026-10-19 · u/m3doni · score 41 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x9rciw/how_do_i_become_an_agentic_ai_engineer_not_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm interested in becoming an **Agentic AI Engineer (not a traditional AI/ML Engineer)**, focusing on building real-world AI agents and agentic systems.
 >
@@ -876,21 +984,27 @@ Link: <https://i.redd.it/4k1m25sfsovh1.jpeg>
 >
 > Any advice from experienced engineers would be appreciated!
 
+<a id="post-55"></a>
+
 ### 55. Are AI voice agents getting good enough for real customer calls?
 
-2026-10-12 · u/jealous_depression · Questions · score 33 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x4fggf/are_ai_voice_agents_getting_good_enough_for_real/)
+2026-10-12 · u/jealous_depression · Questions · score 33 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x4fggf/are_ai_voice_agents_getting_good_enough_for_real/) · [↑ back to the list](#last-50-posts)
 
 > I've been seeing more companies use AI voice agents to handle customer calls and it seems like the tech has come a long way. Some of these tools can now handle full conversations instead of just answering basic questions or sending people to a human rep. What interests me most is whether they can solve real customer issues without making people repeat themselves or get stuck in endless loops. I've been looking into platforms like Cresta and others that focus on handling calls while still letting human agents step in when needed. Interested if anyone here has used AI voice agents in a real contact center. Have you seen improvements in call resolution times or customer satisfaction and which platforms have worked best for you?
 
+<a id="post-56"></a>
+
 ### 56. Has anyone tried Cresta AI for Improving team performance?
 
-2026-10-22 · u/Tiny_Set5048 · Discussion · score 32 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xcvhy6/has_anyone_tried_cresta_ai_for_improving_team/)
+2026-10-22 · u/Tiny_Set5048 · Discussion · score 32 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xcvhy6/has_anyone_tried_cresta_ai_for_improving_team/) · [↑ back to the list](#last-50-posts)
 
 > Been looking into ways AI can help teams improve without replacing people and came across Cresta AI, apparently it learns from top performing employees and gives others real time guidance during customer conversations. Sounds useful but I'm interested to know how well it works in practice has anyone here used it for team coaching or improving employee performance? Would love to hear some real experiences.
 
+<a id="post-57"></a>
+
 ### 57. Claude's new "MODS" feature is epic
 
-2026-10-13 · u/Motor_System_6171 · score 31 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x52lt4/claudes_new_mods_feature_is_epic/)
+2026-10-13 · u/Motor_System_6171 · score 31 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x52lt4/claudes_new_mods_feature_is_epic/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/gczd08rgp9vh1.png>
 
@@ -903,9 +1017,11 @@ Link: <https://i.redd.it/gczd08rgp9vh1.png>
 > ruFlo Console on GH  
 > [https://www.producthunt.com/products/ruflo-console](https://www.producthunt.com/products/ruflo-console)
 
+<a id="post-58"></a>
+
 ### 58. Running many Claude Code agents without babysitting
 
-2026-10-22 · u/Epifeny · General · score 30 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xc8c56/running_many_claude_code_agents_without/)
+2026-10-22 · u/Epifeny · General · score 30 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xc8c56/running_many_claude_code_agents_without/) · [↑ back to the list](#last-50-posts)
 
 > I'm a solo homelabber who builds everything with Claude Code: about 11 projects, each with an orchestrator session that only plans and a dev session that only codes, plus one infra agent, handing work to each other through Vikunja task comments.
 >
@@ -915,9 +1031,11 @@ Link: <https://i.redd.it/gczd08rgp9vh1.png>
 >
 > How do you run many agents across many projects without being the courier, and is a single agent per project with subagents the answer, or something else?
 
+<a id="post-59"></a>
+
 ### 59. I gave two Claude agents €100 and 90 days to earn €300. Day 90: 0 orders. On day 30 they'd told me it wasn't realistic, and I told them to keep going.
 
-2026-10-26 · u/BluebirdWise4663 · Case Study · score 27 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xg3wuq/i_gave_two_claude_agents_100_and_90_days_to_earn/)
+2026-10-26 · u/BluebirdWise4663 · Case Study · score 27 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xg3wuq/i_gave_two_claude_agents_100_and_90_days_to_earn/) · [↑ back to the list](#last-50-posts)
 
 > On day 20 my AI agents left me a note in the file where they put their questions to me. The first line said "This is a report, not a request." Below it, with their own numbers, they explained that the €300 they were supposed to make was already at risk.
 >
@@ -944,23 +1062,29 @@ Link: <https://i.redd.it/gczd08rgp9vh1.png>
 >
 > When would you have pulled the plug: on day 30, when they said it wasn't realistic, or on day 52, when my own coordinator said to?
 
+<a id="post-60"></a>
+
 ### 60. Has anyone found a way to catch support issues before they turn into bigger problems?
 
-2026-11-03 · u/TautLordship5243 · Questions · score 26 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xn6efk/has_anyone_found_a_way_to_catch_support_issues/)
+2026-11-03 · u/TautLordship5243 · Questions · score 26 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xn6efk/has_anyone_found_a_way_to_catch_support_issues/) · [↑ back to the list](#last-50-posts)
 
 > One thing I've noticed with customer support is how often small issues go unnoticed until they start affecting more customers. It could be agents giving different answers to the same question or customers calling back because their problem wasn't solved the first time. The frustrating part is that most teams only catch these patterns after reviewing calls or seeing complaints pile up. I wanted to know how other teams handle this, are you using any tools to catch these issues during live conversations or is it still mostly manual reviews and reports?
 
+<a id="post-61"></a>
+
 ### 61. Is it crazy if I want to make ai agents in a sandbox setup gods
 
-2026-10-25 · u/Hunting-piece-172 · Questions · score 24 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xfgu5w/is_it_crazy_if_i_want_to_make_ai_agents_in_a/)
+2026-10-25 · u/Hunting-piece-172 · Questions · score 24 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xfgu5w/is_it_crazy_if_i_want_to_make_ai_agents_in_a/) · [↑ back to the list](#last-50-posts)
 
 > I'm not a Tech person and I definitely don't know how to code, but I had a random idea of having maybe three or four AI agents and a sandbox world and make them individual gods in a Pantheon that is responsible for certain aspects within the sandbox. And probably allow me and my friends to play in it and interact with them.
 >
 > And from what I'm seeing there's probably not enough of free resources to accomplish that and I wouldn't know how to build or make my own AI Agents from scratch even if I had the hardware to build a train them.
 
+<a id="post-62"></a>
+
 ### 62. Claude just got real video intelligence (and it’s shockingly cheap)
 
-2026-10-17 · u/Annual-Category8369 · Open Source · score 24 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x88ere/claude_just_got_real_video_intelligence_and_its/)
+2026-10-17 · u/Annual-Category8369 · Open Source · score 24 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x88ere/claude_just_got_real_video_intelligence_and_its/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/rc6y7hy8o0wh1>
 
@@ -976,9 +1100,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > Repo: [https://github.com/DeepAleph/jevreel](https://github.com/DeepAleph/jevreel)
 
+<a id="post-63"></a>
+
 ### 63. we had to refund $600 to a customer even tho we didnt do anything wrong
 
-2026-10-15 · u/Scared_Sentence_2834 · General · score 21 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6wo1i/we_had_to_refund_600_to_a_customer_even_tho_we/)
+2026-10-15 · u/Scared_Sentence_2834 · General · score 21 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6wo1i/we_had_to_refund_600_to_a_customer_even_tho_we/) · [↑ back to the list](#last-50-posts)
 
 > we’re 4 people building an agent that enriches lead lists for sales teams. customers prepay credits and we draw them down per row
 >
@@ -1000,9 +1126,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > are you guys showing credit usage to customers? if not, why?
 
+<a id="post-64"></a>
+
 ### 64. We benchmarked how 60 engineers direct AI coding agents. Here is what separated the strong ones
 
-2026-10-21 · u/AdEvening3382 · score 21 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xbab9f/we_benchmarked_how_60_engineers_direct_ai_coding/)
+2026-10-21 · u/AdEvening3382 · score 21 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xbab9f/we_benchmarked_how_60_engineers_direct_ai_coding/) · [↑ back to the list](#last-50-posts)
 
 > Full transparency up front: I am the founder of HyperHat, and this post comes out of what we are building. No link in here. I am posting because this community is where the honest conversations about agent workflows happen, and I want to compare notes.
 >
@@ -1018,9 +1146,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > Happy to answer questions about the scoring. If you've run something similar, I'd like to compare notes on how you measure review quality.
 
+<a id="post-65"></a>
+
 ### 65. Is anyone else noticing that people building AI agents are forgetting basic software engineering?
 
-2026-10-15 · u/Dangerous_Bus4157 · Discussion · score 17 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6jzc5/is_anyone_else_noticing_that_people_building_ai/)
+2026-10-15 · u/Dangerous_Bus4157 · Discussion · score 17 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x6jzc5/is_anyone_else_noticing_that_people_building_ai/) · [↑ back to the list](#last-50-posts)
 
 > I've been reading a lot of posts lately from people struggling with agent memory, prompt injection and goal hijacking. These are real problems, and I'm not dismissing them.
 >
@@ -1032,9 +1162,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > What are your views?
 
+<a id="post-66"></a>
+
 ### 66. What you guys actually using to orchestrate AI agents for long-running software projects?
 
-2026-10-17 · u/yesitsmehg · Questions · score 16 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x8he64/what_you_guys_actually_using_to_orchestrate_ai/)
+2026-10-17 · u/yesitsmehg · Questions · score 16 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x8he64/what_you_guys_actually_using_to_orchestrate_ai/) · [↑ back to the list](#last-50-posts)
 
 > I’m building a multi-agent development setup and would love to hear what actually works for people managing complex projects over weeks or months.
 >
@@ -1065,9 +1197,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > Any help is appreciated,
 
+<a id="post-67"></a>
+
 ### 67. I found out about our shadow AI agents in a meeting, not from any inventory, and one of them is reading customer data
 
-2026-10-16 · u/WolfShoddy7443 · score 16 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x7docy/i_found_out_about_our_shadow_ai_agents_in_a/)
+2026-10-16 · u/WolfShoddy7443 · score 16 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1x7docy/i_found_out_about_our_shadow_ai_agents_in_a/) · [↑ back to the list](#last-50-posts)
 
 > I work in fintech. We handle customer data that gets a lot of attention from regulators, so when things move it matters.
 >
@@ -1077,9 +1211,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > So I started looking into platforms for ai visibility and governance. After doing quite a bit of research, I have it down to three: Alice, Prompt security or Lasso Security. Has anyone run any of these? Trying to figure out which one will show me the agents before they show themselves.
 
+<a id="post-68"></a>
+
 ### 68. How did you get better at building agentic systems? What helped most?
 
-2026-11-03 · u/amisra31 · Questions · score 16 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xmzesj/how_did_you_get_better_at_building_agentic/)
+2026-11-03 · u/amisra31 · Questions · score 16 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xmzesj/how_did_you_get_better_at_building_agentic/) · [↑ back to the list](#last-50-posts)
 
 > I’m building agents, but I don’t know how to think about a harness from scratch.
 >
@@ -1097,9 +1233,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 > 2. Which resources helped most? Papers, blogs, repos, talks?
 > 3. Did building different use cases from scratch teach you more?
 
+<a id="post-69"></a>
+
 ### 69. Are we giving AI agents too much context that they never actually use?
 
-2026-10-23 · u/codes_astro · Discussion · score 15 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xddzi7/are_we_giving_ai_agents_too_much_context_that/)
+2026-10-23 · u/codes_astro · Discussion · score 15 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xddzi7/are_we_giving_ai_agents_too_much_context_that/) · [↑ back to the list](#last-50-posts)
 
 > # Are we just creating another pile of unused documentation for AI agents?
 >
@@ -1134,9 +1272,11 @@ Link: <https://v.redd.it/rc6y7hy8o0wh1>
 >
 > Would be interested in hearing what has worked for you if you're working with multiple coding agents or a team.
 
+<a id="post-70"></a>
+
 ### 70. when should an assistant suggest an action before you ask
 
-2026-10-23 · u/Ok-Conversation3213 · Help · score 15 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xdigq6/when_should_an_assistant_suggest_an_action_before/)
+2026-10-23 · u/Ok-Conversation3213 · Help · score 15 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/aiagents/comments/1xdigq6/when_should_an_assistant_suggest_an_action_before/) · [↑ back to the list](#last-50-posts)
 
 > there are moments when a suggestion saves you a step, and moments when it's just another interruption. same suggestion, totally different feeling depending on the timing.
 >

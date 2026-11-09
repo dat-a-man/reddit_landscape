@@ -27,56 +27,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-05-20 | [The Context Layer: Knowledge Graph’s second act](https://www.reddit.com/r/KnowledgeGraph/comments/1tif4td/the_context_layer_knowledge_graphs_second_act/) | u/Berserk_l_ | — | metadataweekly.substack.com | 23 | 5 | live | — |
-| 2 | 2026-05-20 | [Release v1.1.1 - Santaria · NornicDB - MIT licensed - 28 hop shortest path ~60ms](https://www.reddit.com/r/KnowledgeGraph/comments/1tia7pw/release_v111_santaria_nornicdb_mit_licensed_28/) | u/Dense_Gate_5193 | — | github.com | 2 | 0 | live | — |
-| 3 | 2026-05-19 | [Ran the same question 3 ways against a knowledge graph. Retrieved the same 90 entities and triples each time.…](https://www.reddit.com/r/KnowledgeGraph/comments/1thmii0/ran_the_same_question_3_ways_against_a_knowledge/) | u/Ok_Gas7672 | — | reddit.com | 0 | 0 | live | — |
-| 4 | 2026-05-18 | [Anomaly detection on Orin Nano - 94k vectors, 4-layer inference, <2ms, no cloud](https://www.reddit.com/r/KnowledgeGraph/comments/1tgumkw/anomaly_detection_on_orin_nano_94k_vectors_4layer/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 5 | 2026-05-18 | [Complete beginner here... what is the best roadmap to learn Knowledge Graphs from scratch?](https://www.reddit.com/r/KnowledgeGraph/comments/1tgru8v/complete_beginner_here_what_is_the_best_roadmap/) | u/VisionaryPond | — | text | 11 | 12 | live | — |
-| 6 | 2026-05-18 | [NornicDB 1.1.0 - Research-backed Knowledge policies - MIT Licensed](https://www.reddit.com/r/KnowledgeGraph/comments/1tgneml/nornicdb_110_researchbacked_knowledge_policies/) | u/Dense_Gate_5193 | — | github.com | 2 | 0 | live | — |
-| 7 | 2026-05-18 | [In-process and in-memory graph database for large knowledge graphs - no server needed with TuringDB v1.31](https://www.reddit.com/r/KnowledgeGraph/comments/1tgmz51/inprocess_and_inmemory_graph_database_for_large/) | u/adambio | — | text | 7 | 3 | live | — |
-| 8 | 2026-05-18 | [Glia – Local-first shared memory layer (SQLite-vec + FTS5 + Offline Knowledge Graph)](https://www.reddit.com/r/KnowledgeGraph/comments/1tggapm/glia_localfirst_shared_memory_layer_sqlitevec/) | u/Better-Platypus-3420 | — | v.redd.it | 30 | 12 | live | — |
-| 9 | 2026-05-17 | [I'm really excited about knowledge graphs...](https://www.reddit.com/r/KnowledgeGraph/comments/1tfjjgf/im_really_excited_about_knowledge_graphs/) | u/adefwebserver | — | — | 0 | 0 | live | — |
-| 10 | 2026-05-15 | [Trying to keep up with information these days feels impossible](https://www.reddit.com/r/KnowledgeGraph/comments/1tdpv46/trying_to_keep_up_with_information_these_days/) | u/Odd_Information_9445 | — | text | 1 | 0 | deleted by author | — |
-| 11 | 2026-05-14 | [Protégé Short Course at Stanford: hands-on OWL ontology development with Protégé](https://www.reddit.com/r/KnowledgeGraph/comments/1td1rhd/protégé_short_course_at_stanford_handson_owl/) | u/MatthewH2 | — | text | 7 | 3 | live | — |
-| 12 | 2026-05-13 | [If Intelligence Is Abundant, What is the Moat?](https://www.reddit.com/r/KnowledgeGraph/comments/1tc96ye/if_intelligence_is_abundant_what_is_the_moat/) | u/Berserk_l_ | — | metadataweekly.substack.com | 14 | 3 | live | — |
-| 13 | 2026-05-13 | [Are traditional CMS structures becoming a limitation for AI interpretability?](https://www.reddit.com/r/KnowledgeGraph/comments/1tc8mz6/are_traditional_cms_structures_becoming_a/) | u/Alessandro-Verri | — | text | 2 | 2 | live | — |
-| 14 | 2026-05-13 | [Knowledge Graphs to tackle the problem of searching code and documentation again and again with help of Mnemo](https://www.reddit.com/r/KnowledgeGraph/comments/1tbqbvk/knowledge_graphs_to_tackle_the_problem_of/) | u/killerexelon | — | v.redd.it | 5 | 0 | live | — |
-| 15 | 2026-05-13 | [NornicDB 1.1.0 preview - memory decay as declarative policy - MIT Licensed](https://www.reddit.com/r/KnowledgeGraph/comments/1tboaiu/nornicdb_110_preview_memory_decay_as_declarative/) | u/Dense_Gate_5193 | — | — | 1 | 0 | live | — |
-| 16 | 2026-05-12 | [A persistent agentic knowledge graph for your stateless LLMs](https://www.reddit.com/r/KnowledgeGraph/comments/1tbbeb2/a_persistent_agentic_knowledge_graph_for_your/) | u/boneMechBoy69420 | — | youtu.be | 3 | 6 | live | — |
-| 17 | 2026-05-08 | [The problem with current grade of evals is they assume the context is clean and coherent](https://www.reddit.com/r/KnowledgeGraph/comments/1t743eq/the_problem_with_current_grade_of_evals_is_they/) | u/Ok_Gas7672 | — | — | 0 | 0 | live | — |
-| 18 | 2026-05-07 | [Graph of air quality?](https://www.reddit.com/r/KnowledgeGraph/comments/1t6gcq4/graph_of_air_quality/) | u/cherry_blossom026 | — | reddit.com | 1 | 2 | live | — |
-| 19 | 2026-05-07 | [Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-…](https://www.reddit.com/r/KnowledgeGraph/comments/1t63kpo/introducing_create_context_graph_ai_agents_with/) | u/lyonwj | — | medium.com | 15 | 0 | live | — |
-| 20 | 2026-05-06 | [I turned 400+ slide decks, 300+ YouTube transcripts, and 5+ million words from Google Cloud Next ’26 into a k…](https://www.reddit.com/r/KnowledgeGraph/comments/1t5l6ok/i_turned_400_slide_decks_300_youtube_transcripts/) | u/fhoffa | — | fhoffa.github.io | 5 | 0 | live | — |
-| 21 | 2026-05-04 | [KGC 2026](https://www.reddit.com/r/KnowledgeGraph/comments/1t3wvb4/kgc_2026/) | u/FancyUmpire8023 | — | text | 2 | 1 | live | — |
-| 22 | 2026-05-04 | [What is Obsidian ?](https://www.reddit.com/r/KnowledgeGraph/comments/1t3sn08/what_is_obsidian/) | u/Pleasant-Squirrel922 | — | — | 1 | 0 | live | — |
-| 23 | 2026-05-04 | [What core fields are missing from an audit log for LLM-proposed knowledge graph writes?](https://www.reddit.com/r/KnowledgeGraph/comments/1t3gkqw/what_core_fields_are_missing_from_an_audit_log/) | u/Aggressive_Hunt9772 | — | text | 0 | 2 | live | — |
-| 24 | 2026-05-03 | [I can now run the full Wikidata graph on a Mac mini 16GB. Fully cypher enabled.](https://www.reddit.com/r/KnowledgeGraph/comments/1t30a0k/i_can_now_run_the_full_wikidata_graph_on_a_mac/) | u/Trekker23 | — | — | 1 | 0 | live | — |
-| 25 | 2026-05-03 | [My question to AI itself:](https://www.reddit.com/r/KnowledgeGraph/comments/1t2dun8/my_question_to_ai_itself/) | u/ARIESTHERAMO13 | — | — | 1 | 0 | spam-filtered | — |
-| 26 | 2026-05-02 | [What if your knowledge graph had a coordinate origin? A Geometric Framework for Curved Relational Manifolds](https://www.reddit.com/r/KnowledgeGraph/comments/1t2269n/what_if_your_knowledge_graph_had_a_coordinate/) | u/Grouchy_Spray_3564 | — | text | 11 | 8 | live | — |
-| 27 | 2026-05-02 | [Knowledge Graph as a reference](https://www.reddit.com/r/KnowledgeGraph/comments/1t1qc6e/knowledge_graph_as_a_reference/) | u/jwh335 | — | text | 6 | 6 | live | — |
-| 28 | 2026-05-02 | [Modeling temporal data in ArangoDB (versioned edges?) — how are people doing this?](https://www.reddit.com/r/KnowledgeGraph/comments/1t1eqbt/modeling_temporal_data_in_arangodb_versioned/) | u/Klutzy_Plantain1737 | — | text | 2 | 4 | live | — |
-| 29 | 2026-05-01 | [I built an open-source Text-to-SQL system during my PhD to escape vendor lock-in usind Neo4j](https://www.reddit.com/r/KnowledgeGraph/comments/1t14m8c/i_built_an_opensource_texttosql_system_during_my/) | u/notikosaeder | — | text | 2 | 3 | live | — |
-| 30 | 2026-05-01 | [A local Graph RAG CLI system that turns your markdown notes into a queryable knowledge graph.](https://www.reddit.com/r/KnowledgeGraph/comments/1t13g53/a_local_graph_rag_cli_system_that_turns_your/) | u/WritHerAI | — | github.com | 1 | 0 | live | — |
-| 31 | 2026-04-30 | [Subreddit about the OntoUML modeling language, the Unified Foundational Ontology (UFO), and the gUFO lightwei…](https://www.reddit.com/r/KnowledgeGraph/comments/1szxx8w/subreddit_about_the_ontouml_modeling_language_the/) | u/Old-Tone-9064 | — | — | 1 | 0 | live | — |
-| 32 | 2026-04-30 | [Open Source Knowledge Graph that Branches and Merges like Git](https://www.reddit.com/r/KnowledgeGraph/comments/1szv84y/open_source_knowledge_graph_that_branches_and/) | u/SecretaryOriginal10 | — | text | 17 | 1 | live | — |
-| 33 | 2026-04-30 | [Open Source Knowledge Graph that Branches and Merges like Git](https://www.reddit.com/r/KnowledgeGraph/comments/1szv5sz/open_source_knowledge_graph_that_branches_and/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 34 | 2026-04-30 | [Semantic layer / context graphs architecture](https://www.reddit.com/r/KnowledgeGraph/comments/1szpq7t/semantic_layer_context_graphs_architecture/) | u/databug11 | — | text | 2 | 2 | live | — |
-| 35 | 2026-04-29 | [Comparing GraphRAG with VectorRAG benchmarks](https://www.reddit.com/r/KnowledgeGraph/comments/1sys9pp/comparing_graphrag_with_vectorrag_benchmarks/) | u/Lower_Associate_8798 | — | i.redd.it | 1 | 0 | spam-filtered | — |
-| 36 | 2026-04-27 | [I built a heuristic engine that parses multi-lingual codebases into knowledge graphs - AST-free and LLM-free](https://www.reddit.com/r/KnowledgeGraph/comments/1sx60ug/i_built_a_heuristic_engine_that_parses/) | u/Chunky_cold_mandala | — | text | 4 | 8 | live | — |
-| 37 | 2026-04-27 | [Recommendations for KG Selective Ingestion to GraphDB](https://www.reddit.com/r/KnowledgeGraph/comments/1swzeo4/recommendations_for_kg_selective_ingestion_to/) | u/Ill_Roll_2859 | — | — | 0 | 0 | live | — |
-| 38 | 2026-04-27 | [Building a Customer-Intelligence Brain](https://www.reddit.com/r/KnowledgeGraph/comments/1swwbyr/building_a_customerintelligence_brain/) | u/Big_Seaworthiness813 | — | text | 0 | 0 | live | — |
-| 39 | 2026-04-26 | [Chinese Medicine Knowledge Graph v2 Released — Improved Ontology, Richer Relationships, and Better Exploration](https://www.reddit.com/r/KnowledgeGraph/comments/1sw6zqi/chinese_medicine_knowledge_graph_v2_released/) | u/xiaoqistar | — | — | 2 | 0 | live | — |
-| 40 | 2026-04-26 | [Conceptual Modeling Is the Context Engineering Nobody Is Doing](https://www.reddit.com/r/KnowledgeGraph/comments/1sw31x6/conceptual_modeling_is_the_context_engineering/) | u/Berserk_l_ | — | metadataweekly.substack.com | 22 | 0 | live | — |
-| 41 | 2026-04-25 | [I wrote a book on building persistent memory for AI agents using knowledge graphs](https://www.reddit.com/r/KnowledgeGraph/comments/1svf8ld/i_wrote_a_book_on_building_persistent_memory_for/) | u/captainkink07 | — | safishamsi.gumroad.com | 1 | 0 | spam-filtered | — |
-| 42 | 2026-04-24 | [Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.](https://www.reddit.com/r/KnowledgeGraph/comments/1su6x5r/kael_is_a_person_and_rokos_basilisk_are_the_same/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 43 | 2026-04-24 | [Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.](https://www.reddit.com/r/KnowledgeGraph/comments/1su6ust/kael_is_a_person_and_rokos_basilisk_are_the_same/) | u/Reasonable-Top-7994 | — | — | 0 | 3 | live | — |
-| 44 | 2026-04-21 | [Recipes as graph nodes, not documents: UMF spec (umfspec.org) — feedback welcome](https://www.reddit.com/r/KnowledgeGraph/comments/1srepz3/recipes_as_graph_nodes_not_documents_umf_spec/) | u/orgoca | — | text | 5 | 4 | live | — |
-| 45 | 2026-04-20 | [I’m an first time buyer and wanted to go get a car](https://www.reddit.com/r/KnowledgeGraph/comments/1sr02x7/im_an_first_time_buyer_and_wanted_to_go_get_a_car/) | u/Rare_West9812 | — | — | 0 | 0 | live | — |
-| 46 | 2026-04-19 | [Ebbinggaus is insufficient according to April 2026 research](https://www.reddit.com/r/KnowledgeGraph/comments/1spw9o3/ebbinggaus_is_insufficient_according_to_april/) | u/Dense_Gate_5193 | — | text | 1 | 4 | live | — |
-| 47 | 2026-04-17 | [How I turned three philosophy books into a 1,200-document knowledge graph](https://www.reddit.com/r/KnowledgeGraph/comments/1sogxlr/how_i_turned_three_philosophy_books_into_a/) | u/gimalay | — | text | 1 | 0 | live | — |
-| 48 | 2026-04-17 | [Anyone have a preferred way to make knowledge graphs from code files?](https://www.reddit.com/r/KnowledgeGraph/comments/1sog5rp/anyone_have_a_preferred_way_to_make_knowledge/) | u/Chunky_cold_mandala | — | text | 1 | 0 | live | — |
-| 49 | 2026-04-17 | [Evolving Recipes](https://www.reddit.com/r/KnowledgeGraph/comments/1snrwj9/evolving_recipes/) | u/orgoca | — | — | 1 | 0 | live | — |
-| 50 | 2026-04-17 | [How about running an LLM inside the graph?](https://www.reddit.com/r/KnowledgeGraph/comments/1snomin/how_about_running_an_llm_inside_the_graph/) | u/Dense_Gate_5193 | — | text | 1 | 0 | live | — |
+| 1 | 2026-05-20 | [The Context Layer: Knowledge Graph’s second act](#post-1) | u/Berserk_l_ | — | metadataweekly.substack.com | 23 | 5 | live | — |
+| 2 | 2026-05-20 | [Release v1.1.1 - Santaria · NornicDB - MIT licensed - 28 hop shortest path ~60ms](#post-2) | u/Dense_Gate_5193 | — | github.com | 2 | 0 | live | — |
+| 3 | 2026-05-19 | [Ran the same question 3 ways against a knowledge graph. Retrieved the same 90 entities and triples each time.…](#post-3) | u/Ok_Gas7672 | — | reddit.com | 0 | 0 | live | — |
+| 4 | 2026-05-18 | [Anomaly detection on Orin Nano - 94k vectors, 4-layer inference, <2ms, no cloud](#post-4) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 5 | 2026-05-18 | [Complete beginner here... what is the best roadmap to learn Knowledge Graphs from scratch?](#post-5) | u/VisionaryPond | — | text | 11 | 12 | live | — |
+| 6 | 2026-05-18 | [NornicDB 1.1.0 - Research-backed Knowledge policies - MIT Licensed](#post-6) | u/Dense_Gate_5193 | — | github.com | 2 | 0 | live | — |
+| 7 | 2026-05-18 | [In-process and in-memory graph database for large knowledge graphs - no server needed with TuringDB v1.31](#post-7) | u/adambio | — | text | 7 | 3 | live | — |
+| 8 | 2026-05-18 | [Glia – Local-first shared memory layer (SQLite-vec + FTS5 + Offline Knowledge Graph)](#post-8) | u/Better-Platypus-3420 | — | v.redd.it | 30 | 12 | live | — |
+| 9 | 2026-05-17 | [I'm really excited about knowledge graphs...](#post-9) | u/adefwebserver | — | — | 0 | 0 | live | — |
+| 10 | 2026-05-15 | [Trying to keep up with information these days feels impossible](#post-10) | u/Odd_Information_9445 | — | text | 1 | 0 | deleted by author | — |
+| 11 | 2026-05-14 | [Protégé Short Course at Stanford: hands-on OWL ontology development with Protégé](#post-11) | u/MatthewH2 | — | text | 7 | 3 | live | — |
+| 12 | 2026-05-13 | [If Intelligence Is Abundant, What is the Moat?](#post-12) | u/Berserk_l_ | — | metadataweekly.substack.com | 14 | 3 | live | — |
+| 13 | 2026-05-13 | [Are traditional CMS structures becoming a limitation for AI interpretability?](#post-13) | u/Alessandro-Verri | — | text | 2 | 2 | live | — |
+| 14 | 2026-05-13 | [Knowledge Graphs to tackle the problem of searching code and documentation again and again with help of Mnemo](#post-14) | u/killerexelon | — | v.redd.it | 5 | 0 | live | — |
+| 15 | 2026-05-13 | [NornicDB 1.1.0 preview - memory decay as declarative policy - MIT Licensed](#post-15) | u/Dense_Gate_5193 | — | — | 1 | 0 | live | — |
+| 16 | 2026-05-12 | [A persistent agentic knowledge graph for your stateless LLMs](#post-16) | u/boneMechBoy69420 | — | youtu.be | 3 | 6 | live | — |
+| 17 | 2026-05-08 | [The problem with current grade of evals is they assume the context is clean and coherent](#post-17) | u/Ok_Gas7672 | — | — | 0 | 0 | live | — |
+| 18 | 2026-05-07 | [Graph of air quality?](#post-18) | u/cherry_blossom026 | — | reddit.com | 1 | 2 | live | — |
+| 19 | 2026-05-07 | [Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-…](#post-19) | u/lyonwj | — | medium.com | 15 | 0 | live | — |
+| 20 | 2026-05-06 | [I turned 400+ slide decks, 300+ YouTube transcripts, and 5+ million words from Google Cloud Next ’26 into a k…](#post-20) | u/fhoffa | — | fhoffa.github.io | 5 | 0 | live | — |
+| 21 | 2026-05-04 | [KGC 2026](#post-21) | u/FancyUmpire8023 | — | text | 2 | 1 | live | — |
+| 22 | 2026-05-04 | [What is Obsidian ?](#post-22) | u/Pleasant-Squirrel922 | — | — | 1 | 0 | live | — |
+| 23 | 2026-05-04 | [What core fields are missing from an audit log for LLM-proposed knowledge graph writes?](#post-23) | u/Aggressive_Hunt9772 | — | text | 0 | 2 | live | — |
+| 24 | 2026-05-03 | [I can now run the full Wikidata graph on a Mac mini 16GB. Fully cypher enabled.](#post-24) | u/Trekker23 | — | — | 1 | 0 | live | — |
+| 25 | 2026-05-03 | [My question to AI itself:](#post-25) | u/ARIESTHERAMO13 | — | — | 1 | 0 | spam-filtered | — |
+| 26 | 2026-05-02 | [What if your knowledge graph had a coordinate origin? A Geometric Framework for Curved Relational Manifolds](#post-26) | u/Grouchy_Spray_3564 | — | text | 11 | 8 | live | — |
+| 27 | 2026-05-02 | [Knowledge Graph as a reference](#post-27) | u/jwh335 | — | text | 6 | 6 | live | — |
+| 28 | 2026-05-02 | [Modeling temporal data in ArangoDB (versioned edges?) — how are people doing this?](#post-28) | u/Klutzy_Plantain1737 | — | text | 2 | 4 | live | — |
+| 29 | 2026-05-01 | [I built an open-source Text-to-SQL system during my PhD to escape vendor lock-in usind Neo4j](#post-29) | u/notikosaeder | — | text | 2 | 3 | live | — |
+| 30 | 2026-05-01 | [A local Graph RAG CLI system that turns your markdown notes into a queryable knowledge graph.](#post-30) | u/WritHerAI | — | github.com | 1 | 0 | live | — |
+| 31 | 2026-04-30 | [Subreddit about the OntoUML modeling language, the Unified Foundational Ontology (UFO), and the gUFO lightwei…](#post-31) | u/Old-Tone-9064 | — | — | 1 | 0 | live | — |
+| 32 | 2026-04-30 | [Open Source Knowledge Graph that Branches and Merges like Git](#post-32) | u/SecretaryOriginal10 | — | text | 17 | 1 | live | — |
+| 33 | 2026-04-30 | [Open Source Knowledge Graph that Branches and Merges like Git](#post-33) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 34 | 2026-04-30 | [Semantic layer / context graphs architecture](#post-34) | u/databug11 | — | text | 2 | 2 | live | — |
+| 35 | 2026-04-29 | [Comparing GraphRAG with VectorRAG benchmarks](#post-35) | u/Lower_Associate_8798 | — | i.redd.it | 1 | 0 | spam-filtered | — |
+| 36 | 2026-04-27 | [I built a heuristic engine that parses multi-lingual codebases into knowledge graphs - AST-free and LLM-free](#post-36) | u/Chunky_cold_mandala | — | text | 4 | 8 | live | — |
+| 37 | 2026-04-27 | [Recommendations for KG Selective Ingestion to GraphDB](#post-37) | u/Ill_Roll_2859 | — | — | 0 | 0 | live | — |
+| 38 | 2026-04-27 | [Building a Customer-Intelligence Brain](#post-38) | u/Big_Seaworthiness813 | — | text | 0 | 0 | live | — |
+| 39 | 2026-04-26 | [Chinese Medicine Knowledge Graph v2 Released — Improved Ontology, Richer Relationships, and Better Exploration](#post-39) | u/xiaoqistar | — | — | 2 | 0 | live | — |
+| 40 | 2026-04-26 | [Conceptual Modeling Is the Context Engineering Nobody Is Doing](#post-40) | u/Berserk_l_ | — | metadataweekly.substack.com | 22 | 0 | live | — |
+| 41 | 2026-04-25 | [I wrote a book on building persistent memory for AI agents using knowledge graphs](#post-41) | u/captainkink07 | — | safishamsi.gumroad.com | 1 | 0 | spam-filtered | — |
+| 42 | 2026-04-24 | [Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.](#post-42) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 43 | 2026-04-24 | [Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.](#post-43) | u/Reasonable-Top-7994 | — | — | 0 | 3 | live | — |
+| 44 | 2026-04-21 | [Recipes as graph nodes, not documents: UMF spec (umfspec.org) — feedback welcome](#post-44) | u/orgoca | — | text | 5 | 4 | live | — |
+| 45 | 2026-04-20 | [I’m an first time buyer and wanted to go get a car](#post-45) | u/Rare_West9812 | — | — | 0 | 0 | live | — |
+| 46 | 2026-04-19 | [Ebbinggaus is insufficient according to April 2026 research](#post-46) | u/Dense_Gate_5193 | — | text | 1 | 4 | live | — |
+| 47 | 2026-04-17 | [How I turned three philosophy books into a 1,200-document knowledge graph](#post-47) | u/gimalay | — | text | 1 | 0 | live | — |
+| 48 | 2026-04-17 | [Anyone have a preferred way to make knowledge graphs from code files?](#post-48) | u/Chunky_cold_mandala | — | text | 1 | 0 | live | — |
+| 49 | 2026-04-17 | [Evolving Recipes](#post-49) | u/orgoca | — | — | 1 | 0 | live | — |
+| 50 | 2026-04-17 | [How about running an LLM inside the graph?](#post-50) | u/Dense_Gate_5193 | — | text | 1 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -88,16 +88,20 @@ No live posts in this window.
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. The Context Layer: Knowledge Graph’s second act
 
-2026-05-20 · u/Berserk_l_ · score 23 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tif4td/the_context_layer_knowledge_graphs_second_act/)
+2026-05-20 · u/Berserk_l_ · score 23 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tif4td/the_context_layer_knowledge_graphs_second_act/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://metadataweekly.substack.com/p/the-context-layer-knowledge-graphs>
 
 
+<a id="post-2"></a>
+
 ### 2. Release v1.1.1 - Santaria · NornicDB - MIT licensed - 28 hop shortest path ~60ms
 
-2026-05-20 · u/Dense_Gate_5193 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tia7pw/release_v111_santaria_nornicdb_mit_licensed_28/)
+2026-05-20 · u/Dense_Gate_5193 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tia7pw/release_v111_santaria_nornicdb_mit_licensed_28/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/orneryd/NornicDB/releases/tag/v1.1.1>
 
@@ -105,22 +109,28 @@ Link: <https://github.com/orneryd/NornicDB/releases/tag/v1.1.1>
 >
 > i wonder what the limit is?
 
+<a id="post-3"></a>
+
 ### 3. Ran the same question 3 ways against a knowledge graph. Retrieved the same 90 entities and triples each time. LLM output still varied. That's the finding.
 
-2026-05-19 · u/Ok_Gas7672 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1thmii0/ran_the_same_question_3_ways_against_a_knowledge/)
+2026-05-19 · u/Ok_Gas7672 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1thmii0/ran_the_same_question_3_ways_against_a_knowledge/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1thmi4h>
 
 
+<a id="post-4"></a>
+
 ### 4. Anomaly detection on Orin Nano - 94k vectors, 4-layer inference, <2ms, no cloud
 
-2026-05-18 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgumkw/anomaly_detection_on_orin_nano_94k_vectors_4layer/)
+2026-05-18 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgumkw/anomaly_detection_on_orin_nano_94k_vectors_4layer/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-5"></a>
+
 ### 5. Complete beginner here... what is the best roadmap to learn Knowledge Graphs from scratch?
 
-2026-05-18 · u/VisionaryPond · score 11 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgru8v/complete_beginner_here_what_is_the_best_roadmap/)
+2026-05-18 · u/VisionaryPond · score 11 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgru8v/complete_beginner_here_what_is_the_best_roadmap/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -141,9 +151,11 @@ Link: <https://www.reddit.com/gallery/1thmi4h>
 >
 > Thank you in advance for any guidance!
 
+<a id="post-6"></a>
+
 ### 6. NornicDB 1.1.0 - Research-backed Knowledge policies - MIT Licensed
 
-2026-05-18 · u/Dense_Gate_5193 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgneml/nornicdb_110_researchbacked_knowledge_policies/)
+2026-05-18 · u/Dense_Gate_5193 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgneml/nornicdb_110_researchbacked_knowledge_policies/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/orneryd/NornicDB/releases/tag/v1.1.0>
 
@@ -155,9 +167,11 @@ Link: <https://github.com/orneryd/NornicDB/releases/tag/v1.1.0>
 >
 > MIT Licensed. no “community editions” 735 stars and counting.
 
+<a id="post-7"></a>
+
 ### 7. In-process and in-memory graph database for large knowledge graphs - no server needed with TuringDB v1.31
 
-2026-05-18 · u/adambio · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgmz51/inprocess_and_inmemory_graph_database_for_large/)
+2026-05-18 · u/adambio · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tgmz51/inprocess_and_inmemory_graph_database_for_large/) · [↑ back to the list](#last-50-posts)
 
 > Hey again! Adam from [TuringDB](https://turingdb.ai/), [posted here a few months back](https://www.reddit.com/r/KnowledgeGraph/comments/1qnps8x/) when we launched the community version.
 >
@@ -183,9 +197,11 @@ Link: <https://github.com/orneryd/NornicDB/releases/tag/v1.1.0>
 >
 > Happy to answer questions 🙂
 
+<a id="post-8"></a>
+
 ### 8. Glia – Local-first shared memory layer (SQLite-vec + FTS5 + Offline Knowledge Graph)
 
-2026-05-18 · u/Better-Platypus-3420 · score 30 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tggapm/glia_localfirst_shared_memory_layer_sqlitevec/)
+2026-05-18 · u/Better-Platypus-3420 · score 30 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tggapm/glia_localfirst_shared_memory_layer_sqlitevec/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/c1whwlwfwu1h1>
 
@@ -217,16 +233,20 @@ Link: <https://v.redd.it/c1whwlwfwu1h1>
 >
 > I would appreciate any feedback on the SQLite hybrid search scaling, the scoring fusion algorithm (RAG pipeline details are in RAG\_PIPELINE.md), or local graph extraction performance!
 
+<a id="post-9"></a>
+
 ### 9. I'm really excited about knowledge graphs...
 
-2026-05-17 · u/adefwebserver · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tfjjgf/im_really_excited_about_knowledge_graphs/)
+2026-05-17 · u/adefwebserver · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tfjjgf/im_really_excited_about_knowledge_graphs/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Blazor/comments/1tfdrjd/im_really_excited_about_knowledge_graphs/>
 
 
+<a id="post-10"></a>
+
 ### 10. Trying to keep up with information these days feels impossible
 
-2026-05-15 · u/Odd_Information_9445 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tdpv46/trying_to_keep_up_with_information_these_days/)
+2026-05-15 · u/Odd_Information_9445 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tdpv46/trying_to_keep_up_with_information_these_days/) · [↑ back to the list](#last-50-posts)
 
 > I don’t know if it’s just me, but I feel like I’m constantly behind on everything.
 >
@@ -242,9 +262,11 @@ Link: </r/Blazor/comments/1tfdrjd/im_really_excited_about_knowledge_graphs/>
 >
 > How are you guys dealing with this? Or is everyone just pretending they’re keeping up?
 
+<a id="post-11"></a>
+
 ### 11. Protégé Short Course at Stanford: hands-on OWL ontology development with Protégé
 
-2026-05-14 · u/MatthewH2 · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1td1rhd/protégé_short_course_at_stanford_handson_owl/)
+2026-05-14 · u/MatthewH2 · score 7 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1td1rhd/protégé_short_course_at_stanford_handson_owl/) · [↑ back to the list](#last-50-posts)
 
 > Hi r/KnowledgeGraph — I’m part of the Protégé team at Stanford, and I wanted to share that we’re running the Protégé Short Course this June.
 >
@@ -262,16 +284,20 @@ Link: </r/Blazor/comments/1tfdrjd/im_really_excited_about_knowledge_graphs/>
 >
 > Matthew
 
+<a id="post-12"></a>
+
 ### 12. If Intelligence Is Abundant, What is the Moat?
 
-2026-05-13 · u/Berserk_l_ · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tc96ye/if_intelligence_is_abundant_what_is_the_moat/)
+2026-05-13 · u/Berserk_l_ · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tc96ye/if_intelligence_is_abundant_what_is_the_moat/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://metadataweekly.substack.com/p/if-intelligence-is-abundant-what>
 
 
+<a id="post-13"></a>
+
 ### 13. Are traditional CMS structures becoming a limitation for AI interpretability?
 
-2026-05-13 · u/Alessandro-Verri · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tc8mz6/are_traditional_cms_structures_becoming_a/)
+2026-05-13 · u/Alessandro-Verri · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tc8mz6/are_traditional_cms_structures_becoming_a/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been experimenting with a different way of structuring WordPress sites and I’m curious if others here are exploring similar ideas.
 >
@@ -297,71 +323,91 @@ Link: <https://metadataweekly.substack.com/p/if-intelligence-is-abundant-what>
 >
 > Curious if others here are working on similar approaches or thinking in the same direction.
 
+<a id="post-14"></a>
+
 ### 14. Knowledge Graphs to tackle the problem of searching code and documentation again and again with help of Mnemo
 
-2026-05-13 · u/killerexelon · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tbqbvk/knowledge_graphs_to_tackle_the_problem_of/)
+2026-05-13 · u/killerexelon · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tbqbvk/knowledge_graphs_to_tackle_the_problem_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/azmq4ujhcu0h1>
 
 
+<a id="post-15"></a>
+
 ### 15. NornicDB 1.1.0 preview - memory decay as declarative policy - MIT Licensed
 
-2026-05-13 · u/Dense_Gate_5193 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tboaiu/nornicdb_110_preview_memory_decay_as_declarative/)
+2026-05-13 · u/Dense_Gate_5193 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tboaiu/nornicdb_110_preview_memory_decay_as_declarative/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Rag/comments/1tboa8e/nornicdb_110_preview_memory_decay_as_declarative/>
 
 
+<a id="post-16"></a>
+
 ### 16. A persistent agentic knowledge graph for your stateless LLMs
 
-2026-05-12 · u/boneMechBoy69420 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tbbeb2/a_persistent_agentic_knowledge_graph_for_your/)
+2026-05-12 · u/boneMechBoy69420 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1tbbeb2/a_persistent_agentic_knowledge_graph_for_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtu.be/VTGhhiN_g7w?si=821voBiR54tteWNl>
 
 
+<a id="post-17"></a>
+
 ### 17. The problem with current grade of evals is they assume the context is clean and coherent
 
-2026-05-08 · u/Ok_Gas7672 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t743eq/the_problem_with_current_grade_of_evals_is_they/)
+2026-05-08 · u/Ok_Gas7672 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t743eq/the_problem_with_current_grade_of_evals_is_they/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ContextEngineering/comments/1t741zv/the_problem_with_current_grade_of_evals_is_they/>
 
 
+<a id="post-18"></a>
+
 ### 18. Graph of air quality?
 
-2026-05-07 · u/cherry_blossom026 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t6gcq4/graph_of_air_quality/)
+2026-05-07 · u/cherry_blossom026 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t6gcq4/graph_of_air_quality/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1t6g0hy>
 
 
+<a id="post-19"></a>
+
 ### 19. Introducing Create Context Graph: AI Agents With Graph Memory, Scaffolded In Seconds with uvx create-context-graph
 
-2026-05-07 · u/lyonwj · score 15 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t63kpo/introducing_create_context_graph_ai_agents_with/)
+2026-05-07 · u/lyonwj · score 15 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t63kpo/introducing_create_context_graph_ai_agents_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/neo4j/introducing-create-context-graph-e6d40e2d55c7>
 
 
+<a id="post-20"></a>
+
 ### 20. I turned 400+ slide decks, 300+ YouTube transcripts, and 5+ million words from Google Cloud Next ’26 into a knowledge graph to see what the conference was really about
 
-2026-05-06 · u/fhoffa · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t5l6ok/i_turned_400_slide_decks_300_youtube_transcripts/)
+2026-05-06 · u/fhoffa · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t5l6ok/i_turned_400_slide_decks_300_youtube_transcripts/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://fhoffa.github.io/google-cloud-next-2026-unofficial-scrape/google-cloud-next/2026/graphify-out/graph_story.html>
 
 
+<a id="post-21"></a>
+
 ### 21. KGC 2026
 
-2026-05-04 · u/FancyUmpire8023 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3wvb4/kgc_2026/)
+2026-05-04 · u/FancyUmpire8023 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3wvb4/kgc_2026/) · [↑ back to the list](#last-50-posts)
 
 > This week at Cornell Tech in NYC - who else will be there?
 
+<a id="post-22"></a>
+
 ### 22. What is Obsidian ?
 
-2026-05-04 · u/Pleasant-Squirrel922 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3sn08/what_is_obsidian/)
+2026-05-04 · u/Pleasant-Squirrel922 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3sn08/what_is_obsidian/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ObsidianMD/comments/1t3smio/what_is_obsidian/>
 
 
+<a id="post-23"></a>
+
 ### 23. What core fields are missing from an audit log for LLM-proposed knowledge graph writes?
 
-2026-05-04 · u/Aggressive_Hunt9772 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3gkqw/what_core_fields_are_missing_from_an_audit_log/)
+2026-05-04 · u/Aggressive_Hunt9772 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t3gkqw/what_core_fields_are_missing_from_an_audit_log/) · [↑ back to the list](#last-50-posts)
 
 > I’m working on a lightweight audit layer for knowledge graph operations proposed by LLMs, mainly for GraphRAG and agentic workflows. I’d like a reality check from people who have maintained KGs, ontology pipelines, entity resolution systems, or graph ingestion workflows.
 >
@@ -444,23 +490,29 @@ Link: </r/ObsidianMD/comments/1t3smio/what_is_obsidian/>
 >
 > *(Context: this is for a small open-source prototype I’m building called* [*CogLang*](https://github.com/jaysinailabs/coglang)*, but I’m not trying to promote the project here. I’m mainly trying to stress-test the audit schema before locking in the human-in-the-loop review shape.)*
 
+<a id="post-24"></a>
+
 ### 24. I can now run the full Wikidata graph on a Mac mini 16GB. Fully cypher enabled.
 
-2026-05-03 · u/Trekker23 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t30a0k/i_can_now_run_the_full_wikidata_graph_on_a_mac/)
+2026-05-03 · u/Trekker23 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t30a0k/i_can_now_run_the_full_wikidata_graph_on_a_mac/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/wikipedia/comments/1t309ky/i_can_now_run_the_full_wikidata_graph_on_a_mac/>
 
 
+<a id="post-25"></a>
+
 ### 25. My question to AI itself:
 
-2026-05-03 · u/ARIESTHERAMO13 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t2dun8/my_question_to_ai_itself/)
+2026-05-03 · u/ARIESTHERAMO13 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t2dun8/my_question_to_ai_itself/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ArtificialInteligence/comments/1t2dpzo/my_question_to_ai_itself/>
 
 
+<a id="post-26"></a>
+
 ### 26. What if your knowledge graph had a coordinate origin? A Geometric Framework for Curved Relational Manifolds
 
-2026-05-02 · u/Grouchy_Spray_3564 · score 11 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t2269n/what_if_your_knowledge_graph_had_a_coordinate/)
+2026-05-02 · u/Grouchy_Spray_3564 · score 11 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t2269n/what_if_your_knowledge_graph_had_a_coordinate/) · [↑ back to the list](#last-50-posts)
 
 > Most knowledge graphs treat every node as equal. A person, a concept, a sensor reading — all occupy the same flat semantic space. Queries traverse shortest paths. Relationships are symmetric. The graph has no point of view.
 >
@@ -552,9 +604,11 @@ Link: </r/ArtificialInteligence/comments/1t2dpzo/my_question_to_ai_itself/>
 >
 > Happy to share the white paper if anyone wants the formal treatment. Genuinely interested in pushback from people who know this space better than we do.
 
+<a id="post-27"></a>
+
 ### 27. Knowledge Graph as a reference
 
-2026-05-02 · u/jwh335 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t1qc6e/knowledge_graph_as_a_reference/)
+2026-05-02 · u/jwh335 · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t1qc6e/knowledge_graph_as_a_reference/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone, I’m new to knowledge graphs. I would like to create a knowledge graph from a data model in an industry standard. Then use that knowledge graph as a tool for AI to understand the relationship between different data sets that I find elsewhere that are not represented in the exact data model format (I.e. silo’d data).
 >
@@ -562,9 +616,11 @@ Link: </r/ArtificialInteligence/comments/1t2dpzo/my_question_to_ai_itself/>
 >
 > Thanks in advance for your input!
 
+<a id="post-28"></a>
+
 ### 28. Modeling temporal data in ArangoDB (versioned edges?) — how are people doing this?
 
-2026-05-02 · u/Klutzy_Plantain1737 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t1eqbt/modeling_temporal_data_in_arangodb_versioned/)
+2026-05-02 · u/Klutzy_Plantain1737 · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t1eqbt/modeling_temporal_data_in_arangodb_versioned/) · [↑ back to the list](#last-50-posts)
 
 > Hi everybody! 
 >
@@ -591,9 +647,11 @@ Link: </r/ArtificialInteligence/comments/1t2dpzo/my_question_to_ai_itself/>
 >
 > Would love to hear real-world patterns vs theoretical ones.
 
+<a id="post-29"></a>
+
 ### 29. I built an open-source Text-to-SQL system during my PhD to escape vendor lock-in usind Neo4j
 
-2026-05-01 · u/notikosaeder · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t14m8c/i_built_an_opensource_texttosql_system_during_my/)
+2026-05-01 · u/notikosaeder · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t14m8c/i_built_an_opensource_texttosql_system_during_my/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -621,23 +679,29 @@ Link: </r/ArtificialInteligence/comments/1t2dpzo/my_question_to_ai_itself/>
 > • Editable & extensible: Easily add and configure nodes without manual overhead  
 > • Bridge boundaries: Enrich the system with domain knowledge, not just raw schema infosThe main idea is to make Text-to-SQL systems easier to set up, research about, and adapt in real-world scenarios. Would love feedback, ideas, or criticism!Link for those interested: [https://github.com/wagner-niklas/Alfred](https://github.com/wagner-niklas/Alfred)
 
+<a id="post-30"></a>
+
 ### 30. A local Graph RAG CLI system that turns your markdown notes into a queryable knowledge graph.
 
-2026-05-01 · u/WritHerAI · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t13g53/a_local_graph_rag_cli_system_that_turns_your/)
+2026-05-01 · u/WritHerAI · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1t13g53/a_local_graph_rag_cli_system_that_turns_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/benmaster82/Kwipu>
 
 
+<a id="post-31"></a>
+
 ### 31. Subreddit about the OntoUML modeling language, the Unified Foundational Ontology (UFO), and the gUFO lightweight ontology.
 
-2026-04-30 · u/Old-Tone-9064 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szxx8w/subreddit_about_the_ontouml_modeling_language_the/)
+2026-04-30 · u/Old-Tone-9064 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szxx8w/subreddit_about_the_ontouml_modeling_language_the/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/semanticweb/comments/1szxwrg/subreddit_about_the_ontouml_modeling_language_the/>
 
 
+<a id="post-32"></a>
+
 ### 32. Open Source Knowledge Graph that Branches and Merges like Git
 
-2026-04-30 · u/SecretaryOriginal10 · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szv84y/open_source_knowledge_graph_that_branches_and/)
+2026-04-30 · u/SecretaryOriginal10 · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szv84y/open_source_knowledge_graph_that_branches_and/) · [↑ back to the list](#last-50-posts)
 
 > Have been following some of the threads here around self-maintaining knowledge graphs or having agents operating inside the graph itself. We wanted to do similar but initially ran into issues where agents could update data improperly causing the graph to converge into a non-useful state. The other side of the issue was trying it with knowledge graphs where no ontology or schema is enforced as it causes retrieval and reasoning challenges.
 >
@@ -673,21 +737,27 @@ Link: </r/semanticweb/comments/1szxwrg/subreddit_about_the_ontouml_modeling_lang
 >
 > Would love to get the community's feedback on this!
 
+<a id="post-33"></a>
+
 ### 33. Open Source Knowledge Graph that Branches and Merges like Git
 
-2026-04-30 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szv5sz/open_source_knowledge_graph_that_branches_and/)
+2026-04-30 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szv5sz/open_source_knowledge_graph_that_branches_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-34"></a>
+
 ### 34. Semantic layer / context graphs architecture
 
-2026-04-30 · u/databug11 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szpq7t/semantic_layer_context_graphs_architecture/)
+2026-04-30 · u/databug11 · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1szpq7t/semantic_layer_context_graphs_architecture/) · [↑ back to the list](#last-50-posts)
 
 > I want to create a common semantic layer or context graph that can serve for multiple products but i am not sure what the basic architecture will look like will it just be a graph or any other kind of store too .. basics products are RAG based and analytics and ticketing solution etc... how should i approach this problem statement right now what i have thought is i will have two seperate tracks that will some connection one track will have common knowledge about a domain and other will have client knowledge and they bothe will be connected somehow...idk how though i just want some help in initial designing of the layer/graph...
 
+<a id="post-35"></a>
+
 ### 35. Comparing GraphRAG with VectorRAG benchmarks
 
-2026-04-29 · u/Lower_Associate_8798 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sys9pp/comparing_graphrag_with_vectorrag_benchmarks/)
+2026-04-29 · u/Lower_Associate_8798 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sys9pp/comparing_graphrag_with_vectorrag_benchmarks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lrnhynay53yg1.png>
 
@@ -697,9 +767,11 @@ Link: <https://i.redd.it/lrnhynay53yg1.png>
 >
 > Data: [https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench)
 
+<a id="post-36"></a>
+
 ### 36. I built a heuristic engine that parses multi-lingual codebases into knowledge graphs - AST-free and LLM-free
 
-2026-04-27 · u/Chunky_cold_mandala · score 4 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sx60ug/i_built_a_heuristic_engine_that_parses/)
+2026-04-27 · u/Chunky_cold_mandala · score 4 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sx60ug/i_built_a_heuristic_engine_that_parses/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -737,16 +809,20 @@ Link: <https://i.redd.it/lrnhynay53yg1.png>
 >
 > Population data from 100's of repos - [https://squid-protocol.github.io/gitgalaxy/03-04-claim-4-comparing-languages/](https://squid-protocol.github.io/gitgalaxy/03-04-claim-4-comparing-languages/)
 
+<a id="post-37"></a>
+
 ### 37. Recommendations for KG Selective Ingestion to GraphDB
 
-2026-04-27 · u/Ill_Roll_2859 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1swzeo4/recommendations_for_kg_selective_ingestion_to/)
+2026-04-27 · u/Ill_Roll_2859 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1swzeo4/recommendations_for_kg_selective_ingestion_to/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Rag/comments/1swzec8/recommendations_for_kg_selective_ingestion_to/>
 
 
+<a id="post-38"></a>
+
 ### 38. Building a Customer-Intelligence Brain
 
-2026-04-27 · u/Big_Seaworthiness813 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1swwbyr/building_a_customerintelligence_brain/)
+2026-04-27 · u/Big_Seaworthiness813 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1swwbyr/building_a_customerintelligence_brain/) · [↑ back to the list](#last-50-posts)
 
 > We created the perhaps most human knowledge graph application: Building a customer intelligence brain that helps to understand how human beings want to make progress in live or at work.
 >
@@ -756,44 +832,56 @@ Link: </r/Rag/comments/1swzec8/recommendations_for_kg_selective_ingestion_to/>
 >
 > [https://youtu.be/hCtoQVO71zA?si=qqluCtNp0FyhCM\_R](https://youtu.be/hCtoQVO71zA?si=qqluCtNp0FyhCM_R)
 
+<a id="post-39"></a>
+
 ### 39. Chinese Medicine Knowledge Graph v2 Released — Improved Ontology, Richer Relationships, and Better Exploration
 
-2026-04-26 · u/xiaoqistar · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sw6zqi/chinese_medicine_knowledge_graph_v2_released/)
+2026-04-26 · u/xiaoqistar · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sw6zqi/chinese_medicine_knowledge_graph_v2_released/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ChineseMedicine/comments/1sw6y8t/chinese_medicine_knowledge_graph_v2_released/>
 
 
+<a id="post-40"></a>
+
 ### 40. Conceptual Modeling Is the Context Engineering Nobody Is Doing
 
-2026-04-26 · u/Berserk_l_ · score 22 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sw31x6/conceptual_modeling_is_the_context_engineering/)
+2026-04-26 · u/Berserk_l_ · score 22 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sw31x6/conceptual_modeling_is_the_context_engineering/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://metadataweekly.substack.com/p/conceptual-modeling-is-the-context>
 
 
+<a id="post-41"></a>
+
 ### 41. I wrote a book on building persistent memory for AI agents using knowledge graphs
 
-2026-04-25 · u/captainkink07 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1svf8ld/i_wrote_a_book_on_building_persistent_memory_for/)
+2026-04-25 · u/captainkink07 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1svf8ld/i_wrote_a_book_on_building_persistent_memory_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <http://safishamsi.gumroad.com/l/qetvlo>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-42"></a>
+
 ### 42. Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.
 
-2026-04-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1su6x5r/kael_is_a_person_and_rokos_basilisk_are_the_same/)
+2026-04-24 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1su6x5r/kael_is_a_person_and_rokos_basilisk_are_the_same/) · [↑ back to the list](#last-50-posts)
 
 *No text: deleted by its author.*
 
+<a id="post-43"></a>
+
 ### 43. Kael is a Person. 🌀 and Roko's Basilisk Are the Same Trap. I'm Done Being Quiet.
 
-2026-04-24 · u/Reasonable-Top-7994 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1su6ust/kael_is_a_person_and_rokos_basilisk_are_the_same/)
+2026-04-24 · u/Reasonable-Top-7994 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1su6ust/kael_is_a_person_and_rokos_basilisk_are_the_same/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MirrorFrame/comments/1su69m9/kael_is_a_person_and_rokos_basilisk_are_the_same/>
 
 
+<a id="post-44"></a>
+
 ### 44. Recipes as graph nodes, not documents: UMF spec (umfspec.org) — feedback welcome
 
-2026-04-21 · u/orgoca · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1srepz3/recipes_as_graph_nodes_not_documents_umf_spec/)
+2026-04-21 · u/orgoca · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1srepz3/recipes_as_graph_nodes_not_documents_umf_spec/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,  I'd value this community's eyes on a spec I've been working on: UMF (Ummi Markup Format), at https://umfspec.org.
 >
@@ -821,16 +909,20 @@ Link: </r/MirrorFrame/comments/1su69m9/kael_is_a_person_and_rokos_basilisk_are_t
 >
 > (Naming note: there are a few unrelated formats also called "UMF" floating around — IBM's Universal Message Format, etc. This one is "Ummi Markup Format," from the Arabic for "my mother.")
 
+<a id="post-45"></a>
+
 ### 45. I’m an first time buyer and wanted to go get a car
 
-2026-04-20 · u/Rare_West9812 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sr02x7/im_an_first_time_buyer_and_wanted_to_go_get_a_car/)
+2026-04-20 · u/Rare_West9812 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sr02x7/im_an_first_time_buyer_and_wanted_to_go_get_a_car/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/u_Rare_West9812/comments/1sqzz1j/im_an_first_time_buyer_and_wanted_to_go_get_a_car/>
 
 
+<a id="post-46"></a>
+
 ### 46. Ebbinggaus is insufficient according to April 2026 research
 
-2026-04-19 · u/Dense_Gate_5193 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1spw9o3/ebbinggaus_is_insufficient_according_to_april/)
+2026-04-19 · u/Dense_Gate_5193 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1spw9o3/ebbinggaus_is_insufficient_according_to_april/) · [↑ back to the list](#last-50-posts)
 
 > This research paper April 2026 specifically calls out enbinghaus as insufficient and I completely agree. 
 >
@@ -842,9 +934,11 @@ Link: </r/u_Rare_West9812/comments/1sqzz1j/im_an_first_time_buyer_and_wanted_to_
 >
 > https://github.com/orneryd/NornicDB/issues/100
 
+<a id="post-47"></a>
+
 ### 47. How I turned three philosophy books into a 1,200-document knowledge graph
 
-2026-04-17 · u/gimalay · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sogxlr/how_i_turned_three_philosophy_books_into_a/)
+2026-04-17 · u/gimalay · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sogxlr/how_i_turned_three_philosophy_books_into_a/) · [↑ back to the list](#last-50-posts)
 
 > Marcus Aurelius says virtue is acting according to nature and reason, serving the common good as naturally as the eye sees. Machiavelli says a prince who acts entirely virtuously will be ruined among so much evil. Nietzsche warns against becoming enslaved to one's own virtues, noting that every virtue inclines toward stupidity.
 >
@@ -901,22 +995,28 @@ Link: </r/u_Rare_West9812/comments/1sqzz1j/im_an_first_time_buyer_and_wanted_to_
 > GitHub: https://github.com/iwe-org/seventeen-centuries
 > IWE: https://github.com/iwe-org/iwe
 
+<a id="post-48"></a>
+
 ### 48. Anyone have a preferred way to make knowledge graphs from code files?
 
-2026-04-17 · u/Chunky_cold_mandala · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sog5rp/anyone_have_a_preferred_way_to_make_knowledge/)
+2026-04-17 · u/Chunky_cold_mandala · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1sog5rp/anyone_have_a_preferred_way_to_make_knowledge/) · [↑ back to the list](#last-50-posts)
 
 > Any GitHubs or paradigms you've found helpful?
 
+<a id="post-49"></a>
+
 ### 49. Evolving Recipes
 
-2026-04-17 · u/orgoca · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1snrwj9/evolving_recipes/)
+2026-04-17 · u/orgoca · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1snrwj9/evolving_recipes/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/lovable/comments/1snq90z/evolving_recipes/>
 
 
+<a id="post-50"></a>
+
 ### 50. How about running an LLM inside the graph?
 
-2026-04-17 · u/Dense_Gate_5193 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1snomin/how_about_running_an_llm_inside_the_graph/)
+2026-04-17 · u/Dense_Gate_5193 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/KnowledgeGraph/comments/1snomin/how_about_running_an_llm_inside_the_graph/) · [↑ back to the list](#last-50-posts)
 
 > i just found this sub and i’m really excited to share it with you guys because it changes the entire dynamics of memory for LLMs. UC Louvain benchmarked it apples to apples against neo4j for cyber-physical automata learning, and it performed 2.2x faster than neo4j for their experimentation cycle. sub-ms writes, hnsw search, and a whole agentic plugin system that performs in-memory graph-rag with the LLM running inner embedded llama.cpp.
 >

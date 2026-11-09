@@ -33,56 +33,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [User study on a data automation tool](https://www.reddit.com/r/analyticsengineering/comments/1xp7a6o/user_study_on_a_data_automation_tool/) | u/columns_ai | — | reddit.com | 1 | 0 | live | — |
-| 2 | 2026-11-05 | [Have you ever analyzed or pulled data from ServiceNow](https://www.reddit.com/r/analyticsengineering/comments/1xowatr/have_you_ever_analyzed_or_pulled_data_from/) | u/Data-Stand-1759 | — | text | 1 | 0 | spam-filtered | — |
-| 3 | 2026-11-04 | [Sales Targets vs Actuals for Individual Quota Attainment](https://www.reddit.com/r/analyticsengineering/comments/1xo0r2w/sales_targets_vs_actuals_for_individual_quota/) | u/creamycolslaw | — | text | 1 | 10 | live | — |
-| 4 | 2026-11-04 | [Migrating snowflake worksheet/notebook](https://www.reddit.com/r/analyticsengineering/comments/1xnxnwb/migrating_snowflake_worksheetnotebook/) | u/Qwertyoks | — | reddit.com | 1 | 0 | live | — |
-| 5 | 2026-11-04 | [Mapping datasets by reach and promises](https://www.reddit.com/r/analyticsengineering/comments/1xno3xg/mapping_datasets_by_reach_and_promises/) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live | — |
-| 6 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](https://www.reddit.com/r/analyticsengineering/comments/1xnitp2/anyone_else_finding_it_difficult_to_predict_their/) | u/BullfrogFinal3566 | — | reddit.com | 1 | 1 | live | — |
-| 7 | 2026-11-03 | [Worked six months unpaid at a startup, trusted promises of a paid role, then was let go. Looking for advice a…](https://www.reddit.com/r/analyticsengineering/comments/1xn1l5v/worked_six_months_unpaid_at_a_startup_trusted/) | u/Scared_Ad_4997 | — | text | 1 | 3 | live | — |
-| 8 | 2026-11-03 | [Free Microsoft DP-600 vouchers during Data Days](https://www.reddit.com/r/analyticsengineering/comments/1xn0vwb/free_microsoft_dp600_vouchers_during_data_days/) | u/FabricPam | — | text | 2 | 1 | live | — |
-| 9 | 2026-11-02 | [Trusting your data agent](https://www.reddit.com/r/analyticsengineering/comments/1xmcxj8/trusting_your_data_agent/) | u/a-n3w-begIn | — | reddit.com | 1 | 0 | live | — |
-| 10 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](https://www.reddit.com/r/analyticsengineering/comments/1xm85xx/im_building_an_ai_data_engineer_that_runs_as_a/) | u/No_Advertising2536 | — | reddit.com | 0 | 1 | live | — |
-| 11 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](https://www.reddit.com/r/analyticsengineering/comments/1xlaen9/should_i_be_learning_new_skill_or_just_implement/) | u/WiseWeird6306 | — | text | 4 | 6 | live | — |
-| 12 | 2026-11-01 | [How often do job postings name the keywords ChatGPT suggests?](https://www.reddit.com/r/analyticsengineering/comments/1xl6a40/how_often_do_job_postings_name_the_keywords/) | u/Enough_Charge2845 | — | text | 2 | 0 | live | — |
-| 13 | 2026-11-01 | [Medallion Layer Enforcement](https://www.reddit.com/r/analyticsengineering/comments/1xl5ydw/medallion_layer_enforcement/) | u/TranslatorComplex517 | — | reddit.com | 1 | 0 | live | — |
-| 14 | 2026-11-01 | [Don't know what to study or where to go](https://www.reddit.com/r/analyticsengineering/comments/1xl2a0a/dont_know_what_to_study_or_where_to_go/) | u/Andremallmann | — | text | 14 | 9 | live | — |
-| 15 | 2026-10-30 | [Year end review with AI in perspective](https://www.reddit.com/r/analyticsengineering/comments/1xjkmtx/year_end_review_with_ai_in_perspective/) | u/WiseWeird6306 | — | reddit.com | 1 | 1 | live | — |
-| 16 | 2026-10-27 | [Had a project go badly recently. The core problem was a decision made above my pay grade before I was even as…](https://www.reddit.com/r/analyticsengineering/comments/1xgr2lk/had_a_project_go_badly_recently_the_core_problem/) | u/edit_haus67 | — | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-10-26 | [dashboards showing different numbers for the same metric? check for join fan-out first, and don't trust SUM(D…](https://www.reddit.com/r/analyticsengineering/comments/1xgckab/dashboards_showing_different_numbers_for_the_same/) | u/Evening_Hawk_7470 | — | text | 5 | 4 | live | — |
-| 18 | 2026-10-26 | [The fix that worked for me was boring: every number in the status report gets one plain sentence saying what…](https://www.reddit.com/r/analyticsengineering/comments/1xfukjd/the_fix_that_worked_for_me_was_boring_every/) | u/gon-everynumber | — | text | 0 | 0 | live | — |
-| 19 | 2026-10-17 | [How are teams noticing a new intent before an existing intent taxonomy distorts the dashboard?](https://www.reddit.com/r/analyticsengineering/comments/1x8elpv/how_are_teams_noticing_a_new_intent_before_an/) | u/Any_Moose_2873 | — | text | 11 | 11 | spam-filtered | — |
-| 20 | 2026-10-15 | [Looking for an experienced Analytics Engineer to Mentor Me](https://www.reddit.com/r/analyticsengineering/comments/1x6bsrc/looking_for_an_experienced_analytics_engineer_to/) | u/Due_Bridge3794 | — | text | 5 | 5 | live | — |
-| 21 | 2026-10-12 | [Building dashboards using MCP vs API calls](https://www.reddit.com/r/analyticsengineering/comments/1x43am6/building_dashboards_using_mcp_vs_api_calls/) | u/undef9 | — | text | 0 | 1 | spam-filtered | — |
-| 22 | 2026-10-12 | [Sustainable packaging mistake has us shipping tiny products in giant boxes](https://www.reddit.com/r/analyticsengineering/comments/1x3z910/sustainable_packaging_mistake_has_us_shipping/) | u/EcoojmistAlarming407 | — | text | 1 | 1 | live | — |
-| 23 | 2026-10-09 | [Is a paid Data Engineering course actually worth it for a beginner?](https://www.reddit.com/r/analyticsengineering/comments/1x1mjfw/is_a_paid_data_engineering_course_actually_worth/) | u/Junior_Investment514 | — | text | 3 | 8 | live | — |
-| 24 | 2026-10-09 | [Looking for open source complex dbt metric flow example](https://www.reddit.com/r/analyticsengineering/comments/1x1lepg/looking_for_open_source_complex_dbt_metric_flow/) | u/undef9 | — | — | 1 | 0 | spam-filtered | — |
-| 25 | 2026-10-08 | [Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)](https://www.reddit.com/r/analyticsengineering/comments/1x0trse/making_sense_of_bigquery_pricing_models_ondemand/) | u/arimbr | — | alvin.ai | 2 | 0 | live | — |
-| 26 | 2026-09-25 | [Feeling stuck learning data analytics alone — how do I stay consistent?](https://www.reddit.com/r/analyticsengineering/comments/1wpyt32/feeling_stuck_learning_data_analytics_alone_how/) | u/weird_world0007 | — | — | 1 | 0 | live | — |
-| 27 | 2026-09-24 | [What are the genuinely hard Analytics Engineering problems you've dealt with at scale?](https://www.reddit.com/r/analyticsengineering/comments/1wp1zzv/what_are_the_genuinely_hard_analytics_engineering/) | u/DataaWolff | — | text | 7 | 2 | live | — |
-| 28 | 2026-09-19 | [For those working on larger BI projects, what does your process look like?](https://www.reddit.com/r/analyticsengineering/comments/1wkjla7/for_those_working_on_larger_bi_projects_what_does/) | u/Minute_Ingenuity_889 | — | — | 1 | 0 | live | — |
-| 29 | 2026-09-17 | [Where should behavioural intelligence sit in the data stack?](https://www.reddit.com/r/analyticsengineering/comments/1wiveru/where_should_behavioural_intelligence_sit_in_the/) | u/ConvisoAI | — | text | 1 | 0 | spam-filtered | — |
-| 30 | 2026-09-17 | [Why does an analytics project spend most of its budget before the first dashboard exists?](https://www.reddit.com/r/analyticsengineering/comments/1winzfg/why_does_an_analytics_project_spend_most_of_its/) | u/spacerror93 | — | text | 0 | 1 | live | — |
-| 31 | 2026-09-16 | [Laid off Data Analyst looking to transition to Data Engineering (Need roadmap & advice on DS/ML requirements)](https://www.reddit.com/r/analyticsengineering/comments/1wi99vh/laid_off_data_analyst_looking_to_transition_to/) | u/SunAccording8875 | — | — | 2 | 0 | live | — |
-| 32 | 2026-09-16 | [Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to y…](https://www.reddit.com/r/analyticsengineering/comments/1wi60oa/help_shape_the_2026_data_connectivity_report_5/) | u/Ok-Data-Guy | — | text | 1 | 0 | spam-filtered | — |
-| 33 | 2026-09-16 | [Instead of another BI Tool Selection cycle, we put a Semantic Layer in front of our warehouse](https://www.reddit.com/r/analyticsengineering/comments/1wi2861/instead_of_another_bi_tool_selection_cycle_we_put/) | u/Familiar_Season1255 | — | text | 3 | 2 | live | — |
-| 34 | 2026-09-15 | [How do you even get interviews??](https://www.reddit.com/r/analyticsengineering/comments/1whgzsm/how_do_you_even_get_interviews/) | u/defNot-BigKev | — | text | 7 | 2 | live | — |
-| 35 | 2026-09-15 | [They all write, store and read so why do we need DuckDB in the first place?](https://www.reddit.com/r/analyticsengineering/comments/1wh1cfe/they_all_write_store_and_read_so_why_do_we_need/) | u/dmkii | — | v.redd.it | 1 | 0 | live | — |
-| 36 | 2026-09-12 | [data analyst with2 YOE at health tech basically doing analytics engineering work bit wants to formalize, look…](https://www.reddit.com/r/analyticsengineering/comments/1we64c2/data_analyst_with2_yoe_at_health_tech_basically/) | u/Vivid_Frequentist617 | — | i.redd.it | 6 | 1 | live | — |
-| 37 | 2026-09-10 | [Data Engineer w/ 2+ YOE seeking resume feedback](https://www.reddit.com/r/analyticsengineering/comments/1wcqolf/data_engineer_w_2_yoe_seeking_resume_feedback/) | u/ConsiderationDry1787 | — | i.redd.it | 1 | 7 | live | — |
-| 38 | 2026-09-09 | [MSc dissertation survey — how analytics maturity & data governance affect the financial payoff of analytics (…](https://www.reddit.com/r/analyticsengineering/comments/1wb8771/msc_dissertation_survey_how_analytics_maturity/) | u/Money-Style-2714 | — | text | 1 | 0 | live | — |
-| 39 | 2026-09-07 | [Please roast this resume before a recruiter does :)](https://www.reddit.com/r/analyticsengineering/comments/1w9v44s/please_roast_this_resume_before_a_recruiter_does/) | u/beetfarmer_schrutes | — | text | 1 | 0 | live | — |
-| 40 | 2026-09-07 | [Please roast this resume before a recruiter does it :)](https://www.reddit.com/r/analyticsengineering/comments/1w9upwy/please_roast_this_resume_before_a_recruiter_does/) | u/beetfarmer_schrutes | — | — | 1 | 0 | deleted by author | — |
-| 41 | 2026-09-07 | [Analytics Engineering Mentor](https://www.reddit.com/r/analyticsengineering/comments/1w9s3ef/analytics_engineering_mentor/) | u/AE_From_DA | — | text | 1 | 16 | live | — |
-| 42 | 2026-09-07 | [Analutical Engineering Mentor](https://www.reddit.com/r/analyticsengineering/comments/1w9s1wy/analutical_engineering_mentor/) | u/AE_From_DA | — | text | 1 | 0 | deleted by author | — |
-| 43 | 2026-09-07 | [UK and Europe: has the analytics engineer CV changed now that every job ad wants AI too?](https://www.reddit.com/r/analyticsengineering/comments/1w9rxyu/uk_and_europe_has_the_analytics_engineer_cv/) | u/Kunal_3008 | — | text | 1 | 2 | live | — |
-| 44 | 2026-09-07 | [Do you expose your base semantic models directly, or treat them as implementation details?](https://www.reddit.com/r/analyticsengineering/comments/1w9qyur/do_you_expose_your_base_semantic_models_directly/) | u/SigridHalvorsen | — | text | 4 | 2 | live | — |
-| 45 | 2026-09-05 | [Question - Xero vs. QuickBooks Online (QBO) for constructing data pipelines that tethers sales units to EBITD…](https://www.reddit.com/r/analyticsengineering/comments/1w8dzbj/question_xero_vs_quickbooks_online_qbo_for/) | u/Original_Chipmunk941 | — | text | 1 | 0 | deleted by author | — |
-| 46 | 2026-08-29 | [Exposing BI code base to Claude](https://www.reddit.com/r/analyticsengineering/comments/1w1l2i2/exposing_bi_code_base_to_claude/) | u/WiseWeird6306 | — | — | 1 | 0 | live | — |
-| 47 | 2026-08-26 | [Did self-service BI make us forget why semantic layers existed?](https://www.reddit.com/r/analyticsengineering/comments/1vyp9li/did_selfservice_bi_make_us_forget_why_semantic/) | u/bitmetric | — | text | 7 | 2 | live | — |
-| 48 | 2026-08-25 | [Open sourcing a pre-PR guardrail for dbt Core + Snowflake](https://www.reddit.com/r/analyticsengineering/comments/1vyg5te/open_sourcing_a_prepr_guardrail_for_dbt_core/) | u/JacobKHD | — | text | 3 | 0 | live | — |
-| 49 | 2026-08-24 | [Optimisation of bigquery for better performance cost for analytics](https://www.reddit.com/r/analyticsengineering/comments/1vx3xx5/optimisation_of_bigquery_for_better_performance/) | u/Admirable-Call3058 | — | github.com | 0 | 3 | live | — |
-| 50 | 2026-08-21 | [\[5 YoE, Data Analyst, Analytics/Data Engineer, United States\]](https://www.reddit.com/r/analyticsengineering/comments/1vuplkh/5_yoe_data_analyst_analyticsdata_engineer_united/) | u/ABRuns123 | — | reddit.com | 0 | 0 | live | — |
+| 1 | 2026-11-06 | [User study on a data automation tool](#post-1) | u/columns_ai | — | reddit.com | 1 | 0 | live | — |
+| 2 | 2026-11-05 | [Have you ever analyzed or pulled data from ServiceNow](#post-2) | u/Data-Stand-1759 | — | text | 1 | 0 | spam-filtered | — |
+| 3 | 2026-11-04 | [Sales Targets vs Actuals for Individual Quota Attainment](#post-3) | u/creamycolslaw | — | text | 1 | 10 | live | — |
+| 4 | 2026-11-04 | [Migrating snowflake worksheet/notebook](#post-4) | u/Qwertyoks | — | reddit.com | 1 | 0 | live | — |
+| 5 | 2026-11-04 | [Mapping datasets by reach and promises](#post-5) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live | — |
+| 6 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](#post-6) | u/BullfrogFinal3566 | — | reddit.com | 1 | 1 | live | — |
+| 7 | 2026-11-03 | [Worked six months unpaid at a startup, trusted promises of a paid role, then was let go. Looking for advice a…](#post-7) | u/Scared_Ad_4997 | — | text | 1 | 3 | live | — |
+| 8 | 2026-11-03 | [Free Microsoft DP-600 vouchers during Data Days](#post-8) | u/FabricPam | — | text | 2 | 1 | live | — |
+| 9 | 2026-11-02 | [Trusting your data agent](#post-9) | u/a-n3w-begIn | — | reddit.com | 1 | 0 | live | — |
+| 10 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](#post-10) | u/No_Advertising2536 | — | reddit.com | 0 | 1 | live | — |
+| 11 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](#post-11) | u/WiseWeird6306 | — | text | 4 | 6 | live | — |
+| 12 | 2026-11-01 | [How often do job postings name the keywords ChatGPT suggests?](#post-12) | u/Enough_Charge2845 | — | text | 2 | 0 | live | — |
+| 13 | 2026-11-01 | [Medallion Layer Enforcement](#post-13) | u/TranslatorComplex517 | — | reddit.com | 1 | 0 | live | — |
+| 14 | 2026-11-01 | [Don't know what to study or where to go](#post-14) | u/Andremallmann | — | text | 14 | 9 | live | — |
+| 15 | 2026-10-30 | [Year end review with AI in perspective](#post-15) | u/WiseWeird6306 | — | reddit.com | 1 | 1 | live | — |
+| 16 | 2026-10-27 | [Had a project go badly recently. The core problem was a decision made above my pay grade before I was even as…](#post-16) | u/edit_haus67 | — | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-10-26 | [dashboards showing different numbers for the same metric? check for join fan-out first, and don't trust SUM(D…](#post-17) | u/Evening_Hawk_7470 | — | text | 5 | 4 | live | — |
+| 18 | 2026-10-26 | [The fix that worked for me was boring: every number in the status report gets one plain sentence saying what…](#post-18) | u/gon-everynumber | — | text | 0 | 0 | live | — |
+| 19 | 2026-10-17 | [How are teams noticing a new intent before an existing intent taxonomy distorts the dashboard?](#post-19) | u/Any_Moose_2873 | — | text | 11 | 11 | spam-filtered | — |
+| 20 | 2026-10-15 | [Looking for an experienced Analytics Engineer to Mentor Me](#post-20) | u/Due_Bridge3794 | — | text | 5 | 5 | live | — |
+| 21 | 2026-10-12 | [Building dashboards using MCP vs API calls](#post-21) | u/undef9 | — | text | 0 | 1 | spam-filtered | — |
+| 22 | 2026-10-12 | [Sustainable packaging mistake has us shipping tiny products in giant boxes](#post-22) | u/EcoojmistAlarming407 | — | text | 1 | 1 | live | — |
+| 23 | 2026-10-09 | [Is a paid Data Engineering course actually worth it for a beginner?](#post-23) | u/Junior_Investment514 | — | text | 3 | 8 | live | — |
+| 24 | 2026-10-09 | [Looking for open source complex dbt metric flow example](#post-24) | u/undef9 | — | — | 1 | 0 | spam-filtered | — |
+| 25 | 2026-10-08 | [Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)](#post-25) | u/arimbr | — | alvin.ai | 2 | 0 | live | — |
+| 26 | 2026-09-25 | [Feeling stuck learning data analytics alone — how do I stay consistent?](#post-26) | u/weird_world0007 | — | — | 1 | 0 | live | — |
+| 27 | 2026-09-24 | [What are the genuinely hard Analytics Engineering problems you've dealt with at scale?](#post-27) | u/DataaWolff | — | text | 7 | 2 | live | — |
+| 28 | 2026-09-19 | [For those working on larger BI projects, what does your process look like?](#post-28) | u/Minute_Ingenuity_889 | — | — | 1 | 0 | live | — |
+| 29 | 2026-09-17 | [Where should behavioural intelligence sit in the data stack?](#post-29) | u/ConvisoAI | — | text | 1 | 0 | spam-filtered | — |
+| 30 | 2026-09-17 | [Why does an analytics project spend most of its budget before the first dashboard exists?](#post-30) | u/spacerror93 | — | text | 0 | 1 | live | — |
+| 31 | 2026-09-16 | [Laid off Data Analyst looking to transition to Data Engineering (Need roadmap & advice on DS/ML requirements)](#post-31) | u/SunAccording8875 | — | — | 2 | 0 | live | — |
+| 32 | 2026-09-16 | [Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to y…](#post-32) | u/Ok-Data-Guy | — | text | 1 | 0 | spam-filtered | — |
+| 33 | 2026-09-16 | [Instead of another BI Tool Selection cycle, we put a Semantic Layer in front of our warehouse](#post-33) | u/Familiar_Season1255 | — | text | 3 | 2 | live | — |
+| 34 | 2026-09-15 | [How do you even get interviews??](#post-34) | u/defNot-BigKev | — | text | 7 | 2 | live | — |
+| 35 | 2026-09-15 | [They all write, store and read so why do we need DuckDB in the first place?](#post-35) | u/dmkii | — | v.redd.it | 1 | 0 | live | — |
+| 36 | 2026-09-12 | [data analyst with2 YOE at health tech basically doing analytics engineering work bit wants to formalize, look…](#post-36) | u/Vivid_Frequentist617 | — | i.redd.it | 6 | 1 | live | — |
+| 37 | 2026-09-10 | [Data Engineer w/ 2+ YOE seeking resume feedback](#post-37) | u/ConsiderationDry1787 | — | i.redd.it | 1 | 7 | live | — |
+| 38 | 2026-09-09 | [MSc dissertation survey — how analytics maturity & data governance affect the financial payoff of analytics (…](#post-38) | u/Money-Style-2714 | — | text | 1 | 0 | live | — |
+| 39 | 2026-09-07 | [Please roast this resume before a recruiter does :)](#post-39) | u/beetfarmer_schrutes | — | text | 1 | 0 | live | — |
+| 40 | 2026-09-07 | [Please roast this resume before a recruiter does it :)](#post-40) | u/beetfarmer_schrutes | — | — | 1 | 0 | deleted by author | — |
+| 41 | 2026-09-07 | [Analytics Engineering Mentor](#post-41) | u/AE_From_DA | — | text | 1 | 16 | live | — |
+| 42 | 2026-09-07 | [Analutical Engineering Mentor](#post-42) | u/AE_From_DA | — | text | 1 | 0 | deleted by author | — |
+| 43 | 2026-09-07 | [UK and Europe: has the analytics engineer CV changed now that every job ad wants AI too?](#post-43) | u/Kunal_3008 | — | text | 1 | 2 | live | — |
+| 44 | 2026-09-07 | [Do you expose your base semantic models directly, or treat them as implementation details?](#post-44) | u/SigridHalvorsen | — | text | 4 | 2 | live | — |
+| 45 | 2026-09-05 | [Question - Xero vs. QuickBooks Online (QBO) for constructing data pipelines that tethers sales units to EBITD…](#post-45) | u/Original_Chipmunk941 | — | text | 1 | 0 | deleted by author | — |
+| 46 | 2026-08-29 | [Exposing BI code base to Claude](#post-46) | u/WiseWeird6306 | — | — | 1 | 0 | live | — |
+| 47 | 2026-08-26 | [Did self-service BI make us forget why semantic layers existed?](#post-47) | u/bitmetric | — | text | 7 | 2 | live | — |
+| 48 | 2026-08-25 | [Open sourcing a pre-PR guardrail for dbt Core + Snowflake](#post-48) | u/JacobKHD | — | text | 3 | 0 | live | — |
+| 49 | 2026-08-24 | [Optimisation of bigquery for better performance cost for analytics](#post-49) | u/Admirable-Call3058 | — | github.com | 0 | 3 | live | — |
+| 50 | 2026-08-21 | [\[5 YoE, Data Analyst, Analytics/Data Engineer, United States\]](#post-50) | u/ABRuns123 | — | reddit.com | 0 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -90,45 +90,51 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14 | 2026-11-01 | [Don't know what to study or where to go](https://www.reddit.com/r/analyticsengineering/comments/1xl2a0a/dont_know_what_to_study_or_where_to_go/) | u/Andremallmann | — | text | 14 | 9 | live |
-| 20 | 2026-10-15 | [Looking for an experienced Analytics Engineer to Mentor Me](https://www.reddit.com/r/analyticsengineering/comments/1x6bsrc/looking_for_an_experienced_analytics_engineer_to/) | u/Due_Bridge3794 | — | text | 5 | 5 | live |
-| 17 | 2026-10-26 | [dashboards showing different numbers for the same metric? check for join fan-out first, and don't trust SUM(D…](https://www.reddit.com/r/analyticsengineering/comments/1xgckab/dashboards_showing_different_numbers_for_the_same/) | u/Evening_Hawk_7470 | — | text | 5 | 4 | live |
-| 11 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](https://www.reddit.com/r/analyticsengineering/comments/1xlaen9/should_i_be_learning_new_skill_or_just_implement/) | u/WiseWeird6306 | — | text | 4 | 6 | live |
-| 8 | 2026-11-03 | [Free Microsoft DP-600 vouchers during Data Days](https://www.reddit.com/r/analyticsengineering/comments/1xn0vwb/free_microsoft_dp600_vouchers_during_data_days/) | u/FabricPam | — | text | 2 | 1 | live |
-| 12 | 2026-11-01 | [How often do job postings name the keywords ChatGPT suggests?](https://www.reddit.com/r/analyticsengineering/comments/1xl6a40/how_often_do_job_postings_name_the_keywords/) | u/Enough_Charge2845 | — | text | 2 | 0 | live |
-| 3 | 2026-11-04 | [Sales Targets vs Actuals for Individual Quota Attainment](https://www.reddit.com/r/analyticsengineering/comments/1xo0r2w/sales_targets_vs_actuals_for_individual_quota/) | u/creamycolslaw | — | text | 1 | 10 | live |
-| 7 | 2026-11-03 | [Worked six months unpaid at a startup, trusted promises of a paid role, then was let go. Looking for advice a…](https://www.reddit.com/r/analyticsengineering/comments/1xn1l5v/worked_six_months_unpaid_at_a_startup_trusted/) | u/Scared_Ad_4997 | — | text | 1 | 3 | live |
-| 6 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](https://www.reddit.com/r/analyticsengineering/comments/1xnitp2/anyone_else_finding_it_difficult_to_predict_their/) | u/BullfrogFinal3566 | — | reddit.com | 1 | 1 | live |
-| 15 | 2026-10-30 | [Year end review with AI in perspective](https://www.reddit.com/r/analyticsengineering/comments/1xjkmtx/year_end_review_with_ai_in_perspective/) | u/WiseWeird6306 | — | reddit.com | 1 | 1 | live |
-| 22 | 2026-10-12 | [Sustainable packaging mistake has us shipping tiny products in giant boxes](https://www.reddit.com/r/analyticsengineering/comments/1x3z910/sustainable_packaging_mistake_has_us_shipping/) | u/EcoojmistAlarming407 | — | text | 1 | 1 | live |
-| 1 | 2026-11-06 | [User study on a data automation tool](https://www.reddit.com/r/analyticsengineering/comments/1xp7a6o/user_study_on_a_data_automation_tool/) | u/columns_ai | — | reddit.com | 1 | 0 | live |
-| 4 | 2026-11-04 | [Migrating snowflake worksheet/notebook](https://www.reddit.com/r/analyticsengineering/comments/1xnxnwb/migrating_snowflake_worksheetnotebook/) | u/Qwertyoks | — | reddit.com | 1 | 0 | live |
-| 5 | 2026-11-04 | [Mapping datasets by reach and promises](https://www.reddit.com/r/analyticsengineering/comments/1xno3xg/mapping_datasets_by_reach_and_promises/) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live |
-| 9 | 2026-11-02 | [Trusting your data agent](https://www.reddit.com/r/analyticsengineering/comments/1xmcxj8/trusting_your_data_agent/) | u/a-n3w-begIn | — | reddit.com | 1 | 0 | live |
-| 13 | 2026-11-01 | [Medallion Layer Enforcement](https://www.reddit.com/r/analyticsengineering/comments/1xl5ydw/medallion_layer_enforcement/) | u/TranslatorComplex517 | — | reddit.com | 1 | 0 | live |
-| 10 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](https://www.reddit.com/r/analyticsengineering/comments/1xm85xx/im_building_an_ai_data_engineer_that_runs_as_a/) | u/No_Advertising2536 | — | reddit.com | 0 | 1 | live |
-| 18 | 2026-10-26 | [The fix that worked for me was boring: every number in the status report gets one plain sentence saying what…](https://www.reddit.com/r/analyticsengineering/comments/1xfukjd/the_fix_that_worked_for_me_was_boring_every/) | u/gon-everynumber | — | text | 0 | 0 | live |
+| 14 | 2026-11-01 | [Don't know what to study or where to go](#post-14) | u/Andremallmann | — | text | 14 | 9 | live |
+| 20 | 2026-10-15 | [Looking for an experienced Analytics Engineer to Mentor Me](#post-20) | u/Due_Bridge3794 | — | text | 5 | 5 | live |
+| 17 | 2026-10-26 | [dashboards showing different numbers for the same metric? check for join fan-out first, and don't trust SUM(D…](#post-17) | u/Evening_Hawk_7470 | — | text | 5 | 4 | live |
+| 11 | 2026-11-01 | [Should I be learning new skill or just implement things with Claude?](#post-11) | u/WiseWeird6306 | — | text | 4 | 6 | live |
+| 8 | 2026-11-03 | [Free Microsoft DP-600 vouchers during Data Days](#post-8) | u/FabricPam | — | text | 2 | 1 | live |
+| 12 | 2026-11-01 | [How often do job postings name the keywords ChatGPT suggests?](#post-12) | u/Enough_Charge2845 | — | text | 2 | 0 | live |
+| 3 | 2026-11-04 | [Sales Targets vs Actuals for Individual Quota Attainment](#post-3) | u/creamycolslaw | — | text | 1 | 10 | live |
+| 7 | 2026-11-03 | [Worked six months unpaid at a startup, trusted promises of a paid role, then was let go. Looking for advice a…](#post-7) | u/Scared_Ad_4997 | — | text | 1 | 3 | live |
+| 6 | 2026-11-04 | [Anyone else finding it difficult to predict their ETL costs as data grows?](#post-6) | u/BullfrogFinal3566 | — | reddit.com | 1 | 1 | live |
+| 15 | 2026-10-30 | [Year end review with AI in perspective](#post-15) | u/WiseWeird6306 | — | reddit.com | 1 | 1 | live |
+| 22 | 2026-10-12 | [Sustainable packaging mistake has us shipping tiny products in giant boxes](#post-22) | u/EcoojmistAlarming407 | — | text | 1 | 1 | live |
+| 1 | 2026-11-06 | [User study on a data automation tool](#post-1) | u/columns_ai | — | reddit.com | 1 | 0 | live |
+| 4 | 2026-11-04 | [Migrating snowflake worksheet/notebook](#post-4) | u/Qwertyoks | — | reddit.com | 1 | 0 | live |
+| 5 | 2026-11-04 | [Mapping datasets by reach and promises](#post-5) | u/sfnmoll | — | steffenmoll.github.io | 1 | 0 | live |
+| 9 | 2026-11-02 | [Trusting your data agent](#post-9) | u/a-n3w-begIn | — | reddit.com | 1 | 0 | live |
+| 13 | 2026-11-01 | [Medallion Layer Enforcement](#post-13) | u/TranslatorComplex517 | — | reddit.com | 1 | 0 | live |
+| 10 | 2026-11-02 | [I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way](#post-10) | u/No_Advertising2536 | — | reddit.com | 0 | 1 | live |
+| 18 | 2026-10-26 | [The fix that worked for me was boring: every number in the status report gets one plain sentence saying what…](#post-18) | u/gon-everynumber | — | text | 0 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. User study on a data automation tool
 
-2026-11-06 · u/columns_ai · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xp7a6o/user_study_on_a_data_automation_tool/)
+2026-11-06 · u/columns_ai · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xp7a6o/user_study_on_a_data_automation_tool/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/datavisualization/comments/1xp79r7/user_study_on_a_data_automation_tool/>
 
 
+<a id="post-2"></a>
+
 ### 2. Have you ever analyzed or pulled data from ServiceNow
 
-2026-11-05 · u/Data-Stand-1759 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xowatr/have_you_ever_analyzed_or_pulled_data_from/)
+2026-11-05 · u/Data-Stand-1759 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xowatr/have_you_ever_analyzed_or_pulled_data_from/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Sales Targets vs Actuals for Individual Quota Attainment
 
-2026-11-04 · u/creamycolslaw · score 1 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xo0r2w/sales_targets_vs_actuals_for_individual_quota/)
+2026-11-04 · u/creamycolslaw · score 1 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xo0r2w/sales_targets_vs_actuals_for_individual_quota/) · [↑ back to the list](#last-50-posts)
 
 > I’m struggling to model my hubspot & google sheets data to report on quota attainment for our sales team members.
 >
@@ -148,32 +154,40 @@ Link: <https://www.reddit.com/r/datavisualization/comments/1xp79r7/user_study_on
 >
 > Looking for ideas from anyway who has worked on a similar problem.
 
+<a id="post-4"></a>
+
 ### 4. Migrating snowflake worksheet/notebook
 
-2026-11-04 · u/Qwertyoks · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xnxnwb/migrating_snowflake_worksheetnotebook/)
+2026-11-04 · u/Qwertyoks · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xnxnwb/migrating_snowflake_worksheetnotebook/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/snowflake/comments/1xnxnef/migrating_snowflake_worksheetnotebook/>
 
 > We are in the process of migrating from one client Snowflake account to another. The client has a large number of worksheets and notebooks across different users that need to be migrated. Could someone advise whether this is possible and, if so, what the best approach would be?
 
+<a id="post-5"></a>
+
 ### 5. Mapping datasets by reach and promises
 
-2026-11-04 · u/sfnmoll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xno3xg/mapping_datasets_by_reach_and_promises/)
+2026-11-04 · u/sfnmoll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xno3xg/mapping_datasets_by_reach_and_promises/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://steffenmoll.github.io/where-a-dataset-naturally-fits>
 
 > The Open Data Contract Standard, Apache Ossie and Medallion structure all lacks a central component, who the data is for and how it hits the organization! Join me as I elaborate on some thoughts while working on data platform in a broader context
 
+<a id="post-6"></a>
+
 ### 6. Anyone else finding it difficult to predict their ETL costs as data grows?
 
-2026-11-04 · u/BullfrogFinal3566 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xnitp2/anyone_else_finding_it_difficult_to_predict_their/)
+2026-11-04 · u/BullfrogFinal3566 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xnitp2/anyone_else_finding_it_difficult_to_predict_their/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ETL/comments/1xnithl/anyone_else_finding_it_difficult_to_predict_their/>
 
 
+<a id="post-7"></a>
+
 ### 7. Worked six months unpaid at a startup, trusted promises of a paid role, then was let go. Looking for advice and job leads.
 
-2026-11-03 · u/Scared_Ad_4997 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xn1l5v/worked_six_months_unpaid_at_a_startup_trusted/)
+2026-11-03 · u/Scared_Ad_4997 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xn1l5v/worked_six_months_unpaid_at_a_startup_trusted/) · [↑ back to the list](#last-50-posts)
 
 > I spent six months working unpaid at an early-stage real estate startup founded by a fellow UMass Amherst alum. I joined while on OPT after a couple of interview rounds. The company was building an AI/CRM product, and I came on as a data engineering intern.
 >
@@ -197,29 +211,37 @@ Link: <https://www.reddit.com/r/ETL/comments/1xnithl/anyone_else_finding_it_diff
 >
 > I’d also really appreciate hearing from anyone who has been through something similar. Honestly, I’m struggling right now. After putting six months into something I believed would become a stable opportunity, I’m suddenly trying to figure out how to support myself and find another role while my OPT clock keeps running. It’s overwhelming, and I’m scared about what comes next. If you have a job lead, know someone who’s hiring, can offer a referral, or have advice that could help me take the next step, please reach out. Even a small lead or an introduction would mean a lot to me right now.
 
+<a id="post-8"></a>
+
 ### 8. Free Microsoft DP-600 vouchers during Data Days
 
-2026-11-03 · u/FabricPam · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xn0vwb/free_microsoft_dp600_vouchers_during_data_days/)
+2026-11-03 · u/FabricPam · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xn0vwb/free_microsoft_dp600_vouchers_during_data_days/) · [↑ back to the list](#last-50-posts)
 
 > Hello from the Microsoft team -- wanted to let you all know we're offering free vouchers for the Microsoft Fabric Analytics Engineer exam during Data Days.  [https://aka.ms/datadays](https://aka.ms/datadays)
 
+<a id="post-9"></a>
+
 ### 9. Trusting your data agent
 
-2026-11-02 · u/a-n3w-begIn · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xmcxj8/trusting_your_data_agent/)
+2026-11-02 · u/a-n3w-begIn · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xmcxj8/trusting_your_data_agent/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/DataBuildTool/comments/1xluvii/trusting_your_data_agent/>
 
 
+<a id="post-10"></a>
+
 ### 10. I'm building an AI data engineer that runs as a Databricks App. Here's what broke along the way
 
-2026-11-02 · u/No_Advertising2536 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xm85xx/im_building_an_ai_data_engineer_that_runs_as_a/)
+2026-11-02 · u/No_Advertising2536 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xm85xx/im_building_an_ai_data_engineer_that_runs_as_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_data_engineer_that_runs_as_a/>
 
 
+<a id="post-11"></a>
+
 ### 11. Should I be learning new skill or just implement things with Claude?
 
-2026-11-01 · u/WiseWeird6306 · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xlaen9/should_i_be_learning_new_skill_or_just_implement/)
+2026-11-01 · u/WiseWeird6306 · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xlaen9/should_i_be_learning_new_skill_or_just_implement/) · [↑ back to the list](#last-50-posts)
 
 > Hi community, wanted to ask is there any point spending in learning things via course on udemy, dbt, snowflake or just implement it via Claude?
 >
@@ -227,9 +249,11 @@ Link: <https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_da
 >
 > My traditional mindset is learn the fundamentals and then play with it. But with how quick others are in implementing things via Claude without spending time on understanding things and it still works out for them, I do not know what learning path to take. Need advice!
 
+<a id="post-12"></a>
+
 ### 12. How often do job postings name the keywords ChatGPT suggests?
 
-2026-11-01 · u/Enough_Charge2845 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl6a40/how_often_do_job_postings_name_the_keywords/)
+2026-11-01 · u/Enough_Charge2845 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl6a40/how_often_do_job_postings_name_the_keywords/) · [↑ back to the list](#last-50-posts)
 
 > A keyword list from ChatGPT comes from general knowledge and says nothing about how many postings it rests on. A plausible suggestion is not the same as a common one.
 >
@@ -237,9 +261,11 @@ Link: <https://www.reddit.com/r/databricks/comments/1xm75ml/im_building_an_ai_da
 >
 > ChatGPT is the better tool for rewriting a bullet. The counts for seven roles (3,518 postings) and the method are on [https://resumefitting.com](https://resumefitting.com) matching is by term, so a missed synonym counts as absent.
 
+<a id="post-13"></a>
+
 ### 13. Medallion Layer Enforcement
 
-2026-11-01 · u/TranslatorComplex517 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl5ydw/medallion_layer_enforcement/)
+2026-11-01 · u/TranslatorComplex517 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl5ydw/medallion_layer_enforcement/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xl5wv2>
 
@@ -271,9 +297,11 @@ Link: <https://www.reddit.com/gallery/1xl5wv2>
 >
 > \#dbt #AnalyticsEngineering #DataEngineering
 
+<a id="post-14"></a>
+
 ### 14. Don't know what to study or where to go
 
-2026-11-01 · u/Andremallmann · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl2a0a/dont_know_what_to_study_or_where_to_go/)
+2026-11-01 · u/Andremallmann · score 14 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xl2a0a/dont_know_what_to_study_or_where_to_go/) · [↑ back to the list](#last-50-posts)
 
 > Hello Guys!
 >
@@ -289,22 +317,28 @@ Link: <https://www.reddit.com/gallery/1xl5wv2>
 >
 > Sorry for any grammar mistake, english is not my primary language.
 
+<a id="post-15"></a>
+
 ### 15. Year end review with AI in perspective
 
-2026-10-30 · u/WiseWeird6306 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xjkmtx/year_end_review_with_ai_in_perspective/)
+2026-10-30 · u/WiseWeird6306 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xjkmtx/year_end_review_with_ai_in_perspective/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_ai_in_perspective/>
 
 
+<a id="post-16"></a>
+
 ### 16. Had a project go badly recently. The core problem was a decision made above my pay grade before I was even assigned, but in the retro the narrative is drifting toward it being a management-of-the-project issue. I am trying to be honest with myself about where my actual responsibility ended and where
 
-2026-10-27 · u/edit_haus67 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xgr2lk/had_a_project_go_badly_recently_the_core_problem/)
+2026-10-27 · u/edit_haus67 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xgr2lk/had_a_project_go_badly_recently_the_core_problem/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-17"></a>
+
 ### 17. dashboards showing different numbers for the same metric? check for join fan-out first, and don't trust SUM(DISTINCT) to fix it
 
-2026-10-26 · u/Evening_Hawk_7470 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xgckab/dashboards_showing_different_numbers_for_the_same/)
+2026-10-26 · u/Evening_Hawk_7470 · score 5 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xgckab/dashboards_showing_different_numbers_for_the_same/) · [↑ back to the list](#last-50-posts)
 
 > if two dashboards disagree on the same metric and both queries look fine, join fan-out is one of the first things i'd check. it's an old problem, but it keeps coming back because nothing errors. the number is just quietly too big, or with the usual fix, quietly too small.
 >
@@ -360,9 +394,11 @@ Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_
 >
 > and finally one cheapo test you can run on your own models: for any metric that sums a column from a dimension-style table, compare the total at that table's own grain with the total through the dashboard's join path. any ratio above 1 means fan-out
 
+<a id="post-18"></a>
+
 ### 18. The fix that worked for me was boring: every number in the status report gets one plain sentence saying what it counts, and one line saying what it left out.
 
-2026-10-26 · u/gon-everynumber · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xfukjd/the_fix_that_worked_for_me_was_boring_every/)
+2026-10-26 · u/gon-everynumber · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1xfukjd/the_fix_that_worked_for_me_was_boring_every/) · [↑ back to the list](#last-50-posts)
 
 > The fix that worked for me was boring: every number in the status report gets one plain sentence saying what it counts, and one line saying what it left out.
 >
@@ -384,9 +420,11 @@ Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_
 >
 > Also write down who decides "Red". A status color without a written rule is an opinion, and that's where most of the Monday arguments come from.
 
+<a id="post-19"></a>
+
 ### 19. How are teams noticing a new intent before an existing intent taxonomy distorts the dashboard?
 
-2026-10-17 · u/Any_Moose_2873 · score 11 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x8elpv/how_are_teams_noticing_a_new_intent_before_an/)
+2026-10-17 · u/Any_Moose_2873 · score 11 · 11 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x8elpv/how_are_teams_noticing_a_new_intent_before_an/) · [↑ back to the list](#last-50-posts)
 
 > We process 68000 billing chats a week and our production classification kept splitting 4216 family plan transfer conversations between 2 existing buckets. 2170 landed in cancellation while 2046 landed in general billing. The topic distribution barely moved, the labels were wrong. (I recognized the wording from a support review.)
 >
@@ -394,9 +432,11 @@ Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_
 >
 > So I ran semantic clustering over the production traces and the family plan transfer cluster showed up in Braintrust with the mislabeled examples grouped together. I pulled that trace cohort into one review and added a custom facet to track the pattern without replacing the whole taxonomy. A useful catch. The dashboard now shows the emerging request but I still haven’t decided whether it deserves a durable category or a temporary watch label.
 
+<a id="post-20"></a>
+
 ### 20. Looking for an experienced Analytics Engineer to Mentor Me
 
-2026-10-15 · u/Due_Bridge3794 · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x6bsrc/looking_for_an_experienced_analytics_engineer_to/)
+2026-10-15 · u/Due_Bridge3794 · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x6bsrc/looking_for_an_experienced_analytics_engineer_to/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -412,23 +452,29 @@ Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_
 >
 > Thank you! 🙏
 
+<a id="post-21"></a>
+
 ### 21. Building dashboards using MCP vs API calls
 
-2026-10-12 · u/undef9 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x43am6/building_dashboards_using_mcp_vs_api_calls/)
+2026-10-12 · u/undef9 · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x43am6/building_dashboards_using_mcp_vs_api_calls/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-22"></a>
+
 ### 22. Sustainable packaging mistake has us shipping tiny products in giant boxes
 
-2026-10-12 · u/EcoojmistAlarming407 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x3z910/sustainable_packaging_mistake_has_us_shipping/)
+2026-10-12 · u/EcoojmistAlarming407 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x3z910/sustainable_packaging_mistake_has_us_shipping/) · [↑ back to the list](#last-50-posts)
 
 > Ok so I approved the wrong packaging spec for a launch because the file names were almost identical. We needed small recycled mailers with a paper insert but I approved the large box version with enough paper fill for a much bigger product. Nobody caught it until fulfillment sent me a photo of one lip balm sitting in a box like it needed its own apartment.  
 >
 > Now we have thousands of oversized boxes taking up warehouse space and customers are going to get a ridiculous amount of empty packaging. I feel so embarrassed because the whole point was to protect the product without creating waste. We can fix it but this is so awkward. Has anyone else made a packaging approval mistake like this?
 
+<a id="post-23"></a>
+
 ### 23. Is a paid Data Engineering course actually worth it for a beginner?
 
-2026-10-09 · u/Junior_Investment514 · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x1mjfw/is_a_paid_data_engineering_course_actually_worth/)
+2026-10-09 · u/Junior_Investment514 · score 3 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x1mjfw/is_a_paid_data_engineering_course_actually_worth/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been learning SQL and Python through free resources and that part is going okay. The problem started once I moved towards Spark and cloud. There’s just too much stuff and every tutorial seems to assume something different.
 >
@@ -440,30 +486,38 @@ Link: <https://www.reddit.com/r/analytics/comments/1xjkmgp/year_end_review_with_
 >
 > I’m not against spending money if it genuinely saves time, but I don’t want to pay 50-80k just to watch videos I could’ve found for free.
 
+<a id="post-24"></a>
+
 ### 24. Looking for open source complex dbt metric flow example
 
-2026-10-09 · u/undef9 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x1lepg/looking_for_open_source_complex_dbt_metric_flow/)
+2026-10-09 · u/undef9 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x1lepg/looking_for_open_source_complex_dbt_metric_flow/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/ETL/comments/1x1l9b0/looking_for_open_source_complex_dbt_metric_flow/>
 
 
+<a id="post-25"></a>
+
 ### 25. Making Sense of BigQuery Pricing Models: On-Demand, Capacity, Editions (2026)
 
-2026-10-08 · u/arimbr · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x0trse/making_sense_of_bigquery_pricing_models_ondemand/)
+2026-10-08 · u/arimbr · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1x0trse/making_sense_of_bigquery_pricing_models_ondemand/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.alvin.ai/blog/bigquery-pricing-models>
 
 
+<a id="post-26"></a>
+
 ### 26. Feeling stuck learning data analytics alone — how do I stay consistent?
 
-2026-09-25 · u/weird_world0007 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wpyt32/feeling_stuck_learning_data_analytics_alone_how/)
+2026-09-25 · u/weird_world0007 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wpyt32/feeling_stuck_learning_data_analytics_alone_how/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/LearnDataAnalytics/comments/1wpys8x/feeling_stuck_learning_data_analytics_alone_how/>
 
 
+<a id="post-27"></a>
+
 ### 27. What are the genuinely hard Analytics Engineering problems you've dealt with at scale?
 
-2026-09-24 · u/DataaWolff · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wp1zzv/what_are_the_genuinely_hard_analytics_engineering/)
+2026-09-24 · u/DataaWolff · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wp1zzv/what_are_the_genuinely_hard_analytics_engineering/) · [↑ back to the list](#last-50-posts)
 
 > I'm exploring analytics engineering. Most content online covers tools and tutorials (dbt, star schemas, etc.), but I want to hear about **real problems**, not "advanced topics."
 >
@@ -487,22 +541,28 @@ Link: </r/LearnDataAnalytics/comments/1wpys8x/feeling_stuck_learning_data_analyt
 >
 > Would love war stories over textbook answers. Thanks!
 
+<a id="post-28"></a>
+
 ### 28. For those working on larger BI projects, what does your process look like?
 
-2026-09-19 · u/Minute_Ingenuity_889 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wkjla7/for_those_working_on_larger_bi_projects_what_does/)
+2026-09-19 · u/Minute_Ingenuity_889 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wkjla7/for_those_working_on_larger_bi_projects_what_does/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataanalytics/comments/1wkjkzm/for_those_working_on_larger_bi_projects_what_does/>
 
 
+<a id="post-29"></a>
+
 ### 29. Where should behavioural intelligence sit in the data stack?
 
-2026-09-17 · u/ConvisoAI · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wiveru/where_should_behavioural_intelligence_sit_in_the/)
+2026-09-17 · u/ConvisoAI · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wiveru/where_should_behavioural_intelligence_sit_in_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-30"></a>
+
 ### 30. Why does an analytics project spend most of its budget before the first dashboard exists?
 
-2026-09-17 · u/spacerror93 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1winzfg/why_does_an_analytics_project_spend_most_of_its/)
+2026-09-17 · u/spacerror93 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1winzfg/why_does_an_analytics_project_spend_most_of_its/) · [↑ back to the list](#last-50-posts)
 
 > I wrote about the part of analytics projects nobody puts in the kickoff deck.  
 > A client asked us to consolidate three years of data. The Excel format changed every year. We wrote a pipeline per year just to read the files. Then the validation rules started rejecting rows, because a spreadsheet will accept a typo in a supplier ID and a pipeline will not.  
@@ -510,16 +570,20 @@ Link: </r/dataanalytics/comments/1wkjkzm/for_those_working_on_larger_bi_projects
 > In the post: how Medallion Architecture on Databricks let us keep changing business rules without breaking production reports, and the three questions clients always ask about messy data.  
 > Full post [https://www.rubicon-world.com/blog/analytics-project-budget-before-first-dashboard](https://www.rubicon-world.com/blog/analytics-project-budget-before-first-dashboard)
 
+<a id="post-31"></a>
+
 ### 31. Laid off Data Analyst looking to transition to Data Engineering (Need roadmap & advice on DS/ML requirements)
 
-2026-09-16 · u/SunAccording8875 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi99vh/laid_off_data_analyst_looking_to_transition_to/)
+2026-09-16 · u/SunAccording8875 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi99vh/laid_off_data_analyst_looking_to_transition_to/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataengineersindia/comments/1wi9977/laid_off_data_analyst_looking_to_transition_to/>
 
 
+<a id="post-32"></a>
+
 ### 32. Help shape the 2026 data connectivity report — 5 min survey, no email gate, raw data results shared back to you
 
-2026-09-16 · u/Ok-Data-Guy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi60oa/help_shape_the_2026_data_connectivity_report_5/)
+2026-09-16 · u/Ok-Data-Guy · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi60oa/help_shape_the_2026_data_connectivity_report_5/) · [↑ back to the list](#last-50-posts)
 
 > I'm writing a new data engineering report and need firsthand data on the state of data connectivity in 2026. Therefore, I am reaching out to the experts who know. This survey is short and open, with no email gate, no sales follow-up, and no sharing of personal information. It should only take 5 minutes to complete.
 >
@@ -535,9 +599,11 @@ Link: </r/dataengineersindia/comments/1wi9977/laid_off_data_analyst_looking_to_t
 >
 > Survey link: [https://forms.gle/DgXeYqT7HFwhP5xV7](https://forms.gle/DgXeYqT7HFwhP5xV7)
 
+<a id="post-33"></a>
+
 ### 33. Instead of another BI Tool Selection cycle, we put a Semantic Layer in front of our warehouse
 
-2026-09-16 · u/Familiar_Season1255 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi2861/instead_of_another_bi_tool_selection_cycle_we_put/)
+2026-09-16 · u/Familiar_Season1255 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wi2861/instead_of_another_bi_tool_selection_cycle_we_put/) · [↑ back to the list](#last-50-posts)
 
 > Lately, I’ve been focusing on consolidating our semantic layer. Here is the exact scenario that made my manager push for this:
 >
@@ -550,9 +616,11 @@ Link: </r/dataengineersindia/comments/1wi9977/laid_off_data_analyst_looking_to_t
 >
 > How are you all handling metric consolidation across teams? Are you using dbt, built-in BI modeling, or dedicated headless tools?
 
+<a id="post-34"></a>
+
 ### 34. How do you even get interviews??
 
-2026-09-15 · u/defNot-BigKev · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1whgzsm/how_do_you_even_get_interviews/)
+2026-09-15 · u/defNot-BigKev · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1whgzsm/how_do_you_even_get_interviews/) · [↑ back to the list](#last-50-posts)
 
 > For context:
 >
@@ -574,30 +642,38 @@ Link: </r/dataengineersindia/comments/1wi9977/laid_off_data_analyst_looking_to_t
 >
 > any ideas??
 
+<a id="post-35"></a>
+
 ### 35. They all write, store and read so why do we need DuckDB in the first place?
 
-2026-09-15 · u/dmkii · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wh1cfe/they_all_write_store_and_read_so_why_do_we_need/)
+2026-09-15 · u/dmkii · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wh1cfe/they_all_write_store_and_read_so_why_do_we_need/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/zkjjnu8lxoph1>
 
 
+<a id="post-36"></a>
+
 ### 36. data analyst with2 YOE at health tech basically doing analytics engineering work bit wants to formalize, looking for resume feedback or advice
 
-2026-09-12 · u/Vivid_Frequentist617 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1we64c2/data_analyst_with2_yoe_at_health_tech_basically/)
+2026-09-12 · u/Vivid_Frequentist617 · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1we64c2/data_analyst_with2_yoe_at_health_tech_basically/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/i72f9zddm1ph1.jpeg>
 
 
+<a id="post-37"></a>
+
 ### 37. Data Engineer w/ 2+ YOE seeking resume feedback
 
-2026-09-10 · u/ConsiderationDry1787 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wcqolf/data_engineer_w_2_yoe_seeking_resume_feedback/)
+2026-09-10 · u/ConsiderationDry1787 · score 1 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wcqolf/data_engineer_w_2_yoe_seeking_resume_feedback/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/cftweamifqoh1.png>
 
 
+<a id="post-38"></a>
+
 ### 38. MSc dissertation survey — how analytics maturity & data governance affect the financial payoff of analytics (data/analytics/AE pros)
 
-2026-09-09 · u/Money-Style-2714 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wb8771/msc_dissertation_survey_how_analytics_maturity/)
+2026-09-09 · u/Money-Style-2714 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1wb8771/msc_dissertation_survey_how_analytics_maturity/) · [↑ back to the list](#last-50-posts)
 
 > Hi all — I'm finishing my MSc Business Analytics dissertation at Newcastle University. The research digs into something analytics engineers see up close: why do similar analytics investments deliver such different financial returns? I'm testing how analytics maturity and data governance (stewardship, policy, accountability) change whether analytics capability actually translates into profitability.
 >
@@ -613,22 +689,28 @@ Link: <https://i.redd.it/cftweamifqoh1.png>
 >
 > Appreciate any responses — glad to discuss the topic in the comments.
 
+<a id="post-39"></a>
+
 ### 39. Please roast this resume before a recruiter does :)
 
-2026-09-07 · u/beetfarmer_schrutes · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9v44s/please_roast_this_resume_before_a_recruiter_does/)
+2026-09-07 · u/beetfarmer_schrutes · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9v44s/please_roast_this_resume_before_a_recruiter_does/) · [↑ back to the list](#last-50-posts)
 
 > https://preview.redd.it/0lai1shl84oh1.png?width=1336&format=png&auto=webp&s=cce452d925346f00e198df1fce8302d35cea4eb3
 
+<a id="post-40"></a>
+
 ### 40. Please roast this resume before a recruiter does it :)
 
-2026-09-07 · u/beetfarmer_schrutes · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9upwy/please_roast_this_resume_before_a_recruiter_does/)
+2026-09-07 · u/beetfarmer_schrutes · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9upwy/please_roast_this_resume_before_a_recruiter_does/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a_recruiter_does/>
 
 
+<a id="post-41"></a>
+
 ### 41. Analytics Engineering Mentor
 
-2026-09-07 · u/AE_From_DA · score 1 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9s3ef/analytics_engineering_mentor/)
+2026-09-07 · u/AE_From_DA · score 1 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9s3ef/analytics_engineering_mentor/) · [↑ back to the list](#last-50-posts)
 
 > **Looking for an Analytics Engineering Mentor — Snowflake + dbt**
 >
@@ -647,10 +729,12 @@ Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a
 > **Preference:** Someone currently working professionally with Snowflake + dbt and willing to provide practical, project-based mentorship.
 >
 > If you’re open to mentoring or know someone who might be a good fit, please DM me. I’d really appreciate it!
+
+<a id="post-42"></a>
 
 ### 42. Analutical Engineering Mentor
 
-2026-09-07 · u/AE_From_DA · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9s1wy/analutical_engineering_mentor/)
+2026-09-07 · u/AE_From_DA · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9s1wy/analutical_engineering_mentor/) · [↑ back to the list](#last-50-posts)
 
 > **Looking for an Analytics Engineering Mentor — Snowflake + dbt**
 >
@@ -670,9 +754,11 @@ Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a
 >
 > If you’re open to mentoring or know someone who might be a good fit, please DM me. I’d really appreciate it!
 
+<a id="post-43"></a>
+
 ### 43. UK and Europe: has the analytics engineer CV changed now that every job ad wants AI too?
 
-2026-09-07 · u/Kunal_3008 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9rxyu/uk_and_europe_has_the_analytics_engineer_cv/)
+2026-09-07 · u/Kunal_3008 · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9rxyu/uk_and_europe_has_the_analytics_engineer_cv/) · [↑ back to the list](#last-50-posts)
 
 > Data analyst, trying to move into analytics engineering based in London. Three months of applications across the UK, Germany, Netherlands and France. Mostly silence, a few rejections that came back so fast a human clearly never opened it.
 >
@@ -690,9 +776,11 @@ Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a
 >
 > Tell me straight. I would rather hear it now than send the same CV out for another three months.
 
+<a id="post-44"></a>
+
 ### 44. Do you expose your base semantic models directly, or treat them as implementation details?
 
-2026-09-07 · u/SigridHalvorsen · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9qyur/do_you_expose_your_base_semantic_models_directly/)
+2026-09-07 · u/SigridHalvorsen · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w9qyur/do_you_expose_your_base_semantic_models_directly/) · [↑ back to the list](#last-50-posts)
 
 > we've now been cleaning up our semantic layer and I'm starting to think our original mistake was exposing the base models too directly, and started pretty conventionally:
 >
@@ -725,9 +813,11 @@ Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a
 >
 > also curious how other teams structure this once the semantic layer gets reasonably large, and do you expose one broad model and let consumers explore it, build domain-specific semantic views/marts, or keep most of this separation downstream in the BI tool?
 
+<a id="post-45"></a>
+
 ### 45. Question - Xero vs. QuickBooks Online (QBO) for constructing data pipelines that tethers sales units to EBITDA. What do you prefer for analyzing sales units tethered to EBITDA - Xero or QuickBooks?
 
-2026-09-05 · u/Original_Chipmunk941 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w8dzbj/question_xero_vs_quickbooks_online_qbo_for/)
+2026-09-05 · u/Original_Chipmunk941 · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w8dzbj/question_xero_vs_quickbooks_online_qbo_for/) · [↑ back to the list](#last-50-posts)
 
 > I am an analytics engineer at a growing company. My employer asked me to put accounting software within their company. The main goal is to tether our sales units in the data warehouse to accounting software (Xero or QBO) to analyze sales units tethered to EBITDA. This will give us tethered and granular KPIs for most of the business funnel within our data warehouse (sales units generated --> selling expenses --> G&A --> EBITDA).
 >
@@ -735,16 +825,20 @@ Link: </r/dataanalysiscareers/comments/1w9umsz/please_roast_this_resume_before_a
 >
 > To clarify, I am referring specifically to **QuickBooks Online (QBO)**, not the desktop version. I do cloud data engineering.
 
+<a id="post-46"></a>
+
 ### 46. Exposing BI code base to Claude
 
-2026-08-29 · u/WiseWeird6306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w1l2i2/exposing_bi_code_base_to_claude/)
+2026-08-29 · u/WiseWeird6306 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1w1l2i2/exposing_bi_code_base_to_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/analytics/comments/1w1l1xd/exposing_bi_code_base_to_claude/>
 
 
+<a id="post-47"></a>
+
 ### 47. Did self-service BI make us forget why semantic layers existed?
 
-2026-08-26 · u/bitmetric · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vyp9li/did_selfservice_bi_make_us_forget_why_semantic/)
+2026-08-26 · u/bitmetric · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vyp9li/did_selfservice_bi_make_us_forget_why_semantic/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been working in BI since the BusinessObjects days, when Universes were a very explicit part of the architecture.
 >
@@ -762,9 +856,11 @@ Link: </r/analytics/comments/1w1l1xd/exposing_bi_code_base_to_claude/>
 >
 > Curious how others see this. Did self-service BI make us underinvest in the semantic layer for a while?
 
+<a id="post-48"></a>
+
 ### 48. Open sourcing a pre-PR guardrail for dbt Core + Snowflake
 
-2026-08-25 · u/JacobKHD · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vyg5te/open_sourcing_a_prepr_guardrail_for_dbt_core/)
+2026-08-25 · u/JacobKHD · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vyg5te/open_sourcing_a_prepr_guardrail_for_dbt_core/) · [↑ back to the list](#last-50-posts)
 
 > While testing agents on dbt projects, I wanted a better way to make sure their changes didn’t blow up the current model or something downstream.
 >
@@ -786,16 +882,20 @@ Link: </r/analytics/comments/1w1l1xd/exposing_bi_code_base_to_claude/>
 >
 > Looking for feedback from people using agents with dbt Core + Snowflake. Anything missing? The use case here that I enjoy is a /goal prompt where the agent works towards the pipeline’s goals while fixing any issues raised from this cli.
 
+<a id="post-49"></a>
+
 ### 49. Optimisation of bigquery for better performance cost for analytics
 
-2026-08-24 · u/Admirable-Call3058 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vx3xx5/optimisation_of_bigquery_for_better_performance/)
+2026-08-24 · u/Admirable-Call3058 · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vx3xx5/optimisation_of_bigquery_for_better_performance/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/muchai322/BigQuery-Performance-Cost-Optimization-Security-Reliability>
 
 
+<a id="post-50"></a>
+
 ### 50. \[5 YoE, Data Analyst, Analytics/Data Engineer, United States\]
 
-2026-08-21 · u/ABRuns123 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vuplkh/5_yoe_data_analyst_analyticsdata_engineer_united/)
+2026-08-21 · u/ABRuns123 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/analyticsengineering/comments/1vuplkh/5_yoe_data_analyst_analyticsdata_engineer_united/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1vtqfua>
 

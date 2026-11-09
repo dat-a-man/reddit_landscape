@@ -45,56 +45,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Lakehouse Copy activity: Is Organizational Account the only option?](https://www.reddit.com/r/MicrosoftFabric/comments/1xpxjyt/lakehouse_copy_activity_is_organizational_account/) | u/frithjof_v | Data Factory | text | 14 | 3 | live | — |
-| 2 | 2026-11-06 | [Passed DP-600 after taking PL-300 a month before](https://www.reddit.com/r/MicrosoftFabric/comments/1xpo120/passed_dp600_after_taking_pl300_a_month_before/) | u/bass581 | Certification | text | 6 | 6 | approved | — |
-| 3 | 2026-11-06 | [Why can I disable OneSecurity?](https://www.reddit.com/r/MicrosoftFabric/comments/1xpm2lu/why_can_i_disable_onesecurity/) | u/AwayCommercial4639 | Discussion | text | 4 | 2 | live | — |
-| 4 | 2026-11-06 | ["Your file was published, but disconnected"](https://www.reddit.com/r/MicrosoftFabric/comments/1xpd5qo/your_file_was_published_but_disconnected/) | u/Van_Dena_Bely | Power BI | text | 2 | 3 | live | — |
-| 5 | 2026-11-06 | [Opening pipeline](https://www.reddit.com/r/MicrosoftFabric/comments/1xp8yef/opening_pipeline/) | u/Van_Dena_Bely | Data Factory | text | 3 | 5 | live | — |
-| 6 | 2026-11-06 | [Just passed the DP-600 exam](https://www.reddit.com/r/MicrosoftFabric/comments/1xp7ss4/just_passed_the_dp600_exam/) | u/jccflores0824 | Certification | text | 20 | 2 | approved | — |
-| 7 | 2026-11-06 | [Part 2: Taking SQL Apps from Preview to a Working Application with a Local Azure SQL Container](https://www.reddit.com/r/MicrosoftFabric/comments/1xp5xeg/part_2_taking_sql_apps_from_preview_to_a_working/) | u/Innovitechies | Community Share | v.redd.it | 9 | 4 | live | — |
-| 8 | 2026-11-06 | [Zero license reporting for D365 F&O](https://www.reddit.com/r/MicrosoftFabric/comments/1xp53ty/zero_license_reporting_for_d365_fo/) | u/OkPerspective9454 | Discussion | text | 1 | 0 | held by automod | — |
-| 9 | 2026-11-06 | [🔍 SQL in the Real World: How to Find Your Best-Selling Products](https://www.reddit.com/r/MicrosoftFabric/comments/1xp4dqy/sql_in_the_real_world_how_to_find_your/) | u/RanaTahirM | Databases | i.redd.it | 1 | 1 | held by automod | Content does not meet the standards of the subreddit. |
-| 10 | 2026-11-05 | [Lakehouse ownership: What happens if the owner’s password expires?](https://www.reddit.com/r/MicrosoftFabric/comments/1xowzxa/lakehouse_ownership_what_happens_if_the_owners/) | u/ajit503 | Discussion | text | 10 | 10 | live | — |
-| 11 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/MicrosoftFabric/comments/1xou8tn/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion | text | 0 | 0 | held by automod | — |
-| 12 | 2026-11-05 | [Ride Globe - Robs Rayfin Riding](https://www.reddit.com/r/MicrosoftFabric/comments/1xoq5qu/ride_globe_robs_rayfin_riding/) | u/SQLDBAWithABeard | Community Share | youtube.com | 7 | 1 | live | — |
-| 13 | 2026-11-05 | [PowerBI items on PPU License](https://www.reddit.com/r/MicrosoftFabric/comments/1xoowni/powerbi_items_on_ppu_license/) | u/IndependenceFit3935 | Discussion | text | 10 | 10 | live | — |
-| 14 | 2026-11-05 | [Direct Lake Cache Warming: Fix Slow First Loads with Semantic Link Labs](https://www.reddit.com/r/MicrosoftFabric/comments/1xoj2wz/direct_lake_cache_warming_fix_slow_first_loads/) | u/BIACADEMY | Community Share | youtube.com | 0 | 1 | approved | — |
-| 15 | 2026-11-05 | [SharePoint shortcut - do I need read access to the entire site?](https://www.reddit.com/r/MicrosoftFabric/comments/1xodi33/sharepoint_shortcut_do_i_need_read_access_to_the/) | u/frithjof_v | Data Engineering | text | 3 | 7 | live | — |
-| 16 | 2026-11-05 | [How can I automate Power BI PDF reports and email delivery at a low cost?](https://www.reddit.com/r/MicrosoftFabric/comments/1xoco0m/how_can_i_automate_power_bi_pdf_reports_and_email/) | u/Stunning_Calendar499 | Discussion | text | 1 | 1 | held by automod | This is a duplicate post or comment. |
-| 17 | 2026-11-05 | [Open to Remote Opportunities – Data Integration / Data Engineering](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6mku/open_to_remote_opportunities_data_integration/) | u/RanaTahirM | Data Engineering | text | 1 | 0 | held by automod | — |
-| 18 | 2026-11-05 | [Open to Remote Opportunities – Data Integration / Data Engineering](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6hyo/open_to_remote_opportunities_data_integration/) | u/RanaTahirM | Data Engineering | text | 1 | 0 | held by automod | — |
-| 19 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1ysj/find_expensive_queries_from_capacity_metrics_is/) | u/SuperMariya | Data Warehouse | reddit.com | 0 | 1 | live | — |
-| 20 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_queries_from_capacity_metrics_is/) | u/SuperMariya | Community Share | text | 26 | 11 | live | — |
-| 21 | 2026-11-04 | [Suggestions to improve ingestion performance](https://www.reddit.com/r/MicrosoftFabric/comments/1xny3hf/suggestions_to_improve_ingestion_performance/) | u/baseball_nut24 | Data Factory | text | 6 | 5 | approved | — |
-| 22 | 2026-11-04 | [Fabric Warehouse users: How are you isolating your competing workloads and managing runaway queries?](https://www.reddit.com/r/MicrosoftFabric/comments/1xnx965/fabric_warehouse_users_how_are_you_isolating_your/) | u/WorkloadWhisperer | Data Warehouse | text | 5 | 8 | approved | — |
-| 23 | 2026-11-04 | [Why does an ADF managed identity need a Fabric REST API call before OPENROWSET works?](https://www.reddit.com/r/MicrosoftFabric/comments/1xnvtjj/why_does_an_adf_managed_identity_need_a_fabric/) | u/bigjimslade | Discussion | text | 6 | 1 | live | — |
-| 24 | 2026-11-04 | [DP-600, DP-700, or DP-800: which one should I pick?](https://www.reddit.com/r/MicrosoftFabric/comments/1xnv92q/dp600_dp700_or_dp800_which_one_should_i_pick/) | u/Broad_Tap1332 | Discussion | text | 0 | 3 | approved | — |
-| 25 | 2026-11-04 | [Business Central Mirroring to Fabric - Confused on release dates](https://www.reddit.com/r/MicrosoftFabric/comments/1xnsbkq/business_central_mirroring_to_fabric_confused_on/) | u/MoreTrife | Administration & Governance | reddit.com | 1 | 0 | approved | — |
-| 26 | 2026-11-04 | [Fabric CICD Schedules param replacement PSA](https://www.reddit.com/r/MicrosoftFabric/comments/1xns03n/fabric_cicd_schedules_param_replacement_psa/) | u/richbenmintz | Community Share | text | 17 | 1 | live | — |
-| 27 | 2026-11-04 | [Fabric Admin List Items API returns duplicate records for warehouses taken over by service principal](https://www.reddit.com/r/MicrosoftFabric/comments/1xnq3kt/fabric_admin_list_items_api_returns_duplicate/) | u/WasteHP | Administration & Governance | text | 5 | 3 | live | — |
-| 28 | 2026-11-04 | [Monitoring fabric pipelines effectively](https://www.reddit.com/r/MicrosoftFabric/comments/1xnmdxr/monitoring_fabric_pipelines_effectively/) | u/keenexplorer12 | Data Factory | text | 1 | 9 | approved | — |
-| 29 | 2026-11-04 | [Microsoft Fabric Independent Consultant \| End-to-End Architecture, Engineering & AI Implementation](https://www.reddit.com/r/MicrosoftFabric/comments/1xnlr6j/microsoft_fabric_independent_consultant_endtoend/) | u/efor007 | Discussion | text | 0 | 1 | removed by mod | Contributions must be free of promotional content, and sales activity is prohibited. This includes… |
-| 30 | 2026-11-04 | [GatewayConnectivityError when writing to Lakehouse](https://www.reddit.com/r/MicrosoftFabric/comments/1xnh9oo/gatewayconnectivityerror_when_writing_to_lakehouse/) | u/BirthdayBig6670 | Power BI | text | 1 | 1 | approved | — |
-| 31 | 2026-11-04 | [Fabric Lakehouse SQL Analytics Endpoint - SQL Projects extract](https://www.reddit.com/r/MicrosoftFabric/comments/1xnfhum/fabric_lakehouse_sql_analytics_endpoint_sql/) | u/Lucky_Helicopter_492 | CI/CD | text | 8 | 6 | approved | — |
-| 32 | 2026-11-03 | [Best resources for combining Fabric Features](https://www.reddit.com/r/MicrosoftFabric/comments/1xn60oj/best_resources_for_combining_fabric_features/) | u/Xoloshibu | Fabric IQ | text | 5 | 0 | approved | — |
-| 33 | 2026-11-03 | [Fabric Apps: SEA an AE regions](https://www.reddit.com/r/MicrosoftFabric/comments/1xn4vp2/fabric_apps_sea_an_ae_regions/) | u/Ill-Caregiver9238 | App Development | text | 1 | 3 | approved | — |
-| 34 | 2026-11-03 | [Anyone else in "The Americas" having Fabric Link issues?](https://www.reddit.com/r/MicrosoftFabric/comments/1xmy49g/anyone_else_in_the_americas_having_fabric_link/) | u/Mundo7 | Discussion | text | 2 | 1 | approved | — |
-| 35 | 2026-11-03 | [Microsoft Planning Sheet: Not able to reactivate hidden columns/measures](https://www.reddit.com/r/MicrosoftFabric/comments/1xmxm1j/microsoft_planning_sheet_not_able_to_reactivate/) | u/Realistic-Age-5926 | Data Engineering | text | 2 | 2 | approved | — |
-| 36 | 2026-11-03 | [Restriction on Report Level Measure creation](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvrwk/restriction_on_report_level_measure_creation/) | u/skyverse0312 | Discussion | reddit.com | 1 | 1 | live | — |
-| 37 | 2026-11-03 | [Was there an October 2026 for Fabric?](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvdqi/was_there_an_october_2026_for_fabric/) | u/Robby_Boucher | Discussion | text | 11 | 16 | approved | — |
-| 38 | 2026-11-03 | [Dataverse Link to Fabric](https://www.reddit.com/r/MicrosoftFabric/comments/1xmt3b0/dataverse_link_to_fabric/) | u/gertflies | Administration & Governance | text | 1 | 0 | held by automod | — |
-| 39 | 2026-11-03 | [Hoping next year is finally the year this feature gets addressed](https://www.reddit.com/r/MicrosoftFabric/comments/1xmsna0/hoping_next_year_is_finally_the_year_this_feature/) | u/Low-Fox-1718 | Administration & Governance | text | 10 | 7 | live | — |
-| 40 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp6na/i_built_a_public_government_data_website_on/) | u/Mobile_Education5413 | Community Share | text | 63 | 28 | live | — |
-| 41 | 2026-11-03 | [How are you reducing latency in Microsoft Fabric Data Agents?](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp512/how_are_you_reducing_latency_in_microsoft_fabric/) | u/WashStreet4312 | Fabric IQ | text | 9 | 7 | approved | — |
-| 42 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp4oe/i_built_a_public_government_data_website_on/) | u/Mobile_Education5413 | Community Share | text | 1 | 0 | live | — |
-| 43 | 2026-11-03 | [Fabric Apps - Environment Variables](https://www.reddit.com/r/MicrosoftFabric/comments/1xmnsak/fabric_apps_environment_variables/) | u/12Eerc | App Development | text | 6 | 5 | live | — |
-| 44 | 2026-11-03 | [Architecting a Supply Chain Control Tower (~20 sources, 6-tier ETA fallback, PO+Colour granularity) – Need ad…](https://www.reddit.com/r/MicrosoftFabric/comments/1xmn0mr/architecting_a_supply_chain_control_tower_20/) | u/Living_Tie6384 | Discussion | text | 1 | 2 | approved | — |
-| 45 | 2026-11-02 | [Setting workspaces private](https://www.reddit.com/r/MicrosoftFabric/comments/1xm5jj7/setting_workspaces_private/) | u/MrDark13 | Security | text | 2 | 6 | live | — |
-| 46 | 2026-11-02 | [November 2026 \| "What are you working on?"](https://www.reddit.com/r/MicrosoftFabric/comments/1xm2qpp/november_2026_what_are_you_working_on/) | u/AutoModerator | Discussion | text | 10 | 19 | live | — |
-| 47 | 2026-11-02 | [Metadata-driven orchestration across workspaces: how do you handle run-as identities and permissions?](https://www.reddit.com/r/MicrosoftFabric/comments/1xm21rb/metadatadriven_orchestration_across_workspaces/) | u/arbrush | Discussion | text | 6 | 6 | approved | — |
-| 48 | 2026-11-02 | [Direct Lake on a Fabric Warehouse: does the way you load tables matter?](https://www.reddit.com/r/MicrosoftFabric/comments/1xlzjh7/direct_lake_on_a_fabric_warehouse_does_the_way/) | u/panvlozka | Community Share | text | 19 | 4 | live | — |
-| 49 | 2026-11-02 | [Issue with Copy Data Upsert from on-prem SQL behind gateway](https://www.reddit.com/r/MicrosoftFabric/comments/1xlvt81/issue_with_copy_data_upsert_from_onprem_sql/) | u/CPD-LSF | Discussion | text | 2 | 2 | live | — |
-| 50 | 2026-11-02 | [CopyJob unable to do Merge write mode on lakehouse despite the UI allowing that option to be enabled](https://www.reddit.com/r/MicrosoftFabric/comments/1xlpxcb/copyjob_unable_to_do_merge_write_mode_on/) | u/Pahlawan_Ketupat | Data Factory | text | 4 | 5 | approved | — |
+| 1 | 2026-11-07 | [Lakehouse Copy activity: Is Organizational Account the only option?](#post-1) | u/frithjof_v | Data Factory | text | 14 | 3 | live | — |
+| 2 | 2026-11-06 | [Passed DP-600 after taking PL-300 a month before](#post-2) | u/bass581 | Certification | text | 6 | 6 | approved | — |
+| 3 | 2026-11-06 | [Why can I disable OneSecurity?](#post-3) | u/AwayCommercial4639 | Discussion | text | 4 | 2 | live | — |
+| 4 | 2026-11-06 | ["Your file was published, but disconnected"](#post-4) | u/Van_Dena_Bely | Power BI | text | 2 | 3 | live | — |
+| 5 | 2026-11-06 | [Opening pipeline](#post-5) | u/Van_Dena_Bely | Data Factory | text | 3 | 5 | live | — |
+| 6 | 2026-11-06 | [Just passed the DP-600 exam](#post-6) | u/jccflores0824 | Certification | text | 20 | 2 | approved | — |
+| 7 | 2026-11-06 | [Part 2: Taking SQL Apps from Preview to a Working Application with a Local Azure SQL Container](#post-7) | u/Innovitechies | Community Share | v.redd.it | 9 | 4 | live | — |
+| 8 | 2026-11-06 | [Zero license reporting for D365 F&O](#post-8) | u/OkPerspective9454 | Discussion | text | 1 | 0 | held by automod | — |
+| 9 | 2026-11-06 | [🔍 SQL in the Real World: How to Find Your Best-Selling Products](#post-9) | u/RanaTahirM | Databases | i.redd.it | 1 | 1 | held by automod | Content does not meet the standards of the subreddit. |
+| 10 | 2026-11-05 | [Lakehouse ownership: What happens if the owner’s password expires?](#post-10) | u/ajit503 | Discussion | text | 10 | 10 | live | — |
+| 11 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-11) | u/fristprinciplesde | Discussion | text | 0 | 0 | held by automod | — |
+| 12 | 2026-11-05 | [Ride Globe - Robs Rayfin Riding](#post-12) | u/SQLDBAWithABeard | Community Share | youtube.com | 7 | 1 | live | — |
+| 13 | 2026-11-05 | [PowerBI items on PPU License](#post-13) | u/IndependenceFit3935 | Discussion | text | 10 | 10 | live | — |
+| 14 | 2026-11-05 | [Direct Lake Cache Warming: Fix Slow First Loads with Semantic Link Labs](#post-14) | u/BIACADEMY | Community Share | youtube.com | 0 | 1 | approved | — |
+| 15 | 2026-11-05 | [SharePoint shortcut - do I need read access to the entire site?](#post-15) | u/frithjof_v | Data Engineering | text | 3 | 7 | live | — |
+| 16 | 2026-11-05 | [How can I automate Power BI PDF reports and email delivery at a low cost?](#post-16) | u/Stunning_Calendar499 | Discussion | text | 1 | 1 | held by automod | This is a duplicate post or comment. |
+| 17 | 2026-11-05 | [Open to Remote Opportunities – Data Integration / Data Engineering](#post-17) | u/RanaTahirM | Data Engineering | text | 1 | 0 | held by automod | — |
+| 18 | 2026-11-05 | [Open to Remote Opportunities – Data Integration / Data Engineering](#post-18) | u/RanaTahirM | Data Engineering | text | 1 | 0 | held by automod | — |
+| 19 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](#post-19) | u/SuperMariya | Data Warehouse | reddit.com | 0 | 1 | live | — |
+| 20 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](#post-20) | u/SuperMariya | Community Share | text | 26 | 11 | live | — |
+| 21 | 2026-11-04 | [Suggestions to improve ingestion performance](#post-21) | u/baseball_nut24 | Data Factory | text | 6 | 5 | approved | — |
+| 22 | 2026-11-04 | [Fabric Warehouse users: How are you isolating your competing workloads and managing runaway queries?](#post-22) | u/WorkloadWhisperer | Data Warehouse | text | 5 | 8 | approved | — |
+| 23 | 2026-11-04 | [Why does an ADF managed identity need a Fabric REST API call before OPENROWSET works?](#post-23) | u/bigjimslade | Discussion | text | 6 | 1 | live | — |
+| 24 | 2026-11-04 | [DP-600, DP-700, or DP-800: which one should I pick?](#post-24) | u/Broad_Tap1332 | Discussion | text | 0 | 3 | approved | — |
+| 25 | 2026-11-04 | [Business Central Mirroring to Fabric - Confused on release dates](#post-25) | u/MoreTrife | Administration & Governance | reddit.com | 1 | 0 | approved | — |
+| 26 | 2026-11-04 | [Fabric CICD Schedules param replacement PSA](#post-26) | u/richbenmintz | Community Share | text | 17 | 1 | live | — |
+| 27 | 2026-11-04 | [Fabric Admin List Items API returns duplicate records for warehouses taken over by service principal](#post-27) | u/WasteHP | Administration & Governance | text | 5 | 3 | live | — |
+| 28 | 2026-11-04 | [Monitoring fabric pipelines effectively](#post-28) | u/keenexplorer12 | Data Factory | text | 1 | 9 | approved | — |
+| 29 | 2026-11-04 | [Microsoft Fabric Independent Consultant \| End-to-End Architecture, Engineering & AI Implementation](#post-29) | u/efor007 | Discussion | text | 0 | 1 | removed by mod | Contributions must be free of promotional content, and sales activity is prohibited. This includes… |
+| 30 | 2026-11-04 | [GatewayConnectivityError when writing to Lakehouse](#post-30) | u/BirthdayBig6670 | Power BI | text | 1 | 1 | approved | — |
+| 31 | 2026-11-04 | [Fabric Lakehouse SQL Analytics Endpoint - SQL Projects extract](#post-31) | u/Lucky_Helicopter_492 | CI/CD | text | 8 | 6 | approved | — |
+| 32 | 2026-11-03 | [Best resources for combining Fabric Features](#post-32) | u/Xoloshibu | Fabric IQ | text | 5 | 0 | approved | — |
+| 33 | 2026-11-03 | [Fabric Apps: SEA an AE regions](#post-33) | u/Ill-Caregiver9238 | App Development | text | 1 | 3 | approved | — |
+| 34 | 2026-11-03 | [Anyone else in "The Americas" having Fabric Link issues?](#post-34) | u/Mundo7 | Discussion | text | 2 | 1 | approved | — |
+| 35 | 2026-11-03 | [Microsoft Planning Sheet: Not able to reactivate hidden columns/measures](#post-35) | u/Realistic-Age-5926 | Data Engineering | text | 2 | 2 | approved | — |
+| 36 | 2026-11-03 | [Restriction on Report Level Measure creation](#post-36) | u/skyverse0312 | Discussion | reddit.com | 1 | 1 | live | — |
+| 37 | 2026-11-03 | [Was there an October 2026 for Fabric?](#post-37) | u/Robby_Boucher | Discussion | text | 11 | 16 | approved | — |
+| 38 | 2026-11-03 | [Dataverse Link to Fabric](#post-38) | u/gertflies | Administration & Governance | text | 1 | 0 | held by automod | — |
+| 39 | 2026-11-03 | [Hoping next year is finally the year this feature gets addressed](#post-39) | u/Low-Fox-1718 | Administration & Governance | text | 10 | 7 | live | — |
+| 40 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](#post-40) | u/Mobile_Education5413 | Community Share | text | 63 | 28 | live | — |
+| 41 | 2026-11-03 | [How are you reducing latency in Microsoft Fabric Data Agents?](#post-41) | u/WashStreet4312 | Fabric IQ | text | 9 | 7 | approved | — |
+| 42 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](#post-42) | u/Mobile_Education5413 | Community Share | text | 1 | 0 | live | — |
+| 43 | 2026-11-03 | [Fabric Apps - Environment Variables](#post-43) | u/12Eerc | App Development | text | 6 | 5 | live | — |
+| 44 | 2026-11-03 | [Architecting a Supply Chain Control Tower (~20 sources, 6-tier ETA fallback, PO+Colour granularity) – Need ad…](#post-44) | u/Living_Tie6384 | Discussion | text | 1 | 2 | approved | — |
+| 45 | 2026-11-02 | [Setting workspaces private](#post-45) | u/MrDark13 | Security | text | 2 | 6 | live | — |
+| 46 | 2026-11-02 | [November 2026 \| "What are you working on?"](#post-46) | u/AutoModerator | Discussion | text | 10 | 19 | live | — |
+| 47 | 2026-11-02 | [Metadata-driven orchestration across workspaces: how do you handle run-as identities and permissions?](#post-47) | u/arbrush | Discussion | text | 6 | 6 | approved | — |
+| 48 | 2026-11-02 | [Direct Lake on a Fabric Warehouse: does the way you load tables matter?](#post-48) | u/panvlozka | Community Share | text | 19 | 4 | live | — |
+| 49 | 2026-11-02 | [Issue with Copy Data Upsert from on-prem SQL behind gateway](#post-49) | u/CPD-LSF | Discussion | text | 2 | 2 | live | — |
+| 50 | 2026-11-02 | [CopyJob unable to do Merge write mode on lakehouse despite the UI allowing that option to be enabled](#post-50) | u/Pahlawan_Ketupat | Data Factory | text | 4 | 5 | approved | — |
 
 ## Top 20 posts, last 30 days
 
@@ -102,34 +102,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-26 | [We built Weaver — an open-source data engineering framework for Microsoft Fabric](https://www.reddit.com/r/MicrosoftFabric/comments/1xftjmj/we_built_weaver_an_opensource_data_engineering/) | u/Mobile_Education5413 | Data Engineering | reddit.com | 101 | 18 | approved |
-| 52 | 2026-10-17 | [Fabric Apps: what it actually costs](https://www.reddit.com/r/MicrosoftFabric/comments/1x8a0mz/fabric_apps_what_it_actually_costs/) | u/Equivalent_Season669 | Community Share | text | 74 | 19 | live |
-| 53 | 2026-10-11 | [Claude Dashboards Through Fabric MCPs - Getting started prompt](https://www.reddit.com/r/MicrosoftFabric/comments/1x3h3rx/claude_dashboards_through_fabric_mcps_getting/) | u/OscarValerock | Community Share | i.redd.it | 72 | 29 | approved |
-| 54 | 2026-10-18 | [I wanted better accounting reports. Somehow I'm a data engineer now.](https://www.reddit.com/r/MicrosoftFabric/comments/1x988vk/i_wanted_better_accounting_reports_somehow_im_a/) | u/irish_burke | Discussion | text | 66 | 21 | approved |
-| 40 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp6na/i_built_a_public_government_data_website_on/) | u/Mobile_Education5413 | Community Share | text | 63 | 28 | live |
-| 55 | 2026-10-11 | [Anyone else moved from Power BI to Fabric apps? I’ve basically stopped using Power BI](https://www.reddit.com/r/MicrosoftFabric/comments/1x3mqw1/anyone_else_moved_from_power_bi_to_fabric_apps/) | u/jmjmalik22 | App Development | text | 61 | 77 | live |
-| 56 | 2026-11-01 | [From DP600 to DP700 to DP800: my experience and advice after passing all three](https://www.reddit.com/r/MicrosoftFabric/comments/1xl6snh/from_dp600_to_dp700_to_dp800_my_experience_and/) | u/Warren530 | Certification | reddit.com | 57 | 11 | live |
-| 57 | 2026-10-28 | [AI solves unsolvable physics, CS and math problems but we still have this](https://www.reddit.com/r/MicrosoftFabric/comments/1xhpenj/ai_solves_unsolvable_physics_cs_and_math_problems/) | u/MaterialLogical1682 | Discussion | i.redd.it | 49 | 13 | live |
-| 58 | 2026-10-11 | [Starting a Data Engineer role where the company is just beginning its Microsoft Fabric Lakehouse — advice fro…](https://www.reddit.com/r/MicrosoftFabric/comments/1x37b8m/starting_a_data_engineer_role_where_the_company/) | u/Existing-Wishbone887 | Discussion | text | 48 | 40 | approved |
-| 59 | 2026-10-30 | [Data Days: Fabric IQ & Apps, real projects, and yes, vouchers](https://www.reddit.com/r/MicrosoftFabric/comments/1xjjjfd/data_days_fabric_iq_apps_real_projects_and_yes/) | u/FabricPam | Certification | text | 47 | 19 | live |
-| 60 | 2026-10-27 | [FabriBuddy: open-source lineage for your Fabric Tenant - runs as a Fabric App](https://www.reddit.com/r/MicrosoftFabric/comments/1xgy9xj/fabribuddy_opensource_lineage_for_your_fabric/) | u/zanibani | Administration & Governance | text | 45 | 11 | live |
-| 61 | 2026-10-28 | [MSFT Fabric employee shuffle](https://www.reddit.com/r/MicrosoftFabric/comments/1xhtohz/msft_fabric_employee_shuffle/) | u/el_dude1 | Discussion | text | 44 | 40 | live |
-| 62 | 2026-10-23 | [Returning to Fabric after a year of Snowflake](https://www.reddit.com/r/MicrosoftFabric/comments/1xdf5zx/returning_to_fabric_after_a_year_of_snowflake/) | u/Gawgba | Discussion | text | 38 | 40 | live |
-| 63 | 2026-10-17 | [Open source IBSC styled financial rayfin app](https://www.reddit.com/r/MicrosoftFabric/comments/1x8hm98/open_source_ibsc_styled_financial_rayfin_app/) | u/bgarcevic | App Development | v.redd.it | 38 | 1 | live |
-| 64 | 2026-11-01 | [Are you guys using dbt with Microsoft Fabric in production? How is your experience?](https://www.reddit.com/r/MicrosoftFabric/comments/1xkz851/are_you_guys_using_dbt_with_microsoft_fabric_in/) | u/bytescrafterde | Data Engineering | text | 35 | 68 | live |
-| 65 | 2026-10-24 | [Extreme system usage CU for Warehouse](https://www.reddit.com/r/MicrosoftFabric/comments/1xef9lk/extreme_system_usage_cu_for_warehouse/) | u/Careless_Cellist_385 | Data Warehouse | text | 35 | 8 | approved |
-| 66 | 2026-10-31 | [Does Fabric has a future?](https://www.reddit.com/r/MicrosoftFabric/comments/1xkk7ir/does_fabric_has_a_future/) | u/tidder78 | Discussion | text | 28 | 78 | approved |
-| 67 | 2026-10-15 | [Learning Git, ADO, CI/CD etc](https://www.reddit.com/r/MicrosoftFabric/comments/1x6dgzi/learning_git_ado_cicd_etc/) | u/cyamnihc | Discussion | text | 28 | 3 | live |
-| 68 | 2026-10-19 | [Is building a local development environment that mimics Microsoft Fabric notebooks a good idea, or am I overe…](https://www.reddit.com/r/MicrosoftFabric/comments/1x9pofi/is_building_a_local_development_environment_that/) | u/carmotte | Discussion | text | 27 | 19 | live |
-| 20 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_queries_from_capacity_metrics_is/) | u/SuperMariya | Community Share | text | 26 | 11 | live |
+| 51 | 2026-10-26 | [We built Weaver — an open-source data engineering framework for Microsoft Fabric](#post-51) | u/Mobile_Education5413 | Data Engineering | reddit.com | 101 | 18 | approved |
+| 52 | 2026-10-17 | [Fabric Apps: what it actually costs](#post-52) | u/Equivalent_Season669 | Community Share | text | 74 | 19 | live |
+| 53 | 2026-10-11 | [Claude Dashboards Through Fabric MCPs - Getting started prompt](#post-53) | u/OscarValerock | Community Share | i.redd.it | 72 | 29 | approved |
+| 54 | 2026-10-18 | [I wanted better accounting reports. Somehow I'm a data engineer now.](#post-54) | u/irish_burke | Discussion | text | 66 | 21 | approved |
+| 40 | 2026-11-03 | [I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated…](#post-40) | u/Mobile_Education5413 | Community Share | text | 63 | 28 | live |
+| 55 | 2026-10-11 | [Anyone else moved from Power BI to Fabric apps? I’ve basically stopped using Power BI](#post-55) | u/jmjmalik22 | App Development | text | 61 | 77 | live |
+| 56 | 2026-11-01 | [From DP600 to DP700 to DP800: my experience and advice after passing all three](#post-56) | u/Warren530 | Certification | reddit.com | 57 | 11 | live |
+| 57 | 2026-10-28 | [AI solves unsolvable physics, CS and math problems but we still have this](#post-57) | u/MaterialLogical1682 | Discussion | i.redd.it | 49 | 13 | live |
+| 58 | 2026-10-11 | [Starting a Data Engineer role where the company is just beginning its Microsoft Fabric Lakehouse — advice fro…](#post-58) | u/Existing-Wishbone887 | Discussion | text | 48 | 40 | approved |
+| 59 | 2026-10-30 | [Data Days: Fabric IQ & Apps, real projects, and yes, vouchers](#post-59) | u/FabricPam | Certification | text | 47 | 19 | live |
+| 60 | 2026-10-27 | [FabriBuddy: open-source lineage for your Fabric Tenant - runs as a Fabric App](#post-60) | u/zanibani | Administration & Governance | text | 45 | 11 | live |
+| 61 | 2026-10-28 | [MSFT Fabric employee shuffle](#post-61) | u/el_dude1 | Discussion | text | 44 | 40 | live |
+| 62 | 2026-10-23 | [Returning to Fabric after a year of Snowflake](#post-62) | u/Gawgba | Discussion | text | 38 | 40 | live |
+| 63 | 2026-10-17 | [Open source IBSC styled financial rayfin app](#post-63) | u/bgarcevic | App Development | v.redd.it | 38 | 1 | live |
+| 64 | 2026-11-01 | [Are you guys using dbt with Microsoft Fabric in production? How is your experience?](#post-64) | u/bytescrafterde | Data Engineering | text | 35 | 68 | live |
+| 65 | 2026-10-24 | [Extreme system usage CU for Warehouse](#post-65) | u/Careless_Cellist_385 | Data Warehouse | text | 35 | 8 | approved |
+| 66 | 2026-10-31 | [Does Fabric has a future?](#post-66) | u/tidder78 | Discussion | text | 28 | 78 | approved |
+| 67 | 2026-10-15 | [Learning Git, ADO, CI/CD etc](#post-67) | u/cyamnihc | Discussion | text | 28 | 3 | live |
+| 68 | 2026-10-19 | [Is building a local development environment that mimics Microsoft Fabric notebooks a good idea, or am I overe…](#post-68) | u/carmotte | Discussion | text | 27 | 19 | live |
+| 20 | 2026-11-04 | [Find expensive queries from Capacity Metrics is now GA](#post-20) | u/SuperMariya | Community Share | text | 26 | 11 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Lakehouse Copy activity: Is Organizational Account the only option?
 
-2026-11-07 · u/frithjof_v · Data Factory · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpxjyt/lakehouse_copy_activity_is_organizational_account/)
+2026-11-07 · u/frithjof_v · Data Factory · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpxjyt/lakehouse_copy_activity_is_organizational_account/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -149,9 +151,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-2"></a>
+
 ### 2. Passed DP-600 after taking PL-300 a month before
 
-2026-11-06 · u/bass581 · Certification · score 6 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpo120/passed_dp600_after_taking_pl300_a_month_before/)
+2026-11-06 · u/bass581 · Certification · score 6 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpo120/passed_dp600_after_taking_pl300_a_month_before/) · [↑ back to the list](#last-50-posts)
 
 > I took the PL-300 exam last month and decided to take the DP-600 after receiving a voucher from a giveaway. Really happy with my score (884/1000). Some topics to that were highlighted on my exam:
 >
@@ -172,15 +176,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you passed the PL-300 you should consider taking DP-600 soon afterward since there is a lot of overlap.
 
+<a id="post-3"></a>
+
 ### 3. Why can I disable OneSecurity?
 
-2026-11-06 · u/AwayCommercial4639 · Discussion · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpm2lu/why_can_i_disable_onesecurity/)
+2026-11-06 · u/AwayCommercial4639 · Discussion · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpm2lu/why_can_i_disable_onesecurity/) · [↑ back to the list](#last-50-posts)
 
 > `spark.onelake.security.enabled` why is it possible to disable OLS in the config? Does this mean I will lose RLS?
 
+<a id="post-4"></a>
+
 ### 4. "Your file was published, but disconnected"
 
-2026-11-06 · u/Van_Dena_Bely · Power BI · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpd5qo/your_file_was_published_but_disconnected/)
+2026-11-06 · u/Van_Dena_Bely · Power BI · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xpd5qo/your_file_was_published_but_disconnected/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -198,9 +206,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > [](https://preview.redd.it/sudden-random-error-your-file-was-published-but-disconnected-v0-xse7puwdxzzh1.png?width=776&format=png&auto=webp&s=c6f711d43f7a53f4ae6dab6d5d0ac4c689237f59)
 
+<a id="post-5"></a>
+
 ### 5. Opening pipeline
 
-2026-11-06 · u/Van_Dena_Bely · Data Factory · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp8yef/opening_pipeline/)
+2026-11-06 · u/Van_Dena_Bely · Data Factory · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp8yef/opening_pipeline/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -208,9 +218,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > https://i.redd.it/p104ghl3syzh1.png
 
+<a id="post-6"></a>
+
 ### 6. Just passed the DP-600 exam
 
-2026-11-06 · u/jccflores0824 · Certification · score 20 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp7ss4/just_passed_the_dp600_exam/)
+2026-11-06 · u/jccflores0824 · Certification · score 20 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp7ss4/just_passed_the_dp600_exam/) · [↑ back to the list](#last-50-posts)
 
 > Got a score of 815. Really happy with this one as I'm quite new in the data analytics space coming from a network admin/sysad background and has only dabbled with Power BI a little. Also had some T-SQL exposure way back in college.
 >
@@ -225,9 +237,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Got a lot of insightful learning tips as well from this subreddit. So, thanks r/MicrosoftFabric!
 
+<a id="post-7"></a>
+
 ### 7. Part 2: Taking SQL Apps from Preview to a Working Application with a Local Azure SQL Container
 
-2026-11-06 · u/Innovitechies · Community Share · score 9 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp5xeg/part_2_taking_sql_apps_from_preview_to_a_working/)
+2026-11-06 · u/Innovitechies · Community Share · score 9 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp5xeg/part_2_taking_sql_apps_from_preview_to_a_working/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/vbcbjrx8sxzh1>
 
@@ -239,15 +253,19 @@ Link: <https://v.redd.it/vbcbjrx8sxzh1>
 >
 > The outcome is a working application. Staff add equipment, and the records persist in SQL.
 
+<a id="post-8"></a>
+
 ### 8. Zero license reporting for D365 F&O
 
-2026-11-06 · u/OkPerspective9454 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp53ty/zero_license_reporting_for_d365_fo/)
+2026-11-06 · u/OkPerspective9454 · Discussion · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp53ty/zero_license_reporting_for_d365_fo/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. 🔍 SQL in the Real World: How to Find Your Best-Selling Products
 
-2026-11-06 · u/RanaTahirM · Databases · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp4dqy/sql_in_the_real_world_how_to_find_your/)
+2026-11-06 · u/RanaTahirM · Databases · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xp4dqy/sql_in_the_real_world_how_to_find_your/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wbtzgyolcxzh1.jpeg>
 
@@ -255,9 +273,11 @@ Link: <https://i.redd.it/wbtzgyolcxzh1.jpeg>
 
 **Mod comment** (u/MicrosoftFabric-ModTeam): Content does not meet the standards of the subreddit.
 
+<a id="post-10"></a>
+
 ### 10. Lakehouse ownership: What happens if the owner’s password expires?
 
-2026-11-05 · u/ajit503 · Discussion · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xowzxa/lakehouse_ownership_what_happens_if_the_owners/)
+2026-11-05 · u/ajit503 · Discussion · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xowzxa/lakehouse_ownership_what_happens_if_the_owners/) · [↑ back to the list](#last-50-posts)
 
 > Our team is considering changing the ownership of Fabric Lakehouses from individual user accounts to a Service Principal (SPN).
 >
@@ -284,15 +304,19 @@ Link: <https://i.redd.it/wbtzgyolcxzh1.jpeg>
 >
 > Would appreciate hearing from anyone who has tested this scenario.
 
+<a id="post-11"></a>
+
 ### 11. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xou8tn/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion · score 0 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xou8tn/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. Ride Globe - Robs Rayfin Riding
 
-2026-11-05 · u/SQLDBAWithABeard · Community Share · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoq5qu/ride_globe_robs_rayfin_riding/)
+2026-11-05 · u/SQLDBAWithABeard · Community Share · score 7 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoq5qu/ride_globe_robs_rayfin_riding/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=4xSdrZUQtaU&si=UAvMkJsMrwjhsrdp>
 
@@ -302,9 +326,11 @@ Link: <https://youtube.com/watch?v=4xSdrZUQtaU&si=UAvMkJsMrwjhsrdp>
 >
 > Figured some folk here might be a little more interested in seeing what you can do with Garmin data and Fabric 😂 and it shows a cool ride up a mountain in Spain too
 
+<a id="post-13"></a>
+
 ### 13. PowerBI items on PPU License
 
-2026-11-05 · u/IndependenceFit3935 · Discussion · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoowni/powerbi_items_on_ppu_license/)
+2026-11-05 · u/IndependenceFit3935 · Discussion · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoowni/powerbi_items_on_ppu_license/) · [↑ back to the list](#last-50-posts)
 
 > Im having a dilemma here. Im on F4. About to go live. Fabric workloads consume around 25% of my capacity. F4 is more than enough for my size.   
 > Semantic models are small. Not even 100 mb of size. 
@@ -317,16 +343,20 @@ Link: <https://youtube.com/watch?v=4xSdrZUQtaU&si=UAvMkJsMrwjhsrdp>
 >
 > Has anyone experienced a similar dilemma? Does it make sense to go with option 2?
 
+<a id="post-14"></a>
+
 ### 14. Direct Lake Cache Warming: Fix Slow First Loads with Semantic Link Labs
 
-2026-11-05 · u/BIACADEMY · Community Share · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoj2wz/direct_lake_cache_warming_fix_slow_first_loads/)
+2026-11-05 · u/BIACADEMY · Community Share · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoj2wz/direct_lake_cache_warming_fix_slow_first_loads/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=tvnsSGc77rw&si=ZB-PJTqvrG6EbfyS>
 
 
+<a id="post-15"></a>
+
 ### 15. SharePoint shortcut - do I need read access to the entire site?
 
-2026-11-05 · u/frithjof_v · Data Engineering · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xodi33/sharepoint_shortcut_do_i_need_read_access_to_the/)
+2026-11-05 · u/frithjof_v · Data Engineering · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xodi33/sharepoint_shortcut_do_i_need_read_access_to_the/) · [↑ back to the list](#last-50-posts)
 
 > I'm using Organizational Account authentication.
 >
@@ -340,36 +370,46 @@ Link: <https://youtube.com/watch?v=tvnsSGc77rw&si=ZB-PJTqvrG6EbfyS>
 >
 > Thanks!
 
+<a id="post-16"></a>
+
 ### 16. How can I automate Power BI PDF reports and email delivery at a low cost?
 
-2026-11-05 · u/Stunning_Calendar499 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoco0m/how_can_i_automate_power_bi_pdf_reports_and_email/)
+2026-11-05 · u/Stunning_Calendar499 · Discussion · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xoco0m/how_can_i_automate_power_bi_pdf_reports_and_email/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/MicrosoftFabric-ModTeam): This is a duplicate post or comment.
 
+<a id="post-17"></a>
+
 ### 17. Open to Remote Opportunities – Data Integration / Data Engineering
 
-2026-11-05 · u/RanaTahirM · Data Engineering · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6mku/open_to_remote_opportunities_data_integration/)
+2026-11-05 · u/RanaTahirM · Data Engineering · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6mku/open_to_remote_opportunities_data_integration/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-18"></a>
 
 ### 18. Open to Remote Opportunities – Data Integration / Data Engineering
 
-2026-11-05 · u/RanaTahirM · Data Engineering · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6hyo/open_to_remote_opportunities_data_integration/)
+2026-11-05 · u/RanaTahirM · Data Engineering · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo6hyo/open_to_remote_opportunities_data_integration/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. Find expensive queries from Capacity Metrics is now GA
 
-2026-11-04 · u/SuperMariya · Data Warehouse · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1ysj/find_expensive_queries_from_capacity_metrics_is/)
+2026-11-04 · u/SuperMariya · Data Warehouse · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1ysj/find_expensive_queries_from_capacity_metrics_is/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_queries_from_capacity_metrics_is/>
 
 
+<a id="post-20"></a>
+
 ### 20. Find expensive queries from Capacity Metrics is now GA
 
-2026-11-04 · u/SuperMariya · Community Share · score 26 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_queries_from_capacity_metrics_is/)
+2026-11-04 · u/SuperMariya · Community Share · score 26 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_queries_from_capacity_metrics_is/) · [↑ back to the list](#last-50-posts)
 
 > If you’ve ever seen a capacity spike and then had to figure out **which Warehouse queries actually drove it**, this is for you.
 >
@@ -379,9 +419,11 @@ Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_
 >
 > Would love feedback from anyone using Fabric DW for production workloads, especially around what you’d like to see next for capacity and query-level troubleshooting.
 
+<a id="post-21"></a>
+
 ### 21. Suggestions to improve ingestion performance
 
-2026-11-04 · u/baseball_nut24 · Data Factory · score 6 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xny3hf/suggestions_to_improve_ingestion_performance/)
+2026-11-04 · u/baseball_nut24 · Data Factory · score 6 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xny3hf/suggestions_to_improve_ingestion_performance/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -411,9 +453,11 @@ Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_
 >
 > Thanks in advance!
 
+<a id="post-22"></a>
+
 ### 22. Fabric Warehouse users: How are you isolating your competing workloads and managing runaway queries?
 
-2026-11-04 · u/WorkloadWhisperer · Data Warehouse · score 5 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnx965/fabric_warehouse_users_how_are_you_isolating_your/)
+2026-11-04 · u/WorkloadWhisperer · Data Warehouse · score 5 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnx965/fabric_warehouse_users_how_are_you_isolating_your/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! I'm a PM on the Microsoft Fabric Warehouse team, and I'd love to hear about your experiences managing competing workloads. 
 >
@@ -431,9 +475,11 @@ Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_
 >
 > Please avoid sharing sensitive details. This is feedback gathering, not a feature announcement. Thanks for helping us shape the direction!
 
+<a id="post-23"></a>
+
 ### 23. Why does an ADF managed identity need a Fabric REST API call before OPENROWSET works?
 
-2026-11-04 · u/bigjimslade · Discussion · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnvtjj/why_does_an_adf_managed_identity_need_a_fabric/)
+2026-11-04 · u/bigjimslade · Discussion · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnvtjj/why_does_an_adf_managed_identity_need_a_fabric/) · [↑ back to the list](#last-50-posts)
 
 > I'm running into some confusing behavior with Azure Data Factory (ADF), Microsoft Fabric Warehouse, and managed identity authentication. I've found a workaround, but I'm trying to understand why it's necessary in the first place.
 >
@@ -474,9 +520,11 @@ Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_
 >
 > Has anyone been bitten by this.
 
+<a id="post-24"></a>
+
 ### 24. DP-600, DP-700, or DP-800: which one should I pick?
 
-2026-11-04 · u/Broad_Tap1332 · Discussion · score 0 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnv92q/dp600_dp700_or_dp800_which_one_should_i_pick/)
+2026-11-04 · u/Broad_Tap1332 · Discussion · score 0 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnv92q/dp600_dp700_or_dp800_which_one_should_i_pick/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -500,16 +548,20 @@ Link: <https://www.reddit.com/r/MicrosoftFabric/comments/1xo1yfh/find_expensive_
 >
 > Thanks in advance, and I’d love to hear from anyone who has taken these recently.
 
+<a id="post-25"></a>
+
 ### 25. Business Central Mirroring to Fabric - Confused on release dates
 
-2026-11-04 · u/MoreTrife · Administration & Governance · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnsbkq/business_central_mirroring_to_fabric_confused_on/)
+2026-11-04 · u/MoreTrife · Administration & Governance · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnsbkq/business_central_mirroring_to_fabric_confused_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mirroring_to_fabric_confused_on/>
 
 
+<a id="post-26"></a>
+
 ### 26. Fabric CICD Schedules param replacement PSA
 
-2026-11-04 · u/richbenmintz · Community Share · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xns03n/fabric_cicd_schedules_param_replacement_psa/)
+2026-11-04 · u/richbenmintz · Community Share · score 17 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xns03n/fabric_cicd_schedules_param_replacement_psa/) · [↑ back to the list](#last-50-posts)
 
 > Hi Fabric friends, 
 >
@@ -528,9 +580,11 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >           _ALL_: UserDisabled
 >         file_path: "**/.schedules"
 
+<a id="post-27"></a>
+
 ### 27. Fabric Admin List Items API returns duplicate records for warehouses taken over by service principal
 
-2026-11-04 · u/WasteHP · Administration & Governance · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnq3kt/fabric_admin_list_items_api_returns_duplicate/)
+2026-11-04 · u/WasteHP · Administration & Governance · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnq3kt/fabric_admin_list_items_api_returns_duplicate/) · [↑ back to the list](#last-50-posts)
 
 > Has anybody else found they have duplicate warehouse object Ids returned in the results using the Fabric Admin List Items API: [https://learn.microsoft.com/en-us/rest/api/fabric/admin/items/](https://learn.microsoft.com/en-us/rest/api/fabric/admin/items/)
 >
@@ -538,9 +592,11 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >
 > We see one record with the creator details of the original owner, and another record on another page with the creator details of the new owner (we have around 18,000 objects so the results span 2 pages). If I filter on a parameter for type (i.e. type=Warehouse) or workspaceId then I only get one record with the details of the new owner.
 
+<a id="post-28"></a>
+
 ### 28. Monitoring fabric pipelines effectively
 
-2026-11-04 · u/keenexplorer12 · Data Factory · score 1 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnmdxr/monitoring_fabric_pipelines_effectively/)
+2026-11-04 · u/keenexplorer12 · Data Factory · score 1 · 9 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnmdxr/monitoring_fabric_pipelines_effectively/) · [↑ back to the list](#last-50-posts)
 
 > We need to monitor fabric environment for a client across a large number of workspaces.
 >
@@ -554,9 +610,11 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >
 > Can you please suggest the best options which require minimal code change?
 
+<a id="post-29"></a>
+
 ### 29. Microsoft Fabric Independent Consultant \| End-to-End Architecture, Engineering & AI Implementation
 
-2026-11-04 · u/efor007 · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnlr6j/microsoft_fabric_independent_consultant_endtoend/)
+2026-11-04 · u/efor007 · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnlr6j/microsoft_fabric_independent_consultant_endtoend/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone in the Microsoft Fabric community,
 >
@@ -595,9 +653,11 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 
 **Mod comment** (u/MicrosoftFabric-ModTeam): Contributions must be free of promotional content, and sales activity is prohibited. This includes market research, customer discovery, or paid product validation. Applies to posts in the subreddit and unsolicited direct messages to individuals.
 
+<a id="post-30"></a>
+
 ### 30. GatewayConnectivityError when writing to Lakehouse
 
-2026-11-04 · u/BirthdayBig6670 · Power BI · score 1 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnh9oo/gatewayconnectivityerror_when_writing_to_lakehouse/)
+2026-11-04 · u/BirthdayBig6670 · Power BI · score 1 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnh9oo/gatewayconnectivityerror_when_writing_to_lakehouse/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -645,26 +705,32 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >
 > Any troubleshooting suggestions would be appreciated. Thanks.
 
+<a id="post-31"></a>
+
 ### 31. Fabric Lakehouse SQL Analytics Endpoint - SQL Projects extract
 
-2026-11-04 · u/Lucky_Helicopter_492 · CI/CD · score 8 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnfhum/fabric_lakehouse_sql_analytics_endpoint_sql/)
+2026-11-04 · u/Lucky_Helicopter_492 · CI/CD · score 8 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xnfhum/fabric_lakehouse_sql_analytics_endpoint_sql/) · [↑ back to the list](#last-50-posts)
 
 > When extracting a SQL database project from a Lakehouse SQL analytics endpoint using Visual Studio, I only receive the `CREATE VIEW` definitions. The `CREATE TABLE` definitions for the underlying Delta tables are missing, even though the tables are visible and queryable through the endpoint.
 >
 > The behavior is inconsistent because table definitions are generated for some SQL analytics endpoints but not for others. Has anyone encountered this issue or found a reason for the difference?
 
+<a id="post-32"></a>
+
 ### 32. Best resources for combining Fabric Features
 
-2026-11-03 · u/Xoloshibu · Fabric IQ · score 5 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xn60oj/best_resources_for_combining_fabric_features/)
+2026-11-03 · u/Xoloshibu · Fabric IQ · score 5 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xn60oj/best_resources_for_combining_fabric_features/) · [↑ back to the list](#last-50-posts)
 
 > I'm building a proyect for my company, I want to combine  Ontology, Prep for AI, Verified Answers, and data agents, all intwgrated in a fabric app  
 > I've read some documentation, but I've seen People doing Amazing fabric apps and integrating every feature I just mentioned 
 >
 > Do you guys recommend any post, tutorial, thread, etc. To learn how to best use fabric apps?
 
+<a id="post-33"></a>
+
 ### 33. Fabric Apps: SEA an AE regions
 
-2026-11-03 · u/Ill-Caregiver9238 · App Development · score 1 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xn4vp2/fabric_apps_sea_an_ae_regions/)
+2026-11-03 · u/Ill-Caregiver9238 · App Development · score 1 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xn4vp2/fabric_apps_sea_an_ae_regions/) · [↑ back to the list](#last-50-posts)
 
 > Hi, can anyone please confirm that the "build" privilege in a model is still required in these regions for the app visitor to get the data?? I've been waiting for the updates to roll out and was supposed to happen last week, but still the users get 403 (fwir) when using the app. Is there anyone else I have to enable other than:
 >
@@ -676,15 +742,19 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >
 > Thank you
 
+<a id="post-34"></a>
+
 ### 34. Anyone else in "The Americas" having Fabric Link issues?
 
-2026-11-03 · u/Mundo7 · Discussion · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmy49g/anyone_else_in_the_americas_having_fabric_link/)
+2026-11-03 · u/Mundo7 · Discussion · score 2 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmy49g/anyone_else_in_the_americas_having_fabric_link/) · [↑ back to the list](#last-50-posts)
 
 > Fabric link hasn't synced data since early this morning - now have huge negative record counts in [make.powerapps.com](http://make.powerapps.com)
 
+<a id="post-35"></a>
+
 ### 35. Microsoft Planning Sheet: Not able to reactivate hidden columns/measures
 
-2026-11-03 · u/Realistic-Age-5926 · Data Engineering · score 2 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmxm1j/microsoft_planning_sheet_not_able_to_reactivate/)
+2026-11-03 · u/Realistic-Age-5926 · Data Engineering · score 2 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmxm1j/microsoft_planning_sheet_not_able_to_reactivate/) · [↑ back to the list](#last-50-posts)
 
 > I created a planning sheet in a Fabric Plan item. I added a couple measures and created a mockup for a forecasting scenario on a Fiscal Year/ Fiscal Quarter basis. 
 >
@@ -706,37 +776,47 @@ Link: <https://www.reddit.com/r/Dynamics365/comments/1xnsarx/business_central_mi
 >
 > Is this a known bug or did anyone experience a similar issue - if yes how did you fix it?
 
+<a id="post-36"></a>
+
 ### 36. Restriction on Report Level Measure creation
 
-2026-11-03 · u/skyverse0312 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvrwk/restriction_on_report_level_measure_creation/)
+2026-11-03 · u/skyverse0312 · Discussion · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvrwk/restriction_on_report_level_measure_creation/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_level_measure_creation/>
 
 
+<a id="post-37"></a>
+
 ### 37. Was there an October 2026 for Fabric?
 
-2026-11-03 · u/Robby_Boucher · Discussion · score 11 · 16 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvdqi/was_there_an_october_2026_for_fabric/)
+2026-11-03 · u/Robby_Boucher · Discussion · score 11 · 16 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmvdqi/was_there_an_october_2026_for_fabric/) · [↑ back to the list](#last-50-posts)
 
 > Was there not a monthly update release for Fabric for October 2026?  The Fabric release blog shows Sept 2026 as the latest.
 
+<a id="post-38"></a>
+
 ### 38. Dataverse Link to Fabric
 
-2026-11-03 · u/gertflies · Administration & Governance · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmt3b0/dataverse_link_to_fabric/)
+2026-11-03 · u/gertflies · Administration & Governance · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmt3b0/dataverse_link_to_fabric/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-39"></a>
+
 ### 39. Hoping next year is finally the year this feature gets addressed
 
-2026-11-03 · u/Low-Fox-1718 · Administration & Governance · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmsna0/hoping_next_year_is_finally_the_year_this_feature/)
+2026-11-03 · u/Low-Fox-1718 · Administration & Governance · score 10 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmsna0/hoping_next_year_is_finally_the_year_this_feature/) · [↑ back to the list](#last-50-posts)
 
 > Azure Key Vault References in Manage connections and gateways.
 >
 >
 > They still do not support cloud connections when AKV is accessible from selected virtual networks and ip addresses.  So basicly all connections must be made via gateway if one wishes to store secrets in the vault...
 
+<a id="post-40"></a>
+
 ### 40. I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated pages, and it’s been great
 
-2026-11-03 · u/Mobile_Education5413 · Community Share · score 63 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp6na/i_built_a_public_government_data_website_on/)
+2026-11-03 · u/Mobile_Education5413 · Community Share · score 63 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp6na/i_built_a_public_government_data_website_on/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/dvbthp0ugdzh1.png
 >
@@ -795,9 +875,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > And if you're generating static sites from Fabric, or have your own way of handling the "is it visible yet?" problem, I'd love to compare notes!
 
+<a id="post-41"></a>
+
 ### 41. How are you reducing latency in Microsoft Fabric Data Agents?
 
-2026-11-03 · u/WashStreet4312 · Fabric IQ · score 9 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp512/how_are_you_reducing_latency_in_microsoft_fabric/)
+2026-11-03 · u/WashStreet4312 · Fabric IQ · score 9 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp512/how_are_you_reducing_latency_in_microsoft_fabric/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -821,9 +903,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Would be interested to hear what worked in production.
 
+<a id="post-42"></a>
+
 ### 42. I built a public government data website on Fabric F2: 500+ Lakehouse and Warehouse objects, Python-generated pages, and it’s been great
 
-2026-11-03 · u/Mobile_Education5413 · Community Share · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp4oe/i_built_a_public_government_data_website_on/)
+2026-11-03 · u/Mobile_Education5413 · Community Share · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmp4oe/i_built_a_public_government_data_website_on/) · [↑ back to the list](#last-50-posts)
 
 > I've been building a public website on Microsoft Fabric, and I have to say, I'm really impressed with how well the platform works.
 >
@@ -880,15 +964,19 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > And if you're generating static sites from Fabric, or have your own way of handling the "is it visible yet?" problem, I'd love to compare notes!
 
+<a id="post-43"></a>
+
 ### 43. Fabric Apps - Environment Variables
 
-2026-11-03 · u/12Eerc · App Development · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmnsak/fabric_apps_environment_variables/)
+2026-11-03 · u/12Eerc · App Development · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmnsak/fabric_apps_environment_variables/) · [↑ back to the list](#last-50-posts)
 
 > Where is the best place to put environment variables sucj as a service principal that might need to be used by a Fabric App to grab data from Entra?
 
+<a id="post-44"></a>
+
 ### 44. Architecting a Supply Chain Control Tower (~20 sources, 6-tier ETA fallback, PO+Colour granularity) – Need advice on Star Schema vs PQ Staging to fix 10-min refresh
 
-2026-11-03 · u/Living_Tie6384 · Discussion · score 1 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmn0mr/architecting_a_supply_chain_control_tower_20/)
+2026-11-03 · u/Living_Tie6384 · Discussion · score 1 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xmn0mr/architecting_a_supply_chain_control_tower_20/) · [↑ back to the list](#last-50-posts)
 
 > I am rebuilding an enterprise Supply Chain Control Tower in Power BI that tracks \\\~20 different files (Master data, PO booking platform, 6 ETA feeds, Warehouse receipt logs). I'm facing a major modeling dilemma: I need cross-file logic (e.g., a 6-tier fallback hierarchy for ETAs, plus a status column that evaluates flags across 3–4 different tables), but doing heavy merges in Power Query has pushed my refresh time past 10 minutes.
 >
@@ -940,9 +1028,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Ps I'm not a pro at powerbi. I have a some experience but for this I'm basically building a control tower that needs so much info from various sources.
 
+<a id="post-45"></a>
+
 ### 45. Setting workspaces private
 
-2026-11-02 · u/MrDark13 · Security · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm5jj7/setting_workspaces_private/)
+2026-11-02 · u/MrDark13 · Security · score 2 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm5jj7/setting_workspaces_private/) · [↑ back to the list](#last-50-posts)
 
 > We are trying to set workspaces to private and it looks like configure workspace-level inbound network rules is enabled. But when we try and set workspace connection settings to allow connections from selected networks and workspace level private links we get this error. 
 >
@@ -950,9 +1040,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > I tried this on a new workspace without any objects created in it and it gives me the same error. Anyone have any ideas what we might be doing wrong?
 
+<a id="post-46"></a>
+
 ### 46. November 2026 \| "What are you working on?"
 
-2026-11-02 · u/AutoModerator · Discussion · score 10 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm2qpp/november_2026_what_are_you_working_on/)
+2026-11-02 · u/AutoModerator · Discussion · score 10 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm2qpp/november_2026_what_are_you_working_on/) · [↑ back to the list](#last-50-posts)
 
 > Welcome to the open thread for r/MicrosoftFabric members!
 >
@@ -966,9 +1058,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Want to help shape the future of Microsoft Fabric? Join the [Fabric User Panel](https://aka.ms/FabricUserPanel) and share your feedback directly with the team!
 
+<a id="post-47"></a>
+
 ### 47. Metadata-driven orchestration across workspaces: how do you handle run-as identities and permissions?
 
-2026-11-02 · u/arbrush · Discussion · score 6 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm21rb/metadatadriven_orchestration_across_workspaces/)
+2026-11-02 · u/arbrush · Discussion · score 6 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xm21rb/metadatadriven_orchestration_across_workspaces/) · [↑ back to the list](#last-50-posts)
 
 > We're building a central orchestration workspace (kinda inspired by the [FMD framework](https://github.com/edkreuk/FMD_FRAMEWORK/wiki/Workspace-architecture)). A generic pipeline reads scheduling metadata and triggers child pipelines in other (teams') workspaces via Invoke Pipeline. Each team maintains its own DAG (e.g. in an excel file in Sharepoint - don't ask).
 >
@@ -988,9 +1082,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Has anyone run this pattern in production? And what did you do about identities?
 
+<a id="post-48"></a>
+
 ### 48. Direct Lake on a Fabric Warehouse: does the way you load tables matter?
 
-2026-11-02 · u/panvlozka · Community Share · score 19 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlzjh7/direct_lake_on_a_fabric_warehouse_does_the_way/)
+2026-11-02 · u/panvlozka · Community Share · score 19 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlzjh7/direct_lake_on_a_fabric_warehouse_does_the_way/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -1014,9 +1110,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Looking forward to hearing whether you have the same experience.
 
+<a id="post-49"></a>
+
 ### 49. Issue with Copy Data Upsert from on-prem SQL behind gateway
 
-2026-11-02 · u/CPD-LSF · Discussion · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlvt81/issue_with_copy_data_upsert_from_onprem_sql/)
+2026-11-02 · u/CPD-LSF · Discussion · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlvt81/issue_with_copy_data_upsert_from_onprem_sql/) · [↑ back to the list](#last-50-posts)
 
 > I'm trying to get a copy data activity to work in UPSERT mode. I'm ingesting data from an on prem SQL connector from a table with an ID column which is unique and auto-incrementing. It's the column chosen for the key.
 >
@@ -1030,9 +1128,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > Has anyone encountered this / is it a known issue?
 
+<a id="post-50"></a>
+
 ### 50. CopyJob unable to do Merge write mode on lakehouse despite the UI allowing that option to be enabled
 
-2026-11-02 · u/Pahlawan_Ketupat · Data Factory · score 4 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlpxcb/copyjob_unable_to_do_merge_write_mode_on/)
+2026-11-02 · u/Pahlawan_Ketupat · Data Factory · score 4 · 5 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xlpxcb/copyjob_unable_to_do_merge_write_mode_on/) · [↑ back to the list](#last-50-posts)
 
 > I got this error when running a merge write mode for my copy job: ErrorCode=InvalidParameter,'Type=Microsoft.DataTransfer.Common.Shared.HybridDeliveryException,Message=The value of the property '' is invalid: 'Table action option is invalid Upsert'.,Source=,''Type=System.ArgumentException,Message=Table action option is invalid Upsert,Source=Microsoft.DataTransfer.TransferTask,'  
 >
@@ -1044,9 +1144,11 @@ Link: <https://www.reddit.com/r/PowerBI/comments/1xmvrp7/restriction_on_report_l
 >
 > It also points me to error code 2200 but when I clicked it to open the Microsoft Documentation, error code 2200 is not even documented. Send me help.
 
+<a id="post-51"></a>
+
 ### 51. We built Weaver — an open-source data engineering framework for Microsoft Fabric
 
-2026-10-26 · u/Mobile_Education5413 · Data Engineering · score 101 · 18 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xftjmj/we_built_weaver_an_opensource_data_engineering/)
+2026-10-26 · u/Mobile_Education5413 · Data Engineering · score 101 · 18 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xftjmj/we_built_weaver_an_opensource_data_engineering/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xftjmj>
 
@@ -1109,9 +1211,11 @@ Link: <https://www.reddit.com/gallery/1xftjmj>
 >
 > Feedback, criticism and contributions are very welcome.
 
+<a id="post-52"></a>
+
 ### 52. Fabric Apps: what it actually costs
 
-2026-10-17 · u/Equivalent_Season669 · Community Share · score 74 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x8a0mz/fabric_apps_what_it_actually_costs/)
+2026-10-17 · u/Equivalent_Season669 · Community Share · score 74 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x8a0mz/fabric_apps_what_it_actually_costs/) · [↑ back to the list](#last-50-posts)
 
 > I've been measuring Fabric Apps consumption in the Capacity Metrics app and comparing it against the [official pricing page](https://learn.microsoft.com/en-us/fabric/apps/pricing). Here's what I found.
 >
@@ -1144,9 +1248,11 @@ Link: <https://www.reddit.com/gallery/1xftjmj>
 >
 > Has anyone measured this on a real F or with heavy write load? I'd like to compare numbers.
 
+<a id="post-53"></a>
+
 ### 53. Claude Dashboards Through Fabric MCPs - Getting started prompt
 
-2026-10-11 · u/OscarValerock · Community Share · score 72 · 29 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x3h3rx/claude_dashboards_through_fabric_mcps_getting/)
+2026-10-11 · u/OscarValerock · Community Share · score 72 · 29 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x3h3rx/claude_dashboards_through_fabric_mcps_getting/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/n9jszguy2wuh1.png>
 
@@ -1203,9 +1309,11 @@ Link: <https://i.redd.it/n9jszguy2wuh1.png>
 >
 >     Before you start, tell me which tables and measures you plan to use, and ask about anything unclear, including any optional field I left blank.
 
+<a id="post-54"></a>
+
 ### 54. I wanted better accounting reports. Somehow I'm a data engineer now.
 
-2026-10-18 · u/irish_burke · Discussion · score 66 · 21 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x988vk/i_wanted_better_accounting_reports_somehow_im_a/)
+2026-10-18 · u/irish_burke · Discussion · score 66 · 21 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x988vk/i_wanted_better_accounting_reports_somehow_im_a/) · [↑ back to the list](#last-50-posts)
 
 > Has anyone else accidentally gone way too far down the Microsoft rabbit hole?
 >
@@ -1247,9 +1355,11 @@ Link: <https://i.redd.it/n9jszguy2wuh1.png>
 >
 > What started it for you?
 
+<a id="post-55"></a>
+
 ### 55. Anyone else moved from Power BI to Fabric apps? I’ve basically stopped using Power BI
 
-2026-10-11 · u/jmjmalik22 · App Development · score 61 · 77 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x3mqw1/anyone_else_moved_from_power_bi_to_fabric_apps/)
+2026-10-11 · u/jmjmalik22 · App Development · score 61 · 77 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x3mqw1/anyone_else_moved_from_power_bi_to_fabric_apps/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -1265,9 +1375,11 @@ Link: <https://i.redd.it/n9jszguy2wuh1.png>
 >
 > Has anyone else made the same switch, or are you still sticking with Power BI? I’d like to hear what’s working for you and where you’ve hit limitations.
 
+<a id="post-56"></a>
+
 ### 56. From DP600 to DP700 to DP800: my experience and advice after passing all three
 
-2026-11-01 · u/Warren530 · Certification · score 57 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xl6snh/from_dp600_to_dp700_to_dp800_my_experience_and/)
+2026-11-01 · u/Warren530 · Certification · score 57 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xl6snh/from_dp600_to_dp700_to_dp800_my_experience_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xl6snh>
 
@@ -1307,17 +1419,21 @@ Link: <https://www.reddit.com/gallery/1xl6snh>
 >
 > Happy to answer questions in the comments.
 
+<a id="post-57"></a>
+
 ### 57. AI solves unsolvable physics, CS and math problems but we still have this
 
-2026-10-28 · u/MaterialLogical1682 · Discussion · score 49 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xhpenj/ai_solves_unsolvable_physics_cs_and_math_problems/)
+2026-10-28 · u/MaterialLogical1682 · Discussion · score 49 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xhpenj/ai_solves_unsolvable_physics_cs_and_math_problems/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1ze7ngt4w7yh1.jpeg>
 
 > Kind of crazy that this is still there
 
+<a id="post-58"></a>
+
 ### 58. Starting a Data Engineer role where the company is just beginning its Microsoft Fabric Lakehouse — advice from those who've been there?
 
-2026-10-11 · u/Existing-Wishbone887 · Discussion · score 48 · 40 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x37b8m/starting_a_data_engineer_role_where_the_company/)
+2026-10-11 · u/Existing-Wishbone887 · Discussion · score 48 · 40 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x37b8m/starting_a_data_engineer_role_where_the_company/) · [↑ back to the list](#last-50-posts)
 
 > I'm joining an organization as a Data Engineer, and they're in the early stages of building out a Lakehouse environment in Microsoft Fabric.
 >
@@ -1338,9 +1454,11 @@ Link: <https://i.redd.it/1ze7ngt4w7yh1.jpeg>
 >
 > Thanks in advance for any lessons learned.
 
+<a id="post-59"></a>
+
 ### 59. Data Days: Fabric IQ & Apps, real projects, and yes, vouchers
 
-2026-10-30 · u/FabricPam · Certification · score 47 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xjjjfd/data_days_fabric_iq_apps_real_projects_and_yes/)
+2026-10-30 · u/FabricPam · Certification · score 47 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xjjjfd/data_days_fabric_iq_apps_real_projects_and_yes/) · [↑ back to the list](#last-50-posts)
 
 > Hey u/MicrosoftFabric, I’m on the Microsoft Fabric team. You might remember me as the voucher fairy (more on that in a minute).
 >
@@ -1350,9 +1468,11 @@ Link: <https://i.redd.it/1ze7ngt4w7yh1.jpeg>
 >
 > And since I’m still the voucher fairy... we’ll have exam vouchers to give away, plus exam prep sessions, study groups, and contests with legit prizes (because now I'm also the prize fairy!).
 
+<a id="post-60"></a>
+
 ### 60. FabriBuddy: open-source lineage for your Fabric Tenant - runs as a Fabric App
 
-2026-10-27 · u/zanibani · Administration & Governance · score 45 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xgy9xj/fabribuddy_opensource_lineage_for_your_fabric/)
+2026-10-27 · u/zanibani · Administration & Governance · score 45 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xgy9xj/fabribuddy_opensource_lineage_for_your_fabric/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -1396,15 +1516,19 @@ Link: <https://i.redd.it/1ze7ngt4w7yh1.jpeg>
 >
 > It’s early, so I’d really like to hear where it breaks in your tenant. Feedback, criticism and contributions are very welcome.
 
+<a id="post-61"></a>
+
 ### 61. MSFT Fabric employee shuffle
 
-2026-10-28 · u/el_dude1 · Discussion · score 44 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xhtohz/msft_fabric_employee_shuffle/)
+2026-10-28 · u/el_dude1 · Discussion · score 44 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xhtohz/msft_fabric_employee_shuffle/) · [↑ back to the list](#last-50-posts)
 
 > I am following a few Microsoft employees in LinkedIn and can‘t help to notice that many of them seem to be switching jobs. Either internally or externally. Is Microsoft just cutting staff on Fabric or replacing people because of reasons? What does that mean for customers?
 
+<a id="post-62"></a>
+
 ### 62. Returning to Fabric after a year of Snowflake
 
-2026-10-23 · u/Gawgba · Discussion · score 38 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xdf5zx/returning_to_fabric_after_a_year_of_snowflake/)
+2026-10-23 · u/Gawgba · Discussion · score 38 · 40 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xdf5zx/returning_to_fabric_after_a_year_of_snowflake/) · [↑ back to the list](#last-50-posts)
 
 > Per subject, I am likely taking a position where I will be once again working within Fabric after almost a year of working within Snowflake and not touching Fabric at all.
 >
@@ -1414,9 +1538,11 @@ Link: <https://i.redd.it/1ze7ngt4w7yh1.jpeg>
 >
 > Basically, can folks name a few items that they see as Fabric doing better than Snowflake so I can sort of console myself with this transition?
 
+<a id="post-63"></a>
+
 ### 63. Open source IBSC styled financial rayfin app
 
-2026-10-17 · u/bgarcevic · App Development · score 38 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x8hm98/open_source_ibsc_styled_financial_rayfin_app/)
+2026-10-17 · u/bgarcevic · App Development · score 38 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x8hm98/open_source_ibsc_styled_financial_rayfin_app/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/5xqydfshl2wh1>
 
@@ -1432,9 +1558,11 @@ Link: <https://v.redd.it/5xqydfshl2wh1>
 >
 > Original template: [microsoft/awesome-rayfin: Community-driven templates for Rayfin](https://github.com/microsoft/awesome-rayfin)
 
+<a id="post-64"></a>
+
 ### 64. Are you guys using dbt with Microsoft Fabric in production? How is your experience?
 
-2026-11-01 · u/bytescrafterde · Data Engineering · score 35 · 68 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xkz851/are_you_guys_using_dbt_with_microsoft_fabric_in/)
+2026-11-01 · u/bytescrafterde · Data Engineering · score 35 · 68 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xkz851/are_you_guys_using_dbt_with_microsoft_fabric_in/) · [↑ back to the list](#last-50-posts)
 
 > I'm planning to introduce dbt into our existing Microsoft Fabric data warehouse and would love to hear from people who are already using it in production.
 >
@@ -1450,9 +1578,11 @@ Link: <https://v.redd.it/5xqydfshl2wh1>
 >
 > Thanks!
 
+<a id="post-65"></a>
+
 ### 65. Extreme system usage CU for Warehouse
 
-2026-10-24 · u/Careless_Cellist_385 · Data Warehouse · score 35 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xef9lk/extreme_system_usage_cu_for_warehouse/)
+2026-10-24 · u/Careless_Cellist_385 · Data Warehouse · score 35 · 8 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xef9lk/extreme_system_usage_cu_for_warehouse/) · [↑ back to the list](#last-50-posts)
 
 > Since 13 October our F16 has been running hot. The cause turned out to be the Fabric portal itself, not our ETL.  
 >
@@ -1487,23 +1617,29 @@ Link: <https://v.redd.it/5xqydfshl2wh1>
 >
 > Anyone else seeing this? Did it start around the same date for you? Is there a setting to turn off the activity part of Object Overview? I'm thinking of submitting a support ticket.
 
+<a id="post-66"></a>
+
 ### 66. Does Fabric has a future?
 
-2026-10-31 · u/tidder78 · Discussion · score 28 · 78 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xkk7ir/does_fabric_has_a_future/)
+2026-10-31 · u/tidder78 · Discussion · score 28 · 78 comments · approved · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1xkk7ir/does_fabric_has_a_future/) · [↑ back to the list](#last-50-posts)
 
 > Mean no disrespect if you like Fabric. I have a SQL / PowerBI background and have been hearing about Fabric. What are its advantages and do you think this product is here to stay ? I am thinking about learning this product since there is so much chatter about it. Will appreciate your perspective.
 
+<a id="post-67"></a>
+
 ### 67. Learning Git, ADO, CI/CD etc
 
-2026-10-15 · u/cyamnihc · Discussion · score 28 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x6dgzi/learning_git_ado_cicd_etc/)
+2026-10-15 · u/cyamnihc · Discussion · score 28 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x6dgzi/learning_git_ado_cicd_etc/) · [↑ back to the list](#last-50-posts)
 
 > A vendor is working on migrating pipelines, reporting to fabric. Proper engineering practices are being followed to do this. The team is inexperienced in all this and will have to take it over at some point
 >
 > Any suggestions from the community where I can learn all of these as a starting point and also help me get integrated into the workflow as quickly as possible?
 
+<a id="post-68"></a>
+
 ### 68. Is building a local development environment that mimics Microsoft Fabric notebooks a good idea, or am I overengineering it?
 
-2026-10-19 · u/carmotte · Discussion · score 27 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x9pofi/is_building_a_local_development_environment_that/)
+2026-10-19 · u/carmotte · Discussion · score 27 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/MicrosoftFabric/comments/1x9pofi/is_building_a_local_development_environment_that/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >

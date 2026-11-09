@@ -43,56 +43,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Two free hands-on badges from Snowflake Expedition (finance reconciliation + campaign planning), both built o…](https://www.reddit.com/r/snowflake/comments/1xpqdr6/two_free_handson_badges_from_snowflake_expedition/) | u/dataregulator3 | — | text | 7 | 0 | live | — |
-| 2 | 2026-11-06 | [How do you back up your Snowflake object definitions (DDL)?](https://www.reddit.com/r/snowflake/comments/1xpf1uz/how_do_you_back_up_your_snowflake_object/) | u/No_Ambition8323 | — | text | 4 | 22 | live | — |
-| 3 | 2026-11-06 | [Any Snowflake Architects from India here willing to mentor](https://www.reddit.com/r/snowflake/comments/1xpcajb/any_snowflake_architects_from_india_here_willing/) | u/optimist7219 | — | text | 2 | 7 | live | — |
-| 4 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](https://www.reddit.com/r/snowflake/comments/1xp5igg/how_does_your_team_deal_with_source_schema/) | u/BullfrogFinal3566 | — | reddit.com | 1 | 4 | live | — |
-| 5 | 2026-11-06 | [DEV/UAT/PRD in separate accounts?](https://www.reddit.com/r/snowflake/comments/1xp46oz/devuatprd_in_separate_accounts/) | u/EquivalentKey614 | — | text | 2 | 6 | approved | — |
-| 6 | 2026-11-06 | [DEV/UAT/PRD in separate accounts?](https://www.reddit.com/r/snowflake/comments/1xp3g2w/devuatprd_in_separate_accounts/) | u/Salt-Shallot-4640 | — | text | 1 | 0 | spam-filtered | — |
-| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/snowflake/comments/1xotf18/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 1 | 0 | removed by mod | — |
-| 8 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](https://www.reddit.com/r/snowflake/comments/1xoj9dy/i_built_an_opensource_semantic_layer_that/) | u/wrosa85 | — | text | 1 | 0 | spam-filtered | — |
-| 9 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/snowflake/comments/1xoix1y/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/analyticsvector-yt | — | text | 0 | 0 | removed by mod | — |
-| 10 | 2026-11-05 | [DEV/UAT/PRD in separate accounts?](https://www.reddit.com/r/snowflake/comments/1xockhz/devuatprd_in_separate_accounts/) | u/Salt-Shallot-4640 | — | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-05 | [Snowflake Cloud Support Engineer – Application Security (Pune) Hiring Timeline](https://www.reddit.com/r/snowflake/comments/1xo8dws/snowflake_cloud_support_engineer_application/) | u/vishalkanna-7 | — | text | 2 | 7 | live | — |
-| 12 | 2026-11-04 | [Migrating snowflake worksheet/notebook](https://www.reddit.com/r/snowflake/comments/1xnxnef/migrating_snowflake_worksheetnotebook/) | u/Qwertyoks | — | text | 4 | 3 | live | — |
-| 13 | 2026-11-04 | [Ontology, Cortex AI gateway & all key launches from expedition](https://www.reddit.com/r/snowflake/comments/1xnt4rw/ontology_cortex_ai_gateway_all_key_launches_from/) | u/vino_and_data | — | i.redd.it | 54 | 4 | live | — |
-| 14 | 2026-11-04 | [Context layer vs semantic layer, and what both miss: one question, three answers](https://www.reddit.com/r/snowflake/comments/1xnq8z9/context_layer_vs_semantic_layer_and_what_both/) | u/Data-Queen-Mayra | — | text | 0 | 6 | live | — |
-| 15 | 2026-11-04 | [Snowflake's AI_PARSE_DOCUMENT got an agentic mode](https://www.reddit.com/r/snowflake/comments/1xnoxd6/snowflakes_ai_parse_document_got_an_agentic_mode/) | u/sfrt-io | — | sfrt.io | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-03 | [Snowflake certification reattempt](https://www.reddit.com/r/snowflake/comments/1xmxylr/snowflake_certification_reattempt/) | u/Qwertyoks | — | text | 3 | 1 | live | — |
-| 17 | 2026-11-03 | [TIMESTAMP_NTZ vs LTZ vs TZ:which one burned you and which do you use by default?](https://www.reddit.com/r/snowflake/comments/1xmwytd/timestamp_ntz_vs_ltz_vs_tzwhich_one_burned_you/) | u/No_Ambition8323 | — | text | 2 | 1 | live | — |
-| 18 | 2026-11-02 | [Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views](https://www.reddit.com/r/snowflake/comments/1xm3mcq/need_help_migrating_a_power_bi_semantic_model/) | u/luffy_29_29 | — | text | 2 | 9 | spam-filtered | — |
-| 19 | 2026-11-02 | [Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views](https://www.reddit.com/r/snowflake/comments/1xm3k0n/need_help_migrating_a_power_bi_semantic_model/) | u/luffy_29_29 | — | text | 1 | 0 | live | — |
-| 20 | 2026-11-02 | [Snowflake DCM Projects (Hybrid Tables)](https://www.reddit.com/r/snowflake/comments/1xm2swv/snowflake_dcm_projects_hybrid_tables/) | u/iamliving170101 | — | text | 2 | 3 | live | — |
-| 21 | 2026-11-02 | [The ACCOUNT_USAGE queries I run first on any cost audit](https://www.reddit.com/r/snowflake/comments/1xljoqy/the_account_usage_queries_i_run_first_on_any_cost/) | u/Miserable_Theme_2317 | — | text | 14 | 4 | live | — |
-| 22 | 2026-11-01 | [Workday data is now queryable in Snowflake with zero copy. The pipeline cost goes away, but I think it just m…](https://www.reddit.com/r/snowflake/comments/1xl38bj/workday_data_is_now_queryable_in_snowflake_with/) | u/Spiritual-Kitchen-79 | — | reddit.com | 3 | 5 | live | — |
-| 23 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](https://www.reddit.com/r/snowflake/comments/1xkzuvv/snowflake_to_iceberg_lakehouse_migration_guide/) | u/codingdecently | — | lakeops.dev | 10 | 0 | live | — |
-| 24 | 2026-10-31 | [Snowflake Intelligence-> CoWork -> ???](https://www.reddit.com/r/snowflake/comments/1xk8fcc/snowflake_intelligence_cowork/) | u/Global-War181 | — | text | 11 | 4 | live | — |
-| 25 | 2026-10-31 | [Does agentic analytics need a separate semantic layer if the data is already well modeled?](https://www.reddit.com/r/snowflake/comments/1xjx8xq/does_agentic_analytics_need_a_separate_semantic/) | u/Apprehensive_Tie2494 | — | text | 8 | 15 | live | — |
-| 26 | 2026-10-30 | [Heads up: Snowflake Backups now skip transient tables without warning (BCR-2360)](https://www.reddit.com/r/snowflake/comments/1xjkdpv/heads_up_snowflake_backups_now_skip_transient/) | u/Spiritual-Kitchen-79 | — | text | 6 | 2 | live | — |
-| 27 | 2026-10-30 | [I built a free, offline SnowPro Core (COF-C03) practice test: 812 questions, made with a Snowflake-docu agent…](https://www.reddit.com/r/snowflake/comments/1xjaq61/i_built_a_free_offline_snowpro_core_cofc03/) | u/dataregulator3 | — | text | 46 | 11 | live | — |
-| 28 | 2026-10-30 | [Does anyone use Streams and Tasks anymore?](https://www.reddit.com/r/snowflake/comments/1xj62b3/does_anyone_use_streams_and_tasks_anymore/) | u/SinkNeither1527 | — | text | 22 | 23 | live | — |
-| 29 | 2026-10-29 | [Daily Co-Co credits](https://www.reddit.com/r/snowflake/comments/1xiqgbe/daily_coco_credits/) | u/HeartAndCircuits | — | text | 7 | 8 | live | — |
-| 30 | 2026-10-29 | [Semantic Views vs Definitions and mapping tables?](https://www.reddit.com/r/snowflake/comments/1xipqvd/semantic_views_vs_definitions_and_mapping_tables/) | u/Darkwolf22345 | — | text | 7 | 15 | live | — |
-| 31 | 2026-10-29 | [How do you handle slowly changing dimensions(SCD Type 2) ins snowflake?](https://www.reddit.com/r/snowflake/comments/1xioqy7/how_do_you_handle_slowly_changing_dimensionsscd/) | u/No_Ambition8323 | — | text | 12 | 17 | live | — |
-| 32 | 2026-10-29 | [Cleared SnowPro C0F-C03](https://www.reddit.com/r/snowflake/comments/1ximmua/cleared_snowpro_c0fc03/) | u/Sharp_Pen8345 | — | text | 28 | 3 | live | — |
-| 33 | 2026-10-29 | [MFA Enforced on: October 28, 2026](https://www.reddit.com/r/snowflake/comments/1xigh6k/mfa_enforced_on_october_28_2026/) | u/HuckleberryHappy596 | — | text | 4 | 9 | live | — |
-| 34 | 2026-10-29 | [Salesforce CRM to Snowflake on-demand data access: which auth pattern are you using for a service account?](https://www.reddit.com/r/snowflake/comments/1xi8hwe/salesforce_crm_to_snowflake_ondemand_data_access/) | u/jutehub | — | text | 5 | 6 | live | — |
-| 35 | 2026-10-29 | [AI assisted data migration with CoCo](https://www.reddit.com/r/snowflake/comments/1xi5icz/ai_assisted_data_migration_with_coco/) | u/BytesAndGiggles | — | text | 10 | 11 | deleted by author | — |
-| 36 | 2026-10-28 | [Hiring:Lead Snowflake Developer \| 10–15 Years of Experience](https://www.reddit.com/r/snowflake/comments/1xhib4z/hiringlead_snowflake_developer_1015_years_of/) | u/Objective_Plate_361 | — | reddit.com | 1 | 0 | live | — |
-| 37 | 2026-10-27 | [My favorite ways to learn Snowflake hands-on (mostly free): a starter guide](https://www.reddit.com/r/snowflake/comments/1xgujtf/my_favorite_ways_to_learn_snowflake_handson/) | u/dataregulator3 | — | text | 46 | 6 | live | — |
-| 38 | 2026-10-27 | [Can't create a Snowflake trial account](https://www.reddit.com/r/snowflake/comments/1xghgaj/cant_create_a_snowflake_trial_account/) | u/Final_Push5488 | — | text | 4 | 4 | live | — |
-| 39 | 2026-10-26 | [It's never been easier to run Iceberg tables in Snowflake. No need to interact with AWS at all anymore.](https://www.reddit.com/r/snowflake/comments/1xg7bmi/its_never_been_easier_to_run_iceberg_tables_in/) | u/hornyforsavings | — | greybeam.ai | 21 | 1 | live | — |
-| 40 | 2026-10-26 | [Snowflake roles and the current market demand](https://www.reddit.com/r/snowflake/comments/1xfybsl/snowflake_roles_and_the_current_market_demand/) | u/SeaYouLaterAllig8tor | — | text | 12 | 12 | live | — |
-| 41 | 2026-10-26 | [What's one snowflake feature you wish to knew about earlier?](https://www.reddit.com/r/snowflake/comments/1xfy0x2/whats_one_snowflake_feature_you_wish_to_knew/) | u/No_Ambition8323 | — | text | 13 | 15 | live | — |
-| 42 | 2026-10-26 | [Enterprise Data with AI Agents: A Data Platform Guide](https://www.reddit.com/r/snowflake/comments/1xft0kx/enterprise_data_with_ai_agents_a_data_platform/) | u/codingdecently | — | lakeops.dev | 0 | 0 | removed by mod | — |
-| 43 | 2026-10-25 | [Company wants to limit or block our AI CoCo desktop tool over cost. Is this worth fighting?](https://www.reddit.com/r/snowflake/comments/1xfhbb3/company_wants_to_limit_or_block_our_ai_coco/) | u/pusmottob | — | text | 20 | 43 | live | — |
-| 44 | 2026-10-25 | [Claude Dashboards + Snowflake: A CFO Dashboard in 1 Prompt, No Power BI,...](https://www.reddit.com/r/snowflake/comments/1xfbol0/claude_dashboards_snowflake_a_cfo_dashboard_in_1/) | u/Late-Intention6711 | — | youtube.com | 0 | 2 | live | — |
-| 45 | 2026-10-24 | [Studying Snowflake and can't afford it](https://www.reddit.com/r/snowflake/comments/1xeh1vv/studying_snowflake_and_cant_afford_it/) | u/oswaldonisango | — | reddit.com | 7 | 9 | live | — |
-| 46 | 2026-10-24 | [How are you tracking what each Streamlit app in your account costs?](https://www.reddit.com/r/snowflake/comments/1xe4vfb/how_are_you_tracking_what_each_streamlit_app_in/) | u/john_uppcoder | — | text | 11 | 16 | live | — |
-| 47 | 2026-10-23 | [How to do analysis without Cortex ?](https://www.reddit.com/r/snowflake/comments/1xdn0xo/how_to_do_analysis_without_cortex/) | u/Ja-smine | — | text | 0 | 22 | live | — |
-| 48 | 2026-10-23 | [5 short dbt Power User demos: profiling, column lineage, docs and tests, CTE debugging, macro hover](https://www.reddit.com/r/snowflake/comments/1xdkzee/5_short_dbt_power_user_demos_profiling_column/) | u/fraser_altimate | — | text | 0 | 0 | live | — |
-| 49 | 2026-10-23 | [How I maintain and fix my semantic views with a canary job via Snowflake tasks and alerts](https://www.reddit.com/r/snowflake/comments/1xdii2n/how_i_maintain_and_fix_my_semantic_views_with_a/) | u/k_kool_ruler | — | youtube.com | 4 | 1 | live | — |
-| 50 | 2026-10-22 | [Snowflake Signup - Something went wrong](https://www.reddit.com/r/snowflake/comments/1xcti5t/snowflake_signup_something_went_wrong/) | u/bloomt1990 | — | text | 1 | 5 | live | — |
+| 1 | 2026-11-06 | [Two free hands-on badges from Snowflake Expedition (finance reconciliation + campaign planning), both built o…](#post-1) | u/dataregulator3 | — | text | 7 | 0 | live | — |
+| 2 | 2026-11-06 | [How do you back up your Snowflake object definitions (DDL)?](#post-2) | u/No_Ambition8323 | — | text | 4 | 22 | live | — |
+| 3 | 2026-11-06 | [Any Snowflake Architects from India here willing to mentor](#post-3) | u/optimist7219 | — | text | 2 | 7 | live | — |
+| 4 | 2026-11-06 | [How does your team deal with source schema changes breaking downstream pipelines?](#post-4) | u/BullfrogFinal3566 | — | reddit.com | 1 | 4 | live | — |
+| 5 | 2026-11-06 | [DEV/UAT/PRD in separate accounts?](#post-5) | u/EquivalentKey614 | — | text | 2 | 6 | approved | — |
+| 6 | 2026-11-06 | [DEV/UAT/PRD in separate accounts?](#post-6) | u/Salt-Shallot-4640 | — | text | 1 | 0 | spam-filtered | — |
+| 7 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-7) | u/fristprinciplesde | — | text | 1 | 0 | removed by mod | — |
+| 8 | 2026-11-05 | [I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases…](#post-8) | u/wrosa85 | — | text | 1 | 0 | spam-filtered | — |
+| 9 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-9) | u/analyticsvector-yt | — | text | 0 | 0 | removed by mod | — |
+| 10 | 2026-11-05 | [DEV/UAT/PRD in separate accounts?](#post-10) | u/Salt-Shallot-4640 | — | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-05 | [Snowflake Cloud Support Engineer – Application Security (Pune) Hiring Timeline](#post-11) | u/vishalkanna-7 | — | text | 2 | 7 | live | — |
+| 12 | 2026-11-04 | [Migrating snowflake worksheet/notebook](#post-12) | u/Qwertyoks | — | text | 4 | 3 | live | — |
+| 13 | 2026-11-04 | [Ontology, Cortex AI gateway & all key launches from expedition](#post-13) | u/vino_and_data | — | i.redd.it | 54 | 4 | live | — |
+| 14 | 2026-11-04 | [Context layer vs semantic layer, and what both miss: one question, three answers](#post-14) | u/Data-Queen-Mayra | — | text | 0 | 6 | live | — |
+| 15 | 2026-11-04 | [Snowflake's AI_PARSE_DOCUMENT got an agentic mode](#post-15) | u/sfrt-io | — | sfrt.io | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-03 | [Snowflake certification reattempt](#post-16) | u/Qwertyoks | — | text | 3 | 1 | live | — |
+| 17 | 2026-11-03 | [TIMESTAMP_NTZ vs LTZ vs TZ:which one burned you and which do you use by default?](#post-17) | u/No_Ambition8323 | — | text | 2 | 1 | live | — |
+| 18 | 2026-11-02 | [Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views](#post-18) | u/luffy_29_29 | — | text | 2 | 9 | spam-filtered | — |
+| 19 | 2026-11-02 | [Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views](#post-19) | u/luffy_29_29 | — | text | 1 | 0 | live | — |
+| 20 | 2026-11-02 | [Snowflake DCM Projects (Hybrid Tables)](#post-20) | u/iamliving170101 | — | text | 2 | 3 | live | — |
+| 21 | 2026-11-02 | [The ACCOUNT_USAGE queries I run first on any cost audit](#post-21) | u/Miserable_Theme_2317 | — | text | 14 | 4 | live | — |
+| 22 | 2026-11-01 | [Workday data is now queryable in Snowflake with zero copy. The pipeline cost goes away, but I think it just m…](#post-22) | u/Spiritual-Kitchen-79 | — | reddit.com | 3 | 5 | live | — |
+| 23 | 2026-11-01 | [Snowflake to Iceberg Lakehouse Migration Guide](#post-23) | u/codingdecently | — | lakeops.dev | 10 | 0 | live | — |
+| 24 | 2026-10-31 | [Snowflake Intelligence-> CoWork -> ???](#post-24) | u/Global-War181 | — | text | 11 | 4 | live | — |
+| 25 | 2026-10-31 | [Does agentic analytics need a separate semantic layer if the data is already well modeled?](#post-25) | u/Apprehensive_Tie2494 | — | text | 8 | 15 | live | — |
+| 26 | 2026-10-30 | [Heads up: Snowflake Backups now skip transient tables without warning (BCR-2360)](#post-26) | u/Spiritual-Kitchen-79 | — | text | 6 | 2 | live | — |
+| 27 | 2026-10-30 | [I built a free, offline SnowPro Core (COF-C03) practice test: 812 questions, made with a Snowflake-docu agent…](#post-27) | u/dataregulator3 | — | text | 46 | 11 | live | — |
+| 28 | 2026-10-30 | [Does anyone use Streams and Tasks anymore?](#post-28) | u/SinkNeither1527 | — | text | 22 | 23 | live | — |
+| 29 | 2026-10-29 | [Daily Co-Co credits](#post-29) | u/HeartAndCircuits | — | text | 7 | 8 | live | — |
+| 30 | 2026-10-29 | [Semantic Views vs Definitions and mapping tables?](#post-30) | u/Darkwolf22345 | — | text | 7 | 15 | live | — |
+| 31 | 2026-10-29 | [How do you handle slowly changing dimensions(SCD Type 2) ins snowflake?](#post-31) | u/No_Ambition8323 | — | text | 12 | 17 | live | — |
+| 32 | 2026-10-29 | [Cleared SnowPro C0F-C03](#post-32) | u/Sharp_Pen8345 | — | text | 28 | 3 | live | — |
+| 33 | 2026-10-29 | [MFA Enforced on: October 28, 2026](#post-33) | u/HuckleberryHappy596 | — | text | 4 | 9 | live | — |
+| 34 | 2026-10-29 | [Salesforce CRM to Snowflake on-demand data access: which auth pattern are you using for a service account?](#post-34) | u/jutehub | — | text | 5 | 6 | live | — |
+| 35 | 2026-10-29 | [AI assisted data migration with CoCo](#post-35) | u/BytesAndGiggles | — | text | 10 | 11 | deleted by author | — |
+| 36 | 2026-10-28 | [Hiring:Lead Snowflake Developer \| 10–15 Years of Experience](#post-36) | u/Objective_Plate_361 | — | reddit.com | 1 | 0 | live | — |
+| 37 | 2026-10-27 | [My favorite ways to learn Snowflake hands-on (mostly free): a starter guide](#post-37) | u/dataregulator3 | — | text | 46 | 6 | live | — |
+| 38 | 2026-10-27 | [Can't create a Snowflake trial account](#post-38) | u/Final_Push5488 | — | text | 4 | 4 | live | — |
+| 39 | 2026-10-26 | [It's never been easier to run Iceberg tables in Snowflake. No need to interact with AWS at all anymore.](#post-39) | u/hornyforsavings | — | greybeam.ai | 21 | 1 | live | — |
+| 40 | 2026-10-26 | [Snowflake roles and the current market demand](#post-40) | u/SeaYouLaterAllig8tor | — | text | 12 | 12 | live | — |
+| 41 | 2026-10-26 | [What's one snowflake feature you wish to knew about earlier?](#post-41) | u/No_Ambition8323 | — | text | 13 | 15 | live | — |
+| 42 | 2026-10-26 | [Enterprise Data with AI Agents: A Data Platform Guide](#post-42) | u/codingdecently | — | lakeops.dev | 0 | 0 | removed by mod | — |
+| 43 | 2026-10-25 | [Company wants to limit or block our AI CoCo desktop tool over cost. Is this worth fighting?](#post-43) | u/pusmottob | — | text | 20 | 43 | live | — |
+| 44 | 2026-10-25 | [Claude Dashboards + Snowflake: A CFO Dashboard in 1 Prompt, No Power BI,...](#post-44) | u/Late-Intention6711 | — | youtube.com | 0 | 2 | live | — |
+| 45 | 2026-10-24 | [Studying Snowflake and can't afford it](#post-45) | u/oswaldonisango | — | reddit.com | 7 | 9 | live | — |
+| 46 | 2026-10-24 | [How are you tracking what each Streamlit app in your account costs?](#post-46) | u/john_uppcoder | — | text | 11 | 16 | live | — |
+| 47 | 2026-10-23 | [How to do analysis without Cortex ?](#post-47) | u/Ja-smine | — | text | 0 | 22 | live | — |
+| 48 | 2026-10-23 | [5 short dbt Power User demos: profiling, column lineage, docs and tests, CTE debugging, macro hover](#post-48) | u/fraser_altimate | — | text | 0 | 0 | live | — |
+| 49 | 2026-10-23 | [How I maintain and fix my semantic views with a canary job via Snowflake tasks and alerts](#post-49) | u/k_kool_ruler | — | youtube.com | 4 | 1 | live | — |
+| 50 | 2026-10-22 | [Snowflake Signup - Something went wrong](#post-50) | u/bloomt1990 | — | text | 1 | 5 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -100,34 +100,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 | 2026-11-04 | [Ontology, Cortex AI gateway & all key launches from expedition](https://www.reddit.com/r/snowflake/comments/1xnt4rw/ontology_cortex_ai_gateway_all_key_launches_from/) | u/vino_and_data | — | i.redd.it | 54 | 4 | live |
-| 27 | 2026-10-30 | [I built a free, offline SnowPro Core (COF-C03) practice test: 812 questions, made with a Snowflake-docu agent…](https://www.reddit.com/r/snowflake/comments/1xjaq61/i_built_a_free_offline_snowpro_core_cofc03/) | u/dataregulator3 | — | text | 46 | 11 | live |
-| 37 | 2026-10-27 | [My favorite ways to learn Snowflake hands-on (mostly free): a starter guide](https://www.reddit.com/r/snowflake/comments/1xgujtf/my_favorite_ways_to_learn_snowflake_handson/) | u/dataregulator3 | — | text | 46 | 6 | live |
-| 51 | 2026-10-22 | [I’m testing Snowflake Openflow again after a long while, and it’s still absolutely terrible.](https://www.reddit.com/r/snowflake/comments/1xcb3xl/im_testing_snowflake_openflow_again_after_a_long/) | u/Connect-Football8349 | — | text | 43 | 23 | live |
-| 52 | 2026-10-15 | [Postgres Mirroring for Snowflake Postgres is now GA](https://www.reddit.com/r/snowflake/comments/1x6nqvc/postgres_mirroring_for_snowflake_postgres_is_now/) | u/craigkerstiens | — | text | 38 | 9 | live |
-| 32 | 2026-10-29 | [Cleared SnowPro C0F-C03](https://www.reddit.com/r/snowflake/comments/1ximmua/cleared_snowpro_c0fc03/) | u/Sharp_Pen8345 | — | text | 28 | 3 | live |
-| 53 | 2026-10-19 | [I dug into what Postgres mirroring actually costs. Here's what I found](https://www.reddit.com/r/snowflake/comments/1x9ud0b/i_dug_into_what_postgres_mirroring_actually_costs/) | u/Spiritual-Kitchen-79 | — | text | 26 | 8 | live |
-| 28 | 2026-10-30 | [Does anyone use Streams and Tasks anymore?](https://www.reddit.com/r/snowflake/comments/1xj62b3/does_anyone_use_streams_and_tasks_anymore/) | u/SinkNeither1527 | — | text | 22 | 23 | live |
-| 54 | 2026-10-18 | [dbt Projects in Snowflake vs dbt Cloud](https://www.reddit.com/r/snowflake/comments/1x9c7gb/dbt_projects_in_snowflake_vs_dbt_cloud/) | u/SeaYouLaterAllig8tor | — | text | 22 | 23 | live |
-| 39 | 2026-10-26 | [It's never been easier to run Iceberg tables in Snowflake. No need to interact with AWS at all anymore.](https://www.reddit.com/r/snowflake/comments/1xg7bmi/its_never_been_easier_to_run_iceberg_tables_in/) | u/hornyforsavings | — | greybeam.ai | 21 | 1 | live |
-| 43 | 2026-10-25 | [Company wants to limit or block our AI CoCo desktop tool over cost. Is this worth fighting?](https://www.reddit.com/r/snowflake/comments/1xfhbb3/company_wants_to_limit_or_block_our_ai_coco/) | u/pusmottob | — | text | 20 | 43 | live |
-| 55 | 2026-10-13 | [Migrating RDS database to Snowflake Postgres.](https://www.reddit.com/r/snowflake/comments/1x507cz/migrating_rds_database_to_snowflake_postgres/) | u/InfinitelyTall | — | text | 18 | 8 | live |
-| 56 | 2026-10-20 | [Cortex Agents / Snowflake CoWork: long conversations get very expensive. How are you limiting conversation me…](https://www.reddit.com/r/snowflake/comments/1xasv36/cortex_agents_snowflake_cowork_long_conversations/) | u/dataregulator3 | — | text | 15 | 9 | live |
-| 21 | 2026-11-02 | [The ACCOUNT_USAGE queries I run first on any cost audit](https://www.reddit.com/r/snowflake/comments/1xljoqy/the_account_usage_queries_i_run_first_on_any_cost/) | u/Miserable_Theme_2317 | — | text | 14 | 4 | live |
-| 41 | 2026-10-26 | [What's one snowflake feature you wish to knew about earlier?](https://www.reddit.com/r/snowflake/comments/1xfy0x2/whats_one_snowflake_feature_you_wish_to_knew/) | u/No_Ambition8323 | — | text | 13 | 15 | live |
-| 31 | 2026-10-29 | [How do you handle slowly changing dimensions(SCD Type 2) ins snowflake?](https://www.reddit.com/r/snowflake/comments/1xioqy7/how_do_you_handle_slowly_changing_dimensionsscd/) | u/No_Ambition8323 | — | text | 12 | 17 | live |
-| 40 | 2026-10-26 | [Snowflake roles and the current market demand](https://www.reddit.com/r/snowflake/comments/1xfybsl/snowflake_roles_and_the_current_market_demand/) | u/SeaYouLaterAllig8tor | — | text | 12 | 12 | live |
-| 57 | 2026-10-12 | [Passed SnowPro Core today - Advanced Admin Next](https://www.reddit.com/r/snowflake/comments/1x4483u/passed_snowpro_core_today_advanced_admin_next/) | u/khaddir_1 | — | text | 12 | 9 | live |
-| 58 | 2026-10-14 | [dbt Cloud & DMF](https://www.reddit.com/r/snowflake/comments/1x5kjd2/dbt_cloud_dmf/) | u/Winter_Clue_8162 | — | text | 12 | 6 | live |
-| 59 | 2026-10-21 | [Trying to make Snowflake a little easier to understand (not sure I succeeded :)...but it's still a lot of fun…](https://www.reddit.com/r/snowflake/comments/1xblx0c/trying_to_make_snowflake_a_little_easier_to/) | u/Spiritual-Kitchen-79 | — | text | 12 | 0 | live |
+| 13 | 2026-11-04 | [Ontology, Cortex AI gateway & all key launches from expedition](#post-13) | u/vino_and_data | — | i.redd.it | 54 | 4 | live |
+| 27 | 2026-10-30 | [I built a free, offline SnowPro Core (COF-C03) practice test: 812 questions, made with a Snowflake-docu agent…](#post-27) | u/dataregulator3 | — | text | 46 | 11 | live |
+| 37 | 2026-10-27 | [My favorite ways to learn Snowflake hands-on (mostly free): a starter guide](#post-37) | u/dataregulator3 | — | text | 46 | 6 | live |
+| 51 | 2026-10-22 | [I’m testing Snowflake Openflow again after a long while, and it’s still absolutely terrible.](#post-51) | u/Connect-Football8349 | — | text | 43 | 23 | live |
+| 52 | 2026-10-15 | [Postgres Mirroring for Snowflake Postgres is now GA](#post-52) | u/craigkerstiens | — | text | 38 | 9 | live |
+| 32 | 2026-10-29 | [Cleared SnowPro C0F-C03](#post-32) | u/Sharp_Pen8345 | — | text | 28 | 3 | live |
+| 53 | 2026-10-19 | [I dug into what Postgres mirroring actually costs. Here's what I found](#post-53) | u/Spiritual-Kitchen-79 | — | text | 26 | 8 | live |
+| 28 | 2026-10-30 | [Does anyone use Streams and Tasks anymore?](#post-28) | u/SinkNeither1527 | — | text | 22 | 23 | live |
+| 54 | 2026-10-18 | [dbt Projects in Snowflake vs dbt Cloud](#post-54) | u/SeaYouLaterAllig8tor | — | text | 22 | 23 | live |
+| 39 | 2026-10-26 | [It's never been easier to run Iceberg tables in Snowflake. No need to interact with AWS at all anymore.](#post-39) | u/hornyforsavings | — | greybeam.ai | 21 | 1 | live |
+| 43 | 2026-10-25 | [Company wants to limit or block our AI CoCo desktop tool over cost. Is this worth fighting?](#post-43) | u/pusmottob | — | text | 20 | 43 | live |
+| 55 | 2026-10-13 | [Migrating RDS database to Snowflake Postgres.](#post-55) | u/InfinitelyTall | — | text | 18 | 8 | live |
+| 56 | 2026-10-20 | [Cortex Agents / Snowflake CoWork: long conversations get very expensive. How are you limiting conversation me…](#post-56) | u/dataregulator3 | — | text | 15 | 9 | live |
+| 21 | 2026-11-02 | [The ACCOUNT_USAGE queries I run first on any cost audit](#post-21) | u/Miserable_Theme_2317 | — | text | 14 | 4 | live |
+| 41 | 2026-10-26 | [What's one snowflake feature you wish to knew about earlier?](#post-41) | u/No_Ambition8323 | — | text | 13 | 15 | live |
+| 31 | 2026-10-29 | [How do you handle slowly changing dimensions(SCD Type 2) ins snowflake?](#post-31) | u/No_Ambition8323 | — | text | 12 | 17 | live |
+| 40 | 2026-10-26 | [Snowflake roles and the current market demand](#post-40) | u/SeaYouLaterAllig8tor | — | text | 12 | 12 | live |
+| 57 | 2026-10-12 | [Passed SnowPro Core today - Advanced Admin Next](#post-57) | u/khaddir_1 | — | text | 12 | 9 | live |
+| 58 | 2026-10-14 | [dbt Cloud & DMF](#post-58) | u/Winter_Clue_8162 | — | text | 12 | 6 | live |
+| 59 | 2026-10-21 | [Trying to make Snowflake a little easier to understand (not sure I succeeded :)...but it's still a lot of fun…](#post-59) | u/Spiritual-Kitchen-79 | — | text | 12 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Two free hands-on badges from Snowflake Expedition (finance reconciliation + campaign planning), both built on Iceberg, CoCo and Cortex Agents
 
-2026-11-06 · u/dataregulator3 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpqdr6/two_free_handson_badges_from_snowflake_expedition/)
+2026-11-06 · u/dataregulator3 · score 7 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpqdr6/two_free_handson_badges_from_snowflake_expedition/) · [↑ back to the list](#last-50-posts)
 
 > Expedition just wrapped up, and I wanted to flag two hands-on labs that are still available on-demand and earn you a badge:
 >
@@ -151,9 +153,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Has anyone else tried them? Curious how you'd adapt the pattern to your own data.
 
+<a id="post-2"></a>
+
 ### 2. How do you back up your Snowflake object definitions (DDL)?
 
-2026-11-06 · u/No_Ambition8323 · score 4 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpf1uz/how_do_you_back_up_your_snowflake_object/)
+2026-11-06 · u/No_Ambition8323 · score 4 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpf1uz/how_do_you_back_up_your_snowflake_object/) · [↑ back to the list](#last-50-posts)
 
 > Someone on our team changed a view directly in production, and we had no easy way to see what the old version looked like. That made me realize we don’t really back up our DDL at all.
 >
@@ -173,36 +177,46 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Would love to hear what’s working for you!
 
+<a id="post-3"></a>
+
 ### 3. Any Snowflake Architects from India here willing to mentor
 
-2026-11-06 · u/optimist7219 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpcajb/any_snowflake_architects_from_india_here_willing/)
+2026-11-06 · u/optimist7219 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xpcajb/any_snowflake_architects_from_india_here_willing/) · [↑ back to the list](#last-50-posts)
 
 > Hi any Snowflake Architects from India willing to mentor kindly dm.About me: I work for one of big4,want to know more about expectations when transitioning from developer to Architect, plus the actual Scenario in our market
 
+<a id="post-4"></a>
+
 ### 4. How does your team deal with source schema changes breaking downstream pipelines?
 
-2026-11-06 · u/BullfrogFinal3566 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp5igg/how_does_your_team_deal_with_source_schema/)
+2026-11-06 · u/BullfrogFinal3566 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp5igg/how_does_your_team_deal_with_source_schema/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_with_source_schema/>
 
 
+<a id="post-5"></a>
+
 ### 5. DEV/UAT/PRD in separate accounts?
 
-2026-11-06 · u/EquivalentKey614 · score 2 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp46oz/devuatprd_in_separate_accounts/)
+2026-11-06 · u/EquivalentKey614 · score 2 · 6 comments · approved · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp46oz/devuatprd_in_separate_accounts/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, I’m building a Snowflake POC and trying to decide on how I separate environments. Keeping DEV/UAT/PRD in the same account means I can easily clone PRD to non-PRD envs, but it also means less separation of envs and a greater likelihood of an erroneous grant.
 >
 > Curious what you’ve seen, what you do, and what you recommend.
 
+<a id="post-6"></a>
+
 ### 6. DEV/UAT/PRD in separate accounts?
 
-2026-11-06 · u/Salt-Shallot-4640 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp3g2w/devuatprd_in_separate_accounts/)
+2026-11-06 · u/Salt-Shallot-4640 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xp3g2w/devuatprd_in_separate_accounts/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xotf18/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xotf18/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changes what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun at all :(
 >
@@ -222,15 +236,19 @@ Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_wit
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-8"></a>
+
 ### 8. I built an open-source semantic layer that attaches evidence to every number an AI agent returns (8 databases, MCP)
 
-2026-11-05 · u/wrosa85 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xoj9dy/i_built_an_opensource_semantic_layer_that/)
+2026-11-05 · u/wrosa85 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xoj9dy/i_built_an_opensource_semantic_layer_that/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/analyticsvector-yt · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xoix1y/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/analyticsvector-yt · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xoix1y/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changed what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -256,15 +274,19 @@ Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_wit
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-10"></a>
+
 ### 10. DEV/UAT/PRD in separate accounts?
 
-2026-11-05 · u/Salt-Shallot-4640 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xockhz/devuatprd_in_separate_accounts/)
+2026-11-05 · u/Salt-Shallot-4640 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xockhz/devuatprd_in_separate_accounts/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Snowflake Cloud Support Engineer – Application Security (Pune) Hiring Timeline
 
-2026-11-05 · u/vishalkanna-7 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xo8dws/snowflake_cloud_support_engineer_application/)
+2026-11-05 · u/vishalkanna-7 · score 2 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xo8dws/snowflake_cloud_support_engineer_application/) · [↑ back to the list](#last-50-posts)
 
 > Anyone who recently interviewed for the  Cloud Support Engineer  role at Snowflake ?
 >
@@ -278,22 +300,28 @@ Link: <https://www.reddit.com/r/ETL/comments/1xp5gsi/how_does_your_team_deal_wit
 >
 > Would appreciate hearing about your actual experiences. Thanks!
 
+<a id="post-12"></a>
+
 ### 12. Migrating snowflake worksheet/notebook
 
-2026-11-04 · u/Qwertyoks · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnxnef/migrating_snowflake_worksheetnotebook/)
+2026-11-04 · u/Qwertyoks · score 4 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnxnef/migrating_snowflake_worksheetnotebook/) · [↑ back to the list](#last-50-posts)
 
 > We are in the process of migrating from one client Snowflake account to another. The client has a large number of worksheets and notebooks across different users that need to be migrated. Could someone advise whether this is possible and, if so, what the best approach would be?
 
+<a id="post-13"></a>
+
 ### 13. Ontology, Cortex AI gateway & all key launches from expedition
 
-2026-11-04 · u/vino_and_data · score 54 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnt4rw/ontology_cortex_ai_gateway_all_key_launches_from/)
+2026-11-04 · u/vino_and_data · score 54 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnt4rw/ontology_cortex_ai_gateway_all_key_launches_from/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/r312ki7jkmzh1.jpeg>
 
 
+<a id="post-14"></a>
+
 ### 14. Context layer vs semantic layer, and what both miss: one question, three answers
 
-2026-11-04 · u/Data-Queen-Mayra · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnq8z9/context_layer_vs_semantic_layer_and_what_both/)
+2026-11-04 · u/Data-Queen-Mayra · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnq8z9/context_layer_vs_semantic_layer_and_what_both/) · [↑ back to the list](#last-50-posts)
 
 > Context layers describe your data and semantic layers compute your metrics. Neither one decides which definition of a business term is the approved one, and that's where the wrong answers come from.
 >
@@ -317,23 +345,29 @@ Link: <https://i.redd.it/r312ki7jkmzh1.jpeg>
 >
 > Disclosure: I'm from Datacoves and the agreement layer problem is our product, Atlas. Full write-up: [https://datacoves.com/post/context-layer-vs-semantic-layer](https://datacoves.com/post/context-layer-vs-semantic-layer)
 
+<a id="post-15"></a>
+
 ### 15. Snowflake's AI_PARSE_DOCUMENT got an agentic mode
 
-2026-11-04 · u/sfrt-io · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnoxd6/snowflakes_ai_parse_document_got_an_agentic_mode/)
+2026-11-04 · u/sfrt-io · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xnoxd6/snowflakes_ai_parse_document_got_an_agentic_mode/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-16"></a>
+
 ### 16. Snowflake certification reattempt
 
-2026-11-03 · u/Qwertyoks · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xmxylr/snowflake_certification_reattempt/)
+2026-11-03 · u/Qwertyoks · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xmxylr/snowflake_certification_reattempt/) · [↑ back to the list](#last-50-posts)
 
 > One of my colleague attempted the Snowflake core certificate, but there was power failure and wifi went down. She used a mobile to give a hotspot but Pearson cancelled the attempt as they found the mobile was touched and video went off for some time. Is there a way to remedy this and get a reattempt?
 
+<a id="post-17"></a>
+
 ### 17. TIMESTAMP_NTZ vs LTZ vs TZ:which one burned you and which do you use by default?
 
-2026-11-03 · u/No_Ambition8323 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xmwytd/timestamp_ntz_vs_ltz_vs_tzwhich_one_burned_you/)
+2026-11-03 · u/No_Ambition8323 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xmwytd/timestamp_ntz_vs_ltz_vs_tzwhich_one_burned_you/) · [↑ back to the list](#last-50-posts)
 
 > We had a report where order times looked a few hours off for some users. After digging in, the problem was our timestamp type. Some tables used LTZ, so the time changed based on each user’s session time zone.
 >
@@ -350,9 +384,11 @@ Link: <https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/>
 >
 > Would love to hear how others handle this!
 
+<a id="post-18"></a>
+
 ### 18. Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views
 
-2026-11-02 · u/luffy_29_29 · score 2 · 9 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm3mcq/need_help_migrating_a_power_bi_semantic_model/)
+2026-11-02 · u/luffy_29_29 · score 2 · 9 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm3mcq/need_help_migrating_a_power_bi_semantic_model/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -406,21 +442,27 @@ Link: <https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/>
 >
 > Thanks in advance!
 
+<a id="post-19"></a>
+
 ### 19. Need Help Migrating a Power BI Semantic Model (PBIT) to Snowflake Semantic Views
 
-2026-11-02 · u/luffy_29_29 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm3k0n/need_help_migrating_a_power_bi_semantic_model/)
+2026-11-02 · u/luffy_29_29 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm3k0n/need_help_migrating_a_power_bi_semantic_model/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-20"></a>
+
 ### 20. Snowflake DCM Projects (Hybrid Tables)
 
-2026-11-02 · u/iamliving170101 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm2swv/snowflake_dcm_projects_hybrid_tables/)
+2026-11-02 · u/iamliving170101 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xm2swv/snowflake_dcm_projects_hybrid_tables/) · [↑ back to the list](#last-50-posts)
 
 > Does snowflake DCM Projects support creation of Hybrid Tables ??
 
+<a id="post-21"></a>
+
 ### 21. The ACCOUNT_USAGE queries I run first on any cost audit
 
-2026-11-02 · u/Miserable_Theme_2317 · score 14 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xljoqy/the_account_usage_queries_i_run_first_on_any_cost/)
+2026-11-02 · u/Miserable_Theme_2317 · score 14 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xljoqy/the_account_usage_queries_i_run_first_on_any_cost/) · [↑ back to the list](#last-50-posts)
 
 > Whenever a Snowflake bill "surprises" a team, the surprise is almost never spread evenly — it's concentrated in one service line, one or two warehouses, and a handful of repeated query patterns. These are the first three queries I run, in this order, before changing a single setting. All ACCOUNT_USAGE, no external tools.
 >
@@ -499,35 +541,45 @@ Link: <https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/>
 >
 > That's the whole measurement pass. Once these three are in a spreadsheet, the fix order usually writes itself. Curious what others run first — happy to compare notes.
 
+<a id="post-22"></a>
+
 ### 22. Workday data is now queryable in Snowflake with zero copy. The pipeline cost goes away, but I think it just moves to whoever queries it
 
-2026-11-01 · u/Spiritual-Kitchen-79 · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xl38bj/workday_data_is_now_queryable_in_snowflake_with/)
+2026-11-01 · u/Spiritual-Kitchen-79 · score 3 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xl38bj/workday_data_is_now_queryable_in_snowflake_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/FinOps/comments/1xl386b/workday_data_is_now_queryable_in_snowflake_with/>
 
 
+<a id="post-23"></a>
+
 ### 23. Snowflake to Iceberg Lakehouse Migration Guide
 
-2026-11-01 · u/codingdecently · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xkzuvv/snowflake_to_iceberg_lakehouse_migration_guide/)
+2026-11-01 · u/codingdecently · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xkzuvv/snowflake_to_iceberg_lakehouse_migration_guide/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 
 
+<a id="post-24"></a>
+
 ### 24. Snowflake Intelligence-> CoWork -> ???
 
-2026-10-31 · u/Global-War181 · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xk8fcc/snowflake_intelligence_cowork/)
+2026-10-31 · u/Global-War181 · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xk8fcc/snowflake_intelligence_cowork/) · [↑ back to the list](#last-50-posts)
 
 > Claude CoWork merged into claude chat lol…since snowflake has been copying mostly from claude…are they going to change it to Snowflake chat now?
 
+<a id="post-25"></a>
+
 ### 25. Does agentic analytics need a separate semantic layer if the data is already well modeled?
 
-2026-10-31 · u/Apprehensive_Tie2494 · score 8 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjx8xq/does_agentic_analytics_need_a_separate_semantic/)
+2026-10-31 · u/Apprehensive_Tie2494 · score 8 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjx8xq/does_agentic_analytics_need_a_separate_semantic/) · [↑ back to the list](#last-50-posts)
 
 > In my org we have built a models, relationships, business definitions including proper documentations, and tableau manage our standard metrics. The stakeholders are asking like deep analysis at root level analytics rather just metrics like what changes, why changed, trend on one account etc. so I felt building with semantic layer would not solve what stakeholders are looking for so what are your thoughts on it?  If we run with existing models how we could know AI is generating certified answers for all stakeholders? How we could build the trust? kind of confusing. Is this something happening in your org as well?
 
+<a id="post-26"></a>
+
 ### 26. Heads up: Snowflake Backups now skip transient tables without warning (BCR-2360)
 
-2026-10-30 · u/Spiritual-Kitchen-79 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjkdpv/heads_up_snowflake_backups_now_skip_transient/)
+2026-10-30 · u/Spiritual-Kitchen-79 · score 6 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjkdpv/heads_up_snowflake_backups_now_skip_transient/) · [↑ back to the list](#last-50-posts)
 
 > If you use Snowflake Backups, read this one.  
 >
@@ -566,9 +618,11 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Release note: [https://docs.snowflake.com/en/release-notes/bcr-bundles/2026\_06/bcr-2360](https://docs.snowflake.com/en/release-notes/bcr-bundles/2026_06/bcr-2360)
 
+<a id="post-27"></a>
+
 ### 27. I built a free, offline SnowPro Core (COF-C03) practice test: 812 questions, made with a Snowflake-docu agent and Claude Design
 
-2026-10-30 · u/dataregulator3 · score 46 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjaq61/i_built_a_free_offline_snowpro_core_cofc03/)
+2026-10-30 · u/dataregulator3 · score 46 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xjaq61/i_built_a_free_offline_snowpro_core_cofc03/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -614,9 +668,11 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Good luck on your exams! ❄️
 
+<a id="post-28"></a>
+
 ### 28. Does anyone use Streams and Tasks anymore?
 
-2026-10-30 · u/SinkNeither1527 · score 22 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xj62b3/does_anyone_use_streams_and_tasks_anymore/)
+2026-10-30 · u/SinkNeither1527 · score 22 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xj62b3/does_anyone_use_streams_and_tasks_anymore/) · [↑ back to the list](#last-50-posts)
 
 > Doesn't dbt and an orchestration tool(dbt cloud, airflow etc) or dynamic tables completely make streams/tasks irrelevant for ELT transformation jobs?
 >
@@ -624,15 +680,19 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > And goes without saying, this excludes maintaining legacy code.
 
+<a id="post-29"></a>
+
 ### 29. Daily Co-Co credits
 
-2026-10-29 · u/HeartAndCircuits · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xiqgbe/daily_coco_credits/)
+2026-10-29 · u/HeartAndCircuits · score 7 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xiqgbe/daily_coco_credits/) · [↑ back to the list](#last-50-posts)
 
 > I am curious how many Daily Co-Co credits you use? I am trying to catch up on a large migration project and Co-Co is cutting my time down dramatically but I keep running out of credits.
 
+<a id="post-30"></a>
+
 ### 30. Semantic Views vs Definitions and mapping tables?
 
-2026-10-29 · u/Darkwolf22345 · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xipqvd/semantic_views_vs_definitions_and_mapping_tables/)
+2026-10-29 · u/Darkwolf22345 · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xipqvd/semantic_views_vs_definitions_and_mapping_tables/) · [↑ back to the list](#last-50-posts)
 
 > Hello,
 >
@@ -646,9 +706,11 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > We have access to both coco and analyst, but most analysis would use this for query generation and exploration. I don’t have admin access to see token usage, but any clue which one would be more efficient or if there is a better way to do this?
 
+<a id="post-31"></a>
+
 ### 31. How do you handle slowly changing dimensions(SCD Type 2) ins snowflake?
 
-2026-10-29 · u/No_Ambition8323 · score 12 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xioqy7/how_do_you_handle_slowly_changing_dimensionsscd/)
+2026-10-29 · u/No_Ambition8323 · score 12 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xioqy7/how_do_you_handle_slowly_changing_dimensionsscd/) · [↑ back to the list](#last-50-posts)
 
 > I’m building a customer table where I need to keep history. For example, if a customer changes their address, I want to keep the old address too, with start and end dates.
 >
@@ -661,9 +723,11 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Would love to hear what’s working for you!
 
+<a id="post-32"></a>
+
 ### 32. Cleared SnowPro C0F-C03
 
-2026-10-29 · u/Sharp_Pen8345 · score 28 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1ximmua/cleared_snowpro_c0fc03/)
+2026-10-29 · u/Sharp_Pen8345 · score 28 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1ximmua/cleared_snowpro_c0fc03/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys, I just cleared the SnowPro Core Certification with a scaled score of 860. This page helped me a lot during my preparation for the SnowPro Core exam. More than anything, I was able to zero in the topics which have the most weightage as the exam didn't have questions come exactly as per the weightage provided by Snowflake themselves. 
 >
@@ -685,15 +749,19 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Thanks for all the help through your posts and happy learning!!
 
+<a id="post-33"></a>
+
 ### 33. MFA Enforced on: October 28, 2026
 
-2026-10-29 · u/HuckleberryHappy596 · score 4 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xigh6k/mfa_enforced_on_october_28_2026/)
+2026-10-29 · u/HuckleberryHappy596 · score 4 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xigh6k/mfa_enforced_on_october_28_2026/) · [↑ back to the list](#last-50-posts)
 
 > Who among you is experiencing issues following this change? We have advised customers utilizing service accounts to migrate to PAT/keypair authentication, but a significant number of customers are still running M2M connections using personal accounts.
 
+<a id="post-34"></a>
+
 ### 34. Salesforce CRM to Snowflake on-demand data access: which auth pattern are you using for a service account?
 
-2026-10-29 · u/jutehub · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xi8hwe/salesforce_crm_to_snowflake_ondemand_data_access/)
+2026-10-29 · u/jutehub · score 5 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xi8hwe/salesforce_crm_to_snowflake_ondemand_data_access/) · [↑ back to the list](#last-50-posts)
 
 > We’re setting up Salesforce (CRM) to query Snowflake on demand using the Salesforce Connect SQL adapter for Snowflake. The follow-up question is what authentication to use, because we need a **non-human, machine-to-machine service account**.
 >
@@ -713,22 +781,28 @@ Link: <https://lakeops.dev/blog/snowflake-to-iceberg-lakehouse-migration-guide>
 >
 > Any advice or lessons learned would be much appreciated. Thanks!
 
+<a id="post-35"></a>
+
 ### 35. AI assisted data migration with CoCo
 
-2026-10-29 · u/BytesAndGiggles · score 10 · 11 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xi5icz/ai_assisted_data_migration_with_coco/)
+2026-10-29 · u/BytesAndGiggles · score 10 · 11 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xi5icz/ai_assisted_data_migration_with_coco/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, we are currently on our migration journey to Snowflake. Part of it is using AI to accelerate the migration with bith our engineers and analyst using it. We have noticed CoCo spend going up drastically. For example one associate may have consumed 140 credits today with very little to show for it on the migration side, meaning no completed ETL migrated. Our engineers use CoCo desktop and CoCo Snowsight. Without being able to see the prompt of each engineer what are ways you all would go about governance here, having visibility and ensuring CoCo is being used effectively?
 
+<a id="post-36"></a>
+
 ### 36. Hiring:Lead Snowflake Developer \| 10–15 Years of Experience
 
-2026-10-28 · u/Objective_Plate_361 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xhib4z/hiringlead_snowflake_developer_1015_years_of/)
+2026-10-28 · u/Objective_Plate_361 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xhib4z/hiringlead_snowflake_developer_1015_years_of/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineersindia/comments/1xhiald/hiringlead_snowflake_developer_1015_years_of/>
 
 
+<a id="post-37"></a>
+
 ### 37. My favorite ways to learn Snowflake hands-on (mostly free): a starter guide
 
-2026-10-27 · u/dataregulator3 · score 46 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xgujtf/my_favorite_ways_to_learn_snowflake_handson/)
+2026-10-27 · u/dataregulator3 · score 46 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xgujtf/my_favorite_ways_to_learn_snowflake_handson/) · [↑ back to the list](#last-50-posts)
 
 > I've been working with Snowflake since late 2025, run our data platform at an insurtech, and help out in the Snowflake community. People often ask "where do I start?", so here's my personal shortlist, in the order I'd suggest going through it. All of it is hands-on or at least very practical.
 >
@@ -833,9 +907,11 @@ Link: <https://www.reddit.com/r/dataengineersindia/comments/1xhiald/hiringlead_s
 > * [https://achieve.snowflake.com/issuer/114616](https://achieve.snowflake.com/issuer/114616)
 > * [https://developerbadges.snowflake.com/issuer/114972](https://developerbadges.snowflake.com/issuer/114972)
 
+<a id="post-38"></a>
+
 ### 38. Can't create a Snowflake trial account
 
-2026-10-27 · u/Final_Push5488 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xghgaj/cant_create_a_snowflake_trial_account/)
+2026-10-27 · u/Final_Push5488 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xghgaj/cant_create_a_snowflake_trial_account/) · [↑ back to the list](#last-50-posts)
 
 > Yo! I'm a student from North Macedonia trying to create a Snowflake trial account for a university project, but I keep getting this error:
 >
@@ -845,26 +921,32 @@ Link: <https://www.reddit.com/r/dataengineersindia/comments/1xhiald/hiringlead_s
 >
 > Has anyone had this problem? Cant really contact Snowflake support without an account aswell... Their support portal requires you to be logged in.
 
+<a id="post-39"></a>
+
 ### 39. It's never been easier to run Iceberg tables in Snowflake. No need to interact with AWS at all anymore.
 
-2026-10-26 · u/hornyforsavings · score 21 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xg7bmi/its_never_been_easier_to_run_iceberg_tables_in/)
+2026-10-26 · u/hornyforsavings · score 21 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xg7bmi/its_never_been_easier_to_run_iceberg_tables_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.greybeam.ai/blog/snowflake-managed-iceberg-storage>
 
 > Snowflake managed iceberg tables are a godsend!
 
+<a id="post-40"></a>
+
 ### 40. Snowflake roles and the current market demand
 
-2026-10-26 · u/SeaYouLaterAllig8tor · score 12 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfybsl/snowflake_roles_and_the_current_market_demand/)
+2026-10-26 · u/SeaYouLaterAllig8tor · score 12 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfybsl/snowflake_roles_and_the_current_market_demand/) · [↑ back to the list](#last-50-posts)
 
 > This is more of a "feeler" post but I've been trying to (re)position myself to get back into a Snowflake related role and it seems like for one, there's a lot of Snowflake certified people out there now, and two, Snowflake Data Engineer & Data Architect roles are extremely tough to come by right now.   
 > I've worked in Snowflake for over 6 years and been certified for over 5 years but it seems like the market (with many layoffs happening) is completely saturated with Snowflake talent.  
 > I recently took a consulting role with Palantir Foundry in order to not go jobless (my previous company was going through multiple rounds of layoffs and my Boss told me if I had an offer I should take it), but now I'm scrambling to get back into Snowflake.  
 > I'm assuming many others are feeling the pain as well?
 
+<a id="post-41"></a>
+
 ### 41. What's one snowflake feature you wish to knew about earlier?
 
-2026-10-26 · u/No_Ambition8323 · score 13 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfy0x2/whats_one_snowflake_feature_you_wish_to_knew/)
+2026-10-26 · u/No_Ambition8323 · score 13 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfy0x2/whats_one_snowflake_feature_you_wish_to_knew/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been using Snowflake for a while, and I just found out about QUALIFY. It lets me filter window function results without writing a subquery. I wish I had known this sooner, it would have saved me so much time.
 >
@@ -872,16 +954,20 @@ Link: <https://www.greybeam.ai/blog/snowflake-managed-iceberg-storage>
 >
 > Would love to learn something new from everyone!
 
+<a id="post-42"></a>
+
 ### 42. Enterprise Data with AI Agents: A Data Platform Guide
 
-2026-10-26 · u/codingdecently · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xft0kx/enterprise_data_with_ai_agents_a_data_platform/)
+2026-10-26 · u/codingdecently · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xft0kx/enterprise_data_with_ai_agents_a_data_platform/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://lakeops.dev/blog/enterprise-data-ai-agents>
 
 
+<a id="post-43"></a>
+
 ### 43. Company wants to limit or block our AI CoCo desktop tool over cost. Is this worth fighting?
 
-2026-10-25 · u/pusmottob · score 20 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfhbb3/company_wants_to_limit_or_block_our_ai_coco/)
+2026-10-25 · u/pusmottob · score 20 · 43 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfhbb3/company_wants_to_limit_or_block_our_ai_coco/) · [↑ back to the list](#last-50-posts)
 
 > MMy company was as excited about AI as most are. After getting it, the message was "hiring freeze" and "anyone who leaves, we replace with AI."  
 > Last week they said we're spending too much on AI, specifically on CoCo desktop. My team has spent more on desktop than the rest of the company combined has spent on AI. But we've replaced two people who left, and our productivity is up over 150%. Now they want to put arbitrary limits on it or block it entirely. IMO it's almost the only useful tool, since most of my work is with files and data on my local machine.  
@@ -891,9 +977,11 @@ Link: <https://lakeops.dev/blog/enterprise-data-ai-agents>
 > **Usage visibility:** They're fighting me on even letting me see my own usage and token data, so I can't tell what's driving cost.  
 > Ideally I'd build a Power BI (or similar) dashboard with row-level security by user and manager team, showing cost by task type. Has anyone done this, or dealt with a similar situation?
 
+<a id="post-44"></a>
+
 ### 44. Claude Dashboards + Snowflake: A CFO Dashboard in 1 Prompt, No Power BI,...
 
-2026-10-25 · u/Late-Intention6711 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfbol0/claude_dashboards_snowflake_a_cfo_dashboard_in_1/)
+2026-10-25 · u/Late-Intention6711 · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xfbol0/claude_dashboards_snowflake_a_cfo_dashboard_in_1/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=nLEd-jyxq4s&si=J6VTDYliwrLE1kPq>
 
@@ -901,16 +989,20 @@ Link: <https://youtube.com/watch?v=nLEd-jyxq4s&si=J6VTDYliwrLE1kPq>
 >
 > No Power BI. No BI team. No code.
 
+<a id="post-45"></a>
+
 ### 45. Studying Snowflake and can't afford it
 
-2026-10-24 · u/oswaldonisango · score 7 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xeh1vv/studying_snowflake_and_cant_afford_it/)
+2026-10-24 · u/oswaldonisango · score 7 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xeh1vv/studying_snowflake_and_cant_afford_it/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xeh0rk>
 
 
+<a id="post-46"></a>
+
 ### 46. How are you tracking what each Streamlit app in your account costs?
 
-2026-10-24 · u/john_uppcoder · score 11 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xe4vfb/how_are_you_tracking_what_each_streamlit_app_in/)
+2026-10-24 · u/john_uppcoder · score 11 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xe4vfb/how_are_you_tracking_what_each_streamlit_app_in/) · [↑ back to the list](#last-50-posts)
 
 > A while back in a thread here someone from Snowflake's App Runtime team said two things that stuck with me: apps run until you stop them, and you see usage per account, not per app. That was exactly our problem.
 >
@@ -924,9 +1016,11 @@ Link: <https://www.reddit.com/gallery/1xeh0rk>
 >
 > Mostly curious how others handle this. Do you track cost per app at all, or just per warehouse?
 
+<a id="post-47"></a>
+
 ### 47. How to do analysis without Cortex ?
 
-2026-10-23 · u/Ja-smine · score 0 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdn0xo/how_to_do_analysis_without_cortex/)
+2026-10-23 · u/Ja-smine · score 0 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdn0xo/how_to_do_analysis_without_cortex/) · [↑ back to the list](#last-50-posts)
 
 > I'm part of a BI team, we've primarily been using Snowflake as a data source to build PowerBI dashboards but it offers very limited analysis capabilities.
 >
@@ -936,9 +1030,11 @@ Link: <https://www.reddit.com/gallery/1xeh0rk>
 >
 > How can build a more efficient data analysis process using Snowflake without Cortex ?
 
+<a id="post-48"></a>
+
 ### 48. 5 short dbt Power User demos: profiling, column lineage, docs and tests, CTE debugging, macro hover
 
-2026-10-23 · u/fraser_altimate · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdkzee/5_short_dbt_power_user_demos_profiling_column/)
+2026-10-23 · u/fraser_altimate · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdkzee/5_short_dbt_power_user_demos_profiling_column/) · [↑ back to the list](#last-50-posts)
 
 > Hey all, disclosure first: I work at Altimate, which builds dbt Power User. We recorded one short video per workflow, 4 to 8 minutes each.
 >
@@ -952,9 +1048,11 @@ Link: <https://www.reddit.com/gallery/1xeh0rk>
 >
 > Which of these would you like us to go deeper on?
 
+<a id="post-49"></a>
+
 ### 49. How I maintain and fix my semantic views with a canary job via Snowflake tasks and alerts
 
-2026-10-23 · u/k_kool_ruler · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdii2n/how_i_maintain_and_fix_my_semantic_views_with_a/)
+2026-10-23 · u/k_kool_ruler · score 4 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xdii2n/how_i_maintain_and_fix_my_semantic_views_with_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 
@@ -964,9 +1062,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > Beyond this approach, I'd love to hear how other people also maintain their semantic views.
 
+<a id="post-50"></a>
+
 ### 50. Snowflake Signup - Something went wrong
 
-2026-10-22 · u/bloomt1990 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xcti5t/snowflake_signup_something_went_wrong/)
+2026-10-22 · u/bloomt1990 · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xcti5t/snowflake_signup_something_went_wrong/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/qytxgum9t2xh1.png
 >
@@ -974,9 +1074,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > Do I need to contact sales? It really bothers me when companies make it hard to take my money.
 
+<a id="post-51"></a>
+
 ### 51. I’m testing Snowflake Openflow again after a long while, and it’s still absolutely terrible.
 
-2026-10-22 · u/Connect-Football8349 · score 43 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xcb3xl/im_testing_snowflake_openflow_again_after_a_long/)
+2026-10-22 · u/Connect-Football8349 · score 43 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xcb3xl/im_testing_snowflake_openflow_again_after_a_long/) · [↑ back to the list](#last-50-posts)
 
 > I really wish they’d just throw the entire UI in the trash. Why am I forced to look at a "canvas" for the runtime? Can’t they make the parameters and configuration settings actually visible and accessible?
 >
@@ -990,9 +1092,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > First and foremost, a fully realized UI is essential. Snowflake is in dire need of an overall UX designer; it’s honestly baffling how little attention they pay to UI/UX.
 
+<a id="post-52"></a>
+
 ### 52. Postgres Mirroring for Snowflake Postgres is now GA
 
-2026-10-15 · u/craigkerstiens · score 38 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x6nqvc/postgres_mirroring_for_snowflake_postgres_is_now/)
+2026-10-15 · u/craigkerstiens · score 38 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x6nqvc/postgres_mirroring_for_snowflake_postgres_is_now/) · [↑ back to the list](#last-50-posts)
 
 > PM here from Snowflake Postgres. 
 >
@@ -1002,9 +1106,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > Blog post with more details at: [https://www.snowflake.com/en/blog/data-mirroring-ga-snowflake-postgres/](https://www.snowflake.com/en/blog/data-mirroring-ga-snowflake-postgres/)
 
+<a id="post-53"></a>
+
 ### 53. I dug into what Postgres mirroring actually costs. Here's what I found
 
-2026-10-19 · u/Spiritual-Kitchen-79 · score 26 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x9ud0b/i_dug_into_what_postgres_mirroring_actually_costs/)
+2026-10-19 · u/Spiritual-Kitchen-79 · score 26 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x9ud0b/i_dug_into_what_postgres_mirroring_actually_costs/) · [↑ back to the list](#last-50-posts)
 
 > Now that Postgres mirroring is GA, I spent some time in the docs figuring out what it actually bills for, because "no pipeline" sounded a bit too good.
 >
@@ -1020,9 +1126,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > Is anyone running this in production yet?
 
+<a id="post-54"></a>
+
 ### 54. dbt Projects in Snowflake vs dbt Cloud
 
-2026-10-18 · u/SeaYouLaterAllig8tor · score 22 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x9c7gb/dbt_projects_in_snowflake_vs_dbt_cloud/)
+2026-10-18 · u/SeaYouLaterAllig8tor · score 22 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x9c7gb/dbt_projects_in_snowflake_vs_dbt_cloud/) · [↑ back to the list](#last-50-posts)
 
 > Looking for feedback from people that have used both. My previous employer paid for dbt Cloud and it was a great tool that acted as our IDE, scheduler/orchestrator and provided other insights as well.   
 > I posted about dbt Projects here a while back and they seemed to garner mixed feedback from this crowd.   
@@ -1031,9 +1139,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 > I don't know if I've seen any other tool/feature offer such an advantage.  
 > Anyways, if you have experience with both please provide your thoughts!
 
+<a id="post-55"></a>
+
 ### 55. Migrating RDS database to Snowflake Postgres.
 
-2026-10-13 · u/InfinitelyTall · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x507cz/migrating_rds_database_to_snowflake_postgres/)
+2026-10-13 · u/InfinitelyTall · score 18 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x507cz/migrating_rds_database_to_snowflake_postgres/) · [↑ back to the list](#last-50-posts)
 
 > Hi all, we have recently migrated from RDS to Snowflake Postgres, mainly to store our data within the Snowflake databases using Data Mirroring feature.
 >
@@ -1046,9 +1156,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > I’m curious how you approach migrating large volumes of data to Snowflake Postgres and what tools/practices do you use?
 
+<a id="post-56"></a>
+
 ### 56. Cortex Agents / Snowflake CoWork: long conversations get very expensive. How are you limiting conversation memory?
 
-2026-10-20 · u/dataregulator3 · score 15 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xasv36/cortex_agents_snowflake_cowork_long_conversations/)
+2026-10-20 · u/dataregulator3 · score 15 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xasv36/cortex_agents_snowflake_cowork_long_conversations/) · [↑ back to the list](#last-50-posts)
 
 > We run a Cortex Agent in production through Snowflake CoWork (a text-to-SQL analytics agent on top of a semantic view). We noticed that a few users with long conversations drive a disproportionate share of our credit costs. We sent Snowflake a feature request about it, but I'd like to hear how others deal with this.
 >
@@ -1105,15 +1217,19 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > Any experiences or workarounds are welcome. Thanks!
 
+<a id="post-57"></a>
+
 ### 57. Passed SnowPro Core today - Advanced Admin Next
 
-2026-10-12 · u/khaddir_1 · score 12 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x4483u/passed_snowpro_core_today_advanced_admin_next/)
+2026-10-12 · u/khaddir_1 · score 12 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x4483u/passed_snowpro_core_today_advanced_admin_next/) · [↑ back to the list](#last-50-posts)
 
 > As the title says I was able to pass the snowpro core exam today. Plenty of questions on copy into, RBAC, data replication, accelerating, and what will happen once a query is executed relating to views that a user or app is supposed to see. Anyone passed the advanced admin exam recently? I have employer paying for the exam. Trying to decide between data engineer vs advanced admin since I am devops and not a pure data engineer. Any insight would be good. I plan to pivot to a snowflake admin role but from the job posting I am seeing are asking for more than what I consider to be admin level tasks. Any insight on interviews for the admin level roles. I also have not located any admin level courses or paths for this cert.
 
+<a id="post-58"></a>
+
 ### 58. dbt Cloud & DMF
 
-2026-10-14 · u/Winter_Clue_8162 · score 12 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x5kjd2/dbt_cloud_dmf/)
+2026-10-14 · u/Winter_Clue_8162 · score 12 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1x5kjd2/dbt_cloud_dmf/) · [↑ back to the list](#last-50-posts)
 
 > My client is investing heavily in dbt cloud even though we were extremely happy with dbt Projects in Snowflake but more of a client's management decision . Our challenge is that in dbt cloud we cannot install most of the dbt packages like Elementary etc . At this stage security has only allowed us to use dbt\_utils . We do a need to a lot of Data Quality which can be done using Snowflake DMF especially in the silver and gold layers for regulatory reporting . 
 >
@@ -1121,9 +1237,11 @@ Link: <https://www.youtube.com/watch?v=_Y2WudwVQTw>
 >
 > We have well defined DQ tests in dbt .yml files which we would hate to loose and I can use the DQ in dbt for inline DQ testing ( we have approx 17K Not Null Tests defined in dbt ) and the DMF for more of  a regulatory reporting framework . Any pointers .
 
+<a id="post-59"></a>
+
 ### 59. Trying to make Snowflake a little easier to understand (not sure I succeeded :)...but it's still a lot of fun)... would love some honest feedback
 
-2026-10-21 · u/Spiritual-Kitchen-79 · score 12 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xblx0c/trying_to_make_snowflake_a_little_easier_to/)
+2026-10-21 · u/Spiritual-Kitchen-79 · score 12 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/snowflake/comments/1xblx0c/trying_to_make_snowflake_a_little_easier_to/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys,
 >

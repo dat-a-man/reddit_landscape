@@ -31,56 +31,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Where do you actually run Spark jobs in production? Kubernetes vs managed clusters vs serverless?](https://www.reddit.com/r/apachespark/comments/1xpynm1/where_do_you_actually_run_spark_jobs_in/) | u/SinkNeither1527 | — | text | 18 | 13 | live | — |
-| 2 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](https://www.reddit.com/r/apachespark/comments/1xosoi9/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | — | text | 0 | 0 | removed by mod | — |
-| 3 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](https://www.reddit.com/r/apachespark/comments/1xlw9sv/apache_spark_43_what_developers_need_to_know/) | u/Lenkz | — | medium.com | 29 | 0 | live | — |
-| 4 | 2026-11-02 | [When does apache spark acceleration make more sense than tuning?](https://www.reddit.com/r/apachespark/comments/1xls7pb/when_does_apache_spark_acceleration_make_more/) | u/Necessary_Work_7794 | — | text | 10 | 5 | live | — |
-| 5 | 2026-11-02 | [spark performance tuning](https://www.reddit.com/r/apachespark/comments/1xlrha2/spark_performance_tuning/) | u/liam_brooks-12 | — | text | 1 | 0 | spam-filtered | — |
-| 6 | 2026-10-28 | [anyone actually seeing big gains beyond regular Spark tuning?](https://www.reddit.com/r/apachespark/comments/1xhmpka/anyone_actually_seeing_big_gains_beyond_regular/) | u/Differoywen_Cow_4765 | — | text | 0 | 0 | spam-filtered | — |
-| 7 | 2026-10-28 | [How do you know when to optimize a spark job vs. just adding more compute?](https://www.reddit.com/r/apachespark/comments/1xhjuqm/how_do_you_know_when_to_optimize_a_spark_job_vs/) | u/Delulu62134 | — | text | 15 | 5 | live | — |
-| 8 | 2026-10-23 | [DualBird reviews? or experiences, guys??](https://www.reddit.com/r/apachespark/comments/1xdejtz/dualbird_reviews_or_experiences_guys/) | u/Lazy-sabriProgra9066 | — | text | 0 | 0 | spam-filtered | — |
-| 9 | 2026-10-19 | [How do you validate store proc - pyspark rewrites beyond ‘row counts match’?](https://www.reddit.com/r/apachespark/comments/1xa3kwh/how_do_you_validate_store_proc_pyspark_rewrites/) | u/Wrong_City2251 | — | text | 2 | 1 | live | — |
-| 10 | 2026-10-19 | [our worst spark job went from 52 min to 16 min. here's what we saw](https://www.reddit.com/r/apachespark/comments/1x9rkqq/our_worst_spark_job_went_from_52_min_to_16_min/) | u/Ablerol_Magician8626 | — | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-10-18 | [Promo: TPC-DS-derived 1TB benchmark: stock Spark 4.1.3 vs TabbyDB 4.1.3.tabby.2, Hive and Iceberg, with per-q…](https://www.reddit.com/r/apachespark/comments/1x9f7e0/promo_tpcdsderived_1tb_benchmark_stock_spark_413/) | u/ahshahid | — | text | 2 | 9 | live | — |
-| 12 | 2026-10-15 | [\[ Removed by moderator \]](https://www.reddit.com/r/apachespark/comments/1x6iev8/removed_by_moderator/) | u/EmetInteractive | — | text | 1 | 0 | removed by mod | — |
-| 13 | 2026-10-14 | [Promo: TabbyDB 4.1.3-tabbydb.2 released: a new patent-pending runtime optimization, now 80% faster than stock…](https://www.reddit.com/r/apachespark/comments/1x5yurj/promo_tabbydb_413tabbydb2_released_a_new/) | u/ahshahid | — | text | 4 | 13 | live | — |
-| 14 | 2026-10-13 | [Need help for building self healing tool for API schema drifts](https://www.reddit.com/r/apachespark/comments/1x4xlj7/need_help_for_building_self_healing_tool_for_api/) | u/parathalovespaneer | — | text | 0 | 0 | live | — |
-| 15 | 2026-10-09 | [Run Google Dataproc (Managed Spark) on local, for offline dev, CI, AI agent testing (on native AMD, ARM platf…](https://www.reddit.com/r/apachespark/comments/1x1e236/run_google_dataproc_managed_spark_on_local_for/) | u/jseeker528963 | — | — | 2 | 0 | approved | — |
-| 16 | 2026-10-07 | [Why does one Spark stage always eat most of the runtime?](https://www.reddit.com/r/apachespark/comments/1wzqzpx/why_does_one_spark_stage_always_eat_most_of_the/) | u/Differoywen_Cow_4765 | — | text | 2 | 0 | spam-filtered | — |
-| 17 | 2026-10-02 | [Question of resource allocation of multiple Spark applications](https://www.reddit.com/r/apachespark/comments/1wvorhr/question_of_resource_allocation_of_multiple_spark/) | u/ForeignCapital8624 | — | text | 3 | 3 | live | — |
-| 18 | 2026-10-01 | [The Breakdown: Databricks](https://www.reddit.com/r/apachespark/comments/1wv2qly/the_breakdown_databricks/) | u/Roadtochessmaster | — | preipomedia.substack.com | 9 | 0 | live | — |
-| 19 | 2026-09-29 | [Spark and observability](https://www.reddit.com/r/apachespark/comments/1wto3yk/spark_and_observability/) | u/ZenithR9 | — | text | 6 | 4 | live | — |
-| 20 | 2026-09-28 | [No credit to the R folks, and their UDF story???](https://www.reddit.com/r/apachespark/comments/1wsu9qz/no_credit_to_the_r_folks_and_their_udf_story/) | u/SmallAd3697 | — | text | 6 | 10 | live | — |
-| 21 | 2026-09-28 | [Promo: KwikQuery 's Tabbydb-4.1.3 version available: new perf numbers](https://www.reddit.com/r/apachespark/comments/1wsnr4a/promo_kwikquery_s_tabbydb413_version_available/) | u/ahshahid | — | text | 3 | 1 | live | — |
-| 22 | 2026-09-26 | [Just wondering](https://www.reddit.com/r/apachespark/comments/1wqp5y1/just_wondering/) | u/Royal_Detail5418 | — | text | 3 | 6 | live | — |
-| 23 | 2026-09-24 | [Classic vs serverless compute in Databricks, drawn side by side: what actually changes](https://www.reddit.com/r/apachespark/comments/1wp6uk1/classic_vs_serverless_compute_in_databricks_drawn/) | u/Broad-Cherry-5999 | — | — | 0 | 0 | live | — |
-| 24 | 2026-09-24 | [Can placement groups improve Spark shuffle performance?](https://www.reddit.com/r/apachespark/comments/1wozfaj/can_placement_groups_improve_spark_shuffle/) | u/Expensive_Break_6163 | — | text | 5 | 3 | live | — |
-| 25 | 2026-09-23 | [Spark 4.2.0??](https://www.reddit.com/r/apachespark/comments/1wokgcr/spark_420/) | u/Canootle | — | text | 2 | 8 | live | — |
-| 26 | 2026-09-22 | [Can Genie Code optimize Spark joins automaticaly ?](https://www.reddit.com/r/apachespark/comments/1wneael/can_genie_code_optimize_spark_joins_automaticaly/) | u/sqlink2 | — | text | 4 | 4 | live | — |
-| 27 | 2026-09-22 | [Classic vs serverless compute in Databricks, drawn side by side: what actually changes](https://www.reddit.com/r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databricks_drawn/) | u/Broad-Cherry-5999 | — | text | 0 | 0 | live | — |
-| 28 | 2026-09-21 | [Getting started with Apache Spark Declarative Pipelines (SDP) tutorial for Open Source and Lakeflow](https://www.reddit.com/r/apachespark/comments/1wm6a28/getting_started_with_apache_spark_declarative/) | u/CompetitiveBet8978 | — | text | 16 | 1 | live | — |
-| 29 | 2026-09-17 | [How to accelerate Spark jobs on EMR/EKS without changing code or migrating pipelines?](https://www.reddit.com/r/apachespark/comments/1wisuhs/how_to_accelerate_spark_jobs_on_emreks_without/) | u/Foreign-Fondant4312 | — | text | 9 | 9 | live | — |
-| 30 | 2026-09-16 | [What’s New in Apache Spark 4.2: Spark Connect, DataSketches, and Airflow](https://www.reddit.com/r/apachespark/comments/1wi71lh/whats_new_in_apache_spark_42_spark_connect/) | u/PrideDense2206 | — | youtube.com | 5 | 0 | live | — |
-| 31 | 2026-09-15 | [Watch out with Iceberg metadata. My cluster executors finished in 26 seconds, the job took 80 minutes. I foun…](https://www.reddit.com/r/apachespark/comments/1whar59/watch_out_with_iceberg_metadata_my_cluster/) | u/Moradisten | — | text | 2 | 3 | live | — |
-| 32 | 2026-09-13 | [Free Udemy Courses: Time Series Forecasting in Python + Problem Solving using PySpark](https://www.reddit.com/r/apachespark/comments/1wf9n28/free_udemy_courses_time_series_forecasting_in/) | u/No_Salary8757 | — | — | 1 | 0 | live | — |
-| 33 | 2026-09-12 | [Writing nice unit tests is impossible](https://www.reddit.com/r/apachespark/comments/1wenhx5/writing_nice_unit_tests_is_impossible/) | u/Similar-Bug-350 | — | — | 1 | 1 | live | — |
-| 34 | 2026-09-12 | [GPU vs FPGA for Spark shuffle workloads: analyzing memory bandwidth versus pipeline efficiency](https://www.reddit.com/r/apachespark/comments/1wemjl0/gpu_vs_fpga_for_spark_shuffle_workloads_analyzing/) | u/CaashptalFinance8363 | — | text | 1 | 0 | spam-filtered | — |
-| 35 | 2026-09-11 | [What Data Engineers Need To Know About Delta Lake 4.3](https://www.reddit.com/r/apachespark/comments/1wd9xmx/what_data_engineers_need_to_know_about_delta_lake/) | u/Lenkz | — | medium.com | 10 | 0 | live | — |
-| 36 | 2026-09-11 | [Delta docs need to be clearer about when a table version is resolved](https://www.reddit.com/r/apachespark/comments/1wd2cor/delta_docs_need_to_be_clearer_about_when_a_table/) | u/frithjof_v | — | — | 0 | 0 | live | — |
-| 37 | 2026-09-09 | [Turns out "Iceberg is open" doesn't mean every engine can actually read your table](https://www.reddit.com/r/apachespark/comments/1wbud18/turns_out_iceberg_is_open_doesnt_mean_every/) | u/urban-pro | — | text | 8 | 7 | live | — |
-| 38 | 2026-09-09 | [Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely…](https://www.reddit.com/r/apachespark/comments/1wbjxra/why_does_the_same_spark_job_suddenly_get_much/) | u/Far-Diamond8184 | — | text | 7 | 9 | live | — |
-| 39 | 2026-09-09 | [Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely…](https://www.reddit.com/r/apachespark/comments/1wbfpij/why_does_the_same_spark_job_suddenly_get_much/) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
-| 40 | 2026-09-08 | [Formal Support for Windows?](https://www.reddit.com/r/apachespark/comments/1wb093m/formal_support_for_windows/) | u/SmallAd3697 | — | text | 2 | 5 | live | — |
-| 41 | 2026-09-08 | [Spark plus Neon db, how much JDBC parallelism is too much ?](https://www.reddit.com/r/apachespark/comments/1waqj6e/spark_plus_neon_db_how_much_jdbc_parallelism_is/) | u/sqlink2 | — | text | 14 | 6 | live | — |
-| 42 | 2026-09-02 | [Promo: KwikQuery's TabbyDB now has auto caching of common subplans and dynamic data pruning support on cached…](https://www.reddit.com/r/apachespark/comments/1w5mu4v/promo_kwikquerys_tabbydb_now_has_auto_caching_of/) | u/ahshahid | — | text | 3 | 0 | live | — |
-| 43 | 2026-08-30 | [How much data does your team actually process per day?](https://www.reddit.com/r/apachespark/comments/1w2rlmo/how_much_data_does_your_team_actually_process_per/) | u/Expensive_Break_6163 | — | text | 3 | 3 | live | — |
-| 44 | 2026-08-30 | [Spark/Pyspark certification](https://www.reddit.com/r/apachespark/comments/1w26jkz/sparkpyspark_certification/) | u/Sharp-Front-3450 | — | text | 7 | 4 | live | — |
-| 45 | 2026-08-27 | [How do you guys handle really large data in Spark without the session dying?](https://www.reddit.com/r/apachespark/comments/1vzpzc2/how_do_you_guys_handle_really_large_data_in_spark/) | u/Delulu62134 | — | text | 11 | 11 | live | — |
-| 46 | 2026-08-27 | [Spark CSV Reader Interpreting Pipe-Delimited UTF-16 File Incorrectly.](https://www.reddit.com/r/apachespark/comments/1vzk1l4/spark_csv_reader_interpreting_pipedelimited_utf16/) | u/BugSquare4344 | — | text | 2 | 3 | live | — |
-| 47 | 2026-08-26 | [GitHub Spark's "export your app" advice doesn't actually produce a working repo](https://www.reddit.com/r/apachespark/comments/1vz7is3/github_sparks_export_your_app_advice_doesnt/) | u/BarracudaChemical858 | — | text | 1 | 0 | spam-filtered | — |
-| 48 | 2026-08-25 | [Spark 4.2 (and 4.1.3, 4.0.4, 3.5.9) are all released!](https://www.reddit.com/r/apachespark/comments/1vyb4eb/spark_42_and_413_404_359_are_all_released/) | u/holdenk | — | text | 9 | 0 | live | — |
-| 49 | 2026-08-25 | [Xonai FuseCore: TPC-DS 3TB Benchmarks against Gluten and DataFusion Comet](https://www.reddit.com/r/apachespark/comments/1vxw7d2/xonai_fusecore_tpcds_3tb_benchmarks_against/) | u/thereluctantpoet | — | medium.com | 5 | 3 | live | — |
-| 50 | 2026-08-25 | [Apache Spark ships with 28 known CVEs in production. In 2026. And nobody thinks this is a problem worth talki…](https://www.reddit.com/r/apachespark/comments/1vxvgek/apache_spark_ships_with_28_known_cves_in/) | u/hrpedersen | — | text | 3 | 37 | live | — |
+| 1 | 2026-11-07 | [Where do you actually run Spark jobs in production? Kubernetes vs managed clusters vs serverless?](#post-1) | u/SinkNeither1527 | — | text | 18 | 13 | live | — |
+| 2 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales spiked 100x overnight)](#post-2) | u/fristprinciplesde | — | text | 0 | 0 | removed by mod | — |
+| 3 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](#post-3) | u/Lenkz | — | medium.com | 29 | 0 | live | — |
+| 4 | 2026-11-02 | [When does apache spark acceleration make more sense than tuning?](#post-4) | u/Necessary_Work_7794 | — | text | 10 | 5 | live | — |
+| 5 | 2026-11-02 | [spark performance tuning](#post-5) | u/liam_brooks-12 | — | text | 1 | 0 | spam-filtered | — |
+| 6 | 2026-10-28 | [anyone actually seeing big gains beyond regular Spark tuning?](#post-6) | u/Differoywen_Cow_4765 | — | text | 0 | 0 | spam-filtered | — |
+| 7 | 2026-10-28 | [How do you know when to optimize a spark job vs. just adding more compute?](#post-7) | u/Delulu62134 | — | text | 15 | 5 | live | — |
+| 8 | 2026-10-23 | [DualBird reviews? or experiences, guys??](#post-8) | u/Lazy-sabriProgra9066 | — | text | 0 | 0 | spam-filtered | — |
+| 9 | 2026-10-19 | [How do you validate store proc - pyspark rewrites beyond ‘row counts match’?](#post-9) | u/Wrong_City2251 | — | text | 2 | 1 | live | — |
+| 10 | 2026-10-19 | [our worst spark job went from 52 min to 16 min. here's what we saw](#post-10) | u/Ablerol_Magician8626 | — | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-10-18 | [Promo: TPC-DS-derived 1TB benchmark: stock Spark 4.1.3 vs TabbyDB 4.1.3.tabby.2, Hive and Iceberg, with per-q…](#post-11) | u/ahshahid | — | text | 2 | 9 | live | — |
+| 12 | 2026-10-15 | [\[ Removed by moderator \]](#post-12) | u/EmetInteractive | — | text | 1 | 0 | removed by mod | — |
+| 13 | 2026-10-14 | [Promo: TabbyDB 4.1.3-tabbydb.2 released: a new patent-pending runtime optimization, now 80% faster than stock…](#post-13) | u/ahshahid | — | text | 4 | 13 | live | — |
+| 14 | 2026-10-13 | [Need help for building self healing tool for API schema drifts](#post-14) | u/parathalovespaneer | — | text | 0 | 0 | live | — |
+| 15 | 2026-10-09 | [Run Google Dataproc (Managed Spark) on local, for offline dev, CI, AI agent testing (on native AMD, ARM platf…](#post-15) | u/jseeker528963 | — | — | 2 | 0 | approved | — |
+| 16 | 2026-10-07 | [Why does one Spark stage always eat most of the runtime?](#post-16) | u/Differoywen_Cow_4765 | — | text | 2 | 0 | spam-filtered | — |
+| 17 | 2026-10-02 | [Question of resource allocation of multiple Spark applications](#post-17) | u/ForeignCapital8624 | — | text | 3 | 3 | live | — |
+| 18 | 2026-10-01 | [The Breakdown: Databricks](#post-18) | u/Roadtochessmaster | — | preipomedia.substack.com | 9 | 0 | live | — |
+| 19 | 2026-09-29 | [Spark and observability](#post-19) | u/ZenithR9 | — | text | 6 | 4 | live | — |
+| 20 | 2026-09-28 | [No credit to the R folks, and their UDF story???](#post-20) | u/SmallAd3697 | — | text | 6 | 10 | live | — |
+| 21 | 2026-09-28 | [Promo: KwikQuery 's Tabbydb-4.1.3 version available: new perf numbers](#post-21) | u/ahshahid | — | text | 3 | 1 | live | — |
+| 22 | 2026-09-26 | [Just wondering](#post-22) | u/Royal_Detail5418 | — | text | 3 | 6 | live | — |
+| 23 | 2026-09-24 | [Classic vs serverless compute in Databricks, drawn side by side: what actually changes](#post-23) | u/Broad-Cherry-5999 | — | — | 0 | 0 | live | — |
+| 24 | 2026-09-24 | [Can placement groups improve Spark shuffle performance?](#post-24) | u/Expensive_Break_6163 | — | text | 5 | 3 | live | — |
+| 25 | 2026-09-23 | [Spark 4.2.0??](#post-25) | u/Canootle | — | text | 2 | 8 | live | — |
+| 26 | 2026-09-22 | [Can Genie Code optimize Spark joins automaticaly ?](#post-26) | u/sqlink2 | — | text | 4 | 4 | live | — |
+| 27 | 2026-09-22 | [Classic vs serverless compute in Databricks, drawn side by side: what actually changes](#post-27) | u/Broad-Cherry-5999 | — | text | 0 | 0 | live | — |
+| 28 | 2026-09-21 | [Getting started with Apache Spark Declarative Pipelines (SDP) tutorial for Open Source and Lakeflow](#post-28) | u/CompetitiveBet8978 | — | text | 16 | 1 | live | — |
+| 29 | 2026-09-17 | [How to accelerate Spark jobs on EMR/EKS without changing code or migrating pipelines?](#post-29) | u/Foreign-Fondant4312 | — | text | 9 | 9 | live | — |
+| 30 | 2026-09-16 | [What’s New in Apache Spark 4.2: Spark Connect, DataSketches, and Airflow](#post-30) | u/PrideDense2206 | — | youtube.com | 5 | 0 | live | — |
+| 31 | 2026-09-15 | [Watch out with Iceberg metadata. My cluster executors finished in 26 seconds, the job took 80 minutes. I foun…](#post-31) | u/Moradisten | — | text | 2 | 3 | live | — |
+| 32 | 2026-09-13 | [Free Udemy Courses: Time Series Forecasting in Python + Problem Solving using PySpark](#post-32) | u/No_Salary8757 | — | — | 1 | 0 | live | — |
+| 33 | 2026-09-12 | [Writing nice unit tests is impossible](#post-33) | u/Similar-Bug-350 | — | — | 1 | 1 | live | — |
+| 34 | 2026-09-12 | [GPU vs FPGA for Spark shuffle workloads: analyzing memory bandwidth versus pipeline efficiency](#post-34) | u/CaashptalFinance8363 | — | text | 1 | 0 | spam-filtered | — |
+| 35 | 2026-09-11 | [What Data Engineers Need To Know About Delta Lake 4.3](#post-35) | u/Lenkz | — | medium.com | 10 | 0 | live | — |
+| 36 | 2026-09-11 | [Delta docs need to be clearer about when a table version is resolved](#post-36) | u/frithjof_v | — | — | 0 | 0 | live | — |
+| 37 | 2026-09-09 | [Turns out "Iceberg is open" doesn't mean every engine can actually read your table](#post-37) | u/urban-pro | — | text | 8 | 7 | live | — |
+| 38 | 2026-09-09 | [Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely…](#post-38) | u/Far-Diamond8184 | — | text | 7 | 9 | live | — |
+| 39 | 2026-09-09 | [Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely…](#post-39) | u/\[deleted\] | — | — | 1 | 0 | deleted by author | — |
+| 40 | 2026-09-08 | [Formal Support for Windows?](#post-40) | u/SmallAd3697 | — | text | 2 | 5 | live | — |
+| 41 | 2026-09-08 | [Spark plus Neon db, how much JDBC parallelism is too much ?](#post-41) | u/sqlink2 | — | text | 14 | 6 | live | — |
+| 42 | 2026-09-02 | [Promo: KwikQuery's TabbyDB now has auto caching of common subplans and dynamic data pruning support on cached…](#post-42) | u/ahshahid | — | text | 3 | 0 | live | — |
+| 43 | 2026-08-30 | [How much data does your team actually process per day?](#post-43) | u/Expensive_Break_6163 | — | text | 3 | 3 | live | — |
+| 44 | 2026-08-30 | [Spark/Pyspark certification](#post-44) | u/Sharp-Front-3450 | — | text | 7 | 4 | live | — |
+| 45 | 2026-08-27 | [How do you guys handle really large data in Spark without the session dying?](#post-45) | u/Delulu62134 | — | text | 11 | 11 | live | — |
+| 46 | 2026-08-27 | [Spark CSV Reader Interpreting Pipe-Delimited UTF-16 File Incorrectly.](#post-46) | u/BugSquare4344 | — | text | 2 | 3 | live | — |
+| 47 | 2026-08-26 | [GitHub Spark's "export your app" advice doesn't actually produce a working repo](#post-47) | u/BarracudaChemical858 | — | text | 1 | 0 | spam-filtered | — |
+| 48 | 2026-08-25 | [Spark 4.2 (and 4.1.3, 4.0.4, 3.5.9) are all released!](#post-48) | u/holdenk | — | text | 9 | 0 | live | — |
+| 49 | 2026-08-25 | [Xonai FuseCore: TPC-DS 3TB Benchmarks against Gluten and DataFusion Comet](#post-49) | u/thereluctantpoet | — | medium.com | 5 | 3 | live | — |
+| 50 | 2026-08-25 | [Apache Spark ships with 28 known CVEs in production. In 2026. And nobody thinks this is a problem worth talki…](#post-50) | u/hrpedersen | — | text | 3 | 37 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -88,22 +88,24 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](https://www.reddit.com/r/apachespark/comments/1xlw9sv/apache_spark_43_what_developers_need_to_know/) | u/Lenkz | — | medium.com | 29 | 0 | live |
-| 1 | 2026-11-07 | [Where do you actually run Spark jobs in production? Kubernetes vs managed clusters vs serverless?](https://www.reddit.com/r/apachespark/comments/1xpynm1/where_do_you_actually_run_spark_jobs_in/) | u/SinkNeither1527 | — | text | 18 | 13 | live |
-| 7 | 2026-10-28 | [How do you know when to optimize a spark job vs. just adding more compute?](https://www.reddit.com/r/apachespark/comments/1xhjuqm/how_do_you_know_when_to_optimize_a_spark_job_vs/) | u/Delulu62134 | — | text | 15 | 5 | live |
-| 4 | 2026-11-02 | [When does apache spark acceleration make more sense than tuning?](https://www.reddit.com/r/apachespark/comments/1xls7pb/when_does_apache_spark_acceleration_make_more/) | u/Necessary_Work_7794 | — | text | 10 | 5 | live |
-| 13 | 2026-10-14 | [Promo: TabbyDB 4.1.3-tabbydb.2 released: a new patent-pending runtime optimization, now 80% faster than stock…](https://www.reddit.com/r/apachespark/comments/1x5yurj/promo_tabbydb_413tabbydb2_released_a_new/) | u/ahshahid | — | text | 4 | 13 | live |
-| 11 | 2026-10-18 | [Promo: TPC-DS-derived 1TB benchmark: stock Spark 4.1.3 vs TabbyDB 4.1.3.tabby.2, Hive and Iceberg, with per-q…](https://www.reddit.com/r/apachespark/comments/1x9f7e0/promo_tpcdsderived_1tb_benchmark_stock_spark_413/) | u/ahshahid | — | text | 2 | 9 | live |
-| 9 | 2026-10-19 | [How do you validate store proc - pyspark rewrites beyond ‘row counts match’?](https://www.reddit.com/r/apachespark/comments/1xa3kwh/how_do_you_validate_store_proc_pyspark_rewrites/) | u/Wrong_City2251 | — | text | 2 | 1 | live |
-| 14 | 2026-10-13 | [Need help for building self healing tool for API schema drifts](https://www.reddit.com/r/apachespark/comments/1x4xlj7/need_help_for_building_self_healing_tool_for_api/) | u/parathalovespaneer | — | text | 0 | 0 | live |
+| 3 | 2026-11-02 | [Apache Spark 4.3: What Developers Need to Know](#post-3) | u/Lenkz | — | medium.com | 29 | 0 | live |
+| 1 | 2026-11-07 | [Where do you actually run Spark jobs in production? Kubernetes vs managed clusters vs serverless?](#post-1) | u/SinkNeither1527 | — | text | 18 | 13 | live |
+| 7 | 2026-10-28 | [How do you know when to optimize a spark job vs. just adding more compute?](#post-7) | u/Delulu62134 | — | text | 15 | 5 | live |
+| 4 | 2026-11-02 | [When does apache spark acceleration make more sense than tuning?](#post-4) | u/Necessary_Work_7794 | — | text | 10 | 5 | live |
+| 13 | 2026-10-14 | [Promo: TabbyDB 4.1.3-tabbydb.2 released: a new patent-pending runtime optimization, now 80% faster than stock…](#post-13) | u/ahshahid | — | text | 4 | 13 | live |
+| 11 | 2026-10-18 | [Promo: TPC-DS-derived 1TB benchmark: stock Spark 4.1.3 vs TabbyDB 4.1.3.tabby.2, Hive and Iceberg, with per-q…](#post-11) | u/ahshahid | — | text | 2 | 9 | live |
+| 9 | 2026-10-19 | [How do you validate store proc - pyspark rewrites beyond ‘row counts match’?](#post-9) | u/Wrong_City2251 | — | text | 2 | 1 | live |
+| 14 | 2026-10-13 | [Need help for building self healing tool for API schema drifts](#post-14) | u/parathalovespaneer | — | text | 0 | 0 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Where do you actually run Spark jobs in production? Kubernetes vs managed clusters vs serverless?
 
-2026-11-07 · u/SinkNeither1527 · score 18 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xpynm1/where_do_you_actually_run_spark_jobs_in/)
+2026-11-07 · u/SinkNeither1527 · score 18 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xpynm1/where_do_you_actually_run_spark_jobs_in/) · [↑ back to the list](#last-50-posts)
 
 > I've been learning Spark (mostly on GCP Dataproc) and I'm trying to understand how companies actually deploy Spark in production.
 >
@@ -120,9 +122,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Also, what are you guys actually using at work? Would love to hear real-world examples rather than theoretical comparisons.
 
+<a id="post-2"></a>
+
 ### 2. How to avoid value drift (and your CEO asking why sales spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xosoi9/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xosoi9/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 > Your source data provider quietly changes what a value means, and now your CEO is staring at 100x sales and asking wtf happened. Not fun :(
 >
@@ -142,17 +146,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Keep building, and may all your NULLs be intentional. Have a great one!
 
+<a id="post-3"></a>
+
 ### 3. Apache Spark 4.3: What Developers Need to Know
 
-2026-11-02 · u/Lenkz · score 29 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xlw9sv/apache_spark_43_what_developers_need_to_know/)
+2026-11-02 · u/Lenkz · score 29 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xlw9sv/apache_spark_43_what_developers_need_to_know/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?sk=9da546846112e07966435aa60a289207>
 
 > *Spark 4.3 adds ASOF JOIN, Python UDFs compiled to SQL, JSON\_TABLE, and SCD Type 2 Auto CDC: what works, what needs a flag, and what breaks*
 
+<a id="post-4"></a>
+
 ### 4. When does apache spark acceleration make more sense than tuning?
 
-2026-11-02 · u/Necessary_Work_7794 · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xls7pb/when_does_apache_spark_acceleration_make_more/)
+2026-11-02 · u/Necessary_Work_7794 · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xls7pb/when_does_apache_spark_acceleration_make_more/) · [↑ back to the list](#last-50-posts)
 
 > Kind of stuck on this one with our ETL pipelines on EMR
 >
@@ -178,21 +186,27 @@ Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?
 >
 > What made you decide tuning wasn’t enough anymore? Would love to hear real setups, good or bad.
 
+<a id="post-5"></a>
+
 ### 5. spark performance tuning
 
-2026-11-02 · u/liam_brooks-12 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xlrha2/spark_performance_tuning/)
+2026-11-02 · u/liam_brooks-12 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xlrha2/spark_performance_tuning/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-6"></a>
 
 ### 6. anyone actually seeing big gains beyond regular Spark tuning?
 
-2026-10-28 · u/Differoywen_Cow_4765 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xhmpka/anyone_actually_seeing_big_gains_beyond_regular/)
+2026-10-28 · u/Differoywen_Cow_4765 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xhmpka/anyone_actually_seeing_big_gains_beyond_regular/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-7"></a>
+
 ### 7. How do you know when to optimize a spark job vs. just adding more compute?
 
-2026-10-28 · u/Delulu62134 · score 15 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xhjuqm/how_do_you_know_when_to_optimize_a_spark_job_vs/)
+2026-10-28 · u/Delulu62134 · score 15 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xhjuqm/how_do_you_know_when_to_optimize_a_spark_job_vs/) · [↑ back to the list](#last-50-posts)
 
 > I've been wondering about this while working with larger datasets in Spark
 >
@@ -222,15 +236,19 @@ Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?
 >
 > Would be great to hear how you approach this in real projects, especially if You've dealt with a job that kept getting more expensive without getting much faster.
 
+<a id="post-8"></a>
+
 ### 8. DualBird reviews? or experiences, guys??
 
-2026-10-23 · u/Lazy-sabriProgra9066 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xdejtz/dualbird_reviews_or_experiences_guys/)
+2026-10-23 · u/Lazy-sabriProgra9066 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xdejtz/dualbird_reviews_or_experiences_guys/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. How do you validate store proc - pyspark rewrites beyond ‘row counts match’?
 
-2026-10-19 · u/Wrong_City2251 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xa3kwh/how_do_you_validate_store_proc_pyspark_rewrites/)
+2026-10-19 · u/Wrong_City2251 · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1xa3kwh/how_do_you_validate_store_proc_pyspark_rewrites/) · [↑ back to the list](#last-50-posts)
 
 > If any has been porting a pile of old t sql stored procs to pyspark. The rewrite itself isn’t the hard part anymore. The pain is cursor loops and temp table chains that don’t cleanly map to df, plus null handling and implicit casts quietly changing results
 >
@@ -238,15 +256,19 @@ Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?
 >
 > For validation i suggest doing row counts plus exceptAll diffs on sample partitions. Feels thin though. Anyone doing column level checksums or something smarter for semantic parity?
 
+<a id="post-10"></a>
+
 ### 10. our worst spark job went from 52 min to 16 min. here's what we saw
 
-2026-10-19 · u/Ablerol_Magician8626 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x9rkqq/our_worst_spark_job_went_from_52_min_to_16_min/)
+2026-10-19 · u/Ablerol_Magician8626 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x9rkqq/our_worst_spark_job_went_from_52_min_to_16_min/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. Promo: TPC-DS-derived 1TB benchmark: stock Spark 4.1.3 vs TabbyDB 4.1.3.tabby.2, Hive and Iceberg, with per-query results
 
-2026-10-18 · u/ahshahid · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x9f7e0/promo_tpcdsderived_1tb_benchmark_stock_spark_413/)
+2026-10-18 · u/ahshahid · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x9f7e0/promo_tpcdsderived_1tb_benchmark_stock_spark_413/) · [↑ back to the list](#last-50-posts)
 
 > **Results (execution time, 103 queries)**
 >
@@ -290,15 +312,19 @@ Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?
 >
 > TPC-DS SF 1000 (1 TB) Parquet on GCS, non-partitioned, date-sorted
 
+<a id="post-12"></a>
+
 ### 12. \[ Removed by moderator \]
 
-2026-10-15 · u/EmetInteractive · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x6iev8/removed_by_moderator/)
+2026-10-15 · u/EmetInteractive · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x6iev8/removed_by_moderator/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. Promo: TabbyDB 4.1.3-tabbydb.2 released: a new patent-pending runtime optimization, now 80% faster than stock Spark on Iceberg TPC-DS -50GB Mac M4
 
-2026-10-14 · u/ahshahid · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x5yurj/promo_tabbydb_413tabbydb2_released_a_new/)
+2026-10-14 · u/ahshahid · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x5yurj/promo_tabbydb_413tabbydb2_released_a_new/) · [↑ back to the list](#last-50-posts)
 
 > We’ve released **TabbyDB 4.1.3-tabbydb.2** (based on Spark 4.1.3), together with our matching Iceberg build. This release adds a new **patent-pending runtime optimization technique**.
 >
@@ -315,29 +341,37 @@ Link: <https://medium.com/@cralle/apache-spark-4-3-developer-guide-1896a29f1538?
 >
 > Any feedback welcome.
 
+<a id="post-14"></a>
+
 ### 14. Need help for building self healing tool for API schema drifts
 
-2026-10-13 · u/parathalovespaneer · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x4xlj7/need_help_for_building_self_healing_tool_for_api/)
+2026-10-13 · u/parathalovespaneer · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x4xlj7/need_help_for_building_self_healing_tool_for_api/) · [↑ back to the list](#last-50-posts)
 
 > Hey there! Can you help me regarding similar kind of problem statement i got for the upcoming hackathon please? Just in place of entire pipelines, there's just API schema drift.. Maybe i can share entire PS
 
+<a id="post-15"></a>
+
 ### 15. Run Google Dataproc (Managed Spark) on local, for offline dev, CI, AI agent testing (on native AMD, ARM platform, zero cloud cost)
 
-2026-10-09 · u/jseeker528963 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x1e236/run_google_dataproc_managed_spark_on_local_for/)
+2026-10-09 · u/jseeker528963 · score 2 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1x1e236/run_google_dataproc_managed_spark_on_local_for/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/googlecloud/comments/1x1d5gn/local_dataproc_docker_image_for_offline_dev_ci/>
 
 > Running and Testing that specific dataproc spark version should be easy
 
+<a id="post-16"></a>
+
 ### 16. Why does one Spark stage always eat most of the runtime?
 
-2026-10-07 · u/Differoywen_Cow_4765 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wzqzpx/why_does_one_spark_stage_always_eat_most_of_the/)
+2026-10-07 · u/Differoywen_Cow_4765 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wzqzpx/why_does_one_spark_stage_always_eat_most_of_the/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Question of resource allocation of multiple Spark applications
 
-2026-10-02 · u/ForeignCapital8624 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wvorhr/question_of_resource_allocation_of_multiple_spark/)
+2026-10-02 · u/ForeignCapital8624 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wvorhr/question_of_resource_allocation_of_multiple_spark/) · [↑ back to the list](#last-50-posts)
 
 > Currently, a Spark application should manage its own executors, which means that in order to run multiple Spark applications, one needs to split the cluster into smaller sections or attach more compute nodes, etc. Usually this dynamic allocation is the job of resource manager (such as Kubernetes).
 >
@@ -351,24 +385,30 @@ Link: </r/googlecloud/comments/1x1d5gn/local_dataproc_docker_image_for_offline_d
 >
 > For example, is there a realistic environment where short running Spark jobs (each requiring its own driver) arrive frequently?
 
+<a id="post-18"></a>
+
 ### 18. The Breakdown: Databricks
 
-2026-10-01 · u/Roadtochessmaster · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wv2qly/the_breakdown_databricks/)
+2026-10-01 · u/Roadtochessmaster · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wv2qly/the_breakdown_databricks/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://preipomedia.substack.com/p/the-breakdown-databricks?r=70scab&utm_campaign=post-expanded-share&utm_medium=post%20viewer>
 
 
+<a id="post-19"></a>
+
 ### 19. Spark and observability
 
-2026-09-29 · u/ZenithR9 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wto3yk/spark_and_observability/)
+2026-09-29 · u/ZenithR9 · score 6 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wto3yk/spark_and_observability/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone, I released version 1.3.0 of [Flare](https://github.com/Neutrinic/flare) yesterday and would like any feedback. I posted a while back and wanted to give you guys an update. Flare is a way to integrate OpenTelematary observability to Spark including traces, logs and metrics. The docs are in much better shape for recipes for the most common ways people deploy Spark. 
 >
 > For now the biggest gap is long running SparkSessions - something I'll tackle in a future version focusing on Spark Connect and Structured Streaming, feel free to try it out, leave any feedback here or create issues on the repo. Thanks
 
+<a id="post-20"></a>
+
 ### 20. No credit to the R folks, and their UDF story???
 
-2026-09-28 · u/SmallAd3697 · score 6 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wsu9qz/no_credit_to_the_r_folks_and_their_udf_story/)
+2026-09-28 · u/SmallAd3697 · score 6 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wsu9qz/no_credit_to_the_r_folks_and_their_udf_story/) · [↑ back to the list](#last-50-posts)
 
 > I'm incredibly excited that Databricks is (finally) making steps to allow the Spark UDFs to be more accessible to various languages and runtimes.    I had watched the presentation from the recent Summit, "**Language-Agnostic UDF Protocol for Spark**".  And I started reading the spark Jira (JIRA: SPARK-55278), and related SPIP docs.
 >
@@ -378,9 +418,11 @@ Link: <https://preipomedia.substack.com/p/the-breakdown-databricks?r=70scab&utm_
 >
 > It is also a bit sad to me that there is **no mention of ".Net for Spark"** which has been limping along for many years without any love from Databricks whatsoever.  On the that side (c#.Net) I just figured that Databricks was neglecting us (and possibly sabotaging us) out of pure spite.  Whereas I would NOT think the same thing is true when it comes to the R folks.
 
+<a id="post-21"></a>
+
 ### 21. Promo: KwikQuery 's Tabbydb-4.1.3 version available: new perf numbers
 
-2026-09-28 · u/ahshahid · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wsnr4a/promo_kwikquery_s_tabbydb413_version_available/)
+2026-09-28 · u/ahshahid · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wsnr4a/promo_kwikquery_s_tabbydb413_version_available/) · [↑ back to the list](#last-50-posts)
 
 > The version 4.1.3 tracks open source spark 4.1.3.
 >
@@ -405,22 +447,28 @@ Link: <https://preipomedia.substack.com/p/the-breakdown-databricks?r=70scab&utm_
 >
 > Any feedback, suggestions for improving runtime performance with conf manipulation or any mistake done in run or calculation, if visible in the info, are most welcome. pls do let me know.
 
+<a id="post-22"></a>
+
 ### 22. Just wondering
 
-2026-09-26 · u/Royal_Detail5418 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wqp5y1/just_wondering/)
+2026-09-26 · u/Royal_Detail5418 · score 3 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wqp5y1/just_wondering/) · [↑ back to the list](#last-50-posts)
 
 > If Genie can help with Spark optimization why do employers still drill the F out of job candidates? Genie can detect and resolve skew, it can determine is a table can be broadcast. Genie can prune partitions, repartition, coalesce. If Genie can do all of this why are companies drilling people on this?
 
+<a id="post-23"></a>
+
 ### 23. Classic vs serverless compute in Databricks, drawn side by side: what actually changes
 
-2026-09-24 · u/Broad-Cherry-5999 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wp6uk1/classic_vs_serverless_compute_in_databricks_drawn/)
+2026-09-24 · u/Broad-Cherry-5999 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wp6uk1/classic_vs_serverless_compute_in_databricks_drawn/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databricks_drawn/>
 
 
+<a id="post-24"></a>
+
 ### 24. Can placement groups improve Spark shuffle performance?
 
-2026-09-24 · u/Expensive_Break_6163 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wozfaj/can_placement_groups_improve_spark_shuffle/)
+2026-09-24 · u/Expensive_Break_6163 · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wozfaj/can_placement_groups_improve_spark_shuffle/) · [↑ back to the list](#last-50-posts)
 
 > I have a Spark job that joins two pretty large datasets, and I see that we spend a lot of time on the shuffle.
 >
@@ -430,24 +478,30 @@ Link: </r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databric
 >
 > Also, does EMR do any optimization like this automatically, or is it something we need to configure ourselves?
 
+<a id="post-25"></a>
+
 ### 25. Spark 4.2.0??
 
-2026-09-23 · u/Canootle · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wokgcr/spark_420/)
+2026-09-23 · u/Canootle · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wokgcr/spark_420/) · [↑ back to the list](#last-50-posts)
 
 > https://preview.redd.it/qlgu68zujcrh1.png?width=634&format=png&auto=webp&s=37e6e63b96a8db4229f8487e8cb25e1b771088b6
 
+<a id="post-26"></a>
+
 ### 26. Can Genie Code optimize Spark joins automaticaly ?
 
-2026-09-22 · u/sqlink2 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wneael/can_genie_code_optimize_spark_joins_automaticaly/)
+2026-09-22 · u/sqlink2 · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wneael/can_genie_code_optimize_spark_joins_automaticaly/) · [↑ back to the list](#last-50-posts)
 
 > My team is experimenting with Genie Code on Databricks pltform. Has anyone used it to analyze existing Spark jobs and suggest thing like broadcast join , partition pruning , or reducing shuffles ?  
 > How can i make it suggest things with validated reasoning to make our produ tivity more
 >
 > I am keen to know how reliable genie ‘s Spark optimization or suggestions  in practice and how best to use them.
 
+<a id="post-27"></a>
+
 ### 27. Classic vs serverless compute in Databricks, drawn side by side: what actually changes
 
-2026-09-22 · u/Broad-Cherry-5999 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databricks_drawn/)
+2026-09-22 · u/Broad-Cherry-5999 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databricks_drawn/) · [↑ back to the list](#last-50-posts)
 
 > One request, served two ways.
 >
@@ -461,9 +515,11 @@ Link: </r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databric
 >
 > Whole series in order: [https://www.youtube.com/watch?v=B5iHmoYgnqY&list=PLDB5WDkDOYF4](https://www.youtube.com/watch?v=B5iHmoYgnqY&list=PLDB5WDkDOYF4)
 
+<a id="post-28"></a>
+
 ### 28. Getting started with Apache Spark Declarative Pipelines (SDP) tutorial for Open Source and Lakeflow
 
-2026-09-21 · u/CompetitiveBet8978 · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wm6a28/getting_started_with_apache_spark_declarative/)
+2026-09-21 · u/CompetitiveBet8978 · score 16 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wm6a28/getting_started_with_apache_spark_declarative/) · [↑ back to the list](#last-50-posts)
 
 > # [](https://www.reddit.com/r/dataengineering/?f=flair_name%3A%22Open%20Source%22)
 >
@@ -482,9 +538,11 @@ Link: </r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databric
 > Here it is:  
 > [How to get started with Spark Declarative Pipelines (SDP) tutorial (Open Source or Lakeflow)](https://www.databricks.com/discover/how-to-get-started-with-spark-declarative-pipelines)
 
+<a id="post-29"></a>
+
 ### 29. How to accelerate Spark jobs on EMR/EKS without changing code or migrating pipelines?
 
-2026-09-17 · u/Foreign-Fondant4312 · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wisuhs/how_to_accelerate_spark_jobs_on_emreks_without/)
+2026-09-17 · u/Foreign-Fondant4312 · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wisuhs/how_to_accelerate_spark_jobs_on_emreks_without/) · [↑ back to the list](#last-50-posts)
 
 > Every performance conversation we have eventually turns into "well, we'd need to migrate to X" or "rewrite this in Y." That's a nonstarter for us. We can't justify a multi-quarter migration project just to get faster jobs, especially when the current pipeline works fine functionally.
 >
@@ -494,16 +552,20 @@ Link: </r/apachespark/comments/1wne9wt/classic_vs_serverless_compute_in_databric
 >
 > Trying to separate the real options here from the marketing claims before we sink more evaluation time into it.
 
+<a id="post-30"></a>
+
 ### 30. What’s New in Apache Spark 4.2: Spark Connect, DataSketches, and Airflow
 
-2026-09-16 · u/PrideDense2206 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wi71lh/whats_new_in_apache_spark_42_spark_connect/)
+2026-09-16 · u/PrideDense2206 · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wi71lh/whats_new_in_apache_spark_42_spark_connect/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=ePDTF5BZd5k&si=8h8hk11Txfzjqxx1>
 
 
+<a id="post-31"></a>
+
 ### 31. Watch out with Iceberg metadata. My cluster executors finished in 26 seconds, the job took 80 minutes. I found that the bottleneck was during planning, not execution.
 
-2026-09-15 · u/Moradisten · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1whar59/watch_out_with_iceberg_metadata_my_cluster/)
+2026-09-15 · u/Moradisten · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1whar59/watch_out_with_iceberg_metadata_my_cluster/) · [↑ back to the list](#last-50-posts)
 
 > We migrated a table from Parquet to Iceberg and literally didn't touch anything in the cluster or the code. The Glue job that used to run in 30 minutes suddenly took **80 MINUTES**.
 >
@@ -519,44 +581,56 @@ Link: <https://youtube.com/watch?v=ePDTF5BZd5k&si=8h8hk11Txfzjqxx1>
 >
 > Anyone else hit this after an Iceberg migration? What did you check first?
 
+<a id="post-32"></a>
+
 ### 32. Free Udemy Courses: Time Series Forecasting in Python + Problem Solving using PySpark
 
-2026-09-13 · u/No_Salary8757 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wf9n28/free_udemy_courses_time_series_forecasting_in/)
+2026-09-13 · u/No_Salary8757 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wf9n28/free_udemy_courses_time_series_forecasting_in/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/Udemy/comments/1wf9ljh/free_udemy_courses_time_series_forecasting_in/>
 
 
+<a id="post-33"></a>
+
 ### 33. Writing nice unit tests is impossible
 
-2026-09-12 · u/Similar-Bug-350 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wenhx5/writing_nice_unit_tests_is_impossible/)
+2026-09-12 · u/Similar-Bug-350 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wenhx5/writing_nice_unit_tests_is_impossible/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/databricks/comments/1wenhh7/writing_nice_unit_tests_is_impossible/>
 
 
+<a id="post-34"></a>
+
 ### 34. GPU vs FPGA for Spark shuffle workloads: analyzing memory bandwidth versus pipeline efficiency
 
-2026-09-12 · u/CaashptalFinance8363 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wemjl0/gpu_vs_fpga_for_spark_shuffle_workloads_analyzing/)
+2026-09-12 · u/CaashptalFinance8363 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wemjl0/gpu_vs_fpga_for_spark_shuffle_workloads_analyzing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-35"></a>
+
 ### 35. What Data Engineers Need To Know About Delta Lake 4.3
 
-2026-09-11 · u/Lenkz · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wd9xmx/what_data_engineers_need_to_know_about_delta_lake/)
+2026-09-11 · u/Lenkz · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wd9xmx/what_data_engineers_need_to_know_about_delta_lake/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@cralle/delta-lake-4-3-selective-data-replacement-5a8fba735f02?sk=30106a30098531f123bb97c91b6e5865>
 
 > *replaceUsing and replaceOn give you a better overwrite primitive, and every catalog-managed table operation now runs through the catalog.*
 
+<a id="post-36"></a>
+
 ### 36. Delta docs need to be clearer about when a table version is resolved
 
-2026-09-11 · u/frithjof_v · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wd2cor/delta_docs_need_to_be_clearer_about_when_a_table/)
+2026-09-11 · u/frithjof_v · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wd2cor/delta_docs_need_to_be_clearer_about_when_a_table/) · [↑ back to the list](#last-50-posts)
 
 Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_when_a_table/>
 
 
+<a id="post-37"></a>
+
 ### 37. Turns out "Iceberg is open" doesn't mean every engine can actually read your table
 
-2026-09-09 · u/urban-pro · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbud18/turns_out_iceberg_is_open_doesnt_mean_every/)
+2026-09-09 · u/urban-pro · score 8 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbud18/turns_out_iceberg_is_open_doesnt_mean_every/) · [↑ back to the list](#last-50-posts)
 
 > Read something this week that put a name to a problem I've half run into before but never really understood the mechanics of. Sharing because I think a lot of people assume Iceberg interop is more solved than it is.
 >
@@ -584,22 +658,28 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 >
 > Has anyone actually hit this for real, table looks completely fine, one engine just refuses to read the current snapshot because of the delete encoding?
 
+<a id="post-38"></a>
+
 ### 38. Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely moved?
 
-2026-09-09 · u/Far-Diamond8184 · score 7 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbjxra/why_does_the_same_spark_job_suddenly_get_much/)
+2026-09-09 · u/Far-Diamond8184 · score 7 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbjxra/why_does_the_same_spark_job_suddenly_get_much/) · [↑ back to the list](#last-50-posts)
 
 > we've got a job that runs fine for weeks and then randomly triples in runtime even though row counts barely changed. eventually traced it to cardinality and skew shifting under the hood, but it's hard to plan capacity or set SLAs around something that isn't tied to volume at all.  
 > the annoying part is our monitoring was built around volume as the main signal, so nothing flagged this until the job had already blown its window. makes capacity planning feel like guesswork when the thing driving runtime isn't the number we're tracking. is this just a spark reality once you're at a certain scale, or is there a way to get ahead of it instead of firefighting after the fact?
 
+<a id="post-39"></a>
+
 ### 39. Why does the same Spark job suddenly get much slower when the data shape changes even if total volume barely moved?
 
-2026-09-09 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbfpij/why_does_the_same_spark_job_suddenly_get_much/)
+2026-09-09 · u/\[deleted\] · score 1 · 0 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wbfpij/why_does_the_same_spark_job_suddenly_get_much/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. Formal Support for Windows?
 
-2026-09-08 · u/SmallAd3697 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wb093m/formal_support_for_windows/)
+2026-09-08 · u/SmallAd3697 · score 2 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1wb093m/formal_support_for_windows/) · [↑ back to the list](#last-50-posts)
 
 > Do the Apache Spark maintainers formally support windows for production workloads?
 >
@@ -611,9 +691,11 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 >
 > If the Apache Spark maintainers wanted to write windows-specific code, I'm certain they could find a way to enable "spark.python.use.daemon".  But it probably isn't worth their time and energy.  Are we at risk if we try to run Spark in a production windows environment?  Is there a risk that some future version of Apache Spark will stop running in Windows (eg. after some future update)?
 
+<a id="post-41"></a>
+
 ### 41. Spark plus Neon db, how much JDBC parallelism is too much ?
 
-2026-09-08 · u/sqlink2 · score 14 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1waqj6e/spark_plus_neon_db_how_much_jdbc_parallelism_is/)
+2026-09-08 · u/sqlink2 · score 14 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1waqj6e/spark_plus_neon_db_how_much_jdbc_parallelism_is/) · [↑ back to the list](#last-50-posts)
 
 > Have u benchmarked writing to Neon over JDBC conn with diff numPartitions/connection counts?
 >
@@ -621,9 +703,11 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 >
 > Curious what people have found to work well in practice.
 
+<a id="post-42"></a>
+
 ### 42. Promo: KwikQuery's TabbyDB now has auto caching of common subplans and dynamic data pruning support on cached relations
 
-2026-09-02 · u/ahshahid · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w5mu4v/promo_kwikquerys_tabbydb_now_has_auto_caching_of/)
+2026-09-02 · u/ahshahid · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w5mu4v/promo_kwikquerys_tabbydb_now_has_auto_caching_of/) · [↑ back to the list](#last-50-posts)
 
 > The updated tabbydb-4.1.1 now supports automatic caching/uncaching of repeated subplans within a query tree. The feature is by default turned off as it definitely needs more memory and the performance impact still needs evaluation on 1 TB size datasets.
 >
@@ -633,23 +717,29 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 >
 > This individual row filtering support for now is done only for iceberg and hive based parquet tables.
 
+<a id="post-43"></a>
+
 ### 43. How much data does your team actually process per day?
 
-2026-08-30 · u/Expensive_Break_6163 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w2rlmo/how_much_data_does_your_team_actually_process_per/)
+2026-08-30 · u/Expensive_Break_6163 · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w2rlmo/how_much_data_does_your_team_actually_process_per/) · [↑ back to the list](#last-50-posts)
 
 > No judgment, just curious how the distribution really looks. Everyone talks like they’re at petabyte scale — I suspect most of us aren’t.
 
+<a id="post-44"></a>
+
 ### 44. Spark/Pyspark certification
 
-2026-08-30 · u/Sharp-Front-3450 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w26jkz/sparkpyspark_certification/)
+2026-08-30 · u/Sharp-Front-3450 · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1w26jkz/sparkpyspark_certification/) · [↑ back to the list](#last-50-posts)
 
 > Hello!
 >
 > I'm currently working as a data analyst but I'm seeking to transition to engineering. In order to do so, I am in the process of learning data engineering topics on my own. Right now I'm focusing on Spark, so I would like to know if someone here would know what would be the best possible certification on Spark currently 😄
 
+<a id="post-45"></a>
+
 ### 45. How do you guys handle really large data in Spark without the session dying?
 
-2026-08-27 · u/Delulu62134 · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vzpzc2/how_do_you_guys_handle_really_large_data_in_spark/)
+2026-08-27 · u/Delulu62134 · score 11 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vzpzc2/how_do_you_guys_handle_really_large_data_in_spark/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone, 
 >
@@ -663,9 +753,11 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 >
 > Would love to hear some real-world approacbef rather than just the usual "increase memory and partitions" Advice.
 
+<a id="post-46"></a>
+
 ### 46. Spark CSV Reader Interpreting Pipe-Delimited UTF-16 File Incorrectly.
 
-2026-08-27 · u/BugSquare4344 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vzk1l4/spark_csv_reader_interpreting_pipedelimited_utf16/)
+2026-08-27 · u/BugSquare4344 · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vzk1l4/spark_csv_reader_interpreting_pipedelimited_utf16/) · [↑ back to the list](#last-50-posts)
 
 > I'm facing a strange issue while reading a pipe-delimited CSV file using Apache Spark.    
 > My input CSV looks like this:    
@@ -699,21 +791,27 @@ Link: </r/MicrosoftFabric/comments/1wc91u5/delta_docs_need_to_be_clearer_about_w
 > 4.	Is there a recommended way to correctly read this file while preserving the schema and avoiding the extra ? characters?    
 > Any insights into how Spark handles CSV encoding and schema inference in this scenario would be appreciated.
 
+<a id="post-47"></a>
+
 ### 47. GitHub Spark's "export your app" advice doesn't actually produce a working repo
 
-2026-08-26 · u/BarracudaChemical858 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vz7is3/github_sparks_export_your_app_advice_doesnt/)
+2026-08-26 · u/BarracudaChemical858 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vz7is3/github_sparks_export_your_app_advice_doesnt/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. Spark 4.2 (and 4.1.3, 4.0.4, 3.5.9) are all released!
 
-2026-08-25 · u/holdenk · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vyb4eb/spark_42_and_413_404_359_are_all_released/)
+2026-08-25 · u/holdenk · score 9 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vyb4eb/spark_42_and_413_404_359_are_all_released/) · [↑ back to the list](#last-50-posts)
 
 > You can download them all from [https://spark.apache.org/downloads.html](https://spark.apache.org/downloads.html) PyPi or Maven Central :)
 
+<a id="post-49"></a>
+
 ### 49. Xonai FuseCore: TPC-DS 3TB Benchmarks against Gluten and DataFusion Comet
 
-2026-08-25 · u/thereluctantpoet · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vxw7d2/xonai_fusecore_tpcds_3tb_benchmarks_against/)
+2026-08-25 · u/thereluctantpoet · score 5 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vxw7d2/xonai_fusecore_tpcds_3tb_benchmarks_against/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@leandro-xonai/xonai-fusecore-benchmarks-against-gluten-and-datafusion-comet-2a9a5ea3a3f1>
 
@@ -722,9 +820,11 @@ Link: <https://medium.com/@leandro-xonai/xonai-fusecore-benchmarks-against-glute
 >
 > If anyone has questions or is curious about trying our accelerator or replicating the benchmarks, I'd love to connect. The compiler itself is currently closed source, but we are actively discussing changing that and would welcome any community input from anyone already accelerating their pipelines.
 
+<a id="post-50"></a>
+
 ### 50. Apache Spark ships with 28 known CVEs in production. In 2026. And nobody thinks this is a problem worth talking about publicly.
 
-2026-08-25 · u/hrpedersen · score 3 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vxvgek/apache_spark_ships_with_28_known_cves_in/)
+2026-08-25 · u/hrpedersen · score 3 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/apachespark/comments/1vxvgek/apache_spark_ships_with_28_known_cves_in/) · [↑ back to the list](#last-50-posts)
 
 > This is not acceptable any longer in a modern developer world and community.
 >

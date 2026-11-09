@@ -46,56 +46,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Can I pass Databricks Data Engineer Associate in 15 days with no prior experience?](https://www.reddit.com/r/dataengineersindia/comments/1xpzo20/can_i_pass_databricks_data_engineer_associate_in/) | u/False_Square1734 | Career Question | text | 7 | 4 | live | — |
-| 2 | 2026-11-07 | [Seeking referrals for my elder brother \| 6 YOE \| Java Full Stack Developer \| Open to Opportunities](https://www.reddit.com/r/dataengineersindia/comments/1xpy7sr/seeking_referrals_for_my_elder_brother_6_yoe_java/) | u/Warm-Writer-7860 | Seeking referral | text | 3 | 0 | live | — |
-| 3 | 2026-11-06 | [EY GCP data engineer](https://www.reddit.com/r/dataengineersindia/comments/1xpo1z1/ey_gcp_data_engineer/) | u/Professional_Mix5740 | Career Question | text | 4 | 0 | live | — |
-| 4 | 2026-11-06 | [Need online data engineer tutors..](https://www.reddit.com/r/dataengineersindia/comments/1xpmifw/need_online_data_engineer_tutors/) | u/Prudhvi495 | General | text | 6 | 1 | live | — |
-| 5 | 2026-11-06 | [interview Prep Material](https://www.reddit.com/r/dataengineersindia/comments/1xpf8hj/interview_prep_material/) | u/Visible-Ganache-3721 | General | i.redd.it | 1 | 0 | live | — |
-| 6 | 2026-11-06 | [\[Hiring\] Thoughtworks \| 8 Openings \| India 🇮🇳](https://www.reddit.com/r/dataengineersindia/comments/1xpbjm5/hiring_thoughtworks_8_openings_india/) | u/Dev_Monarch | General | reddit.com | 1 | 0 | live | — |
-| 7 | 2026-11-06 | [Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?](https://www.reddit.com/r/dataengineersindia/comments/1xpbiya/tiger_analytics_bi_powerbi_2025_new_60minute/) | u/Visible-Lie8505 | Technical Doubt | text | 3 | 1 | live | — |
-| 8 | 2026-11-06 | [Free Databricks Data Engineer Professional prep playlist (exam-style MCQs)](https://www.reddit.com/r/dataengineersindia/comments/1xpbigt/free_databricks_data_engineer_professional_prep/) | u/Lonely-Vacation-6447 | General | i.redd.it | 10 | 0 | live | — |
-| 9 | 2026-11-06 | [I'm confused, pls help!](https://www.reddit.com/r/dataengineersindia/comments/1xpbh4s/im_confused_pls_help/) | u/Zealousideal-Cod-617 | Career Question | text | 3 | 25 | live | — |
-| 10 | 2026-11-06 | [How do tech recruiters & hiring managers evaluate candidates with 2 years of ETL experience (Informatica, SQL…](https://www.reddit.com/r/dataengineersindia/comments/1xpb5wq/how_do_tech_recruiters_hiring_managers_evaluate/) | u/Choice_Web_8914 | Career Question | reddit.com | 2 | 0 | live | — |
-| 11 | 2026-11-06 | [Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?](https://www.reddit.com/r/dataengineersindia/comments/1xpavsx/tiger_analytics_bi_powerbi_2025_new_60minute/) | u/Visible-Lie8505 | Technical Doubt | reddit.com | 2 | 0 | live | — |
-| 12 | 2026-11-06 | [Looking for Data Engineer Mock Interview Partners](https://www.reddit.com/r/dataengineersindia/comments/1xp8b8r/looking_for_data_engineer_mock_interview_partners/) | u/Inevitable-Aioli-612 | General | text | 10 | 11 | live | — |
-| 13 | 2026-11-06 | [What is this budget 😭](https://www.reddit.com/r/dataengineersindia/comments/1xp839s/what_is_this_budget/) | u/Signal-Leopard-8112 | General | i.redd.it | 18 | 3 | live | — |
-| 14 | 2026-11-06 | [Hey, Anyone given the online assessment for Vivanti?](https://www.reddit.com/r/dataengineersindia/comments/1xp6lw3/hey_anyone_given_the_online_assessment_for_vivanti/) | u/pariharkuku | Career Question | text | 6 | 6 | live | — |
-| 15 | 2026-11-06 | [v4c.ai virtual interview](https://www.reddit.com/r/dataengineersindia/comments/1xp5l9p/v4cai_virtual_interview/) | u/DecodeAnything | General | text | 1 | 0 | spam-filtered | — |
-| 16 | 2026-11-06 | [v4c.ai virtual interview](https://www.reddit.com/r/dataengineersindia/comments/1xp5jev/v4cai_virtual_interview/) | u/Healthy-Message-9313 | General | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-11-06 | [How is EPAM India? Senior Data Engineer (A3) – 26 LPA 5YOE](https://www.reddit.com/r/dataengineersindia/comments/1xp517n/how_is_epam_india_senior_data_engineer_a3_26_lpa/) | u/Relative_Addition754 | Career Question | text | 31 | 27 | live | — |
-| 18 | 2026-11-06 | [Hey I am TYBSC Computer Student any Advice for how to get into Data engineering field as fresher in today's e…](https://www.reddit.com/r/dataengineersindia/comments/1xp4cxc/hey_i_am_tybsc_computer_student_any_advice_for/) | u/BetaDataGuy | Career Question | text | 3 | 1 | live | — |
-| 19 | 2026-11-06 | [Google Data Engineer Fresher](https://www.reddit.com/r/dataengineersindia/comments/1xp2ujc/google_data_engineer_fresher/) | u/Secure-Tax3123 | Technical Doubt | text | 5 | 1 | live | — |
-| 20 | 2026-11-06 | [Stuck in my current organisation (7+ YOE)](https://www.reddit.com/r/dataengineersindia/comments/1xp0mzf/stuck_in_my_current_organisation_7_yoe/) | u/1bb35 | Career Question | text | 19 | 24 | live | — |
-| 21 | 2026-11-06 | [NIQ Chennai](https://www.reddit.com/r/dataengineersindia/comments/1xp0kfz/niq_chennai/) | u/meloww143 | Career Question | text | 3 | 0 | live | — |
-| 22 | 2026-11-05 | [​\[Offer Advice\] Got a Data & AI Internship at ADM (Manyata, BLR) for 40k stipend. What is the FTE conversion…](https://www.reddit.com/r/dataengineersindia/comments/1xowdc0/offer_advice_got_a_data_ai_internship_at_adm/) | u/quinZ006 | Career Question | reddit.com | 3 | 0 | live | — |
-| 23 | 2026-11-05 | [System design interview](https://www.reddit.com/r/dataengineersindia/comments/1xornnz/system_design_interview/) | u/Top_Singer456 | Opinion | text | 9 | 1 | live | — |
-| 24 | 2026-11-05 | [Will give first month salary, if anyone helps me get a 15Lpa job.](https://www.reddit.com/r/dataengineersindia/comments/1xoqh6y/will_give_first_month_salary_if_anyone_helps_me/) | u/seawaves22 | Seeking referral | i.redd.it | 0 | 4 | live | — |
-| 25 | 2026-11-05 | [job need at Bangalore](https://www.reddit.com/r/dataengineersindia/comments/1xoq6j6/job_need_at_bangalore/) | u/Prit_Code_76 | Seeking referral | text | 2 | 0 | live | — |
-| 26 | 2026-11-05 | [Google Data Engineer Interview](https://www.reddit.com/r/dataengineersindia/comments/1xopp0u/google_data_engineer_interview/) | u/Fantastic-Chef7139 | Technical Doubt | text | 7 | 2 | live | — |
-| 27 | 2026-11-05 | [B. Tech Graduate (2018) Looking to Restart My Career in IT – Need Career Guidance](https://www.reddit.com/r/dataengineersindia/comments/1xooy6g/b_tech_graduate_2018_looking_to_restart_my_career/) | u/ritarajdi1 | Career Question | text | 3 | 3 | live | — |
-| 28 | 2026-11-05 | [Advice needed \| Scenario based questions](https://www.reddit.com/r/dataengineersindia/comments/1xokqvt/advice_needed_scenario_based_questions/) | u/No_Agency_5598 | General | text | 9 | 13 | live | — |
-| 29 | 2026-11-05 | [Information about Diggibyte Technologies](https://www.reddit.com/r/dataengineersindia/comments/1xojxvy/information_about_diggibyte_technologies/) | u/Select_Flatworm_9538 | Opinion | text | 2 | 0 | live | — |
-| 30 | 2026-11-05 | [Databricks professional cert](https://www.reddit.com/r/dataengineersindia/comments/1xojufv/databricks_professional_cert/) | u/Hairy_Team_30 | General | text | 6 | 1 | live | — |
-| 31 | 2026-11-05 | [Snowflake L1intervirw](https://www.reddit.com/r/dataengineersindia/comments/1xojdjy/snowflake_l1intervirw/) | u/optimist7219 | General | text | 3 | 0 | live | — |
-| 32 | 2026-11-05 | [Snowflake Mentors](https://www.reddit.com/r/dataengineersindia/comments/1xojc60/snowflake_mentors/) | u/optimist7219 | Career Question | text | 2 | 0 | live | — |
-| 33 | 2026-11-05 | [Epam data engineer role](https://www.reddit.com/r/dataengineersindia/comments/1xoj6rx/epam_data_engineer_role/) | u/scrop_ian | Career Question | text | 9 | 9 | live | — |
-| 34 | 2026-11-05 | [Have interview in 24hrs pls help 😭 (data engineer)](https://www.reddit.com/r/dataengineersindia/comments/1xogz91/have_interview_in_24hrs_pls_help_data_engineer/) | u/Dry-Positive-1021 | Technical Doubt | reddit.com | 3 | 2 | live | — |
-| 35 | 2026-11-05 | [Hiring: Freelance Senior Data Architect / Analytics Engineer](https://www.reddit.com/r/dataengineersindia/comments/1xodhdh/hiring_freelance_senior_data_architect_analytics/) | u/Sea-Forever3053 | General | reddit.com | 2 | 0 | live | — |
-| 36 | 2026-11-05 | [career direction after multiple job switches](https://www.reddit.com/r/dataengineersindia/comments/1xocbqz/career_direction_after_multiple_job_switches/) | u/Illustrious_Art4261 | Career Question | reddit.com | 1 | 0 | live | — |
-| 37 | 2026-11-05 | [DP-750 certification resources and doubts](https://www.reddit.com/r/dataengineersindia/comments/1xobq7b/dp750_certification_resources_and_doubts/) | u/void__index | General | text | 8 | 2 | live | — |
-| 38 | 2026-11-05 | [Laid off after 7+ years in QA — Should I focus on getting another QA/SDET job or transition to Data Engineeri…](https://www.reddit.com/r/dataengineersindia/comments/1xo7n6k/laid_off_after_7_years_in_qa_should_i_focus_on/) | u/Any-Advertising7892 | Career Question | reddit.com | 3 | 0 | live | — |
-| 39 | 2026-11-05 | [PWC Interview L1 experience - Senior Associate (Aws data engineer)](https://www.reddit.com/r/dataengineersindia/comments/1xo6c1w/pwc_interview_l1_experience_senior_associate_aws/) | u/Zealousideal-Cod-617 | General | text | 23 | 8 | live | — |
-| 40 | 2026-11-04 | [2.5 YoE Immediate Joiner](https://www.reddit.com/r/dataengineersindia/comments/1xnz9pu/25_yoe_immediate_joiner/) | u/Maximus_meredius | Seeking referral | text | 4 | 6 | live | — |
-| 41 | 2026-11-04 | [Ran an AI agent against 146M rows and a 619-table ERP on Databricks. Disclosure: I built it. Here's what brok…](https://www.reddit.com/r/dataengineersindia/comments/1xnwjmv/ran_an_ai_agent_against_146m_rows_and_a_619table/) | u/No_Advertising2536 | Built something! | text | 5 | 1 | live | — |
-| 42 | 2026-11-04 | [Tyson Foods is good company for Data Engineering?](https://www.reddit.com/r/dataengineersindia/comments/1xnrmox/tyson_foods_is_good_company_for_data_engineering/) | u/Fit-Finance-9553 | Career Question | text | 3 | 0 | live | — |
-| 43 | 2026-11-04 | [Got an 83% hike to join a 20-people startup. Would you make the switch?](https://www.reddit.com/r/dataengineersindia/comments/1xnpl8h/got_an_83_hike_to_join_a_20people_startup_would/) | u/Garam_Aande | Career Question | reddit.com | 2 | 1 | live | — |
-| 44 | 2026-11-04 | [Help regarding KPMGGS](https://www.reddit.com/r/dataengineersindia/comments/1xnp2gf/help_regarding_kpmggs/) | u/optimist7219 | Career Question | text | 2 | 0 | live | — |
-| 45 | 2026-11-04 | [Snowflake Mentors](https://www.reddit.com/r/dataengineersindia/comments/1xno03k/snowflake_mentors/) | u/optimist7219 | Career Question | text | 5 | 2 | live | — |
-| 46 | 2026-11-04 | [I can refer in LTM/ LTIMindtree](https://www.reddit.com/r/dataengineersindia/comments/1xnlrpn/i_can_refer_in_ltm_ltimindtree/) | u/rithesh7070 | General | text | 5 | 5 | live | — |
-| 47 | 2026-11-04 | [Data Engineer - Looking for suggestions](https://www.reddit.com/r/dataengineersindia/comments/1xnkmhd/data_engineer_looking_for_suggestions/) | u/North_Plane1910 | Career Question | reddit.com | 2 | 0 | live | — |
-| 48 | 2026-11-04 | [For 15+ years experience, role of data architect, transunion good company to join?](https://www.reddit.com/r/dataengineersindia/comments/1xnk7um/for_15_years_experience_role_of_data_architect/) | u/Unable_Lie_666 | General | text | 3 | 0 | live | — |
-| 49 | 2026-11-04 | [Want to understand why product based why not service based](https://www.reddit.com/r/dataengineersindia/comments/1xnjrhh/want_to_understand_why_product_based_why_not/) | u/Impossible_Essay_450 | Opinion | text | 14 | 28 | live | — |
-| 50 | 2026-11-04 | [Urgent: Looking for Data Engineering Opportunities \| Nearly 3 YOE](https://www.reddit.com/r/dataengineersindia/comments/1xnj2mh/urgent_looking_for_data_engineering_opportunities/) | u/the_gamer_ronak | Seeking referral | reddit.com | 2 | 0 | live | — |
+| 1 | 2026-11-07 | [Can I pass Databricks Data Engineer Associate in 15 days with no prior experience?](#post-1) | u/False_Square1734 | Career Question | text | 7 | 4 | live | — |
+| 2 | 2026-11-07 | [Seeking referrals for my elder brother \| 6 YOE \| Java Full Stack Developer \| Open to Opportunities](#post-2) | u/Warm-Writer-7860 | Seeking referral | text | 3 | 0 | live | — |
+| 3 | 2026-11-06 | [EY GCP data engineer](#post-3) | u/Professional_Mix5740 | Career Question | text | 4 | 0 | live | — |
+| 4 | 2026-11-06 | [Need online data engineer tutors..](#post-4) | u/Prudhvi495 | General | text | 6 | 1 | live | — |
+| 5 | 2026-11-06 | [interview Prep Material](#post-5) | u/Visible-Ganache-3721 | General | i.redd.it | 1 | 0 | live | — |
+| 6 | 2026-11-06 | [\[Hiring\] Thoughtworks \| 8 Openings \| India 🇮🇳](#post-6) | u/Dev_Monarch | General | reddit.com | 1 | 0 | live | — |
+| 7 | 2026-11-06 | [Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?](#post-7) | u/Visible-Lie8505 | Technical Doubt | text | 3 | 1 | live | — |
+| 8 | 2026-11-06 | [Free Databricks Data Engineer Professional prep playlist (exam-style MCQs)](#post-8) | u/Lonely-Vacation-6447 | General | i.redd.it | 10 | 0 | live | — |
+| 9 | 2026-11-06 | [I'm confused, pls help!](#post-9) | u/Zealousideal-Cod-617 | Career Question | text | 3 | 25 | live | — |
+| 10 | 2026-11-06 | [How do tech recruiters & hiring managers evaluate candidates with 2 years of ETL experience (Informatica, SQL…](#post-10) | u/Choice_Web_8914 | Career Question | reddit.com | 2 | 0 | live | — |
+| 11 | 2026-11-06 | [Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?](#post-11) | u/Visible-Lie8505 | Technical Doubt | reddit.com | 2 | 0 | live | — |
+| 12 | 2026-11-06 | [Looking for Data Engineer Mock Interview Partners](#post-12) | u/Inevitable-Aioli-612 | General | text | 10 | 11 | live | — |
+| 13 | 2026-11-06 | [What is this budget 😭](#post-13) | u/Signal-Leopard-8112 | General | i.redd.it | 18 | 3 | live | — |
+| 14 | 2026-11-06 | [Hey, Anyone given the online assessment for Vivanti?](#post-14) | u/pariharkuku | Career Question | text | 6 | 6 | live | — |
+| 15 | 2026-11-06 | [v4c.ai virtual interview](#post-15) | u/DecodeAnything | General | text | 1 | 0 | spam-filtered | — |
+| 16 | 2026-11-06 | [v4c.ai virtual interview](#post-16) | u/Healthy-Message-9313 | General | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-11-06 | [How is EPAM India? Senior Data Engineer (A3) – 26 LPA 5YOE](#post-17) | u/Relative_Addition754 | Career Question | text | 31 | 27 | live | — |
+| 18 | 2026-11-06 | [Hey I am TYBSC Computer Student any Advice for how to get into Data engineering field as fresher in today's e…](#post-18) | u/BetaDataGuy | Career Question | text | 3 | 1 | live | — |
+| 19 | 2026-11-06 | [Google Data Engineer Fresher](#post-19) | u/Secure-Tax3123 | Technical Doubt | text | 5 | 1 | live | — |
+| 20 | 2026-11-06 | [Stuck in my current organisation (7+ YOE)](#post-20) | u/1bb35 | Career Question | text | 19 | 24 | live | — |
+| 21 | 2026-11-06 | [NIQ Chennai](#post-21) | u/meloww143 | Career Question | text | 3 | 0 | live | — |
+| 22 | 2026-11-05 | [​\[Offer Advice\] Got a Data & AI Internship at ADM (Manyata, BLR) for 40k stipend. What is the FTE conversion…](#post-22) | u/quinZ006 | Career Question | reddit.com | 3 | 0 | live | — |
+| 23 | 2026-11-05 | [System design interview](#post-23) | u/Top_Singer456 | Opinion | text | 9 | 1 | live | — |
+| 24 | 2026-11-05 | [Will give first month salary, if anyone helps me get a 15Lpa job.](#post-24) | u/seawaves22 | Seeking referral | i.redd.it | 0 | 4 | live | — |
+| 25 | 2026-11-05 | [job need at Bangalore](#post-25) | u/Prit_Code_76 | Seeking referral | text | 2 | 0 | live | — |
+| 26 | 2026-11-05 | [Google Data Engineer Interview](#post-26) | u/Fantastic-Chef7139 | Technical Doubt | text | 7 | 2 | live | — |
+| 27 | 2026-11-05 | [B. Tech Graduate (2018) Looking to Restart My Career in IT – Need Career Guidance](#post-27) | u/ritarajdi1 | Career Question | text | 3 | 3 | live | — |
+| 28 | 2026-11-05 | [Advice needed \| Scenario based questions](#post-28) | u/No_Agency_5598 | General | text | 9 | 13 | live | — |
+| 29 | 2026-11-05 | [Information about Diggibyte Technologies](#post-29) | u/Select_Flatworm_9538 | Opinion | text | 2 | 0 | live | — |
+| 30 | 2026-11-05 | [Databricks professional cert](#post-30) | u/Hairy_Team_30 | General | text | 6 | 1 | live | — |
+| 31 | 2026-11-05 | [Snowflake L1intervirw](#post-31) | u/optimist7219 | General | text | 3 | 0 | live | — |
+| 32 | 2026-11-05 | [Snowflake Mentors](#post-32) | u/optimist7219 | Career Question | text | 2 | 0 | live | — |
+| 33 | 2026-11-05 | [Epam data engineer role](#post-33) | u/scrop_ian | Career Question | text | 9 | 9 | live | — |
+| 34 | 2026-11-05 | [Have interview in 24hrs pls help 😭 (data engineer)](#post-34) | u/Dry-Positive-1021 | Technical Doubt | reddit.com | 3 | 2 | live | — |
+| 35 | 2026-11-05 | [Hiring: Freelance Senior Data Architect / Analytics Engineer](#post-35) | u/Sea-Forever3053 | General | reddit.com | 2 | 0 | live | — |
+| 36 | 2026-11-05 | [career direction after multiple job switches](#post-36) | u/Illustrious_Art4261 | Career Question | reddit.com | 1 | 0 | live | — |
+| 37 | 2026-11-05 | [DP-750 certification resources and doubts](#post-37) | u/void__index | General | text | 8 | 2 | live | — |
+| 38 | 2026-11-05 | [Laid off after 7+ years in QA — Should I focus on getting another QA/SDET job or transition to Data Engineeri…](#post-38) | u/Any-Advertising7892 | Career Question | reddit.com | 3 | 0 | live | — |
+| 39 | 2026-11-05 | [PWC Interview L1 experience - Senior Associate (Aws data engineer)](#post-39) | u/Zealousideal-Cod-617 | General | text | 23 | 8 | live | — |
+| 40 | 2026-11-04 | [2.5 YoE Immediate Joiner](#post-40) | u/Maximus_meredius | Seeking referral | text | 4 | 6 | live | — |
+| 41 | 2026-11-04 | [Ran an AI agent against 146M rows and a 619-table ERP on Databricks. Disclosure: I built it. Here's what brok…](#post-41) | u/No_Advertising2536 | Built something! | text | 5 | 1 | live | — |
+| 42 | 2026-11-04 | [Tyson Foods is good company for Data Engineering?](#post-42) | u/Fit-Finance-9553 | Career Question | text | 3 | 0 | live | — |
+| 43 | 2026-11-04 | [Got an 83% hike to join a 20-people startup. Would you make the switch?](#post-43) | u/Garam_Aande | Career Question | reddit.com | 2 | 1 | live | — |
+| 44 | 2026-11-04 | [Help regarding KPMGGS](#post-44) | u/optimist7219 | Career Question | text | 2 | 0 | live | — |
+| 45 | 2026-11-04 | [Snowflake Mentors](#post-45) | u/optimist7219 | Career Question | text | 5 | 2 | live | — |
+| 46 | 2026-11-04 | [I can refer in LTM/ LTIMindtree](#post-46) | u/rithesh7070 | General | text | 5 | 5 | live | — |
+| 47 | 2026-11-04 | [Data Engineer - Looking for suggestions](#post-47) | u/North_Plane1910 | Career Question | reddit.com | 2 | 0 | live | — |
+| 48 | 2026-11-04 | [For 15+ years experience, role of data architect, transunion good company to join?](#post-48) | u/Unable_Lie_666 | General | text | 3 | 0 | live | — |
+| 49 | 2026-11-04 | [Want to understand why product based why not service based](#post-49) | u/Impossible_Essay_450 | Opinion | text | 14 | 28 | live | — |
+| 50 | 2026-11-04 | [Urgent: Looking for Data Engineering Opportunities \| Nearly 3 YOE](#post-50) | u/the_gamer_ronak | Seeking referral | reddit.com | 2 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -103,34 +103,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-11 | [I've mentored a lot of people for DE interviews in India. Here's a free list of what keeps getting asked](https://www.reddit.com/r/dataengineersindia/comments/1x2ul2m/ive_mentored_a_lot_of_people_for_de_interviews_in/) | u/IamculpritforDE | General | text | 151 | 16 | live |
-| 52 | 2026-10-30 | [5.2 yrs of experience not a single call since 3 months](https://www.reddit.com/r/dataengineersindia/comments/1xjdqiz/52_yrs_of_experience_not_a_single_call_since_3/) | u/Remarkable-Gas2966 | Resume Review | i.redd.it | 120 | 130 | live |
-| 53 | 2026-10-13 | [Salary slips are just magic tricks with worse lighting](https://www.reddit.com/r/dataengineersindia/comments/1x53os6/salary_slips_are_just_magic_tricks_with_worse/) | u/SubstantialEnd2539 | Rant! | i.redd.it | 72 | 19 | live |
-| 54 | 2026-10-27 | [\[Seeking Referrals\] 6 Months Unemployed \| Data Engineer \| Immediate Joiner](https://www.reddit.com/r/dataengineersindia/comments/1xgnc0s/seeking_referrals_6_months_unemployed_data/) | u/hsgiri1 | Seeking referral | i.redd.it | 71 | 39 | live |
-| 55 | 2026-10-20 | [Looking for Serious Study Partners – Data Engineering Prep 🚀](https://www.reddit.com/r/dataengineersindia/comments/1xao3uu/looking_for_serious_study_partners_data/) | u/saurabh-0077 | General | text | 50 | 73 | live |
-| 56 | 2026-10-25 | [Senior Data Engineer \| ₹25 LPA \| Pune — What salary should I target when switching? Can you tell yours story ?](https://www.reddit.com/r/dataengineersindia/comments/1xf2yfg/senior_data_engineer_25_lpa_pune_what_salary/) | u/Impossible_Essay_450 | Career Question | text | 48 | 9 | live |
-| 57 | 2026-10-22 | [I fucked up in my job search.](https://www.reddit.com/r/dataengineersindia/comments/1xcdkdx/i_fucked_up_in_my_job_search/) | u/hanz_gruber | Seeking referral | text | 45 | 46 | live |
-| 58 | 2026-11-04 | [5+ YoE Data Engineer \| Help selecting the offer](https://www.reddit.com/r/dataengineersindia/comments/1xngbv1/5_yoe_data_engineer_help_selecting_the_offer/) | u/Low-Positive-2486 | Career Question | text | 39 | 20 | live |
-| 59 | 2026-10-14 | [Data Engineering Notes(Basics)](https://www.reddit.com/r/dataengineersindia/comments/1x5l4sp/data_engineering_notesbasics/) | u/ApprehensiveFee2799 | General | text | 39 | 5 | live |
-| 60 | 2026-10-18 | [Do not apply jobs at Persistent to save your mental health!](https://www.reddit.com/r/dataengineersindia/comments/1x8zirb/do_not_apply_jobs_at_persistent_to_save_your/) | u/Motor-Welder-9238 | Rant! | text | 38 | 19 | live |
-| 61 | 2026-10-12 | [Openings in our company - reach out for referral](https://www.reddit.com/r/dataengineersindia/comments/1x3zz7a/openings_in_our_company_reach_out_for_referral/) | u/rithesh7070 | Seeking referral | text | 37 | 60 | live |
-| 62 | 2026-10-21 | [Friend struggles in interviews but gets 30 calls/day. I clear technical rounds easily (9/13 cleared) but bare…](https://www.reddit.com/r/dataengineersindia/comments/1xbigaq/friend_struggles_in_interviews_but_gets_30/) | u/kurianabraham | General | text | 36 | 45 | live |
-| 63 | 2026-11-02 | [General Advice to those who are new to Data](https://www.reddit.com/r/dataengineersindia/comments/1xm337c/general_advice_to_those_who_are_new_to_data/) | u/Motor-Welder-9238 | General | text | 36 | 7 | live |
-| 17 | 2026-11-06 | [How is EPAM India? Senior Data Engineer (A3) – 26 LPA 5YOE](https://www.reddit.com/r/dataengineersindia/comments/1xp517n/how_is_epam_india_senior_data_engineer_a3_26_lpa/) | u/Relative_Addition754 | Career Question | text | 31 | 27 | live |
-| 64 | 2026-10-11 | [Offer comparison](https://www.reddit.com/r/dataengineersindia/comments/1x3adl9/offer_comparison/) | u/Total_Goat2331 | Opinion | text | 30 | 15 | live |
-| 65 | 2026-10-19 | [\[Hiring\] Data Engineer at a seed-funded healthcare automation startup (Bengaluru, Rs 22-24 LPA)](https://www.reddit.com/r/dataengineersindia/comments/1x9yu53/hiring_data_engineer_at_a_seedfunded_healthcare/) | u/Successful-Estate470 | General | text | 26 | 4 | live |
-| 66 | 2026-10-17 | [EPAM vs Deloitte — which one should I choose?](https://www.reddit.com/r/dataengineersindia/comments/1x8acfa/epam_vs_deloitte_which_one_should_i_choose/) | u/OutrageousAnalyst852 | Career Question | text | 25 | 44 | live |
-| 67 | 2026-10-20 | [Data Engineer (3.6 YOE, Azure/Databricks) job hunting for 2 months, getting calls but stuck on 90-day notice…](https://www.reddit.com/r/dataengineersindia/comments/1xasurq/data_engineer_36_yoe_azuredatabricks_job_hunting/) | u/learner_dataengineer | Career Question | text | 25 | 8 | live |
-| 68 | 2026-10-24 | [Data Engineers who have worked on migration projects, can you share your experience?](https://www.reddit.com/r/dataengineersindia/comments/1xefeow/data_engineers_who_have_worked_on_migration/) | u/Fine-Many-7656 | General | text | 25 | 6 | live |
-| 69 | 2026-10-25 | [Check this post before joining YipitData India (Edison)](https://www.reddit.com/r/dataengineersindia/comments/1xevn13/check_this_post_before_joining_yipitdata_india/) | u/Used-Chemist-1916 | Rant! | text | 25 | 1 | live |
+| 51 | 2026-10-11 | [I've mentored a lot of people for DE interviews in India. Here's a free list of what keeps getting asked](#post-51) | u/IamculpritforDE | General | text | 151 | 16 | live |
+| 52 | 2026-10-30 | [5.2 yrs of experience not a single call since 3 months](#post-52) | u/Remarkable-Gas2966 | Resume Review | i.redd.it | 120 | 130 | live |
+| 53 | 2026-10-13 | [Salary slips are just magic tricks with worse lighting](#post-53) | u/SubstantialEnd2539 | Rant! | i.redd.it | 72 | 19 | live |
+| 54 | 2026-10-27 | [\[Seeking Referrals\] 6 Months Unemployed \| Data Engineer \| Immediate Joiner](#post-54) | u/hsgiri1 | Seeking referral | i.redd.it | 71 | 39 | live |
+| 55 | 2026-10-20 | [Looking for Serious Study Partners – Data Engineering Prep 🚀](#post-55) | u/saurabh-0077 | General | text | 50 | 73 | live |
+| 56 | 2026-10-25 | [Senior Data Engineer \| ₹25 LPA \| Pune — What salary should I target when switching? Can you tell yours story ?](#post-56) | u/Impossible_Essay_450 | Career Question | text | 48 | 9 | live |
+| 57 | 2026-10-22 | [I fucked up in my job search.](#post-57) | u/hanz_gruber | Seeking referral | text | 45 | 46 | live |
+| 58 | 2026-11-04 | [5+ YoE Data Engineer \| Help selecting the offer](#post-58) | u/Low-Positive-2486 | Career Question | text | 39 | 20 | live |
+| 59 | 2026-10-14 | [Data Engineering Notes(Basics)](#post-59) | u/ApprehensiveFee2799 | General | text | 39 | 5 | live |
+| 60 | 2026-10-18 | [Do not apply jobs at Persistent to save your mental health!](#post-60) | u/Motor-Welder-9238 | Rant! | text | 38 | 19 | live |
+| 61 | 2026-10-12 | [Openings in our company - reach out for referral](#post-61) | u/rithesh7070 | Seeking referral | text | 37 | 60 | live |
+| 62 | 2026-10-21 | [Friend struggles in interviews but gets 30 calls/day. I clear technical rounds easily (9/13 cleared) but bare…](#post-62) | u/kurianabraham | General | text | 36 | 45 | live |
+| 63 | 2026-11-02 | [General Advice to those who are new to Data](#post-63) | u/Motor-Welder-9238 | General | text | 36 | 7 | live |
+| 17 | 2026-11-06 | [How is EPAM India? Senior Data Engineer (A3) – 26 LPA 5YOE](#post-17) | u/Relative_Addition754 | Career Question | text | 31 | 27 | live |
+| 64 | 2026-10-11 | [Offer comparison](#post-64) | u/Total_Goat2331 | Opinion | text | 30 | 15 | live |
+| 65 | 2026-10-19 | [\[Hiring\] Data Engineer at a seed-funded healthcare automation startup (Bengaluru, Rs 22-24 LPA)](#post-65) | u/Successful-Estate470 | General | text | 26 | 4 | live |
+| 66 | 2026-10-17 | [EPAM vs Deloitte — which one should I choose?](#post-66) | u/OutrageousAnalyst852 | Career Question | text | 25 | 44 | live |
+| 67 | 2026-10-20 | [Data Engineer (3.6 YOE, Azure/Databricks) job hunting for 2 months, getting calls but stuck on 90-day notice…](#post-67) | u/learner_dataengineer | Career Question | text | 25 | 8 | live |
+| 68 | 2026-10-24 | [Data Engineers who have worked on migration projects, can you share your experience?](#post-68) | u/Fine-Many-7656 | General | text | 25 | 6 | live |
+| 69 | 2026-10-25 | [Check this post before joining YipitData India (Edison)](#post-69) | u/Used-Chemist-1916 | Rant! | text | 25 | 1 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Can I pass Databricks Data Engineer Associate in 15 days with no prior experience?
 
-2026-11-07 · u/False_Square1734 · Career Question · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpzo20/can_i_pass_databricks_data_engineer_associate_in/)
+2026-11-07 · u/False_Square1734 · Career Question · score 7 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpzo20/can_i_pass_databricks_data_engineer_associate_in/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -144,9 +146,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Would appreciate advice from people who recently passed the exam
 
+<a id="post-2"></a>
+
 ### 2. Seeking referrals for my elder brother \| 6 YOE \| Java Full Stack Developer \| Open to Opportunities
 
-2026-11-07 · u/Warm-Writer-7860 · Seeking referral · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpy7sr/seeking_referrals_for_my_elder_brother_6_yoe_java/)
+2026-11-07 · u/Warm-Writer-7860 · Seeking referral · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpy7sr/seeking_referrals_for_my_elder_brother_6_yoe_java/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,  
 > My elder brother was recently impacted by layoffs and is actively looking for his next opportunity.  
@@ -163,15 +167,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > **Any leads, referrals, or even suggestions would mean a lot.**  
 > Thanks in advance, everyone!
 
+<a id="post-3"></a>
+
 ### 3. EY GCP data engineer
 
-2026-11-06 · u/Professional_Mix5740 · Career Question · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpo1z1/ey_gcp_data_engineer/)
+2026-11-06 · u/Professional_Mix5740 · Career Question · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpo1z1/ey_gcp_data_engineer/) · [↑ back to the list](#last-50-posts)
 
 > Hi there , Has anyone given Interview at EY recently for  GCP data engineer?  Please let me know
 
+<a id="post-4"></a>
+
 ### 4. Need online data engineer tutors..
 
-2026-11-06 · u/Prudhvi495 · General · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpmifw/need_online_data_engineer_tutors/)
+2026-11-06 · u/Prudhvi495 · General · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpmifw/need_online_data_engineer_tutors/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -183,9 +191,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thank you!
 
+<a id="post-5"></a>
+
 ### 5. interview Prep Material
 
-2026-11-06 · u/Visible-Ganache-3721 · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpf8hj/interview_prep_material/)
+2026-11-06 · u/Visible-Ganache-3721 · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpf8hj/interview_prep_material/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0x69v3ynd00i1.jpeg>
 
@@ -193,16 +203,20 @@ Link: <https://i.redd.it/0x69v3ynd00i1.jpeg>
 >
 > If interested please DM.
 
+<a id="post-6"></a>
+
 ### 6. \[Hiring\] Thoughtworks \| 8 Openings \| India 🇮🇳
 
-2026-11-06 · u/Dev_Monarch · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbjm5/hiring_thoughtworks_8_openings_india/)
+2026-11-06 · u/Dev_Monarch · General · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbjm5/hiring_thoughtworks_8_openings_india/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xpbjfw/hiring_thoughtworks_8_openings_india/>
 
 
+<a id="post-7"></a>
+
 ### 7. Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?
 
-2026-11-06 · u/Visible-Lie8505 · Technical Doubt · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbiya/tiger_analytics_bi_powerbi_2025_new_60minute/)
+2026-11-06 · u/Visible-Lie8505 · Technical Doubt · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbiya/tiger_analytics_bi_powerbi_2025_new_60minute/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -232,9 +246,11 @@ Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xpbjfw/hiring_thou
 >
 > Thanks!
 
+<a id="post-8"></a>
+
 ### 8. Free Databricks Data Engineer Professional prep playlist (exam-style MCQs)
 
-2026-11-06 · u/Lonely-Vacation-6447 · General · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbigt/free_databricks_data_engineer_professional_prep/)
+2026-11-06 · u/Lonely-Vacation-6447 · General · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbigt/free_databricks_data_engineer_professional_prep/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/k1s50usjjzzh1.jpeg>
 
@@ -246,9 +262,11 @@ Link: <https://i.redd.it/k1s50usjjzzh1.jpeg>
 >
 > More videos are coming, so subscribe if you want to follow along.
 
+<a id="post-9"></a>
+
 ### 9. I'm confused, pls help!
 
-2026-11-06 · u/Zealousideal-Cod-617 · Career Question · score 3 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbh4s/im_confused_pls_help/)
+2026-11-06 · u/Zealousideal-Cod-617 · Career Question · score 3 · 25 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpbh4s/im_confused_pls_help/) · [↑ back to the list](#last-50-posts)
 
 > I have been aggressively applying since last 3 months.
 >
@@ -272,23 +290,29 @@ Link: <https://i.redd.it/k1s50usjjzzh1.jpeg>
 >
 > My CTC  , ECTC is not relevant to this question so please don't ask here. If u can give any advice or any suggestions, youre most welcome.
 
+<a id="post-10"></a>
+
 ### 10. How do tech recruiters & hiring managers evaluate candidates with 2 years of ETL experience (Informatica, SQL, Oracle) followed by a 3-year career gap & what skills matter most when hiring for data engineering roles in 2026?
 
-2026-11-06 · u/Choice_Web_8914 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpb5wq/how_do_tech_recruiters_hiring_managers_evaluate/)
+2026-11-06 · u/Choice_Web_8914 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpb5wq/how_do_tech_recruiters_hiring_managers_evaluate/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AskReddit/comments/1xpb5j7/how_do_tech_recruiters_hiring_managers_evaluate/>
 
 
+<a id="post-11"></a>
+
 ### 11. Tiger Analytics – BI_PowerBI_2025_New (60-Minute Assessment) – Anyone Attended Recently?
 
-2026-11-06 · u/Visible-Lie8505 · Technical Doubt · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpavsx/tiger_analytics_bi_powerbi_2025_new_60minute/)
+2026-11-06 · u/Visible-Lie8505 · Technical Doubt · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xpavsx/tiger_analytics_bi_powerbi_2025_new_60minute/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/TechInterviewsIndia/comments/1xpavhm/tiger_analytics_bi_powerbi_2025_new_60minute/>
 
 
+<a id="post-12"></a>
+
 ### 12. Looking for Data Engineer Mock Interview Partners
 
-2026-11-06 · u/Inevitable-Aioli-612 · General · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp8b8r/looking_for_data_engineer_mock_interview_partners/)
+2026-11-06 · u/Inevitable-Aioli-612 · General · score 10 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp8b8r/looking_for_data_engineer_mock_interview_partners/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -328,17 +352,21 @@ Link: <https://www.reddit.com/r/TechInterviewsIndia/comments/1xpavhm/tiger_analy
 >
 > Thanks!
 
+<a id="post-13"></a>
+
 ### 13. What is this budget 😭
 
-2026-11-06 · u/Signal-Leopard-8112 · General · score 18 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp839s/what_is_this_budget/)
+2026-11-06 · u/Signal-Leopard-8112 · General · score 18 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp839s/what_is_this_budget/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wgzp8ibyhyzh1.jpeg>
 
 > Sorry but i find it so funny 🤣
 
+<a id="post-14"></a>
+
 ### 14. Hey, Anyone given the online assessment for Vivanti?
 
-2026-11-06 · u/pariharkuku · Career Question · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp6lw3/hey_anyone_given_the_online_assessment_for_vivanti/)
+2026-11-06 · u/pariharkuku · Career Question · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp6lw3/hey_anyone_given_the_online_assessment_for_vivanti/) · [↑ back to the list](#last-50-posts)
 
 > Has anyone recently taken the Vivanti online technical assessment for a Data Engineer role? How was it?
 >
@@ -346,21 +374,27 @@ Link: <https://i.redd.it/wgzp8ibyhyzh1.jpeg>
 >
 > Any insights on the difficulty level and preparation tips would be appreciated. Thanks!
 
+<a id="post-15"></a>
+
 ### 15. v4c.ai virtual interview
 
-2026-11-06 · u/DecodeAnything · General · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp5l9p/v4cai_virtual_interview/)
+2026-11-06 · u/DecodeAnything · General · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp5l9p/v4cai_virtual_interview/) · [↑ back to the list](#last-50-posts)
 
 > Has anyone given v4c.ai virtual interview for round 3 and received results?
 
+<a id="post-16"></a>
+
 ### 16. v4c.ai virtual interview
 
-2026-11-06 · u/Healthy-Message-9313 · General · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp5jev/v4cai_virtual_interview/)
+2026-11-06 · u/Healthy-Message-9313 · General · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp5jev/v4cai_virtual_interview/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. How is EPAM India? Senior Data Engineer (A3) – 26 LPA 5YOE
 
-2026-11-06 · u/Relative_Addition754 · Career Question · score 31 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp517n/how_is_epam_india_senior_data_engineer_a3_26_lpa/)
+2026-11-06 · u/Relative_Addition754 · Career Question · score 31 · 27 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp517n/how_is_epam_india_senior_data_engineer_a3_26_lpa/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -384,15 +418,19 @@ Link: <https://i.redd.it/wgzp8ibyhyzh1.jpeg>
 >
 > Any honest feedback would be appreciated. Thanks!
 
+<a id="post-18"></a>
+
 ### 18. Hey I am TYBSC Computer Student any Advice for how to get into Data engineering field as fresher in today's era
 
-2026-11-06 · u/BetaDataGuy · Career Question · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp4cxc/hey_i_am_tybsc_computer_student_any_advice_for/)
+2026-11-06 · u/BetaDataGuy · Career Question · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp4cxc/hey_i_am_tybsc_computer_student_any_advice_for/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-19"></a>
+
 ### 19. Google Data Engineer Fresher
 
-2026-11-06 · u/Secure-Tax3123 · Technical Doubt · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp2ujc/google_data_engineer_fresher/)
+2026-11-06 · u/Secure-Tax3123 · Technical Doubt · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp2ujc/google_data_engineer_fresher/) · [↑ back to the list](#last-50-posts)
 
 > It has been a week since I gave GHA for Google, and passed exam, didn't hear anything back.
 >
@@ -400,9 +438,11 @@ Link: <https://i.redd.it/wgzp8ibyhyzh1.jpeg>
 >
 > I am practicing sql and python dsa regularly.
 
+<a id="post-20"></a>
+
 ### 20. Stuck in my current organisation (7+ YOE)
 
-2026-11-06 · u/1bb35 · Career Question · score 19 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp0mzf/stuck_in_my_current_organisation_7_yoe/)
+2026-11-06 · u/1bb35 · Career Question · score 19 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp0mzf/stuck_in_my_current_organisation_7_yoe/) · [↑ back to the list](#last-50-posts)
 
 > I am gurgaon based Data Engineer with 7+ YoE (30 LPA fixed) with a remote job.
 >
@@ -417,35 +457,45 @@ Link: <https://i.redd.it/wgzp8ibyhyzh1.jpeg>
 >
 > Badly need to switch now! Any help would be appreciated
 
+<a id="post-21"></a>
+
 ### 21. NIQ Chennai
 
-2026-11-06 · u/meloww143 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp0kfz/niq_chennai/)
+2026-11-06 · u/meloww143 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xp0kfz/niq_chennai/) · [↑ back to the list](#last-50-posts)
 
 > How's the work environment and can we switch roles from data analyst to data engineer by gaining knowledge or years of experience....?
 
+<a id="post-22"></a>
+
 ### 22. ​\[Offer Advice\] Got a Data & AI Internship at ADM (Manyata, BLR) for 40k stipend. What is the FTE conversion rate and salary like?
 
-2026-11-05 · u/quinZ006 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xowdc0/offer_advice_got_a_data_ai_internship_at_adm/)
+2026-11-05 · u/quinZ006 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xowdc0/offer_advice_got_a_data_ai_internship_at_adm/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PlacementsPrep/comments/1xowb6e/offer_advice_got_a_data_ai_internship_at_adm/>
 
 
+<a id="post-23"></a>
+
 ### 23. System design interview
 
-2026-11-05 · u/Top_Singer456 · Opinion · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xornnz/system_design_interview/)
+2026-11-05 · u/Top_Singer456 · Opinion · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xornnz/system_design_interview/) · [↑ back to the list](#last-50-posts)
 
 > I am having 8 years of experience. I haven’t been a part of system design round till date So want to prepare. Any idea how to prepare for system design round? What materials should I refer?
 
+<a id="post-24"></a>
+
 ### 24. Will give first month salary, if anyone helps me get a 15Lpa job.
 
-2026-11-05 · u/seawaves22 · Seeking referral · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoqh6y/will_give_first_month_salary_if_anyone_helps_me/)
+2026-11-05 · u/seawaves22 · Seeking referral · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoqh6y/will_give_first_month_salary_if_anyone_helps_me/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 
 
+<a id="post-25"></a>
+
 ### 25. job need at Bangalore
 
-2026-11-05 · u/Prit_Code_76 · Seeking referral · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoq6j6/job_need_at_bangalore/)
+2026-11-05 · u/Prit_Code_76 · Seeking referral · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoq6j6/job_need_at_bangalore/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -467,15 +517,19 @@ Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 >
 > **Looking for:** Data Engineering, Production/Application Support or Technical Support roles. I can join within 30 days.
 
+<a id="post-26"></a>
+
 ### 26. Google Data Engineer Interview
 
-2026-11-05 · u/Fantastic-Chef7139 · Technical Doubt · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xopp0u/google_data_engineer_interview/)
+2026-11-05 · u/Fantastic-Chef7139 · Technical Doubt · score 7 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xopp0u/google_data_engineer_interview/) · [↑ back to the list](#last-50-posts)
 
 > I have cleared the recruiter screen and Role Related Knowledge interview. Next I have is Coding interview. Can someone please guide me what I can expect in this interview?
 
+<a id="post-27"></a>
+
 ### 27. B. Tech Graduate (2018) Looking to Restart My Career in IT – Need Career Guidance
 
-2026-11-05 · u/ritarajdi1 · Career Question · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xooy6g/b_tech_graduate_2018_looking_to_restart_my_career/)
+2026-11-05 · u/ritarajdi1 · Career Question · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xooy6g/b_tech_graduate_2018_looking_to_restart_my_career/) · [↑ back to the list](#last-50-posts)
 
 > I completed my  B .Tech in Computer Science in 2018. Although I haven't started my professional career yet, I'm now actively working towards building one in Data Analytics.
 >
@@ -491,9 +545,11 @@ Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 >
 > Thank you!
 
+<a id="post-28"></a>
+
 ### 28. Advice needed \| Scenario based questions
 
-2026-11-05 · u/No_Agency_5598 · General · score 9 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xokqvt/advice_needed_scenario_based_questions/)
+2026-11-05 · u/No_Agency_5598 · General · score 9 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xokqvt/advice_needed_scenario_based_questions/) · [↑ back to the list](#last-50-posts)
 
 > Hi all,
 >
@@ -505,9 +561,11 @@ Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 >
 > What should be my daily approach to get good command on scenario based qs if anyone has come across similar situation.
 
+<a id="post-29"></a>
+
 ### 29. Information about Diggibyte Technologies
 
-2026-11-05 · u/Select_Flatworm_9538 · Opinion · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojxvy/information_about_diggibyte_technologies/)
+2026-11-05 · u/Select_Flatworm_9538 · Opinion · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojxvy/information_about_diggibyte_technologies/) · [↑ back to the list](#last-50-posts)
 
 > Is anyone here from Diggibyte Technologies or does anyone have any idea about them? I got a call from HR about a possible interview situation and I wanted to know more about the company. It seems to be a startup in the service sector which is focused on databricks. Other than that I don't have much information .
 >
@@ -524,29 +582,37 @@ Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 >
 > TIA
 
+<a id="post-30"></a>
+
 ### 30. Databricks professional cert
 
-2026-11-05 · u/Hairy_Team_30 · General · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojufv/databricks_professional_cert/)
+2026-11-05 · u/Hairy_Team_30 · General · score 6 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojufv/databricks_professional_cert/) · [↑ back to the list](#last-50-posts)
 
 > Hola Engineers,
 >
 > Im preparing for Databricks professional data engineering cert. I need your help I'm preparing for exam very hard but still I have very less time so do anybody have exam dumps so please help me with that
 
+<a id="post-31"></a>
+
 ### 31. Snowflake L1intervirw
 
-2026-11-05 · u/optimist7219 · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojdjy/snowflake_l1intervirw/)
+2026-11-05 · u/optimist7219 · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojdjy/snowflake_l1intervirw/) · [↑ back to the list](#last-50-posts)
 
 > Is rejection informed from KPMG side either via call/mail?.If so how long does it take?Any info appreciated.This is for KPMG global
 
+<a id="post-32"></a>
+
 ### 32. Snowflake Mentors
 
-2026-11-05 · u/optimist7219 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojc60/snowflake_mentors/)
+2026-11-05 · u/optimist7219 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xojc60/snowflake_mentors/) · [↑ back to the list](#last-50-posts)
 
 > Any snowflake Mentors here kindly DM.SnowPro certified here,want to know the realistic path to be Snowflake Architect
 
+<a id="post-33"></a>
+
 ### 33. Epam data engineer role
 
-2026-11-05 · u/scrop_ian · Career Question · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoj6rx/epam_data_engineer_role/)
+2026-11-05 · u/scrop_ian · Career Question · score 9 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xoj6rx/epam_data_engineer_role/) · [↑ back to the list](#last-50-posts)
 
 > Last week hr called me and scheduled an interview with EPAM
 >
@@ -558,31 +624,39 @@ Link: <https://i.redd.it/vrtegury8uzh1.jpeg>
 >
 > what should I do now. Am having 2 kids. I don't have anyone in Bangalore . Is epam has geniune remote projects or its hybrid only . Can someone help
 
+<a id="post-34"></a>
+
 ### 34. Have interview in 24hrs pls help 😭 (data engineer)
 
-2026-11-05 · u/Dry-Positive-1021 · Technical Doubt · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xogz91/have_interview_in_24hrs_pls_help_data_engineer/)
+2026-11-05 · u/Dry-Positive-1021 · Technical Doubt · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xogz91/have_interview_in_24hrs_pls_help_data_engineer/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/TechInterviewsIndia/comments/1xogyt5/have_interview_in_24hrs_pls_help_data_engineer/>
 
 > Help me out
 
+<a id="post-35"></a>
+
 ### 35. Hiring: Freelance Senior Data Architect / Analytics Engineer
 
-2026-11-05 · u/Sea-Forever3053 · General · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xodhdh/hiring_freelance_senior_data_architect_analytics/)
+2026-11-05 · u/Sea-Forever3053 · General · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xodhdh/hiring_freelance_senior_data_architect_analytics/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xodgzi/hiring_freelance_senior_data_architect_analytics/>
 
 
+<a id="post-36"></a>
+
 ### 36. career direction after multiple job switches
 
-2026-11-05 · u/Illustrious_Art4261 · Career Question · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xocbqz/career_direction_after_multiple_job_switches/)
+2026-11-05 · u/Illustrious_Art4261 · Career Question · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xocbqz/career_direction_after_multiple_job_switches/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Career_Advice/comments/1xocbhm/career_direction_after_multiple_job_switches/>
 
 
+<a id="post-37"></a>
+
 ### 37. DP-750 certification resources and doubts
 
-2026-11-05 · u/void__index · General · score 8 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xobq7b/dp750_certification_resources_and_doubts/)
+2026-11-05 · u/void__index · General · score 8 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xobq7b/dp750_certification_resources_and_doubts/) · [↑ back to the list](#last-50-posts)
 
 > I have two weeks to take the DP 750 exam because i got the Microsoft voucher, I have knowledge on azure databricks, ADF, pyspark and delta lake.
 >
@@ -592,16 +666,20 @@ Link: <https://www.reddit.com/r/Career_Advice/comments/1xocbhm/career_direction_
 >
 > Any suggestions, study plans, resources or personal experiences would be greatly appreciated🫡
 
+<a id="post-38"></a>
+
 ### 38. Laid off after 7+ years in QA — Should I focus on getting another QA/SDET job or transition to Data Engineering? (Toronto, Canada)
 
-2026-11-05 · u/Any-Advertising7892 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xo7n6k/laid_off_after_7_years_in_qa_should_i_focus_on/)
+2026-11-05 · u/Any-Advertising7892 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xo7n6k/laid_off_after_7_years_in_qa_should_i_focus_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/QualityAssurance/comments/1xo7mrv/laid_off_after_7_years_in_qa_should_i_focus_on/>
 
 
+<a id="post-39"></a>
+
 ### 39. PWC Interview L1 experience - Senior Associate (Aws data engineer)
 
-2026-11-05 · u/Zealousideal-Cod-617 · General · score 23 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xo6c1w/pwc_interview_l1_experience_senior_associate_aws/)
+2026-11-05 · u/Zealousideal-Cod-617 · General · score 23 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xo6c1w/pwc_interview_l1_experience_senior_associate_aws/) · [↑ back to the list](#last-50-posts)
 
 > explain one major hurdle you face in morderninzing ( I had a modernization project in current company)
 >
@@ -625,9 +703,11 @@ Link: <https://www.reddit.com/r/QualityAssurance/comments/1xo7mrv/laid_off_after
 >
 > sql + pyspark  for getting customers who did transactions for last 3 consecutive days
 
+<a id="post-40"></a>
+
 ### 40. 2.5 YoE Immediate Joiner
 
-2026-11-04 · u/Maximus_meredius · Seeking referral · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnz9pu/25_yoe_immediate_joiner/)
+2026-11-04 · u/Maximus_meredius · Seeking referral · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnz9pu/25_yoe_immediate_joiner/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -655,9 +735,11 @@ Link: <https://www.reddit.com/r/QualityAssurance/comments/1xo7mrv/laid_off_after
 >
 > If you know of any openings or can offer a referral, please let me know. Happy to share my resume over DM!
 
+<a id="post-41"></a>
+
 ### 41. Ran an AI agent against 146M rows and a 619-table ERP on Databricks. Disclosure: I built it. Here's what broke.
 
-2026-11-04 · u/No_Advertising2536 · Built something! · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnwjmv/ran_an_ai_agent_against_146m_rows_and_a_619table/)
+2026-11-04 · u/No_Advertising2536 · Built something! · score 5 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnwjmv/ran_an_ai_agent_against_146m_rows_and_a_619table/) · [↑ back to the list](#last-50-posts)
 
 > Disclosure up front: I'm building this tool solo, so read with that in mind. Posting because the failures are more useful than the marketing.
 >
@@ -685,36 +767,46 @@ Link: <https://www.reddit.com/r/QualityAssurance/comments/1xo7mrv/laid_off_after
 >
 > Happy to share the reconciliation queries. And if you've run Data Vault on Databricks with AUTO CDC, I'd like to hear how you handled hubs staying append-only.
 
+<a id="post-42"></a>
+
 ### 42. Tyson Foods is good company for Data Engineering?
 
-2026-11-04 · u/Fit-Finance-9553 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnrmox/tyson_foods_is_good_company_for_data_engineering/)
+2026-11-04 · u/Fit-Finance-9553 · Career Question · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnrmox/tyson_foods_is_good_company_for_data_engineering/) · [↑ back to the list](#last-50-posts)
 
 > .
 
+<a id="post-43"></a>
+
 ### 43. Got an 83% hike to join a 20-people startup. Would you make the switch?
 
-2026-11-04 · u/Garam_Aande · Career Question · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnpl8h/got_an_83_hike_to_join_a_20people_startup_would/)
+2026-11-04 · u/Garam_Aande · Career Question · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnpl8h/got_an_83_hike_to_join_a_20people_startup_would/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/developersIndia/comments/1xnpkzm/got_an_83_hike_to_join_a_20people_startup_would/>
 
 
+<a id="post-44"></a>
+
 ### 44. Help regarding KPMGGS
 
-2026-11-04 · u/optimist7219 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnp2gf/help_regarding_kpmggs/)
+2026-11-04 · u/optimist7219 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnp2gf/help_regarding_kpmggs/) · [↑ back to the list](#last-50-posts)
 
 > Just want to know if they do send out rejection letters for people who attended L1interview?
 >
 > Anyone with any info is appreciated
 
+<a id="post-45"></a>
+
 ### 45. Snowflake Mentors
 
-2026-11-04 · u/optimist7219 · Career Question · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xno03k/snowflake_mentors/)
+2026-11-04 · u/optimist7219 · Career Question · score 5 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xno03k/snowflake_mentors/) · [↑ back to the list](#last-50-posts)
 
 > Any snowflake Mentors here kindly DM.SnowPro certified here,want to know the realistic path to be Snowflake Architect
 
+<a id="post-46"></a>
+
 ### 46. I can refer in LTM/ LTIMindtree
 
-2026-11-04 · u/rithesh7070 · General · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnlrpn/i_can_refer_in_ltm_ltimindtree/)
+2026-11-04 · u/rithesh7070 · General · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnlrpn/i_can_refer_in_ltm_ltimindtree/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -728,37 +820,47 @@ Link: <https://www.reddit.com/r/developersIndia/comments/1xnpkzm/got_an_83_hike_
 >
 > Wish you all the best.
 
+<a id="post-47"></a>
+
 ### 47. Data Engineer - Looking for suggestions
 
-2026-11-04 · u/North_Plane1910 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnkmhd/data_engineer_looking_for_suggestions/)
+2026-11-04 · u/North_Plane1910 · Career Question · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnkmhd/data_engineer_looking_for_suggestions/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xnkm4a/data_engineer_looking_for_suggestions/>
 
 
+<a id="post-48"></a>
+
 ### 48. For 15+ years experience, role of data architect, transunion good company to join?
 
-2026-11-04 · u/Unable_Lie_666 · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnk7um/for_15_years_experience_role_of_data_architect/)
+2026-11-04 · u/Unable_Lie_666 · General · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnk7um/for_15_years_experience_role_of_data_architect/) · [↑ back to the list](#last-50-posts)
 
 > Any idea about compensation?
 
+<a id="post-49"></a>
+
 ### 49. Want to understand why product based why not service based
 
-2026-11-04 · u/Impossible_Essay_450 · Opinion · score 14 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnjrhh/want_to_understand_why_product_based_why_not/)
+2026-11-04 · u/Impossible_Essay_450 · Opinion · score 14 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnjrhh/want_to_understand_why_product_based_why_not/) · [↑ back to the list](#last-50-posts)
 
 > If i joined service based and client is product based then how will be my wlb ?  
 > Think about witch and good bank as client.  
 > How it impacts wlb ?
 
+<a id="post-50"></a>
+
 ### 50. Urgent: Looking for Data Engineering Opportunities \| Nearly 3 YOE
 
-2026-11-04 · u/the_gamer_ronak · Seeking referral · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnj2mh/urgent_looking_for_data_engineering_opportunities/)
+2026-11-04 · u/the_gamer_ronak · Seeking referral · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xnj2mh/urgent_looking_for_data_engineering_opportunities/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xnj2ff/urgent_looking_for_data_engineering_opportunities/>
 
 
+<a id="post-51"></a>
+
 ### 51. I've mentored a lot of people for DE interviews in India. Here's a free list of what keeps getting asked
 
-2026-10-11 · u/IamculpritforDE · General · score 151 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x2ul2m/ive_mentored_a_lot_of_people_for_de_interviews_in/)
+2026-10-11 · u/IamculpritforDE · General · score 151 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x2ul2m/ive_mentored_a_lot_of_people_for_de_interviews_in/) · [↑ back to the list](#last-50-posts)
 
 > Some background so you know where this comes from. I'm Durgesh Yadav a Senior Data Engineer in Bangalore Ex- Target, I've given 20+ DA/DE interviews myself, and I've been mentoring people for these interviews for about four years.
 >
@@ -810,9 +912,11 @@ Link: <https://www.reddit.com/r/dataengineeringjobs/comments/1xnj2ff/urgent_look
 >
 > If you've interviewed recently, drop the question that surprised you and I'll add it to the list. I also have notes on most of these with solved answers, happy to share them free if it helps.
 
+<a id="post-52"></a>
+
 ### 52. 5.2 yrs of experience not a single call since 3 months
 
-2026-10-30 · u/Remarkable-Gas2966 · Resume Review · score 120 · 130 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xjdqiz/52_yrs_of_experience_not_a_single_call_since_3/)
+2026-10-30 · u/Remarkable-Gas2966 · Resume Review · score 120 · 130 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xjdqiz/52_yrs_of_experience_not_a_single_call_since_3/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/sdy6o6cejlyh1.jpeg>
 
@@ -826,17 +930,21 @@ Link: <https://i.redd.it/sdy6o6cejlyh1.jpeg>
 >
 > Please suggest me what am I doing wrong?
 
+<a id="post-53"></a>
+
 ### 53. Salary slips are just magic tricks with worse lighting
 
-2026-10-13 · u/SubstantialEnd2539 · Rant! · score 72 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x53os6/salary_slips_are_just_magic_tricks_with_worse/)
+2026-10-13 · u/SubstantialEnd2539 · Rant! · score 72 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x53os6/salary_slips_are_just_magic_tricks_with_worse/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/k2bkoe1kw9vh1.jpeg>
 
 > The number they promise is a fantasy. Gross sounds like a king's ransom until tax, PF, and gratuity show up like three uninvited cousins at a wedding, each taking a plate. Then in-hand arrives looking like it survived a bear attack. Still, we keep checking the payslip every month, like it's going to change its mind.
 
+<a id="post-54"></a>
+
 ### 54. \[Seeking Referrals\] 6 Months Unemployed \| Data Engineer \| Immediate Joiner
 
-2026-10-27 · u/hsgiri1 · Seeking referral · score 71 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xgnc0s/seeking_referrals_6_months_unemployed_data/)
+2026-10-27 · u/hsgiri1 · Seeking referral · score 71 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xgnc0s/seeking_referrals_6_months_unemployed_data/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/x76gwulx4zxh1.png>
 
@@ -878,9 +986,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 > **Mail**: [hsgiri.data@gmail.com](mailto:hsgiri.data@gmail.com)  
 > **Resume**: [My Resume](https://drive.google.com/file/d/1c7TnY1w_QBQoaPZr76rTCSaJzEQKdsxr/view?usp=sharing)
 
+<a id="post-55"></a>
+
 ### 55. Looking for Serious Study Partners – Data Engineering Prep 🚀
 
-2026-10-20 · u/saurabh-0077 · General · score 50 · 73 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xao3uu/looking_for_serious_study_partners_data/)
+2026-10-20 · u/saurabh-0077 · General · score 50 · 73 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xao3uu/looking_for_serious_study_partners_data/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! I’m a Senior Data Engineer with 5+ YOE, currently at 25+ LPA, preparing for Big Tech roles.
 >
@@ -893,9 +1003,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Interested? DM me your LinkedIn profile, and I’ll add you to the group.
 
+<a id="post-56"></a>
+
 ### 56. Senior Data Engineer \| ₹25 LPA \| Pune — What salary should I target when switching? Can you tell yours story ?
 
-2026-10-25 · u/Impossible_Essay_450 · Career Question · score 48 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xf2yfg/senior_data_engineer_25_lpa_pune_what_salary/)
+2026-10-25 · u/Impossible_Essay_450 · Career Question · score 48 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xf2yfg/senior_data_engineer_25_lpa_pune_what_salary/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,  
 > I’m currently working as a **Senior Data Engineer(expertise in python , sql, pyspark, aws) in Pune**, earning **₹25 LPA fixed**, and actively exploring new opportunities.  
@@ -908,9 +1020,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 > **Referrals:** What’s the best way to connect with employees and secure referrals at these companies?  
 > **Negotiation:** How do you handle recruiters who base their offers on your current CTC rather than your skills and the role’s budget?
 
+<a id="post-57"></a>
+
 ### 57. I fucked up in my job search.
 
-2026-10-22 · u/hanz_gruber · Seeking referral · score 45 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xcdkdx/i_fucked_up_in_my_job_search/)
+2026-10-22 · u/hanz_gruber · Seeking referral · score 45 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xcdkdx/i_fucked_up_in_my_job_search/) · [↑ back to the list](#last-50-posts)
 
 > I (30) 7+ years of experience resigned from my remote DE role as i was frustrated with the project and my role there.  
 > I have only 15 days left in my notice period and hardly getting any calls.  
@@ -930,9 +1044,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 > Current ctc: 27LPA  
 > Location : Remote
 
+<a id="post-58"></a>
+
 ### 58. 5+ YoE Data Engineer \| Help selecting the offer
 
-2026-11-04 · u/Low-Positive-2486 · Career Question · score 39 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xngbv1/5_yoe_data_engineer_help_selecting_the_offer/)
+2026-11-04 · u/Low-Positive-2486 · Career Question · score 39 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xngbv1/5_yoe_data_engineer_help_selecting_the_offer/) · [↑ back to the list](#last-50-posts)
 
 > TESCO : 22 fixed +5 variable(27)
 >
@@ -948,9 +1064,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Please help suggest which would be better organisation to join, he is looking for better pay and job stability
 
+<a id="post-59"></a>
+
 ### 59. Data Engineering Notes(Basics)
 
-2026-10-14 · u/ApprehensiveFee2799 · General · score 39 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x5l4sp/data_engineering_notesbasics/)
+2026-10-14 · u/ApprehensiveFee2799 · General · score 39 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x5l4sp/data_engineering_notesbasics/) · [↑ back to the list](#last-50-posts)
 
 > I've prepared and organized notes covering some important data engineering concepts. These may be useful for data analysts aspiring to become data engineers, as well as data engineers looking to revise key topics.
 >
@@ -974,9 +1092,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Hope this helps someone in their learning journey!
 
+<a id="post-60"></a>
+
 ### 60. Do not apply jobs at Persistent to save your mental health!
 
-2026-10-18 · u/Motor-Welder-9238 · Rant! · score 38 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x8zirb/do_not_apply_jobs_at_persistent_to_save_your/)
+2026-10-18 · u/Motor-Welder-9238 · Rant! · score 38 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x8zirb/do_not_apply_jobs_at_persistent_to_save_your/) · [↑ back to the list](#last-50-posts)
 
 > &#x200B;
 >
@@ -998,9 +1118,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Can any persistent or ex persistent employee  comment? Anyone else who faced simillar situation?
 
+<a id="post-61"></a>
+
 ### 61. Openings in our company - reach out for referral
 
-2026-10-12 · u/rithesh7070 · Seeking referral · score 37 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x3zz7a/openings_in_our_company_reach_out_for_referral/)
+2026-10-12 · u/rithesh7070 · Seeking referral · score 37 · 60 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x3zz7a/openings_in_our_company_reach_out_for_referral/) · [↑ back to the list](#last-50-posts)
 
 > Hi,
 >
@@ -1012,9 +1134,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Peace ✌️
 
+<a id="post-62"></a>
+
 ### 62. Friend struggles in interviews but gets 30 calls/day. I clear technical rounds easily (9/13 cleared) but barely get 3-4 calls. Copied his exact setup—still doesn't work. Why?
 
-2026-10-21 · u/kurianabraham · General · score 36 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xbigaq/friend_struggles_in_interviews_but_gets_30/)
+2026-10-21 · u/kurianabraham · General · score 36 · 45 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xbigaq/friend_struggles_in_interviews_but_gets_30/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys,
 >
@@ -1041,9 +1165,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Would really appreciate insights from recruiters or anyone who has figured out what triggers this difference.
 
+<a id="post-63"></a>
+
 ### 63. General Advice to those who are new to Data
 
-2026-11-02 · u/Motor-Welder-9238 · General · score 36 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xm337c/general_advice_to_those_who_are_new_to_data/)
+2026-11-02 · u/Motor-Welder-9238 · General · score 36 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xm337c/general_advice_to_those_who_are_new_to_data/) · [↑ back to the list](#last-50-posts)
 
 > **I saw quite a few posts where 1-3 years experienced were confused about their future in data. Some reached out tonme as well after seeing my comments in some posts. I wanted to share this since days.**
 >
@@ -1121,9 +1247,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Data Engineering is becoming the most versatile foundation for the next generation of AI and Data professionals.
 
+<a id="post-64"></a>
+
 ### 64. Offer comparison
 
-2026-10-11 · u/Total_Goat2331 · Opinion · score 30 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x3adl9/offer_comparison/)
+2026-10-11 · u/Total_Goat2331 · Opinion · score 30 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x3adl9/offer_comparison/) · [↑ back to the list](#last-50-posts)
 
 > Suggestion folks
 >
@@ -1139,9 +1267,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Techstack wise both are databricks heavy, EPAM client round pending.
 
+<a id="post-65"></a>
+
 ### 65. \[Hiring\] Data Engineer at a seed-funded healthcare automation startup (Bengaluru, Rs 22-24 LPA)
 
-2026-10-19 · u/Successful-Estate470 · General · score 26 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x9yu53/hiring_data_engineer_at_a_seedfunded_healthcare/)
+2026-10-19 · u/Successful-Estate470 · General · score 26 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x9yu53/hiring_data_engineer_at_a_seedfunded_healthcare/) · [↑ back to the list](#last-50-posts)
 
 > Hiring on behalf of a stealth healthcare tech startup that just raised a $6.5M seed round. They're building automation for healthcare, and they need a Data Engineer.
 >
@@ -1169,9 +1299,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Happy to answer questions in the comments.
 
+<a id="post-66"></a>
+
 ### 66. EPAM vs Deloitte — which one should I choose?
 
-2026-10-17 · u/OutrageousAnalyst852 · Career Question · score 25 · 44 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x8acfa/epam_vs_deloitte_which_one_should_i_choose/)
+2026-10-17 · u/OutrageousAnalyst852 · Career Question · score 25 · 44 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1x8acfa/epam_vs_deloitte_which_one_should_i_choose/) · [↑ back to the list](#last-50-posts)
 
 > I’m a **6 YOE Data Engineer** with experience in Python, PySpark, SQL, Azure, Databricks, ADF, etc.  
 > I have two offers:  
@@ -1191,9 +1323,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Also interested in honest feedback on **hikes, project quality, WLB, job stability and growth**, especially in India.
 
+<a id="post-67"></a>
+
 ### 67. Data Engineer (3.6 YOE, Azure/Databricks) job hunting for 2 months, getting calls but stuck on 90-day notice period. What should I do?
 
-2026-10-20 · u/learner_dataengineer · Career Question · score 25 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xasurq/data_engineer_36_yoe_azuredatabricks_job_hunting/)
+2026-10-20 · u/learner_dataengineer · Career Question · score 25 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xasurq/data_engineer_36_yoe_azuredatabricks_job_hunting/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1221,9 +1355,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Any advice or tips would be a big help. Thanks in advance!
 
+<a id="post-68"></a>
+
 ### 68. Data Engineers who have worked on migration projects, can you share your experience?
 
-2026-10-24 · u/Fine-Many-7656 · General · score 25 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xefeow/data_engineers_who_have_worked_on_migration/)
+2026-10-24 · u/Fine-Many-7656 · General · score 25 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xefeow/data_engineers_who_have_worked_on_migration/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1251,9 +1387,11 @@ Link: <https://i.redd.it/x76gwulx4zxh1.png>
 >
 > Thanks in advance!
 
+<a id="post-69"></a>
+
 ### 69. Check this post before joining YipitData India (Edison)
 
-2026-10-25 · u/Used-Chemist-1916 · Rant! · score 25 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xevn13/check_this_post_before_joining_yipitdata_india/)
+2026-10-25 · u/Used-Chemist-1916 · Rant! · score 25 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/dataengineersindia/comments/1xevn13/check_this_post_before_joining_yipitdata_india/) · [↑ back to the list](#last-50-posts)
 
 > Never ever join YipitData.
 >

@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Python interpreter](https://www.reddit.com/r/PythonProjects2/comments/1xpn8nn/python_interpreter/) | u/EconomistLow1862 | Controversial | text | 1 | 0 | live | — |
-| 2 | 2026-11-06 | [Check out my new game](https://www.reddit.com/r/PythonProjects2/comments/1xpltrh/check_out_my_new_game/) | u/PrincipleLost5980 | — | jd2282.itch.io | 1 | 3 | live | — |
-| 3 | 2026-11-06 | [Computational investigation of symmetric prime clusters: are these counts expected?](https://www.reddit.com/r/PythonProjects2/comments/1xp68hy/computational_investigation_of_symmetric_prime/) | u/Dry-Neighborhood-412 | — | text | 1 | 0 | spam-filtered | — |
-| 4 | 2026-11-06 | [Check Laptop Battery status using Python](https://www.reddit.com/r/PythonProjects2/comments/1xp27rf/check_laptop_battery_status_using_python/) | u/clcodingupdates | — | i.redd.it | 10 | 5 | live | — |
-| 5 | 2026-11-05 | [I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)](https://www.reddit.com/r/PythonProjects2/comments/1xout90/i_made_a_package_to_pausestop_a_running_training/) | u/Organic-Trip2148 | Resource | i.redd.it | 1 | 0 | live | — |
-| 6 | 2026-11-05 | [PyDrop - Coding Made Visual](https://www.reddit.com/r/PythonProjects2/comments/1xopi93/pydrop_coding_made_visual/) | u/SignificantRatio2545 | — | i.redd.it | 4 | 0 | live | — |
-| 7 | 2026-11-05 | [Need assistance with a Python Code that keeps on crashing](https://www.reddit.com/r/PythonProjects2/comments/1xomvkg/need_assistance_with_a_python_code_that_keeps_on/) | u/Extension_Fig_2168 | — | reddit.com | 2 | 0 | live | — |
-| 8 | 2026-11-05 | [How easy is it to make a trading strategy? A few minutes.](https://www.reddit.com/r/PythonProjects2/comments/1xojzt3/how_easy_is_it_to_make_a_trading_strategy_a_few/) | u/SofexAlgorithms | — | v.redd.it | 1 | 0 | live | — |
-| 9 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](https://www.reddit.com/r/PythonProjects2/comments/1xoifp0/web_i_built_a_browser_game_where_you_script/) | u/Delicious-Editor-168 | — | text | 1 | 1 | live | — |
-| 10 | 2026-11-05 | [Slamdad Edge - Web Application Firewall (WAF)](https://www.reddit.com/r/PythonProjects2/comments/1xobb60/slamdad_edge_web_application_firewall_waf/) | u/CaffeineCompiler_0x | — | reddit.com | 0 | 1 | spam-filtered | — |
-| 11 | 2026-11-05 | [Slamdad Edge - Web Application Firewall (WAF)](https://www.reddit.com/r/PythonProjects2/comments/1xob8sh/slamdad_edge_web_application_firewall_waf/) | u/CaffeineCompiler_0x | — | reddit.com | 0 | 1 | spam-filtered | — |
-| 12 | 2026-11-05 | [Full ML Algo Creator software. Python & PineScript AI Algo Generation.](https://www.reddit.com/r/PythonProjects2/comments/1xo7z06/full_ml_algo_creator_software_python_pinescript/) | u/SofexAlgorithms | — | reddit.com | 2 | 0 | live | — |
-| 13 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](https://www.reddit.com/r/PythonProjects2/comments/1xnzzrt/systemupdater_a_zerodependency_system_and_package/) | u/Piotrunius0 | Resource | i.redd.it | 1 | 0 | live | — |
-| 14 | 2026-11-04 | [I made a game In Python](https://www.reddit.com/r/PythonProjects2/comments/1xntxb7/i_made_a_game_in_python/) | u/No_Tennis_4843 | — | text | 0 | 0 | spam-filtered | — |
-| 15 | 2026-11-04 | [I built a fail-closed Python calculator for AI evaluation. 41 targeted tests passed. Looking for developer fe…](https://www.reddit.com/r/PythonProjects2/comments/1xnqd73/i_built_a_failclosed_python_calculator_for_ai/) | u/zerovariance36 | Info | text | 1 | 0 | live | — |
-| 16 | 2026-11-04 | [guys, give me a python library pls, so you draw smth, and it compares your drawing with a pattern](https://www.reddit.com/r/PythonProjects2/comments/1xnq2ds/guys_give_me_a_python_library_pls_so_you_draw/) | u/Top_Wasabi_579 | — | text | 0 | 5 | live | — |
-| 17 | 2026-11-04 | [Python Quiz of the Day.](https://www.reddit.com/r/PythonProjects2/comments/1xnoamz/python_quiz_of_the_day/) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
-| 18 | 2026-11-04 | [Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners](https://www.reddit.com/r/PythonProjects2/comments/1xnll7h/matplotlib_real_time_plot_animation_tutorial/) | u/xanthium_in | Resource | youtube.com | 1 | 0 | live | — |
-| 19 | 2026-11-04 | [100M primes sieved on Android (POCO F5) - I looked for symmetric prime pairs around composite Mersennes. Is t…](https://www.reddit.com/r/PythonProjects2/comments/1xnl6mv/100m_primes_sieved_on_android_poco_f5_i_looked/) | u/Dry-Neighborhood-412 | — | text | 1 | 0 | spam-filtered | — |
-| 20 | 2026-11-04 | [WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog](https://www.reddit.com/r/PythonProjects2/comments/1xnkx68/wifi_tool_v02_purepython_wifi_auditing_toolkit/) | u/lynanaln | — | text | 2 | 0 | live | — |
-| 21 | 2026-11-04 | [\[Python\] ClipForge – local video studio: one clip → Shorts, TikTok and YouTube versions, plus animated chart…](https://www.reddit.com/r/PythonProjects2/comments/1xnkmzc/python_clipforge_local_video_studio_one_clip/) | u/DrummingBird1 | — | github.com | 1 | 0 | spam-filtered | — |
-| 22 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](https://www.reddit.com/r/PythonProjects2/comments/1xn5uun/100m_primes_sieved_on_android_poco_f5_i/) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 23 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](https://www.reddit.com/r/PythonProjects2/comments/1xn5hkd/100m_primes_sieved_on_android_poco_f5_i/) | u/Dry-Neighborhood-412 | — | text | 0 | 0 | spam-filtered | — |
-| 24 | 2026-11-03 | [I just released my open-source Python project, RowCanary, and I'd love some feedback](https://www.reddit.com/r/PythonProjects2/comments/1xn2sb8/i_just_released_my_opensource_python_project/) | u/spockplayer2 | — | reddit.com | 2 | 0 | live | — |
-| 25 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](https://www.reddit.com/r/PythonProjects2/comments/1xn1pxq/100m_primes_sieved_on_android_poco_f5_i/) | u/Dry-Neighborhood-412 | — | text | 0 | 0 | spam-filtered | — |
-| 26 | 2026-11-03 | [Join Our Global Developer Community – No Egos, No Toxicity, Just Collaboration!](https://www.reddit.com/r/PythonProjects2/comments/1xn02kj/join_our_global_developer_community_no_egos_no/) | u/IronEagle0007 | Info | i.redd.it | 2 | 0 | live | — |
-| 27 | 2026-11-03 | [Every Python Developer Builds Strength One Concept at a Time!](https://www.reddit.com/r/PythonProjects2/comments/1xmzn0k/every_python_developer_builds_strength_one/) | u/clcodingupdates | — | i.redd.it | 0 | 0 | live | — |
-| 28 | 2026-11-03 | [I'm looking for contributors and people to work with on a new project of mine!](https://www.reddit.com/r/PythonProjects2/comments/1xmxgbl/im_looking_for_contributors_and_people_to_work/) | u/Positive_Owl_6442 | — | text | 0 | 7 | live | — |
-| 29 | 2026-11-03 | [compute_position error when passing "with_position(width,height)" to TextClip](https://www.reddit.com/r/PythonProjects2/comments/1xmvujh/compute_position_error_when_passing_with/) | u/Equal_Eye_346 | — | text | 1 | 0 | live | — |
-| 30 | 2026-11-03 | [i create project by python](https://www.reddit.com/r/PythonProjects2/comments/1xmth3y/i_create_project_by_python/) | u/MOhamed_3874 | — | text | 0 | 1 | live | — |
-| 31 | 2026-11-03 | [I built a desktop client for Antora docs in Python and PySide6 (closed source)](https://www.reddit.com/r/PythonProjects2/comments/1xmt48u/i_built_a_desktop_client_for_antora_docs_in/) | u/Timon_OfAthens | — | reddit.com | 0 | 0 | live | — |
-| 32 | 2026-11-03 | [Final-Year Data Science Student \| Python Data Analysis, Cleaning & Visualization](https://www.reddit.com/r/PythonProjects2/comments/1xmqdzl/finalyear_data_science_student_python_data/) | u/studentDataScience | — | text | 1 | 0 | approved | — |
-| 33 | 2026-11-03 | [Game Shell](https://www.reddit.com/r/PythonProjects2/comments/1xmnyh7/game_shell/) | u/Aggravating-Art-8544 | — | text | 1 | 0 | live | — |
-| 34 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](https://www.reddit.com/r/PythonProjects2/comments/1xmmfx9/100m_primes_sieved_on_android_poco_f5_i/) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 4 | spam-filtered | — |
-| 35 | 2026-11-03 | [Test Your Knowledge!](https://www.reddit.com/r/PythonProjects2/comments/1xmjjf2/test_your_knowledge/) | u/svanidzelal | — | i.redd.it | 0 | 2 | live | — |
-| 36 | 2026-11-02 | [I built CyberNest, a Python dependency security tool, while learning cybersecurity](https://www.reddit.com/r/PythonProjects2/comments/1xma634/i_built_cybernest_a_python_dependency_security/) | u/MrBucurN | Controversial | text | 1 | 0 | live | — |
-| 37 | 2026-11-02 | [Python](https://www.reddit.com/r/PythonProjects2/comments/1xm5y4v/python/) | u/Nervous-Employee-588 | — | i.redd.it | 3 | 0 | live | — |
-| 38 | 2026-11-02 | [Neural Canvas: A Neural Network Visualization Project Using Python and JavaScript](https://www.reddit.com/r/PythonProjects2/comments/1xm5i2z/neural_canvas_a_neural_network_visualization/) | u/Muhammad-Essa | — | v.redd.it | 1 | 0 | live | — |
-| 39 | 2026-11-02 | [I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!](https://www.reddit.com/r/PythonProjects2/comments/1xm2k8n/i_built_a_crossplatform_desktop_videoaudio/) | u/Mohamed_477 | — | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-11-02 | [Collaboration](https://www.reddit.com/r/PythonProjects2/comments/1xlz6po/collaboration/) | u/ResponsibleCloud3590 | — | text | 2 | 0 | live | — |
-| 41 | 2026-11-02 | [Pyton Quiz of the day.](https://www.reddit.com/r/PythonProjects2/comments/1xlxpmq/pyton_quiz_of_the_day/) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
-| 42 | 2026-11-02 | [I rewrote edify, my Python library for building regex without writing regex by hand](https://www.reddit.com/r/PythonProjects2/comments/1xlvm7l/i_rewrote_edify_my_python_library_for_building/) | u/luciferreeves | — | text | 1 | 0 | live | — |
-| 43 | 2026-11-02 | [Python Shopping Bill Program Using While Loop \| Fix Input Errors \| Begin...](https://www.reddit.com/r/PythonProjects2/comments/1xls8ax/python_shopping_bill_program_using_while_loop_fix/) | u/Pro_Programmer007 | — | youtube.com | 0 | 0 | spam-filtered | — |
-| 44 | 2026-11-02 | [I made a Python Library for reoccuring schedueled task on a laptop that turns on and off](https://www.reddit.com/r/PythonProjects2/comments/1xlr540/i_made_a_python_library_for_reoccuring_schedueled/) | u/Ill-Acanthaceae5630 | — | text | 1 | 4 | live | — |
-| 45 | 2026-11-02 | [Mr.Veeraragavan](https://www.reddit.com/r/PythonProjects2/comments/1xlquds/mrveeraragavan/) | u/Ok_Aioli2605 | — | reddit.com | 1 | 0 | live | — |
-| 46 | 2026-11-02 | [I built a Python reference implementation for Data Mesh governance. Are data contracts enough to prevent down…](https://www.reddit.com/r/PythonProjects2/comments/1xlp4uf/i_built_a_python_reference_implementation_for/) | u/GuidanceBrief612 | — | i.redd.it | 0 | 1 | live | — |
-| 47 | 2026-11-01 | [Projects · TecharoHQ/anubis · GitHub](https://www.reddit.com/r/PythonProjects2/comments/1xlgkh1/projects_techarohqanubis_github/) | u/RiderRaw69 | — | github.com | 1 | 0 | spam-filtered | — |
-| 48 | 2026-11-01 | [PYTHON FOR BEGINNERS GC](https://www.reddit.com/r/PythonProjects2/comments/1xl2ctn/python_for_beginners_gc/) | u/thePython3Guy | — | i.redd.it | 0 | 0 | content_takedown | — |
-| 49 | 2026-11-01 | [\[Python C extension\] numagr v0.9](https://www.reddit.com/r/PythonProjects2/comments/1xl2a8q/python_c_extension_numagr_v09/) | u/lehmagavan | — | text | 1 | 0 | live | — |
-| 50 | 2026-11-01 | [PyArchRules 1.0.0 — Architecture linter for Python](https://www.reddit.com/r/PythonProjects2/comments/1xl23tn/pyarchrules_100_architecture_linter_for_python/) | u/EmuFeeling7341 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 1 | 2026-11-06 | [Python interpreter](#post-1) | u/EconomistLow1862 | Controversial | text | 1 | 0 | live | — |
+| 2 | 2026-11-06 | [Check out my new game](#post-2) | u/PrincipleLost5980 | — | jd2282.itch.io | 1 | 3 | live | — |
+| 3 | 2026-11-06 | [Computational investigation of symmetric prime clusters: are these counts expected?](#post-3) | u/Dry-Neighborhood-412 | — | text | 1 | 0 | spam-filtered | — |
+| 4 | 2026-11-06 | [Check Laptop Battery status using Python](#post-4) | u/clcodingupdates | — | i.redd.it | 10 | 5 | live | — |
+| 5 | 2026-11-05 | [I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)](#post-5) | u/Organic-Trip2148 | Resource | i.redd.it | 1 | 0 | live | — |
+| 6 | 2026-11-05 | [PyDrop - Coding Made Visual](#post-6) | u/SignificantRatio2545 | — | i.redd.it | 4 | 0 | live | — |
+| 7 | 2026-11-05 | [Need assistance with a Python Code that keeps on crashing](#post-7) | u/Extension_Fig_2168 | — | reddit.com | 2 | 0 | live | — |
+| 8 | 2026-11-05 | [How easy is it to make a trading strategy? A few minutes.](#post-8) | u/SofexAlgorithms | — | v.redd.it | 1 | 0 | live | — |
+| 9 | 2026-11-05 | [\[Web\] I built a browser game where you script stickman combat in Python!](#post-9) | u/Delicious-Editor-168 | — | text | 1 | 1 | live | — |
+| 10 | 2026-11-05 | [Slamdad Edge - Web Application Firewall (WAF)](#post-10) | u/CaffeineCompiler_0x | — | reddit.com | 0 | 1 | spam-filtered | — |
+| 11 | 2026-11-05 | [Slamdad Edge - Web Application Firewall (WAF)](#post-11) | u/CaffeineCompiler_0x | — | reddit.com | 0 | 1 | spam-filtered | — |
+| 12 | 2026-11-05 | [Full ML Algo Creator software. Python & PineScript AI Algo Generation.](#post-12) | u/SofexAlgorithms | — | reddit.com | 2 | 0 | live | — |
+| 13 | 2026-11-04 | [SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python](#post-13) | u/Piotrunius0 | Resource | i.redd.it | 1 | 0 | live | — |
+| 14 | 2026-11-04 | [I made a game In Python](#post-14) | u/No_Tennis_4843 | — | text | 0 | 0 | spam-filtered | — |
+| 15 | 2026-11-04 | [I built a fail-closed Python calculator for AI evaluation. 41 targeted tests passed. Looking for developer fe…](#post-15) | u/zerovariance36 | Info | text | 1 | 0 | live | — |
+| 16 | 2026-11-04 | [guys, give me a python library pls, so you draw smth, and it compares your drawing with a pattern](#post-16) | u/Top_Wasabi_579 | — | text | 0 | 5 | live | — |
+| 17 | 2026-11-04 | [Python Quiz of the Day.](#post-17) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
+| 18 | 2026-11-04 | [Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners](#post-18) | u/xanthium_in | Resource | youtube.com | 1 | 0 | live | — |
+| 19 | 2026-11-04 | [100M primes sieved on Android (POCO F5) - I looked for symmetric prime pairs around composite Mersennes. Is t…](#post-19) | u/Dry-Neighborhood-412 | — | text | 1 | 0 | spam-filtered | — |
+| 20 | 2026-11-04 | [WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog](#post-20) | u/lynanaln | — | text | 2 | 0 | live | — |
+| 21 | 2026-11-04 | [\[Python\] ClipForge – local video studio: one clip → Shorts, TikTok and YouTube versions, plus animated chart…](#post-21) | u/DrummingBird1 | — | github.com | 1 | 0 | spam-filtered | — |
+| 22 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](#post-22) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 23 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](#post-23) | u/Dry-Neighborhood-412 | — | text | 0 | 0 | spam-filtered | — |
+| 24 | 2026-11-03 | [I just released my open-source Python project, RowCanary, and I'd love some feedback](#post-24) | u/spockplayer2 | — | reddit.com | 2 | 0 | live | — |
+| 25 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](#post-25) | u/Dry-Neighborhood-412 | — | text | 0 | 0 | spam-filtered | — |
+| 26 | 2026-11-03 | [Join Our Global Developer Community – No Egos, No Toxicity, Just Collaboration!](#post-26) | u/IronEagle0007 | Info | i.redd.it | 2 | 0 | live | — |
+| 27 | 2026-11-03 | [Every Python Developer Builds Strength One Concept at a Time!](#post-27) | u/clcodingupdates | — | i.redd.it | 0 | 0 | live | — |
+| 28 | 2026-11-03 | [I'm looking for contributors and people to work with on a new project of mine!](#post-28) | u/Positive_Owl_6442 | — | text | 0 | 7 | live | — |
+| 29 | 2026-11-03 | [compute_position error when passing "with_position(width,height)" to TextClip](#post-29) | u/Equal_Eye_346 | — | text | 1 | 0 | live | — |
+| 30 | 2026-11-03 | [i create project by python](#post-30) | u/MOhamed_3874 | — | text | 0 | 1 | live | — |
+| 31 | 2026-11-03 | [I built a desktop client for Antora docs in Python and PySide6 (closed source)](#post-31) | u/Timon_OfAthens | — | reddit.com | 0 | 0 | live | — |
+| 32 | 2026-11-03 | [Final-Year Data Science Student \| Python Data Analysis, Cleaning & Visualization](#post-32) | u/studentDataScience | — | text | 1 | 0 | approved | — |
+| 33 | 2026-11-03 | [Game Shell](#post-33) | u/Aggravating-Art-8544 | — | text | 1 | 0 | live | — |
+| 34 | 2026-11-03 | [100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. I…](#post-34) | u/Dry-Neighborhood-412 | — | reddit.com | 0 | 4 | spam-filtered | — |
+| 35 | 2026-11-03 | [Test Your Knowledge!](#post-35) | u/svanidzelal | — | i.redd.it | 0 | 2 | live | — |
+| 36 | 2026-11-02 | [I built CyberNest, a Python dependency security tool, while learning cybersecurity](#post-36) | u/MrBucurN | Controversial | text | 1 | 0 | live | — |
+| 37 | 2026-11-02 | [Python](#post-37) | u/Nervous-Employee-588 | — | i.redd.it | 3 | 0 | live | — |
+| 38 | 2026-11-02 | [Neural Canvas: A Neural Network Visualization Project Using Python and JavaScript](#post-38) | u/Muhammad-Essa | — | v.redd.it | 1 | 0 | live | — |
+| 39 | 2026-11-02 | [I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!](#post-39) | u/Mohamed_477 | — | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-11-02 | [Collaboration](#post-40) | u/ResponsibleCloud3590 | — | text | 2 | 0 | live | — |
+| 41 | 2026-11-02 | [Pyton Quiz of the day.](#post-41) | u/clcodingupdates | — | reddit.com | 0 | 0 | live | — |
+| 42 | 2026-11-02 | [I rewrote edify, my Python library for building regex without writing regex by hand](#post-42) | u/luciferreeves | — | text | 1 | 0 | live | — |
+| 43 | 2026-11-02 | [Python Shopping Bill Program Using While Loop \| Fix Input Errors \| Begin...](#post-43) | u/Pro_Programmer007 | — | youtube.com | 0 | 0 | spam-filtered | — |
+| 44 | 2026-11-02 | [I made a Python Library for reoccuring schedueled task on a laptop that turns on and off](#post-44) | u/Ill-Acanthaceae5630 | — | text | 1 | 4 | live | — |
+| 45 | 2026-11-02 | [Mr.Veeraragavan](#post-45) | u/Ok_Aioli2605 | — | reddit.com | 1 | 0 | live | — |
+| 46 | 2026-11-02 | [I built a Python reference implementation for Data Mesh governance. Are data contracts enough to prevent down…](#post-46) | u/GuidanceBrief612 | — | i.redd.it | 0 | 1 | live | — |
+| 47 | 2026-11-01 | [Projects · TecharoHQ/anubis · GitHub](#post-47) | u/RiderRaw69 | — | github.com | 1 | 0 | spam-filtered | — |
+| 48 | 2026-11-01 | [PYTHON FOR BEGINNERS GC](#post-48) | u/thePython3Guy | — | i.redd.it | 0 | 0 | content_takedown | — |
+| 49 | 2026-11-01 | [\[Python C extension\] numagr v0.9](#post-49) | u/lehmagavan | — | text | 1 | 0 | live | — |
+| 50 | 2026-11-01 | [PyArchRules 1.0.0 — Architecture linter for Python](#post-50) | u/EmuFeeling7341 | — | reddit.com | 0 | 0 | spam-filtered | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,92 +86,110 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-11-01 | [I made an assignment writer - text to handwrittten pages in pure python.](https://www.reddit.com/r/PythonProjects2/comments/1xkw593/i_made_an_assignment_writer_text_to_handwrittten/) | u/HolyDaddyAss | Resource | reddit.com | 57 | 11 | live |
-| 52 | 2026-10-25 | [Wirely: A circuit simulator in Python + PySide6 that now also runs in the browser with Pyodide](https://www.reddit.com/r/PythonProjects2/comments/1xex5af/wirely_a_circuit_simulator_in_python_pyside6_that/) | u/EnoughImagination702 | Resource | v.redd.it | 29 | 0 | live |
-| 53 | 2026-10-30 | [Create Interactive Maps Using Python!](https://www.reddit.com/r/PythonProjects2/comments/1xjnc0f/create_interactive_maps_using_python/) | u/clcodingupdates | — | i.redd.it | 18 | 1 | live |
-| 54 | 2026-10-16 | [My first project on PY](https://www.reddit.com/r/PythonProjects2/comments/1x7obuw/my_first_project_on_py/) | u/kei_keii | — | text | 14 | 3 | live |
-| 4 | 2026-11-06 | [Check Laptop Battery status using Python](https://www.reddit.com/r/PythonProjects2/comments/1xp27rf/check_laptop_battery_status_using_python/) | u/clcodingupdates | — | i.redd.it | 10 | 5 | live |
-| 55 | 2026-10-24 | [🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗵𝗮𝘀 𝗮 𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁.](https://www.reddit.com/r/PythonProjects2/comments/1xe2ay9/𝗣𝘆𝘁𝗵𝗼𝗻_𝗳𝗶𝗻𝗮𝗹𝗹𝘆_𝗵𝗮𝘀_𝗮_𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁/) | u/Both-Basil1635 | — | i.redd.it | 10 | 0 | live |
-| 56 | 2026-10-16 | [I built an open-source scientific modeling engine because simulations should be reproducible, not just look c…](https://www.reddit.com/r/PythonProjects2/comments/1x72gng/i_built_an_opensource_scientific_modeling_engine/) | u/Emergency-Tutor-7 | — | i.redd.it | 6 | 0 | live |
-| 57 | 2026-10-18 | [RepoTrace](https://www.reddit.com/r/PythonProjects2/comments/1x95srz/repotrace/) | u/smthg-nthg | — | i.redd.it | 5 | 5 | live |
-| 58 | 2026-10-23 | [pyMultiFit 2.0.0 is out: Fitting, diagnostic plots, and more](https://www.reddit.com/r/PythonProjects2/comments/1xdouhy/pymultifit_200_is_out_fitting_diagnostic_plots/) | u/AstrophysicsAndPy | — | text | 5 | 0 | live |
-| 59 | 2026-10-22 | [Built a real-time IoT dashboard with Python, MQTT, and Supabase to sync physical sensors with the web](https://www.reddit.com/r/PythonProjects2/comments/1xc7hkf/built_a_realtime_iot_dashboard_with_python_mqtt/) | u/onnatsari | Resource | v.redd.it | 5 | 0 | live |
-| 60 | 2026-10-11 | [\[Project\] ViCalc 5 – Bringing the magic of classic hardware calculators to your PC keyboard](https://www.reddit.com/r/PythonProjects2/comments/1x36u88/project_vicalc_5_bringing_the_magic_of_classic/) | u/Intelligent_Rice7138 | Info | reddit.com | 4 | 11 | live |
-| 61 | 2026-10-23 | [Stock zxcvbn calls ~59% of common Hinglish passwords Fair or Strong. I built an early-stage checker that spel…](https://www.reddit.com/r/PythonProjects2/comments/1xdhkgh/stock_zxcvbn_calls_59_of_common_hinglish/) | u/Paraxanos | — | text | 4 | 2 | live |
-| 6 | 2026-11-05 | [PyDrop - Coding Made Visual](https://www.reddit.com/r/PythonProjects2/comments/1xopi93/pydrop_coding_made_visual/) | u/SignificantRatio2545 | — | i.redd.it | 4 | 0 | live |
-| 62 | 2026-10-28 | [I'm building ColorIDE, an open-source IDE focused on performance, developer, freedom, and local first develop…](https://www.reddit.com/r/PythonProjects2/comments/1xi1e2a/im_building_coloride_an_opensource_ide_focused_on/) | u/Senior_Professor8037 | — | text | 4 | 0 | live |
-| 63 | 2026-10-19 | [I created a structured JSON FAQ dataset + Python script for Customer Support chatbots](https://www.reddit.com/r/PythonProjects2/comments/1x9u3ty/i_created_a_structured_json_faq_dataset_python/) | u/amaarx | — | text | 4 | 0 | live |
-| 64 | 2026-10-17 | [Complete Matplotlib Library Graphing Tutorial using Python in under 1 Hour](https://www.reddit.com/r/PythonProjects2/comments/1x8hj7n/complete_matplotlib_library_graphing_tutorial/) | u/xanthium_in | — | youtube.com | 4 | 0 | live |
-| 65 | 2026-10-18 | [Tamagochi PY project](https://www.reddit.com/r/PythonProjects2/comments/1x9cmsj/tamagochi_py_project/) | u/kei_keii | — | text | 3 | 7 | live |
-| 66 | 2026-10-15 | [My first Github Project](https://www.reddit.com/r/PythonProjects2/comments/1x6sm2p/my_first_github_project/) | u/Wonderful_Bee_3281 | — | text | 3 | 4 | live |
-| 67 | 2026-11-01 | [Flak Tower](https://www.reddit.com/r/PythonProjects2/comments/1xl0b7l/flak_tower/) | u/scapaflow96 | — | v.redd.it | 3 | 2 | live |
-| 68 | 2026-10-31 | [Announcing Snek - a free, open-source, GUI front end to Python inspired by Alteryx](https://www.reddit.com/r/PythonProjects2/comments/1xkcho1/announcing_snek_a_free_opensource_gui_front_end/) | u/QuesoHusker | — | reddit.com | 3 | 1 | live |
+| 51 | 2026-11-01 | [I made an assignment writer - text to handwrittten pages in pure python.](#post-51) | u/HolyDaddyAss | Resource | reddit.com | 57 | 11 | live |
+| 52 | 2026-10-25 | [Wirely: A circuit simulator in Python + PySide6 that now also runs in the browser with Pyodide](#post-52) | u/EnoughImagination702 | Resource | v.redd.it | 29 | 0 | live |
+| 53 | 2026-10-30 | [Create Interactive Maps Using Python!](#post-53) | u/clcodingupdates | — | i.redd.it | 18 | 1 | live |
+| 54 | 2026-10-16 | [My first project on PY](#post-54) | u/kei_keii | — | text | 14 | 3 | live |
+| 4 | 2026-11-06 | [Check Laptop Battery status using Python](#post-4) | u/clcodingupdates | — | i.redd.it | 10 | 5 | live |
+| 55 | 2026-10-24 | [🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗵𝗮𝘀 𝗮 𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁.](#post-55) | u/Both-Basil1635 | — | i.redd.it | 10 | 0 | live |
+| 56 | 2026-10-16 | [I built an open-source scientific modeling engine because simulations should be reproducible, not just look c…](#post-56) | u/Emergency-Tutor-7 | — | i.redd.it | 6 | 0 | live |
+| 57 | 2026-10-18 | [RepoTrace](#post-57) | u/smthg-nthg | — | i.redd.it | 5 | 5 | live |
+| 58 | 2026-10-23 | [pyMultiFit 2.0.0 is out: Fitting, diagnostic plots, and more](#post-58) | u/AstrophysicsAndPy | — | text | 5 | 0 | live |
+| 59 | 2026-10-22 | [Built a real-time IoT dashboard with Python, MQTT, and Supabase to sync physical sensors with the web](#post-59) | u/onnatsari | Resource | v.redd.it | 5 | 0 | live |
+| 60 | 2026-10-11 | [\[Project\] ViCalc 5 – Bringing the magic of classic hardware calculators to your PC keyboard](#post-60) | u/Intelligent_Rice7138 | Info | reddit.com | 4 | 11 | live |
+| 61 | 2026-10-23 | [Stock zxcvbn calls ~59% of common Hinglish passwords Fair or Strong. I built an early-stage checker that spel…](#post-61) | u/Paraxanos | — | text | 4 | 2 | live |
+| 6 | 2026-11-05 | [PyDrop - Coding Made Visual](#post-6) | u/SignificantRatio2545 | — | i.redd.it | 4 | 0 | live |
+| 62 | 2026-10-28 | [I'm building ColorIDE, an open-source IDE focused on performance, developer, freedom, and local first develop…](#post-62) | u/Senior_Professor8037 | — | text | 4 | 0 | live |
+| 63 | 2026-10-19 | [I created a structured JSON FAQ dataset + Python script for Customer Support chatbots](#post-63) | u/amaarx | — | text | 4 | 0 | live |
+| 64 | 2026-10-17 | [Complete Matplotlib Library Graphing Tutorial using Python in under 1 Hour](#post-64) | u/xanthium_in | — | youtube.com | 4 | 0 | live |
+| 65 | 2026-10-18 | [Tamagochi PY project](#post-65) | u/kei_keii | — | text | 3 | 7 | live |
+| 66 | 2026-10-15 | [My first Github Project](#post-66) | u/Wonderful_Bee_3281 | — | text | 3 | 4 | live |
+| 67 | 2026-11-01 | [Flak Tower](#post-67) | u/scapaflow96 | — | v.redd.it | 3 | 2 | live |
+| 68 | 2026-10-31 | [Announcing Snek - a free, open-source, GUI front end to Python inspired by Alteryx](#post-68) | u/QuesoHusker | — | reddit.com | 3 | 1 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Python interpreter
 
-2026-11-06 · u/EconomistLow1862 · Controversial · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xpn8nn/python_interpreter/)
+2026-11-06 · u/EconomistLow1862 · Controversial · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xpn8nn/python_interpreter/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/t5c265ygx10i1.png
 >
 > how can i fix this i tried everything abt this issue but i cant find a solid solution
 
+<a id="post-2"></a>
+
 ### 2. Check out my new game
 
-2026-11-06 · u/PrincipleLost5980 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xpltrh/check_out_my_new_game/)
+2026-11-06 · u/PrincipleLost5980 · score 1 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xpltrh/check_out_my_new_game/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://jd2282.itch.io/neon-void>
 
 
+<a id="post-3"></a>
+
 ### 3. Computational investigation of symmetric prime clusters: are these counts expected?
 
-2026-11-06 · u/Dry-Neighborhood-412 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xp68hy/computational_investigation_of_symmetric_prime/)
+2026-11-06 · u/Dry-Neighborhood-412 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xp68hy/computational_investigation_of_symmetric_prime/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. Check Laptop Battery status using Python
 
-2026-11-06 · u/clcodingupdates · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xp27rf/check_laptop_battery_status_using_python/)
+2026-11-06 · u/clcodingupdates · score 10 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xp27rf/check_laptop_battery_status_using_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9w3278qurwzh1.jpeg>
 
 
+<a id="post-5"></a>
+
 ### 5. I made a package to pause/stop a running training loop from another terminal (or the Mac menu bar)
 
-2026-11-05 · u/Organic-Trip2148 · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xout90/i_made_a_package_to_pausestop_a_running_training/)
+2026-11-05 · u/Organic-Trip2148 · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xout90/i_made_a_package_to_pausestop_a_running_training/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/olleyt5a3vzh1.jpeg>
 
 
+<a id="post-6"></a>
+
 ### 6. PyDrop - Coding Made Visual
 
-2026-11-05 · u/SignificantRatio2545 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xopi93/pydrop_coding_made_visual/)
+2026-11-05 · u/SignificantRatio2545 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xopi93/pydrop_coding_made_visual/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3s27czwa2uzh1.png>
 
 > It's basically Unreal Engines C++ programming, but with python.
 
+<a id="post-7"></a>
+
 ### 7. Need assistance with a Python Code that keeps on crashing
 
-2026-11-05 · u/Extension_Fig_2168 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xomvkg/need_assistance_with_a_python_code_that_keeps_on/)
+2026-11-05 · u/Extension_Fig_2168 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xomvkg/need_assistance_with_a_python_code_that_keeps_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xomttc>
 
 
+<a id="post-8"></a>
+
 ### 8. How easy is it to make a trading strategy? A few minutes.
 
-2026-11-05 · u/SofexAlgorithms · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xojzt3/how_easy_is_it_to_make_a_trading_strategy_a_few/)
+2026-11-05 · u/SofexAlgorithms · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xojzt3/how_easy_is_it_to_make_a_trading_strategy_a_few/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/0ucb0vmyzszh1>
 
 > Full docs coming soon. Pure python with a sprinkle of Cython for loops and cache + NiceGUI.
 
+<a id="post-9"></a>
+
 ### 9. \[Web\] I built a browser game where you script stickman combat in Python!
 
-2026-11-05 · u/Delicious-Editor-168 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xoifp0/web_i_built_a_browser_game_where_you_script/)
+2026-11-05 · u/Delicious-Editor-168 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xoifp0/web_i_built_a_browser_game_where_you_script/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/Python! 👋
 >
@@ -191,9 +209,11 @@ Link: <https://v.redd.it/0ucb0vmyzszh1>
 >
 > Runs 100% in the browser with zero installation needed. I'd love your thoughts on the sandboxing architecture and feedback on the combat loop!
 
+<a id="post-10"></a>
+
 ### 10. Slamdad Edge - Web Application Firewall (WAF)
 
-2026-11-05 · u/CaffeineCompiler_0x · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xobb60/slamdad_edge_web_application_firewall_waf/)
+2026-11-05 · u/CaffeineCompiler_0x · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xobb60/slamdad_edge_web_application_firewall_waf/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xoasjm>
 
@@ -207,9 +227,11 @@ Link: <https://www.reddit.com/gallery/1xoasjm>
 >
 > GitHub: 🔗 [https://github.com/slamdad](https://github.com/slamdad)
 
+<a id="post-11"></a>
+
 ### 11. Slamdad Edge - Web Application Firewall (WAF)
 
-2026-11-05 · u/CaffeineCompiler_0x · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xob8sh/slamdad_edge_web_application_firewall_waf/)
+2026-11-05 · u/CaffeineCompiler_0x · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xob8sh/slamdad_edge_web_application_firewall_waf/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xob7vf>
 
@@ -223,17 +245,21 @@ Link: <https://www.reddit.com/gallery/1xob7vf>
 >
 > GitHub: 🔗 [https://github.com/slamdad](https://github.com/slamdad)
 
+<a id="post-12"></a>
+
 ### 12. Full ML Algo Creator software. Python & PineScript AI Algo Generation.
 
-2026-11-05 · u/SofexAlgorithms · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xo7z06/full_ml_algo_creator_software_python_pinescript/)
+2026-11-05 · u/SofexAlgorithms · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xo7z06/full_ml_algo_creator_software_python_pinescript/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xks9sf>
 
 > Fully Python with NiceGUI for the Ui/UX. Backend 100% Python / Cython.
 
+<a id="post-13"></a>
+
 ### 13. SystemUpdater - a zero-dependency system and package updater for Linux/macOS written in pure Python
 
-2026-11-04 · u/Piotrunius0 · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnzzrt/systemupdater_a_zerodependency_system_and_package/)
+2026-11-04 · u/Piotrunius0 · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnzzrt/systemupdater_a_zerodependency_system_and_package/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/w2ww65s9vnzh1.gif>
 
@@ -251,18 +277,22 @@ Link: <https://i.redd.it/w2ww65s9vnzh1.gif>
 >
 > If you hit any bugs or want support for another package manager, let me know.
 
+<a id="post-14"></a>
+
 ### 14. I made a game In Python
 
-2026-11-04 · u/No_Tennis_4843 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xntxb7/i_made_a_game_in_python/)
+2026-11-04 · u/No_Tennis_4843 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xntxb7/i_made_a_game_in_python/) · [↑ back to the list](#last-50-posts)
 
 > \[https://glasgow-diary-tomato-unexpected.trycloudflare.com/casino3d/index.html\](https://glasgow-diary-tomato-unexpected.trycloudflare.com/casino3d/index.html)
 >
 > Looking for feedback on my game i built In 2 weeks     
 > It’s a 3d multiplayer blackjack /poker mode with tournament features and a talking dealer it includes a leader board..
 
+<a id="post-15"></a>
+
 ### 15. I built a fail-closed Python calculator for AI evaluation. 41 targeted tests passed. Looking for developer feedback.
 
-2026-11-04 · u/zerovariance36 · Info · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnqd73/i_built_a_failclosed_python_calculator_for_ai/)
+2026-11-04 · u/zerovariance36 · Info · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnqd73/i_built_a_failclosed_python_calculator_for_ai/) · [↑ back to the list](#last-50-posts)
 
 > **What should a software system do when evidence is missing or a mathematical operation is undefined?**
 >
@@ -296,22 +326,28 @@ Link: <https://i.redd.it/w2ww65s9vnzh1.gif>
 >
 > **What additional edge cases would you test in a calculator where missing evidence must never be mistaken for a valid numerical result?**
 
+<a id="post-16"></a>
+
 ### 16. guys, give me a python library pls, so you draw smth, and it compares your drawing with a pattern
 
-2026-11-04 · u/Top_Wasabi_579 · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnq2ds/guys_give_me_a_python_library_pls_so_you_draw/)
+2026-11-04 · u/Top_Wasabi_579 · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnq2ds/guys_give_me_a_python_library_pls_so_you_draw/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-17"></a>
+
 ### 17. Python Quiz of the Day.
 
-2026-11-04 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnoamz/python_quiz_of_the_day/)
+2026-11-04 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnoamz/python_quiz_of_the_day/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xnoaj7/python_quiz_of_the_day/>
 
 
+<a id="post-18"></a>
+
 ### 18. Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners
 
-2026-11-04 · u/xanthium_in · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnll7h/matplotlib_real_time_plot_animation_tutorial/)
+2026-11-04 · u/xanthium_in · Resource · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnll7h/matplotlib_real_time_plot_animation_tutorial/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=CZHtWocvQdc>
 
@@ -319,15 +355,19 @@ Link: <https://www.youtube.com/watch?v=CZHtWocvQdc>
 >
 > In this section, we will explore [how to animate a line chart using Matplotlib and Python](https://www.xanthium.in/creating-animating-line-charts-matplotlib-absolute-beginners#animation) .Here we will be covering the basic setup for animating a line plot, animation function used  and key techniques needed to bring a static plot to life using Matplotlib's **FuncAnimation()** function.
 
+<a id="post-19"></a>
+
 ### 19. 100M primes sieved on Android (POCO F5) - I looked for symmetric prime pairs around composite Mersennes. Is this density drop known?
 
-2026-11-04 · u/Dry-Neighborhood-412 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnl6mv/100m_primes_sieved_on_android_poco_f5_i_looked/)
+2026-11-04 · u/Dry-Neighborhood-412 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnl6mv/100m_primes_sieved_on_android_poco_f5_i_looked/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. WiFi Tool v0.2 — pure-Python Wi-Fi auditing toolkit, fixed a nasty overlapping-thread bug in the watchdog
 
-2026-11-04 · u/lynanaln · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnkx68/wifi_tool_v02_purepython_wifi_auditing_toolkit/)
+2026-11-04 · u/lynanaln · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnkx68/wifi_tool_v02_purepython_wifi_auditing_toolkit/) · [↑ back to the list](#last-50-posts)
 
 > A couple of days ago I shared my pure-Python Wi-Fi auditing toolkit here and the feedback was great, so here’s a v0.2 with fixes that came out of it.
 >
@@ -341,42 +381,54 @@ Link: <https://www.youtube.com/watch?v=CZHtWocvQdc>
 >
 > Repo: [https://github.com/lynalan2/wifi\_scripts](https://github.com/lynalan2/wifi_scripts) — feedback welcome, that’s what fixed v0.1.
 
+<a id="post-21"></a>
+
 ### 21. \[Python\] ClipForge – local video studio: one clip → Shorts, TikTok and YouTube versions, plus animated chart videos
 
-2026-11-04 · u/DrummingBird1 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnkmzc/python_clipforge_local_video_studio_one_clip/)
+2026-11-04 · u/DrummingBird1 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xnkmzc/python_clipforge_local_video_studio_one_clip/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/DrummingBird1/clipforge-app>
 
 
+<a id="post-22"></a>
+
 ### 22. 100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. Is density drop near composite Mersennes known?
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn5uun/100m_primes_sieved_on_android_poco_f5_i/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn5uun/100m_primes_sieved_on_android_poco_f5_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmmfqg>
 
 
+<a id="post-23"></a>
+
 ### 23. 100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. Is density drop near composite Mersennes known?
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn5hkd/100m_primes_sieved_on_android_poco_f5_i/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn5hkd/100m_primes_sieved_on_android_poco_f5_i/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-24"></a>
+
 ### 24. I just released my open-source Python project, RowCanary, and I'd love some feedback
 
-2026-11-03 · u/spockplayer2 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn2sb8/i_just_released_my_opensource_python_project/)
+2026-11-03 · u/spockplayer2 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn2sb8/i_just_released_my_opensource_python_project/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/madeinpython/comments/1xn2s3i/i_just_released_my_opensource_python_project/>
 
 
+<a id="post-25"></a>
+
 ### 25. 100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. Is density drop near composite Mersennes known?
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn1pxq/100m_primes_sieved_on_android_poco_f5_i/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn1pxq/100m_primes_sieved_on_android_poco_f5_i/) · [↑ back to the list](#last-50-posts)
 
 *Title only, no body text.*
 
+<a id="post-26"></a>
+
 ### 26. Join Our Global Developer Community – No Egos, No Toxicity, Just Collaboration!
 
-2026-11-03 · u/IronEagle0007 · Info · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn02kj/join_our_global_developer_community_no_egos_no/)
+2026-11-03 · u/IronEagle0007 · Info · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xn02kj/join_our_global_developer_community_no_egos_no/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/n444ioefsfzh1.png>
 
@@ -398,16 +450,20 @@ Link: <https://i.redd.it/n444ioefsfzh1.png>
 >
 > https://chat.whatsapp.com/BSiM8seqThD8AyLD7XBBuz?s=cl&p=a&iam=2
 
+<a id="post-27"></a>
+
 ### 27. Every Python Developer Builds Strength One Concept at a Time!
 
-2026-11-03 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmzn0k/every_python_developer_builds_strength_one/)
+2026-11-03 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmzn0k/every_python_developer_builds_strength_one/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/z43fl25opfzh1.png>
 
 
+<a id="post-28"></a>
+
 ### 28. I'm looking for contributors and people to work with on a new project of mine!
 
-2026-11-03 · u/Positive_Owl_6442 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmxgbl/im_looking_for_contributors_and_people_to_work/)
+2026-11-03 · u/Positive_Owl_6442 · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmxgbl/im_looking_for_contributors_and_people_to_work/) · [↑ back to the list](#last-50-posts)
 
 > Hi! I created a new project called OpenFile. It's a file manager that I created in Python and PyQt6 and right now it's a simple terminal app file manager where you can type commands to interact with your filesystem! Later on I'm planning to add a UI to it, and improve it further.
 >
@@ -417,9 +473,11 @@ Link: <https://i.redd.it/z43fl25opfzh1.png>
 >
 > Thank you!
 
+<a id="post-29"></a>
+
 ### 29. compute_position error when passing "with_position(width,height)" to TextClip
 
-2026-11-03 · u/Equal_Eye_346 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmvujh/compute_position_error_when_passing_with/)
+2026-11-03 · u/Equal_Eye_346 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmvujh/compute_position_error_when_passing_with/) · [↑ back to the list](#last-50-posts)
 
 > Working on something to visualize pronunciation of written indigenous languages.  Not a python expert .. Using MoviePi and and Praatio packages
 >
@@ -512,9 +570,11 @@ Link: <https://i.redd.it/z43fl25opfzh1.png>
 >
 > final.write\_videofile("videofile.mp4",fps=12,audio\_codec="aac")
 
+<a id="post-30"></a>
+
 ### 30. i create project by python
 
-2026-11-03 · u/MOhamed_3874 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmth3y/i_create_project_by_python/)
+2026-11-03 · u/MOhamed_3874 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmth3y/i_create_project_by_python/) · [↑ back to the list](#last-50-posts)
 
 > Hi, I create project in github for add ads for your games and apps its url:
 >
@@ -522,16 +582,20 @@ Link: <https://i.redd.it/z43fl25opfzh1.png>
 >
 > its write by python 100%
 
+<a id="post-31"></a>
+
 ### 31. I built a desktop client for Antora docs in Python and PySide6 (closed source)
 
-2026-11-03 · u/Timon_OfAthens · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmt48u/i_built_a_desktop_client_for_antora_docs_in/)
+2026-11-03 · u/Timon_OfAthens · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmt48u/i_built_a_desktop_client_for_antora_docs_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_client_for_antora_docs_in/>
 
 
+<a id="post-32"></a>
+
 ### 32. Final-Year Data Science Student \| Python Data Analysis, Cleaning & Visualization
 
-2026-11-03 · u/studentDataScience · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmqdzl/finalyear_data_science_student_python_data/)
+2026-11-03 · u/studentDataScience · score 1 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmqdzl/finalyear_data_science_student_python_data/) · [↑ back to the list](#last-50-posts)
 
 > Hi! I’m a final-year Data Science & Engineering student from Spain. As you probably know, breaking into the job market is tough, so I’m looking for real projects to grow in the field and gain experience. If you have a project, an idea, or just need some help with your data, I’d love to help!
 >
@@ -544,9 +608,11 @@ Link: <https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_
 >
 > **I** would just ask for LinkedIn recommendation if you’re happy with my work.
 
+<a id="post-33"></a>
+
 ### 33. Game Shell
 
-2026-11-03 · u/Aggravating-Art-8544 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmnyh7/game_shell/)
+2026-11-03 · u/Aggravating-Art-8544 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmnyh7/game_shell/) · [↑ back to the list](#last-50-posts)
 
 > This project is for beginners.
 >
@@ -558,9 +624,11 @@ Link: <https://www.reddit.com/r/madeinpython/comments/1xmt3up/i_built_a_desktop_
 >
 > [https://codeberg.org/isam-ahmed0/gameshell](https://codeberg.org/isam-ahmed0/gameshell)
 
+<a id="post-34"></a>
+
 ### 34. 100M primes sieved on Android (POCO F5) - I classified primes by symmetric pairs \[HUB\] - pi(100M) verified. Is density drop near composite Mersennes known?
 
-2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 4 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmmfx9/100m_primes_sieved_on_android_poco_f5_i/)
+2026-11-03 · u/Dry-Neighborhood-412 · score 0 · 4 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmmfx9/100m_primes_sieved_on_android_poco_f5_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmmfx9>
 
@@ -592,16 +660,20 @@ Link: <https://www.reddit.com/gallery/1xmmfx9>
 >
 > Can anyone independently check the HUB density around 2047 and 8388607?
 
+<a id="post-35"></a>
+
 ### 35. Test Your Knowledge!
 
-2026-11-03 · u/svanidzelal · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmjjf2/test_your_knowledge/)
+2026-11-03 · u/svanidzelal · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xmjjf2/test_your_knowledge/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/31gz0j5isbzh1.jpeg>
 
 
+<a id="post-36"></a>
+
 ### 36. I built CyberNest, a Python dependency security tool, while learning cybersecurity
 
-2026-11-02 · u/MrBucurN · Controversial · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xma634/i_built_cybernest_a_python_dependency_security/)
+2026-11-02 · u/MrBucurN · Controversial · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xma634/i_built_cybernest_a_python_dependency_security/) · [↑ back to the list](#last-50-posts)
 
 > **CyberNest — A Python-based cybersecurity project**
 >
@@ -623,17 +695,21 @@ Link: <https://i.redd.it/31gz0j5isbzh1.jpeg>
 >
 > Thanks for checking it out.
 
+<a id="post-37"></a>
+
 ### 37. Python
 
-2026-11-02 · u/Nervous-Employee-588 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm5y4v/python/)
+2026-11-02 · u/Nervous-Employee-588 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm5y4v/python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/6dgs4qd7x8zh1.jpeg>
 
 > Haha
 
+<a id="post-38"></a>
+
 ### 38. Neural Canvas: A Neural Network Visualization Project Using Python and JavaScript
 
-2026-11-02 · u/Muhammad-Essa · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm5i2z/neural_canvas_a_neural_network_visualization/)
+2026-11-02 · u/Muhammad-Essa · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm5i2z/neural_canvas_a_neural_network_visualization/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/n138ymi6u8zh1>
 
@@ -673,28 +749,36 @@ Link: <https://v.redd.it/n138ymi6u8zh1>
 > Live Demo:  
 > [https://muhammadessa2002.github.io/neural\_canvas](https://muhammadessa2002.github.io/neural_canvas)
 
+<a id="post-39"></a>
+
 ### 39. I built a cross-platform desktop video/audio downloader using Python & Kivy – Looking for honest feedback!
 
-2026-11-02 · u/Mohamed_477 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm2k8n/i_built_a_crossplatform_desktop_videoaudio/)
+2026-11-02 · u/Mohamed_477 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xm2k8n/i_built_a_crossplatform_desktop_videoaudio/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. Collaboration
 
-2026-11-02 · u/ResponsibleCloud3590 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlz6po/collaboration/)
+2026-11-02 · u/ResponsibleCloud3590 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlz6po/collaboration/) · [↑ back to the list](#last-50-posts)
 
 > Hi, im looking for someone who is familiar with using PyQt6 UIX that are interested in collaborating on a project. Pm me
 
+<a id="post-41"></a>
+
 ### 41. Pyton Quiz of the day.
 
-2026-11-02 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlxpmq/pyton_quiz_of_the_day/)
+2026-11-02 · u/clcodingupdates · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlxpmq/pyton_quiz_of_the_day/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xlxpih/pyton_quiz_of_the_day/>
 
 
+<a id="post-42"></a>
+
 ### 42. I rewrote edify, my Python library for building regex without writing regex by hand
 
-2026-11-02 · u/luciferreeves · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlvm7l/i_rewrote_edify_my_python_library_for_building/)
+2026-11-02 · u/luciferreeves · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlvm7l/i_rewrote_edify_my_python_library_for_building/) · [↑ back to the list](#last-50-posts)
 
 > Four years ago I shared edify on reddit because I hated writing regex by hand. I've since rewritten it around reusable patterns, a function-based API alongside RegexBuilder, and much more useful diagnostics.
 >
@@ -749,16 +833,20 @@ Link: <https://www.reddit.com/r/PythonLearning/comments/1xlxpih/pyton_quiz_of_th
 > PyPI: https://pypi.org/project/edify/  
 > Docs + playground: https://edify.readthedocs.io/
 
+<a id="post-43"></a>
+
 ### 43. Python Shopping Bill Program Using While Loop \| Fix Input Errors \| Begin...
 
-2026-11-02 · u/Pro_Programmer007 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xls8ax/python_shopping_bill_program_using_while_loop_fix/)
+2026-11-02 · u/Pro_Programmer007 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xls8ax/python_shopping_bill_program_using_while_loop_fix/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=kIZcedw2wUI&si=QYPziiTI0rz8cfVn>
 
 
+<a id="post-44"></a>
+
 ### 44. I made a Python Library for reoccuring schedueled task on a laptop that turns on and off
 
-2026-11-02 · u/Ill-Acanthaceae5630 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlr540/i_made_a_python_library_for_reoccuring_schedueled/)
+2026-11-02 · u/Ill-Acanthaceae5630 · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlr540/i_made_a_python_library_for_reoccuring_schedueled/) · [↑ back to the list](#last-50-posts)
 
 > I made LaptopScheduler, a Python scheduling library for Windows laptops.
 >
@@ -774,39 +862,49 @@ Link: <https://youtube.com/watch?v=kIZcedw2wUI&si=QYPziiTI0rz8cfVn>
 >
 > [https://github.com/seaweed8888/laptop-schedueler](https://github.com/seaweed8888/laptop-schedueler)
 
+<a id="post-45"></a>
+
 ### 45. Mr.Veeraragavan
 
-2026-11-02 · u/Ok_Aioli2605 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlquds/mrveeraragavan/)
+2026-11-02 · u/Ok_Aioli2605 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlquds/mrveeraragavan/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/PythonLearning/comments/1xlqtpc/mrveeraragavan/>
 
 > I am loading few large size **binary files** (70 MB19 nos. look\_up tables) in Main using more than 2/3 python files. On completion of the loading, I have to take up a series of search (in 3 or more threads) and arrive at the solution. I am using array.fromfile for loading which does not wait for loading completion. Hence, it fails saying array out of bounds. How do I delay the start of search, just till the loading is completed.
 
+<a id="post-46"></a>
+
 ### 46. I built a Python reference implementation for Data Mesh governance. Are data contracts enough to prevent downstream failures?
 
-2026-11-02 · u/GuidanceBrief612 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlp4uf/i_built_a_python_reference_implementation_for/)
+2026-11-02 · u/GuidanceBrief612 · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlp4uf/i_built_a_python_reference_implementation_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/ng958zary4zh1.png>
 
 
+<a id="post-47"></a>
+
 ### 47. Projects · TecharoHQ/anubis · GitHub
 
-2026-11-01 · u/RiderRaw69 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlgkh1/projects_techarohqanubis_github/)
+2026-11-01 · u/RiderRaw69 · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xlgkh1/projects_techarohqanubis_github/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/TecharoHQ/anubis/projects>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. PYTHON FOR BEGINNERS GC
 
-2026-11-01 · u/thePython3Guy · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl2ctn/python_for_beginners_gc/)
+2026-11-01 · u/thePython3Guy · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl2ctn/python_for_beginners_gc/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3yrqezd0tzyh1.png>
 
 
+<a id="post-49"></a>
+
 ### 49. \[Python C extension\] numagr v0.9
 
-2026-11-01 · u/lehmagavan · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl2a8q/python_c_extension_numagr_v09/)
+2026-11-01 · u/lehmagavan · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl2a8q/python_c_extension_numagr_v09/) · [↑ back to the list](#last-50-posts)
 
 > A Python C extension for statistics and number aggregation designed to work with both plain `int` and `float` objects, as well as with Python numeric strings without having to construct intermediate Python objects to hold their values - useful for large collections that need to be parsed as fast as possible - like trading data.
 >
@@ -820,16 +918,20 @@ Link: <https://i.redd.it/3yrqezd0tzyh1.png>
 >
 > This is an early version offering basic methods, I will be developing it further if I find the time. Feedback, improvement suggestions and bug reports are very much welcome.
 
+<a id="post-50"></a>
+
 ### 50. PyArchRules 1.0.0 — Architecture linter for Python
 
-2026-11-01 · u/EmuFeeling7341 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl23tn/pyarchrules_100_architecture_linter_for_python/)
+2026-11-01 · u/EmuFeeling7341 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl23tn/pyarchrules_100_architecture_linter_for_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Python/comments/1xl1zf1/pyarchrules_100_architecture_linter_for_python/>
 
 
+<a id="post-51"></a>
+
 ### 51. I made an assignment writer - text to handwrittten pages in pure python.
 
-2026-11-01 · u/HolyDaddyAss · Resource · score 57 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xkw593/i_made_an_assignment_writer_text_to_handwrittten/)
+2026-11-01 · u/HolyDaddyAss · Resource · score 57 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xkw593/i_made_an_assignment_writer_text_to_handwrittten/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xkw593>
 
@@ -845,9 +947,11 @@ Link: <https://www.reddit.com/gallery/1xkw593>
 >
 > ***Please Checkout the project -*** [***https://github.com/TheHritu/AssignmentWriter***](https://github.com/TheHritu/AssignmentWriter)
 
+<a id="post-52"></a>
+
 ### 52. Wirely: A circuit simulator in Python + PySide6 that now also runs in the browser with Pyodide
 
-2026-10-25 · u/EnoughImagination702 · Resource · score 29 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xex5af/wirely_a_circuit_simulator_in_python_pyside6_that/)
+2026-10-25 · u/EnoughImagination702 · Resource · score 29 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xex5af/wirely_a_circuit_simulator_in_python_pyside6_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/6qjh64dbskxh1>
 
@@ -862,45 +966,57 @@ Link: <https://v.redd.it/6qjh64dbskxh1>
 >
 > Free and GPL-3. Built with a lot of help from Claude (an AI assistant). Feedback welcome!
 
+<a id="post-53"></a>
+
 ### 53. Create Interactive Maps Using Python!
 
-2026-10-30 · u/clcodingupdates · score 18 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xjnc0f/create_interactive_maps_using_python/)
+2026-10-30 · u/clcodingupdates · score 18 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xjnc0f/create_interactive_maps_using_python/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/048pve9ldnyh1.png>
 
 
+<a id="post-54"></a>
+
 ### 54. My first project on PY
 
-2026-10-16 · u/kei_keii · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x7obuw/my_first_project_on_py/)
+2026-10-16 · u/kei_keii · score 14 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x7obuw/my_first_project_on_py/) · [↑ back to the list](#last-50-posts)
 
 > Hi I’m learning coding with PY and I’ve just published my first “serious” project on GitHub, I would really appreciate suggestions and opinions about it!
 >
 > https://github.com/kkoket
 
+<a id="post-55"></a>
+
 ### 55. 🐍 𝗣𝘆𝘁𝗵𝗼𝗻 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗵𝗮𝘀 𝗮 𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁.
 
-2026-10-24 · u/Both-Basil1635 · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xe2ay9/𝗣𝘆𝘁𝗵𝗼𝗻_𝗳𝗶𝗻𝗮𝗹𝗹𝘆_𝗵𝗮𝘀_𝗮_𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁/)
+2026-10-24 · u/Both-Basil1635 · score 10 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xe2ay9/𝗣𝘆𝘁𝗵𝗼𝗻_𝗳𝗶𝗻𝗮𝗹𝗹𝘆_𝗵𝗮𝘀_𝗮_𝗳𝗿𝗼𝘇𝗲𝗻𝗱𝗶𝗰𝘁/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/fzgeco9gadxh1.png>
 
 
+<a id="post-56"></a>
+
 ### 56. I built an open-source scientific modeling engine because simulations should be reproducible, not just look convincing
 
-2026-10-16 · u/Emergency-Tutor-7 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x72gng/i_built_an_opensource_scientific_modeling_engine/)
+2026-10-16 · u/Emergency-Tutor-7 · score 6 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x72gng/i_built_an_opensource_scientific_modeling_engine/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/52n0r0qnx2vh1.png>
 
 
+<a id="post-57"></a>
+
 ### 57. RepoTrace
 
-2026-10-18 · u/smthg-nthg · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x95srz/repotrace/)
+2026-10-18 · u/smthg-nthg · score 5 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x95srz/repotrace/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wcyn55y7t8wh1.png>
 
 
+<a id="post-58"></a>
+
 ### 58. pyMultiFit 2.0.0 is out: Fitting, diagnostic plots, and more
 
-2026-10-23 · u/AstrophysicsAndPy · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xdouhy/pymultifit_200_is_out_fitting_diagnostic_plots/)
+2026-10-23 · u/AstrophysicsAndPy · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xdouhy/pymultifit_200_is_out_fitting_diagnostic_plots/) · [↑ back to the list](#last-50-posts)
 
 > Just shipped v2.0.0 of pyMultiFit, a library for fitting data that's a sum of several components (overlapping Gaussians, skew-normals, log-normals, etc.). It's pyOpenSci peer-reviewed and published in JOSS (v1.0.7; [https://joss.theoj.org/papers/10.21105/joss.09295.pdf](https://joss.theoj.org/papers/10.21105/joss.09295.pdf) ).
 >
@@ -959,9 +1075,11 @@ Link: <https://i.redd.it/wcyn55y7t8wh1.png>
 >
 > Feedback welcome, especially on the plotting API.
 
+<a id="post-59"></a>
+
 ### 59. Built a real-time IoT dashboard with Python, MQTT, and Supabase to sync physical sensors with the web
 
-2026-10-22 · u/onnatsari · Resource · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xc7hkf/built_a_realtime_iot_dashboard_with_python_mqtt/)
+2026-10-22 · u/onnatsari · Resource · score 5 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xc7hkf/built_a_realtime_iot_dashboard_with_python_mqtt/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/5ujexya1kxwh1>
 
@@ -980,9 +1098,11 @@ Link: <https://v.redd.it/5ujexya1kxwh1>
 >
 > Would love to hear your thoughts on the architecture or any tips you might have for scaling MQTT connections in Python.
 
+<a id="post-60"></a>
+
 ### 60. \[Project\] ViCalc 5 – Bringing the magic of classic hardware calculators to your PC keyboard
 
-2026-10-11 · u/Intelligent_Rice7138 · Info · score 4 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x36u88/project_vicalc_5_bringing_the_magic_of_classic/)
+2026-10-11 · u/Intelligent_Rice7138 · Info · score 4 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x36u88/project_vicalc_5_bringing_the_magic_of_classic/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x36u88>
 
@@ -1019,9 +1139,11 @@ Link: <https://www.reddit.com/gallery/1x36u88>
 >
 > I’d love to hear your feedback, thoughts, or feature suggestions!
 
+<a id="post-61"></a>
+
 ### 61. Stock zxcvbn calls ~59% of common Hinglish passwords Fair or Strong. I built an early-stage checker that spelling-normalizes them (feedback wanted)
 
-2026-10-23 · u/Paraxanos · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xdhkgh/stock_zxcvbn_calls_59_of_common_hinglish/)
+2026-10-23 · u/Paraxanos · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xdhkgh/stock_zxcvbn_calls_59_of_common_hinglish/) · [↑ back to the list](#last-50-posts)
 
 > zxcvbn knows English words. It does not know that `priyanka`, `priyankaa` and `प्रियंका` are the  
 > same name, or that `py@r` is `pyar`, so passwords like `jaishreeram` or `rahul2803` look  
@@ -1055,26 +1177,32 @@ Link: <https://www.reddit.com/gallery/1x36u88>
 >
 > Repo: [https://github.com/Paraxanos/Taala](https://github.com/Paraxanos/Taala)
 
+<a id="post-62"></a>
+
 ### 62. I'm building ColorIDE, an open-source IDE focused on performance, developer, freedom, and local first development
 
-2026-10-28 · u/Senior_Professor8037 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xi1e2a/im_building_coloride_an_opensource_ide_focused_on/)
+2026-10-28 · u/Senior_Professor8037 · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xi1e2a/im_building_coloride_an_opensource_ide_focused_on/) · [↑ back to the list](#last-50-posts)
 
 > Our goal is much bigger: we want to keep adding powerful features, build a community of contributors, and eventually make ColorIDE a serious alternative. Its still early, currently supports macOS Apple Silicon, and we would love your feedback :). It's made 35.5% with python.
 >
 > Github: [https://github.com/Color-IDE/coloride](https://github.com/Color-IDE/coloride)
 
+<a id="post-63"></a>
+
 ### 63. I created a structured JSON FAQ dataset + Python script for Customer Support chatbots
 
-2026-10-19 · u/amaarx · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x9u3ty/i_created_a_structured_json_faq_dataset_python/)
+2026-10-19 · u/amaarx · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x9u3ty/i_created_a_structured_json_faq_dataset_python/) · [↑ back to the list](#last-50-posts)
 
 > Hey guys,
 > I wrote a quick Python script to structure customer support questions and answers into a clean JSON file.
 > It’s ready to go and perfect if you are building an AI chatbot or setting up a new online store.
 > Drop me a DM if you need the file or want something similar for your project
 
+<a id="post-64"></a>
+
 ### 64. Complete Matplotlib Library Graphing Tutorial using Python in under 1 Hour
 
-2026-10-17 · u/xanthium_in · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x8hj7n/complete_matplotlib_library_graphing_tutorial/)
+2026-10-17 · u/xanthium_in · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x8hj7n/complete_matplotlib_library_graphing_tutorial/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=r2hsO3cffu4>
 
@@ -1106,17 +1234,21 @@ Link: <https://www.youtube.com/watch?v=r2hsO3cffu4>
 >
 > By the end of this tutorial, you will have a better understanding of how Matplotlib works and how its different components can be used to create customized line graphs.
 
+<a id="post-65"></a>
+
 ### 65. Tamagochi PY project
 
-2026-10-18 · u/kei_keii · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x9cmsj/tamagochi_py_project/)
+2026-10-18 · u/kei_keii · score 3 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x9cmsj/tamagochi_py_project/) · [↑ back to the list](#last-50-posts)
 
 > Hi! I’m making a new PY project inspired by tamagochis, need suggestions and feedbacks!
 >
 > https://github.com/kkoket/Your-Goth-Girl
 
+<a id="post-66"></a>
+
 ### 66. My first Github Project
 
-2026-10-15 · u/Wonderful_Bee_3281 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x6sm2p/my_first_github_project/)
+2026-10-15 · u/Wonderful_Bee_3281 · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1x6sm2p/my_first_github_project/) · [↑ back to the list](#last-50-posts)
 
 > i have created my first github project for my college mini project.  
 > your review will help us a lot.
@@ -1134,9 +1266,11 @@ Link: <https://www.youtube.com/watch?v=r2hsO3cffu4>
 >
 > >
 
+<a id="post-67"></a>
+
 ### 67. Flak Tower
 
-2026-11-01 · u/scapaflow96 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl0b7l/flak_tower/)
+2026-11-01 · u/scapaflow96 · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xl0b7l/flak_tower/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/2kcor4hgezyh1>
 
@@ -1144,9 +1278,11 @@ Link: <https://v.redd.it/2kcor4hgezyh1>
 >
 > Thumbs up if you liked it.
 
+<a id="post-68"></a>
+
 ### 68. Announcing Snek - a free, open-source, GUI front end to Python inspired by Alteryx
 
-2026-10-31 · u/QuesoHusker · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xkcho1/announcing_snek_a_free_opensource_gui_front_end/)
+2026-10-31 · u/QuesoHusker · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/PythonProjects2/comments/1xkcho1/announcing_snek_a_free_opensource_gui_front_end/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/CFBAnalysis/comments/1xkch4x/announcing_snek_a_free_opensource_gui_front_end/>
 

@@ -40,56 +40,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [GA Tracking - Consent Impact](https://www.reddit.com/r/GoogleAnalytics/comments/1xpw5l4/ga_tracking_consent_impact/) | u/ImpactThen9490 | Question | text | 3 | 12 | live | — |
-| 2 | 2026-11-07 | [Any recommendations for a good GA4 course/certification that also covers Google Tag Manager?](https://www.reddit.com/r/GoogleAnalytics/comments/1xptqgc/any_recommendations_for_a_good_ga4/) | u/Fantastic_Reality_52 | Question | text | 6 | 13 | live | — |
-| 3 | 2026-11-07 | [A new Auto Audit Chrome Extension!](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt3jp/a_new_auto_audit_chrome_extension/) | u/Sanctimoniusess | Support | text | 2 | 3 | live | — |
-| 4 | 2026-11-07 | [A new Auto Audit Chrome Extension!](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt34x/a_new_auto_audit_chrome_extension/) | u/Sanctimoniusess | Support | text | 1 | 0 | removed by mod | — |
-| 5 | 2026-11-06 | [GA4 Comversion management question](https://www.reddit.com/r/GoogleAnalytics/comments/1xpohir/ga4_comversion_management_question/) | u/Melodic_Drive7152 | Question | text | 2 | 4 | live | — |
-| 6 | 2026-11-06 | [Customer pays, the order shows in Shopify, but GA4 never sees the sale. How do you handle it?](https://www.reddit.com/r/GoogleAnalytics/comments/1xpc6sw/customer_pays_the_order_shows_in_shopify_but_ga4/) | u/rytisbalys | Discussion | text | 3 | 9 | live | — |
-| 7 | 2026-11-06 | [Bots in Google Analytics](https://www.reddit.com/r/GoogleAnalytics/comments/1xpanfo/bots_in_google_analytics/) | u/sumizeit | Question | text | 14 | 16 | live | — |
-| 8 | 2026-11-06 | [Is anyone experiencing a sudden drop in GA4 Realtime active users?](https://www.reddit.com/r/GoogleAnalytics/comments/1xp4en3/is_anyone_experiencing_a_sudden_drop_in_ga4/) | u/Desperate_Peak2040 | Question | text | 7 | 5 | live | — |
-| 9 | 2026-11-05 | [New Chrome extension creator here, so i am pretty sure data from google analytics is faulty/innacurate , so i…](https://www.reddit.com/r/GoogleAnalytics/comments/1xostno/new_chrome_extension_creator_here_so_i_am_pretty/) | u/Roblox4597 | Question | text | 1 | 4 | live | — |
-| 10 | 2026-11-04 | [Audited a jewellery shop's Google Analytics. Visits up 4× (mostly from ads), but the conversion rate took a m…](https://www.reddit.com/r/GoogleAnalytics/comments/1xnzbd9/audited_a_jewellery_shops_google_analytics_visits/) | u/lednotzed | Discussion | text | 0 | 4 | live | — |
-| 11 | 2026-11-04 | [GA4 is counting form submissions twice — where would you start debugging?](https://www.reddit.com/r/GoogleAnalytics/comments/1xnsh8x/ga4_is_counting_form_submissions_twice_where/) | u/ildoprendi | Discussion | text | 6 | 11 | live | — |
-| 12 | 2026-11-04 | [How much confidence should we really place in GA4 attribution?](https://www.reddit.com/r/GoogleAnalytics/comments/1xnp379/how_much_confidence_should_we_really_place_in_ga4/) | u/Frequent-Oil-1379 | Discussion | text | 3 | 9 | live | — |
-| 13 | 2026-11-04 | [GA4's AI Assistant channel is useful, but it doesn't show every ChatGPT visit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnl9o0/ga4s_ai_assistant_channel_is_useful_but_it_doesnt/) | u/sponsored-post-hub | Discussion | text | 1 | 1 | spam-filtered | — |
-| 14 | 2026-11-04 | [Debug View Not Connected](https://www.reddit.com/r/GoogleAnalytics/comments/1xne7d2/debug_view_not_connected/) | u/Aggravating_Match894 | Question | text | 6 | 8 | live | — |
-| 15 | 2026-11-02 | [SevenRooms booking event fires in GTM, but no GA4 hit is being sent](https://www.reddit.com/r/GoogleAnalytics/comments/1xm7inl/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/) | u/SwimStrange6265 | Question | text | 3 | 3 | approved | — |
-| 16 | 2026-11-02 | [Has anyone here tracked SevenRooms bookings using Google Tag Manager and GA4?](https://www.reddit.com/r/GoogleAnalytics/comments/1xm67dq/has_anyone_here_tracked_sevenrooms_bookings_using/) | u/SwimStrange6265 | Question | text | 1 | 2 | approved | — |
-| 17 | 2026-11-02 | [SevenRooms booking event fires in GTM, but no GA4 hit is being sent. Has anyone solved this?](https://www.reddit.com/r/GoogleAnalytics/comments/1xm5wpj/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/) | u/SwimStrange6265 | Question | text | 1 | 4 | approved | — |
-| 18 | 2026-11-02 | [If "Continue with Google" lands people on a page you don't tag, GA4 never sees that sign_up. 3 holes I found…](https://www.reddit.com/r/GoogleAnalytics/comments/1xltb5e/if_continue_with_google_lands_people_on_a_page/) | u/DutyOnly4308 | Discussion | text | 1 | 0 | removed by mod | — |
-| 19 | 2026-10-31 | [GA4 Event vs GTM Tag Result](https://www.reddit.com/r/GoogleAnalytics/comments/1xkbt1m/ga4_event_vs_gtm_tag_result/) | u/Melodic_Drive7152 | Question | text | 3 | 20 | live | — |
-| 20 | 2026-10-31 | [GA4 lead tracking: how do you test that one successful form submission is counted once?](https://www.reddit.com/r/GoogleAnalytics/comments/1xk94pt/ga4_lead_tracking_how_do_you_test_that_one/) | u/Formal_Try_5330 | Discussion | text | 0 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
-| 21 | 2026-10-29 | [Connected my GA to claude](https://www.reddit.com/r/GoogleAnalytics/comments/1xie4us/connected_my_ga_to_claude/) | u/Soup-Apprehensive | Support | text | 1 | 1 | spam-filtered | — |
-| 22 | 2026-10-28 | [Quick Question](https://www.reddit.com/r/GoogleAnalytics/comments/1xhjfjm/quick_question/) | u/National-Rhubarb6846 | Discussion | text | 1 | 1 | spam-filtered | — |
-| 23 | 2026-10-28 | [How Can I Add a Total Users Column in GA4 Traffic Acquisition?](https://www.reddit.com/r/GoogleAnalytics/comments/1xhhplr/how_can_i_add_a_total_users_column_in_ga4_traffic/) | u/National-Rhubarb6846 | Question | text | 1 | 1 | spam-filtered | — |
-| 24 | 2026-10-27 | [Quick question](https://www.reddit.com/r/GoogleAnalytics/comments/1xgsuxt/quick_question/) | u/manifestinglasoul | Question | text | 5 | 8 | deleted by author | — |
-| 25 | 2026-10-27 | [You get $100 to buy an MMM. What are you hoping to get out of it?](https://www.reddit.com/r/GoogleAnalytics/comments/1xgogtn/you_get_100_to_buy_an_mmm_what_are_you_hoping_to/) | u/brinkeranalytics | Question | text | 0 | 7 | live | — |
-| 26 | 2026-10-26 | [Should I be worried that my GA4 numbers don't match the ad platforms?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfrp7t/should_i_be_worried_that_my_ga4_numbers_dont/) | u/HighCouncelor | Question | text | 3 | 18 | live | — |
-| 27 | 2026-10-26 | [How do people manage access for clients?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfi2se/how_do_people_manage_access_for_clients/) | u/Johnny__Escobar | Question | text | 4 | 6 | live | — |
-| 28 | 2026-10-25 | [Checking the value and currency your GA4 purchase event sends](https://www.reddit.com/r/GoogleAnalytics/comments/1xffvkf/checking_the_value_and_currency_your_ga4_purchase/) | u/wbbwbb1 | Discussion | text | 1 | 0 | removed by mod | — |
-| 29 | 2026-10-25 | [I've been hired to give insights but it feels impossible to find the time to do so. How do i navigate this?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfc9xb/ive_been_hired_to_give_insights_but_it_feels/) | u/Oldfriendoldproblem | Support | text | 9 | 28 | live | — |
-| 30 | 2026-10-24 | [Is testing Meta Ads interests separately before combining the winners still a good strategy for a clothing br…](https://www.reddit.com/r/GoogleAnalytics/comments/1xe9g6c/is_testing_meta_ads_interests_separately_before/) | u/Resident-Spinach7750 | Question | text | 1 | 4 | live | — |
-| 31 | 2026-10-23 | [UK: is GA4 down?](https://www.reddit.com/r/GoogleAnalytics/comments/1xdo1z3/uk_is_ga4_down/) | u/shubbanubba | Question | text | 1 | 1 | live | — |
-| 32 | 2026-10-23 | [Can conversion fall even when neither traffic channel gets worse?](https://www.reddit.com/r/GoogleAnalytics/comments/1xdd9kx/can_conversion_fall_even_when_neither_traffic/) | u/rohan_kulkarni | Discussion | text | 1 | 6 | live | — |
-| 33 | 2026-10-23 | [Why Server-Side GTM Alone Still Loses 20–30% of Conversion Signals (And How Offline Conversion Imports Bridge…](https://www.reddit.com/r/GoogleAnalytics/comments/1xda8vi/why_serverside_gtm_alone_still_loses_2030_of/) | u/incisiveranking2022 | Discussion | text | 0 | 6 | live | — |
-| 34 | 2026-10-22 | [Title: What's the best way to get my first sales without wasting more money on Meta Ads? (European clothing b…](https://www.reddit.com/r/GoogleAnalytics/comments/1xcvq1f/title_whats_the_best_way_to_get_my_first_sales/) | u/Resident-Spinach7750 | Question | text | 1 | 5 | live | — |
-| 35 | 2026-10-22 | [Conversion Action Questions](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuxqa/conversion_action_questions/) | u/Melodic_Drive7152 | Question | text | 1 | 9 | live | — |
-| 36 | 2026-10-22 | [My account is getting ad traffic/sessions out of Oklahoma State](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuun8/my_account_is_getting_ad_trafficsessions_out_of/) | u/magnetictheagency | Question | text | 1 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
-| 37 | 2026-10-22 | [Instructions for placing the Google tag are misleading](https://www.reddit.com/r/GoogleAnalytics/comments/1xcq1su/instructions_for_placing_the_google_tag_are/) | u/IanRastall | Support | text | 1 | 1 | live | — |
-| 38 | 2026-10-21 | [Looking for beta testers to validate our marketing setup detection tool](https://www.reddit.com/r/GoogleAnalytics/comments/1xbtwet/looking_for_beta_testers_to_validate_our/) | u/Impossible-Bonus9003 | Support | text | 3 | 3 | live | — |
-| 39 | 2026-10-21 | [Is ChatGPT referral traffic being misattributed in Google Analytics?](https://www.reddit.com/r/GoogleAnalytics/comments/1xbf5eq/is_chatgpt_referral_traffic_being_misattributed/) | u/No-Echidna3553 | Discussion | text | 6 | 15 | live | — |
-| 40 | 2026-10-20 | [Is Anyone Else Experiencing Delays in Google Analytics Metrics?](https://www.reddit.com/r/GoogleAnalytics/comments/1xaumfu/is_anyone_else_experiencing_delays_in_google/) | u/rklement22 | Question | text | 7 | 10 | live | — |
-| 41 | 2026-10-20 | [Singapore Bots?](https://www.reddit.com/r/GoogleAnalytics/comments/1xatgr5/singapore_bots/) | u/Khalyisk | Question | text | 1 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
-| 42 | 2026-10-19 | [Anyone else dealing with sudden spike in Direct Traffic?](https://www.reddit.com/r/GoogleAnalytics/comments/1xa4sy0/anyone_else_dealing_with_sudden_spike_in_direct/) | u/Quick-Rip7224 | Question | text | 5 | 24 | live | — |
-| 43 | 2026-10-19 | [Google Ads vs. GA4 Attribution](https://www.reddit.com/r/GoogleAnalytics/comments/1xa3r14/google_ads_vs_ga4_attribution/) | u/santy_1907 | Question | text | 2 | 12 | live | — |
-| 44 | 2026-10-18 | [Plugin Google Analytics 4 on Chat GPT](https://www.reddit.com/r/GoogleAnalytics/comments/1x9gdqp/plugin_google_analytics_4_on_chat_gpt/) | u/Ok-Philosopher3877 | Question | text | 6 | 22 | live | — |
-| 45 | 2026-10-17 | [Google Analytics reports delayed by a full day since Oct 15](https://www.reddit.com/r/GoogleAnalytics/comments/1x8iy4g/google_analytics_reports_delayed_by_a_full_day/) | u/engincode | Question | text | 18 | 31 | live | — |
-| 46 | 2026-10-17 | [Should I exclude Stripe redirections from "source of traffic " to the website?](https://www.reddit.com/r/GoogleAnalytics/comments/1x89s76/should_i_exclude_stripe_redirections_from_source/) | u/ashkanahmadi | Question | text | 1 | 5 | live | — |
-| 47 | 2026-10-17 | [Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester](https://www.reddit.com/r/GoogleAnalytics/comments/1x88qxz/always_getting_regex_not_working_in_ga4_its/) | u/countoftuscany89 | Discussion | text | 1 | 0 | removed by mod | — |
-| 48 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](https://www.reddit.com/r/GoogleAnalytics/comments/1x88cdb/i_compared_serverside_and_offline_purchase/) | u/incisiveranking2022 | Discussion | text | 6 | 8 | live | — |
-| 49 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](https://www.reddit.com/r/GoogleAnalytics/comments/1x86n3k/i_compared_serverside_and_offline_purchase/) | u/incisiveranking2022 | Discussion | text | 1 | 0 | removed by mod | — |
-| 50 | 2026-10-17 | [Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester](https://www.reddit.com/r/GoogleAnalytics/comments/1x86lti/always_getting_regex_not_working_in_ga4_its/) | u/countoftuscany89 | Support | text | 0 | 0 | removed by mod | — |
+| 1 | 2026-11-07 | [GA Tracking - Consent Impact](#post-1) | u/ImpactThen9490 | Question | text | 3 | 12 | live | — |
+| 2 | 2026-11-07 | [Any recommendations for a good GA4 course/certification that also covers Google Tag Manager?](#post-2) | u/Fantastic_Reality_52 | Question | text | 6 | 13 | live | — |
+| 3 | 2026-11-07 | [A new Auto Audit Chrome Extension!](#post-3) | u/Sanctimoniusess | Support | text | 2 | 3 | live | — |
+| 4 | 2026-11-07 | [A new Auto Audit Chrome Extension!](#post-4) | u/Sanctimoniusess | Support | text | 1 | 0 | removed by mod | — |
+| 5 | 2026-11-06 | [GA4 Comversion management question](#post-5) | u/Melodic_Drive7152 | Question | text | 2 | 4 | live | — |
+| 6 | 2026-11-06 | [Customer pays, the order shows in Shopify, but GA4 never sees the sale. How do you handle it?](#post-6) | u/rytisbalys | Discussion | text | 3 | 9 | live | — |
+| 7 | 2026-11-06 | [Bots in Google Analytics](#post-7) | u/sumizeit | Question | text | 14 | 16 | live | — |
+| 8 | 2026-11-06 | [Is anyone experiencing a sudden drop in GA4 Realtime active users?](#post-8) | u/Desperate_Peak2040 | Question | text | 7 | 5 | live | — |
+| 9 | 2026-11-05 | [New Chrome extension creator here, so i am pretty sure data from google analytics is faulty/innacurate , so i…](#post-9) | u/Roblox4597 | Question | text | 1 | 4 | live | — |
+| 10 | 2026-11-04 | [Audited a jewellery shop's Google Analytics. Visits up 4× (mostly from ads), but the conversion rate took a m…](#post-10) | u/lednotzed | Discussion | text | 0 | 4 | live | — |
+| 11 | 2026-11-04 | [GA4 is counting form submissions twice — where would you start debugging?](#post-11) | u/ildoprendi | Discussion | text | 6 | 11 | live | — |
+| 12 | 2026-11-04 | [How much confidence should we really place in GA4 attribution?](#post-12) | u/Frequent-Oil-1379 | Discussion | text | 3 | 9 | live | — |
+| 13 | 2026-11-04 | [GA4's AI Assistant channel is useful, but it doesn't show every ChatGPT visit](#post-13) | u/sponsored-post-hub | Discussion | text | 1 | 1 | spam-filtered | — |
+| 14 | 2026-11-04 | [Debug View Not Connected](#post-14) | u/Aggravating_Match894 | Question | text | 6 | 8 | live | — |
+| 15 | 2026-11-02 | [SevenRooms booking event fires in GTM, but no GA4 hit is being sent](#post-15) | u/SwimStrange6265 | Question | text | 3 | 3 | approved | — |
+| 16 | 2026-11-02 | [Has anyone here tracked SevenRooms bookings using Google Tag Manager and GA4?](#post-16) | u/SwimStrange6265 | Question | text | 1 | 2 | approved | — |
+| 17 | 2026-11-02 | [SevenRooms booking event fires in GTM, but no GA4 hit is being sent. Has anyone solved this?](#post-17) | u/SwimStrange6265 | Question | text | 1 | 4 | approved | — |
+| 18 | 2026-11-02 | [If "Continue with Google" lands people on a page you don't tag, GA4 never sees that sign_up. 3 holes I found…](#post-18) | u/DutyOnly4308 | Discussion | text | 1 | 0 | removed by mod | — |
+| 19 | 2026-10-31 | [GA4 Event vs GTM Tag Result](#post-19) | u/Melodic_Drive7152 | Question | text | 3 | 20 | live | — |
+| 20 | 2026-10-31 | [GA4 lead tracking: how do you test that one successful form submission is counted once?](#post-20) | u/Formal_Try_5330 | Discussion | text | 0 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
+| 21 | 2026-10-29 | [Connected my GA to claude](#post-21) | u/Soup-Apprehensive | Support | text | 1 | 1 | spam-filtered | — |
+| 22 | 2026-10-28 | [Quick Question](#post-22) | u/National-Rhubarb6846 | Discussion | text | 1 | 1 | spam-filtered | — |
+| 23 | 2026-10-28 | [How Can I Add a Total Users Column in GA4 Traffic Acquisition?](#post-23) | u/National-Rhubarb6846 | Question | text | 1 | 1 | spam-filtered | — |
+| 24 | 2026-10-27 | [Quick question](#post-24) | u/manifestinglasoul | Question | text | 5 | 8 | deleted by author | — |
+| 25 | 2026-10-27 | [You get $100 to buy an MMM. What are you hoping to get out of it?](#post-25) | u/brinkeranalytics | Question | text | 0 | 7 | live | — |
+| 26 | 2026-10-26 | [Should I be worried that my GA4 numbers don't match the ad platforms?](#post-26) | u/HighCouncelor | Question | text | 3 | 18 | live | — |
+| 27 | 2026-10-26 | [How do people manage access for clients?](#post-27) | u/Johnny__Escobar | Question | text | 4 | 6 | live | — |
+| 28 | 2026-10-25 | [Checking the value and currency your GA4 purchase event sends](#post-28) | u/wbbwbb1 | Discussion | text | 1 | 0 | removed by mod | — |
+| 29 | 2026-10-25 | [I've been hired to give insights but it feels impossible to find the time to do so. How do i navigate this?](#post-29) | u/Oldfriendoldproblem | Support | text | 9 | 28 | live | — |
+| 30 | 2026-10-24 | [Is testing Meta Ads interests separately before combining the winners still a good strategy for a clothing br…](#post-30) | u/Resident-Spinach7750 | Question | text | 1 | 4 | live | — |
+| 31 | 2026-10-23 | [UK: is GA4 down?](#post-31) | u/shubbanubba | Question | text | 1 | 1 | live | — |
+| 32 | 2026-10-23 | [Can conversion fall even when neither traffic channel gets worse?](#post-32) | u/rohan_kulkarni | Discussion | text | 1 | 6 | live | — |
+| 33 | 2026-10-23 | [Why Server-Side GTM Alone Still Loses 20–30% of Conversion Signals (And How Offline Conversion Imports Bridge…](#post-33) | u/incisiveranking2022 | Discussion | text | 0 | 6 | live | — |
+| 34 | 2026-10-22 | [Title: What's the best way to get my first sales without wasting more money on Meta Ads? (European clothing b…](#post-34) | u/Resident-Spinach7750 | Question | text | 1 | 5 | live | — |
+| 35 | 2026-10-22 | [Conversion Action Questions](#post-35) | u/Melodic_Drive7152 | Question | text | 1 | 9 | live | — |
+| 36 | 2026-10-22 | [My account is getting ad traffic/sessions out of Oklahoma State](#post-36) | u/magnetictheagency | Question | text | 1 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
+| 37 | 2026-10-22 | [Instructions for placing the Google tag are misleading](#post-37) | u/IanRastall | Support | text | 1 | 1 | live | — |
+| 38 | 2026-10-21 | [Looking for beta testers to validate our marketing setup detection tool](#post-38) | u/Impossible-Bonus9003 | Support | text | 3 | 3 | live | — |
+| 39 | 2026-10-21 | [Is ChatGPT referral traffic being misattributed in Google Analytics?](#post-39) | u/No-Echidna3553 | Discussion | text | 6 | 15 | live | — |
+| 40 | 2026-10-20 | [Is Anyone Else Experiencing Delays in Google Analytics Metrics?](#post-40) | u/rklement22 | Question | text | 7 | 10 | live | — |
+| 41 | 2026-10-20 | [Singapore Bots?](#post-41) | u/Khalyisk | Question | text | 1 | 1 | removed by mod | Your submission has been automatically removed because you are new to our community, spend more tim… |
+| 42 | 2026-10-19 | [Anyone else dealing with sudden spike in Direct Traffic?](#post-42) | u/Quick-Rip7224 | Question | text | 5 | 24 | live | — |
+| 43 | 2026-10-19 | [Google Ads vs. GA4 Attribution](#post-43) | u/santy_1907 | Question | text | 2 | 12 | live | — |
+| 44 | 2026-10-18 | [Plugin Google Analytics 4 on Chat GPT](#post-44) | u/Ok-Philosopher3877 | Question | text | 6 | 22 | live | — |
+| 45 | 2026-10-17 | [Google Analytics reports delayed by a full day since Oct 15](#post-45) | u/engincode | Question | text | 18 | 31 | live | — |
+| 46 | 2026-10-17 | [Should I exclude Stripe redirections from "source of traffic " to the website?](#post-46) | u/ashkanahmadi | Question | text | 1 | 5 | live | — |
+| 47 | 2026-10-17 | [Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester](#post-47) | u/countoftuscany89 | Discussion | text | 1 | 0 | removed by mod | — |
+| 48 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](#post-48) | u/incisiveranking2022 | Discussion | text | 6 | 8 | live | — |
+| 49 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](#post-49) | u/incisiveranking2022 | Discussion | text | 1 | 0 | removed by mod | — |
+| 50 | 2026-10-17 | [Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester](#post-50) | u/countoftuscany89 | Support | text | 0 | 0 | removed by mod | — |
 
 ## Top 20 posts, last 30 days
 
@@ -97,51 +97,57 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 45 | 2026-10-17 | [Google Analytics reports delayed by a full day since Oct 15](https://www.reddit.com/r/GoogleAnalytics/comments/1x8iy4g/google_analytics_reports_delayed_by_a_full_day/) | u/engincode | Question | text | 18 | 31 | live |
-| 51 | 2026-10-12 | [Struggling in my new role where I need to leverage GA4 to give insights. Any advice?](https://www.reddit.com/r/GoogleAnalytics/comments/1x48x2o/struggling_in_my_new_role_where_i_need_to/) | u/Oldfriendoldproblem | Support | text | 14 | 18 | live |
-| 7 | 2026-11-06 | [Bots in Google Analytics](https://www.reddit.com/r/GoogleAnalytics/comments/1xpanfo/bots_in_google_analytics/) | u/sumizeit | Question | text | 14 | 16 | live |
-| 29 | 2026-10-25 | [I've been hired to give insights but it feels impossible to find the time to do so. How do i navigate this?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfc9xb/ive_been_hired_to_give_insights_but_it_feels/) | u/Oldfriendoldproblem | Support | text | 9 | 28 | live |
-| 52 | 2026-10-16 | [GA active users for all properties showing as 0 since yesterday, no changes in any website](https://www.reddit.com/r/GoogleAnalytics/comments/1x7rtlt/ga_active_users_for_all_properties_showing_as_0/) | u/7timesdwn8timesup | Discussion | text | 7 | 15 | live |
-| 40 | 2026-10-20 | [Is Anyone Else Experiencing Delays in Google Analytics Metrics?](https://www.reddit.com/r/GoogleAnalytics/comments/1xaumfu/is_anyone_else_experiencing_delays_in_google/) | u/rklement22 | Question | text | 7 | 10 | live |
-| 8 | 2026-11-06 | [Is anyone experiencing a sudden drop in GA4 Realtime active users?](https://www.reddit.com/r/GoogleAnalytics/comments/1xp4en3/is_anyone_experiencing_a_sudden_drop_in_ga4/) | u/Desperate_Peak2040 | Question | text | 7 | 5 | live |
-| 44 | 2026-10-18 | [Plugin Google Analytics 4 on Chat GPT](https://www.reddit.com/r/GoogleAnalytics/comments/1x9gdqp/plugin_google_analytics_4_on_chat_gpt/) | u/Ok-Philosopher3877 | Question | text | 6 | 22 | live |
-| 53 | 2026-10-13 | [GA, BigQuery and platforms like Windsor](https://www.reddit.com/r/GoogleAnalytics/comments/1x5c4pm/ga_bigquery_and_platforms_like_windsor/) | u/Johnny__Escobar | Question | text | 6 | 16 | live |
-| 39 | 2026-10-21 | [Is ChatGPT referral traffic being misattributed in Google Analytics?](https://www.reddit.com/r/GoogleAnalytics/comments/1xbf5eq/is_chatgpt_referral_traffic_being_misattributed/) | u/No-Echidna3553 | Discussion | text | 6 | 15 | live |
-| 2 | 2026-11-07 | [Any recommendations for a good GA4 course/certification that also covers Google Tag Manager?](https://www.reddit.com/r/GoogleAnalytics/comments/1xptqgc/any_recommendations_for_a_good_ga4/) | u/Fantastic_Reality_52 | Question | text | 6 | 13 | live |
-| 11 | 2026-11-04 | [GA4 is counting form submissions twice — where would you start debugging?](https://www.reddit.com/r/GoogleAnalytics/comments/1xnsh8x/ga4_is_counting_form_submissions_twice_where/) | u/ildoprendi | Discussion | text | 6 | 11 | live |
-| 14 | 2026-11-04 | [Debug View Not Connected](https://www.reddit.com/r/GoogleAnalytics/comments/1xne7d2/debug_view_not_connected/) | u/Aggravating_Match894 | Question | text | 6 | 8 | live |
-| 48 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](https://www.reddit.com/r/GoogleAnalytics/comments/1x88cdb/i_compared_serverside_and_offline_purchase/) | u/incisiveranking2022 | Discussion | text | 6 | 8 | live |
-| 42 | 2026-10-19 | [Anyone else dealing with sudden spike in Direct Traffic?](https://www.reddit.com/r/GoogleAnalytics/comments/1xa4sy0/anyone_else_dealing_with_sudden_spike_in_direct/) | u/Quick-Rip7224 | Question | text | 5 | 24 | live |
-| 54 | 2026-10-14 | [Can someone help me, I think my dashboard is broken](https://www.reddit.com/r/GoogleAnalytics/comments/1x5l5zm/can_someone_help_me_i_think_my_dashboard_is_broken/) | u/Otherwise_Night1474 | Question | text | 4 | 12 | live |
-| 27 | 2026-10-26 | [How do people manage access for clients?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfi2se/how_do_people_manage_access_for_clients/) | u/Johnny__Escobar | Question | text | 4 | 6 | live |
-| 19 | 2026-10-31 | [GA4 Event vs GTM Tag Result](https://www.reddit.com/r/GoogleAnalytics/comments/1xkbt1m/ga4_event_vs_gtm_tag_result/) | u/Melodic_Drive7152 | Question | text | 3 | 20 | live |
-| 26 | 2026-10-26 | [Should I be worried that my GA4 numbers don't match the ad platforms?](https://www.reddit.com/r/GoogleAnalytics/comments/1xfrp7t/should_i_be_worried_that_my_ga4_numbers_dont/) | u/HighCouncelor | Question | text | 3 | 18 | live |
-| 1 | 2026-11-07 | [GA Tracking - Consent Impact](https://www.reddit.com/r/GoogleAnalytics/comments/1xpw5l4/ga_tracking_consent_impact/) | u/ImpactThen9490 | Question | text | 3 | 12 | live |
+| 45 | 2026-10-17 | [Google Analytics reports delayed by a full day since Oct 15](#post-45) | u/engincode | Question | text | 18 | 31 | live |
+| 51 | 2026-10-12 | [Struggling in my new role where I need to leverage GA4 to give insights. Any advice?](#post-51) | u/Oldfriendoldproblem | Support | text | 14 | 18 | live |
+| 7 | 2026-11-06 | [Bots in Google Analytics](#post-7) | u/sumizeit | Question | text | 14 | 16 | live |
+| 29 | 2026-10-25 | [I've been hired to give insights but it feels impossible to find the time to do so. How do i navigate this?](#post-29) | u/Oldfriendoldproblem | Support | text | 9 | 28 | live |
+| 52 | 2026-10-16 | [GA active users for all properties showing as 0 since yesterday, no changes in any website](#post-52) | u/7timesdwn8timesup | Discussion | text | 7 | 15 | live |
+| 40 | 2026-10-20 | [Is Anyone Else Experiencing Delays in Google Analytics Metrics?](#post-40) | u/rklement22 | Question | text | 7 | 10 | live |
+| 8 | 2026-11-06 | [Is anyone experiencing a sudden drop in GA4 Realtime active users?](#post-8) | u/Desperate_Peak2040 | Question | text | 7 | 5 | live |
+| 44 | 2026-10-18 | [Plugin Google Analytics 4 on Chat GPT](#post-44) | u/Ok-Philosopher3877 | Question | text | 6 | 22 | live |
+| 53 | 2026-10-13 | [GA, BigQuery and platforms like Windsor](#post-53) | u/Johnny__Escobar | Question | text | 6 | 16 | live |
+| 39 | 2026-10-21 | [Is ChatGPT referral traffic being misattributed in Google Analytics?](#post-39) | u/No-Echidna3553 | Discussion | text | 6 | 15 | live |
+| 2 | 2026-11-07 | [Any recommendations for a good GA4 course/certification that also covers Google Tag Manager?](#post-2) | u/Fantastic_Reality_52 | Question | text | 6 | 13 | live |
+| 11 | 2026-11-04 | [GA4 is counting form submissions twice — where would you start debugging?](#post-11) | u/ildoprendi | Discussion | text | 6 | 11 | live |
+| 14 | 2026-11-04 | [Debug View Not Connected](#post-14) | u/Aggravating_Match894 | Question | text | 6 | 8 | live |
+| 48 | 2026-10-17 | [I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different af…](#post-48) | u/incisiveranking2022 | Discussion | text | 6 | 8 | live |
+| 42 | 2026-10-19 | [Anyone else dealing with sudden spike in Direct Traffic?](#post-42) | u/Quick-Rip7224 | Question | text | 5 | 24 | live |
+| 54 | 2026-10-14 | [Can someone help me, I think my dashboard is broken](#post-54) | u/Otherwise_Night1474 | Question | text | 4 | 12 | live |
+| 27 | 2026-10-26 | [How do people manage access for clients?](#post-27) | u/Johnny__Escobar | Question | text | 4 | 6 | live |
+| 19 | 2026-10-31 | [GA4 Event vs GTM Tag Result](#post-19) | u/Melodic_Drive7152 | Question | text | 3 | 20 | live |
+| 26 | 2026-10-26 | [Should I be worried that my GA4 numbers don't match the ad platforms?](#post-26) | u/HighCouncelor | Question | text | 3 | 18 | live |
+| 1 | 2026-11-07 | [GA Tracking - Consent Impact](#post-1) | u/ImpactThen9490 | Question | text | 3 | 12 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. GA Tracking - Consent Impact
 
-2026-11-07 · u/ImpactThen9490 · Question · score 3 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpw5l4/ga_tracking_consent_impact/)
+2026-11-07 · u/ImpactThen9490 · Question · score 3 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpw5l4/ga_tracking_consent_impact/) · [↑ back to the list](#last-50-posts)
 
 > I launched my website with GA, then launched my consent banner and my GA users crashed. 
 >
 > Is it an accepted part of GA tracking with consent acceptance that your web analytics is now not accurate?
 
+<a id="post-2"></a>
+
 ### 2. Any recommendations for a good GA4 course/certification that also covers Google Tag Manager?
 
-2026-11-07 · u/Fantastic_Reality_52 · Question · score 6 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xptqgc/any_recommendations_for_a_good_ga4/)
+2026-11-07 · u/Fantastic_Reality_52 · Question · score 6 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xptqgc/any_recommendations_for_a_good_ga4/) · [↑ back to the list](#last-50-posts)
 
 > I’m looking to take a course or certification to get a better understanding of GA4, ideally one that also covers Google Tag Manager (GTM).  
 > I’m looking for something that goes beyond the basics and covers practical implementation, event tracking, custom events, data layers, debugging, etc.  
 > Has anyone taken a course they’d actually recommend? Paid or free options are welcome.  
 > I’d appreciate any recommendations or personal experiences. Thanks!
 
+<a id="post-3"></a>
+
 ### 3. A new Auto Audit Chrome Extension!
 
-2026-11-07 · u/Sanctimoniusess · Support · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt3jp/a_new_auto_audit_chrome_extension/)
+2026-11-07 · u/Sanctimoniusess · Support · score 2 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt3jp/a_new_auto_audit_chrome_extension/) · [↑ back to the list](#last-50-posts)
 
 > [](https://www.reddit.com/r/GoogleAnalytics/?f=flair_name%3A%22Support%22)I've made (my second) a chrome extension - this one helps you audit \~40 checks in a GA4 or GTM account in under 5 seconds.
 >
@@ -149,15 +155,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Please do check it out and let me know what you think!
 
+<a id="post-4"></a>
+
 ### 4. A new Auto Audit Chrome Extension!
 
-2026-11-07 · u/Sanctimoniusess · Support · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt34x/a_new_auto_audit_chrome_extension/)
+2026-11-07 · u/Sanctimoniusess · Support · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpt34x/a_new_auto_audit_chrome_extension/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-5"></a>
+
 ### 5. GA4 Comversion management question
 
-2026-11-06 · u/Melodic_Drive7152 · Question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpohir/ga4_comversion_management_question/)
+2026-11-06 · u/Melodic_Drive7152 · Question · score 2 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpohir/ga4_comversion_management_question/) · [↑ back to the list](#last-50-posts)
 
 > You all have been so helpful as I recalibrate myself in GA4. I made my first conversion action in GA4 but can only make 1. The button to create a conversion is no longer there. I want to make more events Ads conversions via the GA4 interface.
 >
@@ -165,9 +175,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-6"></a>
+
 ### 6. Customer pays, the order shows in Shopify, but GA4 never sees the sale. How do you handle it?
 
-2026-11-06 · u/rytisbalys · Discussion · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpc6sw/customer_pays_the_order_shows_in_shopify_but_ga4/)
+2026-11-06 · u/rytisbalys · Discussion · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpc6sw/customer_pays_the_order_shows_in_shopify_but_ga4/) · [↑ back to the list](#last-50-posts)
 
 > This keeps coming up on European Shopify stores. The customer picks a bank link or Paysera, pays there and closes the tab. Shopify has the order. GA4 has nothing. Those sales look like they never happened. In GA4 the ads that brought them look worse than they are.
 >
@@ -177,17 +189,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Has anyone else run into this? Did you fix it, get the payment provider to send people back, or live with the gap?
 
+<a id="post-7"></a>
+
 ### 7. Bots in Google Analytics
 
-2026-11-06 · u/sumizeit · Question · score 14 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpanfo/bots_in_google_analytics/)
+2026-11-06 · u/sumizeit · Question · score 14 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xpanfo/bots_in_google_analytics/) · [↑ back to the list](#last-50-posts)
 
 > I look at my traffic on google analytics and some spend less than 1s on the website. I have like a lot of traffic from Singapore but they don't convert. Maybe the price is too high? They should have money in Singapore, right? 
 >
 > Anyway, do you guys deal with traffic that spend less than 1s on the page? Or is google analytics metrics not to be relied on.
 
+<a id="post-8"></a>
+
 ### 8. Is anyone experiencing a sudden drop in GA4 Realtime active users?
 
-2026-11-06 · u/Desperate_Peak2040 · Question · score 7 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xp4en3/is_anyone_experiencing_a_sudden_drop_in_ga4/)
+2026-11-06 · u/Desperate_Peak2040 · Question · score 7 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xp4en3/is_anyone_experiencing_a_sudden_drop_in_ga4/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -203,9 +219,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks
 
+<a id="post-9"></a>
+
 ### 9. New Chrome extension creator here, so i am pretty sure data from google analytics is faulty/innacurate , so i was wondering if there are any other ways (more accurate) to tract it? Or maybe someone can explain whta is going on
 
-2026-11-05 · u/Roblox4597 · Question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xostno/new_chrome_extension_creator_here_so_i_am_pretty/)
+2026-11-05 · u/Roblox4597 · Question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xostno/new_chrome_extension_creator_here_so_i_am_pretty/) · [↑ back to the list](#last-50-posts)
 
 > for the past few days i got influx of installs , n of users is the same (very little), sometimes countries dont match metrics .. i am not sure which ones to include
 >
@@ -213,9 +231,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I am not monetizing , just trying to undertsand the user's journey and what metrics to focus on thnx
 
+<a id="post-10"></a>
+
 ### 10. Audited a jewellery shop's Google Analytics. Visits up 4× (mostly from ads), but the conversion rate took a massive hit. Here are the 5 leaks we found
 
-2026-11-04 · u/lednotzed · Discussion · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnzbd9/audited_a_jewellery_shops_google_analytics_visits/)
+2026-11-04 · u/lednotzed · Discussion · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnzbd9/audited_a_jewellery_shops_google_analytics_visits/) · [↑ back to the list](#last-50-posts)
 
 > (I run Optova Analytics, which did this audit. Sharing because the pattern is really common.)
 >
@@ -253,9 +273,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Curious whether others see the same thing: when paid social scales up, do you segment it out before judging overall conversion rate, or report it blended?
 
+<a id="post-11"></a>
+
 ### 11. GA4 is counting form submissions twice — where would you start debugging?
 
-2026-11-04 · u/ildoprendi · Discussion · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnsh8x/ga4_is_counting_form_submissions_twice_where/)
+2026-11-04 · u/ildoprendi · Discussion · score 6 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnsh8x/ga4_is_counting_form_submissions_twice_where/) · [↑ back to the list](#last-50-posts)
 
 > One tracking problem worth checking on WordPress and other websites is duplicate form submission events.
 >
@@ -272,9 +294,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For those managing GA4 across multiple client websites, what duplicate tracking issue have you encountered most often?
 
+<a id="post-12"></a>
+
 ### 12. How much confidence should we really place in GA4 attribution?
 
-2026-11-04 · u/Frequent-Oil-1379 · Discussion · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnp379/how_much_confidence_should_we_really_place_in_ga4/)
+2026-11-04 · u/Frequent-Oil-1379 · Discussion · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnp379/how_much_confidence_should_we_really_place_in_ga4/) · [↑ back to the list](#last-50-posts)
 
 > Imagine a B2B customer discovers a company through organic search, returns through LinkedIn, visits again directly, and eventually converts.
 >
@@ -286,15 +310,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > How do you explain attribution uncertainty without making the entire analytics report seem unreliable?
 
+<a id="post-13"></a>
+
 ### 13. GA4's AI Assistant channel is useful, but it doesn't show every ChatGPT visit
 
-2026-11-04 · u/sponsored-post-hub · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnl9o0/ga4s_ai_assistant_channel_is_useful_but_it_doesnt/)
+2026-11-04 · u/sponsored-post-hub · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xnl9o0/ga4s_ai_assistant_channel_is_useful_but_it_doesnt/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-14"></a>
+
 ### 14. Debug View Not Connected
 
-2026-11-04 · u/Aggravating_Match894 · Question · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xne7d2/debug_view_not_connected/)
+2026-11-04 · u/Aggravating_Match894 · Question · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xne7d2/debug_view_not_connected/) · [↑ back to the list](#last-50-posts)
 
 > Trying to fix purchase conversions feeding into Google Ads and noticed that Debug view isn’t reading any site activity in GA4. 
 >
@@ -302,9 +330,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Does anyone have any recommendations on e-commerce campaigns?
 
+<a id="post-15"></a>
+
 ### 15. SevenRooms booking event fires in GTM, but no GA4 hit is being sent
 
-2026-11-02 · u/SwimStrange6265 · Question · score 3 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm7inl/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/)
+2026-11-02 · u/SwimStrange6265 · Question · score 3 · 3 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm7inl/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -320,9 +350,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-16"></a>
+
 ### 16. Has anyone here tracked SevenRooms bookings using Google Tag Manager and GA4?
 
-2026-11-02 · u/SwimStrange6265 · Question · score 1 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm67dq/has_anyone_here_tracked_sevenrooms_bookings_using/)
+2026-11-02 · u/SwimStrange6265 · Question · score 1 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm67dq/has_anyone_here_tracked_sevenrooms_bookings_using/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -340,9 +372,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-17"></a>
+
 ### 17. SevenRooms booking event fires in GTM, but no GA4 hit is being sent. Has anyone solved this?
 
-2026-11-02 · u/SwimStrange6265 · Question · score 1 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm5wpj/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/)
+2026-11-02 · u/SwimStrange6265 · Question · score 1 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xm5wpj/sevenrooms_booking_event_fires_in_gtm_but_no_ga4/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -362,15 +396,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-18"></a>
+
 ### 18. If "Continue with Google" lands people on a page you don't tag, GA4 never sees that sign_up. 3 holes I found in my own tracking this week, and the GA4 fix for each
 
-2026-11-02 · u/DutyOnly4308 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xltb5e/if_continue_with_google_lands_people_on_a_page/)
+2026-11-02 · u/DutyOnly4308 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xltb5e/if_continue_with_google_lands_people_on_a_page/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. GA4 Event vs GTM Tag Result
 
-2026-10-31 · u/Melodic_Drive7152 · Question · score 3 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xkbt1m/ga4_event_vs_gtm_tag_result/)
+2026-10-31 · u/Melodic_Drive7152 · Question · score 3 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xkbt1m/ga4_event_vs_gtm_tag_result/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been trying to set up form events and haven’t yet found the solution that works.
 >
@@ -380,41 +418,53 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks
 
+<a id="post-20"></a>
+
 ### 20. GA4 lead tracking: how do you test that one successful form submission is counted once?
 
-2026-10-31 · u/Formal_Try_5330 · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xk94pt/ga4_lead_tracking_how_do_you_test_that_one/)
+2026-10-31 · u/Formal_Try_5330 · Discussion · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xk94pt/ga4_lead_tracking_how_do_you_test_that_one/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your submission has been automatically removed because you are new to our community, spend more time contributing with your comments before posting.
 
+<a id="post-21"></a>
+
 ### 21. Connected my GA to claude
 
-2026-10-29 · u/Soup-Apprehensive · Support · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xie4us/connected_my_ga_to_claude/)
+2026-10-29 · u/Soup-Apprehensive · Support · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xie4us/connected_my_ga_to_claude/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-22"></a>
 
 ### 22. Quick Question
 
-2026-10-28 · u/National-Rhubarb6846 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xhjfjm/quick_question/)
+2026-10-28 · u/National-Rhubarb6846 · Discussion · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xhjfjm/quick_question/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-23"></a>
 
 ### 23. How Can I Add a Total Users Column in GA4 Traffic Acquisition?
 
-2026-10-28 · u/National-Rhubarb6846 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xhhplr/how_can_i_add_a_total_users_column_in_ga4_traffic/)
+2026-10-28 · u/National-Rhubarb6846 · Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xhhplr/how_can_i_add_a_total_users_column_in_ga4_traffic/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-24"></a>
+
 ### 24. Quick question
 
-2026-10-27 · u/manifestinglasoul · Question · score 5 · 8 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xgsuxt/quick_question/)
+2026-10-27 · u/manifestinglasoul · Question · score 5 · 8 comments · deleted by author · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xgsuxt/quick_question/) · [↑ back to the list](#last-50-posts)
 
 > Is anyone working on Google data studio?
 
+<a id="post-25"></a>
+
 ### 25. You get $100 to buy an MMM. What are you hoping to get out of it?
 
-2026-10-27 · u/brinkeranalytics · Question · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xgogtn/you_get_100_to_buy_an_mmm_what_are_you_hoping_to/)
+2026-10-27 · u/brinkeranalytics · Question · score 0 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xgogtn/you_get_100_to_buy_an_mmm_what_are_you_hoping_to/) · [↑ back to the list](#last-50-posts)
 
 > I've used MMM services from some of the big DTC vendors out there. Some of them are bundled with multi-touch attribution, and/or geo testing, and/or frequent rebuilds.
 >
@@ -438,9 +488,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 > * Do you have to convince others of the results, does everyone on your team agree ahead of time on how you'll be using an MMM?
 > * How often do you want to rerun it?
 
+<a id="post-26"></a>
+
 ### 26. Should I be worried that my GA4 numbers don't match the ad platforms?
 
-2026-10-26 · u/HighCouncelor · Question · score 3 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfrp7t/should_i_be_worried_that_my_ga4_numbers_dont/)
+2026-10-26 · u/HighCouncelor · Question · score 3 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfrp7t/should_i_be_worried_that_my_ga4_numbers_dont/) · [↑ back to the list](#last-50-posts)
 
 > Every month I explain to a client that GA4 says one thing, Google Ads says another and Meta says a third, and every month it sounds like an excuse.
 >
@@ -452,23 +504,29 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Is there a rule of thumb, or is this just permanently fuzzy?
 
+<a id="post-27"></a>
+
 ### 27. How do people manage access for clients?
 
-2026-10-26 · u/Johnny__Escobar · Question · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfi2se/how_do_people_manage_access_for_clients/)
+2026-10-26 · u/Johnny__Escobar · Question · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfi2se/how_do_people_manage_access_for_clients/) · [↑ back to the list](#last-50-posts)
 
 > Talking all Google products. If you have a large team, how do you look after this? At the moment people get access through like a info@agency email. But how does this get filtered down to individual users? Are you sharing logins? Adding the entire team individually? Coming into an era where passkeys seem to be enforced. How do you manage this? Everyone will need access to take a peek and to cover off if someone is sick or on holidays.
 >
 > I tried to see GMP settings to see if there was an organisation level of hierarchy but doesn't apply to Search Console. Maybe I'm looking in the wrong spot. One of the reasons why I like the way Meta uses a business manager type of access. Add the org/partner ID, filter down and give other employees access.
 
+<a id="post-28"></a>
+
 ### 28. Checking the value and currency your GA4 purchase event sends
 
-2026-10-25 · u/wbbwbb1 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xffvkf/checking_the_value_and_currency_your_ga4_purchase/)
+2026-10-25 · u/wbbwbb1 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xffvkf/checking_the_value_and_currency_your_ga4_purchase/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. I've been hired to give insights but it feels impossible to find the time to do so. How do i navigate this?
 
-2026-10-25 · u/Oldfriendoldproblem · Support · score 9 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfc9xb/ive_been_hired_to_give_insights_but_it_feels/)
+2026-10-25 · u/Oldfriendoldproblem · Support · score 9 · 28 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xfc9xb/ive_been_hired_to_give_insights_but_it_feels/) · [↑ back to the list](#last-50-posts)
 
 > I was hired as a digital insights specialist and I use GA4 as my main reporting platform, combined with behavioural insights from a heatmapping tool, and native reporting from a landing page platform. Essentially, all the data is uncentralized, none of this drives into one spot where I can create self serve dashboards for stakeholders. Every time someone requests updates on how pages are performing, I have to go pull data from multiple places, analyze, and dump it into a power point deck. It's extremely time consuming and not sustainable since we landing pages are frequently launched. 
 >
@@ -478,9 +536,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Im not sure what to do here. Its crazy that someone hired to do insights is claiming they're too busy to do just that, but it's true. Our data set up is so inefficient/messy, the manual work of gathering everything is extremely time consuming. I know I probably need to chat with my boss, but I'm really not expecting her to have any solutions. What would you next move be here? And what kind of answer do I give to this manager?
 
+<a id="post-30"></a>
+
 ### 30. Is testing Meta Ads interests separately before combining the winners still a good strategy for a clothing brand in 2026?
 
-2026-10-24 · u/Resident-Spinach7750 · Question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xe9g6c/is_testing_meta_ads_interests_separately_before/)
+2026-10-24 · u/Resident-Spinach7750 · Question · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xe9g6c/is_testing_meta_ads_interests_separately_before/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -527,15 +587,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks!
 
+<a id="post-31"></a>
+
 ### 31. UK: is GA4 down?
 
-2026-10-23 · u/shubbanubba · Question · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xdo1z3/uk_is_ga4_down/)
+2026-10-23 · u/shubbanubba · Question · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xdo1z3/uk_is_ga4_down/) · [↑ back to the list](#last-50-posts)
 
 > I get a "server not found" error when I try to open it. It doesn't appear on the Google SERP either?
 
+<a id="post-32"></a>
+
 ### 32. Can conversion fall even when neither traffic channel gets worse?
 
-2026-10-23 · u/rohan_kulkarni · Discussion · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xdd9kx/can_conversion_fall_even_when_neither_traffic/)
+2026-10-23 · u/rohan_kulkarni · Discussion · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xdd9kx/can_conversion_fall_even_when_neither_traffic/) · [↑ back to the list](#last-50-posts)
 
 > Yes. Here’s a fictional example that makes it easier to see.
 >
@@ -561,9 +625,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Do you check channel mix first when conversion drops, or start with device, landing page or customer type?
 
+<a id="post-33"></a>
+
 ### 33. Why Server-Side GTM Alone Still Loses 20–30% of Conversion Signals (And How Offline Conversion Imports Bridge the Gap in GA4 & Ad Engines)
 
-2026-10-23 · u/incisiveranking2022 · Discussion · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xda8vi/why_serverside_gtm_alone_still_loses_2030_of/)
+2026-10-23 · u/incisiveranking2022 · Discussion · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xda8vi/why_serverside_gtm_alone_still_loses_2030_of/) · [↑ back to the list](#last-50-posts)
 
 > Over the past two years, server-side Tag Manager (sGTM) has become the gold standard for bypassing client-side ad blockers, browser tracking restrictions (ITP, ETP), and iOS Safari cookie lifetime caps.
 >
@@ -636,9 +702,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Curious to hear how others here are structuring their offline conversion pipelines - are you using direct webhooks from your CRM, custom database scripts, or third-party ETls?
 
+<a id="post-34"></a>
+
 ### 34. Title: What's the best way to get my first sales without wasting more money on Meta Ads? (European clothing brand)
 
-2026-10-22 · u/Resident-Spinach7750 · Question · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcvq1f/title_whats_the_best_way_to_get_my_first_sales/)
+2026-10-22 · u/Resident-Spinach7750 · Question · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcvq1f/title_whats_the_best_way_to_get_my_first_sales/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -683,9 +751,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks in advance!
 
+<a id="post-35"></a>
+
 ### 35. Conversion Action Questions
 
-2026-10-22 · u/Melodic_Drive7152 · Question · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuxqa/conversion_action_questions/)
+2026-10-22 · u/Melodic_Drive7152 · Question · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuxqa/conversion_action_questions/) · [↑ back to the list](#last-50-posts)
 
 > Hi there,
 >
@@ -699,25 +769,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks
 
+<a id="post-36"></a>
+
 ### 36. My account is getting ad traffic/sessions out of Oklahoma State
 
-2026-10-22 · u/magnetictheagency · Question · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuun8/my_account_is_getting_ad_trafficsessions_out_of/)
+2026-10-22 · u/magnetictheagency · Question · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcuun8/my_account_is_getting_ad_trafficsessions_out_of/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your submission has been automatically removed because you are new to our community, spend more time contributing with your comments before posting.
 
+<a id="post-37"></a>
+
 ### 37. Instructions for placing the Google tag are misleading
 
-2026-10-22 · u/IanRastall · Support · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcq1su/instructions_for_placing_the_google_tag_are/)
+2026-10-22 · u/IanRastall · Support · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xcq1su/instructions_for_placing_the_google_tag_are/) · [↑ back to the list](#last-50-posts)
 
 > The blurb reads, "Copy and paste it in the code of every page of your website, immediately after the <head> element."
 >
 > Most people probably interpret this correctly, but only by accident, since an element is both tags and what's in-between. What it should say is "immediately after the opening <head> tag."
 
+<a id="post-38"></a>
+
 ### 38. Looking for beta testers to validate our marketing setup detection tool
 
-2026-10-21 · u/Impossible-Bonus9003 · Support · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xbtwet/looking_for_beta_testers_to_validate_our/)
+2026-10-21 · u/Impossible-Bonus9003 · Support · score 3 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xbtwet/looking_for_beta_testers_to_validate_our/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks,
 >
@@ -733,9 +809,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > If you're willing to let us run our scanner against your site to help train our model, please drop a comment below or send me a DM!
 
+<a id="post-39"></a>
+
 ### 39. Is ChatGPT referral traffic being misattributed in Google Analytics?
 
-2026-10-21 · u/No-Echidna3553 · Discussion · score 6 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xbf5eq/is_chatgpt_referral_traffic_being_misattributed/)
+2026-10-21 · u/No-Echidna3553 · Discussion · score 6 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xbf5eq/is_chatgpt_referral_traffic_being_misattributed/) · [↑ back to the list](#last-50-posts)
 
 > I came across a report about a possible ChatGPT referral tracking issue that could affect website analytics.
 >
@@ -753,9 +831,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > *Note: This is based on reported information, not an independently verified issue.*
 
+<a id="post-40"></a>
+
 ### 40. Is Anyone Else Experiencing Delays in Google Analytics Metrics?
 
-2026-10-20 · u/rklement22 · Question · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xaumfu/is_anyone_else_experiencing_delays_in_google/)
+2026-10-20 · u/rklement22 · Question · score 7 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xaumfu/is_anyone_else_experiencing_delays_in_google/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -767,17 +847,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks in advance!
 
+<a id="post-41"></a>
+
 ### 41. Singapore Bots?
 
-2026-10-20 · u/Khalyisk · Question · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xatgr5/singapore_bots/)
+2026-10-20 · u/Khalyisk · Question · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xatgr5/singapore_bots/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your submission has been automatically removed because you are new to our community, spend more time contributing with your comments before posting.
 
+<a id="post-42"></a>
+
 ### 42. Anyone else dealing with sudden spike in Direct Traffic?
 
-2026-10-19 · u/Quick-Rip7224 · Question · score 5 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xa4sy0/anyone_else_dealing_with_sudden_spike_in_direct/)
+2026-10-19 · u/Quick-Rip7224 · Question · score 5 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xa4sy0/anyone_else_dealing_with_sudden_spike_in_direct/) · [↑ back to the list](#last-50-posts)
 
 > We've been seeing a huge spike in direct traffic to our website from the US, particularly Colorado, Virginia, and New Jersey, where we have relatively limited operations. The spike started around mid-September 2026 and is still ongoing.
 >
@@ -803,9 +887,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Appreciate any insights or suggestions. Thanks!
 
+<a id="post-43"></a>
+
 ### 43. Google Ads vs. GA4 Attribution
 
-2026-10-19 · u/santy_1907 · Question · score 2 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xa3r14/google_ads_vs_ga4_attribution/)
+2026-10-19 · u/santy_1907 · Question · score 2 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1xa3r14/google_ads_vs_ga4_attribution/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -824,15 +910,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Any insights on how these two platforms will report this specific sequence would be hugely appreciated. Thanks!
 
+<a id="post-44"></a>
+
 ### 44. Plugin Google Analytics 4 on Chat GPT
 
-2026-10-18 · u/Ok-Philosopher3877 · Question · score 6 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x9gdqp/plugin_google_analytics_4_on_chat_gpt/)
+2026-10-18 · u/Ok-Philosopher3877 · Question · score 6 · 22 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x9gdqp/plugin_google_analytics_4_on_chat_gpt/) · [↑ back to the list](#last-50-posts)
 
 > Which plugin is the best ? I use with chat gpt I saw few there but I wanna ask what u guys recommended too help 🫡
 
+<a id="post-45"></a>
+
 ### 45. Google Analytics reports delayed by a full day since Oct 15
 
-2026-10-17 · u/engincode · Question · score 18 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x8iy4g/google_analytics_reports_delayed_by_a_full_day/)
+2026-10-17 · u/engincode · Question · score 18 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x8iy4g/google_analytics_reports_delayed_by_a_full_day/) · [↑ back to the list](#last-50-posts)
 
 > Since October 15, I've been experiencing a significant delay in GA4 standard reports. Here's the situation:
 >
@@ -842,9 +932,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > **Has anyone else experienced the same issue?**
 
+<a id="post-46"></a>
+
 ### 46. Should I exclude Stripe redirections from "source of traffic " to the website?
 
-2026-10-17 · u/ashkanahmadi · Question · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x89s76/should_i_exclude_stripe_redirections_from_source/)
+2026-10-17 · u/ashkanahmadi · Question · score 1 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x89s76/should_i_exclude_stripe_redirections_from_source/) · [↑ back to the list](#last-50-posts)
 
 > Hi
 >
@@ -867,15 +959,19 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > What do you recommend? Thanks
 
+<a id="post-47"></a>
+
 ### 47. Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester
 
-2026-10-17 · u/countoftuscany89 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x88qxz/always_getting_regex_not_working_in_ga4_its/)
+2026-10-17 · u/countoftuscany89 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x88qxz/always_getting_regex_not_working_in_ga4_its/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different after deduplication.
 
-2026-10-17 · u/incisiveranking2022 · Discussion · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x88cdb/i_compared_serverside_and_offline_purchase/)
+2026-10-17 · u/incisiveranking2022 · Discussion · score 6 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x88cdb/i_compared_serverside_and_offline_purchase/) · [↑ back to the list](#last-50-posts)
 
 > [](https://www.reddit.com/r/GoogleAnalytics/?f=flair_name%3A%22Discussion%22)I was working on a Google Ads account where I set up separate purchase conversion actions for client-side tracking, server-side tracking, and offline conversion tracking.
 >
@@ -899,21 +995,27 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > I documented the account comparison in CM**n**T for anyone interested in the setup
 
+<a id="post-49"></a>
+
 ### 49. I compared server-side and offline purchase conversions in Google Ads. The combined numbers were different after deduplication.
 
-2026-10-17 · u/incisiveranking2022 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x86n3k/i_compared_serverside_and_offline_purchase/)
+2026-10-17 · u/incisiveranking2022 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x86n3k/i_compared_serverside_and_offline_purchase/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-50"></a>
 
 ### 50. Always getting "regex not working" in GA4? It's usually full-match + RE2 — I built a free tester
 
-2026-10-17 · u/countoftuscany89 · Support · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x86lti/always_getting_regex_not_working_in_ga4_its/)
+2026-10-17 · u/countoftuscany89 · Support · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x86lti/always_getting_regex_not_working_in_ga4_its/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-51"></a>
+
 ### 51. Struggling in my new role where I need to leverage GA4 to give insights. Any advice?
 
-2026-10-12 · u/Oldfriendoldproblem · Support · score 14 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x48x2o/struggling_in_my_new_role_where_i_need_to/)
+2026-10-12 · u/Oldfriendoldproblem · Support · score 14 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x48x2o/struggling_in_my_new_role_where_i_need_to/) · [↑ back to the list](#last-50-posts)
 
 > I've been hired as a digital insights specialist and I use GA4 as my main reporting platform, combined with behavioural insights from a heatmapping tool the company also uses. I've been at the company for about 9 months and everyone has told me the learning curve is steep and I've made decent progress over my time. Yes I'm still feeling very insecure. I'm having a hard time figuring out how to give any meaningful insights for a couple reasons, especially on seasonal campaigns we run to acquire appointments. Biggest issues are:
 >
@@ -933,17 +1035,21 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Does anyone in a similar role have advice on how to improve or move forward? Anything from general or very specific. I really love this company and my team - I want this job to work out so bad.
 
+<a id="post-52"></a>
+
 ### 52. GA active users for all properties showing as 0 since yesterday, no changes in any website
 
-2026-10-16 · u/7timesdwn8timesup · Discussion · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x7rtlt/ga_active_users_for_all_properties_showing_as_0/)
+2026-10-16 · u/7timesdwn8timesup · Discussion · score 7 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x7rtlt/ga_active_users_for_all_properties_showing_as_0/) · [↑ back to the list](#last-50-posts)
 
 > Hi, 
 >
 > My Amazon affiliate links confirm that there are visits, but GA since yesterday has been showing 0 for all properties, anyone experiencing the same?
 
+<a id="post-53"></a>
+
 ### 53. GA, BigQuery and platforms like Windsor
 
-2026-10-13 · u/Johnny__Escobar · Question · score 6 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x5c4pm/ga_bigquery_and_platforms_like_windsor/)
+2026-10-13 · u/Johnny__Escobar · Question · score 6 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x5c4pm/ga_bigquery_and_platforms_like_windsor/) · [↑ back to the list](#last-50-posts)
 
 > The goal is to have GA data into BigQuery. Using Data Studio to visualise. Don't really have a background in this area, but rather a front end marketing person who plays around in GA.
 >
@@ -960,9 +1066,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Any direction would be helpful.
 
+<a id="post-54"></a>
+
 ### 54. Can someone help me, I think my dashboard is broken
 
-2026-10-14 · u/Otherwise_Night1474 · Question · score 4 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x5l5zm/can_someone_help_me_i_think_my_dashboard_is_broken/)
+2026-10-14 · u/Otherwise_Night1474 · Question · score 4 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/GoogleAnalytics/comments/1x5l5zm/can_someone_help_me_i_think_my_dashboard_is_broken/) · [↑ back to the list](#last-50-posts)
 
 > I recently launched an app last April, and it’s going well, but there’s an issue with the mau and total users. The thing is that my Mau is saying 7k while the total users are 280. Can someone explain what is happening?
 

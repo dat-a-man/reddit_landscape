@@ -50,56 +50,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-06 | [Where do you draw ownership lines on a reporting system rewrite?](https://www.reddit.com/r/softwarearchitecture/comments/1xppocn/where_do_you_draw_ownership_lines_on_a_reporting/) | u/RoughTrail68294 | Discussion/Advice | text | 15 | 1 | removed by mod | — |
-| 2 | 2026-11-06 | [Removing our retries exposed that we’d been double-writing records for months](https://www.reddit.com/r/softwarearchitecture/comments/1xpnoga/removing_our_retries_exposed_that_wed_been/) | u/CodeByAnas | Discussion/Advice | text | 2 | 1 | removed by mod | — |
-| 3 | 2026-11-06 | [AI makes content reproducible. I built a pipeline that does the same for the mobile architecture itself. Let’…](https://www.reddit.com/r/softwarearchitecture/comments/1xpkdo3/ai_makes_content_reproducible_i_built_a_pipeline/) | u/Andrei_RV | Discussion/Advice | text | 0 | 2 | removed by mod | — |
-| 4 | 2026-11-06 | [Form relations vs table relations: what's the difference?](https://www.reddit.com/r/softwarearchitecture/comments/1xpgyw0/form_relations_vs_table_relations_whats_the/) | u/jeff377 | Article/Video | i.redd.it | 4 | 0 | live | — |
-| 5 | 2026-11-06 | [I built an AI agent that turns an existing GitHub repository into complete, editable software documentation](https://www.reddit.com/r/softwarearchitecture/comments/1xpfy8f/i_built_an_ai_agent_that_turns_an_existing_github/) | u/Limp_Celery_5220 | Tool/Product | reddit.com | 53 | 17 | live | — |
-| 6 | 2026-11-06 | [Flag was on for a slice of users and the dashboards never moved](https://www.reddit.com/r/softwarearchitecture/comments/1xp8wmh/flag_was_on_for_a_slice_of_users_and_the/) | u/No-Employ-7601 | Discussion/Advice | text | 0 | 0 | removed by mod | — |
-| 7 | 2026-11-06 | [Clean Architecture — Shared Use Case Logic](https://www.reddit.com/r/softwarearchitecture/comments/1xp7qea/clean_architecture_shared_use_case_logic/) | u/PrestigiousEgg8845 | Discussion/Advice | text | 5 | 16 | live | — |
-| 8 | 2026-11-06 | [Why Do Some Applications Perform Well During Testing but Struggle in Production?](https://www.reddit.com/r/softwarearchitecture/comments/1xp66gh/why_do_some_applications_perform_well_during/) | u/Admirable_Elk_1603 | Discussion/Advice | text | 4 | 7 | live | — |
-| 9 | 2026-11-06 | [Both gateways delivered 600K RPS. Their tail latency told different stories.](https://www.reddit.com/r/softwarearchitecture/comments/1xozxn9/both_gateways_delivered_600k_rps_their_tail/) | u/Ok-Knowledge-7587 | Article/Video | text | 1 | 0 | spam-filtered | — |
-| 10 | 2026-11-05 | [I built a double-entry ledger API in Java 21 and learned why you never call Kafka inside a DB transaction](https://www.reddit.com/r/softwarearchitecture/comments/1xov6ww/i_built_a_doubleentry_ledger_api_in_java_21_and/) | u/CodeByAkin | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
-| 11 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales suddenly spiked 100x overnight)](https://www.reddit.com/r/softwarearchitecture/comments/1xounfq/how_to_avoid_value_drift_and_your_ceo_asking_why/) | u/fristprinciplesde | Discussion/Advice | text | 0 | 0 | removed by mod | — |
-| 12 | 2026-11-05 | [Looking for open-source codebases with great architectural documentation (Components, Connectors, Rationale)](https://www.reddit.com/r/softwarearchitecture/comments/1xolq3y/looking_for_opensource_codebases_with_great/) | u/xampool | Discussion/Advice | text | 41 | 4 | live | — |
-| 13 | 2026-11-05 | [Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it](https://www.reddit.com/r/softwarearchitecture/comments/1xojolw/moving_from_pertenant_sqlite_to_one_shared/) | u/plxs05092026 | Discussion/Advice | text | 11 | 9 | live | — |
-| 14 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](https://www.reddit.com/r/softwarearchitecture/comments/1xojmi5/would_you_use_scalacatsstyle_io_and_fibers_in_a/) | u/Apart_Paramedic_1850 | Tool/Product | text | 2 | 2 | live | — |
-| 15 | 2026-11-05 | [Is a filtered view enough to prove what was issued?](https://www.reddit.com/r/softwarearchitecture/comments/1xoifxe/is_a_filtered_view_enough_to_prove_what_was_issued/) | u/srikanth_builds | Discussion/Advice | text | 4 | 7 | live | — |
-| 16 | 2026-11-05 | [Both gateways delivered 600K RPS. Their tail latency told different stories.](https://www.reddit.com/r/softwarearchitecture/comments/1xoiaod/both_gateways_delivered_600k_rps_their_tail/) | u/Ok-Knowledge-7587 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
-| 17 | 2026-11-05 | [Only migrate clean code to the new language or architecture.](https://www.reddit.com/r/softwarearchitecture/comments/1xoguww/only_migrate_clean_code_to_the_new_language_or/) | u/Slight_Major5589 | Discussion/Advice | text | 2 | 2 | live | — |
-| 18 | 2026-11-05 | [Flag was on for a slice of users and the dashboards never moved](https://www.reddit.com/r/softwarearchitecture/comments/1xogbde/flag_was_on_for_a_slice_of_users_and_the/) | u/Sigal_kariSpirit3494 | Discussion/Advice | text | 1 | 0 | live | — |
-| 19 | 2026-11-05 | [Feedback on diagrams wanted](https://www.reddit.com/r/softwarearchitecture/comments/1xo6vmu/feedback_on_diagrams_wanted/) | u/jabbottiii | Discussion/Advice | text | 3 | 2 | live | — |
-| 20 | 2026-11-04 | ["The order is the control": when a rule engine and an ML model share a pipeline, who speaks first is an autho…](https://www.reddit.com/r/softwarearchitecture/comments/1xo2mhl/the_order_is_the_control_when_a_rule_engine_and/) | u/Neither_Opinion69 | Discussion/Advice | text | 0 | 0 | removed by mod | — |
-| 21 | 2026-11-04 | [Network Fundamentals for Software Architects, Part 1: From Layer 2 to BGP](https://www.reddit.com/r/softwarearchitecture/comments/1xo16rh/network_fundamentals_for_software_architects_part/) | u/docaicdev | Article/Video | medium.com | 54 | 0 | live | — |
-| 22 | 2026-11-04 | [Structural Architecture vs. Personality Chaos: Why True Enterprise Protocols Must Be Built to Last](https://www.reddit.com/r/softwarearchitecture/comments/1xo0ude/structural_architecture_vs_personality_chaos_why/) | u/Itchy-Tune-5059 | Tool/Product | text | 1 | 0 | removed by mod | — |
-| 23 | 2026-11-04 | [The URL Shortener Hand-Waves: 6 architectural patterns that collapse in production](https://www.reddit.com/r/softwarearchitecture/comments/1xo00nw/the_url_shortener_handwaves_6_architectural/) | u/BenchifyAppDNS | Discussion/Advice | text | 0 | 3 | live | — |
-| 24 | 2026-11-04 | [Best way to build an AI-powered codebase search across hundreds of private GitHub repos?](https://www.reddit.com/r/softwarearchitecture/comments/1xnwxm9/best_way_to_build_an_aipowered_codebase_search/) | u/fresh_preserve | Discussion/Advice | text | 6 | 6 | live | — |
-| 25 | 2026-11-04 | [Quais são as melhores práticas para integrar dois backends existentes num único produto?](https://www.reddit.com/r/softwarearchitecture/comments/1xns9lb/quais_são_as_melhores_práticas_para_integrar_dois/) | u/Aquiles_bachira | Discussion/Advice | i.redd.it | 0 | 4 | live | — |
-| 26 | 2026-11-04 | [A self hosted payment control plane for AI agents to stop them from paying for unverified jobs](https://www.reddit.com/r/softwarearchitecture/comments/1xnqnt6/a_self_hosted_payment_control_plane_for_ai_agents/) | u/DrSkyle | Tool/Product | text | 0 | 1 | approved | — |
-| 27 | 2026-11-04 | [haven't built my app yet, but I want it to last. how do the big apps scale and build strong systems from day…](https://www.reddit.com/r/softwarearchitecture/comments/1xnq8de/havent_built_my_app_yet_but_i_want_it_to_last_how/) | u/ZtasnimS75 | Discussion/Advice | text | 1 | 0 | live | — |
-| 28 | 2026-11-04 | [Apache Kafka Basics for System Design](https://www.reddit.com/r/softwarearchitecture/comments/1xnpusi/apache_kafka_basics_for_system_design/) | u/javinpaul | Article/Video | javarevisited.substack.com | 63 | 3 | live | — |
-| 29 | 2026-11-04 | [Veterinarian founder with no software engineering background building with AI: Shared care events and recurre…](https://www.reddit.com/r/softwarearchitecture/comments/1xnojz4/veterinarian_founder_with_no_software_engineering/) | u/Appropriate_Hyena162 | Discussion/Advice | text | 0 | 16 | live | — |
-| 30 | 2026-11-04 | [How do teams merging hundreds of agent PRs a week actually ship them](https://www.reddit.com/r/softwarearchitecture/comments/1xno0f4/how_do_teams_merging_hundreds_of_agent_prs_a_week/) | u/Master-Employment297 | Discussion/Advice | text | 1 | 0 | removed by mod | — |
-| 31 | 2026-11-04 | [How do teams merging hundreds of agent PRs a week actually ship them](https://www.reddit.com/r/softwarearchitecture/comments/1xnnjuf/how_do_teams_merging_hundreds_of_agent_prs_a_week/) | u/210144 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
-| 32 | 2026-11-04 | [Which SOLID principle guarantee that an object is modified only once?](https://www.reddit.com/r/softwarearchitecture/comments/1xniwe6/which_solid_principle_guarantee_that_an_object_is/) | u/Bofact | Discussion/Advice | text | 0 | 18 | live | — |
-| 33 | 2026-11-04 | [\[Update\] Sketchy v0.1.8 — comparing architecture diagrams before and after a refactor](https://www.reddit.com/r/softwarearchitecture/comments/1xnad13/update_sketchy_v018_comparing_architecture/) | u/Nkgsporty | Tool/Product | reddit.com | 4 | 4 | removed by mod | — |
-| 34 | 2026-11-03 | [I got rejected for a job and I'm livid](https://www.reddit.com/r/softwarearchitecture/comments/1xn8j0o/i_got_rejected_for_a_job_and_im_livid/) | u/Jipptomilly | Discussion/Advice | text | 156 | 58 | live | — |
-| 35 | 2026-11-03 | [\[MIT\] Relay — An open-source webhook reliability engine with transactional outbox, retries & dead-letter mana…](https://www.reddit.com/r/softwarearchitecture/comments/1xn7qbz/mit_relay_an_opensource_webhook_reliability/) | u/Appropriate-Seat-787 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
-| 36 | 2026-11-03 | [Why I'm building a software architecture editor instead of another diagramming tool](https://www.reddit.com/r/softwarearchitecture/comments/1xn5hu8/why_im_building_a_software_architecture_editor/) | u/Initial_Mode_2821 | Tool/Product | text | 24 | 8 | live | — |
-| 37 | 2026-11-03 | [Architecture with AI](https://www.reddit.com/r/softwarearchitecture/comments/1xn2630/architecture_with_ai/) | u/vm3006 | Discussion/Advice | text | 12 | 33 | live | — |
-| 38 | 2026-11-03 | [oncebox v2.0.0: Transactional Outbox and Inbox in one thing](https://www.reddit.com/r/softwarearchitecture/comments/1xn0u9l/oncebox_v200_transactional_outbox_and_inbox_in/) | u/wonderful_unikorn | Tool/Product | text | 1 | 0 | live | — |
-| 39 | 2026-11-03 | [\[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqy9/mit_fieldsync_opensource_offlinefirst_inspection/) | u/Appropriate-Seat-787 | Discussion/Advice | text | 5 | 0 | approved | — |
-| 40 | 2026-11-03 | [I've built a tool that people are using, but I'm not sure what they actually want from it.](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqi0/ive_built_a_tool_that_people_are_using_but_im_not/) | u/Liance_Tech_2030 | Discussion/Advice | text | 2 | 0 | removed by mod | — |
-| 41 | 2026-11-03 | [Relay v1.0.0 Update: Webhook Reliability Engine with Transactional Outbox, Isolated Retries & Prometheus Tele…](https://www.reddit.com/r/softwarearchitecture/comments/1xmwco1/relay_v100_update_webhook_reliability_engine_with/) | u/Appropriate-Seat-787 | Discussion/Advice | text | 2 | 0 | removed by mod | — |
-| 42 | 2026-11-03 | [Long-running payment workflows taught me why database transactions aren't enough](https://www.reddit.com/r/softwarearchitecture/comments/1xmslh0/longrunning_payment_workflows_taught_me_why/) | u/czetsuya | Discussion/Advice | text | 0 | 11 | removed by mod | — |
-| 43 | 2026-11-03 | [I've built a tool that people are using, but I'm not sure what they actually want from it. What would you do…](https://www.reddit.com/r/softwarearchitecture/comments/1xmqs2l/ive_built_a_tool_that_people_are_using_but_im_not/) | u/QuietWander_ | Discussion/Advice | text | 1 | 0 | live | — |
-| 44 | 2026-11-03 | [A 1,186-file PR forced me to stop reviewing diffs and start reviewing behavior](https://www.reddit.com/r/softwarearchitecture/comments/1xmpurc/a_1186file_pr_forced_me_to_stop_reviewing_diffs/) | u/aisatsana__ | Article/Video | shiftmag.dev | 7 | 5 | removed by mod | — |
-| 45 | 2026-11-03 | [Best way to edit Mermaid diagrams your AI agent generates?](https://www.reddit.com/r/softwarearchitecture/comments/1xmkbhy/best_way_to_edit_mermaid_diagrams_your_ai_agent/) | u/Felix_Warren-56 | Discussion/Advice | text | 4 | 3 | removed by mod | — |
-| 46 | 2026-11-03 | [Does AI Make You a 10x Architect… or a Worse Programmer?](https://www.reddit.com/r/softwarearchitecture/comments/1xmj5r7/does_ai_make_you_a_10x_architect_or_a_worse/) | u/Dazzling_Ticket2536 | Article/Video | youtube.com | 0 | 1 | spam-filtered | — |
-| 47 | 2026-11-03 | [Thoughts on workflows for domain-modeled apps](https://www.reddit.com/r/softwarearchitecture/comments/1xmeyfl/thoughts_on_workflows_for_domainmodeled_apps/) | u/Helpful-Educator-415 | Discussion/Advice | text | 6 | 9 | live | — |
-| 48 | 2026-11-03 | [I built a tool that turns your codebase into interactive architecture diagrams inside Claude (free & opensour…](https://www.reddit.com/r/softwarearchitecture/comments/1xmekcz/i_built_a_tool_that_turns_your_codebase_into/) | u/Nkgsporty | Tool/Product | reddit.com | 64 | 8 | live | — |
-| 49 | 2026-11-03 | [When did a shared service stop being a good idea in your system?](https://www.reddit.com/r/softwarearchitecture/comments/1xme14r/when_did_a_shared_service_stop_being_a_good_idea/) | u/Raul_Nogales | Discussion/Advice | text | 2 | 11 | live | — |
-| 50 | 2026-11-02 | [Evolutionary Architecture in .NET By Example](https://www.reddit.com/r/softwarearchitecture/comments/1xm93xc/evolutionary_architecture_in_net_by_example/) | u/pmz | Article/Video | text | 3 | 1 | live | — |
+| 1 | 2026-11-06 | [Where do you draw ownership lines on a reporting system rewrite?](#post-1) | u/RoughTrail68294 | Discussion/Advice | text | 15 | 1 | removed by mod | — |
+| 2 | 2026-11-06 | [Removing our retries exposed that we’d been double-writing records for months](#post-2) | u/CodeByAnas | Discussion/Advice | text | 2 | 1 | removed by mod | — |
+| 3 | 2026-11-06 | [AI makes content reproducible. I built a pipeline that does the same for the mobile architecture itself. Let’…](#post-3) | u/Andrei_RV | Discussion/Advice | text | 0 | 2 | removed by mod | — |
+| 4 | 2026-11-06 | [Form relations vs table relations: what's the difference?](#post-4) | u/jeff377 | Article/Video | i.redd.it | 4 | 0 | live | — |
+| 5 | 2026-11-06 | [I built an AI agent that turns an existing GitHub repository into complete, editable software documentation](#post-5) | u/Limp_Celery_5220 | Tool/Product | reddit.com | 53 | 17 | live | — |
+| 6 | 2026-11-06 | [Flag was on for a slice of users and the dashboards never moved](#post-6) | u/No-Employ-7601 | Discussion/Advice | text | 0 | 0 | removed by mod | — |
+| 7 | 2026-11-06 | [Clean Architecture — Shared Use Case Logic](#post-7) | u/PrestigiousEgg8845 | Discussion/Advice | text | 5 | 16 | live | — |
+| 8 | 2026-11-06 | [Why Do Some Applications Perform Well During Testing but Struggle in Production?](#post-8) | u/Admirable_Elk_1603 | Discussion/Advice | text | 4 | 7 | live | — |
+| 9 | 2026-11-06 | [Both gateways delivered 600K RPS. Their tail latency told different stories.](#post-9) | u/Ok-Knowledge-7587 | Article/Video | text | 1 | 0 | spam-filtered | — |
+| 10 | 2026-11-05 | [I built a double-entry ledger API in Java 21 and learned why you never call Kafka inside a DB transaction](#post-10) | u/CodeByAkin | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
+| 11 | 2026-11-05 | [How to avoid value drift (and your CEO asking why sales suddenly spiked 100x overnight)](#post-11) | u/fristprinciplesde | Discussion/Advice | text | 0 | 0 | removed by mod | — |
+| 12 | 2026-11-05 | [Looking for open-source codebases with great architectural documentation (Components, Connectors, Rationale)](#post-12) | u/xampool | Discussion/Advice | text | 41 | 4 | live | — |
+| 13 | 2026-11-05 | [Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it](#post-13) | u/plxs05092026 | Discussion/Advice | text | 11 | 9 | live | — |
+| 14 | 2026-11-05 | [Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?](#post-14) | u/Apart_Paramedic_1850 | Tool/Product | text | 2 | 2 | live | — |
+| 15 | 2026-11-05 | [Is a filtered view enough to prove what was issued?](#post-15) | u/srikanth_builds | Discussion/Advice | text | 4 | 7 | live | — |
+| 16 | 2026-11-05 | [Both gateways delivered 600K RPS. Their tail latency told different stories.](#post-16) | u/Ok-Knowledge-7587 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
+| 17 | 2026-11-05 | [Only migrate clean code to the new language or architecture.](#post-17) | u/Slight_Major5589 | Discussion/Advice | text | 2 | 2 | live | — |
+| 18 | 2026-11-05 | [Flag was on for a slice of users and the dashboards never moved](#post-18) | u/Sigal_kariSpirit3494 | Discussion/Advice | text | 1 | 0 | live | — |
+| 19 | 2026-11-05 | [Feedback on diagrams wanted](#post-19) | u/jabbottiii | Discussion/Advice | text | 3 | 2 | live | — |
+| 20 | 2026-11-04 | ["The order is the control": when a rule engine and an ML model share a pipeline, who speaks first is an autho…](#post-20) | u/Neither_Opinion69 | Discussion/Advice | text | 0 | 0 | removed by mod | — |
+| 21 | 2026-11-04 | [Network Fundamentals for Software Architects, Part 1: From Layer 2 to BGP](#post-21) | u/docaicdev | Article/Video | medium.com | 54 | 0 | live | — |
+| 22 | 2026-11-04 | [Structural Architecture vs. Personality Chaos: Why True Enterprise Protocols Must Be Built to Last](#post-22) | u/Itchy-Tune-5059 | Tool/Product | text | 1 | 0 | removed by mod | — |
+| 23 | 2026-11-04 | [The URL Shortener Hand-Waves: 6 architectural patterns that collapse in production](#post-23) | u/BenchifyAppDNS | Discussion/Advice | text | 0 | 3 | live | — |
+| 24 | 2026-11-04 | [Best way to build an AI-powered codebase search across hundreds of private GitHub repos?](#post-24) | u/fresh_preserve | Discussion/Advice | text | 6 | 6 | live | — |
+| 25 | 2026-11-04 | [Quais são as melhores práticas para integrar dois backends existentes num único produto?](#post-25) | u/Aquiles_bachira | Discussion/Advice | i.redd.it | 0 | 4 | live | — |
+| 26 | 2026-11-04 | [A self hosted payment control plane for AI agents to stop them from paying for unverified jobs](#post-26) | u/DrSkyle | Tool/Product | text | 0 | 1 | approved | — |
+| 27 | 2026-11-04 | [haven't built my app yet, but I want it to last. how do the big apps scale and build strong systems from day…](#post-27) | u/ZtasnimS75 | Discussion/Advice | text | 1 | 0 | live | — |
+| 28 | 2026-11-04 | [Apache Kafka Basics for System Design](#post-28) | u/javinpaul | Article/Video | javarevisited.substack.com | 63 | 3 | live | — |
+| 29 | 2026-11-04 | [Veterinarian founder with no software engineering background building with AI: Shared care events and recurre…](#post-29) | u/Appropriate_Hyena162 | Discussion/Advice | text | 0 | 16 | live | — |
+| 30 | 2026-11-04 | [How do teams merging hundreds of agent PRs a week actually ship them](#post-30) | u/Master-Employment297 | Discussion/Advice | text | 1 | 0 | removed by mod | — |
+| 31 | 2026-11-04 | [How do teams merging hundreds of agent PRs a week actually ship them](#post-31) | u/210144 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
+| 32 | 2026-11-04 | [Which SOLID principle guarantee that an object is modified only once?](#post-32) | u/Bofact | Discussion/Advice | text | 0 | 18 | live | — |
+| 33 | 2026-11-04 | [\[Update\] Sketchy v0.1.8 — comparing architecture diagrams before and after a refactor](#post-33) | u/Nkgsporty | Tool/Product | reddit.com | 4 | 4 | removed by mod | — |
+| 34 | 2026-11-03 | [I got rejected for a job and I'm livid](#post-34) | u/Jipptomilly | Discussion/Advice | text | 156 | 58 | live | — |
+| 35 | 2026-11-03 | [\[MIT\] Relay — An open-source webhook reliability engine with transactional outbox, retries & dead-letter mana…](#post-35) | u/Appropriate-Seat-787 | Discussion/Advice | text | 1 | 0 | spam-filtered | — |
+| 36 | 2026-11-03 | [Why I'm building a software architecture editor instead of another diagramming tool](#post-36) | u/Initial_Mode_2821 | Tool/Product | text | 24 | 8 | live | — |
+| 37 | 2026-11-03 | [Architecture with AI](#post-37) | u/vm3006 | Discussion/Advice | text | 12 | 33 | live | — |
+| 38 | 2026-11-03 | [oncebox v2.0.0: Transactional Outbox and Inbox in one thing](#post-38) | u/wonderful_unikorn | Tool/Product | text | 1 | 0 | live | — |
+| 39 | 2026-11-03 | [\[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge](#post-39) | u/Appropriate-Seat-787 | Discussion/Advice | text | 5 | 0 | approved | — |
+| 40 | 2026-11-03 | [I've built a tool that people are using, but I'm not sure what they actually want from it.](#post-40) | u/Liance_Tech_2030 | Discussion/Advice | text | 2 | 0 | removed by mod | — |
+| 41 | 2026-11-03 | [Relay v1.0.0 Update: Webhook Reliability Engine with Transactional Outbox, Isolated Retries & Prometheus Tele…](#post-41) | u/Appropriate-Seat-787 | Discussion/Advice | text | 2 | 0 | removed by mod | — |
+| 42 | 2026-11-03 | [Long-running payment workflows taught me why database transactions aren't enough](#post-42) | u/czetsuya | Discussion/Advice | text | 0 | 11 | removed by mod | — |
+| 43 | 2026-11-03 | [I've built a tool that people are using, but I'm not sure what they actually want from it. What would you do…](#post-43) | u/QuietWander_ | Discussion/Advice | text | 1 | 0 | live | — |
+| 44 | 2026-11-03 | [A 1,186-file PR forced me to stop reviewing diffs and start reviewing behavior](#post-44) | u/aisatsana__ | Article/Video | shiftmag.dev | 7 | 5 | removed by mod | — |
+| 45 | 2026-11-03 | [Best way to edit Mermaid diagrams your AI agent generates?](#post-45) | u/Felix_Warren-56 | Discussion/Advice | text | 4 | 3 | removed by mod | — |
+| 46 | 2026-11-03 | [Does AI Make You a 10x Architect… or a Worse Programmer?](#post-46) | u/Dazzling_Ticket2536 | Article/Video | youtube.com | 0 | 1 | spam-filtered | — |
+| 47 | 2026-11-03 | [Thoughts on workflows for domain-modeled apps](#post-47) | u/Helpful-Educator-415 | Discussion/Advice | text | 6 | 9 | live | — |
+| 48 | 2026-11-03 | [I built a tool that turns your codebase into interactive architecture diagrams inside Claude (free & opensour…](#post-48) | u/Nkgsporty | Tool/Product | reddit.com | 64 | 8 | live | — |
+| 49 | 2026-11-03 | [When did a shared service stop being a good idea in your system?](#post-49) | u/Raul_Nogales | Discussion/Advice | text | 2 | 11 | live | — |
+| 50 | 2026-11-02 | [Evolutionary Architecture in .NET By Example](#post-50) | u/pmz | Article/Video | text | 3 | 1 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -107,34 +107,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-26 | [Review of this book - Designing Data Intensive Application](https://www.reddit.com/r/softwarearchitecture/comments/1xfxant/review_of_this_book_designing_data_intensive/) | u/Agitated-Ear-9465 | Discussion/Advice | i.redd.it | 951 | 159 | live |
-| 52 | 2026-10-14 | [This book is saying what I had in my mind for years: A Philosophy of Software Design](https://www.reddit.com/r/softwarearchitecture/comments/1x5js02/this_book_is_saying_what_i_had_in_my_mind_for/) | u/echo2056 | Discussion/Advice | text | 237 | 29 | live |
-| 53 | 2026-10-30 | [AI Has Made Coding Boring](https://www.reddit.com/r/softwarearchitecture/comments/1xjjtvp/ai_has_made_coding_boring/) | u/Overall-Beach-9801 | Article/Video | medium.com | 222 | 74 | live |
-| 54 | 2026-10-24 | [I built a free system design playground. Looking for feedback! ( ReShare )](https://www.reddit.com/r/softwarearchitecture/comments/1xe3i9r/i_built_a_free_system_design_playground_looking/) | u/New-Target-2065 | Tool/Product | reddit.com | 167 | 41 | live |
-| 34 | 2026-11-03 | [I got rejected for a job and I'm livid](https://www.reddit.com/r/softwarearchitecture/comments/1xn8j0o/i_got_rejected_for_a_job_and_im_livid/) | u/Jipptomilly | Discussion/Advice | text | 156 | 58 | live |
-| 55 | 2026-10-18 | [AI handles our incidents now and I'm not sure anyone knows the system anymore](https://www.reddit.com/r/softwarearchitecture/comments/1x907a1/ai_handles_our_incidents_now_and_im_not_sure/) | u/Few-Pilot7575 | Discussion/Advice | text | 105 | 35 | live |
-| 56 | 2026-10-25 | [Decisions that outlive the session: Architecture Decision Records (ADRs)](https://www.reddit.com/r/softwarearchitecture/comments/1xeydoi/decisions_that_outlive_the_session_architecture/) | u/zit-hb | Article/Video | codeminer.io | 83 | 7 | live |
-| 57 | 2026-10-25 | [Load Balancing in System Design: How Applications Handle Millions of Requests](https://www.reddit.com/r/softwarearchitecture/comments/1xf95qz/load_balancing_in_system_design_how_applications/) | u/Overall-Beach-9801 | Article/Video | medium.com | 81 | 8 | live |
-| 58 | 2026-10-27 | [Software architecture or design patterns that impact coding agent effectiveness?](https://www.reddit.com/r/softwarearchitecture/comments/1xh6u40/software_architecture_or_design_patterns_that/) | u/Mathematicaster | Discussion/Advice | text | 79 | 32 | live |
-| 59 | 2026-10-17 | [DDD: I Know This Comes Up a Lot in Interviews](https://www.reddit.com/r/softwarearchitecture/comments/1x8eiss/ddd_i_know_this_comes_up_a_lot_in_interviews/) | u/correctMeIfImcorrect | Article/Video | youtube.com | 68 | 2 | live |
-| 60 | 2026-10-17 | [Processes vs Threads vs Cores — The Difference That Actually Matters](https://www.reddit.com/r/softwarearchitecture/comments/1x83zxj/processes_vs_threads_vs_cores_the_difference_that/) | u/javinpaul | Article/Video | javarevisited.substack.com | 67 | 0 | live |
-| 61 | 2026-11-02 | [Your Program Is a Data Pipeline (Even If You Don't See It)](https://www.reddit.com/r/softwarearchitecture/comments/1xm1b2l/your_program_is_a_data_pipeline_even_if_you_dont/) | u/0kamiwolf | Article/Video | gulenok.lu | 66 | 21 | approved |
-| 62 | 2026-10-24 | [System design: How would you design a real-time Top 5 currently playing songs feature?](https://www.reddit.com/r/softwarearchitecture/comments/1xe5lsg/system_design_how_would_you_design_a_realtime_top/) | u/Reasonable_Pianist14 | Discussion/Advice | text | 65 | 19 | live |
-| 48 | 2026-11-03 | [I built a tool that turns your codebase into interactive architecture diagrams inside Claude (free & opensour…](https://www.reddit.com/r/softwarearchitecture/comments/1xmekcz/i_built_a_tool_that_turns_your_codebase_into/) | u/Nkgsporty | Tool/Product | reddit.com | 64 | 8 | live |
-| 28 | 2026-11-04 | [Apache Kafka Basics for System Design](https://www.reddit.com/r/softwarearchitecture/comments/1xnpusi/apache_kafka_basics_for_system_design/) | u/javinpaul | Article/Video | javarevisited.substack.com | 63 | 3 | live |
-| 63 | 2026-10-10 | [Handling async PDF generation when clients expect the PDF URL to work immediately](https://www.reddit.com/r/softwarearchitecture/comments/1x2omvg/handling_async_pdf_generation_when_clients_expect/) | u/UnsungKnight112 | Discussion/Advice | text | 60 | 36 | live |
-| 64 | 2026-10-11 | [System Design: How Platforms Like LeetCode Run Untrusted Code Safely](https://www.reddit.com/r/softwarearchitecture/comments/1x360mk/system_design_how_platforms_like_leetcode_run/) | u/RummanSid1990 | Article/Video | medium.com | 58 | 5 | live |
-| 65 | 2026-10-26 | [Does Clean Architecture sometimes introduce more complexity than necessary?](https://www.reddit.com/r/softwarearchitecture/comments/1xfzlar/does_clean_architecture_sometimes_introduce_more/) | u/Few-Process-4355 | Article/Video | text | 57 | 48 | live |
-| 66 | 2026-10-23 | [System Design Interview Preparation: Where to Start and What to Learn Next](https://www.reddit.com/r/softwarearchitecture/comments/1xdhwc3/system_design_interview_preparation_where_to/) | u/Overall-Beach-9801 | Article/Video | medium.com | 57 | 2 | live |
-| 67 | 2026-10-10 | [Shapeshifting Software: Exploring an AI-native architecture for self-adapting applications](https://www.reddit.com/r/softwarearchitecture/comments/1x2f3p9/shapeshifting_software_exploring_an_ainative/) | u/TriptoAfsin | Discussion/Advice | i.redd.it | 54 | 17 | live |
+| 51 | 2026-10-26 | [Review of this book - Designing Data Intensive Application](#post-51) | u/Agitated-Ear-9465 | Discussion/Advice | i.redd.it | 951 | 159 | live |
+| 52 | 2026-10-14 | [This book is saying what I had in my mind for years: A Philosophy of Software Design](#post-52) | u/echo2056 | Discussion/Advice | text | 237 | 29 | live |
+| 53 | 2026-10-30 | [AI Has Made Coding Boring](#post-53) | u/Overall-Beach-9801 | Article/Video | medium.com | 222 | 74 | live |
+| 54 | 2026-10-24 | [I built a free system design playground. Looking for feedback! ( ReShare )](#post-54) | u/New-Target-2065 | Tool/Product | reddit.com | 167 | 41 | live |
+| 34 | 2026-11-03 | [I got rejected for a job and I'm livid](#post-34) | u/Jipptomilly | Discussion/Advice | text | 156 | 58 | live |
+| 55 | 2026-10-18 | [AI handles our incidents now and I'm not sure anyone knows the system anymore](#post-55) | u/Few-Pilot7575 | Discussion/Advice | text | 105 | 35 | live |
+| 56 | 2026-10-25 | [Decisions that outlive the session: Architecture Decision Records (ADRs)](#post-56) | u/zit-hb | Article/Video | codeminer.io | 83 | 7 | live |
+| 57 | 2026-10-25 | [Load Balancing in System Design: How Applications Handle Millions of Requests](#post-57) | u/Overall-Beach-9801 | Article/Video | medium.com | 81 | 8 | live |
+| 58 | 2026-10-27 | [Software architecture or design patterns that impact coding agent effectiveness?](#post-58) | u/Mathematicaster | Discussion/Advice | text | 79 | 32 | live |
+| 59 | 2026-10-17 | [DDD: I Know This Comes Up a Lot in Interviews](#post-59) | u/correctMeIfImcorrect | Article/Video | youtube.com | 68 | 2 | live |
+| 60 | 2026-10-17 | [Processes vs Threads vs Cores — The Difference That Actually Matters](#post-60) | u/javinpaul | Article/Video | javarevisited.substack.com | 67 | 0 | live |
+| 61 | 2026-11-02 | [Your Program Is a Data Pipeline (Even If You Don't See It)](#post-61) | u/0kamiwolf | Article/Video | gulenok.lu | 66 | 21 | approved |
+| 62 | 2026-10-24 | [System design: How would you design a real-time Top 5 currently playing songs feature?](#post-62) | u/Reasonable_Pianist14 | Discussion/Advice | text | 65 | 19 | live |
+| 48 | 2026-11-03 | [I built a tool that turns your codebase into interactive architecture diagrams inside Claude (free & opensour…](#post-48) | u/Nkgsporty | Tool/Product | reddit.com | 64 | 8 | live |
+| 28 | 2026-11-04 | [Apache Kafka Basics for System Design](#post-28) | u/javinpaul | Article/Video | javarevisited.substack.com | 63 | 3 | live |
+| 63 | 2026-10-10 | [Handling async PDF generation when clients expect the PDF URL to work immediately](#post-63) | u/UnsungKnight112 | Discussion/Advice | text | 60 | 36 | live |
+| 64 | 2026-10-11 | [System Design: How Platforms Like LeetCode Run Untrusted Code Safely](#post-64) | u/RummanSid1990 | Article/Video | medium.com | 58 | 5 | live |
+| 65 | 2026-10-26 | [Does Clean Architecture sometimes introduce more complexity than necessary?](#post-65) | u/Few-Process-4355 | Article/Video | text | 57 | 48 | live |
+| 66 | 2026-10-23 | [System Design Interview Preparation: Where to Start and What to Learn Next](#post-66) | u/Overall-Beach-9801 | Article/Video | medium.com | 57 | 2 | live |
+| 67 | 2026-10-10 | [Shapeshifting Software: Exploring an AI-native architecture for self-adapting applications](#post-67) | u/TriptoAfsin | Discussion/Advice | i.redd.it | 54 | 17 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Where do you draw ownership lines on a reporting system rewrite?
 
-2026-11-06 · u/RoughTrail68294 · Discussion/Advice · score 15 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xppocn/where_do_you_draw_ownership_lines_on_a_reporting/)
+2026-11-06 · u/RoughTrail68294 · Discussion/Advice · score 15 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xppocn/where_do_you_draw_ownership_lines_on_a_reporting/) · [↑ back to the list](#last-50-posts)
 
 > We're scoping a modernization of an old .NET reporting system while our internal engineers keep the normal product releases going. The reporting work isn't isolated from the rest of the product. It depends on shared integrations and will have to clear the same release gates.  
 >
@@ -146,9 +148,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For those who've separated modernization work from ongoing product development, which decisions did you insist on keeping internal and which could the delivery team handle independently? Very interested in boundaries that seemed obvious during planning but became contentious once integration work started.
 
+<a id="post-2"></a>
+
 ### 2. Removing our retries exposed that we’d been double-writing records for months
 
-2026-11-06 · u/CodeByAnas · Discussion/Advice · score 2 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpnoga/removing_our_retries_exposed_that_wed_been/)
+2026-11-06 · u/CodeByAnas · Discussion/Advice · score 2 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpnoga/removing_our_retries_exposed_that_wed_been/) · [↑ back to the list](#last-50-posts)
 
 > We had an incident where our order service was hammering inventory during a bad deploy. The usual story retries stacked at a few layers and made it worse. Fixing that wasn’t the interesting part.
 >
@@ -160,9 +164,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > For people who’ve done this kind of cleanup did you find anything similar hiding behind retries or timeouts? And how did you go about auditing for it?
 
+<a id="post-3"></a>
+
 ### 3. AI makes content reproducible. I built a pipeline that does the same for the mobile architecture itself. Let’s talk about the future of development
 
-2026-11-06 · u/Andrei_RV · Discussion/Advice · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpkdo3/ai_makes_content_reproducible_i_built_a_pipeline/)
+2026-11-06 · u/Andrei_RV · Discussion/Advice · score 0 · 2 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpkdo3/ai_makes_content_reproducible_i_built_a_pipeline/) · [↑ back to the list](#last-50-posts)
 
 > AI has successfully automated a significant part of software creation. But what about the deployment and infrastructure stage? Here is a reproducible process that takes a technical specification and outputs a finished, standalone native mobile platform—independent apps for both iOS and Android driven by a unified backend — in about two hours.
 >
@@ -174,9 +180,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > 2. Does this level of structural automation threaten developers, or does it finally free them from routine to focus on building truly unique functionality?
 
+<a id="post-4"></a>
+
 ### 4. Form relations vs table relations: what's the difference?
 
-2026-11-06 · u/jeff377 · Article/Video · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpgyw0/form_relations_vs_table_relations_whats_the/)
+2026-11-06 · u/jeff377 · Article/Video · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpgyw0/form_relations_vs_table_relations_whats_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/lo2xo8qvp00i1.png>
 
@@ -190,9 +198,11 @@ Link: <https://i.redd.it/lo2xo8qvp00i1.png>
 >
 > Write-up: [https://medium.com/@jeff377/form-relations-vs-table-relations-whats-the-difference-d7d6bab42fb9](https://medium.com/@jeff377/form-relations-vs-table-relations-whats-the-difference-d7d6bab42fb9)
 
+<a id="post-5"></a>
+
 ### 5. I built an AI agent that turns an existing GitHub repository into complete, editable software documentation
 
-2026-11-06 · u/Limp_Celery_5220 · Tool/Product · score 53 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpfy8f/i_built_an_ai_agent_that_turns_an_existing_github/)
+2026-11-06 · u/Limp_Celery_5220 · Tool/Product · score 53 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xpfy8f/i_built_an_ai_agent_that_turns_an_existing_github/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpfy8f>
 
@@ -253,15 +263,19 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > I've attached screenshots of the generated output. Would love to hear your thoughts.
 
+<a id="post-6"></a>
+
 ### 6. Flag was on for a slice of users and the dashboards never moved
 
-2026-11-06 · u/No-Employ-7601 · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp8wmh/flag_was_on_for_a_slice_of_users_and_the/)
+2026-11-06 · u/No-Employ-7601 · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp8wmh/flag_was_on_for_a_slice_of_users_and_the/) · [↑ back to the list](#last-50-posts)
 
 > Rolled a new pricing path behind a flag to a small percentage of traffic. Aggregate error rate barely twitched, so we widened it. Support tickets told us the truth a day later. The code caught a downstream failure and fell back to an old value, so nothing threw, nothing 500'd, and every monitor we had looks at the aggregate anyway. LaunchDarkly gives us the flag and some metric hooks, but the only metric we’d wired to it was the error rate. hud came up because it counts calls and exceptions per function and flags one that starts behaving differently from the baseline, instead of waiting for a rate to shift. No idea if that covers an exception the code already caught. Anyone catching bad flag rollouts at the function level? Or is this just a case for better custom metrics per flag.
 
+<a id="post-7"></a>
+
 ### 7. Clean Architecture — Shared Use Case Logic
 
-2026-11-06 · u/PrestigiousEgg8845 · Discussion/Advice · score 5 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp7qea/clean_architecture_shared_use_case_logic/)
+2026-11-06 · u/PrestigiousEgg8845 · Discussion/Advice · score 5 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp7qea/clean_architecture_shared_use_case_logic/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -289,9 +303,11 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > This post was written with the help of AI because English isn’t my native language.
 
+<a id="post-8"></a>
+
 ### 8. Why Do Some Applications Perform Well During Testing but Struggle in Production?
 
-2026-11-06 · u/Admirable_Elk_1603 · Discussion/Advice · score 4 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp66gh/why_do_some_applications_perform_well_during/)
+2026-11-06 · u/Admirable_Elk_1603 · Discussion/Advice · score 4 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xp66gh/why_do_some_applications_perform_well_during/) · [↑ back to the list](#last-50-posts)
 
 > One common reason is that testing environments rarely reproduce the complexity of actual production conditions. During testing, applications usually operate with controlled data, predictable traffic, and limited third-party dependencies. In production, the situation changes with concurrent user requests, database load, network latency, unexpected input, and external service failures.
 >
@@ -299,27 +315,35 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > In my opinion, production-like testing, continuous monitoring, load testing, and proper error logging should be part of the development process rather than treated as final-stage activities.
 
+<a id="post-9"></a>
+
 ### 9. Both gateways delivered 600K RPS. Their tail latency told different stories.
 
-2026-11-06 · u/Ok-Knowledge-7587 · Article/Video · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xozxn9/both_gateways_delivered_600k_rps_their_tail/)
+2026-11-06 · u/Ok-Knowledge-7587 · Article/Video · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xozxn9/both_gateways_delivered_600k_rps_their_tail/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-10"></a>
 
 ### 10. I built a double-entry ledger API in Java 21 and learned why you never call Kafka inside a DB transaction
 
-2026-11-05 · u/CodeByAkin · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xov6ww/i_built_a_doubleentry_ledger_api_in_java_21_and/)
+2026-11-05 · u/CodeByAkin · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xov6ww/i_built_a_doubleentry_ledger_api_in_java_21_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-11"></a>
 
 ### 11. How to avoid value drift (and your CEO asking why sales suddenly spiked 100x overnight)
 
-2026-11-05 · u/fristprinciplesde · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xounfq/how_to_avoid_value_drift_and_your_ceo_asking_why/)
+2026-11-05 · u/fristprinciplesde · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xounfq/how_to_avoid_value_drift_and_your_ceo_asking_why/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-12"></a>
+
 ### 12. Looking for open-source codebases with great architectural documentation (Components, Connectors, Rationale)
 
-2026-11-05 · u/xampool · Discussion/Advice · score 41 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xolq3y/looking_for_opensource_codebases_with_great/)
+2026-11-05 · u/xampool · Discussion/Advice · score 41 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xolq3y/looking_for_opensource_codebases_with_great/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -331,9 +355,11 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > Any recommendations? Thanks in advance!
 
+<a id="post-13"></a>
+
 ### 13. Moving from per-tenant SQLite to one shared Postgres with forced RLS. Poke holes in the plan before I build it
 
-2026-11-05 · u/plxs05092026 · Discussion/Advice · score 11 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xojolw/moving_from_pertenant_sqlite_to_one_shared/)
+2026-11-05 · u/plxs05092026 · Discussion/Advice · score 11 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xojolw/moving_from_pertenant_sqlite_to_one_shared/) · [↑ back to the list](#last-50-posts)
 
 > A few weeks ago I asked here about one database per user and you talked me out of it. This is the shared Postgres design I'm about to build, and I'd like someone who has run this at scale to poke holes in it.
 >
@@ -347,9 +373,11 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > So far this only had automated reviews, which found 32 serious issues, all fixed. Nobody who ran this for real has read it. Two things I'd really like experience on. Should I partition events by tenant from day one, or is a composite index fine at this size? And does RLS get in the way of the GIN index? I still don't know if @@ is leakproof.
 
+<a id="post-14"></a>
+
 ### 14. Would you use Scala/Cats-style IO and fibers in a Python-like language (Mojo)?
 
-2026-11-05 · u/Apart_Paramedic_1850 · Tool/Product · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xojmi5/would_you_use_scalacatsstyle_io_and_fibers_in_a/)
+2026-11-05 · u/Apart_Paramedic_1850 · Tool/Product · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xojmi5/would_you_use_scalacatsstyle_io_and_fibers_in_a/) · [↑ back to the list](#last-50-posts)
 
 > Disclaimer: I'm the author of [`fp_mojo`](https://github.com/Spellbound-Mojo/fp_mojo) ([docs](https://spellbound-mojo.github.io/fp_mojo/)), and I'm posting here to get some feedback from the broader data engineering community on the concept of integrating Scala / Cats Effect async and concurrency primitives into a Python-like language. This is a personal project and not a business service. Disclaimer #2: AI tools were used to proofread this post. 
 >
@@ -511,23 +539,29 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > Repo link if you want to poke around: https://github.com/Spellbound-Mojo/fp_mojo
 
+<a id="post-15"></a>
+
 ### 15. Is a filtered view enough to prove what was issued?
 
-2026-11-05 · u/srikanth_builds · Discussion/Advice · score 4 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoifxe/is_a_filtered_view_enough_to_prove_what_was_issued/)
+2026-11-05 · u/srikanth_builds · Discussion/Advice · score 4 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoifxe/is_a_filtered_view_enough_to_prove_what_was_issued/) · [↑ back to the list](#last-50-posts)
 
 > I have a case where one party creates a row and another party owns it. The owner reads it through a server-side filtered query, so the client never sends the ownership filter. The screen only lets the owner accept or decline, but the server rule would actually let them edit the rest of their own row. There's no separate document because the row itself is always the current source of truth, which keeps the design fairly simple.
 >
 > What I can't prove later is exactly what that person saw at the time it was issued. If the row changes, the live view changes with it. The notification comes close to being a snapshot because the email or SMS contains the details as they were sent, but we don't archive that message as the official record. I keep going back and forth between versioning the row and storing a hash when it's sent, or just creating an immutable issued copy. **At what point does a live view stop being enough?**
 
+<a id="post-16"></a>
+
 ### 16. Both gateways delivered 600K RPS. Their tail latency told different stories.
 
-2026-11-05 · u/Ok-Knowledge-7587 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoiaod/both_gateways_delivered_600k_rps_their_tail/)
+2026-11-05 · u/Ok-Knowledge-7587 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoiaod/both_gateways_delivered_600k_rps_their_tail/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Only migrate clean code to the new language or architecture.
 
-2026-11-05 · u/Slight_Major5589 · Discussion/Advice · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoguww/only_migrate_clean_code_to_the_new_language_or/)
+2026-11-05 · u/Slight_Major5589 · Discussion/Advice · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xoguww/only_migrate_clean_code_to_the_new_language_or/) · [↑ back to the list](#last-50-posts)
 
 > In my previous post, I discussed the topic of moving away from scripting languages, and a lot of people shared great ideas and insights.
 >
@@ -561,15 +595,19 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > Thanks for sharing your ideas and experience.
 
+<a id="post-18"></a>
+
 ### 18. Flag was on for a slice of users and the dashboards never moved
 
-2026-11-05 · u/Sigal_kariSpirit3494 · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xogbde/flag_was_on_for_a_slice_of_users_and_the/)
+2026-11-05 · u/Sigal_kariSpirit3494 · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xogbde/flag_was_on_for_a_slice_of_users_and_the/) · [↑ back to the list](#last-50-posts)
 
 > Rolled a new pricing path behind a flag to a small percentage of traffic. Aggregate error rate barely twitched, so we widened it. Support tickets told us the truth a day later. The code caught a downstream failure and fell back to an old value, so nothing threw, nothing 500'd, and every monitor we had looks at the aggregate anyway. LaunchDarkly gives us the flag and some metric hooks, but the only metric we’d wired to it was the error rate. hud came up because it counts calls and exceptions per function and flags one that starts behaving differently from the baseline, instead of waiting for a rate to shift. No idea if that covers an exception the code already caught. Anyone catching bad flag rollouts at the function level? Or is this just a case for better custom metrics per flag.
 
+<a id="post-19"></a>
+
 ### 19. Feedback on diagrams wanted
 
-2026-11-05 · u/jabbottiii · Discussion/Advice · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo6vmu/feedback_on_diagrams_wanted/)
+2026-11-05 · u/jabbottiii · Discussion/Advice · score 3 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo6vmu/feedback_on_diagrams_wanted/) · [↑ back to the list](#last-50-posts)
 
 > Hello, I have been looking to improve my ability to understand / create / present systems diagrams.
 >
@@ -577,9 +615,11 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > I would love to have some feedback on whether these are any good or what I should focus on learning.
 
+<a id="post-20"></a>
+
 ### 20. "The order is the control": when a rule engine and an ML model share a pipeline, who speaks first is an authority decision, not a performance one
 
-2026-11-04 · u/Neither_Opinion69 · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo2mhl/the_order_is_the_control_when_a_rule_engine_and/)
+2026-11-04 · u/Neither_Opinion69 · Discussion/Advice · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo2mhl/the_order_is_the_control_when_a_rule_engine_and/) · [↑ back to the list](#last-50-posts)
 
 > Design lesson from a human-in-the-loop system where a model and a set of hard rules both contribute to a proposal that a human then approves.
 >
@@ -607,16 +647,20 @@ Link: <https://www.reddit.com/gallery/1xpfy8f>
 >
 > Question for the room: in your event-sourced / audit-logged systems, do you log model outputs that were later overruled by policy? I ended up preferring "never generated" over "generated and marked as overruled", because the human still reads the overruled text.
 
+<a id="post-21"></a>
+
 ### 21. Network Fundamentals for Software Architects, Part 1: From Layer 2 to BGP
 
-2026-11-04 · u/docaicdev · Article/Video · score 54 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo16rh/network_fundamentals_for_software_architects_part/)
+2026-11-04 · u/docaicdev · Article/Video · score 54 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo16rh/network_fundamentals_for_software_architects_part/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@js_9757/network-fundamentals-for-software-architects-part-1-from-layer-2-to-bgp-b9b43f371722>
 
 
+<a id="post-22"></a>
+
 ### 22. Structural Architecture vs. Personality Chaos: Why True Enterprise Protocols Must Be Built to Last
 
-2026-11-04 · u/Itchy-Tune-5059 · Tool/Product · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo0ude/structural_architecture_vs_personality_chaos_why/)
+2026-11-04 · u/Itchy-Tune-5059 · Tool/Product · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo0ude/structural_architecture_vs_personality_chaos_why/) · [↑ back to the list](#last-50-posts)
 
 > Most corporate expansions fail long before they run out of capital. They fail because they are built on personality-driven chaos rather than process permanence. 
 >
@@ -632,9 +676,11 @@ Link: <https://medium.com/@js_9757/network-fundamentals-for-software-architects-
 >
 > https://shisaelswai.blogspot.com
 
+<a id="post-23"></a>
+
 ### 23. The URL Shortener Hand-Waves: 6 architectural patterns that collapse in production
 
-2026-11-04 · u/BenchifyAppDNS · Discussion/Advice · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo00nw/the_url_shortener_handwaves_6_architectural/)
+2026-11-04 · u/BenchifyAppDNS · Discussion/Advice · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xo00nw/the_url_shortener_handwaves_6_architectural/) · [↑ back to the list](#last-50-posts)
 
 > I've noticed that guides for URL shorteners (ByteByteGo, Grokking, Algomaster, etc.) treat the URL shortener like a basic problem, but almost all of them use the same generic buzzwords. Here are 6 patterns that sound clean on a whiteboard but fall apart the moment someone dives deeper:
 >
@@ -691,9 +737,11 @@ Link: <https://medium.com/@js_9757/network-fundamentals-for-software-architects-
 >
 > Am I tripping? Or are these things obvious to everyone but me?
 
+<a id="post-24"></a>
+
 ### 24. Best way to build an AI-powered codebase search across hundreds of private GitHub repos?
 
-2026-11-04 · u/fresh_preserve · Discussion/Advice · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnwxm9/best_way_to_build_an_aipowered_codebase_search/)
+2026-11-04 · u/fresh_preserve · Discussion/Advice · score 6 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnwxm9/best_way_to_build_an_aipowered_codebase_search/) · [↑ back to the list](#last-50-posts)
 
 > Hey folks,
 >
@@ -726,9 +774,11 @@ Link: <https://medium.com/@js_9757/network-fundamentals-for-software-architects-
 >
 > Cheers!
 
+<a id="post-25"></a>
+
 ### 25. Quais são as melhores práticas para integrar dois backends existentes num único produto?
 
-2026-11-04 · u/Aquiles_bachira · Discussion/Advice · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xns9lb/quais_são_as_melhores_práticas_para_integrar_dois/)
+2026-11-04 · u/Aquiles_bachira · Discussion/Advice · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xns9lb/quais_são_as_melhores_práticas_para_integrar_dois/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/9asyi7heemzh1.png>
 
@@ -750,9 +800,11 @@ Link: <https://i.redd.it/9asyi7heemzh1.png>
 >
 > **Gostaria especialmente de conhecer experiências reais, decisões arquiteturais e ferramentas que recomendariam para este tipo de integração.**
 
+<a id="post-26"></a>
+
 ### 26. A self hosted payment control plane for AI agents to stop them from paying for unverified jobs
 
-2026-11-04 · u/DrSkyle · Tool/Product · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnqnt6/a_self_hosted_payment_control_plane_for_ai_agents/)
+2026-11-04 · u/DrSkyle · Tool/Product · score 0 · 1 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnqnt6/a_self_hosted_payment_control_plane_for_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 > Look, we built Elpis (https://elpis.devilabs.dev) because coupling autonomous agents directly to wallets or trusting an LLM's confidence string to authorize fund transfers is an architectural anti-pattern that begs for prompt injection disasters.
 >
@@ -780,9 +832,11 @@ Link: <https://i.redd.it/9asyi7heemzh1.png>
 >
 > drskyle :)
 
+<a id="post-27"></a>
+
 ### 27. haven't built my app yet, but I want it to last. how do the big apps scale and build strong systems from day one? 🧠
 
-2026-11-04 · u/ZtasnimS75 · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnq8de/havent_built_my_app_yet_but_i_want_it_to_last_how/)
+2026-11-04 · u/ZtasnimS75 · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnq8de/havent_built_my_app_yet_but_i_want_it_to_last_how/) · [↑ back to the list](#last-50-posts)
 
 > okay so I'm in that dangerous phase where I have a big idea and zero lines of code. 😭
 >
@@ -842,16 +896,20 @@ Link: <https://i.redd.it/9asyi7heemzh1.png>
 >
 > war stories welcome, the more it hurt the more I wanna hear it. 🫡
 
+<a id="post-28"></a>
+
 ### 28. Apache Kafka Basics for System Design
 
-2026-11-04 · u/javinpaul · Article/Video · score 63 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnpusi/apache_kafka_basics_for_system_design/)
+2026-11-04 · u/javinpaul · Article/Video · score 63 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnpusi/apache_kafka_basics_for_system_design/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://javarevisited.substack.com/p/system-design-apache-kafka-basics>
 
 
+<a id="post-29"></a>
+
 ### 29. Veterinarian founder with no software engineering background building with AI: Shared care events and recurrence models; what should I examine before trusting this architecture?
 
-2026-11-04 · u/Appropriate_Hyena162 · Discussion/Advice · score 0 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnojz4/veterinarian_founder_with_no_software_engineering/)
+2026-11-04 · u/Appropriate_Hyena162 · Discussion/Advice · score 0 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnojz4/veterinarian_founder_with_no_software_engineering/) · [↑ back to the list](#last-50-posts)
 
 > Heya I am a veterinarian in between jobs (already have a job waiting) without a software engineering background. I am giving myself 4-5 months to see where I can bring this. Over the past 1–2 months, I have been building a pet care app using AI (yes, vibe coding) while trying to learn and understand the fundamentals, including working through CS50x, reading a ton of business books including the lean startup, the personal MBA,etc. I also got AI to create a list of commonly used computing terminology to memorise. I thought if I knew at least the basics, I would be able to communicate with AI to get what I want better.
 >
@@ -875,9 +933,11 @@ Link: <https://javarevisited.substack.com/p/system-design-apache-kafka-basics>
 >
 > I can describe the intended behaviour more confidently than I can evaluate the implementation. I would appreciate ANY AND ALL guidance on how to close that gap. ><
 
+<a id="post-30"></a>
+
 ### 30. How do teams merging hundreds of agent PRs a week actually ship them
 
-2026-11-04 · u/Master-Employment297 · Discussion/Advice · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xno0f4/how_do_teams_merging_hundreds_of_agent_prs_a_week/)
+2026-11-04 · u/Master-Employment297 · Discussion/Advice · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xno0f4/how_do_teams_merging_hundreds_of_agent_prs_a_week/) · [↑ back to the list](#last-50-posts)
 
 > I work on a small team (5 devs) on a fairly complex system, a scheduling platform with a mobile app, a backend, and two internal systems we depend on that are owned by other teams. On a good week we release once.
 >
@@ -893,21 +953,27 @@ Link: <https://javarevisited.substack.com/p/system-design-apache-kafka-basics>
 >
 > Just curious :) thanks in advance to anyone who wants to share how it works for them
 
+<a id="post-31"></a>
+
 ### 31. How do teams merging hundreds of agent PRs a week actually ship them
 
-2026-11-04 · u/210144 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnnjuf/how_do_teams_merging_hundreds_of_agent_prs_a_week/)
+2026-11-04 · u/210144 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnnjuf/how_do_teams_merging_hundreds_of_agent_prs_a_week/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. Which SOLID principle guarantee that an object is modified only once?
 
-2026-11-04 · u/Bofact · Discussion/Advice · score 0 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xniwe6/which_solid_principle_guarantee_that_an_object_is/)
+2026-11-04 · u/Bofact · Discussion/Advice · score 0 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xniwe6/which_solid_principle_guarantee_that_an_object_is/) · [↑ back to the list](#last-50-posts)
 
 > I would say it is the O one, but even then, if I need to modify something, this means I change something already implemented, which violates O principle.
 
+<a id="post-33"></a>
+
 ### 33. \[Update\] Sketchy v0.1.8 — comparing architecture diagrams before and after a refactor
 
-2026-11-04 · u/Nkgsporty · Tool/Product · score 4 · 4 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnad13/update_sketchy_v018_comparing_architecture/)
+2026-11-04 · u/Nkgsporty · Tool/Product · score 4 · 4 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xnad13/update_sketchy_v018_comparing_architecture/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xnad13>
 
@@ -932,9 +998,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > Feel free to give it a try and leave your feedback!
 
+<a id="post-34"></a>
+
 ### 34. I got rejected for a job and I'm livid
 
-2026-11-03 · u/Jipptomilly · Discussion/Advice · score 156 · 58 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn8j0o/i_got_rejected_for_a_job_and_im_livid/)
+2026-11-03 · u/Jipptomilly · Discussion/Advice · score 156 · 58 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn8j0o/i_got_rejected_for_a_job_and_im_livid/) · [↑ back to the list](#last-50-posts)
 
 > I'm 42 years old. I got a 4.0 in graduate school to earn my Master's degree in CS. I spent ten years working at Epic Systems - a job where the majority of devs leave to get a job in FAANG. Next month I'll need to get a loan from a friend so that we have time to sell our house because we're completely out of money. I have two kids and we take care of my sister in law because her biological mother disowned her.
 >
@@ -962,15 +1030,19 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > It's safe to say I'm not getting this job because the developers they have doing "software architecture" interviews don't know basic system architecture. I look at my 3yo daughter and think I would take a bullet for her. I was planning to work my ass off to be the absolute greatest developer they ever had to make sure my family had financial stability. Now I'm losing us our home and I absolutely hate myself.
 
+<a id="post-35"></a>
+
 ### 35. \[MIT\] Relay — An open-source webhook reliability engine with transactional outbox, retries & dead-letter management
 
-2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn7qbz/mit_relay_an_opensource_webhook_reliability/)
+2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn7qbz/mit_relay_an_opensource_webhook_reliability/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-36"></a>
+
 ### 36. Why I'm building a software architecture editor instead of another diagramming tool
 
-2026-11-03 · u/Initial_Mode_2821 · Tool/Product · score 24 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn5hu8/why_im_building_a_software_architecture_editor/)
+2026-11-03 · u/Initial_Mode_2821 · Tool/Product · score 24 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn5hu8/why_im_building_a_software_architecture_editor/) · [↑ back to the list](#last-50-posts)
 
 > I've been building ArchStudio, a free and open-source architecture editor, because I've always felt traditional diagramming tools are missing something.
 >
@@ -996,18 +1068,22 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > I'm particularly interested in what people feel is missing from their current architecture tools, and whether there's anything about this approach they'd change.
 
+<a id="post-37"></a>
+
 ### 37. Architecture with AI
 
-2026-11-03 · u/vm3006 · Discussion/Advice · score 12 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn2630/architecture_with_ai/)
+2026-11-03 · u/vm3006 · Discussion/Advice · score 12 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn2630/architecture_with_ai/) · [↑ back to the list](#last-50-posts)
 
 > Hey, so my company just got a new CEO who‘s one of those that think AI can speed everything up. As much I agree that yes with AI some things are faster, I don’t agree with making architectural decisions and building integrated system faster. By that I mean infrastructure for example. The product I work on is heavily using 3rd parties like API, 3rd party vendors etc. With that it means every integration is different. As much as we try to reduce the integration to be as simple as possible things will always differ between APIs response, data structure, etc.  
 > Now we are getting blamed for taking too long when in fact every new integration is a different setup, connections, data structure, we need to build a special pipeline or integration for it. With that also comes delays from 3rd parties taking forever to provide access, infra team being slow to set things up for us, etc. We can only go so fast. Also integration needs to be thought out careful to avoid a disaster causing a complete rewrite later because the skeleton was not thought out properly.   
 > I’m out of breath and done with this AI non sense. Yes, AI is great for your simple CRUD app, building simple API endpoints and building UIs. It is not for a heavily integrated app with lots of infrastructure overhead.  
 > Have any of you dealt with that? If yes, how?
 
+<a id="post-38"></a>
+
 ### 38. oncebox v2.0.0: Transactional Outbox and Inbox in one thing
 
-2026-11-03 · u/wonderful_unikorn · Tool/Product · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn0u9l/oncebox_v200_transactional_outbox_and_inbox_in/)
+2026-11-03 · u/wonderful_unikorn · Tool/Product · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xn0u9l/oncebox_v200_transactional_outbox_and_inbox_in/) · [↑ back to the list](#last-50-posts)
 
 > I had to write a transactional outbox for two of my projects. The popular solutions didn't fit, and CDC with Debezium felt too heavy for "save an event together with the data, send it later".
 >
@@ -1075,9 +1151,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > Feedback is very welcome.
 
+<a id="post-39"></a>
+
 ### 39. \[MIT\] FieldSync — Open-source offline-first inspection app with SQLite outbox & field-level 3-way merge
 
-2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 5 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqy9/mit_fieldsync_opensource_offlinefirst_inspection/)
+2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 5 · 0 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqy9/mit_fieldsync_opensource_offlinefirst_inspection/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone 👋
 >
@@ -1099,9 +1177,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > Feedback, architectural critiques, and contributions are very welcome!
 
+<a id="post-40"></a>
+
 ### 40. I've built a tool that people are using, but I'm not sure what they actually want from it.
 
-2026-11-03 · u/Liance_Tech_2030 · Discussion/Advice · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqi0/ive_built_a_tool_that_people_are_using_but_im_not/)
+2026-11-03 · u/Liance_Tech_2030 · Discussion/Advice · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwqi0/ive_built_a_tool_that_people_are_using_but_im_not/) · [↑ back to the list](#last-50-posts)
 
 > I've been building a side project called **StackMonkey**, a browser based distributed systems simulator.
 >
@@ -1148,9 +1228,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > I'm trying to build something engineers would genuinely find useful, not just another impressive looking architecture editor.
 
+<a id="post-41"></a>
+
 ### 41. Relay v1.0.0 Update: Webhook Reliability Engine with Transactional Outbox, Isolated Retries & Prometheus Telemetry (Demo + Live Console)
 
-2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwco1/relay_v100_update_webhook_reliability_engine_with/)
+2026-11-03 · u/Appropriate-Seat-787 · Discussion/Advice · score 2 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmwco1/relay_v100_update_webhook_reliability_engine_with/) · [↑ back to the list](#last-50-posts)
 
 > >Hey everyone 👋  
 > >  
@@ -1164,9 +1246,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 > >  
 > >Would love your final thoughts on the v1.0.0 release or how you handle webhook telemetry in your production stacks!
 
+<a id="post-42"></a>
+
 ### 42. Long-running payment workflows taught me why database transactions aren't enough
 
-2026-11-03 · u/czetsuya · Discussion/Advice · score 0 · 11 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmslh0/longrunning_payment_workflows_taught_me_why/)
+2026-11-03 · u/czetsuya · Discussion/Advice · score 0 · 11 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmslh0/longrunning_payment_workflows_taught_me_why/) · [↑ back to the list](#last-50-posts)
 
 > One of the more interesting architectural challenges I've encountered in backend development is designing payment workflows that involve multiple services and external providers.
 >
@@ -1249,9 +1333,11 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > And how do you handle operations where the external provider may have succeeded, but your system never received confirmation?
 
+<a id="post-43"></a>
+
 ### 43. I've built a tool that people are using, but I'm not sure what they actually want from it. What would you do next?
 
-2026-11-03 · u/QuietWander_ · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmqs2l/ive_built_a_tool_that_people_are_using_but_im_not/)
+2026-11-03 · u/QuietWander_ · Discussion/Advice · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmqs2l/ive_built_a_tool_that_people_are_using_but_im_not/) · [↑ back to the list](#last-50-posts)
 
 > I've been building a side project called **StackMonkey**, a browser based distributed systems simulator.
 >
@@ -1301,16 +1387,20 @@ Link: <https://www.reddit.com/gallery/1xnad13>
 >
 > I'm trying to build something engineers would genuinely find useful, not just another impressive looking architecture editor.
 
+<a id="post-44"></a>
+
 ### 44. A 1,186-file PR forced me to stop reviewing diffs and start reviewing behavior
 
-2026-11-03 · u/aisatsana__ · Article/Video · score 7 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmpurc/a_1186file_pr_forced_me_to_stop_reviewing_diffs/)
+2026-11-03 · u/aisatsana__ · Article/Video · score 7 · 5 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmpurc/a_1186file_pr_forced_me_to_stop_reviewing_diffs/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://shiftmag.dev/how-to-review-a-1000-file-pr-without-losing-your-mind-13054/>
 
 
+<a id="post-45"></a>
+
 ### 45. Best way to edit Mermaid diagrams your AI agent generates?
 
-2026-11-03 · u/Felix_Warren-56 · Discussion/Advice · score 4 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmkbhy/best_way_to_edit_mermaid_diagrams_your_ai_agent/)
+2026-11-03 · u/Felix_Warren-56 · Discussion/Advice · score 4 · 3 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmkbhy/best_way_to_edit_mermaid_diagrams_your_ai_agent/) · [↑ back to the list](#last-50-posts)
 
 > Our agents claude code mostly love dumping a mermaid block at the end of every plan good for a quick look until i actually want to move one box or regroup a couple of services before a design review right now I copy it into the live editor tweak the text re render check it repeat for a small sequence diagram that’s whatever.  
 >
@@ -1318,16 +1408,20 @@ Link: <https://shiftmag.dev/how-to-review-a-1000-file-pr-without-losing-your-min
 >
 > Leaning toward keeping it as code for drafts and only moving it somewhere visual once it’s going in front of people, but i keep going back and forth on it.
 
+<a id="post-46"></a>
+
 ### 46. Does AI Make You a 10x Architect… or a Worse Programmer?
 
-2026-11-03 · u/Dazzling_Ticket2536 · Article/Video · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmj5r7/does_ai_make_you_a_10x_architect_or_a_worse/)
+2026-11-03 · u/Dazzling_Ticket2536 · Article/Video · score 0 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmj5r7/does_ai_make_you_a_10x_architect_or_a_worse/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://youtube.com/watch?v=blTt1sBGb3U&si=nEELDuTZKKZ7qvB9>
 
 
+<a id="post-47"></a>
+
 ### 47. Thoughts on workflows for domain-modeled apps
 
-2026-11-03 · u/Helpful-Educator-415 · Discussion/Advice · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmeyfl/thoughts_on_workflows_for_domainmodeled_apps/)
+2026-11-03 · u/Helpful-Educator-415 · Discussion/Advice · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmeyfl/thoughts_on_workflows_for_domainmodeled_apps/) · [↑ back to the list](#last-50-posts)
 
 > *Disclaimer: no AI was used in the generation of this post.*
 >
@@ -1353,9 +1447,11 @@ Link: <https://youtube.com/watch?v=blTt1sBGb3U&si=nEELDuTZKKZ7qvB9>
 >
 > Sophia
 
+<a id="post-48"></a>
+
 ### 48. I built a tool that turns your codebase into interactive architecture diagrams inside Claude (free & opensource)
 
-2026-11-03 · u/Nkgsporty · Tool/Product · score 64 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmekcz/i_built_a_tool_that_turns_your_codebase_into/)
+2026-11-03 · u/Nkgsporty · Tool/Product · score 64 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xmekcz/i_built_a_tool_that_turns_your_codebase_into/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xmekcz>
 
@@ -1380,33 +1476,41 @@ Link: <https://www.reddit.com/gallery/1xmekcz>
 >
 > What would make this useful in your workflow? I’m thinking about C4-style levels next.
 
+<a id="post-49"></a>
+
 ### 49. When did a shared service stop being a good idea in your system?
 
-2026-11-03 · u/Raul_Nogales · Discussion/Advice · score 2 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xme14r/when_did_a_shared_service_stop_being_a_good_idea/)
+2026-11-03 · u/Raul_Nogales · Discussion/Advice · score 2 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xme14r/when_did_a_shared_service_stop_being_a_good_idea/) · [↑ back to the list](#last-50-posts)
 
 > Early in one project a shared service looked like the clean answer. Common needs lived in one place, and every team used the same code. A year later the shared part had become the queue. Small local needs waited behind changes for other teams, and nobody felt they owned the whole.
 >
 > We ended up splitting only the parts that changed at different speeds and keeping the truly common core shared. I am curious how others spot that moment. What told you a shared service had gone too far?
 
+<a id="post-50"></a>
+
 ### 50. Evolutionary Architecture in .NET By Example
 
-2026-11-02 · u/pmz · Article/Video · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xm93xc/evolutionary_architecture_in_net_by_example/)
+2026-11-02 · u/pmz · Article/Video · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xm93xc/evolutionary_architecture_in_net_by_example/) · [↑ back to the list](#last-50-posts)
 
 > This is an evolutionary architecture guide for .NET software development, illustrating how applications can organically scale from simple beginnings to complex distributed systems. 
 >
 > [On IProgrammer](https://www.i-programmer.info/news/89-net/19256-evolutionary-architecture-in-net-by-example.html)
 
+<a id="post-51"></a>
+
 ### 51. Review of this book - Designing Data Intensive Application
 
-2026-10-26 · u/Agitated-Ear-9465 · Discussion/Advice · score 951 · 159 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xfxant/review_of_this_book_designing_data_intensive/)
+2026-10-26 · u/Agitated-Ear-9465 · Discussion/Advice · score 951 · 159 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xfxant/review_of_this_book_designing_data_intensive/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1u98bl19gtxh1.jpeg>
 
 > I've recently bought this book, I have very less knowledge system design is it worth the read without any prerequisites.
 
+<a id="post-52"></a>
+
 ### 52. This book is saying what I had in my mind for years: A Philosophy of Software Design
 
-2026-10-14 · u/echo2056 · Discussion/Advice · score 237 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x5js02/this_book_is_saying_what_i_had_in_my_mind_for/)
+2026-10-14 · u/echo2056 · Discussion/Advice · score 237 · 29 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x5js02/this_book_is_saying_what_i_had_in_my_mind_for/) · [↑ back to the list](#last-50-posts)
 
 > I was listening to an episode of The Pragmatic Engineer podcast with Matt Pocock, at the end of the podcast Matt mentioned a book I heard for the first Time "A Philosophy of Software Design".
 >
@@ -1420,9 +1524,11 @@ Link: <https://i.redd.it/1u98bl19gtxh1.jpeg>
 >
 > (The Pragmatic Engineer also has an episode with *John Ousterhout*, author of A Philosophy of Software Design, I suggest you listen to it too)
 
+<a id="post-53"></a>
+
 ### 53. AI Has Made Coding Boring
 
-2026-10-30 · u/Overall-Beach-9801 · Article/Video · score 222 · 74 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xjjtvp/ai_has_made_coding_boring/)
+2026-10-30 · u/Overall-Beach-9801 · Article/Video · score 222 · 74 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xjjtvp/ai_has_made_coding_boring/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@behind-the-stack/ai-has-made-coding-boring-adb1826134b0?sk=2bba5636bf991e6b22f62ddbfa164ae8>
 
@@ -1430,9 +1536,11 @@ Link: <https://medium.com/@behind-the-stack/ai-has-made-coding-boring-adb1826134
 > I can see the appeal, but I also liked getting absorbed in the code itself.  
 > I wrote my thoughts in the article and I am adding it here because I believe most people here would relate to me. Would love to hear your thoughts on this and if you are enjoying this shift.
 
+<a id="post-54"></a>
+
 ### 54. I built a free system design playground. Looking for feedback! ( ReShare )
 
-2026-10-24 · u/New-Target-2065 · Tool/Product · score 167 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xe3i9r/i_built_a_free_system_design_playground_looking/)
+2026-10-24 · u/New-Target-2065 · Tool/Product · score 167 · 41 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xe3i9r/i_built_a_free_system_design_playground_looking/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xe3i9r>
 
@@ -1446,9 +1554,11 @@ Link: <https://www.reddit.com/gallery/1xe3i9r>
 >
 > Give it a try: [https://stackmonkey.dev](https://stackmonkey.dev/) | [https://app.stackmonkey.dev](https://app.stackmonkey.dev)
 
+<a id="post-55"></a>
+
 ### 55. AI handles our incidents now and I'm not sure anyone knows the system anymore
 
-2026-10-18 · u/Few-Pilot7575 · Discussion/Advice · score 105 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x907a1/ai_handles_our_incidents_now_and_im_not_sure/)
+2026-10-18 · u/Few-Pilot7575 · Discussion/Advice · score 105 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x907a1/ai_handles_our_incidents_now_and_im_not_sure/) · [↑ back to the list](#last-50-posts)
 
 > I have a theory that we're going the same way taxi drivers went with GPS. The routine stuff gets automated, and the knowledge you only got from doing the routine stuff quietly goes away.
 >
@@ -1460,31 +1570,39 @@ Link: <https://www.reddit.com/gallery/1xe3i9r>
 >
 > WDYT?
 
+<a id="post-56"></a>
+
 ### 56. Decisions that outlive the session: Architecture Decision Records (ADRs)
 
-2026-10-25 · u/zit-hb · Article/Video · score 83 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xeydoi/decisions_that_outlive_the_session_architecture/)
+2026-10-25 · u/zit-hb · Article/Video · score 83 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xeydoi/decisions_that_outlive_the_session_architecture/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://codeminer.io/blog/decisions-that-outlive-the-session>
 
 > A real-world example of how to use ADRs to keep track of your decisions in agentic software projects. An old concept, now more relevant than ever.
 
+<a id="post-57"></a>
+
 ### 57. Load Balancing in System Design: How Applications Handle Millions of Requests
 
-2026-10-25 · u/Overall-Beach-9801 · Article/Video · score 81 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xf95qz/load_balancing_in_system_design_how_applications/)
+2026-10-25 · u/Overall-Beach-9801 · Article/Video · score 81 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xf95qz/load_balancing_in_system_design_how_applications/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/javarevisited/load-balancing-in-system-design-how-applications-handle-millions-of-requests-2df366214c45?sk=45554fabda8245dde8bd8b58b7488b9d>
 
 > I wrote a practical guide to load balancing—how traffic gets distributed, what happens when servers fail, and how deployments fit in. Give it a read and let me know what you think. Anything unclear or missing?
 
+<a id="post-58"></a>
+
 ### 58. Software architecture or design patterns that impact coding agent effectiveness?
 
-2026-10-27 · u/Mathematicaster · Discussion/Advice · score 79 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xh6u40/software_architecture_or_design_patterns_that/)
+2026-10-27 · u/Mathematicaster · Discussion/Advice · score 79 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xh6u40/software_architecture_or_design_patterns_that/) · [↑ back to the list](#last-50-posts)
 
 > Our organization is late to the party on adopting AI coding assistants / agents and I'm looking for information on what aspects of a codebase make those tools more or less effective, and especially where there are differences to the traditional advice for human teams. Is anyone aware of research, conference talks, or even blog posts on this topic?
 
+<a id="post-59"></a>
+
 ### 59. DDD: I Know This Comes Up a Lot in Interviews
 
-2026-10-17 · u/correctMeIfImcorrect · Article/Video · score 68 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x8eiss/ddd_i_know_this_comes_up_a_lot_in_interviews/)
+2026-10-17 · u/correctMeIfImcorrect · Article/Video · score 68 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x8eiss/ddd_i_know_this_comes_up_a_lot_in_interviews/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.youtube.com/watch?v=0c2fj6z6Zso>
 
@@ -1492,23 +1610,29 @@ Link: <https://www.youtube.com/watch?v=0c2fj6z6Zso>
 >
 > ps : tried reposting this from r/angular , couldnt
 
+<a id="post-60"></a>
+
 ### 60. Processes vs Threads vs Cores — The Difference That Actually Matters
 
-2026-10-17 · u/javinpaul · Article/Video · score 67 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x83zxj/processes_vs_threads_vs_cores_the_difference_that/)
+2026-10-17 · u/javinpaul · Article/Video · score 67 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x83zxj/processes_vs_threads_vs_cores_the_difference_that/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://javarevisited.substack.com/p/processes-vs-threads-vs-cores-what>
 
 
+<a id="post-61"></a>
+
 ### 61. Your Program Is a Data Pipeline (Even If You Don't See It)
 
-2026-11-02 · u/0kamiwolf · Article/Video · score 66 · 21 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xm1b2l/your_program_is_a_data_pipeline_even_if_you_dont/)
+2026-11-02 · u/0kamiwolf · Article/Video · score 66 · 21 comments · approved · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xm1b2l/your_program_is_a_data_pipeline_even_if_you_dont/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://gulenok.lu/2026/05/09/your-program-is-a-data-pipeline/>
 
 
+<a id="post-62"></a>
+
 ### 62. System design: How would you design a real-time Top 5 currently playing songs feature?
 
-2026-10-24 · u/Reasonable_Pianist14 · Discussion/Advice · score 65 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xe5lsg/system_design_how_would_you_design_a_realtime_top/)
+2026-10-24 · u/Reasonable_Pianist14 · Discussion/Advice · score 65 · 19 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xe5lsg/system_design_how_would_you_design_a_realtime_top/) · [↑ back to the list](#last-50-posts)
 
 > I have an upcoming system design interview where one of the reported questions is to design a feature that returns the top 5 most-played songs on a Spotify-like app, with 10M users and 1M concurrent listeners.  
 > The interview starts from first principles and iterates on the design.  
@@ -1516,9 +1640,11 @@ Link: <https://gulenok.lu/2026/05/09/your-program-is-a-data-pipeline/>
 > How would you approach this problem from scratch? Would you start with something simple like PostgreSQL and introduce technologies like Redis or Kafka as bottlenecks emerge?  
 > I’m particularly interested in how you’d track real-time playback, calculate the top 5 songs, and scale the system incrementally without overengineering it.
 
+<a id="post-63"></a>
+
 ### 63. Handling async PDF generation when clients expect the PDF URL to work immediately
 
-2026-10-10 · u/UnsungKnight112 · Discussion/Advice · score 60 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x2omvg/handling_async_pdf_generation_when_clients_expect/)
+2026-10-10 · u/UnsungKnight112 · Discussion/Advice · score 60 · 36 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x2omvg/handling_async_pdf_generation_when_clients_expect/) · [↑ back to the list](#last-50-posts)
 
 > Hello all - 
 >
@@ -1558,9 +1684,11 @@ Link: <https://gulenok.lu/2026/05/09/your-program-is-a-data-pipeline/>
 >
 > I'm particularly interested in solutions that don't require changes across every client, since I need to support third-party consumers too. While I'm aligned the ideal approach would have been DB insertion only on pdf generation but it's a 5 year old thing, which I can't patch right now :(
 
+<a id="post-64"></a>
+
 ### 64. System Design: How Platforms Like LeetCode Run Untrusted Code Safely
 
-2026-10-11 · u/RummanSid1990 · Article/Video · score 58 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x360mk/system_design_how_platforms_like_leetcode_run/)
+2026-10-11 · u/RummanSid1990 · Article/Video · score 58 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x360mk/system_design_how_platforms_like_leetcode_run/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/@rummansiddiqui1990/designing-a-code-execution-engine-like-leetcode-8e7a64ffcc77?source=friends_link&sk=8928a5633ee34d00188c085a395433b5>
 
@@ -1572,9 +1700,11 @@ Link: <https://medium.com/@rummansiddiqui1990/designing-a-code-execution-engine-
 > \- What isolation tool did you choose in production (Docker, gVisor, Firecracker or nsjail)?   
 > \- What was the hardest trade-off to balance?
 
+<a id="post-65"></a>
+
 ### 65. Does Clean Architecture sometimes introduce more complexity than necessary?
 
-2026-10-26 · u/Few-Process-4355 · Article/Video · score 57 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xfzlar/does_clean_architecture_sometimes_introduce_more/)
+2026-10-26 · u/Few-Process-4355 · Article/Video · score 57 · 48 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xfzlar/does_clean_architecture_sometimes_introduce_more/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/67iwwehtutxh1.png
 >
@@ -1592,9 +1722,11 @@ Link: <https://medium.com/@rummansiddiqui1990/designing-a-code-execution-engine-
 >
 > [https://github.com/SolidArcSoftware/DataArc.Orchestration.Framework](https://github.com/SolidArcSoftware/DataArc.Orchestration.Framework)
 
+<a id="post-66"></a>
+
 ### 66. System Design Interview Preparation: Where to Start and What to Learn Next
 
-2026-10-23 · u/Overall-Beach-9801 · Article/Video · score 57 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xdhwc3/system_design_interview_preparation_where_to/)
+2026-10-23 · u/Overall-Beach-9801 · Article/Video · score 57 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1xdhwc3/system_design_interview_preparation_where_to/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://medium.com/gitconnected/system-design-interview-preparation-where-to-start-and-what-to-learn-next-aa8f004dee12?sk=823c8fdfd1f0f73a7498409484549238>
 
@@ -1602,9 +1734,11 @@ Link: <https://medium.com/gitconnected/system-design-interview-preparation-where
 >
 > I’ve put together a system design roadmap covering the fundamentals, worked examples, and practice questions. Would appreciate suggestions on the topics, reading order, or anything important I’ve missed.
 
+<a id="post-67"></a>
+
 ### 67. Shapeshifting Software: Exploring an AI-native architecture for self-adapting applications
 
-2026-10-10 · u/TriptoAfsin · Discussion/Advice · score 54 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x2f3p9/shapeshifting_software_exploring_an_ainative/)
+2026-10-10 · u/TriptoAfsin · Discussion/Advice · score 54 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1x2f3p9/shapeshifting_software_exploring_an_ainative/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/o798qcbe4nuh1.png>
 

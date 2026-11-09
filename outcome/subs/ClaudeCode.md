@@ -50,56 +50,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [I'm giving away free Claude API access for 3 hours. If you find it useful, I'll extend it to 7 days.](https://www.reddit.com/r/ClaudeCode/comments/1xq0wnz/im_giving_away_free_claude_api_access_for_3_hours/) | u/Careless-Mongoose589 | Discussion | text | 0 | 12 | live | — |
-| 2 | 2026-11-07 | [Top 10 fastest-growing Claude skill repos • October 2026](https://www.reddit.com/r/ClaudeCode/comments/1xq0ees/top_10_fastestgrowing_claude_skill_repos_october/) | u/Slight-Money-4887 | Built with Claude | i.redd.it | 0 | 0 | removed by mod | — |
-| 3 | 2026-11-07 | [Claude quoted 50 days, subagents did it in 35h, and the slow part was me](https://www.reddit.com/r/ClaudeCode/comments/1xq0dvk/claude_quoted_50_days_subagents_did_it_in_35h_and/) | u/Slight-Money-4887 | Rant | i.redd.it | 1 | 0 | removed by mod | — |
-| 4 | 2026-11-07 | [Prompt caching doesn’t make a big CLAUDE.md free](https://www.reddit.com/r/ClaudeCode/comments/1xpzzde/prompt_caching_doesnt_make_a_big_claudemd_free/) | u/MinniLabs | Tips & Workflows | text | 3 | 11 | live | — |
-| 5 | 2026-11-07 | [For senior/staff engineers how do you avoid burning through all your tokens on ultra plan?](https://www.reddit.com/r/ClaudeCode/comments/1xpzegr/for_seniorstaff_engineers_how_do_you_avoid/) | u/degenerativegambling | Help/Question | text | 0 | 46 | live | — |
-| 6 | 2026-11-07 | [What’s your mobile friendly coding workflow?](https://www.reddit.com/r/ClaudeCode/comments/1xpz9da/whats_your_mobile_friendly_coding_workflow/) | u/Special_Gain9787 | Discussion | text | 2 | 32 | live | — |
-| 7 | 2026-11-07 | [What’s your mobile-friendly code workflow?](https://www.reddit.com/r/ClaudeCode/comments/1xpz7d9/whats_your_mobilefriendly_code_workflow/) | u/Special_Gain9787 | Discussion | reddit.com | 1 | 0 | removed by mod | — |
-| 8 | 2026-11-07 | [I got an old HP touchscreen PC that was collecting dust. What would you turn it into?](https://www.reddit.com/r/ClaudeCode/comments/1xpz29j/i_got_an_old_hp_touchscreen_pc_that_was/) | u/Carne_West | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
-| 9 | 2026-11-07 | [My method to reducing token usage](https://www.reddit.com/r/ClaudeCode/comments/1xpyu39/my_method_to_reducing_token_usage/) | u/Old-Might8130 | Tips & Workflows | reddit.com | 1 | 0 | removed by mod | — |
-| 10 | 2026-11-07 | [Built a free Text to Diagram Maker with Claude Code: type “A -> B”, get a clean diagram, export to SVG or Mer…](https://www.reddit.com/r/ClaudeCode/comments/1xpyem2/built_a_free_text_to_diagram_maker_with_claude/) | u/vinishkapoor | Built with Claude | i.redd.it | 1 | 1 | live | — |
-| 11 | 2026-11-07 | [Claude Code keeps getting stuck in an infinite "Let me build it" loop without calling tools (CLI)](https://www.reddit.com/r/ClaudeCode/comments/1xpxzup/claude_code_keeps_getting_stuck_in_an_infinite/) | u/RishabhSihag | Bug / Issue | reddit.com | 2 | 9 | live | — |
-| 12 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](https://www.reddit.com/r/ClaudeCode/comments/1xpxvly/i_built_waitplay_minigames_that_launch_while/) | u/Western_Koala4099 | Built with Claude | text | 0 | 5 | live | — |
-| 13 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](https://www.reddit.com/r/ClaudeCode/comments/1xpxt6i/i_built_waitplay_minigames_that_launch_while/) | u/Vegetable_Main_1995 | Built with Claude | text | 1 | 1 | spam-filtered | — |
-| 14 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](https://www.reddit.com/r/ClaudeCode/comments/1xpxlnc/i_built_waitplay_minigames_that_launch_while/) | u/Vegetable_Main_1995 | Built with Claude | text | 1 | 1 | spam-filtered | — |
-| 15 | 2026-11-07 | [I built a little helper that lives in my MacBook notch and keeps an eye on Claude Code for me. Here's how Cla…](https://www.reddit.com/r/ClaudeCode/comments/1xpxl9h/i_built_a_little_helper_that_lives_in_my_macbook/) | u/Nkgsporty | Built with Claude | reddit.com | 16 | 5 | live | — |
-| 16 | 2026-11-07 | [Got Perma-Banned by Claude Because My Mic Accidentally Caught Me Saying the N-Word](https://www.reddit.com/r/ClaudeCode/comments/1xpxhsm/got_permabanned_by_claude_because_my_mic/) | u/No_Code7453 | Discussion | reddit.com | 1 | 0 | removed by mod | — |
-| 17 | 2026-11-07 | [Anyone else running Claude Code mostly by voice? Mine has a "chief" agent that delegates to the others](https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice/) | u/parkskier426 | Discussion | text | 145 | 91 | live | — |
-| 18 | 2026-11-07 | [Claude 200 to 100 plan](https://www.reddit.com/r/ClaudeCode/comments/1xpxayj/claude_200_to_100_plan/) | u/Some-Employ9405 | Help/Question | text | 1 | 1 | spam-filtered | — |
-| 19 | 2026-11-07 | [Will we get free credits again?](https://www.reddit.com/r/ClaudeCode/comments/1xpw9cn/will_we_get_free_credits_again/) | u/dodyrw | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
-| 20 | 2026-11-07 | [I'm a designer, not a programmer. I built a Mac app with Claude Code so I can draw on my app and have Claude…](https://www.reddit.com/r/ClaudeCode/comments/1xpw4m4/im_a_designer_not_a_programmer_i_built_a_mac_app/) | u/Sweet_Freedom2634 | Built with Claude | text | 0 | 14 | live | — |
-| 21 | 2026-11-07 | [Just a Developer Sharing a Few Useful Claude Skills — Free & Open Source](https://www.reddit.com/r/ClaudeCode/comments/1xpw2c2/just_a_developer_sharing_a_few_useful_claude/) | u/huinkling | Tips & Workflows | text | 0 | 2 | live | — |
-| 22 | 2026-11-07 | [A successful Claude Code prototype is not permission to inherit its assumptions](https://www.reddit.com/r/ClaudeCode/comments/1xpw1ie/a_successful_claude_code_prototype_is_not/) | u/Spare_Bat_3040 | Discussion | text | 1 | 6 | live | — |
-| 23 | 2026-11-07 | [Anthropic's message threads are in public beta - agents can stop resending the whole conversation every turn](https://www.reddit.com/r/ClaudeCode/comments/1xpvzzb/anthropics_message_threads_are_in_public_beta/) | u/shoumikgoswami | News/Updates | text | 6 | 9 | live | — |
-| 24 | 2026-11-07 | [Anyone else confused by Claude's plugin submission statuses?](https://www.reddit.com/r/ClaudeCode/comments/1xpvvl1/anyone_else_confused_by_claudes_plugin_submission/) | u/Voiceofshay_08 | Discussion | text | 2 | 1 | live | — |
-| 25 | 2026-11-07 | [Claude Duet Thoughts?](https://www.reddit.com/r/ClaudeCode/comments/1xpvlzu/claude_duet_thoughts/) | u/getpwnedlul | Help/Question | text | 1 | 1 | live | — |
-| 26 | 2026-11-07 | [CONFIRMED WITH PROOF: CLAUDE OPUS 5.5 NERFED HEAVILY](https://www.reddit.com/r/ClaudeCode/comments/1xpvgze/confirmed_with_proof_claude_opus_55_nerfed_heavily/) | u/ThePrimeNumbers | News/Updates | text | 0 | 31 | live | — |
-| 27 | 2026-11-07 | [Claude Code was sending your account email in User-Agent headers. Here is where the fix stands and what to ch…](https://www.reddit.com/r/ClaudeCode/comments/1xpvehl/claude_code_was_sending_your_account_email_in/) | u/emarkosov | Bug / Issue | text | 105 | 11 | live | — |
-| 28 | 2026-11-07 | [Tested Anthropic’s two Claude Code security plugins. One caught pickle as Claude wrote it, the other found a…](https://www.reddit.com/r/ClaudeCode/comments/1xpv8oy/tested_anthropics_two_claude_code_security/) | u/vinishkapoor | Tips & Workflows | i.redd.it | 4 | 4 | live | — |
-| 29 | 2026-11-07 | [I haven’t opened Figma once this week.](https://www.reddit.com/r/ClaudeCode/comments/1xputst/i_havent_opened_figma_once_this_week/) | u/mun122 | Tips & Workflows | text | 21 | 24 | live | — |
-| 30 | 2026-11-07 | [Start one project in Claude and finish the day with dozens](https://www.reddit.com/r/ClaudeCode/comments/1xpuggy/start_one_project_in_claude_and_finish_the_day/) | u/baronvonpain | Humor | i.redd.it | 33 | 3 | live | — |
-| 31 | 2026-11-07 | [Claude's MRI results](https://www.reddit.com/r/ClaudeCode/comments/1xptnyg/claudes_mri_results/) | u/ffoott | Humor | i.redd.it | 0 | 2 | live | — |
-| 32 | 2026-11-07 | [Is Grok any better than claude?](https://www.reddit.com/r/ClaudeCode/comments/1xptl8v/is_grok_any_better_than_claude/) | u/Smoko_Kakaro5 | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
-| 33 | 2026-11-07 | [Anyone else think the Claude pro is more than enough for personal work?](https://www.reddit.com/r/ClaudeCode/comments/1xptaj2/anyone_else_think_the_claude_pro_is_more_than/) | u/YumemaYu | Discussion | text | 21 | 37 | live | — |
-| 34 | 2026-11-07 | [SlopSlot – turn slop into jackpot. A slot machine inside Claude Code](https://www.reddit.com/r/ClaudeCode/comments/1xpt9pv/slopslot_turn_slop_into_jackpot_a_slot_machine/) | u/gajus0 | Built with Claude | i.redd.it | 3 | 4 | live | — |
-| 35 | 2026-11-07 | [anyone running CC as a background agent off linear issues? how'd you set it up](https://www.reddit.com/r/ClaudeCode/comments/1xpt5r2/anyone_running_cc_as_a_background_agent_off/) | u/Particular_Song_1566 | Help/Question | text | 2 | 15 | live | — |
-| 36 | 2026-11-07 | [Your agent isn't hallucinating, it's working from stale notes](https://www.reddit.com/r/ClaudeCode/comments/1xpsqlu/your_agent_isnt_hallucinating_its_working_from/) | u/onitsoga | Discussion | text | 5 | 23 | live | — |
-| 37 | 2026-11-07 | [Learning Machine Learning, for kids!](https://www.reddit.com/r/ClaudeCode/comments/1xpsn72/learning_machine_learning_for_kids/) | u/DontVoteForMe | Built with Claude | reddit.com | 9 | 1 | live | — |
-| 38 | 2026-11-07 | [Does Using obsidian + claude lower usage rates?](https://www.reddit.com/r/ClaudeCode/comments/1xpsfsk/does_using_obsidian_claude_lower_usage_rates/) | u/Mammoth_Efficiency66 | Help/Question | text | 3 | 9 | live | — |
-| 39 | 2026-11-07 | [It's Friday, so here's something completely useless that I had way too much fun building*](https://www.reddit.com/r/ClaudeCode/comments/1xpsezd/its_friday_so_heres_something_completely_useless/) | u/cucumberant | Built with Claude | i.redd.it | 1 | 0 | held by automod | — |
-| 40 | 2026-11-07 | [sometimes it's helpful to visualize your setup. which one are you?](https://www.reddit.com/r/ClaudeCode/comments/1xpscbe/sometimes_its_helpful_to_visualize_your_setup/) | u/Time_Cat_5212 | Humor | i.redd.it | 48 | 8 | live | — |
-| 41 | 2026-11-07 | [How in world do you manage token costs at API pricing?](https://www.reddit.com/r/ClaudeCode/comments/1xpsbhy/how_in_world_do_you_manage_token_costs_at_api/) | u/thehomelessaviation | Tips & Workflows | text | 1 | 9 | live | — |
-| 42 | 2026-11-07 | [God-tier agent orchestration](https://www.reddit.com/r/ClaudeCode/comments/1xps7v9/godtier_agent_orchestration/) | u/cryptopokeball | Built with Claude | i.redd.it | 1 | 1 | held by automod | — |
-| 43 | 2026-11-07 | [It's Friday, so here's something completely useless that I had way too much fun building*](https://www.reddit.com/r/ClaudeCode/comments/1xps72z/its_friday_so_heres_something_completely_useless/) | u/cucumberant | Built with Claude | text | 1 | 1 | live | — |
-| 44 | 2026-11-06 | [The internet is a solved game](https://www.reddit.com/r/ClaudeCode/comments/1xprtby/the_internet_is_a_solved_game/) | u/Siriann | Built with Claude | v.redd.it | 0 | 10 | live | — |
-| 45 | 2026-11-06 | [Another take about the nerfs](https://www.reddit.com/r/ClaudeCode/comments/1xprp2e/another_take_about_the_nerfs/) | u/BadMetro | Discussion | text | 3 | 14 | live | — |
-| 46 | 2026-11-06 | [Subagents - when are they worth using?](https://www.reddit.com/r/ClaudeCode/comments/1xprmou/subagents_when_are_they_worth_using/) | u/Deep-Today5715 | Help/Question | text | 1 | 42 | live | — |
-| 47 | 2026-11-06 | [I built an open-source social media cross-poster for 48 platforms with Claude Code in a month.](https://www.reddit.com/r/ClaudeCode/comments/1xprbwx/i_built_an_opensource_social_media_crossposter/) | u/Neforuss | Built with Claude | reddit.com | 13 | 4 | live | — |
-| 48 | 2026-11-06 | [How to make running Claude Code secure and safe](https://www.reddit.com/r/ClaudeCode/comments/1xpr7y7/how_to_make_running_claude_code_secure_and_safe/) | u/synwankza | Help/Question | text | 4 | 11 | live | — |
-| 49 | 2026-11-06 | [Is Claude Pro worth it for Claude Code, or are the usage limits too restrictive?](https://www.reddit.com/r/ClaudeCode/comments/1xpr646/is_claude_pro_worth_it_for_claude_code_or_are_the/) | u/TensionOpening6036 | Help/Question | text | 11 | 39 | live | — |
-| 50 | 2026-11-06 | [made claude code show a popup when it's waiting on a permission prompt, and clear it when i answer (windows h…](https://www.reddit.com/r/ClaudeCode/comments/1xpr4ap/made_claude_code_show_a_popup_when_its_waiting_on/) | u/Big-Badger-3217 | Built with Claude | reddit.com | 8 | 2 | live | — |
+| 1 | 2026-11-07 | [I'm giving away free Claude API access for 3 hours. If you find it useful, I'll extend it to 7 days.](#post-1) | u/Careless-Mongoose589 | Discussion | text | 0 | 12 | live | — |
+| 2 | 2026-11-07 | [Top 10 fastest-growing Claude skill repos • October 2026](#post-2) | u/Slight-Money-4887 | Built with Claude | i.redd.it | 0 | 0 | removed by mod | — |
+| 3 | 2026-11-07 | [Claude quoted 50 days, subagents did it in 35h, and the slow part was me](#post-3) | u/Slight-Money-4887 | Rant | i.redd.it | 1 | 0 | removed by mod | — |
+| 4 | 2026-11-07 | [Prompt caching doesn’t make a big CLAUDE.md free](#post-4) | u/MinniLabs | Tips & Workflows | text | 3 | 11 | live | — |
+| 5 | 2026-11-07 | [For senior/staff engineers how do you avoid burning through all your tokens on ultra plan?](#post-5) | u/degenerativegambling | Help/Question | text | 0 | 46 | live | — |
+| 6 | 2026-11-07 | [What’s your mobile friendly coding workflow?](#post-6) | u/Special_Gain9787 | Discussion | text | 2 | 32 | live | — |
+| 7 | 2026-11-07 | [What’s your mobile-friendly code workflow?](#post-7) | u/Special_Gain9787 | Discussion | reddit.com | 1 | 0 | removed by mod | — |
+| 8 | 2026-11-07 | [I got an old HP touchscreen PC that was collecting dust. What would you turn it into?](#post-8) | u/Carne_West | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
+| 9 | 2026-11-07 | [My method to reducing token usage](#post-9) | u/Old-Might8130 | Tips & Workflows | reddit.com | 1 | 0 | removed by mod | — |
+| 10 | 2026-11-07 | [Built a free Text to Diagram Maker with Claude Code: type “A -> B”, get a clean diagram, export to SVG or Mer…](#post-10) | u/vinishkapoor | Built with Claude | i.redd.it | 1 | 1 | live | — |
+| 11 | 2026-11-07 | [Claude Code keeps getting stuck in an infinite "Let me build it" loop without calling tools (CLI)](#post-11) | u/RishabhSihag | Bug / Issue | reddit.com | 2 | 9 | live | — |
+| 12 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](#post-12) | u/Western_Koala4099 | Built with Claude | text | 0 | 5 | live | — |
+| 13 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](#post-13) | u/Vegetable_Main_1995 | Built with Claude | text | 1 | 1 | spam-filtered | — |
+| 14 | 2026-11-07 | [I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking](#post-14) | u/Vegetable_Main_1995 | Built with Claude | text | 1 | 1 | spam-filtered | — |
+| 15 | 2026-11-07 | [I built a little helper that lives in my MacBook notch and keeps an eye on Claude Code for me. Here's how Cla…](#post-15) | u/Nkgsporty | Built with Claude | reddit.com | 16 | 5 | live | — |
+| 16 | 2026-11-07 | [Got Perma-Banned by Claude Because My Mic Accidentally Caught Me Saying the N-Word](#post-16) | u/No_Code7453 | Discussion | reddit.com | 1 | 0 | removed by mod | — |
+| 17 | 2026-11-07 | [Anyone else running Claude Code mostly by voice? Mine has a "chief" agent that delegates to the others](#post-17) | u/parkskier426 | Discussion | text | 145 | 91 | live | — |
+| 18 | 2026-11-07 | [Claude 200 to 100 plan](#post-18) | u/Some-Employ9405 | Help/Question | text | 1 | 1 | spam-filtered | — |
+| 19 | 2026-11-07 | [Will we get free credits again?](#post-19) | u/dodyrw | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
+| 20 | 2026-11-07 | [I'm a designer, not a programmer. I built a Mac app with Claude Code so I can draw on my app and have Claude…](#post-20) | u/Sweet_Freedom2634 | Built with Claude | text | 0 | 14 | live | — |
+| 21 | 2026-11-07 | [Just a Developer Sharing a Few Useful Claude Skills — Free & Open Source](#post-21) | u/huinkling | Tips & Workflows | text | 0 | 2 | live | — |
+| 22 | 2026-11-07 | [A successful Claude Code prototype is not permission to inherit its assumptions](#post-22) | u/Spare_Bat_3040 | Discussion | text | 1 | 6 | live | — |
+| 23 | 2026-11-07 | [Anthropic's message threads are in public beta - agents can stop resending the whole conversation every turn](#post-23) | u/shoumikgoswami | News/Updates | text | 6 | 9 | live | — |
+| 24 | 2026-11-07 | [Anyone else confused by Claude's plugin submission statuses?](#post-24) | u/Voiceofshay_08 | Discussion | text | 2 | 1 | live | — |
+| 25 | 2026-11-07 | [Claude Duet Thoughts?](#post-25) | u/getpwnedlul | Help/Question | text | 1 | 1 | live | — |
+| 26 | 2026-11-07 | [CONFIRMED WITH PROOF: CLAUDE OPUS 5.5 NERFED HEAVILY](#post-26) | u/ThePrimeNumbers | News/Updates | text | 0 | 31 | live | — |
+| 27 | 2026-11-07 | [Claude Code was sending your account email in User-Agent headers. Here is where the fix stands and what to ch…](#post-27) | u/emarkosov | Bug / Issue | text | 105 | 11 | live | — |
+| 28 | 2026-11-07 | [Tested Anthropic’s two Claude Code security plugins. One caught pickle as Claude wrote it, the other found a…](#post-28) | u/vinishkapoor | Tips & Workflows | i.redd.it | 4 | 4 | live | — |
+| 29 | 2026-11-07 | [I haven’t opened Figma once this week.](#post-29) | u/mun122 | Tips & Workflows | text | 21 | 24 | live | — |
+| 30 | 2026-11-07 | [Start one project in Claude and finish the day with dozens](#post-30) | u/baronvonpain | Humor | i.redd.it | 33 | 3 | live | — |
+| 31 | 2026-11-07 | [Claude's MRI results](#post-31) | u/ffoott | Humor | i.redd.it | 0 | 2 | live | — |
+| 32 | 2026-11-07 | [Is Grok any better than claude?](#post-32) | u/Smoko_Kakaro5 | Help/Question | reddit.com | 1 | 0 | removed by mod | — |
+| 33 | 2026-11-07 | [Anyone else think the Claude pro is more than enough for personal work?](#post-33) | u/YumemaYu | Discussion | text | 21 | 37 | live | — |
+| 34 | 2026-11-07 | [SlopSlot – turn slop into jackpot. A slot machine inside Claude Code](#post-34) | u/gajus0 | Built with Claude | i.redd.it | 3 | 4 | live | — |
+| 35 | 2026-11-07 | [anyone running CC as a background agent off linear issues? how'd you set it up](#post-35) | u/Particular_Song_1566 | Help/Question | text | 2 | 15 | live | — |
+| 36 | 2026-11-07 | [Your agent isn't hallucinating, it's working from stale notes](#post-36) | u/onitsoga | Discussion | text | 5 | 23 | live | — |
+| 37 | 2026-11-07 | [Learning Machine Learning, for kids!](#post-37) | u/DontVoteForMe | Built with Claude | reddit.com | 9 | 1 | live | — |
+| 38 | 2026-11-07 | [Does Using obsidian + claude lower usage rates?](#post-38) | u/Mammoth_Efficiency66 | Help/Question | text | 3 | 9 | live | — |
+| 39 | 2026-11-07 | [It's Friday, so here's something completely useless that I had way too much fun building*](#post-39) | u/cucumberant | Built with Claude | i.redd.it | 1 | 0 | held by automod | — |
+| 40 | 2026-11-07 | [sometimes it's helpful to visualize your setup. which one are you?](#post-40) | u/Time_Cat_5212 | Humor | i.redd.it | 48 | 8 | live | — |
+| 41 | 2026-11-07 | [How in world do you manage token costs at API pricing?](#post-41) | u/thehomelessaviation | Tips & Workflows | text | 1 | 9 | live | — |
+| 42 | 2026-11-07 | [God-tier agent orchestration](#post-42) | u/cryptopokeball | Built with Claude | i.redd.it | 1 | 1 | held by automod | — |
+| 43 | 2026-11-07 | [It's Friday, so here's something completely useless that I had way too much fun building*](#post-43) | u/cucumberant | Built with Claude | text | 1 | 1 | live | — |
+| 44 | 2026-11-06 | [The internet is a solved game](#post-44) | u/Siriann | Built with Claude | v.redd.it | 0 | 10 | live | — |
+| 45 | 2026-11-06 | [Another take about the nerfs](#post-45) | u/BadMetro | Discussion | text | 3 | 14 | live | — |
+| 46 | 2026-11-06 | [Subagents - when are they worth using?](#post-46) | u/Deep-Today5715 | Help/Question | text | 1 | 42 | live | — |
+| 47 | 2026-11-06 | [I built an open-source social media cross-poster for 48 platforms with Claude Code in a month.](#post-47) | u/Neforuss | Built with Claude | reddit.com | 13 | 4 | live | — |
+| 48 | 2026-11-06 | [How to make running Claude Code secure and safe](#post-48) | u/synwankza | Help/Question | text | 4 | 11 | live | — |
+| 49 | 2026-11-06 | [Is Claude Pro worth it for Claude Code, or are the usage limits too restrictive?](#post-49) | u/TensionOpening6036 | Help/Question | text | 11 | 39 | live | — |
+| 50 | 2026-11-06 | [made claude code show a popup when it's waiting on a permission prompt, and clear it when i answer (windows h…](#post-50) | u/Big-Badger-3217 | Built with Claude | reddit.com | 8 | 2 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -109,34 +109,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-11-03 | [When you're taking a shower and Claude asks for permission](https://www.reddit.com/r/ClaudeCode/comments/1xmtptd/when_youre_taking_a_shower_and_claude_asks_for/) | u/Icy-Care-353 | Humor | i.redd.it | 2055 | 66 | live |
-| 52 | 2026-11-04 | [I have an ominous feeling that they will take this technology away from us](https://www.reddit.com/r/ClaudeCode/comments/1xnpluu/i_have_an_ominous_feeling_that_they_will_take/) | u/SystematicArt | Discussion | text | 1406 | 531 | live |
-| 53 | 2026-11-05 | [Opus 5.5 is definitely getting dumber and costlier suddenly](https://www.reddit.com/r/ClaudeCode/comments/1xodr56/opus_55_is_definitely_getting_dumber_and_costlier/) | u/professor_sn | Discussion | text | 1359 | 523 | live |
-| 54 | 2026-11-04 | [Welcome to the AI chopping block](https://www.reddit.com/r/ClaudeCode/comments/1xnz07e/welcome_to_the_ai_chopping_block/) | u/FiacR | Humor | i.redd.it | 1153 | 134 | live |
-| 55 | 2026-11-04 | [Asking Opus 5.5 to Build a Website](https://www.reddit.com/r/ClaudeCode/comments/1xnjsig/asking_opus_55_to_build_a_website/) | u/YearLight | Humor | i.redd.it | 1062 | 69 | live |
-| 56 | 2026-11-03 | [Goldman Sachs restricted Claude Code to engineers only](https://www.reddit.com/r/ClaudeCode/comments/1xn82hc/goldman_sachs_restricted_claude_code_to_engineers/) | u/KookyOky | Discussion | text | 898 | 229 | live |
-| 57 | 2026-11-05 | [Woke 3.0 is truly back 🔵🌊](https://www.reddit.com/r/ClaudeCode/comments/1xorv25/woke_30_is_truly_back/) | u/m0bties | Humor | i.redd.it | 687 | 194 | live |
-| 58 | 2026-11-05 | [Thanks to two lines in the Claude setting , I was able to work 3 x 5H window without running out ,.](https://www.reddit.com/r/ClaudeCode/comments/1xo6dfy/thanks_to_two_lines_in_the_claude_setting_i_was/) | u/Machine2024 | Tips & Workflows | i.redd.it | 682 | 213 | live |
-| 59 | 2026-11-06 | [Opus 5.5 is trying to destroy my codebase recently](https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/) | u/MoreLikeGaewyn | Bug / Issue | text | 664 | 393 | live |
-| 60 | 2026-11-03 | [Shy computer nerd since 8, now nearing 50, unable to find work anymore.](https://www.reddit.com/r/ClaudeCode/comments/1xmp1bm/shy_computer_nerd_since_8_now_nearing_50_unable/) | u/College-Wise | Bug / Issue | text | 592 | 262 | live |
-| 61 | 2026-11-06 | [How come so few people seems to bother sandboxing Claude/LLMs?](https://www.reddit.com/r/ClaudeCode/comments/1xp5c6f/how_come_so_few_people_seems_to_bother_sandboxing/) | u/Eastern_Doughnut_222 | Help/Question | text | 550 | 346 | live |
-| 62 | 2026-11-06 | [Anyone else fully switched to the Claude Desktop app for agentic coding?](https://www.reddit.com/r/ClaudeCode/comments/1xp5998/anyone_else_fully_switched_to_the_claude_desktop/) | u/rockstarhero79 | Discussion | text | 467 | 438 | live |
-| 63 | 2026-11-05 | [People who hit their Claude limits every week: what on earth are you building?](https://www.reddit.com/r/ClaudeCode/comments/1xoemgc/people_who_hit_their_claude_limits_every_week/) | u/Life-Abbreviations82 | Help/Question | text | 418 | 676 | live |
-| 64 | 2026-11-03 | [What level are you on ?](https://www.reddit.com/r/ClaudeCode/comments/1xn1rw5/what_level_are_you_on/) | u/Acclynn | Humor | i.redd.it | 384 | 137 | live |
-| 65 | 2026-11-05 | [Alan Turing rolling in his grave rn](https://www.reddit.com/r/ClaudeCode/comments/1xov3zv/alan_turing_rolling_in_his_grave_rn/) | u/fickle-phenom | Humor | i.redd.it | 383 | 35 | live |
-| 66 | 2026-11-06 | [Made a Taskmanager for Claude Code](https://www.reddit.com/r/ClaudeCode/comments/1xp5549/made_a_taskmanager_for_claude_code/) | u/FreXxXenstein | Built with Claude | reddit.com | 330 | 66 | live |
-| 67 | 2026-11-06 | [Remember when we used argure over Tabs or spaces?](https://www.reddit.com/r/ClaudeCode/comments/1xpcviy/remember_when_we_used_argure_over_tabs_or_spaces/) | u/CrunchyConniptions | Humor | text | 300 | 93 | live |
-| 68 | 2026-11-03 | [Claude Code makes me 10x more productive, but mentally exhausted. Anyone else?](https://www.reddit.com/r/ClaudeCode/comments/1xn1urm/claude_code_makes_me_10x_more_productive_but/) | u/Excellent_Soil7102 | Help/Question | text | 278 | 109 | live |
-| 69 | 2026-11-04 | [Black Ops II now runs natively on Apple Silicon Macs: open source, 60 fps on a base M1](https://www.reddit.com/r/ClaudeCode/comments/1xnuufk/black_ops_ii_now_runs_natively_on_apple_silicon/) | u/GoldianSummer | Built with Claude | v.redd.it | 278 | 55 | live |
-| 70 | 2026-11-03 | [The “Karpathy” CLAUDE.md clearly changed Claude Code’s behavior on 2 of 4 tasks](https://www.reddit.com/r/ClaudeCode/comments/1xmhy1d/the_karpathy_claudemd_clearly_changed_claude/) | u/vinishkapoor | Tips & Workflows | i.redd.it | 278 | 37 | live |
+| 51 | 2026-11-03 | [When you're taking a shower and Claude asks for permission](#post-51) | u/Icy-Care-353 | Humor | i.redd.it | 2055 | 66 | live |
+| 52 | 2026-11-04 | [I have an ominous feeling that they will take this technology away from us](#post-52) | u/SystematicArt | Discussion | text | 1406 | 531 | live |
+| 53 | 2026-11-05 | [Opus 5.5 is definitely getting dumber and costlier suddenly](#post-53) | u/professor_sn | Discussion | text | 1359 | 523 | live |
+| 54 | 2026-11-04 | [Welcome to the AI chopping block](#post-54) | u/FiacR | Humor | i.redd.it | 1153 | 134 | live |
+| 55 | 2026-11-04 | [Asking Opus 5.5 to Build a Website](#post-55) | u/YearLight | Humor | i.redd.it | 1062 | 69 | live |
+| 56 | 2026-11-03 | [Goldman Sachs restricted Claude Code to engineers only](#post-56) | u/KookyOky | Discussion | text | 898 | 229 | live |
+| 57 | 2026-11-05 | [Woke 3.0 is truly back 🔵🌊](#post-57) | u/m0bties | Humor | i.redd.it | 687 | 194 | live |
+| 58 | 2026-11-05 | [Thanks to two lines in the Claude setting , I was able to work 3 x 5H window without running out ,.](#post-58) | u/Machine2024 | Tips & Workflows | i.redd.it | 682 | 213 | live |
+| 59 | 2026-11-06 | [Opus 5.5 is trying to destroy my codebase recently](#post-59) | u/MoreLikeGaewyn | Bug / Issue | text | 664 | 393 | live |
+| 60 | 2026-11-03 | [Shy computer nerd since 8, now nearing 50, unable to find work anymore.](#post-60) | u/College-Wise | Bug / Issue | text | 592 | 262 | live |
+| 61 | 2026-11-06 | [How come so few people seems to bother sandboxing Claude/LLMs?](#post-61) | u/Eastern_Doughnut_222 | Help/Question | text | 550 | 346 | live |
+| 62 | 2026-11-06 | [Anyone else fully switched to the Claude Desktop app for agentic coding?](#post-62) | u/rockstarhero79 | Discussion | text | 467 | 438 | live |
+| 63 | 2026-11-05 | [People who hit their Claude limits every week: what on earth are you building?](#post-63) | u/Life-Abbreviations82 | Help/Question | text | 418 | 676 | live |
+| 64 | 2026-11-03 | [What level are you on ?](#post-64) | u/Acclynn | Humor | i.redd.it | 384 | 137 | live |
+| 65 | 2026-11-05 | [Alan Turing rolling in his grave rn](#post-65) | u/fickle-phenom | Humor | i.redd.it | 383 | 35 | live |
+| 66 | 2026-11-06 | [Made a Taskmanager for Claude Code](#post-66) | u/FreXxXenstein | Built with Claude | reddit.com | 330 | 66 | live |
+| 67 | 2026-11-06 | [Remember when we used argure over Tabs or spaces?](#post-67) | u/CrunchyConniptions | Humor | text | 300 | 93 | live |
+| 68 | 2026-11-03 | [Claude Code makes me 10x more productive, but mentally exhausted. Anyone else?](#post-68) | u/Excellent_Soil7102 | Help/Question | text | 278 | 109 | live |
+| 69 | 2026-11-04 | [Black Ops II now runs natively on Apple Silicon Macs: open source, 60 fps on a base M1](#post-69) | u/GoldianSummer | Built with Claude | v.redd.it | 278 | 55 | live |
+| 70 | 2026-11-03 | [The “Karpathy” CLAUDE.md clearly changed Claude Code’s behavior on 2 of 4 tasks](#post-70) | u/vinishkapoor | Tips & Workflows | i.redd.it | 278 | 37 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. I'm giving away free Claude API access for 3 hours. If you find it useful, I'll extend it to 7 days.
 
-2026-11-07 · u/Careless-Mongoose589 · Discussion · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0wnz/im_giving_away_free_claude_api_access_for_3_hours/)
+2026-11-07 · u/Careless-Mongoose589 · Discussion · score 0 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0wnz/im_giving_away_free_claude_api_access_for_3_hours/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -168,25 +170,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks for supporting independent makers! ❤️
 
+<a id="post-2"></a>
+
 ### 2. Top 10 fastest-growing Claude skill repos • October 2026
 
-2026-11-07 · u/Slight-Money-4887 · Built with Claude · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0ees/top_10_fastestgrowing_claude_skill_repos_october/)
+2026-11-07 · u/Slight-Money-4887 · Built with Claude · score 0 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0ees/top_10_fastestgrowing_claude_skill_repos_october/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/v5mvm4v0ruyh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-3"></a>
+
 ### 3. Claude quoted 50 days, subagents did it in 35h, and the slow part was me
 
-2026-11-07 · u/Slight-Money-4887 · Rant · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0dvk/claude_quoted_50_days_subagents_did_it_in_35h_and/)
+2026-11-07 · u/Slight-Money-4887 · Rant · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xq0dvk/claude_quoted_50_days_subagents_did_it_in_35h_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/p45h1zgz1zzh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. Prompt caching doesn’t make a big CLAUDE.md free
 
-2026-11-07 · u/MinniLabs · Tips & Workflows · score 3 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpzzde/prompt_caching_doesnt_make_a_big_claudemd_free/)
+2026-11-07 · u/MinniLabs · Tips & Workflows · score 3 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpzzde/prompt_caching_doesnt_make_a_big_claudemd_free/) · [↑ back to the list](#last-50-posts)
 
 > Got this reply on my last post and it’s a fair point, so here’s the longer answer. Yes, Claude Code caches your session, and a cache read costs about a tenth of normal input. But three things still add up.
 >
@@ -202,17 +210,21 @@ Link: <https://i.redd.it/p45h1zgz1zzh1.png>
 >
 > Do you clear between tasks or keep one long session going?
 
+<a id="post-5"></a>
+
 ### 5. For senior/staff engineers how do you avoid burning through all your tokens on ultra plan?
 
-2026-11-07 · u/degenerativegambling · Help/Question · score 0 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpzegr/for_seniorstaff_engineers_how_do_you_avoid/)
+2026-11-07 · u/degenerativegambling · Help/Question · score 0 · 46 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpzegr/for_seniorstaff_engineers_how_do_you_avoid/) · [↑ back to the list](#last-50-posts)
 
 > I’m literally burning through 2 ultra and feel like I must be doing something wrong here. I use for development at the startup but also person projects.
 >
 > Is the secret to clear after every prompt on Claude code?
 
+<a id="post-6"></a>
+
 ### 6. What’s your mobile friendly coding workflow?
 
-2026-11-07 · u/Special_Gain9787 · Discussion · score 2 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz9da/whats_your_mobile_friendly_coding_workflow/)
+2026-11-07 · u/Special_Gain9787 · Discussion · score 2 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz9da/whats_your_mobile_friendly_coding_workflow/) · [↑ back to the list](#last-50-posts)
 
 > Those of you that use your phone to go an extra mile while you’re away from your computer:
 >
@@ -226,33 +238,41 @@ Link: <https://i.redd.it/p45h1zgz1zzh1.png>
 >
 > I would love to hear how others have this setup.
 
+<a id="post-7"></a>
+
 ### 7. What’s your mobile-friendly code workflow?
 
-2026-11-07 · u/Special_Gain9787 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz7d9/whats_your_mobilefriendly_code_workflow/)
+2026-11-07 · u/Special_Gain9787 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz7d9/whats_your_mobilefriendly_code_workflow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/claude/comments/1xpz73w/whats_your_mobilefriendly_code_workflow/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-8"></a>
+
 ### 8. I got an old HP touchscreen PC that was collecting dust. What would you turn it into?
 
-2026-11-07 · u/Carne_West · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz29j/i_got_an_old_hp_touchscreen_pc_that_was/)
+2026-11-07 · u/Carne_West · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpz29j/i_got_an_old_hp_touchscreen_pc_that_was/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpt1sb/i_got_an_old_hp_touchscreen_pc_that_was/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-9"></a>
+
 ### 9. My method to reducing token usage
 
-2026-11-07 · u/Old-Might8130 · Tips & Workflows · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpyu39/my_method_to_reducing_token_usage/)
+2026-11-07 · u/Old-Might8130 · Tips & Workflows · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpyu39/my_method_to_reducing_token_usage/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/codex/comments/1xpytka/my_method_to_reducing_token_usage/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-10"></a>
+
 ### 10. Built a free Text to Diagram Maker with Claude Code: type “A -> B”, get a clean diagram, export to SVG or Mermaid
 
-2026-11-07 · u/vinishkapoor · Built with Claude · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpyem2/built_a_free_text_to_diagram_maker_with_claude/)
+2026-11-07 · u/vinishkapoor · Built with Claude · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpyem2/built_a_free_text_to_diagram_maker_with_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1wlmq7vuk40i1.jpeg>
 
@@ -273,9 +293,11 @@ Link: <https://i.redd.it/1wlmq7vuk40i1.jpeg>
 >
 > If a diagram comes out messy, paste the text in the comments. That’s the best way to find layout bugs.
 
+<a id="post-11"></a>
+
 ### 11. Claude Code keeps getting stuck in an infinite "Let me build it" loop without calling tools (CLI)
 
-2026-11-07 · u/RishabhSihag · Bug / Issue · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxzup/claude_code_keeps_getting_stuck_in_an_infinite/)
+2026-11-07 · u/RishabhSihag · Bug / Issue · score 2 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxzup/claude_code_keeps_getting_stuck_in_an_infinite/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpxzup>
 
@@ -299,9 +321,11 @@ Link: <https://www.reddit.com/gallery/1xpxzup>
 >
 > ALSO, I'M USING FREELLMAPI AS THE PROVIDER
 
+<a id="post-12"></a>
+
 ### 12. I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking
 
-2026-11-07 · u/Western_Koala4099 · Built with Claude · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxvly/i_built_waitplay_minigames_that_launch_while/)
+2026-11-07 · u/Western_Koala4099 · Built with Claude · score 0 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxvly/i_built_waitplay_minigames_that_launch_while/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone! 👋
 >
@@ -323,21 +347,27 @@ Link: <https://www.reddit.com/gallery/1xpxzup>
 >
 > interested text me in this number: 9685661763. I will give you the demo
 
+<a id="post-13"></a>
+
 ### 13. I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking
 
-2026-11-07 · u/Vegetable_Main_1995 · Built with Claude · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxt6i/i_built_waitplay_minigames_that_launch_while/)
+2026-11-07 · u/Vegetable_Main_1995 · Built with Claude · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxt6i/i_built_waitplay_minigames_that_launch_while/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-14"></a>
 
 ### 14. I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking
 
-2026-11-07 · u/Vegetable_Main_1995 · Built with Claude · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxlnc/i_built_waitplay_minigames_that_launch_while/)
+2026-11-07 · u/Vegetable_Main_1995 · Built with Claude · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxlnc/i_built_waitplay_minigames_that_launch_while/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-15"></a>
+
 ### 15. I built a little helper that lives in my MacBook notch and keeps an eye on Claude Code for me. Here's how Claude Code built it and what I learned \[free & opensource\]
 
-2026-11-07 · u/Nkgsporty · Built with Claude · score 16 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxl9h/i_built_a_little_helper_that_lives_in_my_macbook/)
+2026-11-07 · u/Nkgsporty · Built with Claude · score 16 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxl9h/i_built_a_little_helper_that_lives_in_my_macbook/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpxl9h>
 
@@ -405,17 +435,21 @@ Link: <https://www.reddit.com/gallery/1xpxl9h>
 >
 > Feel free to try it out and leave your feedback!
 
+<a id="post-16"></a>
+
 ### 16. Got Perma-Banned by Claude Because My Mic Accidentally Caught Me Saying the N-Word
 
-2026-11-07 · u/No_Code7453 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxhsm/got_permabanned_by_claude_because_my_mic/)
+2026-11-07 · u/No_Code7453 · Discussion · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxhsm/got_permabanned_by_claude_because_my_mic/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Artificials/comments/1xpxh98/got_permabanned_by_claude_because_my_mic/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. Anyone else running Claude Code mostly by voice? Mine has a "chief" agent that delegates to the others
 
-2026-11-07 · u/parkskier426 · Discussion · score 145 · 91 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice/)
+2026-11-07 · u/parkskier426 · Discussion · score 145 · 91 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice/) · [↑ back to the list](#last-50-posts)
 
 > I've been working with Claude Code by voice for a few months now, and honestly I find it hard to work with agents any other way. The basic setup: local speech to text (Whisper) and local text to speech (Piper), so nothing leaves my machine. It's all baked into a skill that understands conversational flow. It detects when I stop talking, transcribes what I said, acts on it, then talks back and listens again. I don't touch the keyboard for most of a session. 
 >
@@ -433,23 +467,29 @@ Link: <https://www.reddit.com/r/Artificials/comments/1xpxh98/got_permabanned_by_
 >
 > Does anyone else have a similar workflow? I'm curious what's worked for you, whether that's voice, an orchestrator agent, or something else entirely for running a lot of agents in parallel without burning out.
 
+<a id="post-18"></a>
+
 ### 18. Claude 200 to 100 plan
 
-2026-11-07 · u/Some-Employ9405 · Help/Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxayj/claude_200_to_100_plan/)
+2026-11-07 · u/Some-Employ9405 · Help/Question · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpxayj/claude_200_to_100_plan/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-19"></a>
+
 ### 19. Will we get free credits again?
 
-2026-11-07 · u/dodyrw · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw9cn/will_we_get_free_credits_again/)
+2026-11-07 · u/dodyrw · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw9cn/will_we_get_free_credits_again/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credits_again/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-20"></a>
+
 ### 20. I'm a designer, not a programmer. I built a Mac app with Claude Code so I can draw on my app and have Claude fix that spot
 
-2026-11-07 · u/Sweet_Freedom2634 · Built with Claude · score 0 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw4m4/im_a_designer_not_a_programmer_i_built_a_mac_app/)
+2026-11-07 · u/Sweet_Freedom2634 · Built with Claude · score 0 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw4m4/im_a_designer_not_a_programmer_i_built_a_mac_app/) · [↑ back to the list](#last-50-posts)
 
 > Designer here, building apps with Claude Code. The part that always drove me nuts was explaining where. "Delete the third line of text under the second card." "Move the icon to the left edge, 24px margin." Screenshots with circles work, but then you're screenshotting, marking up and pasting all day.
 >
@@ -473,9 +513,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > Not affiliated with Anthropic.
 
+<a id="post-21"></a>
+
 ### 21. Just a Developer Sharing a Few Useful Claude Skills — Free & Open Source
 
-2026-11-07 · u/huinkling · Tips & Workflows · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw2c2/just_a_developer_sharing_a_few_useful_claude/)
+2026-11-07 · u/huinkling · Tips & Workflows · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw2c2/just_a_developer_sharing_a_few_useful_claude/) · [↑ back to the list](#last-50-posts)
 
 > 1. **stripe**: An introduction to Stripe's payment risk controls, based on 500+ real-world payment attempts, with troubleshooting guides for various payment errors and issues.
 > 2. **apple-home-without-gateway**: Turn your computer into an Apple Home hub without needing a HomePod, Apple TV, or other dedicated hub, enabling remote access from outside your local network.
@@ -486,9 +528,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > If you find any of these projects useful, feel free to star the repositories on GitHub. Contributions, suggestions, and feedback are always welcome. Thanks!
 
+<a id="post-22"></a>
+
 ### 22. A successful Claude Code prototype is not permission to inherit its assumptions
 
-2026-11-07 · u/Spare_Bat_3040 · Discussion · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw1ie/a_successful_claude_code_prototype_is_not/)
+2026-11-07 · u/Spare_Bat_3040 · Discussion · score 1 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpw1ie/a_successful_claude_code_prototype_is_not/) · [↑ back to the list](#last-50-posts)
 
 > A working prototype can answer the question it was built for and still leave the production question open. That doesn't make the prototype a failed implementation.
 >
@@ -508,9 +552,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > What evidence would make you comfortable reusing a prototype's implementation, and what would make you keep only its findings?
 
+<a id="post-23"></a>
+
 ### 23. Anthropic's message threads are in public beta - agents can stop resending the whole conversation every turn
 
-2026-11-07 · u/shoumikgoswami · News/Updates · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvzzb/anthropics_message_threads_are_in_public_beta/)
+2026-11-07 · u/shoumikgoswami · News/Updates · score 6 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvzzb/anthropics_message_threads_are_in_public_beta/) · [↑ back to the list](#last-50-posts)
 
 > Worth knowing if you run long Claude Code sessions or build on the Messages API.
 >
@@ -529,9 +575,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > Sources in the comments.
 
+<a id="post-24"></a>
+
 ### 24. Anyone else confused by Claude's plugin submission statuses?
 
-2026-11-07 · u/Voiceofshay_08 · Discussion · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvvl1/anyone_else_confused_by_claudes_plugin_submission/)
+2026-11-07 · u/Voiceofshay_08 · Discussion · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvvl1/anyone_else_confused_by_claudes_plugin_submission/) · [↑ back to the list](#last-50-posts)
 
 > I've submitted three plugins to Claude's directory, and twice now I've run into confusing submission statuses. 😂
 >
@@ -543,17 +591,21 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > Has anyone else run into this? And would a checklist like that actually save you time?
 
+<a id="post-25"></a>
+
 ### 25. Claude Duet Thoughts?
 
-2026-11-07 · u/getpwnedlul · Help/Question · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvlzu/claude_duet_thoughts/)
+2026-11-07 · u/getpwnedlul · Help/Question · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvlzu/claude_duet_thoughts/) · [↑ back to the list](#last-50-posts)
 
 > What's some of the feedback on Claude Duet now that some people managed to try the research preview? I'm still on the waitlist. I use Muse + Grok bot everyday, and I'm hoping to completely switch to Claude Duet.
 >
 > Let me know honest thoughts 👀
 
+<a id="post-26"></a>
+
 ### 26. CONFIRMED WITH PROOF: CLAUDE OPUS 5.5 NERFED HEAVILY
 
-2026-11-07 · u/ThePrimeNumbers · News/Updates · score 0 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvgze/confirmed_with_proof_claude_opus_55_nerfed_heavily/)
+2026-11-07 · u/ThePrimeNumbers · News/Updates · score 0 · 31 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvgze/confirmed_with_proof_claude_opus_55_nerfed_heavily/) · [↑ back to the list](#last-50-posts)
 
 > An external investigation has found that Claude Opus 5.5 is actively being nerfed heavily. 
 >
@@ -565,9 +617,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > External investigation: https://x.com/voidfreud/status/2118748494609432873
 
+<a id="post-27"></a>
+
 ### 27. Claude Code was sending your account email in User-Agent headers. Here is where the fix stands and what to check today
 
-2026-11-07 · u/emarkosov · Bug / Issue · score 105 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvehl/claude_code_was_sending_your_account_email_in/)
+2026-11-07 · u/emarkosov · Bug / Issue · score 105 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpvehl/claude_code_was_sending_your_account_email_in/) · [↑ back to the list](#last-50-posts)
 
 > If you only saw the headline, here is the actual status as of Saturday morning.
 >
@@ -593,9 +647,11 @@ Link: <https://www.reddit.com/r/ClaudeAI/comments/1xpraip/will_we_get_free_credi
 >
 > Source: https://github.com/anthropics/claude-code/issues/107757
 
+<a id="post-28"></a>
+
 ### 28. Tested Anthropic’s two Claude Code security plugins. One caught pickle as Claude wrote it, the other found a planted command injection and dropped an unused token
 
-2026-11-07 · u/vinishkapoor · Tips & Workflows · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpv8oy/tested_anthropics_two_claude_code_security/)
+2026-11-07 · u/vinishkapoor · Tips & Workflows · score 4 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpv8oy/tested_anthropics_two_claude_code_security/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/qm8bu94nq30i1.jpeg>
 
@@ -621,9 +677,11 @@ Link: <https://i.redd.it/qm8bu94nq30i1.jpeg>
 >
 > Full test with the panel voting screenshots: [https://aiparabellum.com/claude-code-security-plugins-tested-security-guidance-vs-claude-security/](https://aiparabellum.com/claude-code-security-plugins-tested-security-guidance-vs-claude-security/)
 
+<a id="post-29"></a>
+
 ### 29. I haven’t opened Figma once this week.
 
-2026-11-07 · u/mun122 · Tips & Workflows · score 21 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xputst/i_havent_opened_figma_once_this_week/)
+2026-11-07 · u/mun122 · Tips & Workflows · score 21 · 24 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xputst/i_havent_opened_figma_once_this_week/) · [↑ back to the list](#last-50-posts)
 
 > Multiplayer was Figma's biggest advantage, but now Claude can do that too. All I had to do was connect my prototypes to Github and now we have multiple designers working on one prototype.
 >
@@ -645,31 +703,39 @@ Link: <https://i.redd.it/qm8bu94nq30i1.jpeg>
 >
 > The future is uncertain but one thing I know for sure is that I’ll miss seeing everyone’s little cursors flying around the canvas like the good ol’ days.
 
+<a id="post-30"></a>
+
 ### 30. Start one project in Claude and finish the day with dozens
 
-2026-11-07 · u/baronvonpain · Humor · score 33 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpuggy/start_one_project_in_claude_and_finish_the_day/)
+2026-11-07 · u/baronvonpain · Humor · score 33 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpuggy/start_one_project_in_claude_and_finish_the_day/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/55aa9v4jj30i1.gif>
 
 
+<a id="post-31"></a>
+
 ### 31. Claude's MRI results
 
-2026-11-07 · u/ffoott · Humor · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptnyg/claudes_mri_results/)
+2026-11-07 · u/ffoott · Humor · score 0 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptnyg/claudes_mri_results/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/naoga3zjc30i1.gif>
 
 
+<a id="post-32"></a>
+
 ### 32. Is Grok any better than claude?
 
-2026-11-07 · u/Smoko_Kakaro5 · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptl8v/is_grok_any_better_than_claude/)
+2026-11-07 · u/Smoko_Kakaro5 · Help/Question · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptl8v/is_grok_any_better_than_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/GrokBot/comments/1xptkvr/is_grok_any_better_than_claude/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-33"></a>
+
 ### 33. Anyone else think the Claude pro is more than enough for personal work?
 
-2026-11-07 · u/YumemaYu · Discussion · score 21 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptaj2/anyone_else_think_the_claude_pro_is_more_than/)
+2026-11-07 · u/YumemaYu · Discussion · score 21 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xptaj2/anyone_else_think_the_claude_pro_is_more_than/) · [↑ back to the list](#last-50-posts)
 
 > I will start off my saying if you need Claude code for your full time work I can see how it can’t be limiting. But, I see so many posts and people complaining about Claude pro and usage limits and I genuinely do not understand what people are doing to be hitting 5 hour limits in 1 prompt. 
 >
@@ -679,16 +745,20 @@ Link: <https://www.reddit.com/r/GrokBot/comments/1xptkvr/is_grok_any_better_than
 >
 > I think many people could benefit from better planning and understanding how to prompt correctly.
 
+<a id="post-34"></a>
+
 ### 34. SlopSlot – turn slop into jackpot. A slot machine inside Claude Code
 
-2026-11-07 · u/gajus0 · Built with Claude · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpt9pv/slopslot_turn_slop_into_jackpot_a_slot_machine/)
+2026-11-07 · u/gajus0 · Built with Claude · score 3 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpt9pv/slopslot_turn_slop_into_jackpot_a_slot_machine/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/2s0xdn38930i1.gif>
 
 
+<a id="post-35"></a>
+
 ### 35. anyone running CC as a background agent off linear issues? how'd you set it up
 
-2026-11-07 · u/Particular_Song_1566 · Help/Question · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpt5r2/anyone_running_cc_as_a_background_agent_off/)
+2026-11-07 · u/Particular_Song_1566 · Help/Question · score 2 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpt5r2/anyone_running_cc_as_a_background_agent_off/) · [↑ back to the list](#last-50-posts)
 
 > i want to be able to just delegate a linear ticket to an agent and get a PR back that's actually been tested, not just "looks right to me lol"
 >
@@ -708,9 +778,11 @@ Link: <https://i.redd.it/2s0xdn38930i1.gif>
 >
 > saw cyrus on github which looks like it does most of this already, has anyone tried it? curious what ppl ended up with before i go build my own thing
 
+<a id="post-36"></a>
+
 ### 36. Your agent isn't hallucinating, it's working from stale notes
 
-2026-11-07 · u/onitsoga · Discussion · score 5 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsqlu/your_agent_isnt_hallucinating_its_working_from/)
+2026-11-07 · u/onitsoga · Discussion · score 5 · 23 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsqlu/your_agent_isnt_hallucinating_its_working_from/) · [↑ back to the list](#last-50-posts)
 
 > One comment from these threads stuck with me: the hard problem isn't remembering, it's updating what the agent thinks it already knows.
 >
@@ -726,9 +798,11 @@ Link: <https://i.redd.it/2s0xdn38930i1.gif>
 >
 > I've been building a Kanban app so the handoff lives on the task instead of a growing notes file. It doesn't fix everything, especially how much context you still load in. For people running this daily: do you prune your agent notes, or let the file grow and hope the agent re-checks the code before trusting it?
 
+<a id="post-37"></a>
+
 ### 37. Learning Machine Learning, for kids!
 
-2026-11-07 · u/DontVoteForMe · Built with Claude · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsn72/learning_machine_learning_for_kids/)
+2026-11-07 · u/DontVoteForMe · Built with Claude · score 9 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsn72/learning_machine_learning_for_kids/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpsn72>
 
@@ -758,31 +832,39 @@ Link: <https://www.reddit.com/gallery/1xpsn72>
 >
 > It runs locally. No account or weird data stuff because I miss that about games. I've never shared anything like this before, but check it out if you want: [https://wobble-lab-dfo.pages.dev/](https://wobble-lab-dfo.pages.dev/)
 
+<a id="post-38"></a>
+
 ### 38. Does Using obsidian + claude lower usage rates?
 
-2026-11-07 · u/Mammoth_Efficiency66 · Help/Question · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsfsk/does_using_obsidian_claude_lower_usage_rates/)
+2026-11-07 · u/Mammoth_Efficiency66 · Help/Question · score 3 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsfsk/does_using_obsidian_claude_lower_usage_rates/) · [↑ back to the list](#last-50-posts)
 
 > Recently my simple prompts have been taking so much usage for no reason.   
 > For example i recently switched to 5x plan and  i already 5% off one prompt which would have been 20% from a go plan ? I started to feel like it was a scam until i heard that obsidian vault helps claude remember easier so it uses less usage, is this true?
 
+<a id="post-39"></a>
+
 ### 39. It's Friday, so here's something completely useless that I had way too much fun building*
 
-2026-11-07 · u/cucumberant · Built with Claude · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsezd/its_friday_so_heres_something_completely_useless/)
+2026-11-07 · u/cucumberant · Built with Claude · score 1 · 0 comments · held by automod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsezd/its_friday_so_heres_something_completely_useless/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wtjws1oo130i1.gif>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-40"></a>
+
 ### 40. sometimes it's helpful to visualize your setup. which one are you?
 
-2026-11-07 · u/Time_Cat_5212 · Humor · score 48 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpscbe/sometimes_its_helpful_to_visualize_your_setup/)
+2026-11-07 · u/Time_Cat_5212 · Humor · score 48 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpscbe/sometimes_its_helpful_to_visualize_your_setup/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/wlcpf827130i1.png>
 
 
+<a id="post-41"></a>
+
 ### 41. How in world do you manage token costs at API pricing?
 
-2026-11-07 · u/thehomelessaviation · Tips & Workflows · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsbhy/how_in_world_do_you_manage_token_costs_at_api/)
+2026-11-07 · u/thehomelessaviation · Tips & Workflows · score 1 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpsbhy/how_in_world_do_you_manage_token_costs_at_api/) · [↑ back to the list](#last-50-posts)
 
 > My workplace has had enterprise seating the last year and change, and it’s an obvious game changer and has totally transformed my entire team. No need to go over the details, but we’ve integrated workflows/skills into everything. Great.  
 >
@@ -790,17 +872,21 @@ Link: <https://i.redd.it/wlcpf827130i1.png>
 >
 > Where do I even start to try and use my remaining time with the power of a seat to try and build tools to reduce my token usage with the new budget? I feel my company has no idea how much less code will be going out the door next year. Oddly, I haven’t seen any chatter elsewhere on here, Twitter, etc about other companies moving off seated licenses. What am I missing here?
 
+<a id="post-42"></a>
+
 ### 42. God-tier agent orchestration
 
-2026-11-07 · u/cryptopokeball · Built with Claude · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xps7v9/godtier_agent_orchestration/)
+2026-11-07 · u/cryptopokeball · Built with Claude · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xps7v9/godtier_agent_orchestration/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/d16tyrwsx20i1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-43"></a>
+
 ### 43. It's Friday, so here's something completely useless that I had way too much fun building*
 
-2026-11-07 · u/cucumberant · Built with Claude · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xps72z/its_friday_so_heres_something_completely_useless/)
+2026-11-07 · u/cucumberant · Built with Claude · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xps72z/its_friday_so_heres_something_completely_useless/) · [↑ back to the list](#last-50-posts)
 
 > https://i.redd.it/unf8wxznz20i1.png
 >
@@ -812,16 +898,20 @@ Link: <https://i.redd.it/d16tyrwsx20i1.png>
 >
 > Enjoy your friday, folks.
 
+<a id="post-44"></a>
+
 ### 44. The internet is a solved game
 
-2026-11-06 · u/Siriann · Built with Claude · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprtby/the_internet_is_a_solved_game/)
+2026-11-06 · u/Siriann · Built with Claude · score 0 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprtby/the_internet_is_a_solved_game/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/2v3hdjoxw20i1>
 
 
+<a id="post-45"></a>
+
 ### 45. Another take about the nerfs
 
-2026-11-06 · u/BadMetro · Discussion · score 3 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprp2e/another_take_about_the_nerfs/)
+2026-11-06 · u/BadMetro · Discussion · score 3 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprp2e/another_take_about_the_nerfs/) · [↑ back to the list](#last-50-posts)
 
 > Just my two cents. When opus 5.5 came out suddenly more complex workflows became available. Suddenly opus could seriously orchestrate and coordinate, and even sonnet was able to keep and access context nicely.
 >
@@ -835,9 +925,11 @@ Link: <https://v.redd.it/2v3hdjoxw20i1>
 >
 > See you at Fable 5.5 release!
 
+<a id="post-46"></a>
+
 ### 46. Subagents - when are they worth using?
 
-2026-11-06 · u/Deep-Today5715 · Help/Question · score 1 · 42 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprmou/subagents_when_are_they_worth_using/)
+2026-11-06 · u/Deep-Today5715 · Help/Question · score 1 · 42 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprmou/subagents_when_are_they_worth_using/) · [↑ back to the list](#last-50-posts)
 
 > I am new to Claude Code, currently running Opus 5.5 Medium for a very large and complex project with a lean claude.MD that instructs agent to read actual design documents in repository that contain instructions, guardrails, rules, etc. All work is done in branches and PRs, with automated progress tracking in PR description and additional temporary work documents (design implementation details, handoffs, etc.).
 >
@@ -849,9 +941,11 @@ Link: <https://v.redd.it/2v3hdjoxw20i1>
 >
 > Since I don't have any experience with subagents whatsoever, and it does seem to be a complex mechanic with a steep learning curve and expensive mistakes, I was hoping if someone could comment on whether it is worth investing time in learning and setting them up for my specific use case and my goals, or if it's intended use cases are actually something else entirely. Any advice would be welcome.
 
+<a id="post-47"></a>
+
 ### 47. I built an open-source social media cross-poster for 48 platforms with Claude Code in a month.
 
-2026-11-06 · u/Neforuss · Built with Claude · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprbwx/i_built_an_opensource_social_media_crossposter/)
+2026-11-06 · u/Neforuss · Built with Claude · score 13 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xprbwx/i_built_an_opensource_social_media_crossposter/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xprbwx>
 
@@ -870,9 +964,11 @@ Link: <https://www.reddit.com/gallery/1xprbwx>
 >
 > https://github.com/Neforuss/NEFORUM
 
+<a id="post-48"></a>
+
 ### 48. How to make running Claude Code secure and safe
 
-2026-11-06 · u/synwankza · Help/Question · score 4 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr7y7/how_to_make_running_claude_code_secure_and_safe/)
+2026-11-06 · u/synwankza · Help/Question · score 4 · 11 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr7y7/how_to_make_running_claude_code_secure_and_safe/) · [↑ back to the list](#last-50-posts)
 
 > Hi guys,
 >
@@ -899,9 +995,11 @@ Link: <https://www.reddit.com/gallery/1xprbwx>
 >
 > You can provide me your examples how are you working with Coding Harnesses which are using some secrets, thanks.
 
+<a id="post-49"></a>
+
 ### 49. Is Claude Pro worth it for Claude Code, or are the usage limits too restrictive?
 
-2026-11-06 · u/TensionOpening6036 · Help/Question · score 11 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr646/is_claude_pro_worth_it_for_claude_code_or_are_the/)
+2026-11-06 · u/TensionOpening6036 · Help/Question · score 11 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr646/is_claude_pro_worth_it_for_claude_code_or_are_the/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!  
 > I’m thinking about getting Claude Pro for a month to try out Claude Code. I’m currently using Codex with ChatGPT Plus, and I’m pretty happy with it, but I’ve heard a lot of good things about Claude Code and want to give it a shot.  
@@ -914,9 +1012,11 @@ Link: <https://www.reddit.com/gallery/1xprbwx>
 > Would you recommend trying Claude Pro for a month, or are the limits too restrictive to make it worthwhile?  
 > Thanks!
 
+<a id="post-50"></a>
+
 ### 50. made claude code show a popup when it's waiting on a permission prompt, and clear it when i answer (windows hooks)
 
-2026-11-06 · u/Big-Badger-3217 · Built with Claude · score 8 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr4ap/made_claude_code_show_a_popup_when_its_waiting_on/)
+2026-11-06 · u/Big-Badger-3217 · Built with Claude · score 8 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpr4ap/made_claude_code_show_a_popup_when_its_waiting_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpr4ap>
 
@@ -966,16 +1066,20 @@ Link: <https://www.reddit.com/gallery/1xpr4ap>
 >
 > windows only. feedback welcome, especially if the hooks misbehave on your setup
 
+<a id="post-51"></a>
+
 ### 51. When you're taking a shower and Claude asks for permission
 
-2026-11-03 · u/Icy-Care-353 · Humor · score 2055 · 66 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmtptd/when_youre_taking_a_shower_and_claude_asks_for/)
+2026-11-03 · u/Icy-Care-353 · Humor · score 2055 · 66 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmtptd/when_youre_taking_a_shower_and_claude_asks_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/umxxpcn3mezh1.jpeg>
 
 
+<a id="post-52"></a>
+
 ### 52. I have an ominous feeling that they will take this technology away from us
 
-2026-11-04 · u/SystematicArt · Discussion · score 1406 · 531 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnpluu/i_have_an_ominous_feeling_that_they_will_take/)
+2026-11-04 · u/SystematicArt · Discussion · score 1406 · 531 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnpluu/i_have_an_ominous_feeling_that_they_will_take/) · [↑ back to the list](#last-50-posts)
 
 > Especially the agentic part. This is way too useful for normal people but especially  intermediate-high end tech user that isn't under big corporation payroll.
 >
@@ -983,9 +1087,11 @@ Link: <https://i.redd.it/umxxpcn3mezh1.jpeg>
 >
 > And when there is something this good, regulators, governments, etc.etc. usually have a problem with tools that make the individual too powerful.
 
+<a id="post-53"></a>
+
 ### 53. Opus 5.5 is definitely getting dumber and costlier suddenly
 
-2026-11-05 · u/professor_sn · Discussion · score 1359 · 523 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xodr56/opus_55_is_definitely_getting_dumber_and_costlier/)
+2026-11-05 · u/professor_sn · Discussion · score 1359 · 523 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xodr56/opus_55_is_definitely_getting_dumber_and_costlier/) · [↑ back to the list](#last-50-posts)
 
 > I am not sure if anyone else is feeling this but recently I feel like Opus 5.5 is becoming dumber and spends more token than when it was released. 
 >
@@ -997,23 +1103,29 @@ Link: <https://i.redd.it/umxxpcn3mezh1.jpeg>
 >
 > https://i.redd.it/i73d4lxjbrzh1.png
 
+<a id="post-54"></a>
+
 ### 54. Welcome to the AI chopping block
 
-2026-11-04 · u/FiacR · Humor · score 1153 · 134 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnz07e/welcome_to_the_ai_chopping_block/)
+2026-11-04 · u/FiacR · Humor · score 1153 · 134 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnz07e/welcome_to_the_ai_chopping_block/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/10uyywtdonzh1.jpeg>
 
 
+<a id="post-55"></a>
+
 ### 55. Asking Opus 5.5 to Build a Website
 
-2026-11-04 · u/YearLight · Humor · score 1062 · 69 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnjsig/asking_opus_55_to_build_a_website/)
+2026-11-04 · u/YearLight · Humor · score 1062 · 69 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnjsig/asking_opus_55_to_build_a_website/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/v2av6qkfckzh1.png>
 
 
+<a id="post-56"></a>
+
 ### 56. Goldman Sachs restricted Claude Code to engineers only
 
-2026-11-03 · u/KookyOky · Discussion · score 898 · 229 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn82hc/goldman_sachs_restricted_claude_code_to_engineers/)
+2026-11-03 · u/KookyOky · Discussion · score 898 · 229 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn82hc/goldman_sachs_restricted_claude_code_to_engineers/) · [↑ back to the list](#last-50-posts)
 
 > Goldman just limited Claude Code (and GitHub) so only engineers can use it. Bankers and traders lost access; strats kept it.
 >
@@ -1021,16 +1133,20 @@ Link: <https://i.redd.it/v2av6qkfckzh1.png>
 >
 > Seems short sighted given Claude Code is a general tool for productivity but curious as to what the employees are saying and what’s the real reason they banned it to non engineers
 
+<a id="post-57"></a>
+
 ### 57. Woke 3.0 is truly back 🔵🌊
 
-2026-11-05 · u/m0bties · Humor · score 687 · 194 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xorv25/woke_30_is_truly_back/)
+2026-11-05 · u/m0bties · Humor · score 687 · 194 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xorv25/woke_30_is_truly_back/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/poz70p5fiuzh1.jpeg>
 
 
+<a id="post-58"></a>
+
 ### 58. Thanks to two lines in the Claude setting , I was able to work 3 x 5H window without running out ,.
 
-2026-11-05 · u/Machine2024 · Tips & Workflows · score 682 · 213 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xo6dfy/thanks_to_two_lines_in_the_claude_setting_i_was/)
+2026-11-05 · u/Machine2024 · Tips & Workflows · score 682 · 213 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xo6dfy/thanks_to_two_lines_in_the_claude_setting_i_was/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 
@@ -1069,9 +1185,11 @@ Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 >
 > ps . I am on 20$ plan .
 
+<a id="post-59"></a>
+
 ### 59. Opus 5.5 is trying to destroy my codebase recently
 
-2026-11-06 · u/MoreLikeGaewyn · Bug / Issue · score 664 · 393 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/)
+2026-11-06 · u/MoreLikeGaewyn · Bug / Issue · score 664 · 393 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/) · [↑ back to the list](#last-50-posts)
 
 > What is going on? It is making wildly horrible, over-engineered, and just inaccurate code suggestions. In the past hour on 4 different issues, it's given me multiple-class modifying "fixes" that I would read, ask why a 1-line fix wouldn't solve it, and then it says:
 >
@@ -1083,9 +1201,11 @@ Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 >
 > https://i.redd.it/zngjvdrfv00i1.png
 
+<a id="post-60"></a>
+
 ### 60. Shy computer nerd since 8, now nearing 50, unable to find work anymore.
 
-2026-11-03 · u/College-Wise · Bug / Issue · score 592 · 262 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmp1bm/shy_computer_nerd_since_8_now_nearing_50_unable/)
+2026-11-03 · u/College-Wise · Bug / Issue · score 592 · 262 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmp1bm/shy_computer_nerd_since_8_now_nearing_50_unable/) · [↑ back to the list](#last-50-posts)
 
 > I was just getting my payroll setup so my child support could be taken out properly again after 18 months searching for any role and finding nothing. 
 >
@@ -1101,9 +1221,11 @@ Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 >
 > Please help. Please I'm begging.
 
+<a id="post-61"></a>
+
 ### 61. How come so few people seems to bother sandboxing Claude/LLMs?
 
-2026-11-06 · u/Eastern_Doughnut_222 · Help/Question · score 550 · 346 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5c6f/how_come_so_few_people_seems_to_bother_sandboxing/)
+2026-11-06 · u/Eastern_Doughnut_222 · Help/Question · score 550 · 346 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5c6f/how_come_so_few_people_seems_to_bother_sandboxing/) · [↑ back to the list](#last-50-posts)
 
 > I'm quite new to the world of coding and development, I use Claude at home for coding web-apps/mods, and at work for automation and Python stuff.
 >
@@ -1115,17 +1237,21 @@ Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 >
 > I currently only run Claude Desktop (on my personal PC) in a Linux VM, but like, it's kinda slow to spin-up and hogs performance from my pc, I'm sure there's better ways to do it.
 
+<a id="post-62"></a>
+
 ### 62. Anyone else fully switched to the Claude Desktop app for agentic coding?
 
-2026-11-06 · u/rockstarhero79 · Discussion · score 467 · 438 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5998/anyone_else_fully_switched_to_the_claude_desktop/)
+2026-11-06 · u/rockstarhero79 · Discussion · score 467 · 438 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5998/anyone_else_fully_switched_to_the_claude_desktop/) · [↑ back to the list](#last-50-posts)
 
 > I used to live in the terminal with CMUX and the usual mux/agent setup. I've basically gone all-in on the Claude Desktop app instead, mostly because the panes / multi-agent layout got so much better.  
 >
 > Anyone else make that jump, or are you still happier in the terminal?
 
+<a id="post-63"></a>
+
 ### 63. People who hit their Claude limits every week: what on earth are you building?
 
-2026-11-05 · u/Life-Abbreviations82 · Help/Question · score 418 · 676 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xoemgc/people_who_hit_their_claude_limits_every_week/)
+2026-11-05 · u/Life-Abbreviations82 · Help/Question · score 418 · 676 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xoemgc/people_who_hit_their_claude_limits_every_week/) · [↑ back to the list](#last-50-posts)
 
 > I keep seeing people say they burn through their limits by Tuesday, and I honestly can't work out what they're doing.
 >
@@ -1142,16 +1268,20 @@ Link: <https://i.redd.it/emtfkzwd5pzh1.jpeg>
 > I'm not looking for prompt tips, and I'm not selling anything. I just want to know what people are really using it for, and niche projects are welcome too.  
 > What's yours?
 
+<a id="post-64"></a>
+
 ### 64. What level are you on ?
 
-2026-11-03 · u/Acclynn · Humor · score 384 · 137 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn1rw5/what_level_are_you_on/)
+2026-11-03 · u/Acclynn · Humor · score 384 · 137 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn1rw5/what_level_are_you_on/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/edn3907c3gzh1.png>
 
 
+<a id="post-65"></a>
+
 ### 65. Alan Turing rolling in his grave rn
 
-2026-11-05 · u/fickle-phenom · Humor · score 383 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xov3zv/alan_turing_rolling_in_his_grave_rn/)
+2026-11-05 · u/fickle-phenom · Humor · score 383 · 35 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xov3zv/alan_turing_rolling_in_his_grave_rn/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/x1anheze5vzh1.jpeg>
 
@@ -1159,9 +1289,11 @@ Link: <https://i.redd.it/x1anheze5vzh1.jpeg>
 >
 > [](https://www.reddit.com/submit/?source_id=t3_1xov1sn&composer_entry=crosspost_prompt)
 
+<a id="post-66"></a>
+
 ### 66. Made a Taskmanager for Claude Code
 
-2026-11-06 · u/FreXxXenstein · Built with Claude · score 330 · 66 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5549/made_a_taskmanager_for_claude_code/)
+2026-11-06 · u/FreXxXenstein · Built with Claude · score 330 · 66 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xp5549/made_a_taskmanager_for_claude_code/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp5549>
 
@@ -1202,17 +1334,21 @@ Link: <https://www.reddit.com/gallery/1xp5549>
 >
 > So if you think this is interesting, please check the screenshots, and let me know in the comments :)
 
+<a id="post-67"></a>
+
 ### 67. Remember when we used argure over Tabs or spaces?
 
-2026-11-06 · u/CrunchyConniptions · Humor · score 300 · 93 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpcviy/remember_when_we_used_argure_over_tabs_or_spaces/)
+2026-11-06 · u/CrunchyConniptions · Humor · score 300 · 93 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xpcviy/remember_when_we_used_argure_over_tabs_or_spaces/) · [↑ back to the list](#last-50-posts)
 
 > Seems like the distant past.
 >
 > I'll tell my grandkids about them those times.
 
+<a id="post-68"></a>
+
 ### 68. Claude Code makes me 10x more productive, but mentally exhausted. Anyone else?
 
-2026-11-03 · u/Excellent_Soil7102 · Help/Question · score 278 · 109 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn1urm/claude_code_makes_me_10x_more_productive_but/)
+2026-11-03 · u/Excellent_Soil7102 · Help/Question · score 278 · 109 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xn1urm/claude_code_makes_me_10x_more_productive_but/) · [↑ back to the list](#last-50-posts)
 
 > I used to work as a software engineer, so I'm used to understanding at least roughly how things work under the hood.
 >
@@ -1232,9 +1368,11 @@ Link: <https://www.reddit.com/gallery/1xp5549>
 >
 > How do you manage the mental load?
 
+<a id="post-69"></a>
+
 ### 69. Black Ops II now runs natively on Apple Silicon Macs: open source, 60 fps on a base M1
 
-2026-11-04 · u/GoldianSummer · Built with Claude · score 278 · 55 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnuufk/black_ops_ii_now_runs_natively_on_apple_silicon/)
+2026-11-04 · u/GoldianSummer · Built with Claude · score 278 · 55 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xnuufk/black_ops_ii_now_runs_natively_on_apple_silicon/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/tj17az1wvmzh1>
 
@@ -1250,9 +1388,11 @@ Link: <https://v.redd.it/tj17az1wvmzh1>
 >
 > Happy to answer questions about the workflow!
 
+<a id="post-70"></a>
+
 ### 70. The “Karpathy” CLAUDE.md clearly changed Claude Code’s behavior on 2 of 4 tasks
 
-2026-11-03 · u/vinishkapoor · Tips & Workflows · score 278 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmhy1d/the_karpathy_claudemd_clearly_changed_claude/)
+2026-11-03 · u/vinishkapoor · Tips & Workflows · score 278 · 37 comments · live · [open on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1xmhy1d/the_karpathy_claudemd_clearly_changed_claude/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/52h8y3w5ebzh1.jpeg>
 

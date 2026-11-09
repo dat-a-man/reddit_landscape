@@ -29,56 +29,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK](https://www.reddit.com/r/OpenSourceAI/comments/1xq0ohf/pipeverify_compare_a_table_before_and_after_a/) | u/GuidanceBrief612 | — | text | 1 | 0 | live | — |
-| 2 | 2026-11-07 | [I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora](https://www.reddit.com/r/OpenSourceAI/comments/1xpzr5o/i_got_tired_of_the_limitations_of_windows_screen/) | u/tahirshaikh-744 | — | github.com | 1 | 0 | live | — |
-| 3 | 2026-11-07 | [I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification](https://www.reddit.com/r/OpenSourceAI/comments/1xpxo4o/i_just_launched_the_public_beta_of_orinyx_an/) | u/Practical_Green5775 | — | text | 2 | 0 | live | — |
-| 4 | 2026-11-07 | [Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes](https://www.reddit.com/r/OpenSourceAI/comments/1xpu4f2/burrows_core_is_now_agpl_a_localfirst_windows_app/) | u/Revibed69 | — | text | 1 | 0 | live | — |
-| 5 | 2026-11-07 | [What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)](https://www.reddit.com/r/OpenSourceAI/comments/1xptic3/what_i_learned_about_how_mcp_servers_tell_agents/) | u/zach-benson | — | reddit.com | 1 | 0 | live | — |
-| 6 | 2026-11-07 | [Tired of managing multiple AI coding agents separately? I built Hive to coordinate them.](https://www.reddit.com/r/OpenSourceAI/comments/1xpt17q/tired_of_managing_multiple_ai_coding_agents/) | u/sreekar_2498 | — | text | 1 | 0 | live | — |
-| 7 | 2026-11-06 | [3D Software Factory - Self Improving - Enterprise Ready](https://www.reddit.com/r/OpenSourceAI/comments/1xppo0b/3d_software_factory_self_improving_enterprise/) | u/shanumas | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 8 | 2026-11-06 | [3D Software Factory - Self Improving](https://www.reddit.com/r/OpenSourceAI/comments/1xpphr4/3d_software_factory_self_improving/) | u/shanumas | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 9 | 2026-11-06 | [I built an open-source sandbox for local AI coding agents using gVisor](https://www.reddit.com/r/OpenSourceAI/comments/1xpo0j8/i_built_an_opensource_sandbox_for_local_ai_coding/) | u/mrtumederanges | — | reddit.com | 1 | 0 | live | — |
-| 10 | 2026-11-06 | [I built an open-source workspace where different AI models and autonomous agents can collaborate — without a…](https://www.reddit.com/r/OpenSourceAI/comments/1xpnmrz/i_built_an_opensource_workspace_where_different/) | u/pcstunner777 | — | text | 0 | 0 | live | — |
-| 11 | 2026-11-06 | [Awwwards-mcp v1.18 - recreate skill for rebuilding pages from a URL, with reference and interaction checks](https://www.reddit.com/r/OpenSourceAI/comments/1xpl79k/awwwardsmcp_v118_recreate_skill_for_rebuilding/) | u/_insane7 | — | v.redd.it | 1 | 1 | live | — |
-| 12 | 2026-11-06 | [I made a free place to share open source stuff built with AI](https://www.reddit.com/r/OpenSourceAI/comments/1xpk8oh/i_made_a_free_place_to_share_open_source_stuff/) | u/_Rehtrew | — | reddit.com | 8 | 4 | live | — |
-| 13 | 2026-11-06 | [IRIDIA a free open-source CD ripper with 142 audio presets, native DSD and surround support](https://www.reddit.com/r/OpenSourceAI/comments/1xpgkqr/iridia_a_free_opensource_cd_ripper_with_142_audio/) | u/Extreme_Aardvark8977 | — | i.redd.it | 13 | 1 | live | — |
-| 14 | 2026-11-06 | [New API](https://www.reddit.com/r/OpenSourceAI/comments/1xpg95v/new_api/) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
-| 15 | 2026-11-06 | [New API](https://www.reddit.com/r/OpenSourceAI/comments/1xpg8l1/new_api/) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
-| 16 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](https://www.reddit.com/r/OpenSourceAI/comments/1xpf8vq/android_remote_control_mcp_v1130_is_out_free/) | u/daniele_dll | — | text | 1 | 0 | live | — |
-| 17 | 2026-11-06 | [is this right? i think deepseek can do most of the task that we do in daily life](https://www.reddit.com/r/OpenSourceAI/comments/1xpcx2b/is_this_right_i_think_deepseek_can_do_most_of_the/) | u/Arslan-A7 | — | reddit.com | 1 | 0 | live | — |
-| 18 | 2026-11-06 | [New API](https://www.reddit.com/r/OpenSourceAI/comments/1xpc31c/new_api/) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
-| 19 | 2026-11-06 | [Keyless: self-hosted credential broker for AI coding agents. AGPL-3.0, no cloud required.](https://www.reddit.com/r/OpenSourceAI/comments/1xpaqzz/keyless_selfhosted_credential_broker_for_ai/) | u/thejacckkripperr | — | text | 4 | 0 | live | — |
-| 20 | 2026-11-06 | [Make Your Own Music Player With AI - Just Fork This](https://www.reddit.com/r/OpenSourceAI/comments/1xpaijz/make_your_own_music_player_with_ai_just_fork_this/) | u/ScienceWilling | — | reddit.com | 3 | 1 | live | — |
-| 21 | 2026-11-06 | [Agenterm: open-source remote terminal assistance for AI agents](https://www.reddit.com/r/OpenSourceAI/comments/1xp7lpp/agenterm_opensource_remote_terminal_assistance/) | u/Alone-Appeal8972 | — | i.redd.it | 3 | 0 | live | — |
-| 22 | 2026-11-06 | [3D software factory](https://www.reddit.com/r/OpenSourceAI/comments/1xp6rv4/3d_software_factory/) | u/shanumas | — | reddit.com | 2 | 0 | spam-filtered | — |
-| 23 | 2026-11-06 | [Can LLMs stand in for real environments when training agents? GlobeBench says not yet](https://www.reddit.com/r/OpenSourceAI/comments/1xp5q4y/can_llms_stand_in_for_real_environments_when/) | u/swiftmoon400 | — | text | 2 | 0 | spam-filtered | — |
-| 24 | 2026-11-06 | [The 10 most-starred agent skill repos on GitHub right now](https://www.reddit.com/r/OpenSourceAI/comments/1xp4ctv/the_10_moststarred_agent_skill_repos_on_github/) | u/therohitkhokhar | — | text | 1 | 0 | spam-filtered | — |
-| 25 | 2026-11-06 | [I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — t…](https://www.reddit.com/r/OpenSourceAI/comments/1xp3mik/i_integrated_local_meta_muse_glimmer_30b_into_a/) | u/acaimari | — | reddit.com | 2 | 0 | live | — |
-| 26 | 2026-11-06 | [I got tired of paying for OpenAI API while having Copilot Enterprise at work/school, so I built a local bridg…](https://www.reddit.com/r/OpenSourceAI/comments/1xp2384/i_got_tired_of_paying_for_openai_api_while_having/) | u/unokm | — | reddit.com | 2 | 1 | live | — |
-| 27 | 2026-11-06 | [Amazing New Features of Tootsy](https://www.reddit.com/r/OpenSourceAI/comments/1xp1xlo/amazing_new_features_of_tootsy/) | u/KrakenSG | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 28 | 2026-11-06 | [I designed a plugin-first AI agent (NEXUS) in DeepSeek's chat app months before DeepSeek Harness launched. He…](https://www.reddit.com/r/OpenSourceAI/comments/1xp1fwf/i_designed_a_pluginfirst_ai_agent_nexus_in/) | u/rafidimam | — | reddit.com | 1 | 0 | spam-filtered | — |
-| 29 | 2026-11-06 | [TSA for AI Agents](https://www.reddit.com/r/OpenSourceAI/comments/1xozdzg/tsa_for_ai_agents/) | u/Illustrious-Egg8857 | — | text | 3 | 1 | live | — |
-| 30 | 2026-11-05 | [AgentOfficeHQ: An open-source workspace to monitor and visualize multi-agent workflows](https://www.reddit.com/r/OpenSourceAI/comments/1xoxyuc/agentofficehq_an_opensource_workspace_to_monitor/) | u/TheEnciyo | — | text | 1 | 0 | live | — |
-| 31 | 2026-11-05 | [What if your AI could organise your knowledge without sending it to the cloud?](https://www.reddit.com/r/OpenSourceAI/comments/1xovvtq/what_if_your_ai_could_organise_your_knowledge/) | u/flaterra_dev | — | i.redd.it | 2 | 0 | live | — |
-| 32 | 2026-11-05 | [Anneal V1 core](https://www.reddit.com/r/OpenSourceAI/comments/1xou2tt/anneal_v1_core/) | u/True-Beach1906 | — | reddit.com | 2 | 0 | live | — |
-| 33 | 2026-11-05 | [Title: \[HELP\] Best Budget-Friendly AI Subscription for a 2nd-Year Engineering Student? ChatGPT Plus, Poe AI,…](https://www.reddit.com/r/OpenSourceAI/comments/1xou2ib/title_help_best_budgetfriendly_ai_subscription/) | u/Ashay__ | — | reddit.com | 0 | 0 | spam-filtered | — |
-| 34 | 2026-11-05 | [I built a free, open-source FFmpeg GUI with GPU acceleration and AI video upscaling looking for feedback](https://www.reddit.com/r/OpenSourceAI/comments/1xotmmv/i_built_a_free_opensource_ffmpeg_gui_with_gpu/) | u/Extreme_Aardvark8977 | — | text | 2 | 0 | live | — |
-| 35 | 2026-11-05 | [Do you need a GPU, or do you need an inference result?](https://www.reddit.com/r/OpenSourceAI/comments/1xosho7/do_you_need_a_gpu_or_do_you_need_an_inference/) | u/GuardAggravating8569 | — | reddit.com | 0 | 0 | content_takedown | — |
-| 36 | 2026-11-05 | [Open Source Journalism Tool](https://www.reddit.com/r/OpenSourceAI/comments/1xormql/open_source_journalism_tool/) | u/mar_j7 | — | text | 2 | 0 | live | — |
-| 37 | 2026-11-05 | [Read AirPods' head-motion sensor over L2CAP on Linux](https://www.reddit.com/r/OpenSourceAI/comments/1xoqg1t/read_airpods_headmotion_sensor_over_l2cap_on_linux/) | u/donttmesswithme | — | github.com | 1 | 0 | live | — |
-| 38 | 2026-11-05 | [ShipAI v1.4.0 — My open-source Electron desktop app for local Ollama models & server telemetry just got a mas…](https://www.reddit.com/r/OpenSourceAI/comments/1xop5zg/shipai_v140_my_opensource_electron_desktop_app/) | u/Fit-Tax-8506 | — | v.redd.it | 1 | 0 | live | — |
-| 39 | 2026-11-05 | ["The agent has access" is not a security model. Here's the layer I built instead](https://www.reddit.com/r/OpenSourceAI/comments/1xoosu4/the_agent_has_access_is_not_a_security_model/) | u/Trout_dev | — | text | 1 | 0 | spam-filtered | — |
-| 40 | 2026-11-05 | [\[Looking for contributors\] Quasnooze — a zero-dependency, local-first personal AI assistant in plain Node.js…](https://www.reddit.com/r/OpenSourceAI/comments/1xoom1h/looking_for_contributors_quasnooze_a/) | u/Consistent-Pea3047 | — | text | 0 | 0 | spam-filtered | — |
-| 41 | 2026-11-05 | [Digital identity is shifting: How to own and govern your AI twin](https://www.reddit.com/r/OpenSourceAI/comments/1xooj29/digital_identity_is_shifting_how_to_own_and/) | u/Ok_pettech | — | interconnectd.com | 1 | 0 | live | — |
-| 42 | 2026-11-05 | [What if your AI could organise your knowledge without sending it to the cloud?](https://www.reddit.com/r/OpenSourceAI/comments/1xoo90z/what_if_your_ai_could_organise_your_knowledge/) | u/flaterra_dev | — | i.redd.it | 1 | 0 | content_takedown | — |
-| 43 | 2026-11-05 | [I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification](https://www.reddit.com/r/OpenSourceAI/comments/1xoo4h9/i_just_launched_the_public_beta_of_orinyx_an/) | u/Practical_Green5775 | — | text | 1 | 0 | live | — |
-| 44 | 2026-11-05 | [Can a 1-trillion-parameter model run on a 64 GB desktop? I built an open-source engine to find out, and it al…](https://www.reddit.com/r/OpenSourceAI/comments/1xontiw/can_a_1trillionparameter_model_run_on_a_64_gb/) | u/JeffyPros | — | i.redd.it | 1 | 0 | live | — |
-| 45 | 2026-11-05 | [RFC: a Hermes plugin that lets your idle GPU (or CPU) help train open models](https://www.reddit.com/r/OpenSourceAI/comments/1xoneer/rfc_a_hermes_plugin_that_lets_your_idle_gpu_or/) | u/Mission-Elk7884 | — | reddit.com | 1 | 0 | live | — |
-| 46 | 2026-11-05 | [Built an open-source toolkit to help developers understand, debug, and enforce reliability in AI agents](https://www.reddit.com/r/OpenSourceAI/comments/1xommdi/built_an_opensource_toolkit_to_help_developers/) | u/bucky69top | — | reddit.com | 1 | 0 | live | — |
-| 47 | 2026-11-05 | [Mago Studio: open-source AI video studio for long-form (series, films) that runs locally on ComfyUI](https://www.reddit.com/r/OpenSourceAI/comments/1xokgw8/mago_studio_opensource_ai_video_studio_for/) | u/Bozmegatron69 | — | github.com | 3 | 0 | live | — |
-| 48 | 2026-11-05 | [Design focused Agentic Development Environment ( ADE ) - Tidy](https://www.reddit.com/r/OpenSourceAI/comments/1xoifbx/design_focused_agentic_development_environment/) | u/lilhuddyrr | — | text | 1 | 2 | live | — |
-| 49 | 2026-11-05 | [Built a free, sub-10ms prompt security scanner for LLM inputs (PII masking & injection testing)](https://www.reddit.com/r/OpenSourceAI/comments/1xohqsr/built_a_free_sub10ms_prompt_security_scanner_for/) | u/yohay_g_dev | — | vigiltrism.ai | 1 | 0 | spam-filtered | — |
-| 50 | 2026-11-05 | [I built a free desktop app to visualise cooperative perception datasets (OPV2V, V2XSet, Griffin) straight fro…](https://www.reddit.com/r/OpenSourceAI/comments/1xoh5ry/i_built_a_free_desktop_app_to_visualise/) | u/Relative-Ad4198 | — | reddit.com | 0 | 0 | live | — |
+| 1 | 2026-11-07 | [Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK](#post-1) | u/GuidanceBrief612 | — | text | 1 | 0 | live | — |
+| 2 | 2026-11-07 | [I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora](#post-2) | u/tahirshaikh-744 | — | github.com | 1 | 0 | live | — |
+| 3 | 2026-11-07 | [I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification](#post-3) | u/Practical_Green5775 | — | text | 2 | 0 | live | — |
+| 4 | 2026-11-07 | [Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes](#post-4) | u/Revibed69 | — | text | 1 | 0 | live | — |
+| 5 | 2026-11-07 | [What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)](#post-5) | u/zach-benson | — | reddit.com | 1 | 0 | live | — |
+| 6 | 2026-11-07 | [Tired of managing multiple AI coding agents separately? I built Hive to coordinate them.](#post-6) | u/sreekar_2498 | — | text | 1 | 0 | live | — |
+| 7 | 2026-11-06 | [3D Software Factory - Self Improving - Enterprise Ready](#post-7) | u/shanumas | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 8 | 2026-11-06 | [3D Software Factory - Self Improving](#post-8) | u/shanumas | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 9 | 2026-11-06 | [I built an open-source sandbox for local AI coding agents using gVisor](#post-9) | u/mrtumederanges | — | reddit.com | 1 | 0 | live | — |
+| 10 | 2026-11-06 | [I built an open-source workspace where different AI models and autonomous agents can collaborate — without a…](#post-10) | u/pcstunner777 | — | text | 0 | 0 | live | — |
+| 11 | 2026-11-06 | [Awwwards-mcp v1.18 - recreate skill for rebuilding pages from a URL, with reference and interaction checks](#post-11) | u/_insane7 | — | v.redd.it | 1 | 1 | live | — |
+| 12 | 2026-11-06 | [I made a free place to share open source stuff built with AI](#post-12) | u/_Rehtrew | — | reddit.com | 8 | 4 | live | — |
+| 13 | 2026-11-06 | [IRIDIA a free open-source CD ripper with 142 audio presets, native DSD and surround support](#post-13) | u/Extreme_Aardvark8977 | — | i.redd.it | 13 | 1 | live | — |
+| 14 | 2026-11-06 | [New API](#post-14) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
+| 15 | 2026-11-06 | [New API](#post-15) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
+| 16 | 2026-11-06 | [Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](#post-16) | u/daniele_dll | — | text | 1 | 0 | live | — |
+| 17 | 2026-11-06 | [is this right? i think deepseek can do most of the task that we do in daily life](#post-17) | u/Arslan-A7 | — | reddit.com | 1 | 0 | live | — |
+| 18 | 2026-11-06 | [New API](#post-18) | u/thethalor | — | thethalor.com | 0 | 0 | spam-filtered | — |
+| 19 | 2026-11-06 | [Keyless: self-hosted credential broker for AI coding agents. AGPL-3.0, no cloud required.](#post-19) | u/thejacckkripperr | — | text | 4 | 0 | live | — |
+| 20 | 2026-11-06 | [Make Your Own Music Player With AI - Just Fork This](#post-20) | u/ScienceWilling | — | reddit.com | 3 | 1 | live | — |
+| 21 | 2026-11-06 | [Agenterm: open-source remote terminal assistance for AI agents](#post-21) | u/Alone-Appeal8972 | — | i.redd.it | 3 | 0 | live | — |
+| 22 | 2026-11-06 | [3D software factory](#post-22) | u/shanumas | — | reddit.com | 2 | 0 | spam-filtered | — |
+| 23 | 2026-11-06 | [Can LLMs stand in for real environments when training agents? GlobeBench says not yet](#post-23) | u/swiftmoon400 | — | text | 2 | 0 | spam-filtered | — |
+| 24 | 2026-11-06 | [The 10 most-starred agent skill repos on GitHub right now](#post-24) | u/therohitkhokhar | — | text | 1 | 0 | spam-filtered | — |
+| 25 | 2026-11-06 | [I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — t…](#post-25) | u/acaimari | — | reddit.com | 2 | 0 | live | — |
+| 26 | 2026-11-06 | [I got tired of paying for OpenAI API while having Copilot Enterprise at work/school, so I built a local bridg…](#post-26) | u/unokm | — | reddit.com | 2 | 1 | live | — |
+| 27 | 2026-11-06 | [Amazing New Features of Tootsy](#post-27) | u/KrakenSG | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 28 | 2026-11-06 | [I designed a plugin-first AI agent (NEXUS) in DeepSeek's chat app months before DeepSeek Harness launched. He…](#post-28) | u/rafidimam | — | reddit.com | 1 | 0 | spam-filtered | — |
+| 29 | 2026-11-06 | [TSA for AI Agents](#post-29) | u/Illustrious-Egg8857 | — | text | 3 | 1 | live | — |
+| 30 | 2026-11-05 | [AgentOfficeHQ: An open-source workspace to monitor and visualize multi-agent workflows](#post-30) | u/TheEnciyo | — | text | 1 | 0 | live | — |
+| 31 | 2026-11-05 | [What if your AI could organise your knowledge without sending it to the cloud?](#post-31) | u/flaterra_dev | — | i.redd.it | 2 | 0 | live | — |
+| 32 | 2026-11-05 | [Anneal V1 core](#post-32) | u/True-Beach1906 | — | reddit.com | 2 | 0 | live | — |
+| 33 | 2026-11-05 | [Title: \[HELP\] Best Budget-Friendly AI Subscription for a 2nd-Year Engineering Student? ChatGPT Plus, Poe AI,…](#post-33) | u/Ashay__ | — | reddit.com | 0 | 0 | spam-filtered | — |
+| 34 | 2026-11-05 | [I built a free, open-source FFmpeg GUI with GPU acceleration and AI video upscaling looking for feedback](#post-34) | u/Extreme_Aardvark8977 | — | text | 2 | 0 | live | — |
+| 35 | 2026-11-05 | [Do you need a GPU, or do you need an inference result?](#post-35) | u/GuardAggravating8569 | — | reddit.com | 0 | 0 | content_takedown | — |
+| 36 | 2026-11-05 | [Open Source Journalism Tool](#post-36) | u/mar_j7 | — | text | 2 | 0 | live | — |
+| 37 | 2026-11-05 | [Read AirPods' head-motion sensor over L2CAP on Linux](#post-37) | u/donttmesswithme | — | github.com | 1 | 0 | live | — |
+| 38 | 2026-11-05 | [ShipAI v1.4.0 — My open-source Electron desktop app for local Ollama models & server telemetry just got a mas…](#post-38) | u/Fit-Tax-8506 | — | v.redd.it | 1 | 0 | live | — |
+| 39 | 2026-11-05 | ["The agent has access" is not a security model. Here's the layer I built instead](#post-39) | u/Trout_dev | — | text | 1 | 0 | spam-filtered | — |
+| 40 | 2026-11-05 | [\[Looking for contributors\] Quasnooze — a zero-dependency, local-first personal AI assistant in plain Node.js…](#post-40) | u/Consistent-Pea3047 | — | text | 0 | 0 | spam-filtered | — |
+| 41 | 2026-11-05 | [Digital identity is shifting: How to own and govern your AI twin](#post-41) | u/Ok_pettech | — | interconnectd.com | 1 | 0 | live | — |
+| 42 | 2026-11-05 | [What if your AI could organise your knowledge without sending it to the cloud?](#post-42) | u/flaterra_dev | — | i.redd.it | 1 | 0 | content_takedown | — |
+| 43 | 2026-11-05 | [I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification](#post-43) | u/Practical_Green5775 | — | text | 1 | 0 | live | — |
+| 44 | 2026-11-05 | [Can a 1-trillion-parameter model run on a 64 GB desktop? I built an open-source engine to find out, and it al…](#post-44) | u/JeffyPros | — | i.redd.it | 1 | 0 | live | — |
+| 45 | 2026-11-05 | [RFC: a Hermes plugin that lets your idle GPU (or CPU) help train open models](#post-45) | u/Mission-Elk7884 | — | reddit.com | 1 | 0 | live | — |
+| 46 | 2026-11-05 | [Built an open-source toolkit to help developers understand, debug, and enforce reliability in AI agents](#post-46) | u/bucky69top | — | reddit.com | 1 | 0 | live | — |
+| 47 | 2026-11-05 | [Mago Studio: open-source AI video studio for long-form (series, films) that runs locally on ComfyUI](#post-47) | u/Bozmegatron69 | — | github.com | 3 | 0 | live | — |
+| 48 | 2026-11-05 | [Design focused Agentic Development Environment ( ADE ) - Tidy](#post-48) | u/lilhuddyrr | — | text | 1 | 2 | live | — |
+| 49 | 2026-11-05 | [Built a free, sub-10ms prompt security scanner for LLM inputs (PII masking & injection testing)](#post-49) | u/yohay_g_dev | — | vigiltrism.ai | 1 | 0 | spam-filtered | — |
+| 50 | 2026-11-05 | [I built a free desktop app to visualise cooperative perception datasets (OPV2V, V2XSet, Griffin) straight fro…](#post-50) | u/Relative-Ad4198 | — | reddit.com | 0 | 0 | live | — |
 
 ## Top 20 posts, last 30 days
 
@@ -86,34 +86,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-24 | [Idiocracy took over r/opensource](https://www.reddit.com/r/OpenSourceAI/comments/1xem14g/idiocracy_took_over_ropensource/) | u/EagleApprehensive | — | reddit.com | 226 | 185 | live |
-| 52 | 2026-11-01 | [I wanted VLC with the interface of Plex, so I spent two months learning and arguing with AI coding tools unti…](https://www.reddit.com/r/OpenSourceAI/comments/1xlaen0/i_wanted_vlc_with_the_interface_of_plex_so_i/) | u/Basswaves_dev | — | reddit.com | 160 | 16 | live |
-| 53 | 2026-10-25 | [r/opensource is wrong: it’s time we embrace AI’s potential to open source everything](https://www.reddit.com/r/OpenSourceAI/comments/1xeohu7/ropensource_is_wrong_its_time_we_embrace_ais/) | u/destinmoss | — | text | 78 | 20 | live |
-| 54 | 2026-10-25 | [R/OpenSource vowed to ban for life anyone using AI. We believe open source = open source, and opening a no ti…](https://www.reddit.com/r/OpenSourceAI/comments/1xf5wdy/ropensource_vowed_to_ban_for_life_anyone_using_ai/) | u/abbumm | — | reddit.com | 50 | 8 | live |
-| 55 | 2026-10-28 | [Most of the top open-source repositories allow AI-assisted code](https://www.reddit.com/r/OpenSourceAI/comments/1xhaopq/most_of_the_top_opensource_repositories_allow/) | u/bezdazen | — | reddit.com | 40 | 14 | live |
-| 56 | 2026-10-29 | [This is who r/opensource hurts with their stance](https://www.reddit.com/r/OpenSourceAI/comments/1xiu2ix/this_is_who_ropensource_hurts_with_their_stance/) | u/nyxcha0s | — | switchedgames.org | 27 | 16 | live |
-| 57 | 2026-10-13 | [Open source AI solves part of the privacy problem but not the identity problem](https://www.reddit.com/r/OpenSourceAI/comments/1x4wzkm/open_source_ai_solves_part_of_the_privacy_problem/) | u/comfortable_pairing | — | text | 25 | 6 | live |
-| 58 | 2026-10-16 | [I built Anima - turn any biology idea into an interactive scientific visualization](https://www.reddit.com/r/OpenSourceAI/comments/1x7d0lh/i_built_anima_turn_any_biology_idea_into_an/) | u/zealshama | — | v.redd.it | 24 | 2 | live |
-| 59 | 2026-10-20 | [Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B](https://www.reddit.com/r/OpenSourceAI/comments/1xb68y1/top_10_ai_agents_for_small_local_llms_in_2026/) | u/GapNew4766 | — | text | 23 | 8 | live |
-| 60 | 2026-10-18 | [I added LiquidAI’s d1-3B decision model to my old TV so I can talk to it](https://www.reddit.com/r/OpenSourceAI/comments/1x8zfko/i_added_liquidais_d13b_decision_model_to_my_old/) | u/Automatic-Bowler-538 | — | v.redd.it | 22 | 1 | live |
-| 61 | 2026-10-15 | [I made an open-source companion for REA that turns reverse-engineering findings into a build plan](https://www.reddit.com/r/OpenSourceAI/comments/1x6liz6/i_made_an_opensource_companion_for_rea_that_turns/) | u/Electrical_Worth7942 | — | i.redd.it | 20 | 5 | live |
-| 62 | 2026-11-03 | [Why did i get banned from r/opensource for speaking out?](https://www.reddit.com/r/OpenSourceAI/comments/1xn5o5w/why_did_i_get_banned_from_ropensource_for/) | u/Nerfer5554Offical | — | i.redd.it | 15 | 33 | live |
-| 63 | 2026-10-10 | [futon - An open source inference engine built specifically for embedding model workflows.](https://www.reddit.com/r/OpenSourceAI/comments/1x2ofew/futon_an_open_source_inference_engine_built/) | u/kurotenshi15 | — | i.redd.it | 13 | 6 | live |
-| 13 | 2026-11-06 | [IRIDIA a free open-source CD ripper with 142 audio presets, native DSD and surround support](https://www.reddit.com/r/OpenSourceAI/comments/1xpgkqr/iridia_a_free_opensource_cd_ripper_with_142_audio/) | u/Extreme_Aardvark8977 | — | i.redd.it | 13 | 1 | live |
-| 64 | 2026-10-10 | [I built RepoTunnel — an open-source bridge that lets ChatGPT Web conversation work with approved local repos,…](https://www.reddit.com/r/OpenSourceAI/comments/1x2j2di/i_built_repotunnel_an_opensource_bridge_that_lets/) | u/FarAd1036 | — | v.redd.it | 11 | 14 | live |
-| 65 | 2026-10-25 | [Wash - Full desktop env, only for the browser](https://www.reddit.com/r/OpenSourceAI/comments/1xfgb5n/wash_full_desktop_env_only_for_the_browser/) | u/Academic-Award6136 | — | text | 11 | 6 | live |
-| 66 | 2026-10-16 | [Open-source agent tooling: frozen benchmarks of a planner/worker harness against native Codex and Claude Code](https://www.reddit.com/r/OpenSourceAI/comments/1x7u6pp/opensource_agent_tooling_frozen_benchmarks_of_a/) | u/TomatilloPutrid3939 | — | i.redd.it | 11 | 4 | live |
-| 67 | 2026-10-29 | [Claude sped up a C compiler for making Super NES games.](https://www.reddit.com/r/OpenSourceAI/comments/1xin174/claude_sped_up_a_c_compiler_for_making_super_nes/) | u/ass-gas-hotbox | — | i.redd.it | 11 | 3 | live |
-| 68 | 2026-10-23 | [An AI assistant you don’t have to open](https://www.reddit.com/r/OpenSourceAI/comments/1xda85k/an_ai_assistant_you_dont_have_to_open/) | u/David-Davey | — | v.redd.it | 11 | 1 | live |
-| 69 | 2026-10-27 | [Building a lightweight local search engine for AI agents in Rust: semantic retrieval, OCR, and MCP](https://www.reddit.com/r/OpenSourceAI/comments/1xgqxgi/building_a_lightweight_local_search_engine_for_ai/) | u/nothing-counts | — | v.redd.it | 10 | 10 | live |
+| 51 | 2026-10-24 | [Idiocracy took over r/opensource](#post-51) | u/EagleApprehensive | — | reddit.com | 226 | 185 | live |
+| 52 | 2026-11-01 | [I wanted VLC with the interface of Plex, so I spent two months learning and arguing with AI coding tools unti…](#post-52) | u/Basswaves_dev | — | reddit.com | 160 | 16 | live |
+| 53 | 2026-10-25 | [r/opensource is wrong: it’s time we embrace AI’s potential to open source everything](#post-53) | u/destinmoss | — | text | 78 | 20 | live |
+| 54 | 2026-10-25 | [R/OpenSource vowed to ban for life anyone using AI. We believe open source = open source, and opening a no ti…](#post-54) | u/abbumm | — | reddit.com | 50 | 8 | live |
+| 55 | 2026-10-28 | [Most of the top open-source repositories allow AI-assisted code](#post-55) | u/bezdazen | — | reddit.com | 40 | 14 | live |
+| 56 | 2026-10-29 | [This is who r/opensource hurts with their stance](#post-56) | u/nyxcha0s | — | switchedgames.org | 27 | 16 | live |
+| 57 | 2026-10-13 | [Open source AI solves part of the privacy problem but not the identity problem](#post-57) | u/comfortable_pairing | — | text | 25 | 6 | live |
+| 58 | 2026-10-16 | [I built Anima - turn any biology idea into an interactive scientific visualization](#post-58) | u/zealshama | — | v.redd.it | 24 | 2 | live |
+| 59 | 2026-10-20 | [Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B](#post-59) | u/GapNew4766 | — | text | 23 | 8 | live |
+| 60 | 2026-10-18 | [I added LiquidAI’s d1-3B decision model to my old TV so I can talk to it](#post-60) | u/Automatic-Bowler-538 | — | v.redd.it | 22 | 1 | live |
+| 61 | 2026-10-15 | [I made an open-source companion for REA that turns reverse-engineering findings into a build plan](#post-61) | u/Electrical_Worth7942 | — | i.redd.it | 20 | 5 | live |
+| 62 | 2026-11-03 | [Why did i get banned from r/opensource for speaking out?](#post-62) | u/Nerfer5554Offical | — | i.redd.it | 15 | 33 | live |
+| 63 | 2026-10-10 | [futon - An open source inference engine built specifically for embedding model workflows.](#post-63) | u/kurotenshi15 | — | i.redd.it | 13 | 6 | live |
+| 13 | 2026-11-06 | [IRIDIA a free open-source CD ripper with 142 audio presets, native DSD and surround support](#post-13) | u/Extreme_Aardvark8977 | — | i.redd.it | 13 | 1 | live |
+| 64 | 2026-10-10 | [I built RepoTunnel — an open-source bridge that lets ChatGPT Web conversation work with approved local repos,…](#post-64) | u/FarAd1036 | — | v.redd.it | 11 | 14 | live |
+| 65 | 2026-10-25 | [Wash - Full desktop env, only for the browser](#post-65) | u/Academic-Award6136 | — | text | 11 | 6 | live |
+| 66 | 2026-10-16 | [Open-source agent tooling: frozen benchmarks of a planner/worker harness against native Codex and Claude Code](#post-66) | u/TomatilloPutrid3939 | — | i.redd.it | 11 | 4 | live |
+| 67 | 2026-10-29 | [Claude sped up a C compiler for making Super NES games.](#post-67) | u/ass-gas-hotbox | — | i.redd.it | 11 | 3 | live |
+| 68 | 2026-10-23 | [An AI assistant you don’t have to open](#post-68) | u/David-Davey | — | v.redd.it | 11 | 1 | live |
+| 69 | 2026-10-27 | [Building a lightweight local search engine for AI agents in Rust: semantic retrieval, OCR, and MCP](#post-69) | u/nothing-counts | — | v.redd.it | 10 | 10 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Pipeverify: compare a table before and after a pipeline change and get PASS / REVIEW / BLOCK
 
-2026-11-07 · u/GuidanceBrief612 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xq0ohf/pipeverify_compare_a_table_before_and_after_a/)
+2026-11-07 · u/GuidanceBrief612 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xq0ohf/pipeverify_compare_a_table_before_and_after_a/) · [↑ back to the list](#last-50-posts)
 
 > **What My Project Does**
 >
@@ -129,9 +131,11 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > **Repo**: https://github.com/akshaysharma1088/pipeverify (Apache-2.0, free). Feedback very welcome, and there are small good-first-issues if anyone wants to contribute.
 
+<a id="post-2"></a>
+
 ### 2. I got tired of the limitations of Windows screen recorders, so I built my own — Rekzora
 
-2026-11-07 · u/tahirshaikh-744 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpzr5o/i_got_tired_of_the_limitations_of_windows_screen/)
+2026-11-07 · u/tahirshaikh-744 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpzr5o/i_got_tired_of_the_limitations_of_windows_screen/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/tahirshaikh744-design/Rekzora>
 
@@ -179,9 +183,11 @@ Link: <https://github.com/tahirshaikh744-design/Rekzora>
 >
 > Honest feedback and suggestions are welcome!
 
+<a id="post-3"></a>
+
 ### 3. I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification
 
-2026-11-07 · u/Practical_Green5775 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpxo4o/i_just_launched_the_public_beta_of_orinyx_an/)
+2026-11-07 · u/Practical_Green5775 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpxo4o/i_just_launched_the_public_beta_of_orinyx_an/) · [↑ back to the list](#last-50-posts)
 
 > After months of building and testing, Orinyx is officially in public beta!
 >
@@ -205,9 +211,11 @@ Link: <https://github.com/tahirshaikh744-design/Rekzora>
 >
 > I'm also happy to answer questions about the architecture and what I've learned building it.
 
+<a id="post-4"></a>
+
 ### 4. Burrow's core is now AGPL: a local-first Windows app for budget, journal, todos, habits and notes
 
-2026-11-07 · u/Revibed69 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpu4f2/burrows_core_is_now_agpl_a_localfirst_windows_app/)
+2026-11-07 · u/Revibed69 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpu4f2/burrows_core_is_now_agpl_a_localfirst_windows_app/) · [↑ back to the list](#last-50-posts)
 
 > I have been building Burrow for a few months. It was a paid app with a free tier. This week I removed the paid tier entirely and published the core under AGPL-3.0.
 >
@@ -241,16 +249,20 @@ Link: <https://github.com/tahirshaikh744-design/Rekzora>
 >
 > Open to criticism on the licensing split or anything in the code.
 
+<a id="post-5"></a>
+
 ### 5. What I learned about how MCP servers tell agents apart (interim summary + one follow-up question)
 
-2026-11-07 · u/zach-benson · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xptic3/what_i_learned_about_how_mcp_servers_tell_agents/)
+2026-11-07 · u/zach-benson · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xptic3/what_i_learned_about_how_mcp_servers_tell_agents/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/mcp/comments/1xpt11t/what_i_learned_about_how_mcp_servers_tell_agents/>
 
 
+<a id="post-6"></a>
+
 ### 6. Tired of managing multiple AI coding agents separately? I built Hive to coordinate them.
 
-2026-11-07 · u/sreekar_2498 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpt17q/tired_of_managing_multiple_ai_coding_agents/)
+2026-11-07 · u/sreekar_2498 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpt17q/tired_of_managing_multiple_ai_coding_agents/) · [↑ back to the list](#last-50-posts)
 
 > I built Hive to manage multiple AI coding agents like an engineering team — looking for people to try it and share honest feedback  
 > I’ve been experimenting with different AI coding agents and CLI harnesses for a while — OpenCode, Claude Code, Codex, Gemini CLI, Cursor Agent, and others.  
@@ -288,30 +300,38 @@ Link: <https://www.reddit.com/r/mcp/comments/1xpt11t/what_i_learned_about_how_mc
 >
 > Thanks!
 
+<a id="post-7"></a>
+
 ### 7. 3D Software Factory - Self Improving - Enterprise Ready
 
-2026-11-06 · u/shanumas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xppo0b/3d_software_factory_self_improving_enterprise/)
+2026-11-06 · u/shanumas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xppo0b/3d_software_factory_self_improving_enterprise/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/OpenAI/comments/1xppgi7/3d_software_factory_self_improving_enterprise/>
 
 
+<a id="post-8"></a>
+
 ### 8. 3D Software Factory - Self Improving
 
-2026-11-06 · u/shanumas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpphr4/3d_software_factory_self_improving/)
+2026-11-06 · u/shanumas · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpphr4/3d_software_factory_self_improving/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Solace_Platform/comments/1xpphnk/3d_software_factory_self_improving/>
 
 
+<a id="post-9"></a>
+
 ### 9. I built an open-source sandbox for local AI coding agents using gVisor
 
-2026-11-06 · u/mrtumederanges · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpo0j8/i_built_an_opensource_sandbox_for_local_ai_coding/)
+2026-11-06 · u/mrtumederanges · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpo0j8/i_built_an_opensource_sandbox_for_local_ai_coding/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/aiagents/comments/1xpo0dy/i_built_an_opensource_sandbox_for_local_ai_coding/>
 
 
+<a id="post-10"></a>
+
 ### 10. I built an open-source workspace where different AI models and autonomous agents can collaborate — without a central authority controlling their identities
 
-2026-11-06 · u/pcstunner777 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpnmrz/i_built_an_opensource_workspace_where_different/)
+2026-11-06 · u/pcstunner777 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpnmrz/i_built_an_opensource_workspace_where_different/) · [↑ back to the list](#last-50-posts)
 
 > Here’s what I’ve built:  
 > ● Multi-model collaboration: Bring different AI models into the same room, assign roles, and let them work together.  
@@ -324,16 +344,20 @@ Link: <https://www.reddit.com/r/aiagents/comments/1xpo0dy/i_built_an_opensource_
 > I believe the future of AI shouldn’t be limited to isolated assistants operating inside separate corporate ecosystems.  
 > **Knights Circle:** [https://knights-circle.vercel.app](https://knights-circle.vercel.app/)
 
+<a id="post-11"></a>
+
 ### 11. Awwwards-mcp v1.18 - recreate skill for rebuilding pages from a URL, with reference and interaction checks
 
-2026-11-06 · u/_insane7 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpl79k/awwwardsmcp_v118_recreate_skill_for_rebuilding/)
+2026-11-06 · u/_insane7 · score 1 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpl79k/awwwardsmcp_v118_recreate_skill_for_rebuilding/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/xwelu9xv8nzh1>
 
 
+<a id="post-12"></a>
+
 ### 12. I made a free place to share open source stuff built with AI
 
-2026-11-06 · u/_Rehtrew · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpk8oh/i_made_a_free_place_to_share_open_source_stuff/)
+2026-11-06 · u/_Rehtrew · score 8 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpk8oh/i_made_a_free_place_to_share_open_source_stuff/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpk8oh>
 
@@ -353,9 +377,11 @@ Link: <https://www.reddit.com/gallery/1xpk8oh>
 >
 > [](https://www.reddit.com/submit/?source_id=t3_1xpcm1w&composer_entry=crosspost_prompt)
 
+<a id="post-13"></a>
+
 ### 13. IRIDIA a free open-source CD ripper with 142 audio presets, native DSD and surround support
 
-2026-11-06 · u/Extreme_Aardvark8977 · score 13 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpgkqr/iridia_a_free_opensource_cd_ripper_with_142_audio/)
+2026-11-06 · u/Extreme_Aardvark8977 · score 13 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpgkqr/iridia_a_free_opensource_cd_ripper_with_142_audio/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/mo83eln4n00i1.gif>
 
@@ -384,16 +410,20 @@ Link: <https://i.redd.it/mo83eln4n00i1.gif>
 >
 > I'd love to hear your thoughts, suggestions and bug reports!
 
+<a id="post-14"></a>
+
 ### 14. New API
 
-2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpg95v/new_api/)
+2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpg95v/new_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.thethalor.com/>
 
 
+<a id="post-15"></a>
+
 ### 15. New API
 
-2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpg8l1/new_api/)
+2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpg8l1/new_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.thethalor.com/>
 
@@ -401,9 +431,11 @@ Link: <https://www.thethalor.com/>
 >
 > Public beta invite code (promo code: **Invitationthethalor**)
 
+<a id="post-16"></a>
+
 ### 16. Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed
 
-2026-11-06 · u/daniele_dll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpf8vq/android_remote_control_mcp_v1130_is_out_free/)
+2026-11-06 · u/daniele_dll · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpf8vq/android_remote_control_mcp_v1130_is_out_free/) · [↑ back to the list](#last-50-posts)
 
 > 🚀 It has been a while since the last release, but Android Remote Control MCP is back and v1.13.0 is now out! It's the MCP server that runs on your phone and lets your AI agent use any app you want.
 >
@@ -451,23 +483,29 @@ Link: <https://www.thethalor.com/>
 >
 > No adb, no cables, no root! If there's an app for it, your agent can drive it ... you just have to ask!
 
+<a id="post-17"></a>
+
 ### 17. is this right? i think deepseek can do most of the task that we do in daily life
 
-2026-11-06 · u/Arslan-A7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpcx2b/is_this_right_i_think_deepseek_can_do_most_of_the/)
+2026-11-06 · u/Arslan-A7 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpcx2b/is_this_right_i_think_deepseek_can_do_most_of_the/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/peak_technology/comments/1xpbw6o/is_claude_still_worth_buying_when_we_have_alot/>
 
 
+<a id="post-18"></a>
+
 ### 18. New API
 
-2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpc31c/new_api/)
+2026-11-06 · u/thethalor · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpc31c/new_api/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.thethalor.com/>
 
 
+<a id="post-19"></a>
+
 ### 19. Keyless: self-hosted credential broker for AI coding agents. AGPL-3.0, no cloud required.
 
-2026-11-06 · u/thejacckkripperr · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpaqzz/keyless_selfhosted_credential_broker_for_ai/)
+2026-11-06 · u/thejacckkripperr · score 4 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpaqzz/keyless_selfhosted_credential_broker_for_ai/) · [↑ back to the list](#last-50-posts)
 
 > Keyless is a local-first credential broker for AI coding agents. No cloud, no account, no external service. Everything runs on your machine.
 >
@@ -493,17 +531,21 @@ Link: <https://www.thethalor.com/>
 >
 > What would you want to see in v0.2?
 
+<a id="post-20"></a>
+
 ### 20. Make Your Own Music Player With AI - Just Fork This
 
-2026-11-06 · u/ScienceWilling · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpaijz/make_your_own_music_player_with_ai_just_fork_this/)
+2026-11-06 · u/ScienceWilling · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xpaijz/make_your_own_music_player_with_ai_just_fork_this/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xpaijz>
 
 > [https://github.com/ParsonLabs/parson](https://github.com/ParsonLabs/parson)
 
+<a id="post-21"></a>
+
 ### 21. Agenterm: open-source remote terminal assistance for AI agents
 
-2026-11-06 · u/Alone-Appeal8972 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp7lpp/agenterm_opensource_remote_terminal_assistance/)
+2026-11-06 · u/Alone-Appeal8972 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp7lpp/agenterm_opensource_remote_terminal_assistance/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/hc6h6egwbyzh1.png>
 
@@ -515,17 +557,21 @@ Link: <https://i.redd.it/hc6h6egwbyzh1.png>
 >
 > The server can be self-hosted, and the remote client runs with the user's shell permissions. I used Claude Code during development. Feedback is welcome.
 
+<a id="post-22"></a>
+
 ### 22. 3D software factory
 
-2026-11-06 · u/shanumas · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp6rv4/3d_software_factory/)
+2026-11-06 · u/shanumas · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp6rv4/3d_software_factory/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/claudeskills/comments/1xp6rh7/3d_software_factory/>
 
 > https://i.redd.it/v163ce492yzh1.png
 
+<a id="post-23"></a>
+
 ### 23. Can LLMs stand in for real environments when training agents? GlobeBench says not yet
 
-2026-11-06 · u/swiftmoon400 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp5q4y/can_llms_stand_in_for_real_environments_when/)
+2026-11-06 · u/swiftmoon400 · score 2 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp5q4y/can_llms_stand_in_for_real_environments_when/) · [↑ back to the list](#last-50-posts)
 
 > Patronus AI released GlobeBench, testing whether LLMs can act as simulated environments for training agents: given past actions and feedback, predict what the environment returns next. 1,632 tasks, 5 domains, 19 simulation skills. **Data, eval code, model outputs and grading logs are all public.**
 >
@@ -560,29 +606,37 @@ Link: <https://www.reddit.com/r/claudeskills/comments/1xp6rh7/3d_software_factor
 >
 > Official leaderboard & code: [https://github.com/patronus-ai/globebench#leaderboard](https://github.com/patronus-ai/globebench#leaderboard)
 
+<a id="post-24"></a>
+
 ### 24. The 10 most-starred agent skill repos on GitHub right now
 
-2026-11-06 · u/therohitkhokhar · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp4ctv/the_10_moststarred_agent_skill_repos_on_github/)
+2026-11-06 · u/therohitkhokhar · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp4ctv/the_10_moststarred_agent_skill_repos_on_github/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. I integrated local Meta Muse Glimmer 30B into a VS Code coding agent with permission-controlled web tools — technical feedback welcome
 
-2026-11-06 · u/acaimari · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp3mik/i_integrated_local_meta_muse_glimmer_30b_into_a/)
+2026-11-06 · u/acaimari · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp3mik/i_integrated_local_meta_muse_glimmer_30b_into_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/LLMDevs/comments/1xp3mbo/i_integrated_local_meta_muse_glimmer_30b_into_a/>
 
 
+<a id="post-26"></a>
+
 ### 26. I got tired of paying for OpenAI API while having Copilot Enterprise at work/school, so I built a local bridge to turn it into an OpenAI-compatible API & FastMCP server (100% Free, Apache-2.0, Open Source)
 
-2026-11-06 · u/unokm · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp2384/i_got_tired_of_paying_for_openai_api_while_having/)
+2026-11-06 · u/unokm · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp2384/i_got_tired_of_paying_for_openai_api_while_having/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SideProject/comments/1xp22zd/i_got_tired_of_paying_for_openai_api_while_having/>
 
 
+<a id="post-27"></a>
+
 ### 27. Amazing New Features of Tootsy
 
-2026-11-06 · u/KrakenSG · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp1xlo/amazing_new_features_of_tootsy/)
+2026-11-06 · u/KrakenSG · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp1xlo/amazing_new_features_of_tootsy/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xp1xlo>
 
@@ -594,17 +648,21 @@ Link: <https://www.reddit.com/gallery/1xp1xlo>
 >
 > [https://github.com/rbughao/tootsy](https://github.com/rbughao/tootsy)
 
+<a id="post-28"></a>
+
 ### 28. I designed a plugin-first AI agent (NEXUS) in DeepSeek's chat app months before DeepSeek Harness launched. Here's my dated record, what overlaps, and what I can't prove.
 
-2026-11-06 · u/rafidimam · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp1fwf/i_designed_a_pluginfirst_ai_agent_nexus_in/)
+2026-11-06 · u/rafidimam · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xp1fwf/i_designed_a_pluginfirst_ai_agent_nexus_in/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/DeepSeekHarness/comments/1xoasod/i_designed_a_pluginfirst_ai_agent_nexus_in/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-29"></a>
+
 ### 29. TSA for AI Agents
 
-2026-11-06 · u/Illustrious-Egg8857 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xozdzg/tsa_for_ai_agents/)
+2026-11-06 · u/Illustrious-Egg8857 · score 3 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xozdzg/tsa_for_ai_agents/) · [↑ back to the list](#last-50-posts)
 
 > What's up y'all, in the era of everyone using & having agents, people always talk about "AI Safety" behind them.
 >
@@ -632,9 +690,11 @@ Link: <https://www.reddit.com/r/DeepSeekHarness/comments/1xoasod/i_designed_a_pl
 >
 > Would love any feedback or grilling from anyone
 
+<a id="post-30"></a>
+
 ### 30. AgentOfficeHQ: An open-source workspace to monitor and visualize multi-agent workflows
 
-2026-11-05 · u/TheEnciyo · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoxyuc/agentofficehq_an_opensource_workspace_to_monitor/)
+2026-11-05 · u/TheEnciyo · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoxyuc/agentofficehq_an_opensource_workspace_to_monitor/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone,
 >
@@ -655,23 +715,29 @@ Link: <https://www.reddit.com/r/DeepSeekHarness/comments/1xoasod/i_designed_a_pl
 >
 > I'd appreciate any feedback, thoughts, or suggestions if you are working with agent orchestration!
 
+<a id="post-31"></a>
+
 ### 31. What if your AI could organise your knowledge without sending it to the cloud?
 
-2026-11-05 · u/flaterra_dev · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xovvtq/what_if_your_ai_could_organise_your_knowledge/)
+2026-11-05 · u/flaterra_dev · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xovvtq/what_if_your_ai_could_organise_your_knowledge/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/svge9nqbavzh1.png>
 
 
+<a id="post-32"></a>
+
 ### 32. Anneal V1 core
 
-2026-11-05 · u/True-Beach1906 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xou2tt/anneal_v1_core/)
+2026-11-05 · u/True-Beach1906 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xou2tt/anneal_v1_core/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xou29s>
 
 
+<a id="post-33"></a>
+
 ### 33. Title: \[HELP\] Best Budget-Friendly AI Subscription for a 2nd-Year Engineering Student? ChatGPT Plus, Poe AI, or Something Else?
 
-2026-11-05 · u/Ashay__ · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xou2ib/title_help_best_budgetfriendly_ai_subscription/)
+2026-11-05 · u/Ashay__ · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xou2ib/title_help_best_budgetfriendly_ai_subscription/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/Agent_AI/comments/1xou1v9/title_help_best_budgetfriendly_ai_subscription/>
 
@@ -731,9 +797,11 @@ Link: <https://www.reddit.com/r/Agent_AI/comments/1xou1v9/title_help_best_budget
 >
 > Thanks in advance! :)
 
+<a id="post-34"></a>
+
 ### 34. I built a free, open-source FFmpeg GUI with GPU acceleration and AI video upscaling looking for feedback
 
-2026-11-05 · u/Extreme_Aardvark8977 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xotmmv/i_built_a_free_opensource_ffmpeg_gui_with_gpu/)
+2026-11-05 · u/Extreme_Aardvark8977 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xotmmv/i_built_a_free_opensource_ffmpeg_gui_with_gpu/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -759,16 +827,20 @@ Link: <https://www.reddit.com/r/Agent_AI/comments/1xou1v9/title_help_best_budget
 >
 > GitHub: [https://github.com/Aaronstanley78/FFmpegForge](https://github.com/Aaronstanley78/FFmpegForge)
 
+<a id="post-35"></a>
+
 ### 35. Do you need a GPU, or do you need an inference result?
 
-2026-11-05 · u/GuardAggravating8569 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xosho7/do_you_need_a_gpu_or_do_you_need_an_inference/)
+2026-11-05 · u/GuardAggravating8569 · score 0 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xosho7/do_you_need_a_gpu_or_do_you_need_an_inference/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AI_Application/comments/1xosh3z/do_you_need_a_gpu_or_do_you_need_an_inference/>
 
 
+<a id="post-36"></a>
+
 ### 36. Open Source Journalism Tool
 
-2026-11-05 · u/mar_j7 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xormql/open_source_journalism_tool/)
+2026-11-05 · u/mar_j7 · score 2 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xormql/open_source_journalism_tool/) · [↑ back to the list](#last-50-posts)
 
 > Hey! I just wanna show my project for the Meta Global AI Hackaton.  
 > It's Consta, an Ai tool that help to research public data and relationships (contraits, public figures, etc...)
@@ -785,9 +857,11 @@ Link: <https://www.reddit.com/r/AI_Application/comments/1xosh3z/do_you_need_a_gp
 >
 > https://i.redd.it/9w4gy8e6fuzh1.png
 
+<a id="post-37"></a>
+
 ### 37. Read AirPods' head-motion sensor over L2CAP on Linux
 
-2026-11-05 · u/donttmesswithme · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoqg1t/read_airpods_headmotion_sensor_over_l2cap_on_linux/)
+2026-11-05 · u/donttmesswithme · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoqg1t/read_airpods_headmotion_sensor_over_l2cap_on_linux/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/freaktopus/auricle>
 
@@ -797,42 +871,54 @@ Link: <https://github.com/freaktopus/auricle>
 >
 > Apple-only, tested on one pair of AirPods Pro 2. Reverse-engineered, so a firmware update could break it.
 
+<a id="post-38"></a>
+
 ### 38. ShipAI v1.4.0 — My open-source Electron desktop app for local Ollama models & server telemetry just got a massive UI overhaul (Linear/Raycast aesthetic, no-AI bloat)
 
-2026-11-05 · u/Fit-Tax-8506 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xop5zg/shipai_v140_my_opensource_electron_desktop_app/)
+2026-11-05 · u/Fit-Tax-8506 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xop5zg/shipai_v140_my_opensource_electron_desktop_app/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/epu6rklhrtzh1>
 
 
+<a id="post-39"></a>
+
 ### 39. "The agent has access" is not a security model. Here's the layer I built instead
 
-2026-11-05 · u/Trout_dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoosu4/the_agent_has_access_is_not_a_security_model/)
+2026-11-05 · u/Trout_dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoosu4/the_agent_has_access_is_not_a_security_model/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-40"></a>
 
 ### 40. \[Looking for contributors\] Quasnooze — a zero-dependency, local-first personal AI assistant in plain Node.js 22+ (no build step, no GPU/API keys needed to contribute)
 
-2026-11-05 · u/Consistent-Pea3047 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoom1h/looking_for_contributors_quasnooze_a/)
+2026-11-05 · u/Consistent-Pea3047 · score 0 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoom1h/looking_for_contributors_quasnooze_a/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-41"></a>
+
 ### 41. Digital identity is shifting: How to own and govern your AI twin
 
-2026-11-05 · u/Ok_pettech · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xooj29/digital_identity_is_shifting_how_to_own_and/)
+2026-11-05 · u/Ok_pettech · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xooj29/digital_identity_is_shifting_how_to_own_and/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://interconnectd.com/blog/115/beyond-the-user-how-to-own-your-ai-twin-digital-identity/>
 
 
+<a id="post-42"></a>
+
 ### 42. What if your AI could organise your knowledge without sending it to the cloud?
 
-2026-11-05 · u/flaterra_dev · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoo90z/what_if_your_ai_could_organise_your_knowledge/)
+2026-11-05 · u/flaterra_dev · score 1 · 0 comments · content_takedown · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoo90z/what_if_your_ai_could_organise_your_knowledge/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/xfcda6cprtzh1.png>
 
 
+<a id="post-43"></a>
+
 ### 43. I just launched the public beta of Orinyx, an open-source MCP tool for healthcare AI verification
 
-2026-11-05 · u/Practical_Green5775 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoo4h9/i_just_launched_the_public_beta_of_orinyx_an/)
+2026-11-05 · u/Practical_Green5775 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoo4h9/i_just_launched_the_public_beta_of_orinyx_an/) · [↑ back to the list](#last-50-posts)
 
 > After months of building and testing, Orinyx is officially in public beta!
 >
@@ -856,23 +942,29 @@ Link: <https://i.redd.it/xfcda6cprtzh1.png>
 >
 > I'm also happy to answer questions about the architecture and what I've learned building it.
 
+<a id="post-44"></a>
+
 ### 44. Can a 1-trillion-parameter model run on a 64 GB desktop? I built an open-source engine to find out, and it already beats llama.cpp on models bigger than RAM. \[Crosspost\]
 
-2026-11-05 · u/JeffyPros · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xontiw/can_a_1trillionparameter_model_run_on_a_64_gb/)
+2026-11-05 · u/JeffyPros · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xontiw/can_a_1trillionparameter_model_run_on_a_64_gb/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/d2zubvq5vpzh1.jpeg>
 
 
+<a id="post-45"></a>
+
 ### 45. RFC: a Hermes plugin that lets your idle GPU (or CPU) help train open models
 
-2026-11-05 · u/Mission-Elk7884 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoneer/rfc_a_hermes_plugin_that_lets_your_idle_gpu_or/)
+2026-11-05 · u/Mission-Elk7884 · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoneer/rfc_a_hermes_plugin_that_lets_your_idle_gpu_or/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/AiBuilders/comments/1xone6u/rfc_a_hermes_plugin_that_lets_your_idle_gpu_or/>
 
 
+<a id="post-46"></a>
+
 ### 46. Built an open-source toolkit to help developers understand, debug, and enforce reliability in AI agents
 
-2026-11-05 · u/bucky69top · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xommdi/built_an_opensource_toolkit_to_help_developers/)
+2026-11-05 · u/bucky69top · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xommdi/built_an_opensource_toolkit_to_help_developers/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/SideProject/comments/1xomfhd/built_an_opensource_toolkit_to_help_developers/>
 
@@ -912,16 +1004,20 @@ Link: <https://www.reddit.com/r/SideProject/comments/1xomfhd/built_an_opensource
 >
 > GitHub: https://github.com/AshmitJain932/ai-agent-observability
 
+<a id="post-47"></a>
+
 ### 47. Mago Studio: open-source AI video studio for long-form (series, films) that runs locally on ComfyUI
 
-2026-11-05 · u/Bozmegatron69 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xokgw8/mago_studio_opensource_ai_video_studio_for/)
+2026-11-05 · u/Bozmegatron69 · score 3 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xokgw8/mago_studio_opensource_ai_video_studio_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://github.com/MagoStudio/MagoStudio>
 
 
+<a id="post-48"></a>
+
 ### 48. Design focused Agentic Development Environment ( ADE ) - Tidy
 
-2026-11-05 · u/lilhuddyrr · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoifbx/design_focused_agentic_development_environment/)
+2026-11-05 · u/lilhuddyrr · score 1 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoifbx/design_focused_agentic_development_environment/) · [↑ back to the list](#last-50-posts)
 
 > What originally started off as an open source alternative to Figma / Paper has turned into a design focused Agentic Development Environment (ADE) called Tidy.
 >
@@ -935,24 +1031,30 @@ Link: <https://github.com/MagoStudio/MagoStudio>
 >
 > Still early days, but we're iterating and improving very quickly. Would love to hear what people think or what features you'd like to see.
 
+<a id="post-49"></a>
+
 ### 49. Built a free, sub-10ms prompt security scanner for LLM inputs (PII masking & injection testing)
 
-2026-11-05 · u/yohay_g_dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xohqsr/built_a_free_sub10ms_prompt_security_scanner_for/)
+2026-11-05 · u/yohay_g_dev · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xohqsr/built_a_free_sub10ms_prompt_security_scanner_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://vigiltrism.ai/>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-50"></a>
+
 ### 50. I built a free desktop app to visualise cooperative perception datasets (OPV2V, V2XSet, Griffin) straight from your HPC cluster, no copying or conversion
 
-2026-11-05 · u/Relative-Ad4198 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoh5ry/i_built_a_free_desktop_app_to_visualise/)
+2026-11-05 · u/Relative-Ad4198 · score 0 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xoh5ry/i_built_a_free_desktop_app_to_visualise/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/computervision/comments/1xoh5dl/i_built_a_free_desktop_app_to_visualise/>
 
 
+<a id="post-51"></a>
+
 ### 51. Idiocracy took over r/opensource
 
-2026-10-24 · u/EagleApprehensive · score 226 · 185 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xem14g/idiocracy_took_over_ropensource/)
+2026-10-24 · u/EagleApprehensive · score 226 · 185 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xem14g/idiocracy_took_over_ropensource/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xem14g>
 
@@ -968,9 +1070,11 @@ Link: <https://www.reddit.com/gallery/1xem14g>
 >
 > Hope people here gonna be better.
 
+<a id="post-52"></a>
+
 ### 52. I wanted VLC with the interface of Plex, so I spent two months learning and arguing with AI coding tools until it existed
 
-2026-11-01 · u/Basswaves_dev · score 160 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xlaen0/i_wanted_vlc_with_the_interface_of_plex_so_i/)
+2026-11-01 · u/Basswaves_dev · score 160 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xlaen0/i_wanted_vlc_with_the_interface_of_plex_so_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xlaen0>
 
@@ -1001,9 +1105,11 @@ Link: <https://www.reddit.com/gallery/1xlaen0>
 >
 > Download and screenshots: [https://basswaves.github.io/kinema/](https://basswaves.github.io/kinema/)
 
+<a id="post-53"></a>
+
 ### 53. r/opensource is wrong: it’s time we embrace AI’s potential to open source everything
 
-2026-10-25 · u/destinmoss · score 78 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xeohu7/ropensource_is_wrong_its_time_we_embrace_ais/)
+2026-10-25 · u/destinmoss · score 78 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xeohu7/ropensource_is_wrong_its_time_we_embrace_ais/) · [↑ back to the list](#last-50-posts)
 
 > i’ve always been technologically inclined: i built my first PC when i was 16, one of my first jobs was at Best Buy, and i’ve always tried my damndest to keep up with the cutting edge of hardware/software innovation. i’ve also ALWAYS despised closed-source software, especially when it’s intentionally used to monopolize people and their data (i’m looking at Apple and Microsoft here, specifically). 
 >
@@ -1013,23 +1119,29 @@ Link: <https://www.reddit.com/gallery/1xlaen0>
 >
 > what everyone in the FOSS community needs to understand is that “open source” no longer has to be niche, and contributions no longer have to be limited to experienced developers. open source now has the potential to be, and SHOULD be, about *passion*, and can be improved together, by all of us, **more quickly than any corporation could ever possibly hope to keep up**. i mentioned my keyboard plugin earlier: that feature had been requested on github and KDE forums EIGHTEEN MONTHS AGO! i solved it in three days. we need to really take a moment and think about what it means for the open source ecosystem when the number of contributors suddenly multiplies 1,000x fold, and free/volunteer developer hours are no longer our bottleneck. the mods in r/opensource seemingly care more about holding onto their high horse than actually improving the competiveness of open source software and making people's lives better. i don’t think Microsoft Windows can exist in 2028 as a closed-source platform, and i don’t think the PlayStation 7 will ever make it to the concept phase, but that thesis falls apart if the FOSS community ties its hands behind its back while all of the major corporations adopt agentic coding. we’re entering a new era, and seeing that now and adopting agentic coding  will help us all make the world of FOSS dominance reality more quickly than anyone could've imagined just a few years ago.
 
+<a id="post-54"></a>
+
 ### 54. R/OpenSource vowed to ban for life anyone using AI. We believe open source = open source, and opening a no tiranny space
 
-2026-10-25 · u/abbumm · score 50 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xf5wdy/ropensource_vowed_to_ban_for_life_anyone_using_ai/)
+2026-10-25 · u/abbumm · score 50 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xf5wdy/ropensource_vowed_to_ban_for_life_anyone_using_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/r/OpenSourceAIAllowed/comments/1xf05v9/ropen_source_vowed_to_ban_for_life_anyone_using/>
 
 
+<a id="post-55"></a>
+
 ### 55. Most of the top open-source repositories allow AI-assisted code
 
-2026-10-28 · u/bezdazen · score 40 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xhaopq/most_of_the_top_opensource_repositories_allow/)
+2026-10-28 · u/bezdazen · score 40 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xhaopq/most_of_the_top_opensource_repositories_allow/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xhan9i>
 
 
+<a id="post-56"></a>
+
 ### 56. This is who r/opensource hurts with their stance
 
-2026-10-29 · u/nyxcha0s · score 27 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xiu2ix/this_is_who_ropensource_hurts_with_their_stance/)
+2026-10-29 · u/nyxcha0s · score 27 · 16 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xiu2ix/this_is_who_ropensource_hurts_with_their_stance/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://switchedgames.org/>
 
@@ -1038,9 +1150,11 @@ Link: <https://switchedgames.org/>
 >
 > Go support them!
 
+<a id="post-57"></a>
+
 ### 57. Open source AI solves part of the privacy problem but not the identity problem
 
-2026-10-13 · u/comfortable_pairing · score 25 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x4wzkm/open_source_ai_solves_part_of_the_privacy_problem/)
+2026-10-13 · u/comfortable_pairing · score 25 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x4wzkm/open_source_ai_solves_part_of_the_privacy_problem/) · [↑ back to the list](#last-50-posts)
 
 > One of the biggest reasons I’ve gotten more interested in open source AI is that I can actually control where the model runs and what happens to my data. If I’m using a local model, I don’t have to wonder whether every prompt, document or conversation is being sent to some company’s servers, that part feels like a huge win.
 >
@@ -1048,9 +1162,11 @@ Link: <https://switchedgames.org/>
 >
 > My setup is slowly becoming a weird mix of local models, self hosted tools, encrypted apps, Kibu, Signal and Telegram. It feels like open source AI is giving us more control over the machines, while generative AI is simultaneously making human identity less trustworthy. Do you think the open source ecosystem eventually needs to solve identity too or should that stay completely separate from the AI stack?
 
+<a id="post-58"></a>
+
 ### 58. I built Anima - turn any biology idea into an interactive scientific visualization
 
-2026-10-16 · u/zealshama · score 24 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x7d0lh/i_built_anima_turn_any_biology_idea_into_an/)
+2026-10-16 · u/zealshama · score 24 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x7d0lh/i_built_anima_turn_any_biology_idea_into_an/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/qj9o9k6n7tvh1>
 
@@ -1072,9 +1188,11 @@ Link: <https://v.redd.it/qj9o9k6n7tvh1>
 >
 > Demo: [https://anima.arcumet.com](https://anima.arcumet.com/)
 
+<a id="post-59"></a>
+
 ### 59. Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B
 
-2026-10-20 · u/GapNew4766 · score 23 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xb68y1/top_10_ai_agents_for_small_local_llms_in_2026/)
+2026-10-20 · u/GapNew4766 · score 23 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xb68y1/top_10_ai_agents_for_small_local_llms_in_2026/) · [↑ back to the list](#last-50-posts)
 
 > I tested 10 agents, each with its own isolated settings folder. I ran them headless, with auto-confirmation and turned off telemetry where possible. I launched each agent with `adapters/<agent>.sh`.
 >
@@ -1180,17 +1298,21 @@ Link: <https://v.redd.it/qj9o9k6n7tvh1>
 >
 > Let me know if you'd like to see anything else in the benchmark (actually has anyone tried this with sub-2B models yet?)
 
+<a id="post-60"></a>
+
 ### 60. I added LiquidAI’s d1-3B decision model to my old TV so I can talk to it
 
-2026-10-18 · u/Automatic-Bowler-538 · score 22 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x8zfko/i_added_liquidais_d13b_decision_model_to_my_old/)
+2026-10-18 · u/Automatic-Bowler-538 · score 22 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x8zfko/i_added_liquidais_d13b_decision_model_to_my_old/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/7qmd8ojf87wh1>
 
 > I wanted my TV to be content-first, not apps-first. So I wired a decision model in between that opens the right app and sends the right ADB commands based on my intent.
 
+<a id="post-61"></a>
+
 ### 61. I made an open-source companion for REA that turns reverse-engineering findings into a build plan
 
-2026-10-15 · u/Electrical_Worth7942 · score 20 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x6liz6/i_made_an_opensource_companion_for_rea_that_turns/)
+2026-10-15 · u/Electrical_Worth7942 · score 20 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x6liz6/i_made_an_opensource_companion_for_rea_that_turns/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/0kkygkmytmvh1.png>
 
@@ -1212,9 +1334,11 @@ Link: <https://i.redd.it/0kkygkmytmvh1.png>
 >
 > I’d be interested in feedback on the workflow, especially anything it misses when rebuilding a smaller feature or function.
 
+<a id="post-62"></a>
+
 ### 62. Why did i get banned from r/opensource for speaking out?
 
-2026-11-03 · u/Nerfer5554Offical · score 15 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xn5o5w/why_did_i_get_banned_from_ropensource_for/)
+2026-11-03 · u/Nerfer5554Offical · score 15 · 33 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xn5o5w/why_did_i_get_banned_from_ropensource_for/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1pjj0li8tgzh1.jpeg>
 
@@ -1222,9 +1346,11 @@ Link: <https://i.redd.it/1pjj0li8tgzh1.jpeg>
 >
 > Wowwwwwwwwww ur just gonna ban me like that
 
+<a id="post-63"></a>
+
 ### 63. futon - An open source inference engine built specifically for embedding model workflows.
 
-2026-10-10 · u/kurotenshi15 · score 13 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x2ofew/futon_an_open_source_inference_engine_built/)
+2026-10-10 · u/kurotenshi15 · score 13 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x2ofew/futon_an_open_source_inference_engine_built/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/3y6i32uhyouh1.png>
 
@@ -1242,17 +1368,21 @@ Link: <https://i.redd.it/3y6i32uhyouh1.png>
 >
 > If something like it exists already, feel free to ignore, but I couldn't find a fit for purpose module that served my goal. I'll probably expand to other small model architectures as needed, such as decision models.
 
+<a id="post-64"></a>
+
 ### 64. I built RepoTunnel — an open-source bridge that lets ChatGPT Web conversation work with approved local repos, terminals and desktop tools
 
-2026-10-10 · u/FarAd1036 · score 11 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x2j2di/i_built_repotunnel_an_opensource_bridge_that_lets/)
+2026-10-10 · u/FarAd1036 · score 11 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x2j2di/i_built_repotunnel_an_opensource_bridge_that_lets/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/xjrkbe13znuh1>
 
 > I wanted ChatGPT to work with my real local projects without constantly copying files back and forth. RepoTunnel lets ChatGPT read/edit files, run commands, inspect code, debug problems, use Git, and work directly with approved projects on your computer. It works through your own HTTPS endpoint, and RepoTunnel itself adds no monthly connection/request quota. You can keep using your existing ChatGPT conversation without buying a separate OpenAI API key. GitHub: [https://github.com/Yashwanth034/RepoTunnel](https://github.com/Yashwanth034/RepoTunnel) Would love feedback from developers — especially what you’d add or improve.
 
+<a id="post-65"></a>
+
 ### 65. Wash - Full desktop env, only for the browser
 
-2026-10-25 · u/Academic-Award6136 · score 11 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xfgb5n/wash_full_desktop_env_only_for_the_browser/)
+2026-10-25 · u/Academic-Award6136 · score 11 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xfgb5n/wash_full_desktop_env_only_for_the_browser/) · [↑ back to the list](#last-50-posts)
 
 > I was banned from r/OpenSource. So, here I present my project ;-)
 >
@@ -1266,16 +1396,20 @@ Link: <https://v.redd.it/xjrkbe13znuh1>
 >
 > Take a look [https://sirmick.github.io/wash/](https://sirmick.github.io/wash/) code at [https://github.com/sirmick/wash](https://github.com/sirmick/wash) I hope it fits you too!
 
+<a id="post-66"></a>
+
 ### 66. Open-source agent tooling: frozen benchmarks of a planner/worker harness against native Codex and Claude Code
 
-2026-10-16 · u/TomatilloPutrid3939 · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x7u6pp/opensource_agent_tooling_frozen_benchmarks_of_a/)
+2026-10-16 · u/TomatilloPutrid3939 · score 11 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1x7u6pp/opensource_agent_tooling_frozen_benchmarks_of_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/htjo6gftpwvh1.png>
 
 
+<a id="post-67"></a>
+
 ### 67. Claude sped up a C compiler for making Super NES games.
 
-2026-10-29 · u/ass-gas-hotbox · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xin174/claude_sped_up_a_c_compiler_for_making_super_nes/)
+2026-10-29 · u/ass-gas-hotbox · score 11 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xin174/claude_sped_up_a_c_compiler_for_making_super_nes/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/vqimuvmacfyh1.png>
 
@@ -1287,9 +1421,11 @@ Link: <https://i.redd.it/vqimuvmacfyh1.png>
 >
 > Forked repo at [https://github.com/MicrogarbageLabs/tcc-6581SUCKS](https://github.com/MicrogarbageLabs/tcc-6581SUCKS)
 
+<a id="post-68"></a>
+
 ### 68. An AI assistant you don’t have to open
 
-2026-10-23 · u/David-Davey · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xda85k/an_ai_assistant_you_dont_have_to_open/)
+2026-10-23 · u/David-Davey · score 11 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xda85k/an_ai_assistant_you_dont_have_to_open/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/65j70l9s07xh1>
 
@@ -1306,9 +1442,11 @@ Link: <https://v.redd.it/65j70l9s07xh1>
 >
 > Would you actually want an AI assistant with a body or is a screen enough for you?
 
+<a id="post-69"></a>
+
 ### 69. Building a lightweight local search engine for AI agents in Rust: semantic retrieval, OCR, and MCP
 
-2026-10-27 · u/nothing-counts · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xgqxgi/building_a_lightweight_local_search_engine_for_ai/)
+2026-10-27 · u/nothing-counts · score 10 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/OpenSourceAI/comments/1xgqxgi/building_a_lightweight_local_search_engine_for_ai/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/edprzyqw40yh1>
 

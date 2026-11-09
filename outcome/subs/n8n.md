@@ -65,56 +65,56 @@ Status is read from the archive's two passes (about 20 seconds and 36 hours afte
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status | Mod comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-11-07 | [Demand Generation / BDE professional transitioning into AI Automation & GTM Engineering – looking for advice…](https://www.reddit.com/r/n8n/comments/1xq00v3/demand_generation_bde_professional_transitioning/) | u/Yuge-Stack-409 | Help | text | 2 | 7 | approved | — |
-| 2 | 2026-11-06 | [Built a Private, Zero-Data-Retention Contract Reviewer in n8n + Gemini (Catches $100 liability caps and IP tr…](https://www.reddit.com/r/n8n/comments/1xpmjq0/built_a_private_zerodataretention_contract/) | u/Murky-Sentence339 | Meta & n8n News | text | 1 | 1 | removed by mod | Your post was removed under **Rule 6: All Workflow and Video Posts Must Include the Code**. Video p… |
-| 3 | 2026-11-06 | [Why most n8n & automation workflows crash after a few weeks (and how to fix them permanently)](https://www.reddit.com/r/n8n/comments/1xpl25z/why_most_n8n_automation_workflows_crash_after_a/) | u/PhotographTop9194 | Help | i.redd.it | 0 | 1 | held by automod | — |
-| 4 | 2026-11-06 | [I got tired of Clay charging $495/mo and billing action fees on empty rows — so I built an open-source n8n wo…](https://www.reddit.com/r/n8n/comments/1xpigdr/i_got_tired_of_clay_charging_495mo_and_billing/) | u/ystudio3d | Workflow - Github Included | text | 0 | 4 | live | — |
-| 5 | 2026-11-06 | [My n8n AI email assistant silently skipped 15 of 64 emails in 10 days. Here's why](https://www.reddit.com/r/n8n/comments/1xphlx5/my_n8n_ai_email_assistant_silently_skipped_15_of/) | u/BuildThenBreakHQ | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
-| 6 | 2026-11-06 | [Advicee](https://www.reddit.com/r/n8n/comments/1xphhi3/advicee/) | u/ayayayayayay123 | Help | text | 1 | 1 | held by automod | Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is ab… |
-| 7 | 2026-11-06 | [Antigravity jako Chat Model dla AI Agent w n8n](https://www.reddit.com/r/n8n/comments/1xpgu8o/antigravity_jako_chat_model_dla_ai_agent_w_n8n/) | u/pilur_boss | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
-| 8 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](https://www.reddit.com/r/n8n/comments/1xpe08r/what_actually_changed_when_i_moved_a_client/) | u/easybits_ai | Servers, Hosting, & Tech Stuff | text | 0 | 6 | live | — |
-| 9 | 2026-11-06 | [Career-changer going all-in on automation for SMEs — does this learning path actually make sense?](https://www.reddit.com/r/n8n/comments/1xp9zon/careerchanger_going_allin_on_automation_for_smes/) | u/ConsistentWelder1354 | Help | text | 10 | 12 | live | — |
-| 10 | 2026-11-06 | [Free: query YouTube from n8n without burning your Data API quota (HTTP Request node only)](https://www.reddit.com/r/n8n/comments/1xp9oeh/free_query_youtube_from_n8n_without_burning_your/) | u/Own-Version8188 | Workflow - Github Included | text | 0 | 1 | removed by mod | — |
-| 11 | 2026-11-06 | [For those already selling automation to marketing agencies](https://www.reddit.com/r/n8n/comments/1xp8r3n/for_those_already_selling_automation_to_marketing/) | u/ShivaCodex | Help | text | 1 | 1 | held by automod | Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is ab… |
-| 12 | 2026-11-06 | [I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke](https://www.reddit.com/r/n8n/comments/1xp8qhb/i_run_a_cve_feed_on_n8n_where_the_llm_isnt/) | u/schwartzioz | Servers, Hosting, & Tech Stuff | text | 1 | 0 | spam-filtered | — |
-| 13 | 2026-11-06 | [n8n: I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke](https://www.reddit.com/r/n8n/comments/1xp8eyt/n8n_i_run_a_cve_feed_on_n8n_where_the_llm_isnt/) | u/schwartzioz | Servers, Hosting, & Tech Stuff | text | 1 | 0 | live | — |
-| 14 | 2026-11-06 | [Telegram Trigger not receiving any incoming messages or test events](https://www.reddit.com/r/n8n/comments/1xp8e67/telegram_trigger_not_receiving_any_incoming/) | u/Rude_Emu_2895 | Meta & n8n News | text | 7 | 20 | spam-filtered | — |
-| 15 | 2026-11-06 | [Crypto price-level alerts in n8n that fire once and re-arm](https://www.reddit.com/r/n8n/comments/1xp7hb9/crypto_pricelevel_alerts_in_n8n_that_fire_once/) | u/pjamourik | Workflow - Github Included | text | 5 | 15 | live | — |
-| 16 | 2026-11-06 | [I got lazy approving agent actions, so i started taking tools away instead](https://www.reddit.com/r/n8n/comments/1xp4vs0/i_got_lazy_approving_agent_actions_so_i_started/) | u/austin_patterson_43 | Workflow - Github Included | text | 0 | 1 | removed by mod | — |
-| 17 | 2026-11-06 | [what's the last client workflow that broke in a way you couldn't fix yourself, and what did you end up doing…](https://www.reddit.com/r/n8n/comments/1xp4e57/whats_the_last_client_workflow_that_broke_in_a/) | u/mtsya | Servers, Hosting, & Tech Stuff | text | 3 | 13 | live | — |
-| 18 | 2026-11-06 | [I built a tool that scans your agent repo, scores how much damage it could do, then auto-drafts a governance…](https://www.reddit.com/r/n8n/comments/1xp3w46/i_built_a_tool_that_scans_your_agent_repo_scores/) | u/Trout_dev | Workflow - Github Included | text | 0 | 1 | live | — |
-| 19 | 2026-11-06 | [2D or 3D animation AI?](https://www.reddit.com/r/n8n/comments/1xp3jvy/2d_or_3d_animation_ai/) | u/Alarmed-Cake8412 | Help | text | 2 | 1 | live | — |
-| 20 | 2026-11-06 | [Beginner Form → Gemini Information Extractor → Google Sheets append (plus Gmail self-notify) — importable wor…](https://www.reddit.com/r/n8n/comments/1xp3cjh/beginner_form_gemini_information_extractor_google/) | u/Impossible_Drink4771 | Workflow - Github Included | text | 4 | 6 | live | — |
-| 21 | 2026-11-06 | [No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recom…](https://www.reddit.com/r/n8n/comments/1xoym93/no_tech_or_coding_background_want_to_learn_ai/) | u/JuicyVanilla23 | Help | text | 3 | 13 | live | — |
-| 22 | 2026-11-05 | [How we eliminated silent webhook drops between Stripe & HubSpot in n8n (Full architecture + dead-letter queue…](https://www.reddit.com/r/n8n/comments/1xosnxv/how_we_eliminated_silent_webhook_drops_between/) | u/mynameisammy | Servers, Hosting, & Tech Stuff | text | 4 | 2 | live | — |
-| 23 | 2026-11-05 | [I renamed an n8n node and something downstream broke silently, so I built a free tool that lists what referen…](https://www.reddit.com/r/n8n/comments/1xoqg5q/i_renamed_an_n8n_node_and_something_downstream/) | u/omert-dev | Workflow - Github Included | reddit.com | 2 | 8 | live | — |
-| 24 | 2026-11-05 | ["The agent has access" is not a security model. Here's the layer I built instead](https://www.reddit.com/r/n8n/comments/1xooo2g/the_agent_has_access_is_not_a_security_model/) | u/Trout_dev | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
-| 25 | 2026-11-05 | [get ALL posts and comments matching a keyword?](https://www.reddit.com/r/n8n/comments/1xoms2t/get_all_posts_and_comments_matching_a_keyword/) | u/Feeling-Plane3434 | Help | text | 6 | 5 | live | — |
-| 26 | 2026-11-05 | [Human-in-the-loop lead replies: draft → approve/edit in Slack → Gmail → Sheets log (no AI key required)](https://www.reddit.com/r/n8n/comments/1xolexg/humanintheloop_lead_replies_draft_approveedit_in/) | u/Solokit_Studio | Workflow - Github Included | text | 0 | 3 | live | — |
-| 27 | 2026-11-05 | [What's the hardest part of maintaining n8n workflows in production?](https://www.reddit.com/r/n8n/comments/1xokzu9/whats_the_hardest_part_of_maintaining_n8n/) | u/Local-Possibility840 | Meta & n8n News | text | 1 | 1 | held by automod | Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is… |
-| 28 | 2026-11-05 | [WhatsApp Coexistence (same number in the Business app and the API): what changes for the client, per Meta's d…](https://www.reddit.com/r/n8n/comments/1xojmu3/whatsapp_coexistence_same_number_in_the_business/) | u/Capivara_37 | Help | text | 2 | 2 | live | — |
-| 29 | 2026-11-05 | [I built an n8n AI Agent that drafts Gmail replies with Gemini (never sends, beginner friendly)](https://www.reddit.com/r/n8n/comments/1xoj4s4/i_built_an_n8n_ai_agent_that_drafts_gmail_replies/) | u/Impossible_Drink4771 | Workflow - Github Included | text | 5 | 9 | live | — |
-| 30 | 2026-11-05 | [How do you stop a retried webhook from creating duplicate CRM contacts?](https://www.reddit.com/r/n8n/comments/1xoishz/how_do_you_stop_a_retried_webhook_from_creating/) | u/ankitrajvanshi | Help | text | 1 | 1 | spam-filtered | — |
-| 31 | 2026-11-05 | [Turn any YouTuber into an AI agent (&lt](https://www.reddit.com/r/n8n/comments/1xoil0r/turn_any_youtuber_into_an_ai_agent_lt/) | u/reirosy | Meta & n8n News | i.redd.it | 0 | 1 | held by automod | — |
-| 32 | 2026-11-05 | [How is a audit trail implemented in a self hosted setup](https://www.reddit.com/r/n8n/comments/1xoh60y/how_is_a_audit_trail_implemented_in_a_self_hosted/) | u/Key-Marionberry5978 | Help | text | 2 | 17 | live | — |
-| 33 | 2026-11-05 | [n8n builders working with WhatsApp Business API, what breaks the most?](https://www.reddit.com/r/n8n/comments/1xogmh5/n8n_builders_working_with_whatsapp_business_api/) | u/Shot_Passenger6240 | Help | text | 12 | 20 | live | — |
-| 34 | 2026-11-05 | [A vet tested my AI voice receptionist with the scariest call possible. It failed in a way I didn’t expect.](https://www.reddit.com/r/n8n/comments/1xogku8/a_vet_tested_my_ai_voice_receptionist_with_the/) | u/Aristeidisp | Help | text | 13 | 42 | live | — |
-| 35 | 2026-11-05 | [I Built 15+ AI Automation Workflows but Still No Job Offers. Need Honest Advice.](https://www.reddit.com/r/n8n/comments/1xoex3d/i_built_15_ai_automation_workflows_but_still_no/) | u/Jayaprakash63 | Help | text | 4 | 13 | live | — |
-| 36 | 2026-11-05 | [How do you tell "webhook never arrived" apart from "arrived but the workflow didn't run"?](https://www.reddit.com/r/n8n/comments/1xoe8uc/how_do_you_tell_webhook_never_arrived_apart_from/) | u/HookWatchOps | Help | text | 1 | 1 | spam-filtered | — |
-| 37 | 2026-11-05 | [\[Workflow\] Google Maps leads with emails into Google Sheets, deduped on placeId (Apify + HTTP Request)](https://www.reddit.com/r/n8n/comments/1xodvkc/workflow_google_maps_leads_with_emails_into/) | u/Chemical_Ice3627 | Workflow - Github Included | text | 1 | 4 | approved | — |
-| 38 | 2026-11-05 | [business system integration for agent monitoring system](https://www.reddit.com/r/n8n/comments/1xocti0/business_system_integration_for_agent_monitoring/) | u/Ok-Machine7983 | Help | text | 1 | 4 | live | — |
-| 39 | 2026-11-05 | [Don't think twice, it's alright](https://www.reddit.com/r/n8n/comments/1xocllb/dont_think_twice_its_alright/) | u/Mind_Distinct | Workflow - Github Included | text | 3 | 10 | live | — |
-| 40 | 2026-11-05 | [N8N Google Calls](https://www.reddit.com/r/n8n/comments/1xo580w/n8n_google_calls/) | u/Convos2Remember | Help | text | 2 | 10 | live | — |
-| 41 | 2026-11-04 | [My n8n outbound engine: Clay bridge, Neon sync and an idempotent HubSpot outbox with zero Code nodes](https://www.reddit.com/r/n8n/comments/1xo0tdr/my_n8n_outbound_engine_clay_bridge_neon_sync_and/) | u/Alarmed-Sector-6427 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
-| 42 | 2026-11-04 | [I built a tool that turns your n8n workflow into a paid web app. Looking for 20 beta testers](https://www.reddit.com/r/n8n/comments/1xnw9ic/i_built_a_tool_that_turns_your_n8n_workflow_into/) | u/autolaunchy | Now Hiring or Looking for Cof… | text | 1 | 0 | removed by mod | — |
-| 43 | 2026-11-04 | [How easy is n8n for someone who is not technical?](https://www.reddit.com/r/n8n/comments/1xnuzyc/how_easy_is_n8n_for_someone_who_is_not_technical/) | u/CuriousClara_25 | Help | text | 13 | 30 | live | — |
-| 44 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](https://www.reddit.com/r/n8n/comments/1xnuize/telegram_webhook_not_receiving_updates_or/) | u/Rude_Emu_2895 | Meta & n8n News | text | 1 | 1 | held by automod | Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is… |
-| 45 | 2026-11-04 | [How many Code nodes are in your average workflow?](https://www.reddit.com/r/n8n/comments/1xnt099/how_many_code_nodes_are_in_your_average_workflow/) | u/easybits_ai | Servers, Hosting, & Tech Stuff | text | 1 | 1 | held by automod | — |
-| 46 | 2026-11-04 | [Open-source HTML-to-MP4 render API for n8n — self-hosted alternative to Shotstack / Creatomate (HyperFrames)](https://www.reddit.com/r/n8n/comments/1xnszlv/opensource_htmltomp4_render_api_for_n8n/) | u/boubouble82 | Workflow - Github Included | text | 1 | 1 | held by automod | — |
-| 47 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](https://www.reddit.com/r/n8n/comments/1xnsc6x/telegram_webhook_not_receiving_updates_or/) | u/Rude_Emu_2895 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
-| 48 | 2026-11-04 | [I've been using Hermes to create and run n8n workflows](https://www.reddit.com/r/n8n/comments/1xns2p2/ive_been_using_hermes_to_create_and_run_n8n/) | u/SmoothieCookies | Servers, Hosting, & Tech Stuff | text | 9 | 5 | live | — |
-| 49 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](https://www.reddit.com/r/n8n/comments/1xns21s/telegram_webhook_not_receiving_updates_or/) | u/Rude_Emu_2895 | Help | text | 0 | 2 | approved | — |
-| 50 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](https://www.reddit.com/r/n8n/comments/1xnrjbj/telegram_webhook_not_receiving_updates_or/) | u/Rude_Emu_2895 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 1 | 2026-11-07 | [Demand Generation / BDE professional transitioning into AI Automation & GTM Engineering – looking for advice…](#post-1) | u/Yuge-Stack-409 | Help | text | 2 | 7 | approved | — |
+| 2 | 2026-11-06 | [Built a Private, Zero-Data-Retention Contract Reviewer in n8n + Gemini (Catches $100 liability caps and IP tr…](#post-2) | u/Murky-Sentence339 | Meta & n8n News | text | 1 | 1 | removed by mod | Your post was removed under **Rule 6: All Workflow and Video Posts Must Include the Code**. Video p… |
+| 3 | 2026-11-06 | [Why most n8n & automation workflows crash after a few weeks (and how to fix them permanently)](#post-3) | u/PhotographTop9194 | Help | i.redd.it | 0 | 1 | held by automod | — |
+| 4 | 2026-11-06 | [I got tired of Clay charging $495/mo and billing action fees on empty rows — so I built an open-source n8n wo…](#post-4) | u/ystudio3d | Workflow - Github Included | text | 0 | 4 | live | — |
+| 5 | 2026-11-06 | [My n8n AI email assistant silently skipped 15 of 64 emails in 10 days. Here's why](#post-5) | u/BuildThenBreakHQ | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 6 | 2026-11-06 | [Advicee](#post-6) | u/ayayayayayay123 | Help | text | 1 | 1 | held by automod | Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is ab… |
+| 7 | 2026-11-06 | [Antigravity jako Chat Model dla AI Agent w n8n](#post-7) | u/pilur_boss | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 8 | 2026-11-06 | [What actually changed when I moved a client workflow from Sheets to a real database](#post-8) | u/easybits_ai | Servers, Hosting, & Tech Stuff | text | 0 | 6 | live | — |
+| 9 | 2026-11-06 | [Career-changer going all-in on automation for SMEs — does this learning path actually make sense?](#post-9) | u/ConsistentWelder1354 | Help | text | 10 | 12 | live | — |
+| 10 | 2026-11-06 | [Free: query YouTube from n8n without burning your Data API quota (HTTP Request node only)](#post-10) | u/Own-Version8188 | Workflow - Github Included | text | 0 | 1 | removed by mod | — |
+| 11 | 2026-11-06 | [For those already selling automation to marketing agencies](#post-11) | u/ShivaCodex | Help | text | 1 | 1 | held by automod | Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is ab… |
+| 12 | 2026-11-06 | [I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke](#post-12) | u/schwartzioz | Servers, Hosting, & Tech Stuff | text | 1 | 0 | spam-filtered | — |
+| 13 | 2026-11-06 | [n8n: I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke](#post-13) | u/schwartzioz | Servers, Hosting, & Tech Stuff | text | 1 | 0 | live | — |
+| 14 | 2026-11-06 | [Telegram Trigger not receiving any incoming messages or test events](#post-14) | u/Rude_Emu_2895 | Meta & n8n News | text | 7 | 20 | spam-filtered | — |
+| 15 | 2026-11-06 | [Crypto price-level alerts in n8n that fire once and re-arm](#post-15) | u/pjamourik | Workflow - Github Included | text | 5 | 15 | live | — |
+| 16 | 2026-11-06 | [I got lazy approving agent actions, so i started taking tools away instead](#post-16) | u/austin_patterson_43 | Workflow - Github Included | text | 0 | 1 | removed by mod | — |
+| 17 | 2026-11-06 | [what's the last client workflow that broke in a way you couldn't fix yourself, and what did you end up doing…](#post-17) | u/mtsya | Servers, Hosting, & Tech Stuff | text | 3 | 13 | live | — |
+| 18 | 2026-11-06 | [I built a tool that scans your agent repo, scores how much damage it could do, then auto-drafts a governance…](#post-18) | u/Trout_dev | Workflow - Github Included | text | 0 | 1 | live | — |
+| 19 | 2026-11-06 | [2D or 3D animation AI?](#post-19) | u/Alarmed-Cake8412 | Help | text | 2 | 1 | live | — |
+| 20 | 2026-11-06 | [Beginner Form → Gemini Information Extractor → Google Sheets append (plus Gmail self-notify) — importable wor…](#post-20) | u/Impossible_Drink4771 | Workflow - Github Included | text | 4 | 6 | live | — |
+| 21 | 2026-11-06 | [No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recom…](#post-21) | u/JuicyVanilla23 | Help | text | 3 | 13 | live | — |
+| 22 | 2026-11-05 | [How we eliminated silent webhook drops between Stripe & HubSpot in n8n (Full architecture + dead-letter queue…](#post-22) | u/mynameisammy | Servers, Hosting, & Tech Stuff | text | 4 | 2 | live | — |
+| 23 | 2026-11-05 | [I renamed an n8n node and something downstream broke silently, so I built a free tool that lists what referen…](#post-23) | u/omert-dev | Workflow - Github Included | reddit.com | 2 | 8 | live | — |
+| 24 | 2026-11-05 | ["The agent has access" is not a security model. Here's the layer I built instead](#post-24) | u/Trout_dev | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 25 | 2026-11-05 | [get ALL posts and comments matching a keyword?](#post-25) | u/Feeling-Plane3434 | Help | text | 6 | 5 | live | — |
+| 26 | 2026-11-05 | [Human-in-the-loop lead replies: draft → approve/edit in Slack → Gmail → Sheets log (no AI key required)](#post-26) | u/Solokit_Studio | Workflow - Github Included | text | 0 | 3 | live | — |
+| 27 | 2026-11-05 | [What's the hardest part of maintaining n8n workflows in production?](#post-27) | u/Local-Possibility840 | Meta & n8n News | text | 1 | 1 | held by automod | Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is… |
+| 28 | 2026-11-05 | [WhatsApp Coexistence (same number in the Business app and the API): what changes for the client, per Meta's d…](#post-28) | u/Capivara_37 | Help | text | 2 | 2 | live | — |
+| 29 | 2026-11-05 | [I built an n8n AI Agent that drafts Gmail replies with Gemini (never sends, beginner friendly)](#post-29) | u/Impossible_Drink4771 | Workflow - Github Included | text | 5 | 9 | live | — |
+| 30 | 2026-11-05 | [How do you stop a retried webhook from creating duplicate CRM contacts?](#post-30) | u/ankitrajvanshi | Help | text | 1 | 1 | spam-filtered | — |
+| 31 | 2026-11-05 | [Turn any YouTuber into an AI agent (&lt](#post-31) | u/reirosy | Meta & n8n News | i.redd.it | 0 | 1 | held by automod | — |
+| 32 | 2026-11-05 | [How is a audit trail implemented in a self hosted setup](#post-32) | u/Key-Marionberry5978 | Help | text | 2 | 17 | live | — |
+| 33 | 2026-11-05 | [n8n builders working with WhatsApp Business API, what breaks the most?](#post-33) | u/Shot_Passenger6240 | Help | text | 12 | 20 | live | — |
+| 34 | 2026-11-05 | [A vet tested my AI voice receptionist with the scariest call possible. It failed in a way I didn’t expect.](#post-34) | u/Aristeidisp | Help | text | 13 | 42 | live | — |
+| 35 | 2026-11-05 | [I Built 15+ AI Automation Workflows but Still No Job Offers. Need Honest Advice.](#post-35) | u/Jayaprakash63 | Help | text | 4 | 13 | live | — |
+| 36 | 2026-11-05 | [How do you tell "webhook never arrived" apart from "arrived but the workflow didn't run"?](#post-36) | u/HookWatchOps | Help | text | 1 | 1 | spam-filtered | — |
+| 37 | 2026-11-05 | [\[Workflow\] Google Maps leads with emails into Google Sheets, deduped on placeId (Apify + HTTP Request)](#post-37) | u/Chemical_Ice3627 | Workflow - Github Included | text | 1 | 4 | approved | — |
+| 38 | 2026-11-05 | [business system integration for agent monitoring system](#post-38) | u/Ok-Machine7983 | Help | text | 1 | 4 | live | — |
+| 39 | 2026-11-05 | [Don't think twice, it's alright](#post-39) | u/Mind_Distinct | Workflow - Github Included | text | 3 | 10 | live | — |
+| 40 | 2026-11-05 | [N8N Google Calls](#post-40) | u/Convos2Remember | Help | text | 2 | 10 | live | — |
+| 41 | 2026-11-04 | [My n8n outbound engine: Clay bridge, Neon sync and an idempotent HubSpot outbox with zero Code nodes](#post-41) | u/Alarmed-Sector-6427 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 42 | 2026-11-04 | [I built a tool that turns your n8n workflow into a paid web app. Looking for 20 beta testers](#post-42) | u/autolaunchy | Now Hiring or Looking for Cof… | text | 1 | 0 | removed by mod | — |
+| 43 | 2026-11-04 | [How easy is n8n for someone who is not technical?](#post-43) | u/CuriousClara_25 | Help | text | 13 | 30 | live | — |
+| 44 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](#post-44) | u/Rude_Emu_2895 | Meta & n8n News | text | 1 | 1 | held by automod | Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is… |
+| 45 | 2026-11-04 | [How many Code nodes are in your average workflow?](#post-45) | u/easybits_ai | Servers, Hosting, & Tech Stuff | text | 1 | 1 | held by automod | — |
+| 46 | 2026-11-04 | [Open-source HTML-to-MP4 render API for n8n — self-hosted alternative to Shotstack / Creatomate (HyperFrames)](#post-46) | u/boubouble82 | Workflow - Github Included | text | 1 | 1 | held by automod | — |
+| 47 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](#post-47) | u/Rude_Emu_2895 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
+| 48 | 2026-11-04 | [I've been using Hermes to create and run n8n workflows](#post-48) | u/SmoothieCookies | Servers, Hosting, & Tech Stuff | text | 9 | 5 | live | — |
+| 49 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](#post-49) | u/Rude_Emu_2895 | Help | text | 0 | 2 | approved | — |
+| 50 | 2026-11-04 | [Telegram Webhook not receiving updates or triggering workflow](#post-50) | u/Rude_Emu_2895 | Workflow - Github Included | text | 1 | 1 | removed by mod | — |
 
 ## Top 20 posts, last 30 days
 
@@ -122,34 +122,36 @@ Posts that stayed live, by score.
 
 | # | Date | Title | Author | Flair | Link | Score | Comments | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | 2026-10-28 | [I built an n8n pipeline that automates SEO content from keyword research to finished blog posts](https://www.reddit.com/r/n8n/comments/1xhfp22/i_built_an_n8n_pipeline_that_automates_seo/) | u/cuebicai | Workflow - Github Included | i.redd.it | 129 | 17 | live |
-| 52 | 2026-11-02 | [I built a full social media pipeline on n8n: news → LLM drafts → Telegram approval → X/Facebook (self-hosted,…](https://www.reddit.com/r/n8n/comments/1xm1l8o/i_built_a_full_social_media_pipeline_on_n8n_news/) | u/Organic_Explorer1186 | Workflow - Github Included | reddit.com | 81 | 18 | live |
-| 53 | 2026-10-11 | [I got tired of researching keywords manually, so I built this n8n workflow](https://www.reddit.com/r/n8n/comments/1x2yb1l/i_got_tired_of_researching_keywords_manually_so_i/) | u/cuebicai | Workflow - Github Included | reddit.com | 54 | 10 | live |
-| 54 | 2026-10-20 | [What's the most random thing you have automated in n8n that actually turned out to be a great success?](https://www.reddit.com/r/n8n/comments/1xalzu8/whats_the_most_random_thing_you_have_automated_in/) | u/JuicerSocial | Help | text | 51 | 34 | live |
-| 55 | 2026-11-03 | [Claude Code, Grok everywhere, what about n8n nowadays?](https://www.reddit.com/r/n8n/comments/1xn5zzy/claude_code_grok_everywhere_what_about_n8n/) | u/Beginning_Search585 | Help | text | 45 | 74 | live |
-| 56 | 2026-10-27 | [Built a full AI system for a US Airbnb with lead capture, voice booking, guest support and property managemen…](https://www.reddit.com/r/n8n/comments/1xgwn9e/built_a_full_ai_system_for_a_us_airbnb_with_lead/) | u/_no__regrets_ | Workflow - Github Included | reddit.com | 41 | 7 | live |
-| 57 | 2026-10-17 | [We have AI that can do incredible things, yet some small businesses still spend hours managing their books ma…](https://www.reddit.com/r/n8n/comments/1x8m125/we_have_ai_that_can_do_incredible_things_yet_some/) | u/Temporary_Ad7810 | Workflow - Github Included | i.redd.it | 41 | 7 | live |
-| 58 | 2026-11-03 | [My self-hosted n8n runs 25 workflows for my business, and most of the AI in them is local](https://www.reddit.com/r/n8n/comments/1xme0ua/my_selfhosted_n8n_runs_25_workflows_for_my/) | u/EryumT | Servers, Hosting, & Tech Stuff | text | 36 | 18 | live |
-| 59 | 2026-10-25 | [n8n learned, now what? What technical skills are worth building over the next 2 years?](https://www.reddit.com/r/n8n/comments/1xf9jrb/n8n_learned_now_what_what_technical_skills_are/) | u/Equivalent_Title_299 | Help | text | 32 | 39 | live |
-| 60 | 2026-10-20 | [I built an n8n pipeline that researches, plans, writes, and generates images for blog articles](https://www.reddit.com/r/n8n/comments/1xakck5/i_built_an_n8n_pipeline_that_researches_plans/) | u/cuebicai | Workflow - Github Included | reddit.com | 32 | 8 | live |
-| 61 | 2026-10-27 | [New Customer and Shipping Tracker](https://www.reddit.com/r/n8n/comments/1xgp5ms/new_customer_and_shipping_tracker/) | u/jackybacksy3636 | Help | reddit.com | 29 | 14 | live |
-| 62 | 2026-10-31 | [How are you handling dynamic PDF generation in n8n workflows ?](https://www.reddit.com/r/n8n/comments/1xkbomd/how_are_you_handling_dynamic_pdf_generation_in/) | u/Moukouk | Help | text | 23 | 18 | live |
-| 63 | 2026-10-23 | ["Build your first AI agent", the n8n template with 1.2M views, explained node by node on its own canvas](https://www.reddit.com/r/n8n/comments/1xdfgie/build_your_first_ai_agent_the_n8n_template_with/) | u/Fresh-Daikon-9408 | Workflow - Github Included | v.redd.it | 23 | 2 | live |
-| 64 | 2026-10-21 | [Brand Refresh! n8n got a new look!](https://www.reddit.com/r/n8n/comments/1xb9lz9/brand_refresh_n8n_got_a_new_look/) | u/FIDST | Meta & n8n News | text | 22 | 21 | live |
-| 65 | 2026-10-30 | [For those actually making money building apps, AI automations, or software — how did you turn your skills int…](https://www.reddit.com/r/n8n/comments/1xj3aep/for_those_actually_making_money_building_apps_ai/) | u/ape_dong | Servers, Hosting, & Tech Stuff | text | 21 | 15 | live |
-| 66 | 2026-11-04 | [Title: Looking for Someone Experienced in Gmail Automation – Need Help Setting Up Workflows](https://www.reddit.com/r/n8n/comments/1xnojw5/title_looking_for_someone_experienced_in_gmail/) | u/Electrical-Truck-912 | Help | text | 19 | 52 | live |
-| 67 | 2026-10-20 | [How do you get Claude Code to build complex n8n workflows that actually work?](https://www.reddit.com/r/n8n/comments/1xb5k2h/how_do_you_get_claude_code_to_build_complex_n8n/) | u/theripplefx | Help | text | 19 | 32 | live |
-| 68 | 2026-10-22 | [How to be very good at automation that i becomes second nature?](https://www.reddit.com/r/n8n/comments/1xcn7ua/how_to_be_very_good_at_automation_that_i_becomes/) | u/Any-Revolution1007 | Help | text | 17 | 30 | live |
-| 69 | 2026-10-13 | [I’ve built some ready-to-use automations. Where can I list them so people can find and buy them?](https://www.reddit.com/r/n8n/comments/1x4r0h9/ive_built_some_readytouse_automations_where_can_i/) | u/Zaid_1602 | Help | text | 15 | 8 | live |
-| 70 | 2026-11-01 | [Five nodes, and an empty return instead of an If: PlannedPage Studio's n8n template for a keyword-filtered RS…](https://www.reddit.com/r/n8n/comments/1xkx193/five_nodes_and_an_empty_return_instead_of_an_if/) | u/Fresh-Daikon-9408 | Workflow - Github Included | v.redd.it | 15 | 2 | live |
+| 51 | 2026-10-28 | [I built an n8n pipeline that automates SEO content from keyword research to finished blog posts](#post-51) | u/cuebicai | Workflow - Github Included | i.redd.it | 129 | 17 | live |
+| 52 | 2026-11-02 | [I built a full social media pipeline on n8n: news → LLM drafts → Telegram approval → X/Facebook (self-hosted,…](#post-52) | u/Organic_Explorer1186 | Workflow - Github Included | reddit.com | 81 | 18 | live |
+| 53 | 2026-10-11 | [I got tired of researching keywords manually, so I built this n8n workflow](#post-53) | u/cuebicai | Workflow - Github Included | reddit.com | 54 | 10 | live |
+| 54 | 2026-10-20 | [What's the most random thing you have automated in n8n that actually turned out to be a great success?](#post-54) | u/JuicerSocial | Help | text | 51 | 34 | live |
+| 55 | 2026-11-03 | [Claude Code, Grok everywhere, what about n8n nowadays?](#post-55) | u/Beginning_Search585 | Help | text | 45 | 74 | live |
+| 56 | 2026-10-27 | [Built a full AI system for a US Airbnb with lead capture, voice booking, guest support and property managemen…](#post-56) | u/_no__regrets_ | Workflow - Github Included | reddit.com | 41 | 7 | live |
+| 57 | 2026-10-17 | [We have AI that can do incredible things, yet some small businesses still spend hours managing their books ma…](#post-57) | u/Temporary_Ad7810 | Workflow - Github Included | i.redd.it | 41 | 7 | live |
+| 58 | 2026-11-03 | [My self-hosted n8n runs 25 workflows for my business, and most of the AI in them is local](#post-58) | u/EryumT | Servers, Hosting, & Tech Stuff | text | 36 | 18 | live |
+| 59 | 2026-10-25 | [n8n learned, now what? What technical skills are worth building over the next 2 years?](#post-59) | u/Equivalent_Title_299 | Help | text | 32 | 39 | live |
+| 60 | 2026-10-20 | [I built an n8n pipeline that researches, plans, writes, and generates images for blog articles](#post-60) | u/cuebicai | Workflow - Github Included | reddit.com | 32 | 8 | live |
+| 61 | 2026-10-27 | [New Customer and Shipping Tracker](#post-61) | u/jackybacksy3636 | Help | reddit.com | 29 | 14 | live |
+| 62 | 2026-10-31 | [How are you handling dynamic PDF generation in n8n workflows ?](#post-62) | u/Moukouk | Help | text | 23 | 18 | live |
+| 63 | 2026-10-23 | ["Build your first AI agent", the n8n template with 1.2M views, explained node by node on its own canvas](#post-63) | u/Fresh-Daikon-9408 | Workflow - Github Included | v.redd.it | 23 | 2 | live |
+| 64 | 2026-10-21 | [Brand Refresh! n8n got a new look!](#post-64) | u/FIDST | Meta & n8n News | text | 22 | 21 | live |
+| 65 | 2026-10-30 | [For those actually making money building apps, AI automations, or software — how did you turn your skills int…](#post-65) | u/ape_dong | Servers, Hosting, & Tech Stuff | text | 21 | 15 | live |
+| 66 | 2026-11-04 | [Title: Looking for Someone Experienced in Gmail Automation – Need Help Setting Up Workflows](#post-66) | u/Electrical-Truck-912 | Help | text | 19 | 52 | live |
+| 67 | 2026-10-20 | [How do you get Claude Code to build complex n8n workflows that actually work?](#post-67) | u/theripplefx | Help | text | 19 | 32 | live |
+| 68 | 2026-10-22 | [How to be very good at automation that i becomes second nature?](#post-68) | u/Any-Revolution1007 | Help | text | 17 | 30 | live |
+| 69 | 2026-10-13 | [I’ve built some ready-to-use automations. Where can I list them so people can find and buy them?](#post-69) | u/Zaid_1602 | Help | text | 15 | 8 | live |
+| 70 | 2026-11-01 | [Five nodes, and an empty return instead of an If: PlannedPage Studio's n8n template for a keyword-filtered RS…](#post-70) | u/Fresh-Daikon-9408 | Workflow - Github Included | v.redd.it | 15 | 2 | live |
 
 ## Full text
 
 Every post from the two tables above, numbered as in their **#** column, with its text as the archive read it about 20 seconds after posting. Removed posts usually have no text left.
 
+<a id="post-1"></a>
+
 ### 1. Demand Generation / BDE professional transitioning into AI Automation & GTM Engineering – looking for advice from experienced people
 
-2026-11-07 · u/Yuge-Stack-409 · Help · score 2 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xq00v3/demand_generation_bde_professional_transitioning/)
+2026-11-07 · u/Yuge-Stack-409 · Help · score 2 · 7 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xq00v3/demand_generation_bde_professional_transitioning/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -201,25 +203,31 @@ Every post from the two tables above, numbered as in their **#** column, with it
 >
 > Thanks in advance!
 
+<a id="post-2"></a>
+
 ### 2. Built a Private, Zero-Data-Retention Contract Reviewer in n8n + Gemini (Catches $100 liability caps and IP traps in 15s) — Free Blueprint
 
-2026-11-06 · u/Murky-Sentence339 · Meta & n8n News · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpmjq0/built_a_private_zerodataretention_contract/)
+2026-11-06 · u/Murky-Sentence339 · Meta & n8n News · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpmjq0/built_a_private_zerodataretention_contract/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Your post was removed under **Rule 6: All Workflow and Video Posts Must Include the Code**. Video posts must include the workflow code in the Reddit post body itself -- a link in the video description does not count. Edit your post to add a link to: * A GitHub repo or Gist * n8n.io/workflows/ Then [message the mods](https://www.reddit.com/message/compose?to=/r/n8n) for re-approval.
 
+<a id="post-3"></a>
+
 ### 3. Why most n8n & automation workflows crash after a few weeks (and how to fix them permanently)
 
-2026-11-06 · u/PhotographTop9194 · Help · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpl25z/why_most_n8n_automation_workflows_crash_after_a/)
+2026-11-06 · u/PhotographTop9194 · Help · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpl25z/why_most_n8n_automation_workflows_crash_after_a/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-4"></a>
+
 ### 4. I got tired of Clay charging $495/mo and billing action fees on empty rows — so I built an open-source n8n workflow that pre-filters ATS hiring signals before scraping \[JSON + GitHub inside\]
 
-2026-11-06 · u/ystudio3d · Workflow - Github Included · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpigdr/i_got_tired_of_clay_charging_495mo_and_billing/)
+2026-11-06 · u/ystudio3d · Workflow - Github Included · score 0 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpigdr/i_got_tired_of_clay_charging_495mo_and_billing/) · [↑ back to the list](#last-50-posts)
 
 > If you run B2B enrichment or lead scoring in n8n, you've probably hit this exact pain point:
 >
@@ -253,29 +261,37 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > Would love feedback from fellow n8n builders: Which ATS providers or intent signals would you like to see added in the next release?
 
+<a id="post-5"></a>
+
 ### 5. My n8n AI email assistant silently skipped 15 of 64 emails in 10 days. Here's why
 
-2026-11-06 · u/BuildThenBreakHQ · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xphlx5/my_n8n_ai_email_assistant_silently_skipped_15_of/)
+2026-11-06 · u/BuildThenBreakHQ · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xphlx5/my_n8n_ai_email_assistant_silently_skipped_15_of/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-6"></a>
+
 ### 6. Advicee
 
-2026-11-06 · u/ayayayayayay123 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xphhi3/advicee/)
+2026-11-06 · u/ayayayayayay123 · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xphhi3/advicee/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is about running an automation agency, finding clients, or pricing services. r/n8n focuses on building with n8n -- for the business side, try r/freelance or r/Entrepreneur. If caught in error, [message the mods](https://www.reddit.com/message/compose?to=/r/n8n).
 
+<a id="post-7"></a>
+
 ### 7. Antigravity jako Chat Model dla AI Agent w n8n
 
-2026-11-06 · u/pilur_boss · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpgu8o/antigravity_jako_chat_model_dla_ai_agent_w_n8n/)
+2026-11-06 · u/pilur_boss · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpgu8o/antigravity_jako_chat_model_dla_ai_agent_w_n8n/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-8"></a>
+
 ### 8. What actually changed when I moved a client workflow from Sheets to a real database
 
-2026-11-06 · u/easybits_ai · Servers, Hosting, & Tech Stuff · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpe08r/what_actually_changed_when_i_moved_a_client/)
+2026-11-06 · u/easybits_ai · Servers, Hosting, & Tech Stuff · score 0 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xpe08r/what_actually_changed_when_i_moved_a_client/) · [↑ back to the list](#last-50-posts)
 
 > 👋 Hey n8n Community,
 >
@@ -303,9 +319,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 > Best,  
 > Felix
 
+<a id="post-9"></a>
+
 ### 9. Career-changer going all-in on automation for SMEs — does this learning path actually make sense?
 
-2026-11-06 · u/ConsistentWelder1354 · Help · score 10 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp9zon/careerchanger_going_allin_on_automation_for_smes/)
+2026-11-06 · u/ConsistentWelder1354 · Help · score 10 · 12 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp9zon/careerchanger_going_allin_on_automation_for_smes/) · [↑ back to the list](#last-50-posts)
 
 > I'm reorienting my career toward automation / AI integration for small businesses (I'm in Switzerland). I don't want to become a developer — I want to be the person who connects the tools to a company's real processes.
 >
@@ -343,29 +361,37 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > Thanks in advance to anyone who takes the time to reply — I know these "should I switch careers" posts come up a lot, and I genuinely appreciate any honest experience you're willing to share.
 
+<a id="post-10"></a>
+
 ### 10. Free: query YouTube from n8n without burning your Data API quota (HTTP Request node only)
 
-2026-11-06 · u/Own-Version8188 · Workflow - Github Included · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp9oeh/free_query_youtube_from_n8n_without_burning_your/)
+2026-11-06 · u/Own-Version8188 · Workflow - Github Included · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp9oeh/free_query_youtube_from_n8n_without_burning_your/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-11"></a>
+
 ### 11. For those already selling automation to marketing agencies
 
-2026-11-06 · u/ShivaCodex · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8r3n/for_those_already_selling_automation_to_marketing/)
+2026-11-06 · u/ShivaCodex · Help · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8r3n/for_those_already_selling_automation_to_marketing/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Held for mod review under **Rule 3: No Business, Agency, or Client-Related Posts**. Your post is about running an automation agency, finding clients, or pricing services. r/n8n focuses on building with n8n -- for the business side, try r/freelance or r/Entrepreneur. If caught in error, [message the mods](https://www.reddit.com/message/compose?to=/r/n8n).
 
+<a id="post-12"></a>
+
 ### 12. I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke
 
-2026-11-06 · u/schwartzioz · Servers, Hosting, & Tech Stuff · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8qhb/i_run_a_cve_feed_on_n8n_where_the_llm_isnt/)
+2026-11-06 · u/schwartzioz · Servers, Hosting, & Tech Stuff · score 1 · 0 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8qhb/i_run_a_cve_feed_on_n8n_where_the_llm_isnt/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-13"></a>
+
 ### 13. n8n: I run a CVE feed on n8n where the LLM isn't allowed to touch a single fact. Here's what still broke
 
-2026-11-06 · u/schwartzioz · Servers, Hosting, & Tech Stuff · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8eyt/n8n_i_run_a_cve_feed_on_n8n_where_the_llm_isnt/)
+2026-11-06 · u/schwartzioz · Servers, Hosting, & Tech Stuff · score 1 · 0 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8eyt/n8n_i_run_a_cve_feed_on_n8n_where_the_llm_isnt/) · [↑ back to the list](#last-50-posts)
 
 > \*Flair: showcase, if the sub has one. Attach \`architecture-en.png\`, \`post-anatomy-en.png\` and \`score-histogram-en.png\`. No links in the post: share the channel in a comment only if someone asks.\*
 >
@@ -433,9 +459,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > How do you all keep state safe across deploys? And has anyone found a practical way to check LLM output for meaning rather than form?
 
+<a id="post-14"></a>
+
 ### 14. Telegram Trigger not receiving any incoming messages or test events
 
-2026-11-06 · u/Rude_Emu_2895 · Meta & n8n News · score 7 · 20 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8e67/telegram_trigger_not_receiving_any_incoming/)
+2026-11-06 · u/Rude_Emu_2895 · Meta & n8n News · score 7 · 20 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp8e67/telegram_trigger_not_receiving_any_incoming/) · [↑ back to the list](#last-50-posts)
 
 > Hello everyone, I'm facing a frustrating issue with my n8n setup and I could really use some help.
 >
@@ -445,9 +473,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > ​Here is my workflow JSON code for reference:
 
+<a id="post-15"></a>
+
 ### 15. Crypto price-level alerts in n8n that fire once and re-arm
 
-2026-11-06 · u/pjamourik · Workflow - Github Included · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp7hb9/crypto_pricelevel_alerts_in_n8n_that_fire_once/)
+2026-11-06 · u/pjamourik · Workflow - Github Included · score 5 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp7hb9/crypto_pricelevel_alerts_in_n8n_that_fire_once/) · [↑ back to the list](#last-50-posts)
 
 > I run a few crypto alert workflows on self-hosted n8n. This one checks prices every minute and sends a single Telegram or Discord message when a level is crossed. After that the level stays quiet until price crosses back, so it re-arms instead of repeating every minute.
 >
@@ -462,21 +492,27 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > If you run something similar: do you add a buffer before re-arming, so price chopping around the level doesn't fire twice?
 
+<a id="post-16"></a>
+
 ### 16. I got lazy approving agent actions, so i started taking tools away instead
 
-2026-11-06 · u/austin_patterson_43 · Workflow - Github Included · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp4vs0/i_got_lazy_approving_agent_actions_so_i_started/)
+2026-11-06 · u/austin_patterson_43 · Workflow - Github Included · score 0 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp4vs0/i_got_lazy_approving_agent_actions_so_i_started/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-17"></a>
+
 ### 17. what's the last client workflow that broke in a way you couldn't fix yourself, and what did you end up doing about it? Did you pay anyone?
 
-2026-11-06 · u/mtsya · Servers, Hosting, & Tech Stuff · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp4e57/whats_the_last_client_workflow_that_broke_in_a/)
+2026-11-06 · u/mtsya · Servers, Hosting, & Tech Stuff · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp4e57/whats_the_last_client_workflow_that_broke_in_a/) · [↑ back to the list](#last-50-posts)
 
 > Asking because I'm trying to see when as an agency owner I should pay someone to take ownership of the outcome specially when deadlines are involved.
 
+<a id="post-18"></a>
+
 ### 18. I built a tool that scans your agent repo, scores how much damage it could do, then auto-drafts a governance contract from the findings - no config required
 
-2026-11-06 · u/Trout_dev · Workflow - Github Included · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3w46/i_built_a_tool_that_scans_your_agent_repo_scores/)
+2026-11-06 · u/Trout_dev · Workflow - Github Included · score 0 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3w46/i_built_a_tool_that_scans_your_agent_repo_scores/) · [↑ back to the list](#last-50-posts)
 
 > My agents kept causing irreversible accidents. Force-pushes to main. Issues closed that shouldn’t have been. A production record gone. Every time I debugged it, I found the same thing: no language to even *express* what the agent was and wasn’t allowed to do - just prompts and hope.
 >
@@ -521,15 +557,19 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > What’s the gap you’re seeing here vs. sandboxes / OS-level isolation / just trusting the model’s refusal?
 
+<a id="post-19"></a>
+
 ### 19. 2D or 3D animation AI?
 
-2026-11-06 · u/Alarmed-Cake8412 · Help · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3jvy/2d_or_3d_animation_ai/)
+2026-11-06 · u/Alarmed-Cake8412 · Help · score 2 · 1 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3jvy/2d_or_3d_animation_ai/) · [↑ back to the list](#last-50-posts)
 
 > I’m starting my Facebook automation but I don’t know if I want my content to be 2D or 3D animation AI. Which one is better? Oh btw, it’s a cooking niche content…
 
+<a id="post-20"></a>
+
 ### 20. Beginner Form → Gemini Information Extractor → Google Sheets append (plus Gmail self-notify) — importable workflow + gotchas
 
-2026-11-06 · u/Impossible_Drink4771 · Workflow - Github Included · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3cjh/beginner_form_gemini_information_extractor_google/)
+2026-11-06 · u/Impossible_Drink4771 · Workflow - Github Included · score 4 · 6 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xp3cjh/beginner_form_gemini_information_extractor_google/) · [↑ back to the list](#last-50-posts)
 
 > Built a beginner lead-capture pipeline in n8n Cloud:
 >
@@ -547,9 +587,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > Full walkthrough video: https://youtu.be/kOQp2qxc-V8
 
+<a id="post-21"></a>
+
 ### 21. No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recommend?
 
-2026-11-06 · u/JuicyVanilla23 · Help · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoym93/no_tech_or_coding_background_want_to_learn_ai/)
+2026-11-06 · u/JuicyVanilla23 · Help · score 3 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoym93/no_tech_or_coding_background_want_to_learn_ai/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone! I have no tech or coding background, but I want to learn AI automation, eventually to help small businesses. Here's the path I've mapped out:  
 > 	1.	Learn one AI assistant deeply (prompting, structured output)  
@@ -564,9 +606,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 > 	•	Any courses (free or paid) that helped you, especially for steps 2 and 5?  
 > I can study about 1 hour a day. Thanks in advance!
 
+<a id="post-22"></a>
+
 ### 22. How we eliminated silent webhook drops between Stripe & HubSpot in n8n (Full architecture + dead-letter queue pattern)
 
-2026-11-05 · u/mynameisammy · Servers, Hosting, & Tech Stuff · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xosnxv/how_we_eliminated_silent_webhook_drops_between/)
+2026-11-05 · u/mynameisammy · Servers, Hosting, & Tech Stuff · score 4 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xosnxv/how_we_eliminated_silent_webhook_drops_between/) · [↑ back to the list](#last-50-posts)
 
 > If you run high-volume Stripe checkouts or subscription webhooks into HubSpot via n8n, you have probably run into this scenario:
 >
@@ -711,9 +755,11 @@ Link: <https://i.redd.it/nb3w26mpg10i1.jpeg>
 >
 > Happy to answer any questions or share the edge-case handling code if you run into retry loops or rate-limit issues!
 
+<a id="post-23"></a>
+
 ### 23. I renamed an n8n node and something downstream broke silently, so I built a free tool that lists what references a node by name
 
-2026-11-05 · u/omert-dev · Workflow - Github Included · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoqg5q/i_renamed_an_n8n_node_and_something_downstream/)
+2026-11-05 · u/omert-dev · Workflow - Github Included · score 2 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoqg5q/i_renamed_an_n8n_node_and_something_downstream/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xoqg5q>
 
@@ -734,15 +780,19 @@ Link: <https://www.reddit.com/gallery/1xoqg5q>
 >
 > It's early and I've only tested it on my own instance. If you try it and something is misparsed, a sanitized export in a GitHub issue helps a lot. Happy to answer questions.
 
+<a id="post-24"></a>
+
 ### 24. "The agent has access" is not a security model. Here's the layer I built instead
 
-2026-11-05 · u/Trout_dev · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xooo2g/the_agent_has_access_is_not_a_security_model/)
+2026-11-05 · u/Trout_dev · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xooo2g/the_agent_has_access_is_not_a_security_model/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-25"></a>
+
 ### 25. get ALL posts and comments matching a keyword?
 
-2026-11-05 · u/Feeling-Plane3434 · Help · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoms2t/get_all_posts_and_comments_matching_a_keyword/)
+2026-11-05 · u/Feeling-Plane3434 · Help · score 6 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoms2t/get_all_posts_and_comments_matching_a_keyword/) · [↑ back to the list](#last-50-posts)
 
 > As far as I know, there are two main ways to search on Reddit.
 >
@@ -760,9 +810,11 @@ Link: <https://www.reddit.com/gallery/1xoqg5q>
 >
 > Do I really have to download the full dumps (tens of GB of posts and comments) and search them locally?
 
+<a id="post-26"></a>
+
 ### 26. Human-in-the-loop lead replies: draft → approve/edit in Slack → Gmail → Sheets log (no AI key required)
 
-2026-11-05 · u/Solokit_Studio · Workflow - Github Included · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xolexg/humanintheloop_lead_replies_draft_approveedit_in/)
+2026-11-05 · u/Solokit_Studio · Workflow - Github Included · score 0 · 3 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xolexg/humanintheloop_lead_replies_draft_approveedit_in/) · [↑ back to the list](#last-50-posts)
 
 > Sharing a workflow for anyone who wants auto-drafted replies to inbound leads but doesn't want anything sent without a human looking at it first.
 >
@@ -787,17 +839,21 @@ Link: <https://www.reddit.com/gallery/1xoqg5q>
 >
 > MIT licensed. Happy to hear how you'd handle the approval step differently, e.g. Slack's native send-and-wait vs the form approach.
 
+<a id="post-27"></a>
+
 ### 27. What's the hardest part of maintaining n8n workflows in production?
 
-2026-11-05 · u/Local-Possibility840 · Meta & n8n News · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xokzu9/whats_the_hardest_part_of_maintaining_n8n/)
+2026-11-05 · u/Local-Possibility840 · Meta & n8n News · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xokzu9/whats_the_hardest_part_of_maintaining_n8n/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is for subreddit discussions and n8n-related news, not workflow shares or testimonials. If you are sharing a workflow, please re-flair to **Workflow - Github Included** and link your code per Rule 6. If this is genuinely a meta discussion or news item, no action is needed -- a mod will review shortly.
 
+<a id="post-28"></a>
+
 ### 28. WhatsApp Coexistence (same number in the Business app and the API): what changes for the client, per Meta's docs
 
-2026-11-05 · u/Capivara_37 · Help · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xojmu3/whatsapp_coexistence_same_number_in_the_business/)
+2026-11-05 · u/Capivara_37 · Help · score 2 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xojmu3/whatsapp_coexistence_same_number_in_the_business/) · [↑ back to the list](#last-50-posts)
 
 > If you're wiring a client's existing WhatsApp Business app number into a workflow, Coexistence is what lets that number stay in the app and work on Meta's API at the same time. I read Meta's onboarding page for it on 1 Nov, and the part worth knowing before you promise the client anything is what changes in their app.
 >
@@ -811,9 +867,11 @@ Link: <https://www.reddit.com/gallery/1xoqg5q>
 >
 > Source: Meta's "Onboarding WhatsApp Business app users" page in the Embedded Signup docs. Make's WhatsApp Business Cloud page also says coexistence isn't supported in every country.
 
+<a id="post-29"></a>
+
 ### 29. I built an n8n AI Agent that drafts Gmail replies with Gemini (never sends, beginner friendly)
 
-2026-11-05 · u/Impossible_Drink4771 · Workflow - Github Included · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoj4s4/i_built_an_n8n_ai_agent_that_drafts_gmail_replies/)
+2026-11-05 · u/Impossible_Drink4771 · Workflow - Github Included · score 5 · 9 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoj4s4/i_built_an_n8n_ai_agent_that_drafts_gmail_replies/) · [↑ back to the list](#last-50-posts)
 
 > I wanted polite reply drafts for new emails without letting AI hit Send. Here's the workflow (AI Agent + tools, no code):
 >
@@ -833,23 +891,29 @@ Link: <https://www.reddit.com/gallery/1xoqg5q>
 > Beginner walkthrough of the whole build:  
 > https://youtu.be/oT1E4Vhif4k
 
+<a id="post-30"></a>
+
 ### 30. How do you stop a retried webhook from creating duplicate CRM contacts?
 
-2026-11-05 · u/ankitrajvanshi · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoishz/how_do_you_stop_a_retried_webhook_from_creating/)
+2026-11-05 · u/ankitrajvanshi · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoishz/how_do_you_stop_a_retried_webhook_from_creating/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-31"></a>
+
 ### 31. Turn any YouTuber into an AI agent (&lt
 
-2026-11-05 · u/reirosy · Meta & n8n News · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoil0r/turn_any_youtuber_into_an_ai_agent_lt/)
+2026-11-05 · u/reirosy · Meta & n8n News · score 0 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoil0r/turn_any_youtuber_into_an_ai_agent_lt/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-32"></a>
+
 ### 32. How is a audit trail implemented in a self hosted setup
 
-2026-11-05 · u/Key-Marionberry5978 · Help · score 2 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoh60y/how_is_a_audit_trail_implemented_in_a_self_hosted/)
+2026-11-05 · u/Key-Marionberry5978 · Help · score 2 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoh60y/how_is_a_audit_trail_implemented_in_a_self_hosted/) · [↑ back to the list](#last-50-posts)
 
 > I've a workflow that I've etup for calling API's for adding records to DB which starts with a webhook call. I was actually looking for a way to find a way to log everything that is all executions and data flow (input & output) across all nodes...
 >
@@ -861,9 +925,11 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > So I wanted to know how logging is done to get all info as that is the only blocker from this going live..
 
+<a id="post-33"></a>
+
 ### 33. n8n builders working with WhatsApp Business API, what breaks the most?
 
-2026-11-05 · u/Shot_Passenger6240 · Help · score 12 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xogmh5/n8n_builders_working_with_whatsapp_business_api/)
+2026-11-05 · u/Shot_Passenger6240 · Help · score 12 · 20 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xogmh5/n8n_builders_working_with_whatsapp_business_api/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!  
 > I’m a software developer exploring ways to build something useful around WhatsApp Business.  
@@ -875,9 +941,11 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 > I’m not selling anything. Just trying to understand real problems before building something.  
 > Would really appreciate hearing your experiences!
 
+<a id="post-34"></a>
+
 ### 34. A vet tested my AI voice receptionist with the scariest call possible. It failed in a way I didn’t expect.
 
-2026-11-05 · u/Aristeidisp · Help · score 13 · 42 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xogku8/a_vet_tested_my_ai_voice_receptionist_with_the/)
+2026-11-05 · u/Aristeidisp · Help · score 13 · 42 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xogku8/a_vet_tested_my_ai_voice_receptionist_with_the/) · [↑ back to the list](#last-50-posts)
 
 > I build AI phone receptionists for vet clinics, with an n8n webhook that logs every request to a Sheet and emails the urgent ones.
 >
@@ -895,9 +963,11 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > For those running voice agents for real businesses: how do you handle "is the doctor available right now"? Do you connect it to a live status or calendar, or keep it to "I'll notify them"?
 
+<a id="post-35"></a>
+
 ### 35. I Built 15+ AI Automation Workflows but Still No Job Offers. Need Honest Advice.
 
-2026-11-05 · u/Jayaprakash63 · Help · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoex3d/i_built_15_ai_automation_workflows_but_still_no/)
+2026-11-05 · u/Jayaprakash63 · Help · score 4 · 13 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoex3d/i_built_15_ai_automation_workflows_but_still_no/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -911,15 +981,19 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > Thanks!
 
+<a id="post-36"></a>
+
 ### 36. How do you tell "webhook never arrived" apart from "arrived but the workflow didn't run"?
 
-2026-11-05 · u/HookWatchOps · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoe8uc/how_do_you_tell_webhook_never_arrived_apart_from/)
+2026-11-05 · u/HookWatchOps · Help · score 1 · 1 comments · spam-filtered · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xoe8uc/how_do_you_tell_webhook_never_arrived_apart_from/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-37"></a>
+
 ### 37. \[Workflow\] Google Maps leads with emails into Google Sheets, deduped on placeId (Apify + HTTP Request)
 
-2026-11-05 · u/Chemical_Ice3627 · Workflow - Github Included · score 1 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xodvkc/workflow_google_maps_leads_with_emails_into/)
+2026-11-05 · u/Chemical_Ice3627 · Workflow - Github Included · score 1 · 4 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xodvkc/workflow_google_maps_leads_with_emails_into/) · [↑ back to the list](#last-50-posts)
 
 > **What it does**
 >
@@ -974,37 +1048,47 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > One question: for repeat runs, would you dedupe in the sheet (Append or Update on `placeId`) or with Remove Duplicates set to compare against previous executions? I picked the sheet so the dedupe survives a re-import.
 
+<a id="post-38"></a>
+
 ### 38. business system integration for agent monitoring system
 
-2026-11-05 · u/Ok-Machine7983 · Help · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xocti0/business_system_integration_for_agent_monitoring/)
+2026-11-05 · u/Ok-Machine7983 · Help · score 1 · 4 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xocti0/business_system_integration_for_agent_monitoring/) · [↑ back to the list](#last-50-posts)
 
 > If youve built monitoring system for the customer agents, when you onboard a new client who uses a CRM you haven't integrated with before, how much time does it typically take to integrate their business systems (CRM, calendar, email, booking platform, etc.) into your agent monitoring or verification setup?
 >
 > Im curious, how you handle this scenario?
 
+<a id="post-39"></a>
+
 ### 39. Don't think twice, it's alright
 
-2026-11-05 · u/Mind_Distinct · Workflow - Github Included · score 3 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xocllb/dont_think_twice_its_alright/)
+2026-11-05 · u/Mind_Distinct · Workflow - Github Included · score 3 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xocllb/dont_think_twice_its_alright/) · [↑ back to the list](#last-50-posts)
 
 > Hello. I was tired of LLMs doing work without leaving traces. They are very powerful tools, but how much of their operation can be made deterministic, thus replayable?
 >
 > I made (I asked GLM to make me) [https://github.com/ilPez00/physis-replant](https://github.com/ilPez00/physis-replant) , which saves tokens on loops and gives receipts. Feel free to criticize me, have a nice day ;)
 
+<a id="post-40"></a>
+
 ### 40. N8N Google Calls
 
-2026-11-05 · u/Convos2Remember · Help · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xo580w/n8n_google_calls/)
+2026-11-05 · u/Convos2Remember · Help · score 2 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xo580w/n8n_google_calls/) · [↑ back to the list](#last-50-posts)
 
 > I find that on an almost daily basis I get workflow failures due to Google service unavailable errors. All that I need to do is retry, and the workflow completes successfully, but it is disruptive. Whenever this occurs, I confirm that the node has the maximum retries with the maximum wait time, but it is frustrating. Is there a way to avoid this?
 
+<a id="post-41"></a>
+
 ### 41. My n8n outbound engine: Clay bridge, Neon sync and an idempotent HubSpot outbox with zero Code nodes
 
-2026-11-04 · u/Alarmed-Sector-6427 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xo0tdr/my_n8n_outbound_engine_clay_bridge_neon_sync_and/)
+2026-11-04 · u/Alarmed-Sector-6427 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xo0tdr/my_n8n_outbound_engine_clay_bridge_neon_sync_and/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-42"></a>
+
 ### 42. I built a tool that turns your n8n workflow into a paid web app. Looking for 20 beta testers
 
-2026-11-04 · u/autolaunchy · Now Hiring or Looking for Cofounder · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnw9ic/i_built_a_tool_that_turns_your_n8n_workflow_into/)
+2026-11-04 · u/autolaunchy · Now Hiring or Looking for Cofounder · score 1 · 0 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnw9ic/i_built_a_tool_that_turns_your_n8n_workflow_into/) · [↑ back to the list](#last-50-posts)
 
 > Hey r/n8n 👋 
 >
@@ -1026,9 +1110,11 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > **Apply here (1 minute, you get your code by email):** [autolaunchy.com/beta/apply](http://autolaunchy.com/beta/apply)
 
+<a id="post-43"></a>
+
 ### 43. How easy is n8n for someone who is not technical?
 
-2026-11-04 · u/CuriousClara_25 · Help · score 13 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnuzyc/how_easy_is_n8n_for_someone_who_is_not_technical/)
+2026-11-04 · u/CuriousClara_25 · Help · score 13 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnuzyc/how_easy_is_n8n_for_someone_who_is_not_technical/) · [↑ back to the list](#last-50-posts)
 
 > I recently came across Lindy and started comparing it with n8n for building AI agents and automations.
 >
@@ -1038,35 +1124,45 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > Would you recommend learning n8n over using a simpler AI workflow builder?
 
+<a id="post-44"></a>
+
 ### 44. Telegram Webhook not receiving updates or triggering workflow
 
-2026-11-04 · u/Rude_Emu_2895 · Meta & n8n News · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnuize/telegram_webhook_not_receiving_updates_or/)
+2026-11-04 · u/Rude_Emu_2895 · Meta & n8n News · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnuize/telegram_webhook_not_receiving_updates_or/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
 **Mod comment** (u/AutoModerator): Held for mod review under **Rule 8: Use the Correct Post Flair**. The **Meta / n8n News** flair is for subreddit discussions and n8n-related news, not workflow shares or testimonials. If you are sharing a workflow, please re-flair to **Workflow - Github Included** and link your code per Rule 6. If this is genuinely a meta discussion or news item, no action is needed -- a mod will review shortly.
 
+<a id="post-45"></a>
+
 ### 45. How many Code nodes are in your average workflow?
 
-2026-11-04 · u/easybits_ai · Servers, Hosting, & Tech Stuff · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnt099/how_many_code_nodes_are_in_your_average_workflow/)
+2026-11-04 · u/easybits_ai · Servers, Hosting, & Tech Stuff · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnt099/how_many_code_nodes_are_in_your_average_workflow/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-46"></a>
 
 ### 46. Open-source HTML-to-MP4 render API for n8n — self-hosted alternative to Shotstack / Creatomate (HyperFrames)
 
-2026-11-04 · u/boubouble82 · Workflow - Github Included · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnszlv/opensource_htmltomp4_render_api_for_n8n/)
+2026-11-04 · u/boubouble82 · Workflow - Github Included · score 1 · 1 comments · held by automod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnszlv/opensource_htmltomp4_render_api_for_n8n/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
+
+<a id="post-47"></a>
 
 ### 47. Telegram Webhook not receiving updates or triggering workflow
 
-2026-11-04 · u/Rude_Emu_2895 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnsc6x/telegram_webhook_not_receiving_updates_or/)
+2026-11-04 · u/Rude_Emu_2895 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnsc6x/telegram_webhook_not_receiving_updates_or/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-48"></a>
+
 ### 48. I've been using Hermes to create and run n8n workflows
 
-2026-11-04 · u/SmoothieCookies · Servers, Hosting, & Tech Stuff · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xns2p2/ive_been_using_hermes_to_create_and_run_n8n/)
+2026-11-04 · u/SmoothieCookies · Servers, Hosting, & Tech Stuff · score 9 · 5 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xns2p2/ive_been_using_hermes_to_create_and_run_n8n/) · [↑ back to the list](#last-50-posts)
 
 > I've seen some interest in this setup in a few discussions, so I thought I'd share how I've been using Hermes + n8n for my own projects and a few clients.
 >
@@ -1098,9 +1194,11 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > https://i.redd.it/8qtm6rjt4fzh1.png
 
+<a id="post-49"></a>
+
 ### 49. Telegram Webhook not receiving updates or triggering workflow
 
-2026-11-04 · u/Rude_Emu_2895 · Help · score 0 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xns21s/telegram_webhook_not_receiving_updates_or/)
+2026-11-04 · u/Rude_Emu_2895 · Help · score 0 · 2 comments · approved · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xns21s/telegram_webhook_not_receiving_updates_or/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1116,15 +1214,19 @@ Link: <https://i.redd.it/1zs8vzlhpszh1.png>
 >
 > What could be causing Telegram webhooks to fail or not connect properly to n8n? Any advice on how to troubleshoot this would be greatly appreciated!
 
+<a id="post-50"></a>
+
 ### 50. Telegram Webhook not receiving updates or triggering workflow
 
-2026-11-04 · u/Rude_Emu_2895 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnrjbj/telegram_webhook_not_receiving_updates_or/)
+2026-11-04 · u/Rude_Emu_2895 · Workflow - Github Included · score 1 · 1 comments · removed by mod · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnrjbj/telegram_webhook_not_receiving_updates_or/) · [↑ back to the list](#last-50-posts)
 
 *No text: the post was removed, and the archive only has "[removed]".*
 
+<a id="post-51"></a>
+
 ### 51. I built an n8n pipeline that automates SEO content from keyword research to finished blog posts
 
-2026-10-28 · u/cuebicai · Workflow - Github Included · score 129 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xhfp22/i_built_an_n8n_pipeline_that_automates_seo/)
+2026-10-28 · u/cuebicai · Workflow - Github Included · score 129 · 17 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xhfp22/i_built_an_n8n_pipeline_that_automates_seo/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/c1mkxy6s95yh1.png>
 
@@ -1243,9 +1345,11 @@ Link: <https://i.redd.it/c1mkxy6s95yh1.png>
 >
 > [GitHub — n8n Workflows](https://github.com/cuebicai/n8n-workflows/tree/main/seo-content-generation-pipeline)
 
+<a id="post-52"></a>
+
 ### 52. I built a full social media pipeline on n8n: news → LLM drafts → Telegram approval → X/Facebook (self-hosted, open source)
 
-2026-11-02 · u/Organic_Explorer1186 · Workflow - Github Included · score 81 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xm1l8o/i_built_a_full_social_media_pipeline_on_n8n_news/)
+2026-11-02 · u/Organic_Explorer1186 · Workflow - Github Included · score 81 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xm1l8o/i_built_a_full_social_media_pipeline_on_n8n_news/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xm1l8o>
 
@@ -1266,9 +1370,11 @@ Link: <https://www.reddit.com/gallery/1xm1l8o>
 >
 > (Node names are in Polish – it's a Polish project; the app itself is in English and Polish.)
 
+<a id="post-53"></a>
+
 ### 53. I got tired of researching keywords manually, so I built this n8n workflow
 
-2026-10-11 · u/cuebicai · Workflow - Github Included · score 54 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x2yb1l/i_got_tired_of_researching_keywords_manually_so_i/)
+2026-10-11 · u/cuebicai · Workflow - Github Included · score 54 · 10 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x2yb1l/i_got_tired_of_researching_keywords_manually_so_i/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1x2yb1l>
 
@@ -1410,9 +1516,11 @@ Link: <https://www.reddit.com/gallery/1x2yb1l>
 >
 > [GitHub — Long-Tail Keyword Research](https://github.com/cuebicai/n8n-workflows/tree/main/longtail-keyword)
 
+<a id="post-54"></a>
+
 ### 54. What's the most random thing you have automated in n8n that actually turned out to be a great success?
 
-2026-10-20 · u/JuicerSocial · Help · score 51 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xalzu8/whats_the_most_random_thing_you_have_automated_in/)
+2026-10-20 · u/JuicerSocial · Help · score 51 · 34 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xalzu8/whats_the_most_random_thing_you_have_automated_in/) · [↑ back to the list](#last-50-posts)
 
 > I'm not talking about lead scraping, AI content pipelines, or the usual Gmail to Sheets to Slack workflows...
 >
@@ -1424,9 +1532,11 @@ Link: <https://www.reddit.com/gallery/1x2yb1l>
 >
 > I want to see the stuff they would make a normal person ask: "Why on earth did you automate that?"
 
+<a id="post-55"></a>
+
 ### 55. Claude Code, Grok everywhere, what about n8n nowadays?
 
-2026-11-03 · u/Beginning_Search585 · Help · score 45 · 74 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xn5zzy/claude_code_grok_everywhere_what_about_n8n/)
+2026-11-03 · u/Beginning_Search585 · Help · score 45 · 74 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xn5zzy/claude_code_grok_everywhere_what_about_n8n/) · [↑ back to the list](#last-50-posts)
 
 > Been thinking about this a lot. A few years ago, building automation pipelines or custom tooling was a real moat. You needed devs, time, money.
 >
@@ -1440,9 +1550,11 @@ Link: <https://www.reddit.com/gallery/1x2yb1l>
 >
 > Genuinely want to hear real experiences, not just hype. What's actually working for you right now, and what do you think won't matter in two years.
 
+<a id="post-56"></a>
+
 ### 56. Built a full AI system for a US Airbnb with lead capture, voice booking, guest support and property management without a single manual step
 
-2026-10-27 · u/_no__regrets_ · Workflow - Github Included · score 41 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xgwn9e/built_a_full_ai_system_for_a_us_airbnb_with_lead/)
+2026-10-27 · u/_no__regrets_ · Workflow - Github Included · score 41 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xgwn9e/built_a_full_ai_system_for_a_us_airbnb_with_lead/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xgwn9e>
 
@@ -1496,9 +1608,11 @@ Link: <https://www.reddit.com/gallery/1xgwn9e>
 >
 > Peace ✌️
 
+<a id="post-57"></a>
+
 ### 57. We have AI that can do incredible things, yet some small businesses still spend hours managing their books manually
 
-2026-10-17 · u/Temporary_Ad7810 · Workflow - Github Included · score 41 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x8m125/we_have_ai_that_can_do_incredible_things_yet_some/)
+2026-10-17 · u/Temporary_Ad7810 · Workflow - Github Included · score 41 · 7 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x8m125/we_have_ai_that_can_do_incredible_things_yet_some/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://i.redd.it/kk8c44tnh3wh1.png>
 
@@ -1546,9 +1660,11 @@ Link: <https://i.redd.it/kk8c44tnh3wh1.png>
 >
 > Github link: [https://github.com/Araviii305/ai-invoice-processing-automation](https://github.com/Araviii305/ai-invoice-processing-automation)
 
+<a id="post-58"></a>
+
 ### 58. My self-hosted n8n runs 25 workflows for my business, and most of the AI in them is local
 
-2026-11-03 · u/EryumT · Servers, Hosting, & Tech Stuff · score 36 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xme0ua/my_selfhosted_n8n_runs_25_workflows_for_my/)
+2026-11-03 · u/EryumT · Servers, Hosting, & Tech Stuff · score 36 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xme0ua/my_selfhosted_n8n_runs_25_workflows_for_my/) · [↑ back to the list](#last-50-posts)
 
 > **25 active workflows on my self-hosted n8n: a ManyChat replacement, local AI video publishing, and homelab alerts**
 >
@@ -1581,9 +1697,11 @@ Link: <https://i.redd.it/kk8c44tnh3wh1.png>
 >
 > Happy to share how I handled **LinkedIn chunked uploads** or **IG/FB resumable uploads** if anyone else is fighting those.hunked upload or the IG/FB resumable upload if anyone's fighting those.
 
+<a id="post-59"></a>
+
 ### 59. n8n learned, now what? What technical skills are worth building over the next 2 years?
 
-2026-10-25 · u/Equivalent_Title_299 · Help · score 32 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xf9jrb/n8n_learned_now_what_what_technical_skills_are/)
+2026-10-25 · u/Equivalent_Title_299 · Help · score 32 · 39 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xf9jrb/n8n_learned_now_what_what_technical_skills_are/) · [↑ back to the list](#last-50-posts)
 
 > I’ve been learning n8n and can build decent workflows now. I’m not from a tech background, so I don’t want to just stay at the “drag and drop nodes” level forever.
 >
@@ -1591,9 +1709,11 @@ Link: <https://i.redd.it/kk8c44tnh3wh1.png>
 >
 > Not looking for a huge roadmap, just what gave you the most leverage.
 
+<a id="post-60"></a>
+
 ### 60. I built an n8n pipeline that researches, plans, writes, and generates images for blog articles
 
-2026-10-20 · u/cuebicai · Workflow - Github Included · score 32 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xakck5/i_built_an_n8n_pipeline_that_researches_plans/)
+2026-10-20 · u/cuebicai · Workflow - Github Included · score 32 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xakck5/i_built_an_n8n_pipeline_that_researches_plans/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xakck5>
 
@@ -1671,9 +1791,11 @@ Link: <https://www.reddit.com/gallery/1xakck5>
 >
 > [GitHub — SEO Content Writing](https://github.com/cuebicai/n8n-workflows/tree/main/seo-content-writing)
 
+<a id="post-61"></a>
+
 ### 61. New Customer and Shipping Tracker
 
-2026-10-27 · u/jackybacksy3636 · Help · score 29 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xgp5ms/new_customer_and_shipping_tracker/)
+2026-10-27 · u/jackybacksy3636 · Help · score 29 · 14 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xgp5ms/new_customer_and_shipping_tracker/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://www.reddit.com/gallery/1xgp5ms>
 
@@ -1688,9 +1810,11 @@ Link: <https://www.reddit.com/gallery/1xgp5ms>
 >
 > How is it?
 
+<a id="post-62"></a>
+
 ### 62. How are you handling dynamic PDF generation in n8n workflows ?
 
-2026-10-31 · u/Moukouk · Help · score 23 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xkbomd/how_are_you_handling_dynamic_pdf_generation_in/)
+2026-10-31 · u/Moukouk · Help · score 23 · 18 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xkbomd/how_are_you_handling_dynamic_pdf_generation_in/) · [↑ back to the list](#last-50-posts)
 
 > Hey everyone!
 >
@@ -1711,9 +1835,11 @@ Link: <https://www.reddit.com/gallery/1xgp5ms>
 >
 > Thanks!
 
+<a id="post-63"></a>
+
 ### 63. "Build your first AI agent", the n8n template with 1.2M views, explained node by node on its own canvas
 
-2026-10-23 · u/Fresh-Daikon-9408 · Workflow - Github Included · score 23 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xdfgie/build_your_first_ai_agent_the_n8n_template_with/)
+2026-10-23 · u/Fresh-Daikon-9408 · Workflow - Github Included · score 23 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xdfgie/build_your_first_ai_agent_the_n8n_template_with/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/3b4n0qrw78xh1>
 
@@ -1725,9 +1851,11 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 >
 > Would explainers like this help you hand a workflow over to a teammate?
 
+<a id="post-64"></a>
+
 ### 64. Brand Refresh! n8n got a new look!
 
-2026-10-21 · u/FIDST · Meta & n8n News · score 22 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xb9lz9/brand_refresh_n8n_got_a_new_look/)
+2026-10-21 · u/FIDST · Meta & n8n News · score 22 · 21 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xb9lz9/brand_refresh_n8n_got_a_new_look/) · [↑ back to the list](#last-50-posts)
 
 > No, your eyes aren't playing tricks on you.
 >
@@ -1755,9 +1883,11 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 >
 > ![img](rwuaurj4zpwh1 "New n8n logo")
 
+<a id="post-65"></a>
+
 ### 65. For those actually making money building apps, AI automations, or software — how did you turn your skills into income?
 
-2026-10-30 · u/ape_dong · Servers, Hosting, & Tech Stuff · score 21 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xj3aep/for_those_actually_making_money_building_apps_ai/)
+2026-10-30 · u/ape_dong · Servers, Hosting, & Tech Stuff · score 21 · 15 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xj3aep/for_those_actually_making_money_building_apps_ai/) · [↑ back to the list](#last-50-posts)
 
 > I’m a network engineer who has spent a considerable amount of time building technology projects outside of my regular job.  
 > I’ve developed mobile applications, AI receptionists, business automation workflows, CRM systems, and custom backend infrastructure. I’m comfortable with networking, servers, APIs, databases, and putting together functional solutions from scratch.  
@@ -1773,9 +1903,11 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 > I’m not looking for shortcuts or overnight success. I’m willing to put in the work. I’m trying to better understand where experienced builders are finding real demand and how they’re converting technical ability into a sustainable business.  
 > I’d appreciate hearing actual experiences, including what didn’t work.
 
+<a id="post-66"></a>
+
 ### 66. Title: Looking for Someone Experienced in Gmail Automation – Need Help Setting Up Workflows
 
-2026-11-04 · u/Electrical-Truck-912 · Help · score 19 · 52 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnojw5/title_looking_for_someone_experienced_in_gmail/)
+2026-11-04 · u/Electrical-Truck-912 · Help · score 19 · 52 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xnojw5/title_looking_for_someone_experienced_in_gmail/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone!
 >
@@ -1796,9 +1928,11 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 >
 > If you're experienced in Gmail automation or know someone who can help, please comment or DM me.
 
+<a id="post-67"></a>
+
 ### 67. How do you get Claude Code to build complex n8n workflows that actually work?
 
-2026-10-20 · u/theripplefx · Help · score 19 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xb5k2h/how_do_you_get_claude_code_to_build_complex_n8n/)
+2026-10-20 · u/theripplefx · Help · score 19 · 32 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xb5k2h/how_do_you_get_claude_code_to_build_complex_n8n/) · [↑ back to the list](#last-50-posts)
 
 > I use Claude Code with the n8n MCP to build workflows. It starts great: Claude makes a good plan and the basic structure works. But then small mistakes creep in, and fixing them turns into endless back-and-forth. Test, fix, test again, something else breaks.
 >
@@ -1813,15 +1947,19 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 >
 > Would love to hear what actually works for you in real projects.
 
+<a id="post-68"></a>
+
 ### 68. How to be very good at automation that i becomes second nature?
 
-2026-10-22 · u/Any-Revolution1007 · Help · score 17 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xcn7ua/how_to_be_very_good_at_automation_that_i_becomes/)
+2026-10-22 · u/Any-Revolution1007 · Help · score 17 · 30 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xcn7ua/how_to_be_very_good_at_automation_that_i_becomes/) · [↑ back to the list](#last-50-posts)
 
 > Hi been learning automation on and off, what are the things to master to be really good at this niche?
 
+<a id="post-69"></a>
+
 ### 69. I’ve built some ready-to-use automations. Where can I list them so people can find and buy them?
 
-2026-10-13 · u/Zaid_1602 · Help · score 15 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x4r0h9/ive_built_some_readytouse_automations_where_can_i/)
+2026-10-13 · u/Zaid_1602 · Help · score 15 · 8 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1x4r0h9/ive_built_some_readytouse_automations_where_can_i/) · [↑ back to the list](#last-50-posts)
 
 > Hi everyone,
 >
@@ -1837,9 +1975,11 @@ Link: <https://v.redd.it/3b4n0qrw78xh1>
 >
 > Thanks in advance!
 
+<a id="post-70"></a>
+
 ### 70. Five nodes, and an empty return instead of an If: PlannedPage Studio's n8n template for a keyword-filtered RSS digest in Slack, explained node by node
 
-2026-11-01 · u/Fresh-Daikon-9408 · Workflow - Github Included · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xkx193/five_nodes_and_an_empty_return_instead_of_an_if/)
+2026-11-01 · u/Fresh-Daikon-9408 · Workflow - Github Included · score 15 · 2 comments · live · [open on Reddit](https://www.reddit.com/r/n8n/comments/1xkx193/five_nodes_and_an_empty_return_instead_of_an_if/) · [↑ back to the list](#last-50-posts)
 
 Link: <https://v.redd.it/7v05tgk5fyyh1>
 
