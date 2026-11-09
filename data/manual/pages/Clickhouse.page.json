@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subreddit": "Clickhouse",
+ "saved_at": "2026-11-09T12:48:53.610Z",
+ "page_url": "https://www.reddit.com/r/Clickhouse/",
+ "title": "ClickHouse",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=1",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=1",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=4",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=4",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=3",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=3",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=1183",
+  "shreddit-subreddit-header weekly-contributions=23"
+ ],
+ "text": "Skip to main content\nClickHouse\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/Clickhouse\nClear search\nr/Clickhouse\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/Clickhouse\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nFeed\nUpvote\n10\nDownvote\n1\nGo to comments\nShare\nWhat I learned from a month with WalShadow on ClickHouse Managed Postgres\nu/gulcin-clickhouse\n•\n3 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nWhat I learned from a month with WalShadow on ClickHouse Managed Postgres\nhttps://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres\nUpvote\n8\nDownvote\n4\nGo to comments\nShare\nHow do you handle the lack of transactions?\nu/djeyzus\n•\n3 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nHow do you handle the lack of transactions?\nFor my use case I update the data in my database every 5 minutes in a big batch (~10K records). I need to ensure the data in the database is complete.\nRight now I create a copy of the table, insert records, swap tables and delete temporary table.\nI was wondering how others solve this challenge.\nUpvote\n19\nDownvote\n3\nGo to comments\nShare\nWe have exciting news! Altinity has been acquired by EnterpriseDB.\nu/Altinity\n•\n4 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nWe have exciting news! Altinity has been acquired by EnterpriseDB.\nhttps://altinity.com/news/altinity-and-enterprisedb\nCommunity Info Section\nClickHouse\nThe ClickHouse Community on Reddit\nShow more\nWeekly visitors\nWeekly contributions\nCreated Jan 20, 2019\n8 years ago\nPublic\nAnyone can view, post, and comment to this community\n1.1K\n23\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Google\nContinue with Google. Opens in new tab\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}

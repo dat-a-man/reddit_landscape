@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subreddit": "Alteryx",
+ "saved_at": "2026-11-09T12:50:44.689Z",
+ "page_url": "https://www.reddit.com/r/Alteryx/",
+ "title": "alteryx",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=6",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=6",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=3",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=3",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=13",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=13",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=1754",
+  "shreddit-subreddit-header weekly-contributions=24"
+ ],
+ "text": "Skip to main content\nalteryx\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/Alteryx\nClear search\nr/Alteryx\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/Alteryx\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nFeed\nUpvote\n5\nDownvote\n6\nGo to comments\nShare\nWorking on a free, open-source alternative to Alteryx. Looking for feedback\nu/steroidmonkey66\n•\n6 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nWorking on a free, open-source alternative to Alteryx. Looking for feedback\n0:00\n0:01\n/\n0:43\nUpvote\n0\nDownvote\n3\nGo to comments\nShare\nLooking for honest feedback - My CA friend kept copying between Alteryx and ChatGPT to build workflows, so I built a tool that does both.\nu/NoCommunication421\n•\n6 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nLooking for honest feedback - My CA friend kept copying between Alteryx and ChatGPT to build workflows, so I built a tool that does both.\nA friend of mine is a CA who uses Alteryx at work. I noticed their routine: describe the problem to ChatGPT, get step-by-step instructions, go back to Alteryx, drag the tools in, configure them, hit an error, paste the error back into ChatGPT, repeat.\nSo I built a prototype that cuts out the copy-paste: a visual workflow editor (inputs → transforms → outputs, like Alteryx) with an AI assistant that builds the workflow directly on the canvas. You describe what you want, e.g.\n“join these two files on invoice number, filter out cancelled rows, sum amount by vendor and export to Excel”\n, and it adds and wires up the nodes. You can then inspect, tweak or rebuild any step by hand.\nWhat it does today:\nRuns in the browser, nothing to install\nDrag and drop CSV / Excel files onto the canvas\nCommon steps: filter, join, sort, aggregate, formulas, and more, with a live preview of the data at each step\nExport results to CSV or Excel\nYour files are processed locally in your browser, not uploaded to a server\nFree to try: sign in (Google or email) and you get free AI credits\nLink:\nhttps://dataflow-rohit.web.app\nIt’s an early side project, so expect rough edges. I’m trying to decide whether it’s worth putting serious time into, so I’d really appreciate blunt answers:\nIf you use Alteryx, KNIME, Power Query or similar: would an AI that builds the workflow for you actually save you time, or do you not trust it with real work?\nWhat’s the first workflow you’d try to build? Did it work?\nWhat’s missing that would stop you from using it at all?\nWould you ever pay for something like this, or is “free” the only acceptable price?\nUpvote\n5\nDownvote\n13\nGo to comments\nShare\nAdvice Sought: How to Migrate to Claude/ChatGPT\nu/Ok-Priority-4276\n•\n8 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nAdvice Sought: How to Migrate to Claude/ChatGPT\nWe have Alteryx at our large Fortune 500 organization. I’ve been fielding a number of questions on the possibility of reducing costs and leveraging our Claude/ChatGPT investment.\nOur primary use case is for users to join datalake data with excel data from shared folders and schedule extracts to Tableau server.\nHas anyone overcome the challenges on scheduling these types of workflows? Any advice on how to connect to shared folders?\nWould appreciate any advice from the community for teams that have made this transition and how to do this on an enterprise scale.\nThank you!\nCommunity Info Section\nalteryx\nThis subreddit is for all things related to alteryx. Alteryx is an American computer software company based out of Irvine, California, with a development center in Boulder, Colorado. The company's products are used for data blending and advanced data analytics.\nShow more\nWeekly visitors\nWeekly contributions\nCreated Apr 3, 2015\n12 years ago\nPublic\nAnyone can view, post, and comment to this community\n1.7K\n24\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subreddit": "SAP",
+ "saved_at": "2026-11-09T12:51:50.005Z",
+ "page_url": "https://www.reddit.com/r/SAP/",
+ "title": "SAP",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=39",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=39",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=17",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=17",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=23807",
+  "shreddit-subreddit-header weekly-contributions=552"
+ ],
+ "text": "Skip to main content\nSAP\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/SAP\nClear search\nr/SAP\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/SAP\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nCommunity highlights\nStarting a new job in SAP? Post here for questions about new hire advice, certification, compensation, technology domain decisions, and other topics you're too embarrassed to ask your coworkers\n143\nvotes •\n1.6K\ncomments\nFeed\nUpvote\n59\nDownvote\n39\nGo to comments\nShare\nAt work, they want to \"vibecode\" an entire SAP module\nu/Choice_Tip_5626\n•\n1 mo. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nAt work, they want to \"vibecode\" an entire SAP module\nWe only have 3 ABAP developers and 4 \"web\" developers; I’d like to know what this great community thinks and if anyone has gone through this situation.\nUpvote\n2\nDownvote\n0\nGo to comments\nShare\nConsolidation of rebate accrual postings to a singular accounting line.\nu/Viji_Pandian\n•\n4 hr. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nConsolidation of rebate accrual postings to a singular accounting line.\nSo, in our project, in the OTC cycle, we have a number of rebate conditions passing onto a specific rebate accrual account which appears in the posted accounting document.\nNow the problem is, Market A is consolidating all rebate accruals as a single line in the accounting document whereas market B creates individual lines in the accounting document.\nSay, Y001-X + Y001-Y from the invoice is in a single entry in the accounting document for Vietnam, whereas Y001-X and Y001-X2 as individual entries for Malaysia.\nSo where is the underlying set up differentiator for this behavior?\nAccount determination is similar between the two markets. No differences with respect to profit center or assignment or anything as such between the individual lines.\nIf any of you know of this set up, please let me know how I can assess and find the root?\nAppreciate your support.\nUpvote\n11\nDownvote\n17\nGo to comments\nShare\n30LPA - switching to SAP\nu/Mindless_Will_1145\n•\n16 hr. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\n30LPA - switching to SAP\nCTC - 30LPA\nYOE - 6.5\nCurrent Tech - Assume some coding Tech\nSwitching Tech - SAP (EWM)\nI’m currently working as a Senior Consultant in Coding Technology.\nNow I’m planning to switch to SAP non coding modules, currently planning for EWM Module.\nTargeting to switch in next 1.5 Years by training very well in SAP.\nWhile switching i wanted to at least 5+ as SAP in Resume. Also does next org can provide 40LPA with 8 Total YOE and 5 YOE SAP ?\nPlease give suggest me, is it good move ?.\nGetting lot of stressed with current Technology.\nAlso I’m Marriage Men.\nWill i be able to survive in new Tech with 40LPA ?\nI think at that price of billing people will have much expectation.\nCommunity Info Section\nSAP\nProfessional community for SAP discussions, technical support, and knowledge sharing. Connect with SAP users, developers, consultants, and administrators worldwide.\nShow more\nWeekly visitors\nWeekly contributions\nCreated Jul 23, 2008\n19 years ago\nPublic\nAnyone can view, post, and comment to this community\n23K\n552\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}

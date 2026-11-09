@@ -1,0 +1,10 @@
+# dltHub's Reddit accounts, one username per line, without "u/". Lines starting with # are ignored.
+# Used for the "Last dltHub post" and "Free from" (30-day cooldown) columns of reddit_landscape.md.
+#
+# Seeded 2026-11-09 from the most frequent posters in our own subs (Arctic Shift author counts):
+#   Thinker_Assignment    67 posts in r/dltHub, 44 in r/OntologyEngineering, 13 in r/agenticdatastack
+#   Original_Response925   3 posts in r/dltHub,  9 in r/OntologyEngineering
+# NOT YET CONFIRMED  <- delete this line once Adrian confirms the list; the table then drops its "unconfirmed" note.
+# Remove any account that isn't ours, add any that are missing.
+Thinker_Assignment
+Original_Response925

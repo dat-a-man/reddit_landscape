@@ -1,0 +1,7888 @@
+{
+ "resolved": {
+  "postgresql": [
+   "PostgreSQL",
+   90000,
+   null,
+   10
+  ],
+  "etl": [
+   "ETL",
+   14000,
+   null,
+   1
+  ],
+  "duckdb": [
+   "DuckDB",
+   6000,
+   null,
+   10
+  ],
+  "sql": [
+   "SQL",
+   293000,
+   null,
+   10
+  ],
+  "clickhouse": [
+   "Clickhouse",
+   4000,
+   null,
+   3
+  ],
+  "apacheiceberg": [
+   "ApacheIceberg",
+   1000,
+   null,
+   6
+  ],
+  "gtm_engineering": null,
+  "edshift": null,
+  "llmdevs": [
+   "LLMDevs",
+   180000,
+   null,
+   9
+  ],
+  "deltalake": [
+   "DeltaLake",
+   350,
+   null,
+   0
+  ],
+  "AzureSynapse": [
+   "AzureSynapseAnalytics",
+   936,
+   null,
+   10
+  ],
+  "AzureDataFactory": null,
+  "Teradata": null,
+  "Dremio": null,
+  "trino": null,
+  "prestodb": null,
+  "StarRocks": null,
+  "Firebolt": null,
+  "SingleStore": null,
+  "TimescaleDB": null,
+  "questdb": null,
+  "apachedruid": null,
+  "apachepinot": [
+   "ApachePinot",
+   150,
+   null,
+   0
+  ],
+  "OpenSearch": null,
+  "observability": [
+   "Observability",
+   7000,
+   null,
+   10
+  ],
+  "PostHog": [
+   "posthog",
+   729,
+   null,
+   0
+  ],
+  "splunk": [
+   "Splunk",
+   26000,
+   null,
+   10
+  ],
+  "datamodeling": null,
+  "DataQuality": null,
+  "DataGovernance": [
+   "datagovernance",
+   2000,
+   null,
+   0
+  ],
+  "MasterDataManagement": null,
+  "dataarchitecture": null,
+  "opendata": null,
+  "api": null,
+  "APIs": null,
+  "Polars": null,
+  "apachearrow": null,
+  "lakehouse": null,
+  "LLMOps": [
+   "llmops",
+   3000,
+   null,
+   9
+  ],
+  "Lightdash": null,
+  "streamlit": [
+   "Streamlit",
+   3000,
+   null,
+   0
+  ],
+  "plotly": null,
+  "learndataengineering": null,
+  "DataEngineers": [
+   "dataengineer",
+   4000,
+   null,
+   10
+  ],
+  "ontology": [
+   "Ontology",
+   3000,
+   null,
+   0
+  ],
+  "KnowledgeGraphs": null,
+  "DataMesh": [
+   "datamesh",
+   495,
+   null,
+   0
+  ],
+  "Informatica": [
+   "informatica",
+   7000,
+   null,
+   10
+  ],
+  "SSIS": null,
+  "snowflakedb": null,
+  "Matillion": null,
+  "Fabric": [
+   "fabric",
+   5000,
+   null,
+   3
+  ],
+  "powerplatform": [
+   "PowerPlatform",
+   13000,
+   null,
+   10
+  ],
+  "dataengineeringmemes": null,
+  "analyticsengineers": null,
+  "PLSQL": null,
+  "dynamics365": [
+   "Dynamics365",
+   16000,
+   null,
+   1
+  ],
+  "salesops": [
+   "SalesOperations",
+   22000,
+   null,
+   9
+  ],
+  "growthhacking": [
+   "GrowthHacking",
+   162000,
+   null,
+   9
+  ],
+  "startupdata": null,
+  "Dagster_io": [
+   "dagster",
+   365,
+   null,
+   0
+  ],
+  "DataScienceIndia": null
+ },
+ "neighbors": {
+  "PostgreSQL": [
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "DatabaseAdministators",
+    6000,
+    80.5
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "learnSQL",
+    72000,
+    39.3
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "mysql",
+    50000,
+    10.0
+   ],
+   [
+    "react",
+    160000,
+    16.1
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "Supabase",
+    45000,
+    35.5
+   ]
+  ],
+  "ETL": [
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ]
+  ],
+  "DuckDB": [
+   [
+    "bigquery",
+    21000,
+    7.9
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalyst",
+    59000,
+    42.3
+   ],
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "DatabaseAdministators",
+    6000,
+    80.5
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "PostgreSQL",
+    90000,
+    29.0
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "SQL": [
+   [
+    "csharp",
+    331000,
+    8.9
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "learndatascience",
+    61000,
+    60.4
+   ],
+   [
+    "learnrust",
+    57000,
+    37.3
+   ],
+   [
+    "learnSQL",
+    72000,
+    39.3
+   ],
+   [
+    "piano",
+    1300000,
+    4.1
+   ],
+   [
+    "PostgreSQL",
+    90000,
+    29.0
+   ],
+   [
+    "SAP",
+    64000,
+    32.1
+   ]
+  ],
+  "Clickhouse": [
+   [
+    "AzureSentinel",
+    5000,
+    28.3
+   ],
+   [
+    "DatabaseAdministators",
+    6000,
+    80.5
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ]
+  ],
+  "ApacheIceberg": [
+   [
+    "apachespark",
+    20000,
+    14.5
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "clouddatalake",
+    59,
+    7.3
+   ],
+   [
+    "databricks",
+    37000,
+    90.0
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "snowflake",
+    27000,
+    34.7
+   ]
+  ],
+  "LLMDevs": [
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "ArtificialInteligence",
+    2000000,
+    23.3
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "LangChain",
+    110000,
+    40.2
+   ],
+   [
+    "LargeLanguageModels",
+    17000,
+    92.9
+   ],
+   [
+    "LocalLLaMA",
+    867000,
+    55.8
+   ],
+   [
+    "LocalLLM",
+    260000,
+    182.2
+   ],
+   [
+    "Rag",
+    82000,
+    60.8
+   ],
+   [
+    "singularity",
+    4000000,
+    6.5
+   ]
+  ],
+  "DeltaLake": [],
+  "AzureSynapseAnalytics": [
+   [
+    "AZURE",
+    218000,
+    13.8
+   ],
+   [
+    "AzureSentinel",
+    5000,
+    28.3
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "cloudcomputing",
+    46000,
+    30.5
+   ],
+   [
+    "CRM",
+    61000,
+    104.9
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "Parseur",
+    51,
+    18.6
+   ],
+   [
+    "SAtechnews",
+    4000,
+    7.0
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "technology",
+    20600000,
+    3.3
+   ]
+  ],
+  "ApachePinot": [],
+  "Observability": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "devops",
+    521000,
+    18.9
+   ],
+   [
+    "grafana",
+    27000,
+    23.3
+   ],
+   [
+    "LangChain",
+    110000,
+    40.2
+   ],
+   [
+    "Monitoring",
+    5000,
+    102.5
+   ],
+   [
+    "OpenTelemetry",
+    5000,
+    75.3
+   ],
+   [
+    "platformengineering",
+    12000,
+    256.9
+   ],
+   [
+    "platform_engineering",
+    7000,
+    44.0
+   ],
+   [
+    "PrometheusMonitoring",
+    13000,
+    16.2
+   ],
+   [
+    "sre",
+    59000,
+    38.5
+   ]
+  ],
+  "posthog": [],
+  "Splunk": [
+   [
+    "atlassian",
+    11000,
+    27.2
+   ],
+   [
+    "AWS_cloud",
+    17000,
+    46.0
+   ],
+   [
+    "CIO",
+    19000,
+    32.6
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "computerforensics",
+    92000,
+    14.4
+   ],
+   [
+    "cybersecurity",
+    1600000,
+    19.7
+   ],
+   [
+    "cybersecurityUK",
+    3000,
+    243.3
+   ],
+   [
+    "pwnhub",
+    50000,
+    214.9
+   ],
+   [
+    "salesforce",
+    118000,
+    19.0
+   ]
+  ],
+  "datagovernance": [],
+  "llmops": [
+   [
+    "aicuriosity",
+    31000,
+    177.5
+   ],
+   [
+    "ArtificialNtelligence",
+    43000,
+    132.6
+   ],
+   [
+    "Bard",
+    153000,
+    37.0
+   ],
+   [
+    "BlackboxAI_",
+    41000,
+    179.6
+   ],
+   [
+    "ClaudeAI",
+    1300000,
+    245.4
+   ],
+   [
+    "GPT",
+    14000,
+    59.7
+   ],
+   [
+    "LLM",
+    60000,
+    147.4
+   ],
+   [
+    "mlops",
+    41000,
+    51.0
+   ],
+   [
+    "OpenAIDev",
+    16000,
+    39.3
+   ]
+  ],
+  "Streamlit": [],
+  "dataengineer": [
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalysiscareers",
+    38000,
+    172.6
+   ],
+   [
+    "DataCamp",
+    20000,
+    18.4
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "dataengineeringjobs",
+    46000,
+    77.5
+   ],
+   [
+    "DataEngineeringPH",
+    7000,
+    110.2
+   ],
+   [
+    "dataengineersindia",
+    25000,
+    124.6
+   ],
+   [
+    "ETL",
+    14000,
+    37.9
+   ],
+   [
+    "learnSQL",
+    72000,
+    39.3
+   ],
+   [
+    "snowflake",
+    27000,
+    34.7
+   ]
+  ],
+  "Ontology": [],
+  "datamesh": [],
+  "informatica": [
+   [
+    "AskTechnology",
+    78000,
+    51.2
+   ],
+   [
+    "buildapcsales",
+    1000000,
+    4.7
+   ],
+   [
+    "computadores",
+    315000,
+    32.4
+   ],
+   [
+    "computerhelp",
+    85000,
+    42.9
+   ],
+   [
+    "de_EDV",
+    234000,
+    13.4
+   ],
+   [
+    "hardwarebrasil",
+    102000,
+    45.9
+   ],
+   [
+    "ITSupport",
+    19000,
+    116.2
+   ],
+   [
+    "Mercadoreddit",
+    102000,
+    21.5
+   ],
+   [
+    "pchelp",
+    313000,
+    62.8
+   ],
+   [
+    "techsupport",
+    3500000,
+    5.4
+   ]
+  ],
+  "fabric": [
+   [
+    "dyeing",
+    27000,
+    57.0
+   ],
+   [
+    "Fabrics",
+    37000,
+    37.3
+   ],
+   [
+    "FabricSwap",
+    497,
+    9.2
+   ]
+  ],
+  "PowerPlatform": [
+   [
+    "developers",
+    61000,
+    94.7
+   ],
+   [
+    "developersIndia",
+    1600000,
+    12.6
+   ],
+   [
+    "developersPak",
+    48000,
+    58.2
+   ],
+   [
+    "frontenddevelopment",
+    7000,
+    12.8
+   ],
+   [
+    "PinoyProgrammer",
+    297000,
+    4.3
+   ],
+   [
+    "PowerApps",
+    53000,
+    26.1
+   ],
+   [
+    "rpa",
+    18000,
+    11.8
+   ],
+   [
+    "salesforce",
+    118000,
+    19.0
+   ],
+   [
+    "servicenow",
+    40000,
+    35.6
+   ],
+   [
+    "solidity",
+    26000,
+    13.6
+   ]
+  ],
+  "Dynamics365": [
+   [
+    "ERP",
+    20000,
+    49.5
+   ]
+  ],
+  "SalesOperations": [
+   [
+    "b2bmarketing",
+    104000,
+    150.8
+   ],
+   [
+    "B2BSaaS",
+    32000,
+    145.8
+   ],
+   [
+    "b2b_sales",
+    37000,
+    151.2
+   ],
+   [
+    "B2BSales",
+    5000,
+    563.9
+   ],
+   [
+    "CRM",
+    61000,
+    104.9
+   ],
+   [
+    "gtmengineering",
+    18000,
+    618.8
+   ],
+   [
+    "revops",
+    8000,
+    171.7
+   ],
+   [
+    "Sales_Professionals",
+    95000,
+    29.1
+   ],
+   [
+    "salestechniques",
+    70000,
+    51.4
+   ]
+  ],
+  "GrowthHacking": [
+   [
+    "AskMarketing",
+    180000,
+    77.5
+   ],
+   [
+    "b2bmarketing",
+    104000,
+    150.8
+   ],
+   [
+    "B2BSaaS",
+    32000,
+    145.8
+   ],
+   [
+    "BootstrappedSaaS",
+    10000,
+    162.2
+   ],
+   [
+    "copywriting",
+    264000,
+    10.6
+   ],
+   [
+    "ecommerce",
+    688000,
+    19.1
+   ],
+   [
+    "MarketingAutomation",
+    86000,
+    66.5
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ],
+   [
+    "SaaSMarketing",
+    40000,
+    133.1
+   ]
+  ],
+  "dagster": [],
+  "MicrosoftFabric": [
+   [
+    "AzureDataPlatforms",
+    1000,
+    13.5
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalyst",
+    59000,
+    42.3
+   ],
+   [
+    "databricks",
+    37000,
+    90.0
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "MSSQL",
+    3000,
+    10.1
+   ],
+   [
+    "mysql",
+    50000,
+    10.0
+   ],
+   [
+    "snowflake",
+    27000,
+    34.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ]
+  ],
+  "AzureDataPlatforms": [
+   [
+    "AZURE",
+    218000,
+    13.8
+   ],
+   [
+    "bigquery",
+    21000,
+    7.9
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "databricks",
+    37000,
+    90.0
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "MicrosoftFabric",
+    29000,
+    54.9
+   ],
+   [
+    "mlops",
+    41000,
+    51.0
+   ],
+   [
+    "snowflake",
+    27000,
+    34.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "learnSQL": [
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "learnjava",
+    197000,
+    9.0
+   ],
+   [
+    "learnprogramming",
+    4400000,
+    3.8
+   ],
+   [
+    "Python",
+    1500000,
+    7.9
+   ],
+   [
+    "snowflake",
+    27000,
+    34.7
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "dataanalyst": [
+   [
+    "analytics",
+    287000,
+    20.9
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalysiscareers",
+    38000,
+    172.6
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "datascience",
+    2800000,
+    2.8
+   ],
+   [
+    "developersIndia",
+    1600000,
+    12.6
+   ],
+   [
+    "developersPak",
+    48000,
+    58.2
+   ],
+   [
+    "FPandA",
+    76000,
+    34.0
+   ],
+   [
+    "learndatascience",
+    61000,
+    60.4
+   ]
+  ],
+  "Database": [
+   [
+    "cassandra",
+    3000,
+    13.0
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "learnSQL",
+    72000,
+    39.3
+   ],
+   [
+    "mariadb",
+    4000,
+    38.6
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "mysql",
+    50000,
+    10.0
+   ],
+   [
+    "PostgreSQL",
+    90000,
+    29.0
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ],
+   [
+    "tattoo",
+    1000000,
+    5.1
+   ]
+  ],
+  "dataengineersindia": [
+   [
+    "Accounting",
+    1300000,
+    10.2
+   ],
+   [
+    "civilengineering",
+    234000,
+    19.7
+   ],
+   [
+    "cscareerquestionsEU",
+    179000,
+    15.1
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "dataengineeringjobs",
+    46000,
+    77.5
+   ],
+   [
+    "developersIndia",
+    1600000,
+    12.6
+   ],
+   [
+    "developersPak",
+    48000,
+    58.2
+   ],
+   [
+    "devopsjobs",
+    46000,
+    75.6
+   ],
+   [
+    "IndiaCareers",
+    273000,
+    23.1
+   ],
+   [
+    "jobs",
+    2900000,
+    16.8
+   ]
+  ],
+  "DataEngineeringPH": [
+   [
+    "cscareerquestionsEU",
+    179000,
+    15.1
+   ],
+   [
+    "data",
+    54000,
+    13.9
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "DataCamp",
+    20000,
+    18.4
+   ],
+   [
+    "dataengineer",
+    4000,
+    84.9
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "dataengineeringjobs",
+    46000,
+    77.5
+   ],
+   [
+    "dataengineersindia",
+    25000,
+    124.6
+   ],
+   [
+    "RemoteJobs",
+    598000,
+    57.4
+   ]
+  ],
+  "DataCamp": [
+   [
+    "Alteryx",
+    7000,
+    11.6
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalysiscareers",
+    38000,
+    172.6
+   ],
+   [
+    "dataanalyst",
+    59000,
+    42.3
+   ],
+   [
+    "dataengineer",
+    4000,
+    84.9
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "DataEngineeringPH",
+    7000,
+    110.2
+   ],
+   [
+    "datascience",
+    2800000,
+    2.8
+   ],
+   [
+    "techjobs",
+    57000,
+    94.0
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "mcp": [
+   [
+    "AgentsOfAI",
+    134000,
+    83.3
+   ],
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "BlackboxAI_",
+    41000,
+    179.6
+   ],
+   [
+    "ClaudeAI",
+    1300000,
+    245.4
+   ],
+   [
+    "ClaudeCode",
+    483000,
+    1061.3
+   ],
+   [
+    "cursor",
+    161000,
+    54.3
+   ],
+   [
+    "LangChain",
+    110000,
+    40.2
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ],
+   [
+    "opensource",
+    399000,
+    32.6
+   ],
+   [
+    "OpenSourceAI",
+    35000,
+    659.9
+   ]
+  ],
+  "MCPservers": [
+   [
+    "Agent_AI",
+    45000,
+    53.7
+   ],
+   [
+    "AgentsOfAI",
+    134000,
+    83.3
+   ],
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "ClaudeCode",
+    483000,
+    1061.3
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "LangChain",
+    110000,
+    40.2
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "softwarearchitecture",
+    123000,
+    43.6
+   ],
+   [
+    "webdev",
+    3300000,
+    6.7
+   ]
+  ],
+  "modelcontextprotocol": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "ClaudeAI",
+    1300000,
+    245.4
+   ],
+   [
+    "ClaudeCode",
+    483000,
+    1061.3
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "crewai",
+    7000,
+    44.1
+   ],
+   [
+    "Cybersecurity101",
+    76000,
+    157.5
+   ],
+   [
+    "LLMDevs",
+    180000,
+    53.5
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "MCPAgents",
+    214,
+    122.9
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ]
+  ],
+  "aiengineering": [
+   [
+    "AskProgramming",
+    238000,
+    21.4
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "cscareerquestions",
+    2400000,
+    5.2
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "developers",
+    61000,
+    94.7
+   ],
+   [
+    "developersIndia",
+    1600000,
+    12.6
+   ],
+   [
+    "developersPak",
+    48000,
+    58.2
+   ],
+   [
+    "learnmachinelearning",
+    690000,
+    21.1
+   ],
+   [
+    "SoftwareEngineering",
+    176000,
+    11.9
+   ]
+  ],
+  "LargeLanguageModels": [
+   [
+    "artificial",
+    1400000,
+    16.1
+   ],
+   [
+    "ArtificialInteligence",
+    2000000,
+    23.3
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "LanguageTechnology",
+    67000,
+    12.3
+   ],
+   [
+    "learnmachinelearning",
+    690000,
+    21.1
+   ],
+   [
+    "LocalLLaMA",
+    867000,
+    55.8
+   ],
+   [
+    "machinelearningnews",
+    158000,
+    37.7
+   ],
+   [
+    "neuralnetworks",
+    50000,
+    58.2
+   ],
+   [
+    "OpenSourceeAI",
+    35000,
+    173.7
+   ]
+  ],
+  "OpenSourceAI": [
+   [
+    "Agent_AI",
+    45000,
+    53.7
+   ],
+   [
+    "AgentsOfAI",
+    134000,
+    83.3
+   ],
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "ClaudeAI",
+    1300000,
+    245.4
+   ],
+   [
+    "coolgithubprojects",
+    134000,
+    115.9
+   ],
+   [
+    "LLMDevs",
+    180000,
+    53.5
+   ],
+   [
+    "LocalLLaMA",
+    867000,
+    55.8
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "opensource",
+    399000,
+    32.6
+   ],
+   [
+    "OpenSourceeAI",
+    35000,
+    173.7
+   ]
+  ],
+  "coolgithubprojects": [
+   [
+    "devsecops",
+    23000,
+    90.6
+   ],
+   [
+    "git",
+    124000,
+    23.4
+   ],
+   [
+    "github",
+    219000,
+    31.2
+   ],
+   [
+    "Neo4j",
+    6000,
+    14.7
+   ],
+   [
+    "opensource",
+    399000,
+    32.6
+   ],
+   [
+    "OpenSourceAI",
+    35000,
+    659.9
+   ],
+   [
+    "OpenSourceeAI",
+    35000,
+    173.7
+   ],
+   [
+    "Python",
+    1500000,
+    7.9
+   ],
+   [
+    "tauri",
+    9000,
+    134.9
+   ],
+   [
+    "vscode",
+    227000,
+    16.9
+   ]
+  ],
+  "webscraping": [
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "django",
+    167000,
+    8.0
+   ],
+   [
+    "djangolearning",
+    32000,
+    12.6
+   ],
+   [
+    "flask",
+    94000,
+    3.4
+   ],
+   [
+    "hackernews",
+    102000,
+    9.8
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "PythonProjects2",
+    61000,
+    25.8
+   ],
+   [
+    "scraping",
+    2000,
+    8.6
+   ],
+   [
+    "scrapinghub",
+    2000,
+    5.3
+   ],
+   [
+    "scrapingtheweb",
+    10000,
+    365.7
+   ]
+  ],
+  "scrapingtheweb": [
+   [
+    "Airtable",
+    20000,
+    23.4
+   ],
+   [
+    "Automate",
+    158000,
+    6.6
+   ],
+   [
+    "automation",
+    241000,
+    66.4
+   ],
+   [
+    "ExcelTips",
+    83000,
+    21.7
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ],
+   [
+    "PythonProjects2",
+    61000,
+    25.8
+   ],
+   [
+    "scrapinghub",
+    2000,
+    5.3
+   ],
+   [
+    "webdev",
+    3300000,
+    6.7
+   ],
+   [
+    "webscraping",
+    105000,
+    34.9
+   ]
+  ],
+  "grafana": [
+   [
+    "CloudWatch",
+    84,
+    10.5
+   ],
+   [
+    "devops",
+    521000,
+    18.9
+   ],
+   [
+    "Docker_DevOps",
+    8000,
+    5.7
+   ],
+   [
+    "kubernetes",
+    215000,
+    18.2
+   ],
+   [
+    "Monitoring",
+    5000,
+    102.5
+   ],
+   [
+    "Observability",
+    7000,
+    190.2
+   ],
+   [
+    "PrometheusMonitoring",
+    13000,
+    16.2
+   ],
+   [
+    "sre",
+    59000,
+    38.5
+   ]
+  ],
+  "OpenTelemetry": [
+   [
+    "grafana",
+    27000,
+    23.3
+   ],
+   [
+    "Observability",
+    7000,
+    190.2
+   ],
+   [
+    "platformengineering",
+    12000,
+    256.9
+   ],
+   [
+    "PrometheusMonitoring",
+    13000,
+    16.2
+   ]
+  ],
+  "Neo4j": [
+   [
+    "Airtable",
+    20000,
+    23.4
+   ],
+   [
+    "bigquery",
+    21000,
+    7.9
+   ],
+   [
+    "charts",
+    93000,
+    53.5
+   ],
+   [
+    "datavisualization",
+    32000,
+    38.6
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "KnowledgeGraph",
+    6000,
+    157.9
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "Rag",
+    82000,
+    60.8
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ]
+  ],
+  "semanticweb": [
+   [
+    "KnowledgeGraph",
+    6000,
+    157.9
+   ],
+   [
+    "Neo4j",
+    6000,
+    14.7
+   ]
+  ],
+  "KnowledgeGraph": [
+   [
+    "academia",
+    111000,
+    17.1
+   ],
+   [
+    "ArtificialInteligence",
+    2000000,
+    23.3
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "LanguageTechnology",
+    67000,
+    12.3
+   ],
+   [
+    "learnmachinelearning",
+    690000,
+    21.1
+   ],
+   [
+    "machinelearningnews",
+    158000,
+    37.7
+   ],
+   [
+    "Neo4j",
+    6000,
+    14.7
+   ],
+   [
+    "neuralnetworks",
+    50000,
+    58.2
+   ],
+   [
+    "ResearchML",
+    25000,
+    110.6
+   ],
+   [
+    "semanticweb",
+    10000,
+    41.5
+   ]
+  ],
+  "nosql": [
+   [
+    "cassandra",
+    3000,
+    13.0
+   ],
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "DatabaseAdministators",
+    6000,
+    80.5
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "mysql",
+    50000,
+    10.0
+   ],
+   [
+    "redis",
+    11000,
+    18.3
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ]
+  ],
+  "MSSQL": [
+   [
+    "Alteryx",
+    7000,
+    11.6
+   ],
+   [
+    "apachespark",
+    20000,
+    14.5
+   ],
+   [
+    "bigquery",
+    21000,
+    7.9
+   ],
+   [
+    "cassandra",
+    3000,
+    13.0
+   ],
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "databasedevelopment",
+    13000,
+    27.2
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "mysql",
+    50000,
+    10.0
+   ],
+   [
+    "SQL",
+    293000,
+    13.7
+   ],
+   [
+    "SQLServer",
+    68000,
+    12.5
+   ]
+  ],
+  "redis": [
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "cassandra",
+    3000,
+    13.0
+   ],
+   [
+    "Database",
+    91000,
+    27.2
+   ],
+   [
+    "mongodb",
+    30000,
+    11.5
+   ],
+   [
+    "nextjs",
+    177000,
+    18.6
+   ],
+   [
+    "nosql",
+    5000,
+    3.1
+   ],
+   [
+    "PostgreSQL",
+    90000,
+    29.0
+   ]
+  ],
+  "elasticsearch": [
+   [
+    "AZURE",
+    218000,
+    13.8
+   ],
+   [
+    "kibana",
+    2000,
+    1.8
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "Monitoring",
+    5000,
+    102.5
+   ],
+   [
+    "SIEM",
+    5000,
+    6.8
+   ],
+   [
+    "Splunk",
+    26000,
+    16.0
+   ],
+   [
+    "sre",
+    59000,
+    38.5
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "Alteryx": [
+   [
+    "analytics",
+    287000,
+    20.9
+   ],
+   [
+    "apachespark",
+    20000,
+    14.5
+   ],
+   [
+    "Automate",
+    158000,
+    6.6
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalysiscareers",
+    38000,
+    172.6
+   ],
+   [
+    "dataanalyst",
+    59000,
+    42.3
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "DataScienceMemes",
+    6000,
+    2.9
+   ],
+   [
+    "datavisualization",
+    32000,
+    38.6
+   ],
+   [
+    "udemyfreebies",
+    66000,
+    8.8
+   ]
+  ],
+  "Talend": [],
+  "SQLOptimization": [],
+  "PySpark": [],
+  "FastAPI": [
+   [
+    "Airtable",
+    20000,
+    23.4
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "django",
+    167000,
+    8.0
+   ],
+   [
+    "DuckDB",
+    6000,
+    107.4
+   ],
+   [
+    "flask",
+    94000,
+    3.4
+   ],
+   [
+    "madeinpython",
+    28000,
+    13.0
+   ],
+   [
+    "nextjs",
+    177000,
+    18.6
+   ],
+   [
+    "prismaorm",
+    485,
+    17.7
+   ],
+   [
+    "softwarearchitecture",
+    123000,
+    43.6
+   ],
+   [
+    "typescript",
+    187000,
+    12.4
+   ]
+  ],
+  "madeinpython": [
+   [
+    "Automate",
+    158000,
+    6.6
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "coolgithubprojects",
+    134000,
+    115.9
+   ],
+   [
+    "DataScienceMemes",
+    6000,
+    2.9
+   ],
+   [
+    "datascienceproject",
+    33000,
+    35.7
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ],
+   [
+    "PythonProjects2",
+    61000,
+    25.8
+   ],
+   [
+    "scrapingtheweb",
+    10000,
+    365.7
+   ],
+   [
+    "softwarearchitecture",
+    123000,
+    43.6
+   ]
+  ],
+  "PythonProjects2": [
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "ClaudeCode",
+    483000,
+    1061.3
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "coolgithubprojects",
+    134000,
+    115.9
+   ],
+   [
+    "developer",
+    50000,
+    48.0
+   ],
+   [
+    "django",
+    167000,
+    8.0
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ],
+   [
+    "opensource",
+    399000,
+    32.6
+   ],
+   [
+    "Python",
+    1500000,
+    7.9
+   ]
+  ],
+  "datasets": [
+   [
+    "artificial",
+    1400000,
+    16.1
+   ],
+   [
+    "BusinessIntelligence",
+    241000,
+    14.4
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "datavisualization",
+    32000,
+    38.6
+   ],
+   [
+    "LanguageTechnology",
+    67000,
+    12.3
+   ],
+   [
+    "MachineLearning",
+    3100000,
+    2.8
+   ],
+   [
+    "MLQuestions",
+    116000,
+    31.3
+   ],
+   [
+    "Python",
+    1500000,
+    7.9
+   ],
+   [
+    "software",
+    383000,
+    23.7
+   ]
+  ],
+  "data": [
+   [
+    "analytics",
+    287000,
+    20.9
+   ],
+   [
+    "artificial",
+    1400000,
+    16.1
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "datasets",
+    224000,
+    7.5
+   ],
+   [
+    "healthIT",
+    60000,
+    29.9
+   ],
+   [
+    "LanguageTechnology",
+    67000,
+    12.3
+   ],
+   [
+    "learnpython",
+    1100000,
+    9.7
+   ],
+   [
+    "MLQuestions",
+    116000,
+    31.3
+   ],
+   [
+    "Python",
+    1500000,
+    7.9
+   ]
+  ],
+  "datavisualization": [
+   [
+    "analytics",
+    287000,
+    20.9
+   ],
+   [
+    "BusinessIntelligence",
+    241000,
+    14.4
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "dataisbeautiful",
+    21900000,
+    0.9
+   ],
+   [
+    "datascienceproject",
+    33000,
+    35.7
+   ],
+   [
+    "datasets",
+    224000,
+    7.5
+   ],
+   [
+    "gis",
+    153000,
+    15.2
+   ],
+   [
+    "learnpython",
+    1100000,
+    9.7
+   ],
+   [
+    "pystats",
+    10000,
+    0.5
+   ],
+   [
+    "tableau",
+    95000,
+    7.3
+   ]
+  ],
+  "businessanalysis": [
+   [
+    "analytics",
+    287000,
+    20.9
+   ],
+   [
+    "businessanalyst",
+    30000,
+    46.8
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "dataengineeringjobs",
+    46000,
+    77.5
+   ],
+   [
+    "FinancialAnalyst",
+    12000,
+    116.5
+   ],
+   [
+    "FPandA",
+    76000,
+    34.0
+   ],
+   [
+    "ITManagers",
+    82000,
+    53.6
+   ],
+   [
+    "pharmaindustry",
+    25000,
+    34.4
+   ]
+  ],
+  "businessanalyst": [
+   [
+    "businessanalysis",
+    120000,
+    21.0
+   ],
+   [
+    "careerguidance",
+    5100000,
+    7.0
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "developersIndia",
+    1600000,
+    12.6
+   ],
+   [
+    "DubaiJobs",
+    46000,
+    64.7
+   ],
+   [
+    "FinancialCareers",
+    1800000,
+    5.8
+   ],
+   [
+    "FPandA",
+    76000,
+    34.0
+   ],
+   [
+    "PMCareers",
+    49000,
+    56.1
+   ],
+   [
+    "sales",
+    612000,
+    17.8
+   ],
+   [
+    "SalesforceCareers",
+    23000,
+    25.4
+   ]
+  ],
+  "salesforce": [
+   [
+    "AcademicPsychology",
+    190000,
+    11.1
+   ],
+   [
+    "Artists",
+    128000,
+    77.7
+   ],
+   [
+    "Brampton",
+    58000,
+    9.4
+   ],
+   [
+    "breastfeeding",
+    257000,
+    22.3
+   ],
+   [
+    "Christians",
+    96000,
+    13.1
+   ],
+   [
+    "civilengineering",
+    234000,
+    19.7
+   ],
+   [
+    "humanresources",
+    244000,
+    28.2
+   ],
+   [
+    "linuxquestions",
+    410000,
+    23.2
+   ],
+   [
+    "stopdrinking",
+    732000,
+    19.3
+   ],
+   [
+    "WomensHealth",
+    206000,
+    29.4
+   ]
+  ],
+  "hubspot": [
+   [
+    "Affiliatemarketing",
+    294000,
+    18.0
+   ],
+   [
+    "b2bmarketing",
+    104000,
+    150.8
+   ],
+   [
+    "b2b_sales",
+    37000,
+    151.2
+   ],
+   [
+    "CRM",
+    61000,
+    104.9
+   ],
+   [
+    "GrowthHacking",
+    162000,
+    49.1
+   ],
+   [
+    "IndiaBusiness",
+    150000,
+    94.0
+   ],
+   [
+    "MarketingResearch",
+    36000,
+    47.0
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ],
+   [
+    "SalesOperations",
+    22000,
+    162.9
+   ],
+   [
+    "Sales_Professionals",
+    95000,
+    29.1
+   ]
+  ],
+  "GoogleAnalytics": [
+   [
+    "Affiliatemarketing",
+    294000,
+    18.0
+   ],
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "EcommerceWebsite",
+    31000,
+    144.5
+   ],
+   [
+    "ga4",
+    725,
+    9.7
+   ],
+   [
+    "GoogleAnalytics4",
+    1000,
+    30.7
+   ],
+   [
+    "growmybusiness",
+    158000,
+    115.7
+   ],
+   [
+    "MarketingAnalytics",
+    3000,
+    25.3
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ],
+   [
+    "SEO_Digital_Marketing",
+    79000,
+    28.4
+   ]
+  ],
+  "MarketingAutomation": [
+   [
+    "b2bmarketing",
+    104000,
+    150.8
+   ],
+   [
+    "B2BSaaS",
+    32000,
+    145.8
+   ],
+   [
+    "b2b_sales",
+    37000,
+    151.2
+   ],
+   [
+    "DigitalMarketingHack",
+    76000,
+    93.9
+   ],
+   [
+    "EmailOutreach",
+    7000,
+    421.4
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ],
+   [
+    "smallbusinessowner",
+    66000,
+    453.4
+   ],
+   [
+    "smallbusinessUS",
+    39000,
+    308.0
+   ]
+  ],
+  "n8n": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "AiAutomations",
+    88000,
+    409.7
+   ],
+   [
+    "Automate",
+    158000,
+    6.6
+   ],
+   [
+    "automation",
+    241000,
+    66.4
+   ],
+   [
+    "MarketingAutomation",
+    86000,
+    66.5
+   ],
+   [
+    "n8n_ai_agents",
+    40000,
+    271.6
+   ],
+   [
+    "Netsuite",
+    29000,
+    27.9
+   ],
+   [
+    "nocode",
+    144000,
+    50.3
+   ],
+   [
+    "Notion",
+    476000,
+    11.3
+   ],
+   [
+    "SmallBusinessOwners",
+    24000,
+    174.2
+   ]
+  ],
+  "automation": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "AiAutomations",
+    88000,
+    409.7
+   ],
+   [
+    "artificial",
+    1400000,
+    16.1
+   ],
+   [
+    "ArtificialInteligence",
+    2000000,
+    23.3
+   ],
+   [
+    "Automate",
+    158000,
+    6.6
+   ],
+   [
+    "n8n",
+    262000,
+    51.6
+   ],
+   [
+    "n8n_ai_agents",
+    40000,
+    271.6
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ]
+  ],
+  "nocode": [
+   [
+    "buildinpublic",
+    129000,
+    295.2
+   ],
+   [
+    "indiehackers",
+    200000,
+    64.3
+   ],
+   [
+    "lovable",
+    57000,
+    108.7
+   ],
+   [
+    "NoCodeSaaS",
+    48000,
+    60.8
+   ],
+   [
+    "replit",
+    37000,
+    56.0
+   ],
+   [
+    "saasbuild",
+    62000,
+    691.2
+   ],
+   [
+    "SaasDevelopers",
+    61000,
+    526.5
+   ],
+   [
+    "SideProject",
+    892000,
+    70.0
+   ],
+   [
+    "VibeCodeDevs",
+    67000,
+    338.7
+   ],
+   [
+    "VibeCodersNest",
+    23000,
+    550.9
+   ]
+  ],
+  "lowcode": [
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "BlackboxAI_",
+    41000,
+    179.6
+   ],
+   [
+    "ClaudeCode",
+    483000,
+    1061.3
+   ],
+   [
+    "Development",
+    15000,
+    73.4
+   ],
+   [
+    "mcp",
+    128000,
+    69.6
+   ],
+   [
+    "nocode",
+    144000,
+    50.3
+   ],
+   [
+    "rpa",
+    18000,
+    11.8
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ],
+   [
+    "softwaredevelopment",
+    167000,
+    34.2
+   ],
+   [
+    "webdevelopment",
+    87000,
+    69.4
+   ]
+  ],
+  "rpa": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "copywriting",
+    264000,
+    10.6
+   ],
+   [
+    "developersPak",
+    48000,
+    58.2
+   ],
+   [
+    "Development",
+    15000,
+    73.4
+   ],
+   [
+    "devops",
+    521000,
+    18.8
+   ],
+   [
+    "gis",
+    153000,
+    15.2
+   ],
+   [
+    "ITManagers",
+    82000,
+    53.6
+   ],
+   [
+    "projectmanagement",
+    243000,
+    18.3
+   ],
+   [
+    "SaaS",
+    840000,
+    90.5
+   ]
+  ],
+  "serverless": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "aws",
+    399000,
+    11.1
+   ],
+   [
+    "aws_cdk",
+    2000,
+    6.4
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "cloudnative",
+    251,
+    56.9
+   ],
+   [
+    "devops",
+    521000,
+    18.8
+   ],
+   [
+    "devopsish",
+    4000,
+    28.2
+   ],
+   [
+    "googlecloud",
+    101000,
+    27.0
+   ],
+   [
+    "OKTASSO",
+    197,
+    1.5
+   ],
+   [
+    "platformengineering",
+    12000,
+    256.9
+   ]
+  ],
+  "platformengineering": [
+   [
+    "aws",
+    399000,
+    11.1
+   ],
+   [
+    "Backend",
+    73000,
+    116.9
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "devops",
+    521000,
+    18.8
+   ],
+   [
+    "devopsjobs",
+    46000,
+    75.6
+   ],
+   [
+    "FinOps",
+    10000,
+    101.5
+   ],
+   [
+    "platform_engineering",
+    7000,
+    44.0
+   ],
+   [
+    "serverless",
+    15000,
+    7.4
+   ],
+   [
+    "sre",
+    59000,
+    38.5
+   ]
+  ],
+  "sre": [
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "devops",
+    521000,
+    18.8
+   ],
+   [
+    "devopsGuru",
+    12000,
+    74.7
+   ],
+   [
+    "devopsish",
+    4000,
+    28.2
+   ],
+   [
+    "devopsjobs",
+    46000,
+    75.6
+   ],
+   [
+    "hetzner",
+    31000,
+    63.1
+   ],
+   [
+    "ITCareerQuestions",
+    576000,
+    11.1
+   ],
+   [
+    "platformengineering",
+    12000,
+    256.9
+   ],
+   [
+    "platform_engineering",
+    7000,
+    44.0
+   ]
+  ],
+  "ArtificialInteligence": [
+   [
+    "aiArt",
+    692000,
+    7.8
+   ],
+   [
+    "AppIdeas",
+    107000,
+    72.3
+   ],
+   [
+    "artificial",
+    1400000,
+    16.1
+   ],
+   [
+    "ChatGPT",
+    11700000,
+    4.7
+   ],
+   [
+    "ChatGPTPromptGenius",
+    831000,
+    28.2
+   ],
+   [
+    "coding",
+    649000,
+    4.9
+   ],
+   [
+    "GithubCopilot",
+    88000,
+    146.9
+   ],
+   [
+    "singularity",
+    4000000,
+    6.5
+   ],
+   [
+    "software",
+    383000,
+    23.7
+   ],
+   [
+    "WritingWithAI",
+    170000,
+    164.0
+   ]
+  ],
+  "LocalLLM": [
+   [
+    "aiagents",
+    127000,
+    121.8
+   ],
+   [
+    "AI_Agents",
+    477000,
+    108.0
+   ],
+   [
+    "AIAgentsInAction",
+    43000,
+    451.5
+   ],
+   [
+    "AskClaw",
+    13000,
+    26.5
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "GithubCopilot",
+    88000,
+    146.9
+   ],
+   [
+    "LocalLLaMA",
+    867000,
+    55.8
+   ],
+   [
+    "machinelearningnews",
+    158000,
+    37.7
+   ],
+   [
+    "MCPservers",
+    31000,
+    121.1
+   ],
+   [
+    "ollama",
+    143000,
+    60.1
+   ]
+  ],
+  "LLM": [
+   [
+    "AIAssisted",
+    181000,
+    109.0
+   ],
+   [
+    "aipromptprogramming",
+    240000,
+    70.6
+   ],
+   [
+    "Anthropic",
+    238000,
+    324.7
+   ],
+   [
+    "ArtificialInteligence",
+    2000000,
+    23.3
+   ],
+   [
+    "BlackboxAI_",
+    41000,
+    179.6
+   ],
+   [
+    "ChatGPT",
+    11700000,
+    4.7
+   ],
+   [
+    "DeepSeek",
+    153000,
+    94.0
+   ],
+   [
+    "LLMDevs",
+    180000,
+    53.5
+   ],
+   [
+    "OpenSourceAI",
+    35000,
+    659.9
+   ],
+   [
+    "PromptEngineering",
+    428000,
+    60.9
+   ]
+  ],
+  "datascienceproject": [
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "datascience",
+    2800000,
+    2.8
+   ],
+   [
+    "DataScienceMemes",
+    6000,
+    2.9
+   ],
+   [
+    "datasciencenews",
+    18000,
+    4.0
+   ],
+   [
+    "DataScienceProjects",
+    7000,
+    12.0
+   ],
+   [
+    "deeplearning",
+    252000,
+    18.6
+   ],
+   [
+    "github",
+    219000,
+    31.2
+   ],
+   [
+    "learnmachinelearning",
+    690000,
+    21.1
+   ],
+   [
+    "learnpython",
+    1100000,
+    9.7
+   ],
+   [
+    "madeinpython",
+    28000,
+    13.0
+   ]
+  ],
+  "learndatascience": [
+   [
+    "dataanalysis",
+    233000,
+    24.4
+   ],
+   [
+    "dataanalyst",
+    59000,
+    42.3
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "dataengineering",
+    485000,
+    19.2
+   ],
+   [
+    "DataScienceSimplified",
+    9000,
+    17.4
+   ],
+   [
+    "DataScienceStudents",
+    3000,
+    17.5
+   ],
+   [
+    "learnmachinelearning",
+    690000,
+    21.1
+   ],
+   [
+    "learnprogramming",
+    4400000,
+    3.8
+   ],
+   [
+    "learnpython",
+    1100000,
+    9.7
+   ],
+   [
+    "learnSQL",
+    72000,
+    39.3
+   ]
+  ],
+  "DataScienceJobs": [
+   [
+    "CyberSecurityJobs",
+    69000,
+    40.0
+   ],
+   [
+    "dataanalysiscareers",
+    38000,
+    172.6
+   ],
+   [
+    "dataanalytics",
+    49000,
+    62.8
+   ],
+   [
+    "dataengineeringjobs",
+    46000,
+    77.5
+   ],
+   [
+    "datasciencecareers",
+    20000,
+    96.3
+   ],
+   [
+    "Germany_Jobs",
+    55000,
+    109.5
+   ],
+   [
+    "jobhunting",
+    186000,
+    193.7
+   ],
+   [
+    "jobs",
+    2900000,
+    16.8
+   ],
+   [
+    "jobsearch",
+    143000,
+    240.7
+   ],
+   [
+    "ProductManagementJobs",
+    7000,
+    240.3
+   ]
+  ],
+  "datadog": [
+   [
+    "AZURE",
+    218000,
+    13.8
+   ],
+   [
+    "Cloud",
+    52000,
+    55.6
+   ],
+   [
+    "CloudArchitect",
+    3000,
+    11.6
+   ],
+   [
+    "devops",
+    521000,
+    18.8
+   ],
+   [
+    "devopsish",
+    4000,
+    28.2
+   ],
+   [
+    "DevOpsLinks",
+    7000,
+    33.3
+   ],
+   [
+    "grafana",
+    27000,
+    23.3
+   ],
+   [
+    "kubernetes",
+    215000,
+    18.2
+   ],
+   [
+    "newrelic",
+    628,
+    16.3
+   ],
+   [
+    "sre",
+    59000,
+    38.5
+   ]
+  ]
+ },
+ "candidates": [
+  {
+   "name": "coding",
+   "members": 649000,
+   "growth_pct_yr": 4.9,
+   "votes": 20,
+   "referrers": [
+    "ArtificialInteligence",
+    "Database",
+    "ITManagers",
+    "MCPservers",
+    "PythonProjects2",
+    "Splunk",
+    "artificial",
+    "datasets",
+    "datavisualization",
+    "deeplearning",
+    "devsecops",
+    "github",
+    "instructionaldesign",
+    "madeinpython",
+    "microservices",
+    "modelcontextprotocol",
+    "opensource",
+    "technology",
+    "vibecoding",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "developersIndia",
+   "members": 1600000,
+   "growth_pct_yr": 12.6,
+   "votes": 12,
+   "referrers": [
+    "Backend",
+    "PowerPlatform",
+    "aiengineering",
+    "biotech",
+    "businessanalyst",
+    "dataanalysiscareers",
+    "dataanalyst",
+    "dataanalytics",
+    "dataengineersindia",
+    "developersPak",
+    "jobs",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "aiagents",
+   "members": 127000,
+   "growth_pct_yr": 121.8,
+   "votes": 12,
+   "referrers": [
+    "AIAgentsInAction",
+    "AgentsOfAI",
+    "LangGraph",
+    "LocalLLM",
+    "MCPservers",
+    "Observability",
+    "automation",
+    "microservices",
+    "modelcontextprotocol",
+    "n8n",
+    "rpa",
+    "serverless"
+   ]
+  },
+  {
+   "name": "Backend",
+   "members": 73000,
+   "growth_pct_yr": 116.9,
+   "votes": 12,
+   "referrers": [
+    "FastAPI",
+    "ITManagers",
+    "PythonProjects2",
+    "aiengineering",
+    "dataanalyst",
+    "deeplearning",
+    "learnSQL",
+    "microservices",
+    "platformengineering",
+    "redis",
+    "rpa",
+    "serverless"
+   ]
+  },
+  {
+   "name": "mcp",
+   "members": 128000,
+   "growth_pct_yr": 69.6,
+   "votes": 11,
+   "referrers": [
+    "AgentsOfAI",
+    "ClaudeCode",
+    "LangGraph",
+    "MCPservers",
+    "OpenSourceAI",
+    "PythonProjects2",
+    "elasticsearch",
+    "lowcode",
+    "modelcontextprotocol",
+    "scrapingtheweb",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "ClaudeCode",
+   "members": 483000,
+   "growth_pct_yr": 1061.3,
+   "votes": 10,
+   "referrers": [
+    "AgentsOfAI",
+    "LangGraph",
+    "MCPservers",
+    "PythonProjects2",
+    "aiagents",
+    "lowcode",
+    "mcp",
+    "modelcontextprotocol",
+    "opensource",
+    "vibecoding"
+   ]
+  },
+  {
+   "name": "developersPak",
+   "members": 48000,
+   "growth_pct_yr": 58.2,
+   "votes": 10,
+   "referrers": [
+    "Backend",
+    "FPandA",
+    "PowerPlatform",
+    "aiengineering",
+    "analytics",
+    "biotech",
+    "dataanalyst",
+    "dataengineersindia",
+    "gis",
+    "rpa"
+   ]
+  },
+  {
+   "name": "Cloud",
+   "members": 52000,
+   "growth_pct_yr": 55.6,
+   "votes": 9,
+   "referrers": [
+    "ApacheIceberg",
+    "AzureDataPlatforms",
+    "AzureSynapseAnalytics",
+    "Backend",
+    "SAP",
+    "Splunk",
+    "datadog",
+    "platformengineering",
+    "sre"
+   ]
+  },
+  {
+   "name": "MCPservers",
+   "members": 31000,
+   "growth_pct_yr": 121.1,
+   "votes": 9,
+   "referrers": [
+    "AgentsOfAI",
+    "LocalLLM",
+    "PythonProjects2",
+    "aiagents",
+    "madeinpython",
+    "mcp",
+    "modelcontextprotocol",
+    "scrapingtheweb",
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "ArtificialInteligence",
+   "members": 2000000,
+   "growth_pct_yr": 23.3,
+   "votes": 8,
+   "referrers": [
+    "AIAgentsInAction",
+    "KnowledgeGraph",
+    "LLM",
+    "LLMDevs",
+    "LargeLanguageModels",
+    "artificial",
+    "automation",
+    "mlops"
+   ]
+  },
+  {
+   "name": "sre",
+   "members": 59000,
+   "growth_pct_yr": 38.5,
+   "votes": 8,
+   "referrers": [
+    "Backend",
+    "ITManagers",
+    "Observability",
+    "SAP",
+    "datadog",
+    "elasticsearch",
+    "grafana",
+    "platformengineering"
+   ]
+  },
+  {
+   "name": "dataanalysiscareers",
+   "members": 38000,
+   "growth_pct_yr": 172.6,
+   "votes": 8,
+   "referrers": [
+    "Alteryx",
+    "DataCamp",
+    "DataScienceJobs",
+    "analytics",
+    "dataanalyst",
+    "dataanalytics",
+    "dataengineer",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "jobs",
+   "members": 2900000,
+   "growth_pct_yr": 16.8,
+   "votes": 7,
+   "referrers": [
+    "CyberSecurityJobs",
+    "DataScienceJobs",
+    "dataanalysiscareers",
+    "dataanalytics",
+    "dataengineersindia",
+    "developersIndia",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "artificial",
+   "members": 1400000,
+   "growth_pct_yr": 16.1,
+   "votes": 7,
+   "referrers": [
+    "ArtificialInteligence",
+    "ITManagers",
+    "LargeLanguageModels",
+    "automation",
+    "data",
+    "datasets",
+    "mlops"
+   ]
+  },
+  {
+   "name": "opensource",
+   "members": 399000,
+   "growth_pct_yr": 32.6,
+   "votes": 7,
+   "referrers": [
+    "OpenSourceAI",
+    "PythonProjects2",
+    "aiagents",
+    "coolgithubprojects",
+    "devsecops",
+    "mcp",
+    "vibecoding"
+   ]
+  },
+  {
+   "name": "deeplearning",
+   "members": 252000,
+   "growth_pct_yr": 18.6,
+   "votes": 7,
+   "referrers": [
+    "KnowledgeGraph",
+    "LLMDevs",
+    "LargeLanguageModels",
+    "LocalLLM",
+    "datascienceproject",
+    "madeinpython",
+    "mlops"
+   ]
+  },
+  {
+   "name": "learnSQL",
+   "members": 72000,
+   "growth_pct_yr": 39.3,
+   "votes": 7,
+   "referrers": [
+    "Database",
+    "PostgreSQL",
+    "SQL",
+    "bigquery",
+    "dataengineer",
+    "learndatascience",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "dataanalyst",
+   "members": 59000,
+   "growth_pct_yr": 42.3,
+   "votes": 7,
+   "referrers": [
+    "Alteryx",
+    "DataCamp",
+    "DuckDB",
+    "MicrosoftFabric",
+    "analytics",
+    "dataanalytics",
+    "learndatascience"
+   ]
+  },
+  {
+   "name": "Agent_AI",
+   "members": 45000,
+   "growth_pct_yr": 53.7,
+   "votes": 7,
+   "referrers": [
+    "AIAgentsInAction",
+    "AgentsOfAI",
+    "ClaudeCode",
+    "LangGraph",
+    "MCPservers",
+    "OpenSourceAI",
+    "vibecoding"
+   ]
+  },
+  {
+   "name": "platformengineering",
+   "members": 12000,
+   "growth_pct_yr": 256.9,
+   "votes": 7,
+   "referrers": [
+    "Backend",
+    "Observability",
+    "OpenTelemetry",
+    "SAP",
+    "devsecops",
+    "serverless",
+    "sre"
+   ]
+  },
+  {
+   "name": "Accounting",
+   "members": 1300000,
+   "growth_pct_yr": 10.2,
+   "votes": 6,
+   "referrers": [
+    "FPandA",
+    "analytics",
+    "biotech",
+    "dataengineersindia",
+    "developersPak",
+    "jobs"
+   ]
+  },
+  {
+   "name": "Automate",
+   "members": 158000,
+   "growth_pct_yr": 6.6,
+   "votes": 6,
+   "referrers": [
+    "Airtable",
+    "Alteryx",
+    "automation",
+    "madeinpython",
+    "n8n",
+    "scrapingtheweb"
+   ]
+  },
+  {
+   "name": "AgentsOfAI",
+   "members": 134000,
+   "growth_pct_yr": 83.3,
+   "votes": 6,
+   "referrers": [
+    "LangGraph",
+    "MCPservers",
+    "OpenSourceAI",
+    "aiagents",
+    "mcp",
+    "mlops"
+   ]
+  },
+  {
+   "name": "Database",
+   "members": 91000,
+   "growth_pct_yr": 27.2,
+   "votes": 6,
+   "referrers": [
+    "DuckDB",
+    "MSSQL",
+    "PostgreSQL",
+    "SQL",
+    "nosql",
+    "redis"
+   ]
+  },
+  {
+   "name": "FPandA",
+   "members": 76000,
+   "growth_pct_yr": 34.0,
+   "votes": 6,
+   "referrers": [
+    "Accounting",
+    "analytics",
+    "businessanalysis",
+    "businessanalyst",
+    "dataanalyst",
+    "developersPak"
+   ]
+  },
+  {
+   "name": "udemyfreebies",
+   "members": 66000,
+   "growth_pct_yr": 8.8,
+   "votes": 6,
+   "referrers": [
+    "Alteryx",
+    "AzureDataPlatforms",
+    "DataCamp",
+    "DuckDB",
+    "elasticsearch",
+    "learnSQL"
+   ]
+  },
+  {
+   "name": "careerguidance",
+   "members": 5100000,
+   "growth_pct_yr": 7.0,
+   "votes": 5,
+   "referrers": [
+    "Accounting",
+    "businessanalyst",
+    "electricians",
+    "jobs",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "webdev",
+   "members": 3300000,
+   "growth_pct_yr": 6.7,
+   "votes": 5,
+   "referrers": [
+    "Backend",
+    "MCPservers",
+    "SoftwareEngineering",
+    "opensource",
+    "scrapingtheweb"
+   ]
+  },
+  {
+   "name": "sales",
+   "members": 612000,
+   "growth_pct_yr": 17.8,
+   "votes": 5,
+   "referrers": [
+    "Accounting",
+    "QualityAssurance",
+    "businessanalyst",
+    "developersIndia",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "coolgithubprojects",
+   "members": 134000,
+   "growth_pct_yr": 115.9,
+   "votes": 5,
+   "referrers": [
+    "OpenSourceAI",
+    "PythonProjects2",
+    "github",
+    "madeinpython",
+    "opensource"
+   ]
+  },
+  {
+   "name": "b2bmarketing",
+   "members": 104000,
+   "growth_pct_yr": 150.8,
+   "votes": 5,
+   "referrers": [
+    "GrowthHacking",
+    "MarketingAutomation",
+    "SaaSSales",
+    "SalesOperations",
+    "hubspot"
+   ]
+  },
+  {
+   "name": "LanguageTechnology",
+   "members": 67000,
+   "growth_pct_yr": 12.3,
+   "votes": 5,
+   "referrers": [
+    "KnowledgeGraph",
+    "LargeLanguageModels",
+    "data",
+    "datasets",
+    "deeplearning"
+   ]
+  },
+  {
+   "name": "CRM",
+   "members": 61000,
+   "growth_pct_yr": 104.9,
+   "votes": 5,
+   "referrers": [
+    "Airtable",
+    "AzureSynapseAnalytics",
+    "SalesOperations",
+    "hubspot",
+    "zapier"
+   ]
+  },
+  {
+   "name": "BlackboxAI_",
+   "members": 41000,
+   "growth_pct_yr": 179.6,
+   "votes": 5,
+   "referrers": [
+    "AgentsOfAI",
+    "LLM",
+    "llmops",
+    "lowcode",
+    "mcp"
+   ]
+  },
+  {
+   "name": "OpenSourceAI",
+   "members": 35000,
+   "growth_pct_yr": 659.9,
+   "votes": 5,
+   "referrers": [
+    "LLM",
+    "aiagents",
+    "coolgithubprojects",
+    "mcp",
+    "opensource"
+   ]
+  },
+  {
+   "name": "careeradvice",
+   "members": 887000,
+   "growth_pct_yr": 24.0,
+   "votes": 4,
+   "referrers": [
+    "Accounting",
+    "dataanalysiscareers",
+    "developersPak",
+    "jobs"
+   ]
+  },
+  {
+   "name": "automation",
+   "members": 241000,
+   "growth_pct_yr": 66.4,
+   "votes": 4,
+   "referrers": [
+    "n8n",
+    "scrapingtheweb",
+    "softwarearchitecture",
+    "zapier"
+   ]
+  },
+  {
+   "name": "jobhunting",
+   "members": 186000,
+   "growth_pct_yr": 193.7,
+   "votes": 4,
+   "referrers": [
+    "DataScienceJobs",
+    "developersIndia",
+    "jobs",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "django",
+   "members": 167000,
+   "growth_pct_yr": 8.0,
+   "votes": 4,
+   "referrers": [
+    "FastAPI",
+    "ITManagers",
+    "PythonProjects2",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "machinelearningnews",
+   "members": 158000,
+   "growth_pct_yr": 37.7,
+   "votes": 4,
+   "referrers": [
+    "KnowledgeGraph",
+    "LargeLanguageModels",
+    "LocalLLM",
+    "deeplearning"
+   ]
+  },
+  {
+   "name": "softwarearchitecture",
+   "members": 123000,
+   "growth_pct_yr": 43.6,
+   "votes": 4,
+   "referrers": [
+    "FastAPI",
+    "MCPservers",
+    "madeinpython",
+    "microservices"
+   ]
+  },
+  {
+   "name": "Sales_Professionals",
+   "members": 95000,
+   "growth_pct_yr": 29.1,
+   "votes": 4,
+   "referrers": [
+    "FPandA",
+    "SalesOperations",
+    "gis",
+    "hubspot"
+   ]
+  },
+  {
+   "name": "MarketingAutomation",
+   "members": 86000,
+   "growth_pct_yr": 66.5,
+   "votes": 4,
+   "referrers": [
+    "GrowthHacking",
+    "SaaSSales",
+    "n8n",
+    "zapier"
+   ]
+  },
+  {
+   "name": "paralegal",
+   "members": 82000,
+   "growth_pct_yr": 33.7,
+   "votes": 4,
+   "referrers": [
+    "CyberSecurityJobs",
+    "electricians",
+    "gis",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "ITManagers",
+   "members": 82000,
+   "growth_pct_yr": 53.6,
+   "votes": 4,
+   "referrers": [
+    "CyberSecurityJobs",
+    "analytics",
+    "businessanalysis",
+    "rpa"
+   ]
+  },
+  {
+   "name": "B2BSaaS",
+   "members": 32000,
+   "growth_pct_yr": 145.8,
+   "votes": 4,
+   "referrers": [
+    "GrowthHacking",
+    "MarketingAutomation",
+    "SaaSSales",
+    "SalesOperations"
+   ]
+  },
+  {
+   "name": "dataengineersindia",
+   "members": 25000,
+   "growth_pct_yr": 124.6,
+   "votes": 4,
+   "referrers": [
+    "DataEngineeringPH",
+    "biotech",
+    "dataengineer",
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "Airtable",
+   "members": 20000,
+   "growth_pct_yr": 23.4,
+   "votes": 4,
+   "referrers": [
+    "FastAPI",
+    "Neo4j",
+    "scrapingtheweb",
+    "zapier"
+   ]
+  },
+  {
+   "name": "platform_engineering",
+   "members": 7000,
+   "growth_pct_yr": 44.0,
+   "votes": 4,
+   "referrers": [
+    "Observability",
+    "devsecops",
+    "platformengineering",
+    "sre"
+   ]
+  },
+  {
+   "name": "DatabaseAdministators",
+   "members": 6000,
+   "growth_pct_yr": 80.5,
+   "votes": 4,
+   "referrers": [
+    "Clickhouse",
+    "DuckDB",
+    "PostgreSQL",
+    "nosql"
+   ]
+  },
+  {
+   "name": "devopsish",
+   "members": 4000,
+   "growth_pct_yr": 28.2,
+   "votes": 4,
+   "referrers": [
+    "datadog",
+    "devsecops",
+    "serverless",
+    "sre"
+   ]
+  },
+  {
+   "name": "AzureDataPlatforms",
+   "members": 1000,
+   "growth_pct_yr": 13.5,
+   "votes": 4,
+   "referrers": [
+    "MicrosoftFabric",
+    "bigquery",
+    "databricks",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "ChatGPT",
+   "members": 11700000,
+   "growth_pct_yr": 4.7,
+   "votes": 3,
+   "referrers": [
+    "ArtificialInteligence",
+    "LLM",
+    "artificial"
+   ]
+  },
+  {
+   "name": "learnprogramming",
+   "members": 4400000,
+   "growth_pct_yr": 3.8,
+   "votes": 3,
+   "referrers": [
+    "learnSQL",
+    "learndatascience",
+    "microservices"
+   ]
+  },
+  {
+   "name": "singularity",
+   "members": 4000000,
+   "growth_pct_yr": 6.5,
+   "votes": 3,
+   "referrers": [
+    "ArtificialInteligence",
+    "LLMDevs",
+    "vibecoding"
+   ]
+  },
+  {
+   "name": "bangalore",
+   "members": 1100000,
+   "growth_pct_yr": 9.7,
+   "votes": 3,
+   "referrers": [
+    "Accounting",
+    "QualityAssurance",
+    "shopify"
+   ]
+  },
+  {
+   "name": "RemoteJobs",
+   "members": 598000,
+   "growth_pct_yr": 57.4,
+   "votes": 3,
+   "referrers": [
+    "CyberSecurityJobs",
+    "DataEngineeringPH",
+    "electricians"
+   ]
+  },
+  {
+   "name": "ITCareerQuestions",
+   "members": 576000,
+   "growth_pct_yr": 11.1,
+   "votes": 3,
+   "referrers": [
+    "CyberSecurityJobs",
+    "biotech",
+    "sre"
+   ]
+  },
+  {
+   "name": "software",
+   "members": 383000,
+   "growth_pct_yr": 23.7,
+   "votes": 3,
+   "referrers": [
+    "ArtificialInteligence",
+    "artificial",
+    "datasets"
+   ]
+  },
+  {
+   "name": "LocalLLM",
+   "members": 260000,
+   "growth_pct_yr": 182.2,
+   "votes": 3,
+   "referrers": [
+    "ClaudeCode",
+    "LLMDevs",
+    "github"
+   ]
+  },
+  {
+   "name": "humanresources",
+   "members": 244000,
+   "growth_pct_yr": 28.2,
+   "votes": 3,
+   "referrers": [
+    "FPandA",
+    "gis",
+    "salesforce"
+   ]
+  },
+  {
+   "name": "civilengineering",
+   "members": 234000,
+   "growth_pct_yr": 19.7,
+   "votes": 3,
+   "referrers": [
+    "dataengineersindia",
+    "developersPak",
+    "salesforce"
+   ]
+  },
+  {
+   "name": "datasets",
+   "members": 224000,
+   "growth_pct_yr": 7.5,
+   "votes": 3,
+   "referrers": [
+    "data",
+    "datavisualization",
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "github",
+   "members": 219000,
+   "growth_pct_yr": 31.2,
+   "votes": 3,
+   "referrers": [
+    "coolgithubprojects",
+    "datascienceproject",
+    "opensource"
+   ]
+  },
+  {
+   "name": "AIAssisted",
+   "members": 181000,
+   "growth_pct_yr": 109.0,
+   "votes": 3,
+   "referrers": [
+    "AgentsOfAI",
+    "LLM",
+    "LangGraph"
+   ]
+  },
+  {
+   "name": "cscareerquestionsEU",
+   "members": 179000,
+   "growth_pct_yr": 15.1,
+   "votes": 3,
+   "referrers": [
+    "DataEngineeringPH",
+    "dataengineersindia",
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "nextjs",
+   "members": 177000,
+   "growth_pct_yr": 18.6,
+   "votes": 3,
+   "referrers": [
+    "Backend",
+    "FastAPI",
+    "redis"
+   ]
+  },
+  {
+   "name": "SoftwareEngineering",
+   "members": 176000,
+   "growth_pct_yr": 11.9,
+   "votes": 3,
+   "referrers": [
+    "Backend",
+    "aiengineering",
+    "dataengineering"
+   ]
+  },
+  {
+   "name": "gis",
+   "members": 153000,
+   "growth_pct_yr": 15.2,
+   "votes": 3,
+   "referrers": [
+    "dataengineering",
+    "datavisualization",
+    "rpa"
+   ]
+  },
+  {
+   "name": "jobsearch",
+   "members": 143000,
+   "growth_pct_yr": 240.7,
+   "votes": 3,
+   "referrers": [
+    "CyberSecurityJobs",
+    "DataScienceJobs",
+    "dataanalytics"
+   ]
+  },
+  {
+   "name": "salesforce",
+   "members": 118000,
+   "growth_pct_yr": 19.0,
+   "votes": 3,
+   "referrers": [
+    "PowerPlatform",
+    "Splunk",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "MLQuestions",
+   "members": 116000,
+   "growth_pct_yr": 31.3,
+   "votes": 3,
+   "referrers": [
+    "data",
+    "datasets",
+    "deeplearning"
+   ]
+  },
+  {
+   "name": "CyberSecurityJobs",
+   "members": 69000,
+   "growth_pct_yr": 40.0,
+   "votes": 3,
+   "referrers": [
+    "DataScienceJobs",
+    "biotech",
+    "dataanalytics"
+   ]
+  },
+  {
+   "name": "PythonProjects2",
+   "members": 61000,
+   "growth_pct_yr": 25.8,
+   "votes": 3,
+   "referrers": [
+    "madeinpython",
+    "scrapingtheweb",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "neuralnetworks",
+   "members": 50000,
+   "growth_pct_yr": 58.2,
+   "votes": 3,
+   "referrers": [
+    "KnowledgeGraph",
+    "LargeLanguageModels",
+    "deeplearning"
+   ]
+  },
+  {
+   "name": "devopsjobs",
+   "members": 46000,
+   "growth_pct_yr": 75.6,
+   "votes": 3,
+   "referrers": [
+    "dataengineersindia",
+    "platformengineering",
+    "sre"
+   ]
+  },
+  {
+   "name": "AIAgentsInAction",
+   "members": 43000,
+   "growth_pct_yr": 451.5,
+   "votes": 3,
+   "referrers": [
+    "AgentsOfAI",
+    "LocalLLM",
+    "mlops"
+   ]
+  },
+  {
+   "name": "b2b_sales",
+   "members": 37000,
+   "growth_pct_yr": 151.2,
+   "votes": 3,
+   "referrers": [
+    "MarketingAutomation",
+    "SalesOperations",
+    "hubspot"
+   ]
+  },
+  {
+   "name": "OpenSourceeAI",
+   "members": 35000,
+   "growth_pct_yr": 173.7,
+   "votes": 3,
+   "referrers": [
+    "LargeLanguageModels",
+    "OpenSourceAI",
+    "coolgithubprojects"
+   ]
+  },
+  {
+   "name": "datavisualization",
+   "members": 32000,
+   "growth_pct_yr": 38.6,
+   "votes": 3,
+   "referrers": [
+    "Alteryx",
+    "Neo4j",
+    "datasets"
+   ]
+  },
+  {
+   "name": "grafana",
+   "members": 27000,
+   "growth_pct_yr": 23.3,
+   "votes": 3,
+   "referrers": [
+    "Observability",
+    "OpenTelemetry",
+    "datadog"
+   ]
+  },
+  {
+   "name": "ERP",
+   "members": 20000,
+   "growth_pct_yr": 49.5,
+   "votes": 3,
+   "referrers": [
+    "Dynamics365",
+    "SAP",
+    "oracle"
+   ]
+  },
+  {
+   "name": "ITdept",
+   "members": 16000,
+   "growth_pct_yr": 19.5,
+   "votes": 3,
+   "referrers": [
+    "ITManagers",
+    "developersPak",
+    "gis"
+   ]
+  },
+  {
+   "name": "PrometheusMonitoring",
+   "members": 13000,
+   "growth_pct_yr": 16.2,
+   "votes": 3,
+   "referrers": [
+    "Observability",
+    "OpenTelemetry",
+    "grafana"
+   ]
+  },
+  {
+   "name": "scrapingtheweb",
+   "members": 10000,
+   "growth_pct_yr": 365.7,
+   "votes": 3,
+   "referrers": [
+    "madeinpython",
+    "scrapy",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "Alteryx",
+   "members": 7000,
+   "growth_pct_yr": 11.6,
+   "votes": 3,
+   "referrers": [
+    "DataCamp",
+    "MSSQL",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "Neo4j",
+   "members": 6000,
+   "growth_pct_yr": 14.7,
+   "votes": 3,
+   "referrers": [
+    "KnowledgeGraph",
+    "coolgithubprojects",
+    "semanticweb"
+   ]
+  },
+  {
+   "name": "DataScienceMemes",
+   "members": 6000,
+   "growth_pct_yr": 2.9,
+   "votes": 3,
+   "referrers": [
+    "Alteryx",
+    "datascienceproject",
+    "madeinpython"
+   ]
+  },
+  {
+   "name": "Monitoring",
+   "members": 5000,
+   "growth_pct_yr": 102.5,
+   "votes": 3,
+   "referrers": [
+    "Observability",
+    "elasticsearch",
+    "grafana"
+   ]
+  },
+  {
+   "name": "dataengineer",
+   "members": 4000,
+   "growth_pct_yr": 84.9,
+   "votes": 3,
+   "referrers": [
+    "DataCamp",
+    "DataEngineeringPH",
+    "snowflake"
+   ]
+  },
+  {
+   "name": "scrapinghub",
+   "members": 2000,
+   "growth_pct_yr": 5.3,
+   "votes": 3,
+   "referrers": [
+    "scrapingtheweb",
+    "scrapy",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "technology",
+   "members": 20600000,
+   "growth_pct_yr": 3.3,
+   "votes": 2,
+   "referrers": [
+    "AzureSynapseAnalytics",
+    "apachespark"
+   ]
+  },
+  {
+   "name": "privacy",
+   "members": 1700000,
+   "growth_pct_yr": 9.8,
+   "votes": 2,
+   "referrers": [
+    "artificial",
+    "technology"
+   ]
+  },
+  {
+   "name": "node",
+   "members": 353000,
+   "growth_pct_yr": 10.0,
+   "votes": 2,
+   "referrers": [
+    "ITManagers",
+    "deeplearning"
+   ]
+  },
+  {
+   "name": "Affiliatemarketing",
+   "members": 294000,
+   "growth_pct_yr": 18.0,
+   "votes": 2,
+   "referrers": [
+    "GoogleAnalytics",
+    "hubspot"
+   ]
+  },
+  {
+   "name": "copywriting",
+   "members": 264000,
+   "growth_pct_yr": 10.6,
+   "votes": 2,
+   "referrers": [
+    "GrowthHacking",
+    "rpa"
+   ]
+  },
+  {
+   "name": "n8n",
+   "members": 262000,
+   "growth_pct_yr": 51.6,
+   "votes": 2,
+   "referrers": [
+    "Airtable",
+    "automation"
+   ]
+  },
+  {
+   "name": "msp",
+   "members": 252000,
+   "growth_pct_yr": 15.0,
+   "votes": 2,
+   "referrers": [
+    "ITManagers",
+    "oracle"
+   ]
+  },
+  {
+   "name": "projectmanagement",
+   "members": 243000,
+   "growth_pct_yr": 18.3,
+   "votes": 2,
+   "referrers": [
+    "dataengineering",
+    "rpa"
+   ]
+  },
+  {
+   "name": "Anthropic",
+   "members": 238000,
+   "growth_pct_yr": 324.7,
+   "votes": 2,
+   "referrers": [
+    "ClaudeCode",
+    "LLM"
+   ]
+  },
+  {
+   "name": "kubernetes",
+   "members": 215000,
+   "growth_pct_yr": 18.2,
+   "votes": 2,
+   "referrers": [
+    "datadog",
+    "grafana"
+   ]
+  },
+  {
+   "name": "claude",
+   "members": 212000,
+   "growth_pct_yr": 2390.0,
+   "votes": 2,
+   "referrers": [
+    "AIAgentsInAction",
+    "ClaudeCode"
+   ]
+  },
+  {
+   "name": "Entrepreneurs",
+   "members": 200000,
+   "growth_pct_yr": 131.0,
+   "votes": 2,
+   "referrers": [
+    "SaaSSales",
+    "marketingops"
+   ]
+  },
+  {
+   "name": "AskMarketing",
+   "members": 180000,
+   "growth_pct_yr": 77.5,
+   "votes": 2,
+   "referrers": [
+    "GrowthHacking",
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "softwaredevelopment",
+   "members": 167000,
+   "growth_pct_yr": 34.2,
+   "votes": 2,
+   "referrers": [
+    "github",
+    "lowcode"
+   ]
+  },
+  {
+   "name": "react",
+   "members": 160000,
+   "growth_pct_yr": 16.1,
+   "votes": 2,
+   "referrers": [
+    "PostgreSQL",
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "DeepSeek",
+   "members": 153000,
+   "growth_pct_yr": 94.0,
+   "votes": 2,
+   "referrers": [
+    "LLM",
+    "github"
+   ]
+  },
+  {
+   "name": "CyberSecurityAdvice",
+   "members": 147000,
+   "growth_pct_yr": 35.0,
+   "votes": 2,
+   "referrers": [
+    "CyberSecurityJobs",
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "nocode",
+   "members": 144000,
+   "growth_pct_yr": 50.3,
+   "votes": 2,
+   "referrers": [
+    "lowcode",
+    "n8n"
+   ]
+  },
+  {
+   "name": "ollama",
+   "members": 143000,
+   "growth_pct_yr": 60.1,
+   "votes": 2,
+   "referrers": [
+    "LocalLLM",
+    "github"
+   ]
+  },
+  {
+   "name": "Emailmarketing",
+   "members": 126000,
+   "growth_pct_yr": 28.2,
+   "votes": 2,
+   "referrers": [
+    "Airtable",
+    "marketingops"
+   ]
+  },
+  {
+   "name": "businessanalysis",
+   "members": 120000,
+   "growth_pct_yr": 21.0,
+   "votes": 2,
+   "referrers": [
+    "analytics",
+    "businessanalyst"
+   ]
+  },
+  {
+   "name": "PlasmaTV",
+   "members": 113000,
+   "growth_pct_yr": 3114.8,
+   "votes": 2,
+   "referrers": [
+    "Hacking_Tricks",
+    "bigdata"
+   ]
+  },
+  {
+   "name": "webscraping",
+   "members": 105000,
+   "growth_pct_yr": 34.9,
+   "votes": 2,
+   "referrers": [
+    "scrapingtheweb",
+    "scrapy"
+   ]
+  },
+  {
+   "name": "torontoJobs",
+   "members": 100000,
+   "growth_pct_yr": 32.9,
+   "votes": 2,
+   "referrers": [
+    "jobs",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "flask",
+   "members": 94000,
+   "growth_pct_yr": 3.4,
+   "votes": 2,
+   "referrers": [
+    "FastAPI",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "Architects",
+   "members": 88000,
+   "growth_pct_yr": 38.4,
+   "votes": 2,
+   "referrers": [
+    "biotech",
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "AiAutomations",
+   "members": 88000,
+   "growth_pct_yr": 409.7,
+   "votes": 2,
+   "referrers": [
+    "automation",
+    "n8n"
+   ]
+  },
+  {
+   "name": "Cybersecurity101",
+   "members": 76000,
+   "growth_pct_yr": 157.5,
+   "votes": 2,
+   "referrers": [
+    "CyberSecurityJobs",
+    "modelcontextprotocol"
+   ]
+  },
+  {
+   "name": "Hacking_Tricks",
+   "members": 68000,
+   "growth_pct_yr": 36.4,
+   "votes": 2,
+   "referrers": [
+    "PlasmaTV",
+    "bigdata"
+   ]
+  },
+  {
+   "name": "VibeCodeDevs",
+   "members": 67000,
+   "growth_pct_yr": 338.7,
+   "votes": 2,
+   "referrers": [
+    "nocode",
+    "vibecoding"
+   ]
+  },
+  {
+   "name": "SAP",
+   "members": 64000,
+   "growth_pct_yr": 32.1,
+   "votes": 2,
+   "referrers": [
+    "SQL",
+    "oracle"
+   ]
+  },
+  {
+   "name": "saasbuild",
+   "members": 62000,
+   "growth_pct_yr": 691.2,
+   "votes": 2,
+   "referrers": [
+    "marketingops",
+    "nocode"
+   ]
+  },
+  {
+   "name": "ConstructionManagers",
+   "members": 61000,
+   "growth_pct_yr": 52.0,
+   "votes": 2,
+   "referrers": [
+    "biotech",
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "learndatascience",
+   "members": 61000,
+   "growth_pct_yr": 60.4,
+   "votes": 2,
+   "referrers": [
+    "SQL",
+    "dataanalyst"
+   ]
+  },
+  {
+   "name": "developers",
+   "members": 61000,
+   "growth_pct_yr": 94.7,
+   "votes": 2,
+   "referrers": [
+    "PowerPlatform",
+    "aiengineering"
+   ]
+  },
+  {
+   "name": "Brampton",
+   "members": 58000,
+   "growth_pct_yr": 9.4,
+   "votes": 2,
+   "referrers": [
+    "projectmanagement",
+    "salesforce"
+   ]
+  },
+  {
+   "name": "CustomerSuccess",
+   "members": 57000,
+   "growth_pct_yr": 49.1,
+   "votes": 2,
+   "referrers": [
+    "FPandA",
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "developer",
+   "members": 50000,
+   "growth_pct_yr": 48.0,
+   "votes": 2,
+   "referrers": [
+    "PythonProjects2",
+    "microservices"
+   ]
+  },
+  {
+   "name": "PMCareers",
+   "members": 49000,
+   "growth_pct_yr": 56.1,
+   "votes": 2,
+   "referrers": [
+    "businessanalyst",
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "DubaiJobs",
+   "members": 46000,
+   "growth_pct_yr": 64.7,
+   "votes": 2,
+   "referrers": [
+    "FPandA",
+    "businessanalyst"
+   ]
+  },
+  {
+   "name": "n8n_ai_agents",
+   "members": 40000,
+   "growth_pct_yr": 271.6,
+   "votes": 2,
+   "referrers": [
+    "automation",
+    "n8n"
+   ]
+  },
+  {
+   "name": "SaaSMarketing",
+   "members": 40000,
+   "growth_pct_yr": 133.1,
+   "votes": 2,
+   "referrers": [
+    "GrowthHacking",
+    "SaaSSales"
+   ]
+  },
+  {
+   "name": "industrialengineering",
+   "members": 34000,
+   "growth_pct_yr": 36.7,
+   "votes": 2,
+   "referrers": [
+    "Accounting",
+    "developersPak"
+   ]
+  },
+  {
+   "name": "cscareerquestionsuk",
+   "members": 33000,
+   "growth_pct_yr": 47.6,
+   "votes": 2,
+   "referrers": [
+    "dataanalysiscareers",
+    "developersPak"
+   ]
+  },
+  {
+   "name": "datascienceproject",
+   "members": 33000,
+   "growth_pct_yr": 35.7,
+   "votes": 2,
+   "referrers": [
+    "datavisualization",
+    "madeinpython"
+   ]
+  },
+  {
+   "name": "UIUX",
+   "members": 32000,
+   "growth_pct_yr": 73.2,
+   "votes": 2,
+   "referrers": [
+    "developersPak",
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "madeinpython",
+   "members": 28000,
+   "growth_pct_yr": 13.0,
+   "votes": 2,
+   "referrers": [
+    "FastAPI",
+    "datascienceproject"
+   ]
+  },
+  {
+   "name": "Splunk",
+   "members": 26000,
+   "growth_pct_yr": 16.0,
+   "votes": 2,
+   "referrers": [
+    "elasticsearch",
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "gohighlevel",
+   "members": 26000,
+   "growth_pct_yr": 101.6,
+   "votes": 2,
+   "referrers": [
+    "Airtable",
+    "zapier"
+   ]
+  },
+  {
+   "name": "pharmaindustry",
+   "members": 25000,
+   "growth_pct_yr": 34.4,
+   "votes": 2,
+   "referrers": [
+    "Accounting",
+    "businessanalysis"
+   ]
+  },
+  {
+   "name": "hubspot",
+   "members": 25000,
+   "growth_pct_yr": 60.0,
+   "votes": 2,
+   "referrers": [
+    "Airtable",
+    "zapier"
+   ]
+  },
+  {
+   "name": "devsecops",
+   "members": 23000,
+   "growth_pct_yr": 90.6,
+   "votes": 2,
+   "referrers": [
+    "coolgithubprojects",
+    "mlops"
+   ]
+  },
+  {
+   "name": "SalesforceCareers",
+   "members": 23000,
+   "growth_pct_yr": 25.4,
+   "votes": 2,
+   "referrers": [
+    "businessanalyst",
+    "gis"
+   ]
+  },
+  {
+   "name": "helpdesk",
+   "members": 22000,
+   "growth_pct_yr": 99.1,
+   "votes": 2,
+   "referrers": [
+    "FPandA",
+    "gis"
+   ]
+  },
+  {
+   "name": "bim",
+   "members": 21000,
+   "growth_pct_yr": 48.6,
+   "votes": 2,
+   "referrers": [
+    "biotech",
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "DataCamp",
+   "members": 20000,
+   "growth_pct_yr": 18.4,
+   "votes": 2,
+   "referrers": [
+    "DataEngineeringPH",
+    "dataengineer"
+   ]
+  },
+  {
+   "name": "rpa",
+   "members": 18000,
+   "growth_pct_yr": 11.8,
+   "votes": 2,
+   "referrers": [
+    "PowerPlatform",
+    "lowcode"
+   ]
+  },
+  {
+   "name": "LargeLanguageModels",
+   "members": 17000,
+   "growth_pct_yr": 92.9,
+   "votes": 2,
+   "referrers": [
+    "LLMDevs",
+    "mlops"
+   ]
+  },
+  {
+   "name": "Development",
+   "members": 15000,
+   "growth_pct_yr": 73.4,
+   "votes": 2,
+   "referrers": [
+    "lowcode",
+    "rpa"
+   ]
+  },
+  {
+   "name": "serverless",
+   "members": 15000,
+   "growth_pct_yr": 7.4,
+   "votes": 2,
+   "referrers": [
+    "microservices",
+    "platformengineering"
+   ]
+  },
+  {
+   "name": "devopsGuru",
+   "members": 12000,
+   "growth_pct_yr": 74.7,
+   "votes": 2,
+   "referrers": [
+    "SAP",
+    "sre"
+   ]
+  },
+  {
+   "name": "atlassian",
+   "members": 11000,
+   "growth_pct_yr": 27.2,
+   "votes": 2,
+   "referrers": [
+    "SAP",
+    "Splunk"
+   ]
+  },
+  {
+   "name": "ProductManagementJobs",
+   "members": 7000,
+   "growth_pct_yr": 240.3,
+   "votes": 2,
+   "referrers": [
+    "DataScienceJobs",
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "DevOpsLinks",
+   "members": 7000,
+   "growth_pct_yr": 33.3,
+   "votes": 2,
+   "referrers": [
+    "datadog",
+    "devsecops"
+   ]
+  },
+  {
+   "name": "Observability",
+   "members": 7000,
+   "growth_pct_yr": 190.2,
+   "votes": 2,
+   "referrers": [
+    "OpenTelemetry",
+    "grafana"
+   ]
+  },
+  {
+   "name": "DataEngineeringPH",
+   "members": 7000,
+   "growth_pct_yr": 110.2,
+   "votes": 2,
+   "referrers": [
+    "DataCamp",
+    "dataengineer"
+   ]
+  },
+  {
+   "name": "KnowledgeGraph",
+   "members": 6000,
+   "growth_pct_yr": 157.9,
+   "votes": 2,
+   "referrers": [
+    "Neo4j",
+    "semanticweb"
+   ]
+  },
+  {
+   "name": "nosql",
+   "members": 5000,
+   "growth_pct_yr": 3.1,
+   "votes": 2,
+   "referrers": [
+    "apachespark",
+    "redis"
+   ]
+  },
+  {
+   "name": "AzureSentinel",
+   "members": 5000,
+   "growth_pct_yr": 28.3,
+   "votes": 2,
+   "referrers": [
+    "AzureSynapseAnalytics",
+    "Clickhouse"
+   ]
+  },
+  {
+   "name": "SAtechnews",
+   "members": 4000,
+   "growth_pct_yr": 7.0,
+   "votes": 2,
+   "referrers": [
+    "AzureSynapseAnalytics",
+    "technology"
+   ]
+  },
+  {
+   "name": "MSSQL",
+   "members": 3000,
+   "growth_pct_yr": 10.1,
+   "votes": 2,
+   "referrers": [
+    "MicrosoftFabric",
+    "bigquery"
+   ]
+  },
+  {
+   "name": "scraping",
+   "members": 2000,
+   "growth_pct_yr": 8.6,
+   "votes": 2,
+   "referrers": [
+    "scrapy",
+    "webscraping"
+   ]
+  },
+  {
+   "name": "Parseur",
+   "members": 51,
+   "growth_pct_yr": 18.6,
+   "votes": 2,
+   "referrers": [
+    "AzureSynapseAnalytics",
+    "zapier"
+   ]
+  },
+  {
+   "name": "AskReddit",
+   "members": 60100000,
+   "growth_pct_yr": 5.3,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "CryptoCurrency",
+   "members": 10200000,
+   "growth_pct_yr": 2.2,
+   "votes": 1,
+   "referrers": [
+    "artificial"
+   ]
+  },
+  {
+   "name": "cats",
+   "members": 9500000,
+   "growth_pct_yr": 8.9,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "entertainment",
+   "members": 6600000,
+   "growth_pct_yr": 4.5,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "dankmemes",
+   "members": 5900000,
+   "growth_pct_yr": 1.1,
+   "votes": 1,
+   "referrers": [
+    "artificial"
+   ]
+  },
+  {
+   "name": "techsupport",
+   "members": 3500000,
+   "growth_pct_yr": 5.4,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "business",
+   "members": 2600000,
+   "growth_pct_yr": 3.5,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "softwaregore",
+   "members": 2000000,
+   "growth_pct_yr": 2.1,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "FinancialCareers",
+   "members": 1800000,
+   "growth_pct_yr": 5.8,
+   "votes": 1,
+   "referrers": [
+    "businessanalyst"
+   ]
+  },
+  {
+   "name": "cybersecurity",
+   "members": 1600000,
+   "growth_pct_yr": 19.7,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "recruitinghell",
+   "members": 1500000,
+   "growth_pct_yr": 27.2,
+   "votes": 1,
+   "referrers": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "piano",
+   "members": 1300000,
+   "growth_pct_yr": 4.1,
+   "votes": 1,
+   "referrers": [
+    "SQL"
+   ]
+  },
+  {
+   "name": "technews",
+   "members": 1100000,
+   "growth_pct_yr": 4.1,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "tattoo",
+   "members": 1000000,
+   "growth_pct_yr": 5.1,
+   "votes": 1,
+   "referrers": [
+    "Database"
+   ]
+  },
+  {
+   "name": "buildapcsales",
+   "members": 1000000,
+   "growth_pct_yr": 4.7,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "binance",
+   "members": 941000,
+   "growth_pct_yr": 2.6,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "ChatGPTPromptGenius",
+   "members": 831000,
+   "growth_pct_yr": 28.2,
+   "votes": 1,
+   "referrers": [
+    "ArtificialInteligence"
+   ]
+  },
+  {
+   "name": "stopdrinking",
+   "members": 732000,
+   "growth_pct_yr": 19.3,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "tech",
+   "members": 700000,
+   "growth_pct_yr": 4.7,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "aiArt",
+   "members": 692000,
+   "growth_pct_yr": 7.8,
+   "votes": 1,
+   "referrers": [
+    "ArtificialInteligence"
+   ]
+  },
+  {
+   "name": "ecommerce",
+   "members": 688000,
+   "growth_pct_yr": 19.1,
+   "votes": 1,
+   "referrers": [
+    "GrowthHacking"
+   ]
+  },
+  {
+   "name": "TeenIndia",
+   "members": 596000,
+   "growth_pct_yr": 89.9,
+   "votes": 1,
+   "referrers": [
+    "oracle"
+   ]
+  },
+  {
+   "name": "autism",
+   "members": 595000,
+   "growth_pct_yr": 19.5,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "electricians",
+   "members": 584000,
+   "growth_pct_yr": 12.6,
+   "votes": 1,
+   "referrers": [
+    "dataengineering"
+   ]
+  },
+  {
+   "name": "Chennai",
+   "members": 581000,
+   "growth_pct_yr": 7.4,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "SEO",
+   "members": 520000,
+   "growth_pct_yr": 21.0,
+   "votes": 1,
+   "referrers": [
+    "artificial"
+   ]
+  },
+  {
+   "name": "MomForAMinute",
+   "members": 497000,
+   "growth_pct_yr": 8.9,
+   "votes": 1,
+   "referrers": [
+    "oracle"
+   ]
+  },
+  {
+   "name": "Notion",
+   "members": 476000,
+   "growth_pct_yr": 11.3,
+   "votes": 1,
+   "referrers": [
+    "n8n"
+   ]
+  },
+  {
+   "name": "csMajors",
+   "members": 468000,
+   "growth_pct_yr": 16.7,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "Coinbase",
+   "members": 466000,
+   "growth_pct_yr": 7.2,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "GameDevelopment",
+   "members": 440000,
+   "growth_pct_yr": 9.3,
+   "votes": 1,
+   "referrers": [
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "UKJobs",
+   "members": 416000,
+   "growth_pct_yr": 22.9,
+   "votes": 1,
+   "referrers": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "linuxquestions",
+   "members": 410000,
+   "growth_pct_yr": 23.2,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "GeminiAI",
+   "members": 402000,
+   "growth_pct_yr": 183.0,
+   "votes": 1,
+   "referrers": [
+    "ClaudeCode"
+   ]
+  },
+  {
+   "name": "consulting",
+   "members": 388000,
+   "growth_pct_yr": 14.6,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "askSingapore",
+   "members": 387000,
+   "growth_pct_yr": 14.6,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "shopify",
+   "members": 385000,
+   "growth_pct_yr": 21.6,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "Virginia",
+   "members": 379000,
+   "growth_pct_yr": 12.2,
+   "votes": 1,
+   "referrers": [
+    "Accounting"
+   ]
+  },
+  {
+   "name": "askTO",
+   "members": 346000,
+   "growth_pct_yr": 17.4,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "UAE",
+   "members": 338000,
+   "growth_pct_yr": 57.5,
+   "votes": 1,
+   "referrers": [
+    "QualityAssurance"
+   ]
+  },
+  {
+   "name": "csharp",
+   "members": 331000,
+   "growth_pct_yr": 8.9,
+   "votes": 1,
+   "referrers": [
+    "SQL"
+   ]
+  },
+  {
+   "name": "interviews",
+   "members": 325000,
+   "growth_pct_yr": 62.4,
+   "votes": 1,
+   "referrers": [
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "computadores",
+   "members": 315000,
+   "growth_pct_yr": 32.4,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "Finland",
+   "members": 314000,
+   "growth_pct_yr": 9.2,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "pchelp",
+   "members": 313000,
+   "growth_pct_yr": 62.8,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "AskElectricians",
+   "members": 302000,
+   "growth_pct_yr": 45.0,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "PinoyProgrammer",
+   "members": 297000,
+   "growth_pct_yr": 4.3,
+   "votes": 1,
+   "referrers": [
+    "PowerPlatform"
+   ]
+  },
+  {
+   "name": "MechanicalEngineering",
+   "members": 294000,
+   "growth_pct_yr": 28.9,
+   "votes": 1,
+   "referrers": [
+    "Accounting"
+   ]
+  },
+  {
+   "name": "ProductManagement",
+   "members": 286000,
+   "growth_pct_yr": 23.0,
+   "votes": 1,
+   "referrers": [
+    "FPandA"
+   ]
+  },
+  {
+   "name": "IndiaCareers",
+   "members": 273000,
+   "growth_pct_yr": 23.1,
+   "votes": 1,
+   "referrers": [
+    "dataengineersindia"
+   ]
+  },
+  {
+   "name": "SanJose",
+   "members": 273000,
+   "growth_pct_yr": 16.6,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "AskNetsec",
+   "members": 269000,
+   "growth_pct_yr": 15.3,
+   "votes": 1,
+   "referrers": [
+    "ITManagers"
+   ]
+  },
+  {
+   "name": "biotech",
+   "members": 259000,
+   "growth_pct_yr": 27.2,
+   "votes": 1,
+   "referrers": [
+    "dataanalytics"
+   ]
+  },
+  {
+   "name": "breastfeeding",
+   "members": 257000,
+   "growth_pct_yr": 22.3,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "UXDesign",
+   "members": 254000,
+   "growth_pct_yr": 20.4,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "HVAC",
+   "members": 247000,
+   "growth_pct_yr": 11.7,
+   "votes": 1,
+   "referrers": [
+    "SoftwareEngineering"
+   ]
+  },
+  {
+   "name": "it",
+   "members": 238000,
+   "growth_pct_yr": 110.5,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "AskProgramming",
+   "members": 238000,
+   "growth_pct_yr": 21.4,
+   "votes": 1,
+   "referrers": [
+    "aiengineering"
+   ]
+  },
+  {
+   "name": "de_EDV",
+   "members": 234000,
+   "growth_pct_yr": 13.4,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "vscode",
+   "members": 227000,
+   "growth_pct_yr": 16.9,
+   "votes": 1,
+   "referrers": [
+    "coolgithubprojects"
+   ]
+  },
+  {
+   "name": "AssassinsCreedOdyssey",
+   "members": 208000,
+   "growth_pct_yr": 17.6,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "WomensHealth",
+   "members": 206000,
+   "growth_pct_yr": 29.4,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "restaurant",
+   "members": 201000,
+   "growth_pct_yr": 13.0,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "learnjava",
+   "members": 197000,
+   "growth_pct_yr": 9.0,
+   "votes": 1,
+   "referrers": [
+    "learnSQL"
+   ]
+  },
+  {
+   "name": "AcademicPsychology",
+   "members": 190000,
+   "growth_pct_yr": 11.1,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "typescript",
+   "members": 187000,
+   "growth_pct_yr": 12.4,
+   "votes": 1,
+   "referrers": [
+    "FastAPI"
+   ]
+  },
+  {
+   "name": "WritingWithAI",
+   "members": 170000,
+   "growth_pct_yr": 164.0,
+   "votes": 1,
+   "referrers": [
+    "ArtificialInteligence"
+   ]
+  },
+  {
+   "name": "GeForceNOW",
+   "members": 167000,
+   "growth_pct_yr": 19.9,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "GrowthHacking",
+   "members": 162000,
+   "growth_pct_yr": 49.1,
+   "votes": 1,
+   "referrers": [
+    "hubspot"
+   ]
+  },
+  {
+   "name": "growmybusiness",
+   "members": 158000,
+   "growth_pct_yr": 115.7,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "Bard",
+   "members": 153000,
+   "growth_pct_yr": 37.0,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "IndiaBusiness",
+   "members": 150000,
+   "growth_pct_yr": 94.0,
+   "votes": 1,
+   "referrers": [
+    "hubspot"
+   ]
+  },
+  {
+   "name": "ChaiApp",
+   "members": 142000,
+   "growth_pct_yr": 41.5,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "indianstartups",
+   "members": 138000,
+   "growth_pct_yr": 64.6,
+   "votes": 1,
+   "referrers": [
+    "SaaSSales"
+   ]
+  },
+  {
+   "name": "buildinpublic",
+   "members": 129000,
+   "growth_pct_yr": 295.2,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "Artists",
+   "members": 128000,
+   "growth_pct_yr": 77.7,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "FACEITcom",
+   "members": 127000,
+   "growth_pct_yr": 26.1,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "hiringcafe",
+   "members": 124000,
+   "growth_pct_yr": 62.1,
+   "votes": 1,
+   "referrers": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "git",
+   "members": 124000,
+   "growth_pct_yr": 23.4,
+   "votes": 1,
+   "referrers": [
+    "coolgithubprojects"
+   ]
+  },
+  {
+   "name": "MoneyDiariesACTIVE",
+   "members": 121000,
+   "growth_pct_yr": 15.4,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "supplychain",
+   "members": 119000,
+   "growth_pct_yr": 25.7,
+   "votes": 1,
+   "referrers": [
+    "Accounting"
+   ]
+  },
+  {
+   "name": "mechanics",
+   "members": 119000,
+   "growth_pct_yr": 24.1,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "SecurityCareerAdvice",
+   "members": 119000,
+   "growth_pct_yr": 36.2,
+   "votes": 1,
+   "referrers": [
+    "CyberSecurityJobs"
+   ]
+  },
+  {
+   "name": "academia",
+   "members": 111000,
+   "growth_pct_yr": 17.1,
+   "votes": 1,
+   "referrers": [
+    "KnowledgeGraph"
+   ]
+  },
+  {
+   "name": "accelerate",
+   "members": 109000,
+   "growth_pct_yr": 345.0,
+   "votes": 1,
+   "referrers": [
+    "AIAgentsInAction"
+   ]
+  },
+  {
+   "name": "paypal",
+   "members": 109000,
+   "growth_pct_yr": 28.8,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "AppIdeas",
+   "members": 107000,
+   "growth_pct_yr": 72.3,
+   "votes": 1,
+   "referrers": [
+    "ArtificialInteligence"
+   ]
+  },
+  {
+   "name": "uber",
+   "members": 105000,
+   "growth_pct_yr": 23.5,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "hackernews",
+   "members": 102000,
+   "growth_pct_yr": 9.8,
+   "votes": 1,
+   "referrers": [
+    "webscraping"
+   ]
+  },
+  {
+   "name": "hardwarebrasil",
+   "members": 102000,
+   "growth_pct_yr": 45.9,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "Mercadoreddit",
+   "members": 102000,
+   "growth_pct_yr": 21.5,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "Christians",
+   "members": 96000,
+   "growth_pct_yr": 13.1,
+   "votes": 1,
+   "referrers": [
+    "salesforce"
+   ]
+  },
+  {
+   "name": "charts",
+   "members": 93000,
+   "growth_pct_yr": 53.5,
+   "votes": 1,
+   "referrers": [
+    "Neo4j"
+   ]
+  },
+  {
+   "name": "computerforensics",
+   "members": 92000,
+   "growth_pct_yr": 14.4,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "outlier_ai",
+   "members": 91000,
+   "growth_pct_yr": 68.9,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "QualityAssurance",
+   "members": 87000,
+   "growth_pct_yr": 34.1,
+   "votes": 1,
+   "referrers": [
+    "dataanalytics"
+   ]
+  },
+  {
+   "name": "FilmIndustryLA",
+   "members": 87000,
+   "growth_pct_yr": 15.5,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "webdevelopment",
+   "members": 87000,
+   "growth_pct_yr": 69.4,
+   "votes": 1,
+   "referrers": [
+    "lowcode"
+   ]
+  },
+  {
+   "name": "AIJobs",
+   "members": 86000,
+   "growth_pct_yr": 3910.8,
+   "votes": 1,
+   "referrers": [
+    "CyberSecurityJobs"
+   ]
+  },
+  {
+   "name": "Terraform",
+   "members": 86000,
+   "growth_pct_yr": 18.0,
+   "votes": 1,
+   "referrers": [
+    "devsecops"
+   ]
+  },
+  {
+   "name": "computerhelp",
+   "members": 85000,
+   "growth_pct_yr": 42.9,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "ExcelTips",
+   "members": 83000,
+   "growth_pct_yr": 21.7,
+   "votes": 1,
+   "referrers": [
+    "scrapingtheweb"
+   ]
+  },
+  {
+   "name": "FamilyMedicine",
+   "members": 81000,
+   "growth_pct_yr": 17.5,
+   "votes": 1,
+   "referrers": [
+    "oracle"
+   ]
+  },
+  {
+   "name": "SEO_Digital_Marketing",
+   "members": 79000,
+   "growth_pct_yr": 28.4,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "AskTechnology",
+   "members": 78000,
+   "growth_pct_yr": 51.2,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "InformationTechnology",
+   "members": 77000,
+   "growth_pct_yr": 23.3,
+   "votes": 1,
+   "referrers": [
+    "ITManagers"
+   ]
+  },
+  {
+   "name": "DigitalMarketingHack",
+   "members": 76000,
+   "growth_pct_yr": 93.9,
+   "votes": 1,
+   "referrers": [
+    "MarketingAutomation"
+   ]
+  },
+  {
+   "name": "salestechniques",
+   "members": 70000,
+   "growth_pct_yr": 51.4,
+   "votes": 1,
+   "referrers": [
+    "SalesOperations"
+   ]
+  },
+  {
+   "name": "UXResearch",
+   "members": 69000,
+   "growth_pct_yr": 16.0,
+   "votes": 1,
+   "referrers": [
+    "dataanalysiscareers"
+   ]
+  },
+  {
+   "name": "techsales",
+   "members": 68000,
+   "growth_pct_yr": 67.5,
+   "votes": 1,
+   "referrers": [
+    "FPandA"
+   ]
+  },
+  {
+   "name": "claudexplorers",
+   "members": 68000,
+   "growth_pct_yr": 898.9,
+   "votes": 1,
+   "referrers": [
+    "ClaudeCode"
+   ]
+  },
+  {
+   "name": "smallbusinessowner",
+   "members": 66000,
+   "growth_pct_yr": 453.4,
+   "votes": 1,
+   "referrers": [
+    "MarketingAutomation"
+   ]
+  },
+  {
+   "name": "instructionaldesign",
+   "members": 63000,
+   "growth_pct_yr": 27.5,
+   "votes": 1,
+   "referrers": [
+    "dataengineering"
+   ]
+  },
+  {
+   "name": "softwaretesting",
+   "members": 62000,
+   "growth_pct_yr": 30.5,
+   "votes": 1,
+   "referrers": [
+    "QualityAssurance"
+   ]
+  },
+  {
+   "name": "SaasDevelopers",
+   "members": 61000,
+   "growth_pct_yr": 526.5,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "healthIT",
+   "members": 60000,
+   "growth_pct_yr": 29.9,
+   "votes": 1,
+   "referrers": [
+    "data"
+   ]
+  },
+  {
+   "name": "LLM",
+   "members": 60000,
+   "growth_pct_yr": 147.4,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "lovable",
+   "members": 57000,
+   "growth_pct_yr": 108.7,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "learnrust",
+   "members": 57000,
+   "growth_pct_yr": 37.3,
+   "votes": 1,
+   "referrers": [
+    "SQL"
+   ]
+  },
+  {
+   "name": "techjobs",
+   "members": 57000,
+   "growth_pct_yr": 94.0,
+   "votes": 1,
+   "referrers": [
+    "DataCamp"
+   ]
+  },
+  {
+   "name": "CyberNews",
+   "members": 55000,
+   "growth_pct_yr": 1546.8,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "Germany_Jobs",
+   "members": 55000,
+   "growth_pct_yr": 109.5,
+   "votes": 1,
+   "referrers": [
+    "DataScienceJobs"
+   ]
+  },
+  {
+   "name": "IMadeThis",
+   "members": 55000,
+   "growth_pct_yr": 177.4,
+   "votes": 1,
+   "referrers": [
+    "opensource"
+   ]
+  },
+  {
+   "name": "data",
+   "members": 54000,
+   "growth_pct_yr": 13.9,
+   "votes": 1,
+   "referrers": [
+    "DataEngineeringPH"
+   ]
+  },
+  {
+   "name": "AustralianTeachers",
+   "members": 53000,
+   "growth_pct_yr": 16.5,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "PowerApps",
+   "members": 53000,
+   "growth_pct_yr": 26.1,
+   "votes": 1,
+   "referrers": [
+    "PowerPlatform"
+   ]
+  },
+  {
+   "name": "technicalwriting",
+   "members": 52000,
+   "growth_pct_yr": 21.8,
+   "votes": 1,
+   "referrers": [
+    "dataanalysiscareers"
+   ]
+  },
+  {
+   "name": "alphaandbetausers",
+   "members": 52000,
+   "growth_pct_yr": 112.9,
+   "votes": 1,
+   "referrers": [
+    "QualityAssurance"
+   ]
+  },
+  {
+   "name": "GenAI4all",
+   "members": 51000,
+   "growth_pct_yr": 151.6,
+   "votes": 1,
+   "referrers": [
+    "AIAgentsInAction"
+   ]
+  },
+  {
+   "name": "InsuranceAgent",
+   "members": 50000,
+   "growth_pct_yr": 68.9,
+   "votes": 1,
+   "referrers": [
+    "gis"
+   ]
+  },
+  {
+   "name": "pwnhub",
+   "members": 50000,
+   "growth_pct_yr": 214.9,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "ecommercemarketing",
+   "members": 49000,
+   "growth_pct_yr": 32.0,
+   "votes": 1,
+   "referrers": [
+    "shopify"
+   ]
+  },
+  {
+   "name": "NoCodeSaaS",
+   "members": 48000,
+   "growth_pct_yr": 60.8,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "hospitalist",
+   "members": 47000,
+   "growth_pct_yr": 67.9,
+   "votes": 1,
+   "referrers": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "scrum",
+   "members": 47000,
+   "growth_pct_yr": 15.5,
+   "votes": 1,
+   "referrers": [
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "datacenter",
+   "members": 47000,
+   "growth_pct_yr": 61.0,
+   "votes": 1,
+   "referrers": [
+    "FPandA"
+   ]
+  },
+  {
+   "name": "AffiliateMarket",
+   "members": 47000,
+   "growth_pct_yr": 36.3,
+   "votes": 1,
+   "referrers": [
+    "SaaSSales"
+   ]
+  },
+  {
+   "name": "cloudcomputing",
+   "members": 46000,
+   "growth_pct_yr": 30.5,
+   "votes": 1,
+   "referrers": [
+    "AzureSynapseAnalytics"
+   ]
+  },
+  {
+   "name": "VancouverJobs",
+   "members": 43000,
+   "growth_pct_yr": 34.8,
+   "votes": 1,
+   "referrers": [
+    "jobsearch"
+   ]
+  },
+  {
+   "name": "ArtificialNtelligence",
+   "members": 43000,
+   "growth_pct_yr": 132.6,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "GoogleAnalytics",
+   "members": 42000,
+   "growth_pct_yr": 29.7,
+   "votes": 1,
+   "referrers": [
+    "bigquery"
+   ]
+  },
+  {
+   "name": "DevelEire",
+   "members": 41000,
+   "growth_pct_yr": 17.6,
+   "votes": 1,
+   "referrers": [
+    "developersIndia"
+   ]
+  },
+  {
+   "name": "servicenow",
+   "members": 40000,
+   "growth_pct_yr": 35.6,
+   "votes": 1,
+   "referrers": [
+    "PowerPlatform"
+   ]
+  },
+  {
+   "name": "AusElectricians",
+   "members": 39000,
+   "growth_pct_yr": 35.4,
+   "votes": 1,
+   "referrers": [
+    "electricians"
+   ]
+  },
+  {
+   "name": "smallbusinessUS",
+   "members": 39000,
+   "growth_pct_yr": 308.0,
+   "votes": 1,
+   "referrers": [
+    "MarketingAutomation"
+   ]
+  },
+  {
+   "name": "replit",
+   "members": 37000,
+   "growth_pct_yr": 56.0,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "Fabrics",
+   "members": 37000,
+   "growth_pct_yr": 37.3,
+   "votes": 1,
+   "referrers": [
+    "fabric"
+   ]
+  },
+  {
+   "name": "MarketingResearch",
+   "members": 36000,
+   "growth_pct_yr": 47.0,
+   "votes": 1,
+   "referrers": [
+    "hubspot"
+   ]
+  },
+  {
+   "name": "theprivacymachine",
+   "members": 34000,
+   "growth_pct_yr": 222.6,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "estimators",
+   "members": 34000,
+   "growth_pct_yr": 44.8,
+   "votes": 1,
+   "referrers": [
+    "biotech"
+   ]
+  },
+  {
+   "name": "FastAPI",
+   "members": 34000,
+   "growth_pct_yr": 33.2,
+   "votes": 1,
+   "referrers": [
+    "microservices"
+   ]
+  },
+  {
+   "name": "djangolearning",
+   "members": 32000,
+   "growth_pct_yr": 12.6,
+   "votes": 1,
+   "referrers": [
+    "webscraping"
+   ]
+  },
+  {
+   "name": "EcommerceWebsite",
+   "members": 31000,
+   "growth_pct_yr": 144.5,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "aicuriosity",
+   "members": 31000,
+   "growth_pct_yr": 177.5,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "hetzner",
+   "members": 31000,
+   "growth_pct_yr": 63.1,
+   "votes": 1,
+   "referrers": [
+    "sre"
+   ]
+  },
+  {
+   "name": "businessanalyst",
+   "members": 30000,
+   "growth_pct_yr": 46.8,
+   "votes": 1,
+   "referrers": [
+    "businessanalysis"
+   ]
+  },
+  {
+   "name": "MicrosoftFabric",
+   "members": 29000,
+   "growth_pct_yr": 54.9,
+   "votes": 1,
+   "referrers": [
+    "AzureDataPlatforms"
+   ]
+  },
+  {
+   "name": "CopilotPro",
+   "members": 29000,
+   "growth_pct_yr": 111.0,
+   "votes": 1,
+   "referrers": [
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "elearning",
+   "members": 28000,
+   "growth_pct_yr": 52.3,
+   "votes": 1,
+   "referrers": [
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "gitlab",
+   "members": 28000,
+   "growth_pct_yr": 22.1,
+   "votes": 1,
+   "referrers": [
+    "devsecops"
+   ]
+  },
+  {
+   "name": "DistroKidHelpDesk",
+   "members": 28000,
+   "growth_pct_yr": 12.4,
+   "votes": 1,
+   "referrers": [
+    "stripe"
+   ]
+  },
+  {
+   "name": "GeneralContractor",
+   "members": 27000,
+   "growth_pct_yr": 72.2,
+   "votes": 1,
+   "referrers": [
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "dyeing",
+   "members": 27000,
+   "growth_pct_yr": 57.0,
+   "votes": 1,
+   "referrers": [
+    "fabric"
+   ]
+  },
+  {
+   "name": "solidity",
+   "members": 26000,
+   "growth_pct_yr": 13.6,
+   "votes": 1,
+   "referrers": [
+    "PowerPlatform"
+   ]
+  },
+  {
+   "name": "agenticAI",
+   "members": 25000,
+   "growth_pct_yr": 809.6,
+   "votes": 1,
+   "referrers": [
+    "AgentsOfAI"
+   ]
+  },
+  {
+   "name": "ResearchML",
+   "members": 25000,
+   "growth_pct_yr": 110.6,
+   "votes": 1,
+   "referrers": [
+    "KnowledgeGraph"
+   ]
+  },
+  {
+   "name": "cscareerquestionsIN",
+   "members": 24000,
+   "growth_pct_yr": 63.9,
+   "votes": 1,
+   "referrers": [
+    "developersPak"
+   ]
+  },
+  {
+   "name": "SmallBusinessOwners",
+   "members": 24000,
+   "growth_pct_yr": 174.2,
+   "votes": 1,
+   "referrers": [
+    "n8n"
+   ]
+  },
+  {
+   "name": "microservices",
+   "members": 24000,
+   "growth_pct_yr": 18.6,
+   "votes": 1,
+   "referrers": [
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "EmergencyManagement",
+   "members": 23000,
+   "growth_pct_yr": 22.9,
+   "votes": 1,
+   "referrers": [
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "VibeCodersNest",
+   "members": 23000,
+   "growth_pct_yr": 550.9,
+   "votes": 1,
+   "referrers": [
+    "nocode"
+   ]
+  },
+  {
+   "name": "SalesOperations",
+   "members": 22000,
+   "growth_pct_yr": 162.9,
+   "votes": 1,
+   "referrers": [
+    "hubspot"
+   ]
+  },
+  {
+   "name": "ArcGIS",
+   "members": 20000,
+   "growth_pct_yr": 16.8,
+   "votes": 1,
+   "referrers": [
+    "gis"
+   ]
+  },
+  {
+   "name": "datasciencecareers",
+   "members": 20000,
+   "growth_pct_yr": 96.3,
+   "votes": 1,
+   "referrers": [
+    "DataScienceJobs"
+   ]
+  },
+  {
+   "name": "zapier",
+   "members": 19000,
+   "growth_pct_yr": 31.5,
+   "votes": 1,
+   "referrers": [
+    "Airtable"
+   ]
+  },
+  {
+   "name": "CIO",
+   "members": 19000,
+   "growth_pct_yr": 32.6,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "ITSupport",
+   "members": 19000,
+   "growth_pct_yr": 116.2,
+   "votes": 1,
+   "referrers": [
+    "informatica"
+   ]
+  },
+  {
+   "name": "oraclecloud",
+   "members": 18000,
+   "growth_pct_yr": 45.8,
+   "votes": 1,
+   "referrers": [
+    "oracle"
+   ]
+  },
+  {
+   "name": "datasciencenews",
+   "members": 18000,
+   "growth_pct_yr": 4.0,
+   "votes": 1,
+   "referrers": [
+    "datascienceproject"
+   ]
+  },
+  {
+   "name": "gtmengineering",
+   "members": 18000,
+   "growth_pct_yr": 618.8,
+   "votes": 1,
+   "referrers": [
+    "SalesOperations"
+   ]
+  },
+  {
+   "name": "AWS_cloud",
+   "members": 17000,
+   "growth_pct_yr": 46.0,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "OpenAIDev",
+   "members": 16000,
+   "growth_pct_yr": 39.3,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "prodmgmt",
+   "members": 15000,
+   "growth_pct_yr": 73.8,
+   "votes": 1,
+   "referrers": [
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "ProductMgmt",
+   "members": 15000,
+   "growth_pct_yr": 33.6,
+   "votes": 1,
+   "referrers": [
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "Zoho",
+   "members": 14000,
+   "growth_pct_yr": 46.5,
+   "votes": 1,
+   "referrers": [
+    "Airtable"
+   ]
+  },
+  {
+   "name": "aiengineering",
+   "members": 14000,
+   "growth_pct_yr": 240.7,
+   "votes": 1,
+   "referrers": [
+    "Backend"
+   ]
+  },
+  {
+   "name": "GPT",
+   "members": 14000,
+   "growth_pct_yr": 59.7,
+   "votes": 1,
+   "referrers": [
+    "llmops"
+   ]
+  },
+  {
+   "name": "realtech",
+   "members": 13000,
+   "growth_pct_yr": 3.1,
+   "votes": 1,
+   "referrers": [
+    "technology"
+   ]
+  },
+  {
+   "name": "AskClaw",
+   "members": 13000,
+   "growth_pct_yr": 26.5,
+   "votes": 1,
+   "referrers": [
+    "LocalLLM"
+   ]
+  },
+  {
+   "name": "databasedevelopment",
+   "members": 13000,
+   "growth_pct_yr": 27.2,
+   "votes": 1,
+   "referrers": [
+    "MSSQL"
+   ]
+  },
+  {
+   "name": "FinancialAnalyst",
+   "members": 12000,
+   "growth_pct_yr": 116.5,
+   "votes": 1,
+   "referrers": [
+    "businessanalysis"
+   ]
+  },
+  {
+   "name": "redis",
+   "members": 11000,
+   "growth_pct_yr": 18.3,
+   "votes": 1,
+   "referrers": [
+    "nosql"
+   ]
+  },
+  {
+   "name": "whop",
+   "members": 11000,
+   "growth_pct_yr": 225.4,
+   "votes": 1,
+   "referrers": [
+    "marketingops"
+   ]
+  },
+  {
+   "name": "ConstructionMNGT",
+   "members": 10000,
+   "growth_pct_yr": 50.3,
+   "votes": 1,
+   "referrers": [
+    "projectmanagement"
+   ]
+  },
+  {
+   "name": "semanticweb",
+   "members": 10000,
+   "growth_pct_yr": 41.5,
+   "votes": 1,
+   "referrers": [
+    "KnowledgeGraph"
+   ]
+  },
+  {
+   "name": "BootstrappedSaaS",
+   "members": 10000,
+   "growth_pct_yr": 162.2,
+   "votes": 1,
+   "referrers": [
+    "GrowthHacking"
+   ]
+  },
+  {
+   "name": "pystats",
+   "members": 10000,
+   "growth_pct_yr": 0.5,
+   "votes": 1,
+   "referrers": [
+    "datavisualization"
+   ]
+  },
+  {
+   "name": "FinOps",
+   "members": 10000,
+   "growth_pct_yr": 101.5,
+   "votes": 1,
+   "referrers": [
+    "platformengineering"
+   ]
+  },
+  {
+   "name": "Free_3D_Models",
+   "members": 9000,
+   "growth_pct_yr": 8.9,
+   "votes": 1,
+   "referrers": [
+    "Hacking_Tricks"
+   ]
+  },
+  {
+   "name": "PrivatePackets",
+   "members": 9000,
+   "growth_pct_yr": 170.0,
+   "votes": 1,
+   "referrers": [
+    "scrapy"
+   ]
+  },
+  {
+   "name": "abap",
+   "members": 9000,
+   "growth_pct_yr": 44.7,
+   "votes": 1,
+   "referrers": [
+    "SAP"
+   ]
+  },
+  {
+   "name": "tauri",
+   "members": 9000,
+   "growth_pct_yr": 134.9,
+   "votes": 1,
+   "referrers": [
+    "coolgithubprojects"
+   ]
+  },
+  {
+   "name": "DataScienceSimplified",
+   "members": 9000,
+   "growth_pct_yr": 17.4,
+   "votes": 1,
+   "referrers": [
+    "learndatascience"
+   ]
+  },
+  {
+   "name": "Docker_DevOps",
+   "members": 8000,
+   "growth_pct_yr": 5.7,
+   "votes": 1,
+   "referrers": [
+    "grafana"
+   ]
+  },
+  {
+   "name": "crewai",
+   "members": 7000,
+   "growth_pct_yr": 44.1,
+   "votes": 1,
+   "referrers": [
+    "modelcontextprotocol"
+   ]
+  },
+  {
+   "name": "CryptoJobsList",
+   "members": 7000,
+   "growth_pct_yr": 13.6,
+   "votes": 1,
+   "referrers": [
+    "marketingops"
+   ]
+  },
+  {
+   "name": "EmailOutreach",
+   "members": 7000,
+   "growth_pct_yr": 421.4,
+   "votes": 1,
+   "referrers": [
+    "MarketingAutomation"
+   ]
+  },
+  {
+   "name": "DataScienceProjects",
+   "members": 7000,
+   "growth_pct_yr": 12.0,
+   "votes": 1,
+   "referrers": [
+    "datascienceproject"
+   ]
+  },
+  {
+   "name": "frontenddevelopment",
+   "members": 7000,
+   "growth_pct_yr": 12.8,
+   "votes": 1,
+   "referrers": [
+    "PowerPlatform"
+   ]
+  },
+  {
+   "name": "Everything_QA",
+   "members": 6000,
+   "growth_pct_yr": 134.3,
+   "votes": 1,
+   "referrers": [
+    "QualityAssurance"
+   ]
+  },
+  {
+   "name": "LearningDevelopment",
+   "members": 5000,
+   "growth_pct_yr": 148.0,
+   "votes": 1,
+   "referrers": [
+    "instructionaldesign"
+   ]
+  },
+  {
+   "name": "SIEM",
+   "members": 5000,
+   "growth_pct_yr": 6.8,
+   "votes": 1,
+   "referrers": [
+    "elasticsearch"
+   ]
+  },
+  {
+   "name": "OpenTelemetry",
+   "members": 5000,
+   "growth_pct_yr": 75.3,
+   "votes": 1,
+   "referrers": [
+    "Observability"
+   ]
+  },
+  {
+   "name": "B2BSales",
+   "members": 5000,
+   "growth_pct_yr": 563.9,
+   "votes": 1,
+   "referrers": [
+    "SalesOperations"
+   ]
+  },
+  {
+   "name": "WhichCRM",
+   "members": 4000,
+   "growth_pct_yr": 1674.0,
+   "votes": 1,
+   "referrers": [
+    "bigdata"
+   ]
+  },
+  {
+   "name": "OpenclawBot",
+   "members": 4000,
+   "growth_pct_yr": 27.8,
+   "votes": 1,
+   "referrers": [
+    "softwarearchitecture"
+   ]
+  },
+  {
+   "name": "mariadb",
+   "members": 4000,
+   "growth_pct_yr": 38.6,
+   "votes": 1,
+   "referrers": [
+    "Database"
+   ]
+  },
+  {
+   "name": "askIT",
+   "members": 3000,
+   "growth_pct_yr": 7.3,
+   "votes": 1,
+   "referrers": [
+    "Hacking_Tricks"
+   ]
+  },
+  {
+   "name": "MarketingAnalytics",
+   "members": 3000,
+   "growth_pct_yr": 25.3,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "CloudArchitect",
+   "members": 3000,
+   "growth_pct_yr": 11.6,
+   "votes": 1,
+   "referrers": [
+    "datadog"
+   ]
+  },
+  {
+   "name": "DataScienceStudents",
+   "members": 3000,
+   "growth_pct_yr": 17.5,
+   "votes": 1,
+   "referrers": [
+    "learndatascience"
+   ]
+  },
+  {
+   "name": "cybersecurityUK",
+   "members": 3000,
+   "growth_pct_yr": 243.3,
+   "votes": 1,
+   "referrers": [
+    "Splunk"
+   ]
+  },
+  {
+   "name": "Databricks_eng",
+   "members": 2000,
+   "growth_pct_yr": 19.3,
+   "votes": 1,
+   "referrers": [
+    "databricks"
+   ]
+  },
+  {
+   "name": "kibana",
+   "members": 2000,
+   "growth_pct_yr": 1.8,
+   "votes": 1,
+   "referrers": [
+    "elasticsearch"
+   ]
+  },
+  {
+   "name": "aws_cdk",
+   "members": 2000,
+   "growth_pct_yr": 6.4,
+   "votes": 1,
+   "referrers": [
+    "serverless"
+   ]
+  },
+  {
+   "name": "Evaluation",
+   "members": 1000,
+   "growth_pct_yr": 17.0,
+   "votes": 1,
+   "referrers": [
+    "apachespark"
+   ]
+  },
+  {
+   "name": "GoogleAnalytics4",
+   "members": 1000,
+   "growth_pct_yr": 30.7,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "DataAnalysts",
+   "members": 976,
+   "growth_pct_yr": 15.9,
+   "votes": 1,
+   "referrers": [
+    "dataanalytics"
+   ]
+  },
+  {
+   "name": "puppeteer",
+   "members": 895,
+   "growth_pct_yr": 7.1,
+   "votes": 1,
+   "referrers": [
+    "scrapy"
+   ]
+  },
+  {
+   "name": "ga4",
+   "members": 725,
+   "growth_pct_yr": 9.7,
+   "votes": 1,
+   "referrers": [
+    "GoogleAnalytics"
+   ]
+  },
+  {
+   "name": "newrelic",
+   "members": 628,
+   "growth_pct_yr": 16.3,
+   "votes": 1,
+   "referrers": [
+    "datadog"
+   ]
+  },
+  {
+   "name": "honojs",
+   "members": 623,
+   "growth_pct_yr": 53.8,
+   "votes": 1,
+   "referrers": [
+    "microservices"
+   ]
+  },
+  {
+   "name": "QaEngineers",
+   "members": 611,
+   "growth_pct_yr": 23.7,
+   "votes": 1,
+   "referrers": [
+    "QualityAssurance"
+   ]
+  },
+  {
+   "name": "AnalyticsAutomation",
+   "members": 513,
+   "growth_pct_yr": 29.9,
+   "votes": 1,
+   "referrers": [
+    "apachespark"
+   ]
+  },
+  {
+   "name": "FabricSwap",
+   "members": 497,
+   "growth_pct_yr": 9.2,
+   "votes": 1,
+   "referrers": [
+    "fabric"
+   ]
+  },
+  {
+   "name": "prismaorm",
+   "members": 485,
+   "growth_pct_yr": 17.7,
+   "votes": 1,
+   "referrers": [
+    "FastAPI"
+   ]
+  },
+  {
+   "name": "cloudnative",
+   "members": 251,
+   "growth_pct_yr": 56.9,
+   "votes": 1,
+   "referrers": [
+    "serverless"
+   ]
+  },
+  {
+   "name": "BullhornCRM",
+   "members": 240,
+   "growth_pct_yr": 27.7,
+   "votes": 1,
+   "referrers": [
+    "zapier"
+   ]
+  },
+  {
+   "name": "MCPAgents",
+   "members": 214,
+   "growth_pct_yr": 122.9,
+   "votes": 1,
+   "referrers": [
+    "modelcontextprotocol"
+   ]
+  },
+  {
+   "name": "OKTASSO",
+   "members": 197,
+   "growth_pct_yr": 1.5,
+   "votes": 1,
+   "referrers": [
+    "serverless"
+   ]
+  },
+  {
+   "name": "CloudWatch",
+   "members": 84,
+   "growth_pct_yr": 10.5,
+   "votes": 1,
+   "referrers": [
+    "grafana"
+   ]
+  },
+  {
+   "name": "clouddatalake",
+   "members": 59,
+   "growth_pct_yr": 7.3,
+   "votes": 1,
+   "referrers": [
+    "ApacheIceberg"
+   ]
+  },
+  {
+   "name": "vibecoding",
+   "members": 392000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "DataScienceJobs",
+   "members": 64000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "SaaSSales",
+   "members": 37000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "oracle",
+   "members": 35000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "stripe",
+   "members": 29000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "modelcontextprotocol",
+   "members": 25000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "elasticsearch",
+   "members": 21000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "Dynamics365",
+   "members": 16000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "PowerPlatform",
+   "members": 13000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "scrapy",
+   "members": 8000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "SQLOptimization",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "informatica",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "lowcode",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "fabric",
+   "members": 5000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "LangGraph",
+   "members": 4000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "influxdb",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "PySpark",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "llmops",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "Streamlit",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "Ontology",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "datadog",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "datagovernance",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "Talend",
+   "members": 1000,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "AzureSynapseAnalytics",
+   "members": 936,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "posthog",
+   "members": 729,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "datamesh",
+   "members": 495,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "marketingops",
+   "members": 444,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  },
+  {
+   "name": "ApachePinot",
+   "members": 150,
+   "growth_pct_yr": null,
+   "votes": 0,
+   "referrers": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subreddit": "datasets",
+ "saved_at": "2026-11-09T12:52:15.042Z",
+ "page_url": "https://www.reddit.com/r/datasets/",
+ "title": "Datasets",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=13",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=13",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=9676",
+  "shreddit-subreddit-header weekly-contributions=242"
+ ],
+ "text": "Skip to main content\nDatasets\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/datasets\nClear search\nr/datasets\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/datasets\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nFeed\nUpvote\n43\nDownvote\n13\nGo to comments\nShare\nEntering all world law into a git repository\nu/SnooPeripherals5313\n•\n10 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nEntering all world law into a git repository\ndataset\nI am putting all world law into git. That comes with some quirks, like the cut-off being 1970 (commits are calculated as seconds since 1 January 1970).\nThis hit #1 on HN yesterday (you can read lots of discussion at\nhttps://news.ycombinator.com/item?id=50268380\n). Why would I want to do this? The idea is make all law semantic, versioned, easily attributable and query able by agents. I also believe this information should be freely available so CC0 license (do whatever you want with it). If interested, repo linked below, I'd welcome all comments and advice. Thanks!\nhttps://github.com/lexifina/global-law\nUpvote\n1\nDownvote\n0\nGo to comments\nShare\nTracking companies through acquisitions and renames in a panel dataset\nu/snowingbol\n•\n27 min. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nTracking companies through acquisitions and renames in a panel dataset\nquestion\nPutting together a panel of companies over several years, with headcount and hiring activity as the main variables. One issue I've run into is that company identities aren't always stable. Firms get acquired, merge, or rebrand, and the same entity can show up under a different name or even a new domain.\nFor identity resolution, I've been cross-checking Wikidata and OpenCorporates, along with SEC filings for public companies. For headcount, I'm using Coresignal's historical data, which gives me a time series for each company rather than just a single snapshot. Pulling it takes one HTTP request per company, so getting it into a Python script was pretty straightforward.\nThe harder question is methodological. When a company gets acquired, should I follow the acquired entity, switch to the parent company, or drop it from the dataset from that point on? Is there a standard convention for handling entity continuity in longitudinal company data, or does it mostly depend on the research question?\nUpvote\n3\nDownvote\n0\nGo to comments\nShare\nPatterns om Security Envelopes Collection\nu/cavedave\n•\n2 days ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nPatterns om Security Envelopes Collection\ndataset\nhttps://abstractcollage.com/collection-security-envelope-patterns/\nCommunity Info Section\nDatasets\nA place to share, find, and discuss Datasets.\nShow more\nWeekly visitors\nWeekly contributions\nCreated Oct 8, 2009\n17 years ago\nPublic\nAnyone can view, post, and comment to this community\n9.6K\n242\nCommunity Bookmarks\nmod\nmod posts\nr/datasets Rules\n1\nNo Spam/Self-promotion without disclosure\nAny links to a site you own/work for is self-promotion. Do not spam these and always add a disclaimer. Read\nreddit's self promotion guidelines\n.\n2\nTry to post Original Source\nWhenever possible link to the original source of the dataset. Adding mirrors in comments is fine and appreciated, intentionally posting a blog describing a dataset from another website is not.\n3\nNo Low-Effort Request posts\nAny Posts or Comments deemed low effort by Mods or community will be removed. Be descriptive in your titles and use self text posts. If requesting a dataset please search the sub before posting and specify the information you need.\n4\nLabel all Synthetic/Artificial Datasets\nIf you are submitting a synthetic/mock dataset (any dataset not produced by actual measurement) please mention it in the title and flair it as such\n[Synthetic]\n.\n5\nLabel all Paid Datasets\nAny Paid Dataset or Resource must be marked as such in the title with\n[PAID]\n.\n6\nAll Surveys must be approved by Mods\nAll Surveys must be approved by Mods before posting. This is not a subreddit for surveys but we allow them in cases where you also release the data collected. Any surveys which gather identifying information are not allowed.\n7\nNo sharing/requesting Personally identifiable information (PII)\nDo not ask for or post datasets containing full names, email addresses, phone numbers, home or business addresses, identity documents etc unless obtained with clear consent or as an open datasets in public domain.\n8\nSearch for data here\nIf you are looking for data related to X do a search for X here. And other synonymous words.\nFilter by topic\ndataset\nresource\ndiscussion\nrequest\ncode\nsurvey\nAPI\nquestion\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}

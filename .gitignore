@@ -1,0 +1,15 @@
+# Local environment and editor
+.venv/
+.idea/
+.AU.SgqQ3.nosync/
+
+# Python
+__pycache__/
+*.pyc
+
+# Half-written files from an interrupted run
+*.tmp
+
+# Raw data (data/raw/, ~63 MB) is committed on purpose: Adrian's brief asks for the raw data in the repo.
+# To leave it out instead, uncomment the next line.
+# data/raw/

@@ -1,0 +1,8465 @@
+{
+ "snapshot_date": "2026-11-06",
+ "results": [
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "dltHub",
+    "dlthub",
+    "Dlthub"
+   ],
+   "status": "not indexed",
+   "subreddit": "dltHub",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "agenticdatastack",
+    "Agenticdatastack"
+   ],
+   "status": "not indexed",
+   "subreddit": "agenticdatastack",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "OntologyEngineering",
+    "ontologyengineering",
+    "Ontologyengineering"
+   ],
+   "status": "not indexed",
+   "subreddit": "OntologyEngineering",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "llmdatastack",
+    "Llmdatastack"
+   ],
+   "status": "not indexed",
+   "subreddit": "llmdatastack",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "PythonDataEngineering",
+    "pythondataengineering",
+    "Pythondataengineering"
+   ],
+   "status": "not indexed",
+   "subreddit": "PythonDataEngineering",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "DataEngCircleJerk",
+    "dataengcirclejerk",
+    "Dataengcirclejerk"
+   ],
+   "status": "not indexed",
+   "subreddit": "DataEngCircleJerk",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "dataengineering",
+   "members": 485000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "datascience",
+     "members": 2800000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "electricians",
+     "members": 584000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "gis",
+     "members": 153000,
+     "growth_pct_yr": 15.2
+    },
+    {
+     "name": "instructionaldesign",
+     "members": 63000,
+     "growth_pct_yr": 27.5
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "learnpython",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "projectmanagement",
+     "members": 243000,
+     "growth_pct_yr": 18.3
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "SoftwareEngineering",
+     "members": 176000,
+     "growth_pct_yr": 11.9
+    }
+   ],
+   "tried": "dataengineering",
+   "status": "ok",
+   "subreddit": "dataengineering",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "PostgreSQL",
+   "members": 90000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Database",
+     "members": 91000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "DatabaseAdministators",
+     "members": 6000,
+     "growth_pct_yr": 80.5
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "react",
+     "members": 160000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "Supabase",
+     "members": 45000,
+     "growth_pct_yr": 35.5
+    }
+   ],
+   "tried": "PostgreSQL",
+   "status": "ok",
+   "subreddit": "PostgreSQL",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "snowflake",
+   "members": 27000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Alteryx",
+     "members": 7000,
+     "growth_pct_yr": 11.6
+    },
+    {
+     "name": "AzureDataPlatforms",
+     "members": 1000,
+     "growth_pct_yr": 13.5
+    },
+    {
+     "name": "bigquery",
+     "members": 21000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "dataengineer",
+     "members": 4000,
+     "growth_pct_yr": 84.9
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "salesforce",
+     "members": 118000,
+     "growth_pct_yr": 19.0
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    }
+   ],
+   "tried": "snowflake",
+   "status": "ok",
+   "subreddit": "snowflake",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "dataops",
+   "members": 549,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "ETL",
+     "members": 14000,
+     "growth_pct_yr": 37.9
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    }
+   ],
+   "tried": "dataops",
+   "status": "ok",
+   "subreddit": "dataops",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "bigquery",
+   "members": 21000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AzureDataPlatforms",
+     "members": 1000,
+     "growth_pct_yr": 13.5
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "GoogleAnalytics",
+     "members": 42000,
+     "growth_pct_yr": 29.7
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "MSSQL",
+     "members": 3000,
+     "growth_pct_yr": 10.1
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "bigquery",
+   "status": "ok",
+   "subreddit": "bigquery",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "ETL",
+   "members": 14000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    }
+   ],
+   "tried": "ETL",
+   "status": "ok",
+   "subreddit": "ETL",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "analyticsengineering",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "analyticsengineering",
+   "status": "ok",
+   "subreddit": "AnalyticsEngineering",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "DuckDB",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "bigquery",
+     "members": 21000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "Database",
+     "members": 91000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "DatabaseAdministators",
+     "members": 6000,
+     "growth_pct_yr": 80.5
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "udemyfreebies",
+     "members": 66000,
+     "growth_pct_yr": 8.8
+    }
+   ],
+   "tried": "DuckDB",
+   "status": "ok",
+   "subreddit": "duckdb",
+   "source": "csv",
+   "fit": "5"
+  },
+  {
+   "slug": "SQL",
+   "members": 293000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "csharp",
+     "members": 331000,
+     "growth_pct_yr": 8.9
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "Database",
+     "members": 91000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "learndatascience",
+     "members": 61000,
+     "growth_pct_yr": 60.4
+    },
+    {
+     "name": "learnrust",
+     "members": 57000,
+     "growth_pct_yr": 37.3
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "piano",
+     "members": 1300000,
+     "growth_pct_yr": 4.1
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "SAP",
+     "members": 64000,
+     "growth_pct_yr": 32.1
+    }
+   ],
+   "tried": "SQL",
+   "status": "ok",
+   "subreddit": "SQL",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "analytics",
+   "members": 287000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Accounting",
+     "members": 1300000,
+     "growth_pct_yr": 10.2
+    },
+    {
+     "name": "businessanalysis",
+     "members": 120000,
+     "growth_pct_yr": 21.0
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "dataengineeringjobs",
+     "members": 46000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "FPandA",
+     "members": 76000,
+     "growth_pct_yr": 34.0
+    },
+    {
+     "name": "ITManagers",
+     "members": 82000,
+     "growth_pct_yr": 53.6
+    }
+   ],
+   "tried": "analytics",
+   "status": "ok",
+   "subreddit": "analytics",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "bigdata",
+   "members": 76000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "bigquery",
+     "members": 21000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "GoogleDataStudio",
+     "members": 47000,
+     "growth_pct_yr": 7.5
+    },
+    {
+     "name": "Hacking_Tricks",
+     "members": 68000,
+     "growth_pct_yr": 36.4
+    },
+    {
+     "name": "PlasmaTV",
+     "members": 113000,
+     "growth_pct_yr": 3114.8
+    },
+    {
+     "name": "WhichCRM",
+     "members": 4000,
+     "growth_pct_yr": 1674.0
+    }
+   ],
+   "tried": "bigdata",
+   "status": "ok",
+   "subreddit": "BigData",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "databases",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "databases",
+   "status": "ok",
+   "subreddit": "databases",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "databricks",
+   "members": 37000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ApacheIceberg",
+     "members": 1000,
+     "growth_pct_yr": 108.1
+    },
+    {
+     "name": "AzureDataPlatforms",
+     "members": 1000,
+     "growth_pct_yr": 13.5
+    },
+    {
+     "name": "Databricks_eng",
+     "members": 2000,
+     "growth_pct_yr": 19.3
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    }
+   ],
+   "tried": "databricks",
+   "status": "ok",
+   "subreddit": "databricks",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "Clickhouse",
+   "members": 4000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AzureSentinel",
+     "members": 5000,
+     "growth_pct_yr": 28.3
+    },
+    {
+     "name": "DatabaseAdministators",
+     "members": 6000,
+     "growth_pct_yr": 80.5
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    }
+   ],
+   "tried": "Clickhouse",
+   "status": "ok",
+   "subreddit": "Clickhouse",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "ApacheIceberg",
+   "members": 1000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "apachespark",
+     "members": 20000,
+     "growth_pct_yr": 14.5
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "clouddatalake",
+     "members": 59,
+     "growth_pct_yr": 7.3
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    }
+   ],
+   "tried": "ApacheIceberg",
+   "status": "ok",
+   "subreddit": "ApacheIceberg",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "GTM_Engineering",
+    "gtm_engineering",
+    "Gtm_engineering"
+   ],
+   "status": "not indexed",
+   "subreddit": "GTM_Engineering",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "redshift",
+    "Redshift",
+    "AmazonRedshift"
+   ],
+   "status": "not indexed",
+   "subreddit": "redshift",
+   "source": "csv",
+   "fit": "4"
+  },
+  {
+   "slug": "Python",
+   "members": 1500000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "alphaandbetausers",
+     "members": 52000,
+     "growth_pct_yr": 113.1
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "Brampton",
+     "members": 58000,
+     "growth_pct_yr": 9.4
+    },
+    {
+     "name": "csharp",
+     "members": 331000,
+     "growth_pct_yr": 8.9
+    },
+    {
+     "name": "golang",
+     "members": 383000,
+     "growth_pct_yr": 15.3
+    },
+    {
+     "name": "java",
+     "members": 410000,
+     "growth_pct_yr": 8.6
+    },
+    {
+     "name": "javascript",
+     "members": 2500000,
+     "growth_pct_yr": 1.9
+    },
+    {
+     "name": "node",
+     "members": 353000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "SaaSMarketing",
+     "members": 40000,
+     "growth_pct_yr": 133.1
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "Python",
+   "status": "ok",
+   "subreddit": "Python",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "ClaudeAI",
+   "members": 1300000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "ChatGPTPro",
+     "members": 623000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "claude",
+     "members": 212000,
+     "growth_pct_yr": 2390.0
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "ClaudeHomies",
+     "members": 59000,
+     "growth_pct_yr": 3401.4
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "SideProject",
+     "members": 892000,
+     "growth_pct_yr": 70.0
+    },
+    {
+     "name": "VibeCodeDevs",
+     "members": 67000,
+     "growth_pct_yr": 338.7
+    },
+    {
+     "name": "vibecoding",
+     "members": 392000,
+     "growth_pct_yr": 325.9
+    }
+   ],
+   "tried": "ClaudeAI",
+   "status": "ok",
+   "subreddit": "ClaudeAI",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "ChatGPTCoding",
+   "members": 409000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "nocode",
+     "members": 144000,
+     "growth_pct_yr": 50.3
+    },
+    {
+     "name": "PromptEngineering",
+     "members": 428000,
+     "growth_pct_yr": 60.9
+    },
+    {
+     "name": "VibeCodersNest",
+     "members": 23000,
+     "growth_pct_yr": 550.9
+    },
+    {
+     "name": "vibecoding",
+     "members": 392000,
+     "growth_pct_yr": 325.9
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "ChatGPTCoding",
+   "status": "ok",
+   "subreddit": "ChatGPTCoding",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "LLMDevs",
+   "members": 180000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "LangChain",
+     "members": 110000,
+     "growth_pct_yr": 40.2
+    },
+    {
+     "name": "LargeLanguageModels",
+     "members": 17000,
+     "growth_pct_yr": 92.9
+    },
+    {
+     "name": "LocalLLaMA",
+     "members": 867000,
+     "growth_pct_yr": 55.8
+    },
+    {
+     "name": "LocalLLM",
+     "members": 260000,
+     "growth_pct_yr": 182.2
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    },
+    {
+     "name": "singularity",
+     "members": 4000000,
+     "growth_pct_yr": 6.5
+    }
+   ],
+   "tried": "LLMDevs",
+   "status": "ok",
+   "subreddit": "LLMDevs",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "mlops",
+   "members": 41000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "devsecops",
+     "members": 23000,
+     "growth_pct_yr": 90.6
+    },
+    {
+     "name": "LargeLanguageModels",
+     "members": 17000,
+     "growth_pct_yr": 92.9
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "MachineLearning",
+     "members": 3100000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    }
+   ],
+   "tried": "mlops",
+   "status": "ok",
+   "subreddit": "mlops",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "dataanalytics",
+   "members": 49000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "biotech",
+     "members": 259000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "CyberSecurityJobs",
+     "members": 69000,
+     "growth_pct_yr": 40.0
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "DataAnalysts",
+     "members": 976,
+     "growth_pct_yr": 15.9
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "jobs",
+     "members": 2900000,
+     "growth_pct_yr": 16.8
+    },
+    {
+     "name": "jobsearch",
+     "members": 143000,
+     "growth_pct_yr": 240.7
+    },
+    {
+     "name": "QualityAssurance",
+     "members": 87000,
+     "growth_pct_yr": 34.1
+    }
+   ],
+   "tried": "dataanalytics",
+   "status": "ok",
+   "subreddit": "dataanalytics",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "DeltaLake",
+   "members": 350,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "DeltaLake",
+   "status": "ok",
+   "subreddit": "deltalake",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "apachespark",
+   "members": 20000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AnalyticsAutomation",
+     "members": 513,
+     "growth_pct_yr": 29.9
+    },
+    {
+     "name": "ApacheIceberg",
+     "members": 1000,
+     "growth_pct_yr": 108.1
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "Evaluation",
+     "members": 1000,
+     "growth_pct_yr": 17.0
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "technology",
+     "members": 20600000,
+     "growth_pct_yr": 3.3
+    }
+   ],
+   "tried": "apachespark",
+   "status": "ok",
+   "subreddit": "apachespark",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "apachespark",
+   "members": 20000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AnalyticsAutomation",
+     "members": 513,
+     "growth_pct_yr": 29.9
+    },
+    {
+     "name": "ApacheIceberg",
+     "members": 1000,
+     "growth_pct_yr": 108.1
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "Evaluation",
+     "members": 1000,
+     "growth_pct_yr": 17.0
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "technology",
+     "members": 20600000,
+     "growth_pct_yr": 3.3
+    }
+   ],
+   "tried": "apachespark",
+   "status": "ok",
+   "subreddit": "spark",
+   "source": "csv",
+   "fit": "3"
+  },
+  {
+   "slug": "cursor",
+   "members": 161000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AISEOInsider",
+     "members": 10000,
+     "growth_pct_yr": 289.9
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ChatGPTCoding",
+     "members": 409000,
+     "growth_pct_yr": 23.6
+    },
+    {
+     "name": "ChatGPTPro",
+     "members": 623000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "claude",
+     "members": 212000,
+     "growth_pct_yr": 2390.0
+    },
+    {
+     "name": "CLine",
+     "members": 21000,
+     "growth_pct_yr": 38.2
+    },
+    {
+     "name": "DeepSeek",
+     "members": 153000,
+     "growth_pct_yr": 94.0
+    },
+    {
+     "name": "GeminiAI",
+     "members": 402000,
+     "growth_pct_yr": 183.0
+    },
+    {
+     "name": "GoogleGeminiAI",
+     "members": 164000,
+     "growth_pct_yr": 68.8
+    },
+    {
+     "name": "windsurf",
+     "members": 16000,
+     "growth_pct_yr": 56.2
+    }
+   ],
+   "tried": "cursor",
+   "status": "ok",
+   "subreddit": "cursor",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "AI_Agents",
+   "members": 477000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "GithubCopilot",
+     "members": 88000,
+     "growth_pct_yr": 146.9
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    }
+   ],
+   "tried": "AI_Agents",
+   "status": "ok",
+   "subreddit": "AI_Agents",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "GithubCopilot",
+   "members": 88000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Anthropic",
+     "members": 238000,
+     "growth_pct_yr": 324.7
+    },
+    {
+     "name": "claude",
+     "members": 212000,
+     "growth_pct_yr": 2390.0
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "ClaudeHomies",
+     "members": 59000,
+     "growth_pct_yr": 3401.4
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "GoogleGeminiAI",
+     "members": 164000,
+     "growth_pct_yr": 68.8
+    },
+    {
+     "name": "perplexity_ai",
+     "members": 207000,
+     "growth_pct_yr": 68.1
+    },
+    {
+     "name": "vibecoding",
+     "members": 392000,
+     "growth_pct_yr": 325.9
+    },
+    {
+     "name": "windsurf",
+     "members": 16000,
+     "growth_pct_yr": 56.2
+    }
+   ],
+   "tried": "GithubCopilot",
+   "status": "ok",
+   "subreddit": "GithubCopilot",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "aider",
+    "Aider"
+   ],
+   "status": "not indexed",
+   "subreddit": "aider",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "dataanalysis",
+   "members": 233000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "CustomerSuccess",
+     "members": 57000,
+     "growth_pct_yr": 49.1
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "datascience",
+     "members": 2800000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "DataScientist",
+     "members": 13000,
+     "growth_pct_yr": 65.4
+    },
+    {
+     "name": "doggrooming",
+     "members": 86000,
+     "growth_pct_yr": 7.4
+    },
+    {
+     "name": "LandscapeArchitecture",
+     "members": 71000,
+     "growth_pct_yr": 16.5
+    },
+    {
+     "name": "ProductManagement",
+     "members": 286000,
+     "growth_pct_yr": 23.0
+    },
+    {
+     "name": "salesforce",
+     "members": 118000,
+     "growth_pct_yr": 19.0
+    },
+    {
+     "name": "UIUX",
+     "members": 32000,
+     "growth_pct_yr": 73.2
+    }
+   ],
+   "tried": "dataanalysis",
+   "status": "ok",
+   "subreddit": "dataanalysis",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "datascience",
+   "members": 2800000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "careeradvice",
+     "members": 887000,
+     "growth_pct_yr": 24.0
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "GetEmployed",
+     "members": 704000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "hackernews",
+     "members": 102000,
+     "growth_pct_yr": 9.8
+    },
+    {
+     "name": "jobsearchhacks",
+     "members": 568000,
+     "growth_pct_yr": 76.0
+    },
+    {
+     "name": "UXResearch",
+     "members": 69000,
+     "growth_pct_yr": 16.0
+    }
+   ],
+   "tried": "datascience",
+   "status": "ok",
+   "subreddit": "datascience",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "BusinessIntelligence",
+   "members": 241000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "Businessideas",
+     "members": 54000,
+     "growth_pct_yr": 104.2
+    },
+    {
+     "name": "EntrepreneurRideAlong",
+     "members": 739000,
+     "growth_pct_yr": 18.5
+    },
+    {
+     "name": "Entrepreneurs",
+     "members": 200000,
+     "growth_pct_yr": 130.3
+    },
+    {
+     "name": "jira",
+     "members": 17000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "SaaSMarketing",
+     "members": 40000,
+     "growth_pct_yr": 133.1
+    },
+    {
+     "name": "startup_resources",
+     "members": 37000,
+     "growth_pct_yr": 35.4
+    }
+   ],
+   "tried": "BusinessIntelligence",
+   "status": "ok",
+   "subreddit": "BusinessIntelligence",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Metabase",
+    "metabase"
+   ],
+   "status": "not indexed",
+   "subreddit": "Metabase",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "superset",
+    "Superset"
+   ],
+   "status": "not indexed",
+   "subreddit": "superset",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "Looker",
+   "members": 5000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "excel",
+     "members": 902000,
+     "growth_pct_yr": 8.8
+    },
+    {
+     "name": "GoogleDataStudio",
+     "members": 47000,
+     "growth_pct_yr": 7.5
+    },
+    {
+     "name": "tableau",
+     "members": 95000,
+     "growth_pct_yr": 7.2
+    }
+   ],
+   "tried": "Looker",
+   "status": "ok",
+   "subreddit": "Looker",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "PowerBI",
+   "members": 215000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Affiliatemarketing",
+     "members": 294000,
+     "growth_pct_yr": 18.0
+    },
+    {
+     "name": "AZURE",
+     "members": 218000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "BusinessIntelligence",
+     "members": 241000,
+     "growth_pct_yr": 14.4
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "fintech",
+     "members": 99000,
+     "growth_pct_yr": 92.6
+    },
+    {
+     "name": "hubspot",
+     "members": 25000,
+     "growth_pct_yr": 60.0
+    },
+    {
+     "name": "MLQuestions",
+     "members": 116000,
+     "growth_pct_yr": 31.3
+    },
+    {
+     "name": "Netsuite",
+     "members": 29000,
+     "growth_pct_yr": 27.9
+    },
+    {
+     "name": "PowerBIdashboards",
+     "members": 7000,
+     "growth_pct_yr": 201.3
+    }
+   ],
+   "tried": "PowerBI",
+   "status": "ok",
+   "subreddit": "PowerBI",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "tableau",
+   "members": 95000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "androiddev",
+     "members": 297000,
+     "growth_pct_yr": 12.4
+    },
+    {
+     "name": "BusinessIntelligence",
+     "members": 241000,
+     "growth_pct_yr": 14.4
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "dataisbeautiful",
+     "members": 21900000,
+     "growth_pct_yr": 0.9
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "gamedesign",
+     "members": 306000,
+     "growth_pct_yr": 13.3
+    },
+    {
+     "name": "MarketingResearch",
+     "members": 36000,
+     "growth_pct_yr": 47.0
+    },
+    {
+     "name": "Maya",
+     "members": 109000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "Notion",
+     "members": 476000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "tech",
+     "members": 700000,
+     "growth_pct_yr": 4.7
+    }
+   ],
+   "tried": "tableau",
+   "status": "ok",
+   "subreddit": "tableau",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "GoogleDataStudio",
+   "members": 47000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "askIT",
+     "members": 3000,
+     "growth_pct_yr": 7.3
+    },
+    {
+     "name": "bigdata",
+     "members": 76000,
+     "growth_pct_yr": 23.2
+    },
+    {
+     "name": "FloridaRealEstate",
+     "members": 15000,
+     "growth_pct_yr": 106.9
+    },
+    {
+     "name": "Hacking_Tricks",
+     "members": 68000,
+     "growth_pct_yr": 36.4
+    },
+    {
+     "name": "kibana",
+     "members": 2000,
+     "growth_pct_yr": 1.8
+    },
+    {
+     "name": "LookerStudio",
+     "members": 2000,
+     "growth_pct_yr": 24.0
+    },
+    {
+     "name": "tableau",
+     "members": 95000,
+     "growth_pct_yr": 7.3
+    }
+   ],
+   "tried": "GoogleDataStudio",
+   "status": "ok",
+   "subreddit": "GoogleDataStudio",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "mysql",
+   "members": 50000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Database",
+     "members": 91000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "DatabaseAdministators",
+     "members": 6000,
+     "growth_pct_yr": 80.5
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "PythonLearning",
+     "members": 126000,
+     "growth_pct_yr": 98.7
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "mysql",
+   "status": "ok",
+   "subreddit": "MySQL",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "SQLServer",
+   "members": 68000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "cybersecurity",
+     "members": 1600000,
+     "growth_pct_yr": 19.7
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "datasets",
+     "members": 224000,
+     "growth_pct_yr": 7.5
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "SoftwareEngineering",
+     "members": 176000,
+     "growth_pct_yr": 11.9
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    }
+   ],
+   "tried": "SQLServer",
+   "status": "ok",
+   "subreddit": "SQLServer",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "mongodb",
+   "members": 30000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "CopilotPro",
+     "members": 29000,
+     "growth_pct_yr": 111.0
+    },
+    {
+     "name": "learnjava",
+     "members": 197000,
+     "growth_pct_yr": 9.0
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "programming",
+     "members": 6900000,
+     "growth_pct_yr": 2.1
+    },
+    {
+     "name": "realms",
+     "members": 79000,
+     "growth_pct_yr": 7.4
+    },
+    {
+     "name": "SEO_Digital_Marketing",
+     "members": 79000,
+     "growth_pct_yr": 28.4
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "techsupport",
+     "members": 3500000,
+     "growth_pct_yr": 5.4
+    }
+   ],
+   "tried": "mongodb",
+   "status": "ok",
+   "subreddit": "MongoDB",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "cassandra",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "apachekafka",
+     "members": 22000,
+     "growth_pct_yr": 19.4
+    },
+    {
+     "name": "Database",
+     "members": 91000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "databasedevelopment",
+     "members": 13000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "MSSQL",
+     "members": 3000,
+     "growth_pct_yr": 10.1
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "cassandra",
+   "status": "ok",
+   "subreddit": "cassandra",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "cockroachdb",
+    "Cockroachdb"
+   ],
+   "status": "not indexed",
+   "subreddit": "cockroachdb",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "Supabase",
+   "members": 45000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "boltnewbuilders",
+     "members": 14000,
+     "growth_pct_yr": 26.6
+    },
+    {
+     "name": "coolify",
+     "members": 2000,
+     "growth_pct_yr": 221.8
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "Netsuite",
+     "members": 29000,
+     "growth_pct_yr": 27.9
+    },
+    {
+     "name": "nextjs",
+     "members": 177000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "Odoo",
+     "members": 21000,
+     "growth_pct_yr": 45.5
+    },
+    {
+     "name": "Office365",
+     "members": 161000,
+     "growth_pct_yr": 14.6
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "Welocalize",
+     "members": 14000,
+     "growth_pct_yr": 50.1
+    },
+    {
+     "name": "Zoho",
+     "members": 14000,
+     "growth_pct_yr": 46.5
+    }
+   ],
+   "tried": "Supabase",
+   "status": "ok",
+   "subreddit": "Supabase",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Neon",
+    "neon"
+   ],
+   "status": "not indexed",
+   "subreddit": "Neon",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "datawarehouse",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "datawarehouse",
+   "status": "ok",
+   "subreddit": "datawarehouse",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "dataplatforms",
+    "Dataplatforms"
+   ],
+   "status": "not indexed",
+   "subreddit": "dataplatforms",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Meltano",
+    "meltano"
+   ],
+   "status": "not indexed",
+   "subreddit": "Meltano",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "segment",
+    "Segment"
+   ],
+   "status": "not indexed",
+   "subreddit": "segment",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "rudderstack",
+    "Rudderstack"
+   ],
+   "status": "not indexed",
+   "subreddit": "rudderstack",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "MotherDuck",
+    "motherduck",
+    "Motherduck"
+   ],
+   "status": "not indexed",
+   "subreddit": "MotherDuck",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "revops",
+   "members": 8000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AiAutomations",
+     "members": 88000,
+     "growth_pct_yr": 409.7
+    },
+    {
+     "name": "automation",
+     "members": 241000,
+     "growth_pct_yr": 66.4
+    },
+    {
+     "name": "CRM",
+     "members": 61000,
+     "growth_pct_yr": 104.9
+    },
+    {
+     "name": "CRMSoftware",
+     "members": 17000,
+     "growth_pct_yr": 417.3
+    },
+    {
+     "name": "hubspot",
+     "members": 25000,
+     "growth_pct_yr": 60.0
+    },
+    {
+     "name": "RealEstateTechnology",
+     "members": 58000,
+     "growth_pct_yr": 36.2
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "SalesOperations",
+     "members": 22000,
+     "growth_pct_yr": 162.9
+    }
+   ],
+   "tried": "revops",
+   "status": "ok",
+   "subreddit": "RevOps",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "dataengineeringjobs",
+   "members": 46000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "dataengineersindia",
+     "members": 25000,
+     "growth_pct_yr": 124.6
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "ETL",
+     "members": 14000,
+     "growth_pct_yr": 37.9
+    },
+    {
+     "name": "learnpython",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "ProductManagementJobs",
+     "members": 7000,
+     "growth_pct_yr": 240.3
+    }
+   ],
+   "tried": "dataengineeringjobs",
+   "status": "ok",
+   "subreddit": "dataengineeringjobs",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "googlecloud",
+   "members": 101000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "lovable",
+     "members": 57000,
+     "growth_pct_yr": 108.7
+    },
+    {
+     "name": "ProtonMail",
+     "members": 223000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "technology",
+     "members": 20600000,
+     "growth_pct_yr": 3.3
+    }
+   ],
+   "tried": "googlecloud",
+   "status": "ok",
+   "subreddit": "googlecloud",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "Netsuite",
+   "members": 29000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Accounting",
+     "members": 1300000,
+     "growth_pct_yr": 10.2
+    },
+    {
+     "name": "analytics",
+     "members": 287000,
+     "growth_pct_yr": 20.9
+    },
+    {
+     "name": "BusinessIntelligence",
+     "members": 241000,
+     "growth_pct_yr": 14.4
+    },
+    {
+     "name": "CFO",
+     "members": 17000,
+     "growth_pct_yr": 174.8
+    },
+    {
+     "name": "ecommerce",
+     "members": 688000,
+     "growth_pct_yr": 19.1
+    },
+    {
+     "name": "ERP",
+     "members": 20000,
+     "growth_pct_yr": 49.5
+    },
+    {
+     "name": "FPandA",
+     "members": 76000,
+     "growth_pct_yr": 34.0
+    },
+    {
+     "name": "Notion",
+     "members": 476000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "PowerBI",
+     "members": 215000,
+     "growth_pct_yr": 18.9
+    },
+    {
+     "name": "tableau",
+     "members": 95000,
+     "growth_pct_yr": 7.3
+    }
+   ],
+   "tried": "Netsuite",
+   "status": "ok",
+   "subreddit": "Netsuite",
+   "source": "csv",
+   "fit": "2"
+  },
+  {
+   "slug": "LocalLLaMA",
+   "members": 867000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "LLM",
+     "members": 60000,
+     "growth_pct_yr": 147.4
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "LocalLLM",
+     "members": 260000,
+     "growth_pct_yr": 182.2
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "ollama",
+     "members": 143000,
+     "growth_pct_yr": 60.1
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    }
+   ],
+   "tried": "LocalLLaMA",
+   "status": "ok",
+   "subreddit": "LocalLLaMA",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "MachineLearning",
+   "members": 3100000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Affiliatemarketing",
+     "members": 294000,
+     "growth_pct_yr": 18.0
+    },
+    {
+     "name": "aiArt",
+     "members": 692000,
+     "growth_pct_yr": 7.8
+    },
+    {
+     "name": "algotrading",
+     "members": 1900000,
+     "growth_pct_yr": 4.7
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "computervision",
+     "members": 168000,
+     "growth_pct_yr": 27.4
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "LocalLLM",
+     "members": 260000,
+     "growth_pct_yr": 182.2
+    },
+    {
+     "name": "MLQuestions",
+     "members": 116000,
+     "growth_pct_yr": 31.3
+    },
+    {
+     "name": "research",
+     "members": 70000,
+     "growth_pct_yr": 54.6
+    },
+    {
+     "name": "statistics",
+     "members": 636000,
+     "growth_pct_yr": 4.6
+    }
+   ],
+   "tried": "MachineLearning",
+   "status": "ok",
+   "subreddit": "MachineLearning",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "PromptEngineering",
+   "members": 428000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ChatGPT",
+     "members": 11700000,
+     "growth_pct_yr": 4.7
+    },
+    {
+     "name": "ChatGPT_Gemini",
+     "members": 31000,
+     "growth_pct_yr": 25.1
+    },
+    {
+     "name": "ChatGPTPro",
+     "members": 623000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "ChatGPTPromptGenius",
+     "members": 831000,
+     "growth_pct_yr": 28.2
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "PromptCentral",
+     "members": 19000,
+     "growth_pct_yr": 8328.5
+    },
+    {
+     "name": "PromptDesign",
+     "members": 41000,
+     "growth_pct_yr": 70.1
+    },
+    {
+     "name": "promptingmagic",
+     "members": 50000,
+     "growth_pct_yr": 528.3
+    },
+    {
+     "name": "ThinkingDeeplyAI",
+     "members": 38000,
+     "growth_pct_yr": 131.3
+    }
+   ],
+   "tried": "PromptEngineering",
+   "status": "ok",
+   "subreddit": "PromptEngineering",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "Rag",
+   "members": 82000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "devsecops",
+     "members": 23000,
+     "growth_pct_yr": 90.6
+    },
+    {
+     "name": "ETL",
+     "members": 14000,
+     "growth_pct_yr": 37.9
+    },
+    {
+     "name": "LangChain",
+     "members": 111000,
+     "growth_pct_yr": 40.2
+    },
+    {
+     "name": "mlops",
+     "members": 41000,
+     "growth_pct_yr": 50.9
+    },
+    {
+     "name": "Neo4j",
+     "members": 6000,
+     "growth_pct_yr": 14.7
+    },
+    {
+     "name": "vectordatabase",
+     "members": 13000,
+     "growth_pct_yr": 49.5
+    }
+   ],
+   "tried": "Rag",
+   "status": "ok",
+   "subreddit": "Rag",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "aipromptprogramming",
+   "members": 240000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "AIAssisted",
+     "members": 182000,
+     "growth_pct_yr": 109.0
+    },
+    {
+     "name": "AI_developers",
+     "members": 6000,
+     "growth_pct_yr": 158.0
+    },
+    {
+     "name": "ChatGPTPro",
+     "members": 623000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "PromptEngineering",
+     "members": 428000,
+     "growth_pct_yr": 60.9
+    }
+   ],
+   "tried": "aipromptprogramming",
+   "status": "ok",
+   "subreddit": "aipromptprogramming",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "LangChain",
+   "members": 111000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "automation",
+     "members": 241000,
+     "growth_pct_yr": 66.4
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "MarketingAutomation",
+     "members": 86000,
+     "growth_pct_yr": 66.3
+    }
+   ],
+   "tried": "LangChain",
+   "status": "ok",
+   "subreddit": "LangChain",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "LlamaIndex",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "flowise",
+     "members": 2000,
+     "growth_pct_yr": 15.1
+    },
+    {
+     "name": "GenAI4all",
+     "members": 51000,
+     "growth_pct_yr": 151.6
+    },
+    {
+     "name": "hackernews",
+     "members": 102000,
+     "growth_pct_yr": 9.8
+    },
+    {
+     "name": "Langchaindev",
+     "members": 2000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    }
+   ],
+   "tried": "LlamaIndex",
+   "status": "ok",
+   "subreddit": "LlamaIndex",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "OpenAI",
+   "members": 2900000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "ChatGPT",
+     "members": 11700000,
+     "growth_pct_yr": 4.7
+    },
+    {
+     "name": "ChatGPTPro",
+     "members": 623000,
+     "growth_pct_yr": 20.3
+    },
+    {
+     "name": "claude",
+     "members": 212000,
+     "growth_pct_yr": 2390.0
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "Tools",
+     "members": 1000000,
+     "growth_pct_yr": 11.3
+    }
+   ],
+   "tried": "OpenAI",
+   "status": "ok",
+   "subreddit": "OpenAI",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "Codeium",
+   "members": 16000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "atera",
+     "members": 8000,
+     "growth_pct_yr": 260.7
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "DeepSeek",
+     "members": 153000,
+     "growth_pct_yr": 94.0
+    },
+    {
+     "name": "windsurf",
+     "members": 16000,
+     "growth_pct_yr": 56.2
+    }
+   ],
+   "tried": "Codeium",
+   "status": "ok",
+   "subreddit": "codeium",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "CLineProjects",
+    "clineprojects",
+    "Clineprojects"
+   ],
+   "status": "not indexed",
+   "subreddit": "CLineProjects",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "devtools",
+    "Devtools"
+   ],
+   "status": "not indexed",
+   "subreddit": "devtools",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "apache_airflow",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "apache_airflow",
+   "status": "ok",
+   "subreddit": "airflow",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "dagster",
+   "members": 365,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "dagster",
+   "status": "ok",
+   "subreddit": "dagster",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Prefect",
+    "prefect"
+   ],
+   "status": "not indexed",
+   "subreddit": "Prefect",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "kestra",
+    "Kestra"
+   ],
+   "status": "not indexed",
+   "subreddit": "kestra",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "MageAI",
+    "mageai",
+    "Mageai"
+   ],
+   "status": "not indexed",
+   "subreddit": "MageAI",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "Temporal",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Temporal",
+   "status": "ok",
+   "subreddit": "temporal",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "apachekafka",
+   "members": 22000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "apachekafka",
+   "status": "ok",
+   "subreddit": "apachekafka",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "apacheflink",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "apacheflink",
+   "status": "ok",
+   "subreddit": "apacheflink",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "RisingWave",
+    "risingwave",
+    "Risingwave"
+   ],
+   "status": "not indexed",
+   "subreddit": "RisingWave",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Materialize",
+    "materialize"
+   ],
+   "status": "not indexed",
+   "subreddit": "Materialize",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "ZenML",
+    "zenml",
+    "Zenml"
+   ],
+   "status": "not indexed",
+   "subreddit": "ZenML",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "Kubeflow",
+   "members": 824,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Kubeflow",
+   "status": "ok",
+   "subreddit": "Kubeflow",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "pandas",
+    "Pandas"
+   ],
+   "status": "not indexed",
+   "subreddit": "pandas",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "learnpython",
+   "members": 1100000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskLosAngeles",
+     "members": 269000,
+     "growth_pct_yr": 27.6
+    },
+    {
+     "name": "China",
+     "members": 688000,
+     "growth_pct_yr": 17.2
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "DataHoarder",
+     "members": 1000000,
+     "growth_pct_yr": 13.4
+    },
+    {
+     "name": "golang",
+     "members": 383000,
+     "growth_pct_yr": 15.3
+    },
+    {
+     "name": "loseit",
+     "members": 4200000,
+     "growth_pct_yr": 3.4
+    },
+    {
+     "name": "programming",
+     "members": 6900000,
+     "growth_pct_yr": 2.1
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "Seattle",
+     "members": 868000,
+     "growth_pct_yr": 17.3
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "learnpython",
+   "status": "ok",
+   "subreddit": "learnpython",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "PythonProjects",
+    "pythonprojects",
+    "Pythonprojects"
+   ],
+   "status": "not indexed",
+   "subreddit": "PythonProjects",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "uv",
+    "Uv"
+   ],
+   "status": "not indexed",
+   "subreddit": "uv",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "pydantic",
+    "Pydantic"
+   ],
+   "status": "not indexed",
+   "subreddit": "pydantic",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "selfhosted",
+   "members": 866000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aipromptprogramming",
+     "members": 240000,
+     "growth_pct_yr": 70.6
+    },
+    {
+     "name": "AI_Tools_Land",
+     "members": 16000,
+     "growth_pct_yr": 117.2
+    },
+    {
+     "name": "AskVibecoders",
+     "members": 43000,
+     "growth_pct_yr": 489.2
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "VintageTees",
+     "members": 80000,
+     "growth_pct_yr": 20.6
+    }
+   ],
+   "tried": "selfhosted",
+   "status": "ok",
+   "subreddit": "selfhosted",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "homelab",
+   "members": 1100000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "docker",
+     "members": 324000,
+     "growth_pct_yr": 12.1
+    },
+    {
+     "name": "HomeLabPorn",
+     "members": 75000,
+     "growth_pct_yr": 109.9
+    },
+    {
+     "name": "HomeServer",
+     "members": 310000,
+     "growth_pct_yr": 30.3
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "selfhosted",
+     "members": 866000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "SelfHosting",
+     "members": 37000,
+     "growth_pct_yr": 576.3
+    },
+    {
+     "name": "sysadmin",
+     "members": 1300000,
+     "growth_pct_yr": 13.8
+    }
+   ],
+   "tried": "homelab",
+   "status": "ok",
+   "subreddit": "homelab",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "DataHoarder",
+   "members": 1000000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "animation",
+     "members": 2000000,
+     "growth_pct_yr": 3.7
+    },
+    {
+     "name": "Cameras",
+     "members": 344000,
+     "growth_pct_yr": 27.8
+    },
+    {
+     "name": "CFB",
+     "members": 4600000,
+     "growth_pct_yr": 4.1
+    },
+    {
+     "name": "conspiracy",
+     "members": 2400000,
+     "growth_pct_yr": 8.2
+    },
+    {
+     "name": "davinciresolve",
+     "members": 238000,
+     "growth_pct_yr": 35.6
+    },
+    {
+     "name": "editors",
+     "members": 199000,
+     "growth_pct_yr": 16.7
+    },
+    {
+     "name": "lifehacks",
+     "members": 14600000,
+     "growth_pct_yr": 0.7
+    },
+    {
+     "name": "newzealand",
+     "members": 871000,
+     "growth_pct_yr": 6.9
+    },
+    {
+     "name": "pcmasterrace",
+     "members": 16399999,
+     "growth_pct_yr": 3.5
+    },
+    {
+     "name": "technology",
+     "members": 20600000,
+     "growth_pct_yr": 3.3
+    }
+   ],
+   "tried": "DataHoarder",
+   "status": "ok",
+   "subreddit": "datahoarder",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "kaggle",
+   "members": 25000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "computervision",
+     "members": 168000,
+     "growth_pct_yr": 27.4
+    },
+    {
+     "name": "data",
+     "members": 54000,
+     "growth_pct_yr": 13.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "datascience",
+     "members": 2800000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "learnpython",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "MachineLearning",
+     "members": 3100000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "MLQuestions",
+     "members": 116000,
+     "growth_pct_yr": 31.3
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    }
+   ],
+   "tried": "kaggle",
+   "status": "ok",
+   "subreddit": "Kaggle",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "startups",
+   "members": 2100000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AppIdeas",
+     "members": 107000,
+     "growth_pct_yr": 72.3
+    },
+    {
+     "name": "cofounderhunt",
+     "members": 67000,
+     "growth_pct_yr": 173.7
+    },
+    {
+     "name": "Entrepreneurs",
+     "members": 200000,
+     "growth_pct_yr": 130.3
+    },
+    {
+     "name": "Femalefounders",
+     "members": 25000,
+     "growth_pct_yr": 299.6
+    },
+    {
+     "name": "founder",
+     "members": 87000,
+     "growth_pct_yr": 1584.3
+    },
+    {
+     "name": "indianstartups",
+     "members": 138000,
+     "growth_pct_yr": 64.6
+    },
+    {
+     "name": "internships",
+     "members": 150000,
+     "growth_pct_yr": 41.3
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "startup",
+     "members": 326000,
+     "growth_pct_yr": 33.3
+    },
+    {
+     "name": "startupideas",
+     "members": 46000,
+     "growth_pct_yr": 148.6
+    }
+   ],
+   "tried": "startups",
+   "status": "ok",
+   "subreddit": "startups",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "sideproject",
+    "Sideproject"
+   ],
+   "status": "not indexed",
+   "subreddit": "sideproject",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "aws",
+   "members": 399000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskMarketing",
+     "members": 180000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "chessbeginners",
+     "members": 429000,
+     "growth_pct_yr": 21.6
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "FinOps",
+     "members": 10000,
+     "growth_pct_yr": 101.5
+    },
+    {
+     "name": "learnpython",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "msp",
+     "members": 252000,
+     "growth_pct_yr": 15.0
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    },
+    {
+     "name": "Terraform",
+     "members": 86000,
+     "growth_pct_yr": 18.0
+    }
+   ],
+   "tried": "aws",
+   "status": "ok",
+   "subreddit": "aws",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "AZURE",
+   "members": 218000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "cloudcomputing",
+     "members": 46000,
+     "growth_pct_yr": 30.5
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "CyberSecurityAdvice",
+     "members": 147000,
+     "growth_pct_yr": 35.0
+    },
+    {
+     "name": "developer",
+     "members": 50000,
+     "growth_pct_yr": 48.0
+    },
+    {
+     "name": "Intune",
+     "members": 87000,
+     "growth_pct_yr": 24.8
+    },
+    {
+     "name": "LocalLLaMA",
+     "members": 867000,
+     "growth_pct_yr": 55.8
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "sysadmin",
+     "members": 1300000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "Sysadminhumor",
+     "members": 54000,
+     "growth_pct_yr": 17.7
+    }
+   ],
+   "tried": "AZURE",
+   "status": "ok",
+   "subreddit": "AZURE",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "programming",
+   "members": 6900000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "bald",
+     "members": 614000,
+     "growth_pct_yr": 170.4
+    },
+    {
+     "name": "business",
+     "members": 2600000,
+     "growth_pct_yr": 3.5
+    },
+    {
+     "name": "China",
+     "members": 688000,
+     "growth_pct_yr": 17.2
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "computerscience",
+     "members": 526000,
+     "growth_pct_yr": 11.4
+    },
+    {
+     "name": "LocalLLM",
+     "members": 260000,
+     "growth_pct_yr": 182.2
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "PhD",
+     "members": 294000,
+     "growth_pct_yr": 31.1
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "programming",
+   "status": "ok",
+   "subreddit": "programming",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "devops",
+   "members": 521000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "django",
+     "members": 167000,
+     "growth_pct_yr": 8.0
+    },
+    {
+     "name": "Frontend",
+     "members": 353000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "gitlab",
+     "members": 28000,
+     "growth_pct_yr": 22.1
+    },
+    {
+     "name": "IOT",
+     "members": 59000,
+     "growth_pct_yr": 24.3
+    },
+    {
+     "name": "msp",
+     "members": 252000,
+     "growth_pct_yr": 15.0
+    },
+    {
+     "name": "programming",
+     "members": 6900000,
+     "growth_pct_yr": 2.1
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    }
+   ],
+   "tried": "devops",
+   "status": "ok",
+   "subreddit": "devops",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "cscareerquestions",
+   "members": 2400000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "biotech",
+     "members": 259000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "careeradvice",
+     "members": 887000,
+     "growth_pct_yr": 24.0
+    },
+    {
+     "name": "Communications",
+     "members": 13000,
+     "growth_pct_yr": 81.6
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataengineersindia",
+     "members": 25000,
+     "growth_pct_yr": 124.6
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "FinancialCareers",
+     "members": 1800000,
+     "growth_pct_yr": 5.8
+    },
+    {
+     "name": "ITCareerQuestions",
+     "members": 576000,
+     "growth_pct_yr": 11.1
+    },
+    {
+     "name": "QualityAssurance",
+     "members": 87000,
+     "growth_pct_yr": 34.1
+    },
+    {
+     "name": "sales",
+     "members": 612000,
+     "growth_pct_yr": 17.8
+    }
+   ],
+   "tried": "cscareerquestions",
+   "status": "ok",
+   "subreddit": "cscareerquestions",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "SaaS",
+   "members": 841000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "buildinpublic",
+     "members": 129000,
+     "growth_pct_yr": 295.2
+    },
+    {
+     "name": "Entrepreneur",
+     "members": 5300000,
+     "growth_pct_yr": 7.3
+    },
+    {
+     "name": "founder",
+     "members": 87000,
+     "growth_pct_yr": 1584.3
+    },
+    {
+     "name": "indiehackers",
+     "members": 200000,
+     "growth_pct_yr": 64.0
+    },
+    {
+     "name": "microsaas",
+     "members": 224000,
+     "growth_pct_yr": 78.3
+    },
+    {
+     "name": "micro_saas",
+     "members": 146000,
+     "growth_pct_yr": 456.7
+    },
+    {
+     "name": "saasbuild",
+     "members": 62000,
+     "growth_pct_yr": 691.2
+    },
+    {
+     "name": "SaasDevelopers",
+     "members": 61000,
+     "growth_pct_yr": 526.5
+    },
+    {
+     "name": "SaaSSolopreneurs",
+     "members": 17000,
+     "growth_pct_yr": 435.0
+    },
+    {
+     "name": "SideProject",
+     "members": 892000,
+     "growth_pct_yr": 70.0
+    }
+   ],
+   "tried": "SaaS",
+   "status": "ok",
+   "subreddit": "SaaS",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "indiehackers",
+   "members": 200000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AppIdeas",
+     "members": 107000,
+     "growth_pct_yr": 72.3
+    },
+    {
+     "name": "buildinpublic",
+     "members": 129000,
+     "growth_pct_yr": 295.2
+    },
+    {
+     "name": "IndiaStartups",
+     "members": 28000,
+     "growth_pct_yr": 101.5
+    },
+    {
+     "name": "microsaas",
+     "members": 224000,
+     "growth_pct_yr": 78.3
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "SaasDevelopers",
+     "members": 61000,
+     "growth_pct_yr": 526.5
+    },
+    {
+     "name": "startupideas",
+     "members": 46000,
+     "growth_pct_yr": 148.6
+    },
+    {
+     "name": "Startup_Ideas",
+     "members": 351000,
+     "growth_pct_yr": 78.5
+    },
+    {
+     "name": "StartUpIndia",
+     "members": 459000,
+     "growth_pct_yr": 22.9
+    },
+    {
+     "name": "StartupSoloFounder",
+     "members": 46000,
+     "growth_pct_yr": 5003.4
+    }
+   ],
+   "tried": "indiehackers",
+   "status": "ok",
+   "subreddit": "IndieHackers",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "learnmachinelearning",
+   "members": 690000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskRobotics",
+     "members": 19000,
+     "growth_pct_yr": 123.1
+    },
+    {
+     "name": "cscareerquestionsEU",
+     "members": 179000,
+     "growth_pct_yr": 15.1
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "datascience",
+     "members": 2800000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "kaggle",
+     "members": 25000,
+     "growth_pct_yr": 21.8
+    },
+    {
+     "name": "learndatascience",
+     "members": 61000,
+     "growth_pct_yr": 60.4
+    },
+    {
+     "name": "neuralnetworks",
+     "members": 50000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "statistics",
+     "members": 636000,
+     "growth_pct_yr": 4.6
+    },
+    {
+     "name": "systems_engineering",
+     "members": 22000,
+     "growth_pct_yr": 56.1
+    }
+   ],
+   "tried": "learnmachinelearning",
+   "status": "ok",
+   "subreddit": "learnmachinelearning",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "GoogleAppsScript",
+   "members": 19000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "classactions",
+     "members": 119000,
+     "growth_pct_yr": 438.8
+    },
+    {
+     "name": "GeminiAI",
+     "members": 402000,
+     "growth_pct_yr": 183.0
+    },
+    {
+     "name": "GoogleGeminiAI",
+     "members": 164000,
+     "growth_pct_yr": 68.8
+    },
+    {
+     "name": "googlesheets",
+     "members": 87000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "n8n",
+     "members": 262000,
+     "growth_pct_yr": 51.6
+    },
+    {
+     "name": "n8n_ai_agents",
+     "members": 40000,
+     "growth_pct_yr": 269.1
+    },
+    {
+     "name": "pipedrive",
+     "members": 1000,
+     "growth_pct_yr": 44.6
+    },
+    {
+     "name": "privacy",
+     "members": 1700000,
+     "growth_pct_yr": 9.8
+    },
+    {
+     "name": "PrivacyGuides",
+     "members": 101000,
+     "growth_pct_yr": 16.5
+    },
+    {
+     "name": "ProtonMail",
+     "members": 223000,
+     "growth_pct_yr": 32.6
+    }
+   ],
+   "tried": "GoogleAppsScript",
+   "status": "ok",
+   "subreddit": "GoogleAppsScript",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "dataisbeautiful",
+   "members": 21900000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AlignmentChartFills",
+     "members": 203000,
+     "growth_pct_yr": 82.2
+    },
+    {
+     "name": "DataArt",
+     "members": 75000,
+     "growth_pct_yr": 4.5
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "Infographics",
+     "members": 545000,
+     "growth_pct_yr": 11.6
+    },
+    {
+     "name": "MapPorn",
+     "members": 6400000,
+     "growth_pct_yr": 5.4
+    },
+    {
+     "name": "mapporncirclejerk",
+     "members": 757000,
+     "growth_pct_yr": 43.1
+    },
+    {
+     "name": "swingtrading",
+     "members": 185000,
+     "growth_pct_yr": 29.8
+    }
+   ],
+   "tried": "dataisbeautiful",
+   "status": "ok",
+   "subreddit": "dataisbeautiful",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "dataisugly",
+    "Dataisugly"
+   ],
+   "status": "not indexed",
+   "subreddit": "dataisugly",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "india",
+   "members": 3500000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskIndia",
+     "members": 916000,
+     "growth_pct_yr": 10.8
+    },
+    {
+     "name": "delhi",
+     "members": 1400000,
+     "growth_pct_yr": 9.0
+    },
+    {
+     "name": "indiadiscussion",
+     "members": 184000,
+     "growth_pct_yr": 47.0
+    },
+    {
+     "name": "indiameme",
+     "members": 1600000,
+     "growth_pct_yr": 6.7
+    },
+    {
+     "name": "IndianStreetBets",
+     "members": 581000,
+     "growth_pct_yr": 11.9
+    },
+    {
+     "name": "pakistan",
+     "members": 709000,
+     "growth_pct_yr": 12.9
+    },
+    {
+     "name": "TeenIndia",
+     "members": 596000,
+     "growth_pct_yr": 89.9
+    },
+    {
+     "name": "Tools",
+     "members": 1000000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "UAE",
+     "members": 338000,
+     "growth_pct_yr": 57.3
+    },
+    {
+     "name": "unitedstatesofindia",
+     "members": 574000,
+     "growth_pct_yr": 6.6
+    }
+   ],
+   "tried": "india",
+   "status": "ok",
+   "subreddit": "india",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "brasil",
+   "members": 3400000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "BrasildoB",
+     "members": 53000,
+     "growth_pct_yr": 17.1
+    },
+    {
+     "name": "brasilivre",
+     "members": 238000,
+     "growth_pct_yr": 5.8
+    },
+    {
+     "name": "Twitter_Brasil",
+     "members": 265000,
+     "growth_pct_yr": 8.5
+    }
+   ],
+   "tried": "brasil",
+   "status": "ok",
+   "subreddit": "brasil",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "Polska",
+   "members": 803000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "askPoland",
+     "members": 12000,
+     "growth_pct_yr": 143.9
+    },
+    {
+     "name": "brantford",
+     "members": 18000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "computerscience",
+     "members": 526000,
+     "growth_pct_yr": 11.4
+    },
+    {
+     "name": "Markham",
+     "members": 58000,
+     "growth_pct_yr": 25.1
+    },
+    {
+     "name": "networking",
+     "members": 457000,
+     "growth_pct_yr": 13.7
+    },
+    {
+     "name": "poland",
+     "members": 1200000,
+     "growth_pct_yr": 4.2
+    },
+    {
+     "name": "privacy",
+     "members": 1700000,
+     "growth_pct_yr": 9.8
+    },
+    {
+     "name": "royalcaribbean",
+     "members": 175000,
+     "growth_pct_yr": 30.0
+    },
+    {
+     "name": "Switzerland",
+     "members": 608000,
+     "growth_pct_yr": 6.9
+    }
+   ],
+   "tried": "Polska",
+   "status": "ok",
+   "subreddit": "Polska",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": "europe",
+   "members": 11700000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AnythingGoesNews",
+     "members": 181000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "AskBrits",
+     "members": 270000,
+     "growth_pct_yr": 75.6
+    },
+    {
+     "name": "autotldr",
+     "members": 19000,
+     "growth_pct_yr": 0.7
+    },
+    {
+     "name": "EuropeanFederalists",
+     "members": 36000,
+     "growth_pct_yr": 22.1
+    },
+    {
+     "name": "europeanunion",
+     "members": 63000,
+     "growth_pct_yr": 21.7
+    },
+    {
+     "name": "FreedomofRussia",
+     "members": 26000,
+     "growth_pct_yr": 2.2
+    },
+    {
+     "name": "geopolitics",
+     "members": 796000,
+     "growth_pct_yr": 10.4
+    },
+    {
+     "name": "International",
+     "members": 52000,
+     "growth_pct_yr": 434.1
+    },
+    {
+     "name": "politics",
+     "members": 9300000,
+     "growth_pct_yr": 4.3
+    },
+    {
+     "name": "worldnews",
+     "members": 47700000,
+     "growth_pct_yr": 1.8
+    }
+   ],
+   "tried": "europe",
+   "status": "ok",
+   "subreddit": "europe",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "de",
+    "De"
+   ],
+   "status": "not indexed",
+   "subreddit": "de",
+   "source": "csv",
+   "fit": "1"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "dbt",
+    "Dbt"
+   ],
+   "status": "not indexed",
+   "subreddit": "dbt",
+   "source": "csv",
+   "fit": "0"
+  },
+  {
+   "slug": "Fivetran",
+   "members": 281,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Fivetran",
+   "status": "ok",
+   "subreddit": "fivetran",
+   "source": "csv",
+   "fit": "0"
+  },
+  {
+   "slug": "airbyte",
+   "members": 29,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "airbyte",
+   "status": "ok",
+   "subreddit": "airbyte",
+   "source": "csv",
+   "fit": "0"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "apachehudi",
+    "Apachehudi"
+   ],
+   "status": "not indexed",
+   "subreddit": "apachehudi",
+   "source": "csv",
+   "fit": "0"
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "dataengineering2",
+    "Dataengineering2"
+   ],
+   "status": "not indexed",
+   "subreddit": "dataengineering2",
+   "source": "csv",
+   "fit": "0"
+  },
+  {
+   "slug": "MicrosoftFabric",
+   "members": 29000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AzureDataPlatforms",
+     "members": 1000,
+     "growth_pct_yr": 13.5
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "MSSQL",
+     "members": 3000,
+     "growth_pct_yr": 10.1
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "MicrosoftFabric",
+   "status": "ok",
+   "subreddit": "MicrosoftFabric",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "AzureDataPlatforms",
+   "members": 1000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AZURE",
+     "members": 218000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "bigquery",
+     "members": 21000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "MicrosoftFabric",
+     "members": 29000,
+     "growth_pct_yr": 54.9
+    },
+    {
+     "name": "mlops",
+     "members": 41000,
+     "growth_pct_yr": 50.9
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "udemyfreebies",
+     "members": 66000,
+     "growth_pct_yr": 8.8
+    }
+   ],
+   "tried": "AzureDataPlatforms",
+   "status": "ok",
+   "subreddit": "AzureDataPlatforms",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Databricks_eng",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "databricks",
+     "members": 37000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    }
+   ],
+   "tried": "Databricks_eng",
+   "status": "ok",
+   "subreddit": "Databricks_eng",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "PySpark",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "PySpark",
+   "status": "ok",
+   "subreddit": "PySpark",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "DatabaseAdministators",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "nosql",
+     "members": 5000,
+     "growth_pct_yr": 3.1
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "DatabaseAdministators",
+   "status": "ok",
+   "subreddit": "DatabaseAdministators",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Database",
+   "members": 91000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "cassandra",
+     "members": 3000,
+     "growth_pct_yr": 13.0
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "mariadb",
+     "members": 4000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "mysql",
+     "members": 50000,
+     "growth_pct_yr": 10.0
+    },
+    {
+     "name": "PostgreSQL",
+     "members": 90000,
+     "growth_pct_yr": 29.0
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "tattoo",
+     "members": 1000000,
+     "growth_pct_yr": 5.1
+    }
+   ],
+   "tried": "Database",
+   "status": "ok",
+   "subreddit": "Database",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Alteryx",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "analytics",
+     "members": 287000,
+     "growth_pct_yr": 20.9
+    },
+    {
+     "name": "apachespark",
+     "members": 20000,
+     "growth_pct_yr": 14.5
+    },
+    {
+     "name": "Automate",
+     "members": 158000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalyst",
+     "members": 59000,
+     "growth_pct_yr": 42.3
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "DataScienceMemes",
+     "members": 6000,
+     "growth_pct_yr": 2.9
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "udemyfreebies",
+     "members": 66000,
+     "growth_pct_yr": 8.8
+    }
+   ],
+   "tried": "Alteryx",
+   "status": "ok",
+   "subreddit": "Alteryx",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "informatica",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskTechnology",
+     "members": 78000,
+     "growth_pct_yr": 51.2
+    },
+    {
+     "name": "buildapcsales",
+     "members": 1000000,
+     "growth_pct_yr": 4.7
+    },
+    {
+     "name": "computadores",
+     "members": 315000,
+     "growth_pct_yr": 32.4
+    },
+    {
+     "name": "computerhelp",
+     "members": 85000,
+     "growth_pct_yr": 42.9
+    },
+    {
+     "name": "de_EDV",
+     "members": 234000,
+     "growth_pct_yr": 13.4
+    },
+    {
+     "name": "hardwarebrasil",
+     "members": 102000,
+     "growth_pct_yr": 45.9
+    },
+    {
+     "name": "ITSupport",
+     "members": 19000,
+     "growth_pct_yr": 116.2
+    },
+    {
+     "name": "Mercadoreddit",
+     "members": 102000,
+     "growth_pct_yr": 21.5
+    },
+    {
+     "name": "pchelp",
+     "members": 313000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "techsupport",
+     "members": 3500000,
+     "growth_pct_yr": 5.4
+    }
+   ],
+   "tried": "informatica",
+   "status": "ok",
+   "subreddit": "informatica",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "SAP",
+   "members": 64000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "abap",
+     "members": 9000,
+     "growth_pct_yr": 44.7
+    },
+    {
+     "name": "apachekafka",
+     "members": 22000,
+     "growth_pct_yr": 19.4
+    },
+    {
+     "name": "atlassian",
+     "members": 11000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "AZURE",
+     "members": 218000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "devopsGuru",
+     "members": 12000,
+     "growth_pct_yr": 74.7
+    },
+    {
+     "name": "ERP",
+     "members": 20000,
+     "growth_pct_yr": 49.5
+    },
+    {
+     "name": "platformengineering",
+     "members": 12000,
+     "growth_pct_yr": 256.9
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    }
+   ],
+   "tried": "SAP",
+   "status": "ok",
+   "subreddit": "SAP",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "oracle",
+   "members": 35000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "ERP",
+     "members": 20000,
+     "growth_pct_yr": 49.5
+    },
+    {
+     "name": "FamilyMedicine",
+     "members": 81000,
+     "growth_pct_yr": 17.3
+    },
+    {
+     "name": "googlecloud",
+     "members": 101000,
+     "growth_pct_yr": 27.0
+    },
+    {
+     "name": "MomForAMinute",
+     "members": 497000,
+     "growth_pct_yr": 8.9
+    },
+    {
+     "name": "msp",
+     "members": 252000,
+     "growth_pct_yr": 15.0
+    },
+    {
+     "name": "oraclecloud",
+     "members": 18000,
+     "growth_pct_yr": 45.8
+    },
+    {
+     "name": "SAP",
+     "members": 64000,
+     "growth_pct_yr": 32.1
+    },
+    {
+     "name": "TeenIndia",
+     "members": 596000,
+     "growth_pct_yr": 89.9
+    }
+   ],
+   "tried": "oracle",
+   "status": "ok",
+   "subreddit": "oracle",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "learnSQL",
+   "members": 72000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "learnjava",
+     "members": 197000,
+     "growth_pct_yr": 9.0
+    },
+    {
+     "name": "learnprogramming",
+     "members": 4400000,
+     "growth_pct_yr": 3.8
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "udemyfreebies",
+     "members": 66000,
+     "growth_pct_yr": 8.8
+    }
+   ],
+   "tried": "learnSQL",
+   "status": "ok",
+   "subreddit": "learnSQL",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Streamlit",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Streamlit",
+   "status": "ok",
+   "subreddit": "Streamlit",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "AzureSynapseAnalytics",
+   "members": 936,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AZURE",
+     "members": 218000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "AzureSentinel",
+     "members": 5000,
+     "growth_pct_yr": 28.3
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "cloudcomputing",
+     "members": 46000,
+     "growth_pct_yr": 30.5
+    },
+    {
+     "name": "CRM",
+     "members": 61000,
+     "growth_pct_yr": 104.9
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "Parseur",
+     "members": 51,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "SAtechnews",
+     "members": 4000,
+     "growth_pct_yr": 7.0
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    },
+    {
+     "name": "technology",
+     "members": 20600000,
+     "growth_pct_yr": 3.3
+    }
+   ],
+   "tried": "AzureSynapseAnalytics",
+   "status": "ok",
+   "subreddit": "AzureSynapseAnalytics",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Observability",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "grafana",
+     "members": 27000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "LangChain",
+     "members": 111000,
+     "growth_pct_yr": 40.2
+    },
+    {
+     "name": "Monitoring",
+     "members": 5000,
+     "growth_pct_yr": 102.5
+    },
+    {
+     "name": "OpenTelemetry",
+     "members": 5000,
+     "growth_pct_yr": 75.3
+    },
+    {
+     "name": "platformengineering",
+     "members": 12000,
+     "growth_pct_yr": 256.9
+    },
+    {
+     "name": "platform_engineering",
+     "members": 7000,
+     "growth_pct_yr": 44.0
+    },
+    {
+     "name": "PrometheusMonitoring",
+     "members": 13000,
+     "growth_pct_yr": 16.2
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    }
+   ],
+   "tried": "Observability",
+   "status": "ok",
+   "subreddit": "Observability",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "grafana",
+   "members": 27000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "CloudWatch",
+     "members": 84,
+     "growth_pct_yr": 10.5
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "Docker_DevOps",
+     "members": 8000,
+     "growth_pct_yr": 5.7
+    },
+    {
+     "name": "kubernetes",
+     "members": 215000,
+     "growth_pct_yr": 18.2
+    },
+    {
+     "name": "Monitoring",
+     "members": 5000,
+     "growth_pct_yr": 102.5
+    },
+    {
+     "name": "Observability",
+     "members": 7000,
+     "growth_pct_yr": 190.2
+    },
+    {
+     "name": "PrometheusMonitoring",
+     "members": 13000,
+     "growth_pct_yr": 16.2
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    }
+   ],
+   "tried": "grafana",
+   "status": "ok",
+   "subreddit": "grafana",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "dataengineersindia",
+   "members": 25000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Accounting",
+     "members": 1300000,
+     "growth_pct_yr": 10.2
+    },
+    {
+     "name": "civilengineering",
+     "members": 234000,
+     "growth_pct_yr": 19.7
+    },
+    {
+     "name": "cscareerquestionsEU",
+     "members": 179000,
+     "growth_pct_yr": 15.1
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "dataengineeringjobs",
+     "members": 46000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "devopsjobs",
+     "members": 46000,
+     "growth_pct_yr": 75.6
+    },
+    {
+     "name": "IndiaCareers",
+     "members": 273000,
+     "growth_pct_yr": 23.1
+    },
+    {
+     "name": "jobs",
+     "members": 2900000,
+     "growth_pct_yr": 16.8
+    }
+   ],
+   "tried": "dataengineersindia",
+   "status": "ok",
+   "subreddit": "dataengineersindia",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "dataengineer",
+   "members": 4000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "DataCamp",
+     "members": 20000,
+     "growth_pct_yr": 18.4
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "dataengineeringjobs",
+     "members": 46000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "DataEngineeringPH",
+     "members": 7000,
+     "growth_pct_yr": 110.2
+    },
+    {
+     "name": "dataengineersindia",
+     "members": 25000,
+     "growth_pct_yr": 124.6
+    },
+    {
+     "name": "ETL",
+     "members": 14000,
+     "growth_pct_yr": 37.9
+    },
+    {
+     "name": "learnSQL",
+     "members": 72000,
+     "growth_pct_yr": 39.3
+    },
+    {
+     "name": "snowflake",
+     "members": 27000,
+     "growth_pct_yr": 34.7
+    }
+   ],
+   "tried": "dataengineer",
+   "status": "ok",
+   "subreddit": "dataengineer",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "DataEngineeringPH",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "cscareerquestionsEU",
+     "members": 179000,
+     "growth_pct_yr": 15.1
+    },
+    {
+     "name": "data",
+     "members": 54000,
+     "growth_pct_yr": 13.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "DataCamp",
+     "members": 20000,
+     "growth_pct_yr": 18.4
+    },
+    {
+     "name": "dataengineer",
+     "members": 4000,
+     "growth_pct_yr": 85.1
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "dataengineeringjobs",
+     "members": 46000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "dataengineersindia",
+     "members": 25000,
+     "growth_pct_yr": 124.6
+    },
+    {
+     "name": "RemoteJobs",
+     "members": 598000,
+     "growth_pct_yr": 57.3
+    }
+   ],
+   "tried": "DataEngineeringPH",
+   "status": "ok",
+   "subreddit": "DataEngineeringPH",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "datasets",
+   "members": 224000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "BusinessIntelligence",
+     "members": 241000,
+     "growth_pct_yr": 14.4
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "LanguageTechnology",
+     "members": 67000,
+     "growth_pct_yr": 12.3
+    },
+    {
+     "name": "MachineLearning",
+     "members": 3100000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "MLQuestions",
+     "members": 116000,
+     "growth_pct_yr": 31.3
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "software",
+     "members": 383000,
+     "growth_pct_yr": 23.6
+    }
+   ],
+   "tried": "datasets",
+   "status": "ok",
+   "subreddit": "datasets",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "data",
+   "members": 54000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "analytics",
+     "members": 287000,
+     "growth_pct_yr": 20.9
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "datasets",
+     "members": 224000,
+     "growth_pct_yr": 7.5
+    },
+    {
+     "name": "healthIT",
+     "members": 60000,
+     "growth_pct_yr": 29.9
+    },
+    {
+     "name": "LanguageTechnology",
+     "members": 67000,
+     "growth_pct_yr": 12.3
+    },
+    {
+     "name": "learnpython",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "MLQuestions",
+     "members": 116000,
+     "growth_pct_yr": 31.3
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    }
+   ],
+   "tried": "data",
+   "status": "ok",
+   "subreddit": "data",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "dataanalyst",
+   "members": 59000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "analytics",
+     "members": 287000,
+     "growth_pct_yr": 20.9
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalysiscareers",
+     "members": 38000,
+     "growth_pct_yr": 172.6
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "datascience",
+     "members": 2800000,
+     "growth_pct_yr": 2.8
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "FPandA",
+     "members": 76000,
+     "growth_pct_yr": 34.0
+    },
+    {
+     "name": "learndatascience",
+     "members": 61000,
+     "growth_pct_yr": 60.2
+    }
+   ],
+   "tried": "dataanalyst",
+   "status": "ok",
+   "subreddit": "dataanalyst",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "businessanalysis",
+   "members": 120000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "analytics",
+     "members": 287000,
+     "growth_pct_yr": 20.9
+    },
+    {
+     "name": "businessanalyst",
+     "members": 30000,
+     "growth_pct_yr": 46.8
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataanalytics",
+     "members": 49000,
+     "growth_pct_yr": 62.8
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "dataengineeringjobs",
+     "members": 46000,
+     "growth_pct_yr": 77.5
+    },
+    {
+     "name": "FinancialAnalyst",
+     "members": 12000,
+     "growth_pct_yr": 116.5
+    },
+    {
+     "name": "FPandA",
+     "members": 76000,
+     "growth_pct_yr": 34.0
+    },
+    {
+     "name": "ITManagers",
+     "members": 82000,
+     "growth_pct_yr": 53.6
+    },
+    {
+     "name": "pharmaindustry",
+     "members": 25000,
+     "growth_pct_yr": 34.4
+    }
+   ],
+   "tried": "businessanalysis",
+   "status": "ok",
+   "subreddit": "businessanalysis",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "semanticweb",
+   "members": 10000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "KnowledgeGraph",
+     "members": 6000,
+     "growth_pct_yr": 157.9
+    },
+    {
+     "name": "Neo4j",
+     "members": 6000,
+     "growth_pct_yr": 14.7
+    }
+   ],
+   "tried": "semanticweb",
+   "status": "ok",
+   "subreddit": "semanticweb",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "KnowledgeGraph",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "academia",
+     "members": 111000,
+     "growth_pct_yr": 17.1
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "LanguageTechnology",
+     "members": 67000,
+     "growth_pct_yr": 12.3
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "machinelearningnews",
+     "members": 158000,
+     "growth_pct_yr": 37.7
+    },
+    {
+     "name": "Neo4j",
+     "members": 6000,
+     "growth_pct_yr": 14.7
+    },
+    {
+     "name": "neuralnetworks",
+     "members": 50000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "ResearchML",
+     "members": 25000,
+     "growth_pct_yr": 110.6
+    },
+    {
+     "name": "semanticweb",
+     "members": 10000,
+     "growth_pct_yr": 41.5
+    }
+   ],
+   "tried": "KnowledgeGraph",
+   "status": "ok",
+   "subreddit": "KnowledgeGraph",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Ontology",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Ontology",
+   "status": "ok",
+   "subreddit": "Ontology",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Neo4j",
+   "members": 6000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Airtable",
+     "members": 20000,
+     "growth_pct_yr": 23.4
+    },
+    {
+     "name": "bigquery",
+     "members": 21000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "charts",
+     "members": 93000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "datavisualization",
+     "members": 32000,
+     "growth_pct_yr": 38.6
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "KnowledgeGraph",
+     "members": 6000,
+     "growth_pct_yr": 157.9
+    },
+    {
+     "name": "mongodb",
+     "members": 30000,
+     "growth_pct_yr": 11.5
+    },
+    {
+     "name": "Rag",
+     "members": 82000,
+     "growth_pct_yr": 60.8
+    },
+    {
+     "name": "SQL",
+     "members": 293000,
+     "growth_pct_yr": 13.6
+    },
+    {
+     "name": "SQLServer",
+     "members": 68000,
+     "growth_pct_yr": 12.5
+    }
+   ],
+   "tried": "Neo4j",
+   "status": "ok",
+   "subreddit": "Neo4j",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "datagovernance",
+   "members": 2000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "datagovernance",
+   "status": "ok",
+   "subreddit": "datagovernance",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "gtmengineering",
+   "members": 18000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "B2BSaaS",
+     "members": 32000,
+     "growth_pct_yr": 145.8
+    },
+    {
+     "name": "B2BSales",
+     "members": 5000,
+     "growth_pct_yr": 563.9
+    },
+    {
+     "name": "business",
+     "members": 2600000,
+     "growth_pct_yr": 3.5
+    },
+    {
+     "name": "Businessowners",
+     "members": 41000,
+     "growth_pct_yr": 683.2
+    },
+    {
+     "name": "CRM",
+     "members": 61000,
+     "growth_pct_yr": 104.9
+    },
+    {
+     "name": "EmailOutreach",
+     "members": 7000,
+     "growth_pct_yr": 426.8
+    },
+    {
+     "name": "revops",
+     "members": 8000,
+     "growth_pct_yr": 171.7
+    },
+    {
+     "name": "SalesOperations",
+     "members": 22000,
+     "growth_pct_yr": 162.9
+    }
+   ],
+   "tried": "gtmengineering",
+   "status": "ok",
+   "subreddit": "gtmengineering",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "webscraping",
+   "members": 105000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "django",
+     "members": 167000,
+     "growth_pct_yr": 8.0
+    },
+    {
+     "name": "djangolearning",
+     "members": 32000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "flask",
+     "members": 94000,
+     "growth_pct_yr": 3.4
+    },
+    {
+     "name": "hackernews",
+     "members": 102000,
+     "growth_pct_yr": 9.8
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "PythonProjects2",
+     "members": 61000,
+     "growth_pct_yr": 25.8
+    },
+    {
+     "name": "scraping",
+     "members": 2000,
+     "growth_pct_yr": 8.6
+    },
+    {
+     "name": "scrapinghub",
+     "members": 2000,
+     "growth_pct_yr": 5.3
+    },
+    {
+     "name": "scrapingtheweb",
+     "members": 10000,
+     "growth_pct_yr": 365.7
+    }
+   ],
+   "tried": "webscraping",
+   "status": "ok",
+   "subreddit": "webscraping",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "scrapingtheweb",
+   "members": 10000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Airtable",
+     "members": 20000,
+     "growth_pct_yr": 23.4
+    },
+    {
+     "name": "Automate",
+     "members": 158000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "automation",
+     "members": 241000,
+     "growth_pct_yr": 66.4
+    },
+    {
+     "name": "ExcelTips",
+     "members": 83000,
+     "growth_pct_yr": 21.7
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "PythonProjects2",
+     "members": 61000,
+     "growth_pct_yr": 25.8
+    },
+    {
+     "name": "scrapinghub",
+     "members": 2000,
+     "growth_pct_yr": 5.3
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    },
+    {
+     "name": "webscraping",
+     "members": 105000,
+     "growth_pct_yr": 34.9
+    }
+   ],
+   "tried": "scrapingtheweb",
+   "status": "ok",
+   "subreddit": "scrapingtheweb",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "coolgithubprojects",
+   "members": 134000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "devsecops",
+     "members": 23000,
+     "growth_pct_yr": 90.6
+    },
+    {
+     "name": "git",
+     "members": 124000,
+     "growth_pct_yr": 23.4
+    },
+    {
+     "name": "github",
+     "members": 219000,
+     "growth_pct_yr": 31.2
+    },
+    {
+     "name": "Neo4j",
+     "members": 6000,
+     "growth_pct_yr": 14.7
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "OpenSourceeAI",
+     "members": 35000,
+     "growth_pct_yr": 173.7
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "tauri",
+     "members": 9000,
+     "growth_pct_yr": 134.9
+    },
+    {
+     "name": "vscode",
+     "members": 227000,
+     "growth_pct_yr": 16.9
+    }
+   ],
+   "tried": "coolgithubprojects",
+   "status": "ok",
+   "subreddit": "coolgithubprojects",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "opensource",
+   "members": 399000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "github",
+     "members": 219000,
+     "growth_pct_yr": 31.2
+    },
+    {
+     "name": "IMadeThis",
+     "members": 55000,
+     "growth_pct_yr": 177.6
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "programming",
+     "members": 6900000,
+     "growth_pct_yr": 2.1
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "opensource",
+   "status": "ok",
+   "subreddit": "opensource",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "madeinpython",
+   "members": 28000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Automate",
+     "members": 158000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "DataScienceMemes",
+     "members": 6000,
+     "growth_pct_yr": 2.9
+    },
+    {
+     "name": "datascienceproject",
+     "members": 33000,
+     "growth_pct_yr": 35.7
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "PythonProjects2",
+     "members": 61000,
+     "growth_pct_yr": 25.8
+    },
+    {
+     "name": "scrapingtheweb",
+     "members": 10000,
+     "growth_pct_yr": 365.7
+    },
+    {
+     "name": "softwarearchitecture",
+     "members": 123000,
+     "growth_pct_yr": 43.6
+    }
+   ],
+   "tried": "madeinpython",
+   "status": "ok",
+   "subreddit": "madeinpython",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "PythonProjects2",
+   "members": 61000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "developer",
+     "members": 50000,
+     "growth_pct_yr": 48.0
+    },
+    {
+     "name": "django",
+     "members": 167000,
+     "growth_pct_yr": 8.0
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "Python",
+     "members": 1500000,
+     "growth_pct_yr": 7.9
+    }
+   ],
+   "tried": "PythonProjects2",
+   "status": "ok",
+   "subreddit": "PythonProjects2",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "FastAPI",
+   "members": 34000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Airtable",
+     "members": 20000,
+     "growth_pct_yr": 23.4
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "django",
+     "members": 167000,
+     "growth_pct_yr": 8.0
+    },
+    {
+     "name": "DuckDB",
+     "members": 6000,
+     "growth_pct_yr": 107.4
+    },
+    {
+     "name": "flask",
+     "members": 94000,
+     "growth_pct_yr": 3.4
+    },
+    {
+     "name": "madeinpython",
+     "members": 28000,
+     "growth_pct_yr": 13.0
+    },
+    {
+     "name": "nextjs",
+     "members": 177000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "prismaorm",
+     "members": 485,
+     "growth_pct_yr": 17.7
+    },
+    {
+     "name": "softwarearchitecture",
+     "members": 123000,
+     "growth_pct_yr": 43.6
+    },
+    {
+     "name": "typescript",
+     "members": 187000,
+     "growth_pct_yr": 12.4
+    }
+   ],
+   "tried": "FastAPI",
+   "status": "ok",
+   "subreddit": "FastAPI",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Backend",
+   "members": 73000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiengineering",
+     "members": 14000,
+     "growth_pct_yr": 240.7
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "devops",
+     "members": 521000,
+     "growth_pct_yr": 18.8
+    },
+    {
+     "name": "nextjs",
+     "members": 177000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "platformengineering",
+     "members": 12000,
+     "growth_pct_yr": 256.9
+    },
+    {
+     "name": "SoftwareEngineering",
+     "members": 176000,
+     "growth_pct_yr": 11.9
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "Backend",
+   "status": "ok",
+   "subreddit": "Backend",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "softwarearchitecture",
+   "members": 123000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Architects",
+     "members": 88000,
+     "growth_pct_yr": 38.4
+    },
+    {
+     "name": "automation",
+     "members": 241000,
+     "growth_pct_yr": 66.4
+    },
+    {
+     "name": "bim",
+     "members": 21000,
+     "growth_pct_yr": 48.6
+    },
+    {
+     "name": "CopilotPro",
+     "members": 29000,
+     "growth_pct_yr": 111.0
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "microservices",
+     "members": 24000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "OpenclawBot",
+     "members": 4000,
+     "growth_pct_yr": 27.8
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    }
+   ],
+   "tried": "softwarearchitecture",
+   "status": "ok",
+   "subreddit": "softwarearchitecture",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "mcp",
+   "members": 128000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "LangChain",
+     "members": 111000,
+     "growth_pct_yr": 40.2
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    }
+   ],
+   "tried": "mcp",
+   "status": "ok",
+   "subreddit": "mcp",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "modelcontextprotocol",
+   "members": 25000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "crewai",
+     "members": 7000,
+     "growth_pct_yr": 44.1
+    },
+    {
+     "name": "Cybersecurity101",
+     "members": 76000,
+     "growth_pct_yr": 157.5
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "MCPAgents",
+     "members": 214,
+     "growth_pct_yr": 122.9
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    }
+   ],
+   "tried": "modelcontextprotocol",
+   "status": "ok",
+   "subreddit": "modelcontextprotocol",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "MCPservers",
+   "members": 31000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "LangChain",
+     "members": 111000,
+     "growth_pct_yr": 40.2
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "softwarearchitecture",
+     "members": 123000,
+     "growth_pct_yr": 43.6
+    },
+    {
+     "name": "webdev",
+     "members": 3300000,
+     "growth_pct_yr": 6.7
+    }
+   ],
+   "tried": "MCPservers",
+   "status": "ok",
+   "subreddit": "MCPservers",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "ClaudeCode",
+   "members": 483000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "Anthropic",
+     "members": 238000,
+     "growth_pct_yr": 324.7
+    },
+    {
+     "name": "claude",
+     "members": 212000,
+     "growth_pct_yr": 2390.0
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "claudexplorers",
+     "members": 68000,
+     "growth_pct_yr": 898.9
+    },
+    {
+     "name": "cursor",
+     "members": 161000,
+     "growth_pct_yr": 54.3
+    },
+    {
+     "name": "GeminiAI",
+     "members": 402000,
+     "growth_pct_yr": 183.0
+    },
+    {
+     "name": "LocalLLM",
+     "members": 260000,
+     "growth_pct_yr": 182.2
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    }
+   ],
+   "tried": "ClaudeCode",
+   "status": "ok",
+   "subreddit": "ClaudeCode",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "aiengineering",
+   "members": 14000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AskProgramming",
+     "members": 238000,
+     "growth_pct_yr": 21.4
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "cscareerquestions",
+     "members": 2400000,
+     "growth_pct_yr": 5.2
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "dataengineering",
+     "members": 485000,
+     "growth_pct_yr": 19.2
+    },
+    {
+     "name": "developers",
+     "members": 61000,
+     "growth_pct_yr": 94.7
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "learnmachinelearning",
+     "members": 690000,
+     "growth_pct_yr": 21.1
+    },
+    {
+     "name": "SoftwareEngineering",
+     "members": 176000,
+     "growth_pct_yr": 11.9
+    }
+   ],
+   "tried": "aiengineering",
+   "status": "ok",
+   "subreddit": "aiengineering",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "aiagents",
+   "members": 127000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "ChatGPTCoding",
+     "members": 409000,
+     "growth_pct_yr": 23.6
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    }
+   ],
+   "tried": "aiagents",
+   "status": "ok",
+   "subreddit": "aiagents",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "AgentsOfAI",
+   "members": 134000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "agenticAI",
+     "members": 25000,
+     "growth_pct_yr": 809.6
+    },
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "AIAssisted",
+     "members": 182000,
+     "growth_pct_yr": 109.0
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ClaudeCode",
+     "members": 483000,
+     "growth_pct_yr": 1061.3
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    }
+   ],
+   "tried": "AgentsOfAI",
+   "status": "ok",
+   "subreddit": "AgentsOfAI",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "llmops",
+   "members": 3000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aicuriosity",
+     "members": 31000,
+     "growth_pct_yr": 176.7
+    },
+    {
+     "name": "ArtificialNtelligence",
+     "members": 43000,
+     "growth_pct_yr": 132.4
+    },
+    {
+     "name": "Bard",
+     "members": 153000,
+     "growth_pct_yr": 37.0
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "GPT",
+     "members": 14000,
+     "growth_pct_yr": 59.7
+    },
+    {
+     "name": "LLM",
+     "members": 60000,
+     "growth_pct_yr": 147.4
+    },
+    {
+     "name": "mlops",
+     "members": 41000,
+     "growth_pct_yr": 50.9
+    },
+    {
+     "name": "OpenAIDev",
+     "members": 16000,
+     "growth_pct_yr": 39.3
+    }
+   ],
+   "tried": "llmops",
+   "status": "ok",
+   "subreddit": "llmops",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "LLM",
+   "members": 60000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AIAssisted",
+     "members": 182000,
+     "growth_pct_yr": 109.0
+    },
+    {
+     "name": "aipromptprogramming",
+     "members": 240000,
+     "growth_pct_yr": 70.6
+    },
+    {
+     "name": "Anthropic",
+     "members": 238000,
+     "growth_pct_yr": 324.7
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "BlackboxAI_",
+     "members": 41000,
+     "growth_pct_yr": 179.6
+    },
+    {
+     "name": "ChatGPT",
+     "members": 11700000,
+     "growth_pct_yr": 4.7
+    },
+    {
+     "name": "DeepSeek",
+     "members": 153000,
+     "growth_pct_yr": 94.0
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "OpenSourceAI",
+     "members": 35000,
+     "growth_pct_yr": 659.9
+    },
+    {
+     "name": "PromptEngineering",
+     "members": 428000,
+     "growth_pct_yr": 60.9
+    }
+   ],
+   "tried": "LLM",
+   "status": "ok",
+   "subreddit": "LLM",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "LocalLLM",
+   "members": 260000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "AIAgentsInAction",
+     "members": 43000,
+     "growth_pct_yr": 451.8
+    },
+    {
+     "name": "AskClaw",
+     "members": 13000,
+     "growth_pct_yr": 26.5
+    },
+    {
+     "name": "deeplearning",
+     "members": 252000,
+     "growth_pct_yr": 18.6
+    },
+    {
+     "name": "GithubCopilot",
+     "members": 88000,
+     "growth_pct_yr": 146.9
+    },
+    {
+     "name": "LocalLLaMA",
+     "members": 867000,
+     "growth_pct_yr": 55.8
+    },
+    {
+     "name": "machinelearningnews",
+     "members": 158000,
+     "growth_pct_yr": 37.7
+    },
+    {
+     "name": "MCPservers",
+     "members": 31000,
+     "growth_pct_yr": 121.1
+    },
+    {
+     "name": "ollama",
+     "members": 143000,
+     "growth_pct_yr": 60.1
+    }
+   ],
+   "tried": "LocalLLM",
+   "status": "ok",
+   "subreddit": "LocalLLM",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "OpenSourceAI",
+   "members": 35000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Agent_AI",
+     "members": 45000,
+     "growth_pct_yr": 53.8
+    },
+    {
+     "name": "AgentsOfAI",
+     "members": 134000,
+     "growth_pct_yr": 83.3
+    },
+    {
+     "name": "AI_Agents",
+     "members": 477000,
+     "growth_pct_yr": 108.0
+    },
+    {
+     "name": "ClaudeAI",
+     "members": 1300000,
+     "growth_pct_yr": 245.4
+    },
+    {
+     "name": "coolgithubprojects",
+     "members": 134000,
+     "growth_pct_yr": 115.9
+    },
+    {
+     "name": "LLMDevs",
+     "members": 180000,
+     "growth_pct_yr": 53.5
+    },
+    {
+     "name": "LocalLLaMA",
+     "members": 867000,
+     "growth_pct_yr": 55.8
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "opensource",
+     "members": 399000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "OpenSourceeAI",
+     "members": 35000,
+     "growth_pct_yr": 173.7
+    }
+   ],
+   "tried": "OpenSourceAI",
+   "status": "ok",
+   "subreddit": "OpenSourceAI",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "n8n",
+   "members": 262000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AiAutomations",
+     "members": 88000,
+     "growth_pct_yr": 409.7
+    },
+    {
+     "name": "Automate",
+     "members": 158000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "automation",
+     "members": 241000,
+     "growth_pct_yr": 66.4
+    },
+    {
+     "name": "MarketingAutomation",
+     "members": 86000,
+     "growth_pct_yr": 66.3
+    },
+    {
+     "name": "n8n_ai_agents",
+     "members": 40000,
+     "growth_pct_yr": 269.1
+    },
+    {
+     "name": "Netsuite",
+     "members": 29000,
+     "growth_pct_yr": 27.9
+    },
+    {
+     "name": "nocode",
+     "members": 144000,
+     "growth_pct_yr": 50.3
+    },
+    {
+     "name": "Notion",
+     "members": 476000,
+     "growth_pct_yr": 11.3
+    },
+    {
+     "name": "SmallBusinessOwners",
+     "members": 24000,
+     "growth_pct_yr": 174.2
+    }
+   ],
+   "tried": "n8n",
+   "status": "ok",
+   "subreddit": "n8n",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "automation",
+   "members": 241000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiagents",
+     "members": 127000,
+     "growth_pct_yr": 121.8
+    },
+    {
+     "name": "AiAutomations",
+     "members": 88000,
+     "growth_pct_yr": 409.7
+    },
+    {
+     "name": "artificial",
+     "members": 1400000,
+     "growth_pct_yr": 16.1
+    },
+    {
+     "name": "ArtificialInteligence",
+     "members": 2000000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "Automate",
+     "members": 158000,
+     "growth_pct_yr": 6.6
+    },
+    {
+     "name": "n8n",
+     "members": 262000,
+     "growth_pct_yr": 51.6
+    },
+    {
+     "name": "n8n_ai_agents",
+     "members": 40000,
+     "growth_pct_yr": 269.1
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    }
+   ],
+   "tried": "automation",
+   "status": "ok",
+   "subreddit": "automation",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "salesforce",
+   "members": 118000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AcademicPsychology",
+     "members": 190000,
+     "growth_pct_yr": 11.1
+    },
+    {
+     "name": "Artists",
+     "members": 128000,
+     "growth_pct_yr": 77.7
+    },
+    {
+     "name": "Brampton",
+     "members": 58000,
+     "growth_pct_yr": 9.4
+    },
+    {
+     "name": "breastfeeding",
+     "members": 257000,
+     "growth_pct_yr": 22.3
+    },
+    {
+     "name": "Christians",
+     "members": 96000,
+     "growth_pct_yr": 13.1
+    },
+    {
+     "name": "civilengineering",
+     "members": 234000,
+     "growth_pct_yr": 19.7
+    },
+    {
+     "name": "humanresources",
+     "members": 244000,
+     "growth_pct_yr": 28.2
+    },
+    {
+     "name": "linuxquestions",
+     "members": 410000,
+     "growth_pct_yr": 23.2
+    },
+    {
+     "name": "stopdrinking",
+     "members": 732000,
+     "growth_pct_yr": 19.3
+    },
+    {
+     "name": "WomensHealth",
+     "members": 206000,
+     "growth_pct_yr": 29.4
+    }
+   ],
+   "tried": "salesforce",
+   "status": "ok",
+   "subreddit": "salesforce",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "hubspot",
+   "members": 25000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Affiliatemarketing",
+     "members": 294000,
+     "growth_pct_yr": 18.0
+    },
+    {
+     "name": "b2bmarketing",
+     "members": 104000,
+     "growth_pct_yr": 150.8
+    },
+    {
+     "name": "b2b_sales",
+     "members": 37000,
+     "growth_pct_yr": 151.2
+    },
+    {
+     "name": "CRM",
+     "members": 61000,
+     "growth_pct_yr": 104.9
+    },
+    {
+     "name": "GrowthHacking",
+     "members": 162000,
+     "growth_pct_yr": 49.0
+    },
+    {
+     "name": "IndiaBusiness",
+     "members": 150000,
+     "growth_pct_yr": 94.0
+    },
+    {
+     "name": "MarketingResearch",
+     "members": 36000,
+     "growth_pct_yr": 47.0
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "SalesOperations",
+     "members": 22000,
+     "growth_pct_yr": 162.9
+    },
+    {
+     "name": "Sales_Professionals",
+     "members": 95000,
+     "growth_pct_yr": 29.1
+    }
+   ],
+   "tried": "hubspot",
+   "status": "ok",
+   "subreddit": "hubspot",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "GoogleAnalytics",
+   "members": 42000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "Affiliatemarketing",
+     "members": 294000,
+     "growth_pct_yr": 18.0
+    },
+    {
+     "name": "dataanalysis",
+     "members": 233000,
+     "growth_pct_yr": 24.4
+    },
+    {
+     "name": "EcommerceWebsite",
+     "members": 31000,
+     "growth_pct_yr": 144.5
+    },
+    {
+     "name": "ga4",
+     "members": 725,
+     "growth_pct_yr": 9.5
+    },
+    {
+     "name": "GoogleAnalytics4",
+     "members": 1000,
+     "growth_pct_yr": 30.6
+    },
+    {
+     "name": "growmybusiness",
+     "members": 158000,
+     "growth_pct_yr": 115.7
+    },
+    {
+     "name": "MarketingAnalytics",
+     "members": 3000,
+     "growth_pct_yr": 25.3
+    },
+    {
+     "name": "SaaS",
+     "members": 841000,
+     "growth_pct_yr": 90.0
+    },
+    {
+     "name": "SEO_Digital_Marketing",
+     "members": 79000,
+     "growth_pct_yr": 28.4
+    }
+   ],
+   "tried": "GoogleAnalytics",
+   "status": "ok",
+   "subreddit": "GoogleAnalytics",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "shopify",
+   "members": 385000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "askSingapore",
+     "members": 387000,
+     "growth_pct_yr": 14.6
+    },
+    {
+     "name": "AssassinsCreedOdyssey",
+     "members": 208000,
+     "growth_pct_yr": 17.6
+    },
+    {
+     "name": "bangalore",
+     "members": 1100000,
+     "growth_pct_yr": 9.7
+    },
+    {
+     "name": "binance",
+     "members": 941000,
+     "growth_pct_yr": 2.6
+    },
+    {
+     "name": "cats",
+     "members": 9500000,
+     "growth_pct_yr": 8.9
+    },
+    {
+     "name": "Chennai",
+     "members": 581000,
+     "growth_pct_yr": 7.4
+    },
+    {
+     "name": "ecommercemarketing",
+     "members": 49000,
+     "growth_pct_yr": 32.0
+    },
+    {
+     "name": "entertainment",
+     "members": 6600000,
+     "growth_pct_yr": 4.5
+    },
+    {
+     "name": "restaurant",
+     "members": 201000,
+     "growth_pct_yr": 13.0
+    },
+    {
+     "name": "SanJose",
+     "members": 273000,
+     "growth_pct_yr": 16.6
+    }
+   ],
+   "tried": "shopify",
+   "status": "ok",
+   "subreddit": "shopify",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "stripe",
+   "members": 29000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ChaiApp",
+     "members": 142000,
+     "growth_pct_yr": 41.5
+    },
+    {
+     "name": "Coinbase",
+     "members": 466000,
+     "growth_pct_yr": 7.2
+    },
+    {
+     "name": "DistroKidHelpDesk",
+     "members": 28000,
+     "growth_pct_yr": 12.4
+    },
+    {
+     "name": "FACEITcom",
+     "members": 127000,
+     "growth_pct_yr": 26.1
+    },
+    {
+     "name": "GeForceNOW",
+     "members": 167000,
+     "growth_pct_yr": 19.9
+    },
+    {
+     "name": "outlier_ai",
+     "members": 91000,
+     "growth_pct_yr": 68.9
+    },
+    {
+     "name": "paypal",
+     "members": 109000,
+     "growth_pct_yr": 28.7
+    },
+    {
+     "name": "shopify",
+     "members": 385000,
+     "growth_pct_yr": 21.5
+    },
+    {
+     "name": "uber",
+     "members": 105000,
+     "growth_pct_yr": 23.5
+    }
+   ],
+   "tried": "stripe",
+   "status": "ok",
+   "subreddit": "stripe",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "servicenow",
+   "members": 40000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "aiengineering",
+     "members": 14000,
+     "growth_pct_yr": 240.7
+    },
+    {
+     "name": "Backend",
+     "members": 73000,
+     "growth_pct_yr": 116.9
+    },
+    {
+     "name": "developers",
+     "members": 61000,
+     "growth_pct_yr": 94.7
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "IndianDevelopers",
+     "members": 15000,
+     "growth_pct_yr": 45.3
+    },
+    {
+     "name": "PinoyProgrammer",
+     "members": 297000,
+     "growth_pct_yr": 4.3
+    },
+    {
+     "name": "salesforce",
+     "members": 118000,
+     "growth_pct_yr": 19.0
+    },
+    {
+     "name": "SalesforceDeveloper",
+     "members": 23000,
+     "growth_pct_yr": 22.6
+    },
+    {
+     "name": "SoftwareEngineering",
+     "members": 176000,
+     "growth_pct_yr": 11.9
+    }
+   ],
+   "tried": "servicenow",
+   "status": "ok",
+   "subreddit": "servicenow",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "SQLOptimization",
+   "members": 7000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "SQLOptimization",
+   "status": "ok",
+   "subreddit": "SQLOptimization",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Splunk",
+   "members": 26000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "atlassian",
+     "members": 11000,
+     "growth_pct_yr": 27.2
+    },
+    {
+     "name": "AWS_cloud",
+     "members": 17000,
+     "growth_pct_yr": 46.0
+    },
+    {
+     "name": "CIO",
+     "members": 19000,
+     "growth_pct_yr": 32.6
+    },
+    {
+     "name": "Cloud",
+     "members": 52000,
+     "growth_pct_yr": 55.6
+    },
+    {
+     "name": "coding",
+     "members": 649000,
+     "growth_pct_yr": 4.9
+    },
+    {
+     "name": "computerforensics",
+     "members": 92000,
+     "growth_pct_yr": 14.4
+    },
+    {
+     "name": "cybersecurity",
+     "members": 1600000,
+     "growth_pct_yr": 19.7
+    },
+    {
+     "name": "cybersecurityUK",
+     "members": 3000,
+     "growth_pct_yr": 243.3
+    },
+    {
+     "name": "pwnhub",
+     "members": 50000,
+     "growth_pct_yr": 214.9
+    },
+    {
+     "name": "salesforce",
+     "members": 118000,
+     "growth_pct_yr": 19.0
+    }
+   ],
+   "tried": "Splunk",
+   "status": "ok",
+   "subreddit": "Splunk",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "elasticsearch",
+   "members": 21000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "AZURE",
+     "members": 218000,
+     "growth_pct_yr": 13.8
+    },
+    {
+     "name": "kibana",
+     "members": 2000,
+     "growth_pct_yr": 1.8
+    },
+    {
+     "name": "mcp",
+     "members": 128000,
+     "growth_pct_yr": 69.6
+    },
+    {
+     "name": "Monitoring",
+     "members": 5000,
+     "growth_pct_yr": 102.5
+    },
+    {
+     "name": "SIEM",
+     "members": 5000,
+     "growth_pct_yr": 6.8
+    },
+    {
+     "name": "Splunk",
+     "members": 26000,
+     "growth_pct_yr": 16.0
+    },
+    {
+     "name": "sre",
+     "members": 59000,
+     "growth_pct_yr": 38.5
+    },
+    {
+     "name": "udemyfreebies",
+     "members": 66000,
+     "growth_pct_yr": 8.8
+    }
+   ],
+   "tried": "elasticsearch",
+   "status": "ok",
+   "subreddit": "elasticsearch",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "OpenTelemetry",
+   "members": 5000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "grafana",
+     "members": 27000,
+     "growth_pct_yr": 23.3
+    },
+    {
+     "name": "Observability",
+     "members": 7000,
+     "growth_pct_yr": 190.2
+    },
+    {
+     "name": "platformengineering",
+     "members": 12000,
+     "growth_pct_yr": 256.9
+    },
+    {
+     "name": "PrometheusMonitoring",
+     "members": 13000,
+     "growth_pct_yr": 16.2
+    }
+   ],
+   "tried": "OpenTelemetry",
+   "status": "ok",
+   "subreddit": "OpenTelemetry",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Talend",
+   "members": 1000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "Talend",
+   "status": "ok",
+   "subreddit": "Talend",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "PowerPlatform",
+   "members": 13000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "developers",
+     "members": 61000,
+     "growth_pct_yr": 94.7
+    },
+    {
+     "name": "developersIndia",
+     "members": 1600000,
+     "growth_pct_yr": 12.6
+    },
+    {
+     "name": "developersPak",
+     "members": 48000,
+     "growth_pct_yr": 58.2
+    },
+    {
+     "name": "frontenddevelopment",
+     "members": 7000,
+     "growth_pct_yr": 12.8
+    },
+    {
+     "name": "PinoyProgrammer",
+     "members": 297000,
+     "growth_pct_yr": 4.3
+    },
+    {
+     "name": "PowerApps",
+     "members": 53000,
+     "growth_pct_yr": 26.0
+    },
+    {
+     "name": "rpa",
+     "members": 18000,
+     "growth_pct_yr": 11.8
+    },
+    {
+     "name": "salesforce",
+     "members": 118000,
+     "growth_pct_yr": 19.0
+    },
+    {
+     "name": "servicenow",
+     "members": 40000,
+     "growth_pct_yr": 35.6
+    },
+    {
+     "name": "solidity",
+     "members": 26000,
+     "growth_pct_yr": 13.6
+    }
+   ],
+   "tried": "PowerPlatform",
+   "status": "ok",
+   "subreddit": "PowerPlatform",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "Dynamics365",
+   "members": 16000,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [
+    {
+     "name": "ERP",
+     "members": 20000,
+     "growth_pct_yr": 49.5
+    }
+   ],
+   "tried": "Dynamics365",
+   "status": "ok",
+   "subreddit": "Dynamics365",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "DeltaLake",
+   "members": 350,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "DeltaLake",
+   "status": "ok",
+   "subreddit": "DeltaLake",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": "dagster",
+   "members": 365,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": "dagster",
+   "status": "ok",
+   "subreddit": "dagster",
+   "source": "candidate",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "GTM_Engineering",
+    "gtm_engineering",
+    "Gtm_engineering"
+   ],
+   "status": "not indexed",
+   "subreddit": "GTM_Engineering",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "redshift",
+    "Redshift",
+    "AmazonRedshift"
+   ],
+   "status": "not indexed",
+   "subreddit": "redshift",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Polars",
+    "polars"
+   ],
+   "status": "not indexed",
+   "subreddit": "Polars",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Teradata",
+    "teradata"
+   ],
+   "status": "not indexed",
+   "subreddit": "Teradata",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Dremio",
+    "dremio"
+   ],
+   "status": "not indexed",
+   "subreddit": "Dremio",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "trino",
+    "Trino"
+   ],
+   "status": "not indexed",
+   "subreddit": "trino",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "StarRocks",
+    "starrocks",
+    "Starrocks"
+   ],
+   "status": "not indexed",
+   "subreddit": "StarRocks",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Firebolt",
+    "firebolt"
+   ],
+   "status": "not indexed",
+   "subreddit": "Firebolt",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "SingleStore",
+    "singlestore",
+    "Singlestore"
+   ],
+   "status": "not indexed",
+   "subreddit": "SingleStore",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "TimescaleDB",
+    "timescaledb",
+    "Timescaledb"
+   ],
+   "status": "not indexed",
+   "subreddit": "TimescaleDB",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "questdb",
+    "Questdb"
+   ],
+   "status": "not indexed",
+   "subreddit": "questdb",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "apachedruid",
+    "Apachedruid"
+   ],
+   "status": "not indexed",
+   "subreddit": "apachedruid",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "OpenSearch",
+    "opensearch",
+    "Opensearch"
+   ],
+   "status": "not indexed",
+   "subreddit": "OpenSearch",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "datamodeling",
+    "Datamodeling"
+   ],
+   "status": "not indexed",
+   "subreddit": "datamodeling",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "DataQuality",
+    "dataquality",
+    "Dataquality"
+   ],
+   "status": "not indexed",
+   "subreddit": "DataQuality",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "MasterDataManagement",
+    "masterdatamanagement",
+    "Masterdatamanagement"
+   ],
+   "status": "not indexed",
+   "subreddit": "MasterDataManagement",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "opendata",
+    "Opendata"
+   ],
+   "status": "not indexed",
+   "subreddit": "opendata",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Lightdash",
+    "lightdash"
+   ],
+   "status": "not indexed",
+   "subreddit": "Lightdash",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "plotly",
+    "Plotly"
+   ],
+   "status": "not indexed",
+   "subreddit": "plotly",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "learndataengineering",
+    "Learndataengineering"
+   ],
+   "status": "not indexed",
+   "subreddit": "learndataengineering",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "SSIS",
+    "ssis",
+    "Ssis"
+   ],
+   "status": "not indexed",
+   "subreddit": "SSIS",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "Matillion",
+    "matillion"
+   ],
+   "status": "not indexed",
+   "subreddit": "Matillion",
+   "source": "unindexed_retry",
+   "fit": ""
+  },
+  {
+   "slug": null,
+   "members": null,
+   "growth_pct_yr": null,
+   "last_updated": null,
+   "similar": [],
+   "tried": [
+    "AzureDataFactory",
+    "azuredatafactory",
+    "Azuredatafactory"
+   ],
+   "status": "not indexed",
+   "subreddit": "AzureDataFactory",
+   "source": "unindexed_retry",
+   "fit": ""
+  }
+ ]
+}

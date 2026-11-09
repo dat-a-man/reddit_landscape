@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subreddit": "madeinpython",
+ "saved_at": "2026-11-09T12:51:11.009Z",
+ "page_url": "https://www.reddit.com/r/madeinpython/",
+ "title": "madeinpython",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=0",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=4",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=4",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post award-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=817",
+  "shreddit-subreddit-header weekly-contributions=91"
+ ],
+ "text": "Skip to main content\nmadeinpython\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/madeinpython\nClear search\nr/madeinpython\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/madeinpython\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nCommunity highlights\nMod Applications\n28\nvotes •\n14\ncomments\nFeed\nUpvote\n2\nDownvote\n0\nGo to comments\nShare\nSpug: a Python/Django app for recurring SSH tasks in a web UI\nu/Key_Organization527\n•\n10 hr. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nSpug: a Python/Django app for recurring SSH tasks in a web UI\nI'm one of the maintainers of Spug, a self-hosted operations app for small and midsize teams. Its backend is Python/Django, the interface is React, and Paramiko handles SSH connections to Linux hosts. No Spug agent is needed on managed hosts.\nThe goal is to bring recurring operations into one web interface:\nHost inventory, batch commands, an online terminal and file management\nApplication releases, deployment pipelines and scheduled tasks\nA configuration center, monitoring and alerts\nFor example, select several hosts, run the same SSH command and inspect each host's output in the browser. This is an operations application rather than a Python library.\nFor a look at the Python code, start with the execution views and host models:\nhttps://github.com/openspug/spug/tree/master/spug_api/apps/exec\nhttps://github.com/openspug/spug/blob/master/spug_api/apps/host/models.py\nSpug is free and open source (AGPL-3.0), with Docker installation and English/Chinese interfaces. The three screenshots show the English interface with sample data.\nSource:\nhttps://github.com/openspug/spug\nEnglish guide:\nhttps://ops.spug.cc/en/docs/about-spug/\nDemo:\nhttps://demo.spug.cc/\n(admin / spug.cc; resets hourly). Please don't enter real credentials.\nSSH private keys are stored without application-level encryption, so treat the panel and database as privileged systems.\nWhich Python-side workflow would you be interested in exploring: SSH execution, deployment pipelines or scheduled tasks?\nUpvote\n2\nDownvote\n4\nGo to comments\nShare\nI built a Material 3 carousel extension for Flet (Python)\nu/programmersd21\n•\n10 hr. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nI built a Material 3 carousel extension for Flet (Python)\nI built a Material 3 carousel extension for Flet (Python)\nr/PythonProjects2\n•\n1 day ago\nI built a Material 3 carousel extension for Flet (Python)\n1\nupvote\nUpvote\n1\nDownvote\n0\nGo to comments\nShare\nhi\nu/Trick-Hurry-825\n•\n15 hr. ago\nLocked post\nStickied post\nArchived post\nAward this post\nReport\nhi\nthis is self-promotion btw. But just once JUST ONCE.\nI have a project called \"Worse Code\"\nhere it is\n. Its adjustable programming language.. made in python. Yea its sounds weird. But click the link and maybe you will like it.. Thanks guys for letting me (i hope so) self-promote.\nCommunity Info Section\nmadeinpython\nA subreddit for showcasing the things you made with the Python language! Use us instead of flooding r/Python :) Hey check out r/madeinjs for JavaScript and Typescript!\nShow more\nWeekly visitors\nWeekly contributions\nCreated May 5, 2020\n7 years ago\nPublic\nAnyone can view, post, and comment to this community\n817\n91\nr/madeinpython Rules\n1\nMust be made in the Python programming language.\nYour creation can be anything you desire! Don't be shy, just make sure it's made in Python.\n2\nMake posts detailed.\nSure, your creation is really cool, but if you don't go into detail people might not know what you are trying to do.\n3\nPlease do not post explicit content.\nWe wish for this subreddit to be open to everybody of all ages, and not turn away any beginners of what they saw here.\n4\nYou can be critical, but be decent to each other.\nYes you can say something someone did was wrong but don't beat them down to the ground for it.\nAnnouncements!\nNew rules and a new moderator and new colors :) Modmail for suggestions and complaints!\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}

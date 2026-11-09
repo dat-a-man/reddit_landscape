@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Subreddit Collector</title>
+<style>
+  :root { --bg:#F5F6F8; --surface:#FFFFFF; --ink:#1A222C; --ink-2:#4A5565; --ink-3:#7B8595; --line:#D5DAE2; --accent:#C4521C; --good:#2C7A4B; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { color-scheme: dark; --bg:#12171E; --surface:#1A2129; --ink:#E7EBF1; --ink-2:#B3BCC9; --ink-3:#7F8A99; --line:#313B47; --accent:#E8703A; --good:#5FBF85; } }
+  :root[data-theme="dark"] { color-scheme: dark; --bg:#12171E; --surface:#1A2129; --ink:#E7EBF1; --ink-2:#B3BCC9; --ink-3:#7F8A99; --line:#313B47; --accent:#E8703A; --good:#5FBF85; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 "Segoe UI", Arial, sans-serif; }
+  .page { max-width: 640px; margin: 0 auto; padding: 28px 16px 60px; }
+  h1 { font-size: 22px; margin: 0 0 6px; }
+  ol.how { padding-left: 20px; color: var(--ink-2); }
+  ol.how li { margin-bottom: 6px; }
+  .bm { display: inline-block; padding: 8px 14px; border-radius: 6px; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; cursor: grab; }
+  .progress { margin: 22px 0 8px; font-weight: 600; }
+  ul.subs { list-style: none; padding: 0; margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+  ul.subs li { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-bottom: 1px solid var(--line); }
+  ul.subs li:last-child { border-bottom: 0; }
+  ul.subs a { color: var(--ink); text-decoration: none; font-weight: 500; flex: 1; }
+  ul.subs a:hover { text-decoration: underline; }
+  ul.subs li.done a { color: var(--ink-3); text-decoration: line-through; }
+  .fit { font-size: 12px; color: var(--ink-3); white-space: nowrap; }
+  .tick { width: 18px; text-align: center; color: var(--good); font-weight: 700; }
+  .reset { margin-top: 12px; font-size: 13px; color: var(--ink-3); background: none; border: 0; text-decoration: underline; cursor: pointer; padding: 0; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Save subreddit info for the landscape</h1>
+  <ol class="how">
+    <li><b>Once:</b> delete the old "Save for landscape" bookmark (right-click it → Delete), then drag this new button onto your bookmarks bar (Ctrl+Shift+B shows the bar): <a class="bm" id="bm" href="#">Save for landscape v2</a></li>
+    <li><b>For each sub below:</b> click its name (it opens in a new tab), wait until the page has loaded, click <b>Save for landscape</b> in the bookmarks bar, then close the tab.</li>
+    <li>A note on the page says it saved. The file (e.g. <code>snowflake.page.json</code>) goes to your Downloads folder. If Chrome asks where to save, just press Enter.</li>
+    <li><b>First do only r/snowflake as a test and tell Claude</b>, before doing the rest.</li>
+  </ol>
+
+  <div class="progress" id="progress"></div>
+  <ul class="subs" id="subs"></ul>
+  <button class="reset" id="reset">Clear the ticks</button>
+</div>
+
+<script>
+// Version 2. Runs on the reddit.com page when the bookmark is clicked. Makes NO requests to Reddit:
+// it only reads what is already on the page, including the parts Reddit draws inside shadow DOM
+// (the header numbers and the sidebar rules), and saves it as one file per sub.
+// (Version 1 fetched about.json / rules.json, which Reddit answers with 403 even in the browser.)
+function saveForLandscape() {
+  var m = location.pathname.match(/^\/r\/([^\/]+)/i);
+  if (!m || !/(^|\.)reddit\.com$/.test(location.hostname)) { alert('Open a subreddit page on reddit.com first, then click this bookmark.'); return; }
+  var sub = m[1];
+  var texts = [], attrs = [], seen = 0;
+  var SKIP = { SCRIPT: 1, STYLE: 1, NOSCRIPT: 1, SVG: 1, TEMPLATE: 1 };
+  var WANT = /subscri|member|visitor|contribution|weekly|active|online|count|rule/i;
+  function walk(node) {
+    if (++seen > 200000) return;
+    if (node.nodeType === 3) { var t = node.nodeValue.replace(/\s+/g, ' ').trim(); if (t) texts.push(t); return; }
+    if (node.nodeType === 1) {
+      if (SKIP[node.tagName.toUpperCase()]) return;
+      if (node.tagName.indexOf('-') !== -1) {
+        for (var i = 0; i < node.attributes.length; i++) {
+          var at = node.attributes[i];
+          if (WANT.test(at.name) && at.value && at.value.length < 300) attrs.push(node.tagName.toLowerCase() + ' ' + at.name + '=' + at.value);
+        }
+      }
+      if (node.shadowRoot) walk(node.shadowRoot);
+    } else if (node.nodeType !== 11) { return; }
+    for (var c = node.firstChild; c; c = c.nextSibling) walk(c);
+  }
+  walk(document.body);
+  var all = texts.join('\n');
+  var num = '([\\d.,]+\\s*[KkMm]?)';
+  function grab(word) {
+    var a = all.match(new RegExp(num + '\\s*' + word, 'i')) || all.match(new RegExp(word + '\\s*' + num, 'i'));
+    return a ? a[1].trim() : null;
+  }
+  var out = { version: 2, subreddit: sub, saved_at: new Date().toISOString(), page_url: location.href, title: document.title,
+              weekly_visitors: grab('weekly visitors'), weekly_contributions: grab('weekly contributions'),
+              attributes: attrs.slice(0, 300), text: all.slice(0, 300000) };
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 1)], { type: 'application/json' }));
+  a.download = sub + '.page.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  var ok = !!out.weekly_visitors;
+  var note = document.createElement('div');
+  note.textContent = 'Saved r/' + sub + (ok ? ' · ' + out.weekly_visitors + ' weekly visitors' : ' (no visitor count found on the page)');
+  note.style.cssText = 'position:fixed;z-index:2147483647;top:16px;left:50%;transform:translateX(-50%);padding:10px 16px;' +
+                       'border-radius:8px;font:14px sans-serif;color:#fff;background:' + (ok ? '#2C7A4B' : '#A86A0E');
+  document.body.appendChild(note);
+  setTimeout(function () { note.remove(); }, 4000);
+}
+document.getElementById('bm').href = 'javascript:' + encodeURIComponent('(' + saveForLandscape.toString() + ')()');
+document.getElementById('bm').addEventListener('click', function (e) { e.preventDefault(); alert('Drag this button onto your bookmarks bar, don\'t click it here.'); });
+
+// Active subs, own first, then by fit. Name casing as on Reddit.
+var SUBS = [["dltHub","5"],["OntologyEngineering","5"],["dataengineering","5"],["PostgreSQL","5"],["snowflake","5"],["bigquery","5"],["ETL","5"],["analyticsengineering","5"],["DuckDB","5"],["SQL","4"],["analytics","4"],["bigdata","4"],["databricks","4"],["Clickhouse","4"],["ApacheIceberg","4"],["gtmengineering","4"],["MicrosoftFabric","4"],["mcp","4"],["Python","3"],["ClaudeAI","3"],["ChatGPTCoding","3"],["LLMDevs","3"],["mlops","3"],["dataanalytics","3"],["DeltaLake","3"],["apachespark","3"],["spark","3"],["AzureDataPlatforms","3"],["Databricks_eng","3"],["PySpark","3"],["DatabaseAdministators","3"],["Database","3"],["Alteryx","3"],["dataengineersindia","3"],["dataengineer","3"],["semanticweb","3"],["webscraping","3"],["coolgithubprojects","3"],["opensource","3"],["madeinpython","3"],["modelcontextprotocol","3"],["MCPservers","3"],["ClaudeCode","3"],["aiengineering","3"],["informatica","2"],["SAP","2"],["oracle","2"],["learnSQL","2"],["Streamlit","2"],["Observability","2"],["DataEngineeringPH","2"],["datasets","2"],["data","2"],["dataanalyst","2"],["Neo4j","2"],["datagovernance","2"],["scrapingtheweb","2"],["PythonProjects2","2"],["FastAPI","2"],["Backend","2"],["softwarearchitecture","2"],["aiagents","2"],["AgentsOfAI","2"],["OpenSourceAI","2"],["n8n","2"],["automation","2"],["salesforce","2"],["hubspot","2"],["GoogleAnalytics","2"]];
+
+var KEY = 'landscape-collector-done-v2';
+function loadDone() { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return []; } }
+function saveDone(d) { try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) {} }
+var done = loadDone();
+var list = document.getElementById('subs');
+function render() {
+  list.innerHTML = '';
+  SUBS.forEach(function (s) {
+    var li = document.createElement('li');
+    var isDone = done.indexOf(s[0]) !== -1;
+    if (isDone) li.className = 'done';
+    li.innerHTML = '<span class="tick">' + (isDone ? '✓' : '') + '</span>' +
+                   '<a href="https://www.reddit.com/r/' + s[0] + '/" target="_blank" rel="noopener">r/' + s[0] + '</a>' +
+                   '<span class="fit">fit ' + s[1] + '</span>';
+    li.querySelector('a').addEventListener('click', function () {
+      if (done.indexOf(s[0]) === -1) { done.push(s[0]); saveDone(done); setTimeout(render, 50); }
+    });
+    list.appendChild(li);
+  });
+  document.getElementById('progress').textContent = done.length + ' of ' + SUBS.length + ' opened';
+}
+document.getElementById('reset').addEventListener('click', function () { done = []; saveDone(done); render(); });
+render();
+</script>
+</body>
+</html>

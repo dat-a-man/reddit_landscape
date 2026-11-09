@@ -1,0 +1,206 @@
+subreddit,source,fit,gummysearch_slug,members,growth_pct_yr,last_updated,similar_subreddits,status
+r/dltHub,csv,5,,,,,,not indexed
+r/agenticdatastack,csv,5,,,,,,not indexed
+r/OntologyEngineering,csv,5,,,,,,not indexed
+r/llmdatastack,csv,3,,,,,,not indexed
+r/PythonDataEngineering,csv,2,,,,,,not indexed
+r/DataEngCircleJerk,csv,1,,,,,,not indexed
+r/dataengineering,csv,5,dataengineering,485000,,,r/dataanalysis (233000); r/datascience (2800000); r/electricians (584000); r/gis (153000); r/instructionaldesign (63000); r/learnmachinelearning (690000); r/learnpython (1100000); r/projectmanagement (243000); r/Python (1500000); r/SoftwareEngineering (176000),ok
+r/PostgreSQL,csv,5,PostgreSQL,90000,,,r/Database (91000); r/DatabaseAdministators (6000); r/DuckDB (6000); r/learnSQL (72000); r/mongodb (30000); r/mysql (50000); r/react (160000); r/SQL (293000); r/SQLServer (68000); r/Supabase (45000),ok
+r/snowflake,csv,5,snowflake,27000,,,r/Alteryx (7000); r/AzureDataPlatforms (1000); r/bigquery (21000); r/dataanalysiscareers (38000); r/dataanalytics (49000); r/dataengineer (4000); r/dataengineering (485000); r/learnSQL (72000); r/salesforce (118000); r/SQL (293000),ok
+r/dataops,csv,5,dataops,549,,,r/dataengineering (485000); r/ETL (14000); r/snowflake (27000),ok
+r/bigquery,csv,5,bigquery,21000,,,r/AzureDataPlatforms (1000); r/databricks (37000); r/dataengineering (485000); r/GoogleAnalytics (42000); r/learnSQL (72000); r/MSSQL (3000); r/mysql (50000); r/snowflake (27000); r/SQL (293000); r/SQLServer (68000),ok
+r/ETL,csv,5,ETL,14000,,,r/dataengineering (485000),ok
+r/AnalyticsEngineering,csv,5,analyticsengineering,6000,,,,ok
+r/duckdb,csv,5,DuckDB,6000,,,r/bigquery (21000); r/dataanalysis (233000); r/dataanalyst (59000); r/Database (91000); r/DatabaseAdministators (6000); r/dataengineering (485000); r/PostgreSQL (90000); r/SQL (293000); r/SQLServer (68000); r/udemyfreebies (66000),ok
+r/SQL,csv,4,SQL,293000,,,r/csharp (331000); r/dataanalytics (49000); r/Database (91000); r/DuckDB (6000); r/learndatascience (61000); r/learnrust (57000); r/learnSQL (72000); r/piano (1300000); r/PostgreSQL (90000); r/SAP (64000),ok
+r/analytics,csv,4,analytics,287000,,,r/Accounting (1300000); r/businessanalysis (120000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalyst (59000); r/dataanalytics (49000); r/dataengineeringjobs (46000); r/developersPak (48000); r/FPandA (76000); r/ITManagers (82000),ok
+r/BigData,csv,4,bigdata,76000,,,r/bigquery (21000); r/GoogleDataStudio (47000); r/Hacking_Tricks (68000); r/PlasmaTV (113000); r/WhichCRM (4000),ok
+r/databases,csv,4,databases,2000,,,,ok
+r/databricks,csv,4,databricks,37000,,,r/ApacheIceberg (1000); r/AzureDataPlatforms (1000); r/Databricks_eng (2000); r/dataengineering (485000); r/Rag (82000); r/snowflake (27000),ok
+r/Clickhouse,csv,4,Clickhouse,4000,,,r/AzureSentinel (5000); r/DatabaseAdministators (6000); r/DuckDB (6000),ok
+r/ApacheIceberg,csv,4,ApacheIceberg,1000,,,r/apachespark (20000); r/Cloud (52000); r/clouddatalake (59); r/databricks (37000); r/dataengineering (485000); r/snowflake (27000),ok
+r/GTM_Engineering,csv,4,,,,,,not indexed
+r/redshift,csv,4,,,,,,not indexed
+r/Python,csv,3,Python,1500000,,,r/alphaandbetausers (52000); r/artificial (1400000); r/Brampton (58000); r/csharp (331000); r/golang (383000); r/java (410000); r/javascript (2500000); r/node (353000); r/SaaSMarketing (40000); r/webdev (3300000),ok
+r/ClaudeAI,csv,3,ClaudeAI,1300000,,,r/Agent_AI (45000); r/ChatGPTPro (623000); r/claude (212000); r/ClaudeCode (483000); r/ClaudeHomies (59000); r/coolgithubprojects (134000); r/cursor (161000); r/SideProject (892000); r/VibeCodeDevs (67000); r/vibecoding (392000),ok
+r/ChatGPTCoding,csv,3,ChatGPTCoding,409000,,,r/aiagents (127000); r/BlackboxAI_ (41000); r/ClaudeAI (1300000); r/coding (649000); r/cursor (161000); r/nocode (144000); r/PromptEngineering (428000); r/VibeCodersNest (23000); r/vibecoding (392000); r/webdev (3300000),ok
+r/LLMDevs,csv,3,LLMDevs,180000,,,r/AI_Agents (477000); r/ArtificialInteligence (2000000); r/deeplearning (252000); r/LangChain (110000); r/LargeLanguageModels (17000); r/LocalLLaMA (867000); r/LocalLLM (260000); r/Rag (82000); r/singularity (4000000),ok
+r/mlops,csv,3,mlops,41000,,,r/AgentsOfAI (134000); r/AIAgentsInAction (43000); r/artificial (1400000); r/ArtificialInteligence (2000000); r/deeplearning (252000); r/devsecops (23000); r/LargeLanguageModels (17000); r/learnmachinelearning (690000); r/MachineLearning (3100000); r/Rag (82000),ok
+r/dataanalytics,csv,3,dataanalytics,49000,,,r/biotech (259000); r/CyberSecurityJobs (69000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalyst (59000); r/DataAnalysts (976); r/developersIndia (1600000); r/jobs (2900000); r/jobsearch (143000); r/QualityAssurance (87000),ok
+r/deltalake,csv,3,DeltaLake,350,,,,ok
+r/apachespark,csv,3,apachespark,20000,,,r/AnalyticsAutomation (513); r/ApacheIceberg (1000); r/dataanalytics (49000); r/databricks (37000); r/dataengineering (485000); r/Evaluation (1000); r/nosql (5000); r/SQL (293000); r/SQLServer (68000); r/technology (20600000),ok
+r/spark,csv,3,apachespark,20000,,,r/AnalyticsAutomation (513); r/ApacheIceberg (1000); r/dataanalytics (49000); r/databricks (37000); r/dataengineering (485000); r/Evaluation (1000); r/nosql (5000); r/SQL (293000); r/SQLServer (68000); r/technology (20600000),ok
+r/cursor,csv,2,cursor,161000,,,r/AISEOInsider (10000); r/BlackboxAI_ (41000); r/ChatGPTCoding (409000); r/ChatGPTPro (623000); r/claude (212000); r/CLine (21000); r/DeepSeek (153000); r/GeminiAI (402000); r/GoogleGeminiAI (164000); r/windsurf (16000),ok
+r/AI_Agents,csv,2,AI_Agents,477000,,,r/Agent_AI (45000); r/AgentsOfAI (134000); r/aiagents (127000); r/AIAgentsInAction (43000); r/BlackboxAI_ (41000); r/ClaudeCode (483000); r/coding (649000); r/GithubCopilot (88000); r/mcp (128000); r/sre (59000),ok
+r/GithubCopilot,csv,2,GithubCopilot,88000,,,r/Anthropic (238000); r/claude (212000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/ClaudeHomies (59000); r/cursor (161000); r/GoogleGeminiAI (164000); r/perplexity_ai (207000); r/vibecoding (392000); r/windsurf (16000),ok
+r/aider,csv,2,,,,,,not indexed
+r/dataanalysis,csv,2,dataanalysis,233000,,,r/CustomerSuccess (57000); r/dataanalysiscareers (38000); r/dataanalytics (49000); r/datascience (2800000); r/DataScientist (13000); r/doggrooming (86000); r/LandscapeArchitecture (71000); r/ProductManagement (286000); r/salesforce (118000); r/UIUX (32000),ok
+r/datascience,csv,2,datascience,2800000,,,r/careeradvice (887000); r/coding (649000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalytics (49000); r/developersIndia (1600000); r/GetEmployed (704000); r/hackernews (102000); r/jobsearchhacks (568000); r/UXResearch (69000),ok
+r/BusinessIntelligence,csv,2,BusinessIntelligence,241000,,,r/aiagents (127000); r/artificial (1400000); r/Businessideas (54000); r/EntrepreneurRideAlong (739000); r/Entrepreneurs (200000); r/jira (17000); r/SaaS (841000); r/SaaSMarketing (40000); r/startup_resources (37000),ok
+r/Metabase,csv,2,,,,,,not indexed
+r/superset,csv,2,,,,,,not indexed
+r/Looker,csv,2,Looker,5000,,,r/excel (902000); r/GoogleDataStudio (47000); r/tableau (95000),ok
+r/PowerBI,csv,2,PowerBI,215000,,,r/Affiliatemarketing (294000); r/AZURE (218000); r/Backend (73000); r/BusinessIntelligence (241000); r/deeplearning (252000); r/fintech (99000); r/hubspot (25000); r/MLQuestions (116000); r/Netsuite (29000); r/PowerBIdashboards (7000),ok
+r/tableau,csv,2,tableau,95000,,,r/androiddev (297000); r/BusinessIntelligence (241000); r/coding (649000); r/dataisbeautiful (21900000); r/datavisualization (32000); r/gamedesign (306000); r/MarketingResearch (36000); r/Maya (109000); r/Notion (476000); r/tech (700000),ok
+r/GoogleDataStudio,csv,2,GoogleDataStudio,47000,,,r/askIT (3000); r/bigdata (76000); r/FloridaRealEstate (15000); r/Hacking_Tricks (68000); r/kibana (2000); r/LookerStudio (2000); r/tableau (95000),ok
+r/MySQL,csv,2,mysql,50000,,,r/Database (91000); r/DatabaseAdministators (6000); r/DuckDB (6000); r/learnSQL (72000); r/mongodb (30000); r/nosql (5000); r/PostgreSQL (90000); r/PythonLearning (126000); r/SQL (293000); r/SQLServer (68000),ok
+r/SQLServer,csv,2,SQLServer,68000,,,r/artificial (1400000); r/coding (649000); r/cybersecurity (1600000); r/dataengineering (485000); r/datasets (224000); r/mongodb (30000); r/mysql (50000); r/PostgreSQL (90000); r/SoftwareEngineering (176000); r/SQL (293000),ok
+r/MongoDB,csv,2,mongodb,30000,,,r/CopilotPro (29000); r/learnjava (197000); r/mysql (50000); r/nosql (5000); r/programming (6900000); r/realms (79000); r/SEO_Digital_Marketing (79000); r/SQL (293000); r/SQLServer (68000); r/techsupport (3500000),ok
+r/cassandra,csv,2,cassandra,3000,,,r/apachekafka (22000); r/Database (91000); r/databasedevelopment (13000); r/mongodb (30000); r/MSSQL (3000); r/mysql (50000); r/nosql (5000); r/PostgreSQL (90000); r/SQL (293000); r/SQLServer (68000),ok
+r/cockroachdb,csv,2,,,,,,not indexed
+r/Supabase,csv,2,Supabase,45000,,,r/boltnewbuilders (14000); r/coolify (2000); r/mongodb (30000); r/Netsuite (29000); r/nextjs (177000); r/Odoo (21000); r/Office365 (161000); r/PostgreSQL (90000); r/Welocalize (14000); r/Zoho (14000),ok
+r/Neon,csv,2,,,,,,not indexed
+r/datawarehouse,csv,2,datawarehouse,2000,,,,ok
+r/dataplatforms,csv,2,,,,,,not indexed
+r/Meltano,csv,2,,,,,,not indexed
+r/segment,csv,2,,,,,,not indexed
+r/rudderstack,csv,2,,,,,,not indexed
+r/MotherDuck,csv,2,,,,,,not indexed
+r/RevOps,csv,2,revops,8000,,,r/AiAutomations (88000); r/automation (241000); r/CRM (61000); r/CRMSoftware (17000); r/hubspot (25000); r/RealEstateTechnology (58000); r/SaaS (841000); r/SalesOperations (22000),ok
+r/dataengineeringjobs,csv,2,dataengineeringjobs,46000,,,r/coding (649000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataengineering (485000); r/dataengineersindia (25000); r/datavisualization (32000); r/developersIndia (1600000); r/ETL (14000); r/learnpython (1100000); r/ProductManagementJobs (7000),ok
+r/googlecloud,csv,2,googlecloud,101000,,,r/ClaudeCode (483000); r/lovable (57000); r/ProtonMail (223000); r/technology (20600000),ok
+r/Netsuite,csv,2,Netsuite,29000,,,r/Accounting (1300000); r/analytics (287000); r/BusinessIntelligence (241000); r/CFO (17000); r/ecommerce (688000); r/ERP (20000); r/FPandA (76000); r/Notion (476000); r/PowerBI (215000); r/tableau (95000),ok
+r/LocalLLaMA,csv,1,LocalLLaMA,867000,,,r/Agent_AI (45000); r/AgentsOfAI (134000); r/AI_Agents (477000); r/LLM (60000); r/LLMDevs (180000); r/LocalLLM (260000); r/mcp (128000); r/ollama (143000); r/OpenSourceAI (35000); r/Rag (82000),ok
+r/MachineLearning,csv,1,MachineLearning,3100000,,,r/Affiliatemarketing (294000); r/aiArt (692000); r/algotrading (1900000); r/artificial (1400000); r/computervision (168000); r/deeplearning (252000); r/LocalLLM (260000); r/MLQuestions (116000); r/research (70000); r/statistics (636000),ok
+r/PromptEngineering,csv,1,PromptEngineering,428000,,,r/ChatGPT (11700000); r/ChatGPT_Gemini (31000); r/ChatGPTPro (623000); r/ChatGPTPromptGenius (831000); r/ClaudeAI (1300000); r/PromptCentral (19000); r/PromptDesign (41000); r/promptingmagic (50000); r/ThinkingDeeplyAI (38000),ok
+r/Rag,csv,1,Rag,82000,,,r/devsecops (23000); r/ETL (14000); r/LangChain (111000); r/mlops (41000); r/Neo4j (6000); r/vectordatabase (13000),ok
+r/aipromptprogramming,csv,1,aipromptprogramming,240000,,,r/AIAgentsInAction (43000); r/AIAssisted (182000); r/AI_developers (6000); r/ChatGPTPro (623000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/cursor (161000); r/LLMDevs (180000); r/OpenSourceAI (35000); r/PromptEngineering (428000),ok
+r/LangChain,csv,1,LangChain,111000,,,r/Agent_AI (45000); r/AgentsOfAI (134000); r/aiagents (127000); r/AI_Agents (477000); r/AIAgentsInAction (43000); r/automation (241000); r/BlackboxAI_ (41000); r/LLMDevs (180000); r/MarketingAutomation (86000),ok
+r/LlamaIndex,csv,1,LlamaIndex,6000,,,r/AIAgentsInAction (43000); r/artificial (1400000); r/ArtificialInteligence (2000000); r/flowise (2000); r/GenAI4all (51000); r/hackernews (102000); r/Langchaindev (2000); r/LLMDevs (180000); r/OpenSourceAI (35000); r/Rag (82000),ok
+r/OpenAI,csv,1,OpenAI,2900000,,,r/artificial (1400000); r/ArtificialInteligence (2000000); r/ChatGPT (11700000); r/ChatGPTPro (623000); r/claude (212000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/LLMDevs (180000); r/Tools (1000000),ok
+r/codeium,csv,1,Codeium,16000,,,r/atera (8000); r/cursor (161000); r/DeepSeek (153000); r/windsurf (16000),ok
+r/CLineProjects,csv,1,,,,,,not indexed
+r/devtools,csv,1,,,,,,not indexed
+r/airflow,csv,1,apache_airflow,3000,,,,ok
+r/dagster,csv,1,dagster,365,,,,ok
+r/Prefect,csv,1,,,,,,not indexed
+r/kestra,csv,1,,,,,,not indexed
+r/MageAI,csv,1,,,,,,not indexed
+r/temporal,csv,1,Temporal,2000,,,,ok
+r/apachekafka,csv,1,apachekafka,22000,,,,ok
+r/apacheflink,csv,1,apacheflink,2000,,,,ok
+r/RisingWave,csv,1,,,,,,not indexed
+r/Materialize,csv,1,,,,,,not indexed
+r/ZenML,csv,1,,,,,,not indexed
+r/Kubeflow,csv,1,Kubeflow,824,,,,ok
+r/pandas,csv,1,,,,,,not indexed
+r/learnpython,csv,1,learnpython,1100000,,,r/AskLosAngeles (269000); r/China (688000); r/coding (649000); r/DataHoarder (1000000); r/golang (383000); r/loseit (4200000); r/programming (6900000); r/Python (1500000); r/Seattle (868000); r/webdev (3300000),ok
+r/PythonProjects,csv,1,,,,,,not indexed
+r/uv,csv,1,,,,,,not indexed
+r/pydantic,csv,1,,,,,,not indexed
+r/selfhosted,csv,1,selfhosted,866000,,,r/aipromptprogramming (240000); r/AI_Tools_Land (16000); r/AskVibecoders (43000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/coolgithubprojects (134000); r/mcp (128000); r/opensource (399000); r/OpenSourceAI (35000); r/VintageTees (80000),ok
+r/homelab,csv,1,homelab,1100000,,,r/Backend (73000); r/devops (521000); r/docker (324000); r/HomeLabPorn (75000); r/HomeServer (310000); r/mcp (128000); r/MCPservers (31000); r/selfhosted (866000); r/SelfHosting (37000); r/sysadmin (1300000),ok
+r/datahoarder,csv,1,DataHoarder,1000000,,,r/animation (2000000); r/Cameras (344000); r/CFB (4600000); r/conspiracy (2400000); r/davinciresolve (238000); r/editors (199000); r/lifehacks (14600000); r/newzealand (871000); r/pcmasterrace (16399999); r/technology (20600000),ok
+r/Kaggle,csv,1,kaggle,25000,,,r/computervision (168000); r/data (54000); r/dataanalysis (233000); r/datascience (2800000); r/deeplearning (252000); r/learnmachinelearning (690000); r/learnpython (1100000); r/MachineLearning (3100000); r/MLQuestions (116000); r/mongodb (30000),ok
+r/startups,csv,1,startups,2100000,,,r/AppIdeas (107000); r/cofounderhunt (67000); r/Entrepreneurs (200000); r/Femalefounders (25000); r/founder (87000); r/indianstartups (138000); r/internships (150000); r/SaaS (841000); r/startup (326000); r/startupideas (46000),ok
+r/sideproject,csv,1,,,,,,not indexed
+r/aws,csv,1,aws,399000,,,r/AskMarketing (180000); r/chessbeginners (429000); r/dataengineering (485000); r/devops (521000); r/FinOps (10000); r/learnpython (1100000); r/msp (252000); r/SaaS (841000); r/sre (59000); r/Terraform (86000),ok
+r/AZURE,csv,1,AZURE,218000,,,r/cloudcomputing (46000); r/coding (649000); r/CyberSecurityAdvice (147000); r/developer (50000); r/Intune (87000); r/LocalLLaMA (867000); r/SQLServer (68000); r/sysadmin (1300000); r/Sysadminhumor (54000),ok
+r/programming,csv,1,programming,6900000,,,r/bald (614000); r/business (2600000); r/China (688000); r/coding (649000); r/computerscience (526000); r/LocalLLM (260000); r/opensource (399000); r/PhD (294000); r/Python (1500000); r/webdev (3300000),ok
+r/devops,csv,1,devops,521000,,,r/aiagents (127000); r/Backend (73000); r/coding (649000); r/django (167000); r/Frontend (353000); r/gitlab (28000); r/IOT (59000); r/msp (252000); r/programming (6900000); r/sre (59000),ok
+r/cscareerquestions,csv,1,cscareerquestions,2400000,,,r/biotech (259000); r/careeradvice (887000); r/Communications (13000); r/dataanalysiscareers (38000); r/dataengineersindia (25000); r/developersIndia (1600000); r/FinancialCareers (1800000); r/ITCareerQuestions (576000); r/QualityAssurance (87000); r/sales (612000),ok
+r/SaaS,csv,1,SaaS,841000,,,r/buildinpublic (129000); r/Entrepreneur (5300000); r/founder (87000); r/indiehackers (200000); r/microsaas (224000); r/micro_saas (146000); r/saasbuild (62000); r/SaasDevelopers (61000); r/SaaSSolopreneurs (17000); r/SideProject (892000),ok
+r/IndieHackers,csv,1,indiehackers,200000,,,r/AppIdeas (107000); r/buildinpublic (129000); r/IndiaStartups (28000); r/microsaas (224000); r/SaaS (841000); r/SaasDevelopers (61000); r/startupideas (46000); r/Startup_Ideas (351000); r/StartUpIndia (459000); r/StartupSoloFounder (46000),ok
+r/learnmachinelearning,csv,1,learnmachinelearning,690000,,,r/AskRobotics (19000); r/cscareerquestionsEU (179000); r/dataengineering (485000); r/datascience (2800000); r/deeplearning (252000); r/kaggle (25000); r/learndatascience (61000); r/neuralnetworks (50000); r/statistics (636000); r/systems_engineering (22000),ok
+r/GoogleAppsScript,csv,1,GoogleAppsScript,19000,,,r/classactions (119000); r/GeminiAI (402000); r/GoogleGeminiAI (164000); r/googlesheets (87000); r/n8n (262000); r/n8n_ai_agents (40000); r/pipedrive (1000); r/privacy (1700000); r/PrivacyGuides (101000); r/ProtonMail (223000),ok
+r/dataisbeautiful,csv,1,dataisbeautiful,21900000,,,r/AlignmentChartFills (203000); r/DataArt (75000); r/datavisualization (32000); r/Infographics (545000); r/MapPorn (6400000); r/mapporncirclejerk (757000); r/swingtrading (185000),ok
+r/dataisugly,csv,1,,,,,,not indexed
+r/india,csv,1,india,3500000,,,r/AskIndia (916000); r/delhi (1400000); r/indiadiscussion (184000); r/indiameme (1600000); r/IndianStreetBets (581000); r/pakistan (709000); r/TeenIndia (596000); r/Tools (1000000); r/UAE (338000); r/unitedstatesofindia (574000),ok
+r/brasil,csv,1,brasil,3400000,,,r/BrasildoB (53000); r/brasilivre (238000); r/Twitter_Brasil (265000),ok
+r/Polska,csv,1,Polska,803000,,,r/artificial (1400000); r/askPoland (12000); r/brantford (18000); r/computerscience (526000); r/Markham (58000); r/networking (457000); r/poland (1200000); r/privacy (1700000); r/royalcaribbean (175000); r/Switzerland (608000),ok
+r/europe,csv,1,europe,11700000,,,r/AnythingGoesNews (181000); r/AskBrits (270000); r/autotldr (19000); r/EuropeanFederalists (36000); r/europeanunion (63000); r/FreedomofRussia (26000); r/geopolitics (796000); r/International (52000); r/politics (9300000); r/worldnews (47700000),ok
+r/de,csv,1,,,,,,not indexed
+r/dbt,csv,0,,,,,,not indexed
+r/fivetran,csv,0,Fivetran,281,,,,ok
+r/airbyte,csv,0,airbyte,29,,,,ok
+r/apachehudi,csv,0,,,,,,not indexed
+r/dataengineering2,csv,0,,,,,,not indexed
+r/MicrosoftFabric,candidate,,MicrosoftFabric,29000,,,r/AzureDataPlatforms (1000); r/dataanalysis (233000); r/dataanalyst (59000); r/databricks (37000); r/dataengineering (485000); r/MSSQL (3000); r/mysql (50000); r/snowflake (27000); r/SQLServer (68000),ok
+r/AzureDataPlatforms,candidate,,AzureDataPlatforms,1000,,,r/AZURE (218000); r/bigquery (21000); r/Cloud (52000); r/databricks (37000); r/dataengineering (485000); r/MicrosoftFabric (29000); r/mlops (41000); r/snowflake (27000); r/SQLServer (68000); r/udemyfreebies (66000),ok
+r/Databricks_eng,candidate,,Databricks_eng,2000,,,r/databricks (37000); r/dataengineering (485000),ok
+r/PySpark,candidate,,PySpark,3000,,,,ok
+r/DatabaseAdministators,candidate,,DatabaseAdministators,6000,,,r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalyst (59000); r/dataanalytics (49000); r/dataengineering (485000); r/DuckDB (6000); r/learnSQL (72000); r/nosql (5000); r/SQL (293000); r/SQLServer (68000),ok
+r/Database,candidate,,Database,91000,,,r/cassandra (3000); r/coding (649000); r/learnSQL (72000); r/mariadb (4000); r/mongodb (30000); r/mysql (50000); r/PostgreSQL (90000); r/SQL (293000); r/SQLServer (68000); r/tattoo (1000000),ok
+r/Alteryx,candidate,,Alteryx,7000,,,r/analytics (287000); r/apachespark (20000); r/Automate (158000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalyst (59000); r/dataengineering (485000); r/DataScienceMemes (6000); r/datavisualization (32000); r/udemyfreebies (66000),ok
+r/informatica,candidate,,informatica,7000,,,r/AskTechnology (78000); r/buildapcsales (1000000); r/computadores (315000); r/computerhelp (85000); r/de_EDV (234000); r/hardwarebrasil (102000); r/ITSupport (19000); r/Mercadoreddit (102000); r/pchelp (313000); r/techsupport (3500000),ok
+r/SAP,candidate,,SAP,64000,,,r/abap (9000); r/apachekafka (22000); r/atlassian (11000); r/AZURE (218000); r/Cloud (52000); r/devops (521000); r/devopsGuru (12000); r/ERP (20000); r/platformengineering (12000); r/sre (59000),ok
+r/oracle,candidate,,oracle,35000,,,r/cursor (161000); r/devops (521000); r/ERP (20000); r/FamilyMedicine (81000); r/googlecloud (101000); r/MomForAMinute (497000); r/msp (252000); r/oraclecloud (18000); r/SAP (64000); r/TeenIndia (596000),ok
+r/learnSQL,candidate,,learnSQL,72000,,,r/Backend (73000); r/dataanalysis (233000); r/DuckDB (6000); r/learnjava (197000); r/learnprogramming (4400000); r/Python (1500000); r/snowflake (27000); r/SQL (293000); r/SQLServer (68000); r/udemyfreebies (66000),ok
+r/Streamlit,candidate,,Streamlit,3000,,,,ok
+r/AzureSynapseAnalytics,candidate,,AzureSynapseAnalytics,936,,,r/AZURE (218000); r/AzureSentinel (5000); r/Cloud (52000); r/cloudcomputing (46000); r/CRM (61000); r/dataengineering (485000); r/Parseur (51); r/SAtechnews (4000); r/SQLServer (68000); r/technology (20600000),ok
+r/Observability,candidate,,Observability,7000,,,r/aiagents (127000); r/devops (521000); r/grafana (27000); r/LangChain (111000); r/Monitoring (5000); r/OpenTelemetry (5000); r/platformengineering (12000); r/platform_engineering (7000); r/PrometheusMonitoring (13000); r/sre (59000),ok
+r/grafana,candidate,,grafana,27000,,,r/CloudWatch (84); r/devops (521000); r/Docker_DevOps (8000); r/kubernetes (215000); r/Monitoring (5000); r/Observability (7000); r/PrometheusMonitoring (13000); r/sre (59000),ok
+r/dataengineersindia,candidate,,dataengineersindia,25000,,,r/Accounting (1300000); r/civilengineering (234000); r/cscareerquestionsEU (179000); r/dataengineering (485000); r/dataengineeringjobs (46000); r/developersIndia (1600000); r/developersPak (48000); r/devopsjobs (46000); r/IndiaCareers (273000); r/jobs (2900000),ok
+r/dataengineer,candidate,,dataengineer,4000,,,r/dataanalysis (233000); r/dataanalysiscareers (38000); r/DataCamp (20000); r/dataengineering (485000); r/dataengineeringjobs (46000); r/DataEngineeringPH (7000); r/dataengineersindia (25000); r/ETL (14000); r/learnSQL (72000); r/snowflake (27000),ok
+r/DataEngineeringPH,candidate,,DataEngineeringPH,7000,,,r/cscareerquestionsEU (179000); r/data (54000); r/dataanalysis (233000); r/dataanalytics (49000); r/DataCamp (20000); r/dataengineer (4000); r/dataengineering (485000); r/dataengineeringjobs (46000); r/dataengineersindia (25000); r/RemoteJobs (598000),ok
+r/datasets,candidate,,datasets,224000,,,r/artificial (1400000); r/BusinessIntelligence (241000); r/coding (649000); r/dataengineering (485000); r/datavisualization (32000); r/LanguageTechnology (67000); r/MachineLearning (3100000); r/MLQuestions (116000); r/Python (1500000); r/software (383000),ok
+r/data,candidate,,data,54000,,,r/analytics (287000); r/artificial (1400000); r/dataanalysis (233000); r/dataengineering (485000); r/datasets (224000); r/healthIT (60000); r/LanguageTechnology (67000); r/learnpython (1100000); r/MLQuestions (116000); r/Python (1500000),ok
+r/dataanalyst,candidate,,dataanalyst,59000,,,r/analytics (287000); r/Backend (73000); r/dataanalysis (233000); r/dataanalysiscareers (38000); r/dataanalytics (49000); r/datascience (2800000); r/developersIndia (1600000); r/developersPak (48000); r/FPandA (76000); r/learndatascience (61000),ok
+r/businessanalysis,candidate,,businessanalysis,120000,,,r/analytics (287000); r/businessanalyst (30000); r/dataanalysis (233000); r/dataanalytics (49000); r/dataengineering (485000); r/dataengineeringjobs (46000); r/FinancialAnalyst (12000); r/FPandA (76000); r/ITManagers (82000); r/pharmaindustry (25000),ok
+r/semanticweb,candidate,,semanticweb,10000,,,r/KnowledgeGraph (6000); r/Neo4j (6000),ok
+r/KnowledgeGraph,candidate,,KnowledgeGraph,6000,,,r/academia (111000); r/ArtificialInteligence (2000000); r/deeplearning (252000); r/LanguageTechnology (67000); r/learnmachinelearning (690000); r/machinelearningnews (158000); r/Neo4j (6000); r/neuralnetworks (50000); r/ResearchML (25000); r/semanticweb (10000),ok
+r/Ontology,candidate,,Ontology,3000,,,,ok
+r/Neo4j,candidate,,Neo4j,6000,,,r/Airtable (20000); r/bigquery (21000); r/charts (93000); r/datavisualization (32000); r/DuckDB (6000); r/KnowledgeGraph (6000); r/mongodb (30000); r/Rag (82000); r/SQL (293000); r/SQLServer (68000),ok
+r/datagovernance,candidate,,datagovernance,2000,,,,ok
+r/gtmengineering,candidate,,gtmengineering,18000,,,r/B2BSaaS (32000); r/B2BSales (5000); r/business (2600000); r/Businessowners (41000); r/CRM (61000); r/EmailOutreach (7000); r/revops (8000); r/SalesOperations (22000),ok
+r/webscraping,candidate,,webscraping,105000,,,r/coding (649000); r/django (167000); r/djangolearning (32000); r/flask (94000); r/hackernews (102000); r/mcp (128000); r/PythonProjects2 (61000); r/scraping (2000); r/scrapinghub (2000); r/scrapingtheweb (10000),ok
+r/scrapingtheweb,candidate,,scrapingtheweb,10000,,,r/Airtable (20000); r/Automate (158000); r/automation (241000); r/ExcelTips (83000); r/mcp (128000); r/MCPservers (31000); r/PythonProjects2 (61000); r/scrapinghub (2000); r/webdev (3300000); r/webscraping (105000),ok
+r/coolgithubprojects,candidate,,coolgithubprojects,134000,,,r/devsecops (23000); r/git (124000); r/github (219000); r/Neo4j (6000); r/opensource (399000); r/OpenSourceAI (35000); r/OpenSourceeAI (35000); r/Python (1500000); r/tauri (9000); r/vscode (227000),ok
+r/opensource,candidate,,opensource,399000,,,r/ClaudeAI (1300000); r/ClaudeCode (483000); r/coding (649000); r/coolgithubprojects (134000); r/github (219000); r/IMadeThis (55000); r/OpenSourceAI (35000); r/programming (6900000); r/Python (1500000); r/webdev (3300000),ok
+r/madeinpython,candidate,,madeinpython,28000,,,r/Automate (158000); r/coding (649000); r/coolgithubprojects (134000); r/DataScienceMemes (6000); r/datascienceproject (33000); r/deeplearning (252000); r/MCPservers (31000); r/PythonProjects2 (61000); r/scrapingtheweb (10000); r/softwarearchitecture (123000),ok
+r/PythonProjects2,candidate,,PythonProjects2,61000,,,r/Backend (73000); r/ClaudeCode (483000); r/coding (649000); r/coolgithubprojects (134000); r/developer (50000); r/django (167000); r/mcp (128000); r/MCPservers (31000); r/opensource (399000); r/Python (1500000),ok
+r/FastAPI,candidate,,FastAPI,34000,,,r/Airtable (20000); r/Backend (73000); r/django (167000); r/DuckDB (6000); r/flask (94000); r/madeinpython (28000); r/nextjs (177000); r/prismaorm (485); r/softwarearchitecture (123000); r/typescript (187000),ok
+r/Backend,candidate,,Backend,73000,,,r/aiengineering (14000); r/Cloud (52000); r/developersIndia (1600000); r/developersPak (48000); r/devops (521000); r/nextjs (177000); r/platformengineering (12000); r/SoftwareEngineering (176000); r/sre (59000); r/webdev (3300000),ok
+r/softwarearchitecture,candidate,,softwarearchitecture,123000,,,r/Architects (88000); r/automation (241000); r/bim (21000); r/CopilotPro (29000); r/learnmachinelearning (690000); r/MCPservers (31000); r/microservices (24000); r/OpenclawBot (4000); r/SaaS (841000),ok
+r/mcp,candidate,,mcp,128000,,,r/AgentsOfAI (134000); r/AI_Agents (477000); r/BlackboxAI_ (41000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/cursor (161000); r/LangChain (111000); r/MCPservers (31000); r/opensource (399000); r/OpenSourceAI (35000),ok
+r/modelcontextprotocol,candidate,,modelcontextprotocol,25000,,,r/aiagents (127000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/coding (649000); r/crewai (7000); r/Cybersecurity101 (76000); r/LLMDevs (180000); r/mcp (128000); r/MCPAgents (214); r/MCPservers (31000),ok
+r/MCPservers,candidate,,MCPservers,31000,,,r/Agent_AI (45000); r/AgentsOfAI (134000); r/aiagents (127000); r/AI_Agents (477000); r/ClaudeCode (483000); r/coding (649000); r/LangChain (111000); r/mcp (128000); r/softwarearchitecture (123000); r/webdev (3300000),ok
+r/ClaudeCode,candidate,,ClaudeCode,483000,,,r/Agent_AI (45000); r/AI_Agents (477000); r/Anthropic (238000); r/claude (212000); r/ClaudeAI (1300000); r/claudexplorers (68000); r/cursor (161000); r/GeminiAI (402000); r/LocalLLM (260000); r/mcp (128000),ok
+r/aiengineering,candidate,,aiengineering,14000,,,r/AskProgramming (238000); r/Backend (73000); r/cscareerquestions (2400000); r/dataanalysis (233000); r/dataengineering (485000); r/developers (61000); r/developersIndia (1600000); r/developersPak (48000); r/learnmachinelearning (690000); r/SoftwareEngineering (176000),ok
+r/aiagents,candidate,,aiagents,127000,,,r/AgentsOfAI (134000); r/AI_Agents (477000); r/ChatGPTCoding (409000); r/ClaudeAI (1300000); r/ClaudeCode (483000); r/MCPservers (31000); r/opensource (399000); r/OpenSourceAI (35000); r/SaaS (841000),ok
+r/AgentsOfAI,candidate,,AgentsOfAI,134000,,,r/Agent_AI (45000); r/agenticAI (25000); r/aiagents (127000); r/AI_Agents (477000); r/AIAgentsInAction (43000); r/AIAssisted (182000); r/BlackboxAI_ (41000); r/ClaudeCode (483000); r/mcp (128000); r/MCPservers (31000),ok
+r/llmops,candidate,,llmops,3000,,,r/aicuriosity (31000); r/ArtificialNtelligence (43000); r/Bard (153000); r/BlackboxAI_ (41000); r/ClaudeAI (1300000); r/GPT (14000); r/LLM (60000); r/mlops (41000); r/OpenAIDev (16000),ok
+r/LLM,candidate,,LLM,60000,,,r/AIAssisted (182000); r/aipromptprogramming (240000); r/Anthropic (238000); r/ArtificialInteligence (2000000); r/BlackboxAI_ (41000); r/ChatGPT (11700000); r/DeepSeek (153000); r/LLMDevs (180000); r/OpenSourceAI (35000); r/PromptEngineering (428000),ok
+r/LocalLLM,candidate,,LocalLLM,260000,,,r/aiagents (127000); r/AI_Agents (477000); r/AIAgentsInAction (43000); r/AskClaw (13000); r/deeplearning (252000); r/GithubCopilot (88000); r/LocalLLaMA (867000); r/machinelearningnews (158000); r/MCPservers (31000); r/ollama (143000),ok
+r/OpenSourceAI,candidate,,OpenSourceAI,35000,,,r/Agent_AI (45000); r/AgentsOfAI (134000); r/AI_Agents (477000); r/ClaudeAI (1300000); r/coolgithubprojects (134000); r/LLMDevs (180000); r/LocalLLaMA (867000); r/mcp (128000); r/opensource (399000); r/OpenSourceeAI (35000),ok
+r/n8n,candidate,,n8n,262000,,,r/aiagents (127000); r/AiAutomations (88000); r/Automate (158000); r/automation (241000); r/MarketingAutomation (86000); r/n8n_ai_agents (40000); r/Netsuite (29000); r/nocode (144000); r/Notion (476000); r/SmallBusinessOwners (24000),ok
+r/automation,candidate,,automation,241000,,,r/aiagents (127000); r/AiAutomations (88000); r/artificial (1400000); r/ArtificialInteligence (2000000); r/Automate (158000); r/n8n (262000); r/n8n_ai_agents (40000); r/SaaS (841000),ok
+r/salesforce,candidate,,salesforce,118000,,,r/AcademicPsychology (190000); r/Artists (128000); r/Brampton (58000); r/breastfeeding (257000); r/Christians (96000); r/civilengineering (234000); r/humanresources (244000); r/linuxquestions (410000); r/stopdrinking (732000); r/WomensHealth (206000),ok
+r/hubspot,candidate,,hubspot,25000,,,r/Affiliatemarketing (294000); r/b2bmarketing (104000); r/b2b_sales (37000); r/CRM (61000); r/GrowthHacking (162000); r/IndiaBusiness (150000); r/MarketingResearch (36000); r/SaaS (841000); r/SalesOperations (22000); r/Sales_Professionals (95000),ok
+r/GoogleAnalytics,candidate,,GoogleAnalytics,42000,,,r/Affiliatemarketing (294000); r/dataanalysis (233000); r/EcommerceWebsite (31000); r/ga4 (725); r/GoogleAnalytics4 (1000); r/growmybusiness (158000); r/MarketingAnalytics (3000); r/SaaS (841000); r/SEO_Digital_Marketing (79000),ok
+r/shopify,candidate,,shopify,385000,,,r/askSingapore (387000); r/AssassinsCreedOdyssey (208000); r/bangalore (1100000); r/binance (941000); r/cats (9500000); r/Chennai (581000); r/ecommercemarketing (49000); r/entertainment (6600000); r/restaurant (201000); r/SanJose (273000),ok
+r/stripe,candidate,,stripe,29000,,,r/ChaiApp (142000); r/Coinbase (466000); r/DistroKidHelpDesk (28000); r/FACEITcom (127000); r/GeForceNOW (167000); r/outlier_ai (91000); r/paypal (109000); r/shopify (385000); r/uber (105000),ok
+r/servicenow,candidate,,servicenow,40000,,,r/aiengineering (14000); r/Backend (73000); r/developers (61000); r/developersIndia (1600000); r/developersPak (48000); r/IndianDevelopers (15000); r/PinoyProgrammer (297000); r/salesforce (118000); r/SalesforceDeveloper (23000); r/SoftwareEngineering (176000),ok
+r/SQLOptimization,candidate,,SQLOptimization,7000,,,,ok
+r/Splunk,candidate,,Splunk,26000,,,r/atlassian (11000); r/AWS_cloud (17000); r/CIO (19000); r/Cloud (52000); r/coding (649000); r/computerforensics (92000); r/cybersecurity (1600000); r/cybersecurityUK (3000); r/pwnhub (50000); r/salesforce (118000),ok
+r/elasticsearch,candidate,,elasticsearch,21000,,,r/AZURE (218000); r/kibana (2000); r/mcp (128000); r/Monitoring (5000); r/SIEM (5000); r/Splunk (26000); r/sre (59000); r/udemyfreebies (66000),ok
+r/OpenTelemetry,candidate,,OpenTelemetry,5000,,,r/grafana (27000); r/Observability (7000); r/platformengineering (12000); r/PrometheusMonitoring (13000),ok
+r/Talend,candidate,,Talend,1000,,,,ok
+r/PowerPlatform,candidate,,PowerPlatform,13000,,,r/developers (61000); r/developersIndia (1600000); r/developersPak (48000); r/frontenddevelopment (7000); r/PinoyProgrammer (297000); r/PowerApps (53000); r/rpa (18000); r/salesforce (118000); r/servicenow (40000); r/solidity (26000),ok
+r/Dynamics365,candidate,,Dynamics365,16000,,,r/ERP (20000),ok
+r/DeltaLake,candidate,,DeltaLake,350,,,,ok
+r/dagster,candidate,,dagster,365,,,,ok
+r/GTM_Engineering,unindexed_retry,,,,,,,not indexed
+r/redshift,unindexed_retry,,,,,,,not indexed
+r/Polars,unindexed_retry,,,,,,,not indexed
+r/Teradata,unindexed_retry,,,,,,,not indexed
+r/Dremio,unindexed_retry,,,,,,,not indexed
+r/trino,unindexed_retry,,,,,,,not indexed
+r/StarRocks,unindexed_retry,,,,,,,not indexed
+r/Firebolt,unindexed_retry,,,,,,,not indexed
+r/SingleStore,unindexed_retry,,,,,,,not indexed
+r/TimescaleDB,unindexed_retry,,,,,,,not indexed
+r/questdb,unindexed_retry,,,,,,,not indexed
+r/apachedruid,unindexed_retry,,,,,,,not indexed
+r/OpenSearch,unindexed_retry,,,,,,,not indexed
+r/datamodeling,unindexed_retry,,,,,,,not indexed
+r/DataQuality,unindexed_retry,,,,,,,not indexed
+r/MasterDataManagement,unindexed_retry,,,,,,,not indexed
+r/opendata,unindexed_retry,,,,,,,not indexed
+r/Lightdash,unindexed_retry,,,,,,,not indexed
+r/plotly,unindexed_retry,,,,,,,not indexed
+r/learndataengineering,unindexed_retry,,,,,,,not indexed
+r/SSIS,unindexed_retry,,,,,,,not indexed
+r/Matillion,unindexed_retry,,,,,,,not indexed
+r/AzureDataFactory,unindexed_retry,,,,,,,not indexed

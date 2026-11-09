@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reddit Landscape Plan</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --bg: #F5F6F8; --surface: #FFFFFF; --ink: #1A222C; --ink-2: #4A5565; --ink-3: #7B8595;
+    --line: #D5DAE2; --accent: #C4521C; --code: #ECEFF3;
+    --sans: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+    --mono: "IBM Plex Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --bg: #12171E; --surface: #1A2129; --ink: #E7EBF1; --ink-2: #B3BCC9; --ink-3: #7F8A99;
+      --line: #313B47; --accent: #E8703A; --code: #222B35;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #12171E; --surface: #1A2129; --ink: #E7EBF1; --ink-2: #B3BCC9; --ink-3: #7F8A99;
+    --line: #313B47; --accent: #E8703A; --code: #222B35;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.55 var(--sans); }
+  .page { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 26px; line-height: 1.2; margin: 0; text-wrap: balance; }
+  h2 { font-size: 17px; margin: 40px 0 10px; }
+  .lede { color: var(--ink-2); margin: 10px 0 0; }
+  .meta { font-family: var(--mono); font-size: 12px; color: var(--ink-3); margin-top: 10px; }
+  code { font-family: var(--mono); font-size: 0.88em; background: var(--code); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+
+  .flow { margin-top: 28px; }
+  .step { display: grid; grid-template-columns: 30px 1fr; gap: 12px; background: var(--surface);
+          border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
+  .step.next { border-style: dashed; background: transparent; }
+  .n { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center;
+       font: 500 13px var(--mono); color: #fff; background: var(--accent); }
+  .step.next .n { background: transparent; color: var(--ink-3); border: 1px dashed var(--ink-3); }
+  .step h3 { margin: 3px 0 4px; font-size: 15.5px; }
+  .step p { margin: 0; color: var(--ink-2); font-size: 14px; }
+  .step p + p { margin-top: 6px; }
+  .arrow { height: 26px; display: flex; justify-content: center; }
+  .arrow::before { content: ""; width: 2px; background: var(--line); }
+  .arrow { position: relative; }
+  .arrow::after { content: ""; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+                  border: 6px solid transparent; border-top-color: var(--line); border-bottom: 0; }
+
+  ul { padding-left: 20px; margin: 6px 0 0; }
+  li { margin-bottom: 5px; }
+  pre { font-family: var(--mono); font-size: 12.5px; background: var(--code); padding: 12px 14px;
+        border-radius: 6px; overflow-x: auto; margin: 6px 0 0; }
+  .table-wrap { overflow-x: auto; margin-top: 8px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; background: var(--surface); }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 12px; color: var(--ink-3); font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Reddit landscape for dltHub launches: how it's built</h1>
+  <p class="lede">One script turns a list of subreddits into a table with one row per sub and a page per sub, from a free Reddit archive. This is the method, not the results.</p>
+  <div class="meta">Aman with Claude · 9 Nov 2026 · scripts/landscape/build_landscape.py</div>
+
+  <div class="flow">
+    <div class="step"><div class="n">1</div><div>
+      <h3>Pick the subreddits</h3>
+      <p><code>landscape_subs.csv</code>: Adrian's subs with fit 3–5 (his scores), plus new candidates found through GummySearch's "similar subreddits" lists and brainstorming (<code>discovery_candidates.md</code>), with fit guessed by hand at 2–5. Columns for fit and the warehouse flag.</p>
+      <p><code>our_accounts.txt</code>: dltHub's Reddit accounts, for the 30-day cooldown.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">2</div><div>
+      <h3>Fetch from the Arctic Shift archive</h3>
+      <p>Reddit blocks scripts from reading its data directly, so we read it from Arctic Shift, a free archive that keeps a copy of every post, even ones mods removed.</p>
+      <p>For each sub: its posts from the last 30 days (or its last 50 posts, going further back, if it had fewer than 50), and the comments moderators leave when they remove a post. Once: everything dltHub's accounts posted in the past year. The script waits 5 seconds between requests so it doesn't overload the free archive.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">3</div><div>
+      <h3>Save each sub's page by hand</h3>
+      <p>The archive has no weekly visitors and only old rules, and Reddit blocks scripts (and Claude's browser) from its pages. So each sub is opened in Chrome from <code>data/manual/collector.html</code>, and one click on a bookmark saves what the page shows: Reddit's weekly visitors and contributions, the description and the sub's current rules, into <code>data/manual/pages/</code>.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">4</div><div>
+      <h3>Save the raw data</h3>
+      <p><code>data/raw/&lt;date&gt;/&lt;sub&gt;.json</code>, plus <code>_our_accounts.json</code> and <code>_rules.json</code>. A rerun skips subs already saved that day.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">5</div><div>
+      <h3>Read what happened to each post</h3>
+      <p>From the archive's two reads (20 seconds and 36 hours after posting): live, approved after being held, held by AutoModerator, removed by a mod, spam-filtered, deleted by author. Only posts at least 48 hours old count.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">6</div><div>
+      <h3>Compute the numbers per sub</h3>
+      <p>Members, weekly visitors and contributions, posts and posters per week, live and mod-removed share, median score and comments, top post, our last post there and when the cooldown ends. Removal reasons come from mod comments on removed posts.</p>
+      <p>For a quiet sub (fewer than 50 posts in 30 days), the shares and medians use its last 50 posts instead, and the table marks it with <code>n=</code> if it has fewer than 50 ever. Subs with no post in 90 days are listed as not active.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step"><div class="n">7</div><div>
+      <h3>Write the markdown</h3>
+      <p><code>outcome/reddit_landscape.md</code>: one row per sub.</p>
+      <p><code>outcome/subs/&lt;sub&gt;.md</code>: rules, our posts, why posts get removed, last 50 posts, top 20 posts, and their full text.</p>
+    </div></div>
+    <div class="arrow" aria-hidden="true"></div>
+
+    <div class="step next"><div class="n">8</div><div>
+      <h3>Next</h3>
+      <p>Confirm our accounts with Adrian · check in with Adrian · LLM classification of each sub (Step 4 of the brief).</p>
+    </div></div>
+  </div>
+
+  <h2>Run it</h2>
+<pre>python scripts/landscape/build_landscape.py                 # fetch what's missing today, then write the markdown
+python scripts/landscape/build_landscape.py snowflake      # fetch only these subs
+python scripts/landscape/build_landscape.py --render-only  # rewrite the markdown from saved data</pre>
+
+  <h2>Data for Step 4 of the brief</h2>
+  <p>Step 4 has an LLM judge each subreddit on eight fields. Where the data for each comes from:</p>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Step 4 field</th><th>Have the data?</th></tr></thead>
+    <tbody>
+      <tr><td>1. Size and activity</td><td>✅ members, weekly visitors and contributions, posts and posters per week</td></tr>
+      <tr><td>2. Promo rules: quote the rule, pick a category</td><td>✅ current rules from each sub's page (some subs have none of their own)</td></tr>
+      <tr><td>3. Enforcement in practice</td><td>✅ live and removed shares, removal reasons, example posts</td></tr>
+      <tr><td>4. Audience</td><td>✅ full text of recent and top posts</td></tr>
+      <tr><td>5. Attitude toward AI</td><td>✅ same</td></tr>
+      <tr><td>6. Stack</td><td>✅ same</td></tr>
+      <tr><td>7. dltHub fit</td><td>✅ all of the above plus how our own posts did</td></tr>
+      <tr><td>8. Recommended action</td><td>✅ follows from the rest</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Known gaps</h2>
+  <ul>
+    <li>Weekly visitors and current rules are a hand-saved snapshot (9 Nov 2026). To refresh them, click through the collector page again.</li>
+    <li>Removal reasons: only visible when mods leave a public comment. Vendor posts are mostly removed silently.</li>
+    <li>Scores and comment counts are frozen 36 hours after posting.</li>
+    <li>Very large subs (r/ClaudeAI, r/ClaudeCode, r/opensource, r/mcp) are capped at 10 pages of posts, so their top posts cover fewer than 30 days. This can be done by raising the cap (<code>MAX_PAGES</code> in the script); the run just takes longer.</li>
+  </ul>
+
+  <h2>What GummySearch is</h2>
+  <p>GummySearch (gummysearch.com) is a Reddit research site that shows each subreddit's size, growth and about ten "similar subreddits": subs that share many of the same users. Starting from Adrian's best subs and following those lists outward is how the new candidates were found. The site closes on 1 Dec 2026, so a snapshot was saved on 6 Nov in <code>scripts/discovery/</code>.</p>
+
+  <h2>What Arctic Shift is</h2>
+  <p>Arctic Shift (arctic-shift.photon-reddit.com) is a free, open-source Reddit archive run by one developer, the successor to Pushshift. It saves every public post and comment seconds after it's made and reads it again about 36 hours later, which is how we see scores, removals and removal comments. It depends on Reddit's official API, which Reddit plans to end in March 2027.</p>
+</div>
+</body>
+</html>

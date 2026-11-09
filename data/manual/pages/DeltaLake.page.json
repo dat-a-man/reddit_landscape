@@ -1,0 +1,29 @@
+{
+ "version": 2,
+ "subreddit": "DeltaLake",
+ "saved_at": "2026-11-09T12:49:54.441Z",
+ "page_url": "https://www.reddit.com/r/DeltaLake/",
+ "title": "DeltaLake",
+ "weekly_visitors": null,
+ "weekly_contributions": null,
+ "attributes": [
+  "shreddit-app country=IN",
+  "reddit-header-large show-accountmanager-modal=true",
+  "shreddit-join-button unsubscribe-button-type-override=bordered",
+  "shreddit-join-button subscribe-label=Join",
+  "shreddit-join-button unsubscribe-label=Joined",
+  "shreddit-layout-event-setter country=IN",
+  "shreddit-post comment-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-ad-post comment-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-post comment-count=0",
+  "shreddit-post-overflow-menu comment-count=0",
+  "shreddit-post-overflow-menu award-count=0",
+  "shreddit-subreddit-header weekly-active-users=9"
+ ],
+ "text": "Skip to main content\nDeltaLake\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/DeltaLake\nClear search\nr/DeltaLake\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\nr/DeltaLake\nCreate Post\nJoin\nSkip to Sign up\nSkip to Right Sidebar\nFeed\nAbout\nBest\nSort by\nBest\nOpen sort options\nBest\nHot\nNew\nTop\nRising\nView\nChange post view\nCard\nCompact\nFeed\nUpvote\n3\nDownvote\n0\nGo to comments\nShare\nSetting up a Local Learning env in Docker\nu/Poissonza\n•\n20 days ago\nLocked post\nStickied post\nArchived post\nReport\nSetting up a Local Learning env in Docker\nHi All,\nI am currently trying to create an environment for me to experiment with Delta lake in a Docker container but keep running into some issues.\nI have a docker file running with Python 3.15 on Debian Bookworm and Pyspark 4.1.0. But I can't seem to get delta Table going to even save the basic table on Pyspark shell. Please can you help guide me where I am going wrong. I do want to do this initially in Pyspark shell.\nMy Dockerfile looks like the following:\nFROM python:3.15.0-bookworm AS spark-base RUN apt-get upgrade RUN apt-get update RUN mkdir test WORKDIR test RUN pip install pyspark==4.1.0 EXPOSE 4040\nI have tried to install delta-core, I have run the Pyspark start command on this page:\nhttps://delta.io/learn/getting-started/\nas well as updated the versions for pyspark 4.1.0 but still having problems only when saving a delta table but can do other formats.\nThanks for the help\nUpvote\n2\nDownvote\n0\nGo to comments\nShare\nData Lakehouse with Agentic AIs: A Guide\nu/codingdecently\n•\n1 mo. ago\nLocked post\nStickied post\nArchived post\nReport\nData Lakehouse with Agentic AIs: A Guide\nhttps://itnext.io/data-lakehouse-with-agentic-ais-a-guide-9f5f174159ef\nUpvote\n2\nDownvote\n0\nGo to comments\nShare\nCross-Catalog Sync: Iceberg on Polaris, Glue, and Unity\nu/codingdecently\n•\n1 mo. ago\nLocked post\nStickied post\nArchived post\nReport\nCross-Catalog Sync: Iceberg on Polaris, Glue, and Unity\nhttps://lakeops.dev/blog/cross-catalog-sync-polaris-glue-unity\nCommunity Info Section\nDeltaLake\nJoin us to talk about how to bring reliability to your data lakes with ACID transactions with Delta Lake. Learn more on delta.io.\nShow more\nWeekly visitors\nCreated Aug 24, 2020\n6 years ago\nPublic\nAnyone can view, post, and comment to this community\n9\n0\nHome\nPopular\nNews\nExplore\nBest of Reddit\nBest of Reddit in Portuguese\nBest of Reddit in German\nReddit Rules\nPrivacy Policy\nUser Agreement\nAccessibility\nReddit, Inc. © 2026. All rights reserved.\nJoin the most real place on the internet\nContinue with Apple\nContinue with Phone Number\nContinue with Email\nBy continuing, you agree to our\nUser Agreement\nand acknowledge that you understand the\nPrivacy Policy\n."
+}
